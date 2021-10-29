@@ -1,8 +1,8 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Open Data Scotland
+greeting: Welcome to Open Data Scotland
+description: A crowdsourced open data portal, aggregating open datasets across Scotland.
 baseurl: /jkan
-logo: /img/jkan.png
+logo: /img/ods_logo.png
 
 # Site theme
 jkan_theme: Default
@@ -67,8 +67,8 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: false
-  username: "@"
+  enabled: true
+  username: "@opendata_sco"
 
 # Open Graph
 opengraph:
