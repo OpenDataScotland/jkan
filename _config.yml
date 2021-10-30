@@ -8,8 +8,8 @@ logo: /img/ods_logo.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: 866fbab7e44f7551e770
+gatekeeper_host: https://ods-jkan.herokuapp.com/
 
 # Dataset schema
 schema: default
