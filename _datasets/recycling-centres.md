@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Recycling Centres
+title: Aberdeen - Recycling Centres
 organization: Aberdeen City Council
 notes: >-
   Point dataset with the locations of Recycling Centre’s in Aberdeen City
