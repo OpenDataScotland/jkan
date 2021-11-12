@@ -1,7 +1,7 @@
 title: Open Data Scotland
 greeting: Welcome to Open Data Scotland
 description: A crowdsourced open data portal, aggregating open datasets across Scotland.
-baseurl: /jkan
+baseurl: ""
 logo: /img/ods_logo.png
 
 # Site theme
