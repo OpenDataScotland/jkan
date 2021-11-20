@@ -15,6 +15,7 @@ layout: default
     {% endif %}
       <h1>
         {{ page.title }}
+        <small style="margin-left: 0.5rem">{{ page.type.title }}</small>
         <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
       </h1>
       <p>{{ page.description }}</p>
