@@ -1,5 +1,6 @@
 <div class="form-group">
   <label for="{{ include.field_name }}[]">{{ include.field.label }}</label>
+  <option value="">{{ include.field.placeholder | default: "Select..." }}</option>
   <select class="form-control" id="{{ include.field_name }}[]" name="{{ include.field_name }}[]" style="width: 100%">
     {% for org_type in site.data.org_types %}
       <option{% if include.value == org_type.title or include.value contains org_type.title %} selected="selected"{% endif %}>{{ org_type.title }}</option>
