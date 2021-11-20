@@ -1,0 +1,11 @@
+<tr>
+  <th>{{ include.field.label }}</th>
+  <td>
+    {% if include.value.size %}
+      {% for org_type in include.value %}
+        <a href="{{ site.baseurl }}/datasets/?org_type={{ org_type | slugify }}">{{ org_type }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% else %}
+      <a href="{{ site.baseurl }}/datasets/?org_type={{ include.value | slugify }}">{{ include.value }}</a>
+    {% endif %}
+  </td>

@@ -57,6 +57,11 @@ organization_fields:
     label: Description
   - field_name: logo
     label: Logo
+  - field_name: type
+    label: Type
+    form_template: form/org_type.html
+    display_template: display/org_type.html
+    datajson: org_type
 
 category_fields:
   - field_name: name
@@ -68,3 +73,9 @@ category_fields:
   - field_name: featured
     label: Featured on Homepage
     form_template: form/checkbox.html
+
+organization_type_fields:
+  - field_name: title
+    label: Title
+  - field_name: description
+    label: Description
