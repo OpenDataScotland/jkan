@@ -62,6 +62,16 @@ organization_fields:
     form_template: form/org_type.html
     display_template: display/org_type.html
     datajson: org_type
+  - field_name: portal_url
+    label: Portal URL
+  - field_name: org_url
+    label: Organization URL
+  - field_name: twitter_handle
+    label: Twitter handle
+  - field_name: gss_code
+    label: GSS code
+  - field_name: wikidata_qid
+    label: Wikidata QID
 
 category_fields:
   - field_name: name
