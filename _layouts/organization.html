@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include breadcrumbs.html parent="Organizations" %}
-
+{% assign org_type = page.type | first %}
 <div data-component="view-switcher">
   <div class="row" data-hook="view" data-view="display">
     {% if page.logo and page.logo != empty %}
@@ -15,7 +15,7 @@ layout: default
     {% endif %}
       <h1>
         {{ page.title }}
-        <small style="margin-left: 0.5rem">{{ page.type.title }}</small>
+        <small style="margin-left: 0.5rem">{{ org_type }}</small>
         <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
       </h1>
       <p>{{ page.description }}</p>
