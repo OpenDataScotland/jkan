@@ -10,7 +10,7 @@ permalink: /organizations/
 
 {% for organization in site.organizations %}
 {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
-{{organization | inspect}}
+{% assign org_type = organization.type | first %}
 <div class="media">
   <div class="media-left">
     {% if organization.logo and organization.logo != empty %}
@@ -22,7 +22,7 @@ permalink: /organizations/
   <div class="media-body">
     <h4 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title
         }}</a>
-      <small style="margin-left: 0.5rem">{{ organization.type.title }}</small>
+      <small style="margin-left: 0.5rem">{{ org_type }}</small>
     </h4>
     <p>{{ organization.description }}</p>
     <p><a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }}
