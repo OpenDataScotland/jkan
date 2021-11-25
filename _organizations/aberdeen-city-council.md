@@ -6,4 +6,9 @@ logo: >-
   https://data.aberdeencity.gov.uk/uploads/group/2020-02-25-103744.414211ACCCrestBlue-300dpi-small.jpg
 type:
   - Scottish Local Authority
+portal_url: ''
+org_url: ''
+twitter_handle: aberdeencc
+gss_code: ''
+wikidata_qid: ''
 ---
