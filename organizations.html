@@ -10,7 +10,7 @@ permalink: /organizations/
 
 {% for organization in site.organizations %}
 {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
-<!--{{organization | jsonify}}-->
+{{organization | inspect}}
 <div class="media">
   <div class="media-left">
     {% if organization.logo and organization.logo != empty %}
