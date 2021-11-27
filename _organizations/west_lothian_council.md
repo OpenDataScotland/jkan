@@ -2,7 +2,7 @@
 schema: default
 title: West Lothian Council
 description: Local authority for the West Lothian Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/6/67/West_Lothian_Council.svg'
 type:
 - Local authority
 portal_url: ''

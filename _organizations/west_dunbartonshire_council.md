@@ -2,7 +2,7 @@
 schema: default
 title: West Dunbartonshire Council
 description: Local authority for the West Dunbartonshire Council area 
-logo: ''
+logo: 'https://en.wikipedia.org/wiki/File:West_Dunbartonshire_Council.svg'
 type:
 - Local authority
 portal_url: ''
