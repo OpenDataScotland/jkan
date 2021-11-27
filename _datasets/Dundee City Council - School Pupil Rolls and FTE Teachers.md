@@ -4,10 +4,10 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Data includes the number of students on school rolls, and number of full time
-  equivalent (FTE) teachers as at September of the given year. Filtered form the [national
-  dataset](http://www.gov.scot/Topics/Statistics/Browse/School-Education/Datasets)
-  to include schools within Dundee City only.
+notes: <p>Data includes the number of students on school rolls, and number of full
+  time equivalent (FTE) teachers as at September of the given year. Filtered form
+  the <a href="http://www.gov.scot/Topics/Statistics/Browse/School-Education/Datasets">national
+  dataset</a> to include schools within Dundee City only.</p>
 organization: Dundee City Council
 resources:
 - format: html

@@ -8,7 +8,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus road network prioritised into three categories for winter maintenance.
+notes: <p>Angus road network prioritised into three categories for winter maintenance.</p>
 organization: Angus Council
 resources:
 - format: html

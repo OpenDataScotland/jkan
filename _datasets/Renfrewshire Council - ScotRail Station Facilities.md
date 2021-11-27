@@ -6,8 +6,9 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "Extract of data taken from the\_Disabled Person Protection Policy. Data details\
-  \ the access for wheelchairs or disabled people when using rails stations.\_"
+notes: "<p>Extract of data taken from the\_Disabled Person Protection Policy. Data\
+  \ details the access for wheelchairs or disabled people when using rails stations.\_\
+  </p>"
 organization: Renfrewshire Council
 resources:
 - format: html

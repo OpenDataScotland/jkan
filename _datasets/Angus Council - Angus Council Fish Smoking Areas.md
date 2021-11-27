@@ -8,7 +8,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Fish Smoking Area in Arbroath for the production of the Arbroath Smokie
+notes: <p>Fish Smoking Area in Arbroath for the production of the Arbroath Smokie</p>
 organization: Angus Council
 resources:
 - format: html

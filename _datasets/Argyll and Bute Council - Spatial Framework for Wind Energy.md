@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: 'Spatial Framework for Wind Turbines over 50 metres: Supplementary Guidance
-  to Local Development Plan 2015. Adopted December 2016'
+notes: '<p>Spatial Framework for Wind Turbines over 50 metres: Supplementary Guidance
+  to Local Development Plan 2015. Adopted December 2016</p>'
 organization: Argyll and Bute Council
 resources:
 - format: html

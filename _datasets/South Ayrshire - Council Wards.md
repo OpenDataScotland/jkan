@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Polygons depicting South Ayrshire Council Electoral Wards
+notes: <p>Polygons depicting South Ayrshire Council Electoral Wards</p>
 organization: South Ayrshire
 resources:
 - format: html

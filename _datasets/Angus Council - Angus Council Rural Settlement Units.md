@@ -7,7 +7,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus Council Local Development Plan Rural Settlement Units
+notes: <p>Angus Council Local Development Plan Rural Settlement Units</p>
 organization: Angus Council
 resources:
 - format: html

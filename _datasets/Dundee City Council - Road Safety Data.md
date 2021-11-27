@@ -4,13 +4,15 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "These files provide detailed road safety data about the circumstances of personal\
-  \ injury road accidents in Dundee City. The data relates only to personal injury\
-  \ accidents on public roads in Dundee City that are reported to the police and documented\
-  \ using the STATS19 accident reporting form. \n\nThese datasets pertain only to\
-  \ Dundee City. STATS19 data for the whole of Great Britain is released under an\
-  \ Open Government License by the Department for Transport and can be found on the\
-  \ [UK government data portal](https://data.gov.uk/dataset/road-accidents-safety-data)."
+notes: '<p>These files provide detailed road safety data about the circumstances of
+  personal injury road accidents in Dundee City. The data relates only to personal
+  injury accidents on public roads in Dundee City that are reported to the police
+  and documented using the STATS19 accident reporting form. </p>
+
+  <p>These datasets pertain only to Dundee City. STATS19 data for the whole of Great
+  Britain is released under an Open Government License by the Department for Transport
+  and can be found on the <a href="https://data.gov.uk/dataset/road-accidents-safety-data">UK
+  government data portal</a>.</p>'
 organization: Dundee City Council
 resources:
 - format: html

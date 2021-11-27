@@ -7,8 +7,8 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus Council publishes all contract notices on the Public Contracts Scotland
-  website.
+notes: <p>Angus Council publishes all contract notices on the Public Contracts Scotland
+  website.</p>
 organization: Angus Council
 resources:
 - format: html

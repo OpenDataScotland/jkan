@@ -4,25 +4,28 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**This dataset grouping details the output from transport monitoring within\
-  \ Stirling.**     \n\n**Outputs from the monitors feed into the Local Transport\
-  \ Strategy (LTS) which can be accessed via Stirling Council\u2019s [website](https://www.stirling.gov.uk/roads-transport-streets/environment-friendly-transport/local-transport-strategy-documents/).**\n\
-  \n**Journey times\u2019 data are gathered using Bluetooth sensors which detect Bluetooth\
-  \ devices travelling on monitored routes.**  \n\n**The devices that are used are\
-  \ encrypted, and anonymise any data collected. No vehicles can be traced.** \n\n\
-  **Journey times are calculated when one device is identified at two locations, this\
-  \ is referred to as a Bluetooth match.**\n\n**The collection of journey times\u2019\
-  \ data can be effected by different activities and conditions.**\n\n**\u2022\tThere\
-  \ must be a minimum of five Bluetooth matches before the journey time can be generated**\n\
-  \ \n**\u2022\tRoad closures will skew outputs as vehicles will be using alternative\
-  \ routes** \n\n**\u2022\tSensors can be moved to different sites therefore results\
-  \ will be zero until the locations are updated **\n\n**\u2022\tActivity of the sensors\
-  \ can impact results. Normally the Bluetooth sensors are active between 7am and\
-  \ 7pm. However, if they receive up to two weeks of insufficient sunlight there can\
-  \ be unprecedented periods of inactivity**\n\n**[Traffic Scotland](https://trafficscotland.org/)\
-  \ can provide updates on any road closures and the [Scottish Roadworks Commissioner](https://www.roadworksscotland.org/)\
-  \ can give further details on any planned roadworks throughout the country.**\n\n\
-  \n\n\n\n"
+notes: "<p><strong>This dataset grouping details the output from transport monitoring\
+  \ within Stirling.</strong>     </p>\n<p><strong>Outputs from the monitors feed\
+  \ into the Local Transport Strategy (LTS) which can be accessed via Stirling Council\u2019\
+  s <a href=\"https://www.stirling.gov.uk/roads-transport-streets/environment-friendly-transport/local-transport-strategy-documents/\"\
+  >website</a>.</strong></p>\n<p><strong>Journey times\u2019 data are gathered using\
+  \ Bluetooth sensors which detect Bluetooth devices travelling on monitored routes.</strong>\
+  \  </p>\n<p><strong>The devices that are used are encrypted, and anonymise any data\
+  \ collected. No vehicles can be traced.</strong> </p>\n<p><strong>Journey times\
+  \ are calculated when one device is identified at two locations, this is referred\
+  \ to as a Bluetooth match.</strong></p>\n<p><strong>The collection of journey times\u2019\
+  \ data can be effected by different activities and conditions.</strong></p>\n<p><strong>\u2022\
+  \ There must be a minimum of five Bluetooth matches before the journey time can\
+  \ be generated</strong></p>\n<p><strong>\u2022 Road closures will skew outputs as\
+  \ vehicles will be using alternative routes</strong> </p>\n<p><strong>\u2022 Sensors\
+  \ can be moved to different sites therefore results will be zero until the locations\
+  \ are updated </strong></p>\n<p><strong>\u2022 Activity of the sensors can impact\
+  \ results. Normally the Bluetooth sensors are active between 7am and 7pm. However,\
+  \ if they receive up to two weeks of insufficient sunlight there can be unprecedented\
+  \ periods of inactivity</strong></p>\n<p><strong><a href=\"https://trafficscotland.org/\"\
+  >Traffic Scotland</a> can provide updates on any road closures and the <a href=\"\
+  https://www.roadworksscotland.org/\">Scottish Roadworks Commissioner</a> can give\
+  \ further details on any planned roadworks throughout the country.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html

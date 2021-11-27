@@ -2,7 +2,7 @@
 schema: default
 title: Glasgow City Council
 description: Local authority for the Glasgow City Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/4/44/Glasgow_City_Council_logo.svg'
 type:
 - Local authority
 portal_url: ''

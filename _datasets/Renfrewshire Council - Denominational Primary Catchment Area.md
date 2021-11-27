@@ -10,7 +10,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Education
+notes: <p>Education</p>
 organization: Renfrewshire Council
 resources:
 - format: html

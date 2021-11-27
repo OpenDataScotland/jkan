@@ -7,7 +7,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "A layer showing the location of large scale indoor venues in Paisley.\_"
+notes: "<p>A layer showing the location of large scale indoor venues in Paisley.\_\
+  </p>"
 organization: Renfrewshire Council
 resources:
 - format: html

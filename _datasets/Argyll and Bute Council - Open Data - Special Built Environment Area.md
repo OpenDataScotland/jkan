@@ -7,10 +7,10 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: "Areas which do not have the presence, continuity or quality of \u2018conservation\
+notes: "<p>Areas which do not have the presence, continuity or quality of \u2018conservation\
   \ areas\u2019 but, which exhibit special built and land form characteristics which\
   \ should be safeguarded and promoted when considering development potential and\
-  \ proposals."
+  \ proposals.</p>"
 organization: Argyll and Bute Council
 resources:
 - format: html

@@ -8,10 +8,10 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: "A site proposed in the Argyll and Bute adopted Local Development Plan 2015\_\
+notes: "<p>A site proposed in the Argyll and Bute adopted Local Development Plan 2015\_\
   \ for specified development purposes which can be expected to be commenced or delivered\
   \ within the plan-period without having to overcome significant obstacles to the\
-  \ development"
+  \ development</p>"
 organization: Argyll and Bute Council
 resources:
 - format: html

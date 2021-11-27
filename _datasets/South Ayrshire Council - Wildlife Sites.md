@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Areas depicting wildlife sites South Ayrshire
+notes: <p>Areas depicting wildlife sites South Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

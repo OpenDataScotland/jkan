@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Performance data for the Dundee City Open Data Portal (data.dundeecity.gov.uk).
+notes: <p>Performance data for the Dundee City Open Data Portal (data.dundeecity.gov.uk).</p>
 organization: Dundee City Council
 resources:
 - format: html

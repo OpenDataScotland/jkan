@@ -4,12 +4,14 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Catchment areas of all mainstream schools within the Dundee City Council administrative\
-  \ boundary. Catchments are available for Primary and Secondary, Denominational and\
-  \ Nondenominational schools. Catchment areas are used to help place children resident\
-  \ in that area into their catchment school. \n\nChildren are allocated Priority\
-  \ 1 status for their catchment school. Other children not resident in that catchment\
-  \ area are required to make a placing request for entry into that school."
+notes: '<p>Catchment areas of all mainstream schools within the Dundee City Council
+  administrative boundary. Catchments are available for Primary and Secondary, Denominational
+  and Nondenominational schools. Catchment areas are used to help place children resident
+  in that area into their catchment school. </p>
+
+  <p>Children are allocated Priority 1 status for their catchment school. Other children
+  not resident in that catchment area are required to make a placing request for entry
+  into that school.</p>'
 organization: Dundee City Council
 resources:
 - format: html

@@ -6,32 +6,64 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Aberdeen City Council
 maintainer_email: someone@example.com
-notes: "In Scottish parliamentary elections voters use the **first past the post system**\
-  \ to elect constituency Members of the Scottish Parliament (MSPs).  Aberdeen city\
-  \ has three constituencies: \n\n* **Aberdeen Donside**\n* **Aberdeen Central**\n\
-  * **Aberdeen South and North Kincardine**\n\nAt the same time voters also elect\
-  \ seven regional MSPs using the additional member system of **proportional representation**.\
-  \ This system uses **regional lists** which include candidates selected by political\
-  \ parties and independent candidates.  Aberdeen is in the **North East Scotland\
-  \ region**.\n_______________________________________________________\n\nThe **Election\
-  \ Results - Scottish Parliament** dataset is made of the following text files in\
-  \ CSV format: \n\n* **Scottish Parliament 2016 - Constituency - Aberdeen Donside**\
-  \ (candidate name, party, number of votes received, % share of the vote)\n* **Scottish\
-  \ Parliament 2016 - Constituency - Aberdeen Central** (candidate name, party, number\
-  \ of votes received, % share of the vote)\n* **Scottish Parliament 2016 - Constituency\
-  \ - Aberdeen South and North Kincardine** (candidate name, party, number of votes\
-  \ received, % share of the vote)\n* **Scottish Parliament 2016 - North East Scotland\
-  \ Region** (number of votes received and percentage vote share for each party on\
-  \ the North East Scotland region list)\n* **Scottish Parliament 2016 - NE List -\
-  \ Results** (names and parties of the 7 elected MSPs)\n* **Scottish Parliament Election\
-  \ 2016 - Total Valid Vote** (total number of valid votes cast for each constituency/list)\n\
-  * **Scottish Parliament 2016 - NE List - Aberdeen Donside** (constituency list results:\
-  \ party name and description, number of votes received, percentage share of vote)\n\
-  * **Scottish Parliament 2016 - NE List - Aberdeen Central** (constituency list results:\
-  \ party name and description, number of votes received, percentage share of vote)\n\
-  * **Scottish Parliament 2016 - NE List - Aberdeen South and North Kincardine** (constituency\
-  \ list results: party name and description, number of votes received, percentage\
-  \ share of vote)"
+notes: '<p>In Scottish parliamentary elections voters use the <strong>first past the
+  post system</strong> to elect constituency Members of the Scottish Parliament (MSPs).  Aberdeen
+  city has three constituencies: </p>
+
+  <ul>
+
+  <li><strong>Aberdeen Donside</strong></li>
+
+  <li><strong>Aberdeen Central</strong></li>
+
+  <li><strong>Aberdeen South and North Kincardine</strong></li>
+
+  </ul>
+
+  <p>At the same time voters also elect seven regional MSPs using the additional member
+  system of <strong>proportional representation</strong>. This system uses <strong>regional
+  lists</strong> which include candidates selected by political parties and independent
+  candidates.  Aberdeen is in the <strong>North East Scotland region</strong>.</p>
+
+  <hr />
+
+  <p>The <strong>Election Results - Scottish Parliament</strong> dataset is made of
+  the following text files in CSV format: </p>
+
+  <ul>
+
+  <li><strong>Scottish Parliament 2016 - Constituency - Aberdeen Donside</strong>
+  (candidate name, party, number of votes received, % share of the vote)</li>
+
+  <li><strong>Scottish Parliament 2016 - Constituency - Aberdeen Central</strong>
+  (candidate name, party, number of votes received, % share of the vote)</li>
+
+  <li><strong>Scottish Parliament 2016 - Constituency - Aberdeen South and North Kincardine</strong>
+  (candidate name, party, number of votes received, % share of the vote)</li>
+
+  <li><strong>Scottish Parliament 2016 - North East Scotland Region</strong> (number
+  of votes received and percentage vote share for each party on the North East Scotland
+  region list)</li>
+
+  <li><strong>Scottish Parliament 2016 - NE List - Results</strong> (names and parties
+  of the 7 elected MSPs)</li>
+
+  <li><strong>Scottish Parliament Election 2016 - Total Valid Vote</strong> (total
+  number of valid votes cast for each constituency/list)</li>
+
+  <li><strong>Scottish Parliament 2016 - NE List - Aberdeen Donside</strong> (constituency
+  list results: party name and description, number of votes received, percentage share
+  of vote)</li>
+
+  <li><strong>Scottish Parliament 2016 - NE List - Aberdeen Central</strong> (constituency
+  list results: party name and description, number of votes received, percentage share
+  of vote)</li>
+
+  <li><strong>Scottish Parliament 2016 - NE List - Aberdeen South and North Kincardine</strong>
+  (constituency list results: party name and description, number of votes received,
+  percentage share of vote)</li>
+
+  </ul>'
 organization: Aberdeen City Council
 resources:
 - format: html

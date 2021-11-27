@@ -4,10 +4,10 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Dundee City Council are dedicated to publishing council owned data under an
-  Open Government License by default. The open data publication plan outlines data
+notes: <p>Dundee City Council are dedicated to publishing council owned data under
+  an Open Government License by default. The open data publication plan outlines data
   sets scheduled to be released in the near future. This is an iterative document
-  and is subject to change.
+  and is subject to change.</p>
 organization: Dundee City Council
 resources:
 - format: html

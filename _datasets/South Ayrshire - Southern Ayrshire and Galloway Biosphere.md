@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Boundary for the Southern Ayrshire and Galloway Biosphere
+notes: <p>Boundary for the Southern Ayrshire and Galloway Biosphere</p>
 organization: South Ayrshire
 resources:
 - format: html

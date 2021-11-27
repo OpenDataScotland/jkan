@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "Estimated population by single year of age and electoral ward,\_ mid-2017"
+notes: "<p>Estimated population by single year of age and electoral ward,\_ mid-2017</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

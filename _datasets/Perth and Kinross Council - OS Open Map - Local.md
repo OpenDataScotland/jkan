@@ -13,11 +13,11 @@ category:
 license: uk-ogl
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: The most detailed open data mapping product available, providing a backdrop
+notes: <p>The most detailed open data mapping product available, providing a backdrop
   for integrating and visualising analytical datasets.  The product provides an enhanced
   level of detail for buildings - including the specific identification of functional
   sites such as hospitals and schools, and an extensive set of cartographic names
-  optimised for digital styling and presentation.
+  optimised for digital styling and presentation.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

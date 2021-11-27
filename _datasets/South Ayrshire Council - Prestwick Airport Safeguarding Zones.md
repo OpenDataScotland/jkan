@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Safeguarding zones for developments around Prestwick Airport
+notes: <p>Safeguarding zones for developments around Prestwick Airport</p>
 organization: South Ayrshire Council
 resources:
 - format: html

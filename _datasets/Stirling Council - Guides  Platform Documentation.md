@@ -4,11 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: '**The resources within this area provide users with information and guides
-  on various functions and features of this data publishing platform.**
-
-
-  '
+notes: <p><strong>The resources within this area provide users with information and
+  guides on various functions and features of this data publishing platform.</strong></p>
 organization: Stirling Council
 resources:
 - format: html

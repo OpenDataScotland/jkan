@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "Map showing location of heritage buildings and monuments in Renfrewshire with\
-  \ links to detailed descriptions on\_https://paisley.is"
+notes: "<p>Map showing location of heritage buildings and monuments in Renfrewshire\
+  \ with links to detailed descriptions on\_https://paisley.is</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

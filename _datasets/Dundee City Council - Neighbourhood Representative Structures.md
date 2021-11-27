@@ -4,14 +4,17 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Neighbourhood Representative Structures are supported and recognised by Dundee\
-  \ City Council in a similar way to Community Councils, and both have a right to\
-  \ consultation on matters relating to their neighbourhood. This dataset shows the\
-  \ active neighbourhood representation that the Council consults with across the\
-  \ City.\n\nFor Community Council boundaries only see the related Community Council\
-  \ Wards dataset. \n\nBackground on the formation and recognition of Neighbourhood\
-  \ Representative Structures is available in the Neighbourhood Resource and Development\
-  \ Committee report number 752-2002."
+notes: '<p>Neighbourhood Representative Structures are supported and recognised by
+  Dundee City Council in a similar way to Community Councils, and both have a right
+  to consultation on matters relating to their neighbourhood. This dataset shows the
+  active neighbourhood representation that the Council consults with across the City.</p>
+
+  <p>For Community Council boundaries only see the related Community Council Wards
+  dataset. </p>
+
+  <p>Background on the formation and recognition of Neighbourhood Representative Structures
+  is available in the Neighbourhood Resource and Development Committee report number
+  752-2002.</p>'
 organization: Dundee City Council
 resources:
 - format: html

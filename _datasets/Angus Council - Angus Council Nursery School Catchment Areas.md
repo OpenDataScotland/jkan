@@ -8,7 +8,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Nursery school catchment areas (delineated) in Angus.
+notes: <p>Nursery school catchment areas (delineated) in Angus.</p>
 organization: Angus Council
 resources:
 - format: html

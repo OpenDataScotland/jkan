@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Dataset listing Big Lottery funded projects in Renfrewshire in 2018.
+notes: <p>Dataset listing Big Lottery funded projects in Renfrewshire in 2018.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

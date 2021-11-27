@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "Results of the\_Referendum on the UK's membership of the EU, 23 June 2016."
+notes: "<p>Results of the\_Referendum on the UK's membership of the EU, 23 June 2016.</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

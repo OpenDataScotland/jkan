@@ -4,17 +4,16 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: 'Awards and recipients of the Common Good Fund. The Common Good Fund is managed
-  by Dundee City Council on behalf of Dundee communities to provide funding to a wide
-  range of activities that are beneficial to the interests of the inhabitants (including
-  individuals or groups of people) of the former Royal Burgh. Applications are open
-  to constituted groups, local community groups, third sector, public sector and private
-  sector bodies.
+notes: '<p>Awards and recipients of the Common Good Fund. The Common Good Fund is
+  managed by Dundee City Council on behalf of Dundee communities to provide funding
+  to a wide range of activities that are beneficial to the interests of the inhabitants
+  (including individuals or groups of people) of the former Royal Burgh. Applications
+  are open to constituted groups, local community groups, third sector, public sector
+  and private sector bodies.</p>
 
-
-  Using the 360Giving data standard, our awarded grants are available in CSV format
+  <p>Using the 360Giving data standard, our awarded grants are available in CSV format
   here. Other organisations using the standard and their associated data can be found
-  on the [360Giving](http://www.threesixtygiving.org/) website.'
+  on the <a href="http://www.threesixtygiving.org/">360Giving</a> website.</p>'
 organization: Dundee City Council
 resources:
 - format: html

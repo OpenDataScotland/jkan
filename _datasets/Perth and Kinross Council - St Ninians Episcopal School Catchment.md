@@ -4,9 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'St Ninians Episcopal School Catchment Boundary (Whole of PKC)
-
-  '
+notes: <p>St Ninians Episcopal School Catchment Boundary (Whole of PKC)</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

@@ -7,7 +7,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Town Centre boundaries for the Angus Council Local Development Plan.
+notes: <p>Town Centre boundaries for the Angus Council Local Development Plan.</p>
 organization: Angus Council
 resources:
 - format: html

@@ -4,20 +4,22 @@ category:
 license: uk-ogl
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: 'The NaPTAN database contains all public transport access nodes in Dundee,
-  this includes;
+notes: '<p>The NaPTAN database contains all public transport access nodes in Dundee,
+  this includes;</p>
 
+  <ul>
 
-  * Bus Stops
+  <li>Bus Stops</li>
 
-  * Train Stations
+  <li>Train Stations</li>
 
-  * Airports
+  <li>Airports</li>
 
+  </ul>
 
-  These links will take you to the latest download of the Dundee City Council data
+  <p>These links will take you to the latest download of the Dundee City Council data
   from the UK dataset.  If you are interested in a national copy of the data this
-  is available from [data.gov.uk](https://data.gov.uk/dataset/naptan).'
+  is available from <a href="https://data.gov.uk/dataset/naptan">data.gov.uk</a>.</p>'
 organization: Dundee City Council
 resources:
 - format: html

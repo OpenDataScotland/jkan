@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Special areas of conservation in Ayrshire
+notes: <p>Special areas of conservation in Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

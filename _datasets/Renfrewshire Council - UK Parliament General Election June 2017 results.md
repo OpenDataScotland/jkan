@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: UK Parliament General Election 8 June 2017 results for Paisley and Renfrewshire
-  North and Paisley and Renfrewshire South.
+notes: <p>UK Parliament General Election 8 June 2017 results for Paisley and Renfrewshire
+  North and Paisley and Renfrewshire South.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

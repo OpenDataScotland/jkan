@@ -5,9 +5,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Collated statistics related to the attendance at English language (ESOL) and
-  adult literacy programmes held at the Learning Curve, based at the AK Bell Library,
-  organised by the Perth and Kinross Adult Literacy and Numeracy Partnership.
+notes: <p>Collated statistics related to the attendance at English language (ESOL)
+  and adult literacy programmes held at the Learning Curve, based at the AK Bell Library,
+  organised by the Perth and Kinross Adult Literacy and Numeracy Partnership.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

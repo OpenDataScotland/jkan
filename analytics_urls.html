@@ -40,86 +40,172 @@ permalink: /analytics/urls/
     <!-- End of mathjax configuration --></head>
 
 <body>
-    <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-        <div class="text_cell_render border-box-sizing rendered_html">
-        <p><a id='urls'></a></p>
-        <h2 id="Check-URL-statuses">Check URL statuses<a class="anchor-link" href="#Check-URL-statuses">&#182;</a></h2><p>Checks to see if our urls are active or if the file for some reason has been removed.</p>
-        
-        </div>
-        </div>
-        </div>
-        <div class="cell border-box-sizing code_cell rendered">
-        
-        </div>
-        <div class="cell border-box-sizing code_cell rendered">
-        
-        <div class="output_wrapper">
-        <div class="output">
-        
-        <div class="output_area">
-        
-        <div class="output_subarea output_stream output_stdout output_text">
-        <pre>url status check skipped.
-        </pre>
-        </div>
-        </div>
-        
-        </div>
-        </div>
-        
-        </div>
-        <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-        <div class="text_cell_render border-box-sizing rendered_html">
-        <h2 id="URL-statuses-by-Council">URL statuses by Council<a class="anchor-link" href="#URL-statuses-by-Council">&#182;</a></h2><p>This shows if the URL of OD assets are active (True) or not (False).
-        If it is True, the data is accessible, if it is False there is a hosting issue.
-        (Error) indicates there is no URL to check or it is missing from our data.</p>
-        <p>A full listing of the URL status is available in 'output_AllAnalytics.csv'</p>
-        
-        </div>
-        </div>
-        </div>
-        <div class="cell border-box-sizing code_cell rendered">
-        
-        <div class="output_wrapper">
-        <div class="output">
-        
-        <div class="output_area">
-        
-        
-        <div class="output_html rendered_html output_subarea output_execute_result">
-        <div>
-        <style scoped>
-            .dataframe tbody tr th:only-of-type {
-                vertical-align: middle;
-            }
-        
-            .dataframe tbody tr th {
-                vertical-align: top;
-            }
-        
-            .dataframe thead th {
-                text-align: right;
-            }
-        </style>
-        <table border="1" class="dataframe">
-          <thead>
-            <tr style="text-align: right;">
-              <th>AssetStatus</th>
-            </tr>
-            <tr>
-              <th>Owner</th>
-            </tr>
-          </thead>
-          <tbody>
-          </tbody>
-        </table>
-        </div>
-        </div>
-        
-        </div>
-        
-        </div>
-        </div>
-        
-        </div>
+<!--standard set of links to use on all analytics pages-->        
+<link rel="import" href="analytics_links.html">
+
+
+<div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+    <p><a id='urls'></a></p>
+    <h2 id="Check-URL-statuses">Check URL statuses<a class="anchor-link" href="#Check-URL-statuses">&#182;</a></h2><p>Checks to see if our urls are active or if the file for some reason has been removed.</p>
+    
+    </div>
+    </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs jp-mod-noInput ">
+    
+    </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell  jp-mod-noInput ">
+    
+    <div class="jp-Cell-outputWrapper">
+    
+    <div class="jp-OutputArea jp-Cell-outputArea">
+    
+    <div class="jp-OutputArea-child">
+    
+    <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+    <pre>**********100*********200*********300*********400*********500*********600*********700*********800*********900*****
+    ok done. Last updated 27-11-2021 15h:32m
+    True     710
+    Error    196
+    False     47
+    Name: AssetStatus, dtype: int64
+    </pre>
+    </div>
+    </div>
+    
+    </div>
+    
+    </div>
+    
+    </div>
+    <div class="jp-Cell-inputWrapper"><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+    <h2 id="URL-statuses-by-Council">URL statuses by Council<a class="anchor-link" href="#URL-statuses-by-Council">&#182;</a></h2><p>This shows if the URL of OD assets are active (True) or not (False).
+    If it is True, the data is accessible, if it is False there is a hosting issue.
+    (Error) indicates there is no URL to check or it is missing from our data.</p>
+    <p>A full listing of the URL status is available in 'output_AllAnalytics.csv'</p>
+    
+    </div>
+    </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell  jp-mod-noInput ">
+    
+    <div class="jp-Cell-outputWrapper">
+    
+    <div class="jp-OutputArea jp-Cell-outputArea">
+    
+    <div class="jp-OutputArea-child">
+    
+    
+    <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+    <div>
+    <style scoped>
+        .dataframe tbody tr th:only-of-type {
+            vertical-align: middle;
+        }
+    
+        .dataframe tbody tr th {
+            vertical-align: top;
+        }
+    
+        .dataframe thead th {
+            text-align: right;
+        }
+    </style>
+    <table border="1" class="dataframe">
+      <thead>
+        <tr style="text-align: right;">
+          <th>AssetStatus</th>
+          <th>False</th>
+          <th>True</th>
+          <th>Error</th>
+        </tr>
+        <tr>
+          <th>Owner</th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Aberdeen City</th>
+          <td></td>
+          <td>92.0</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>Aberdeenshire</th>
+          <td>3.0</td>
+          <td>30.0</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>Angus</th>
+          <td>24.0</td>
+          <td>66.0</td>
+          <td>1.0</td>
+        </tr>
+        <tr>
+          <th>Argyll and Bute</th>
+          <td></td>
+          <td></td>
+          <td>33.0</td>
+        </tr>
+        <tr>
+          <th>Dumfries and Galloway</th>
+          <td>2.0</td>
+          <td>64.0</td>
+          <td>1.0</td>
+        </tr>
+        <tr>
+          <th>Dundee City</th>
+          <td>8.0</td>
+          <td>170.0</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>East Ayrshire</th>
+          <td></td>
+          <td>4.0</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>Moray</th>
+          <td></td>
+          <td>57.0</td>
+          <td>62.0</td>
+        </tr>
+        <tr>
+          <th>Perth and Kinross</th>
+          <td>10.0</td>
+          <td>169.0</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th>Renfrewshire</th>
+          <td></td>
+          <td></td>
+          <td>67.0</td>
+        </tr>
+        <tr>
+          <th>South Ayrshire</th>
+          <td></td>
+          <td></td>
+          <td>32.0</td>
+        </tr>
+        <tr>
+          <th>Stirling</th>
+          <td></td>
+          <td>58.0</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    </div>
+    
+    </div>
+    
+    </div>
+    
+    </div>
+    
+    </div>
+
+    
 </body>

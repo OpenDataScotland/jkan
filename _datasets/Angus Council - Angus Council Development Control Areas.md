@@ -8,7 +8,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Development control boundaries in Angus
+notes: <p>Development control boundaries in Angus</p>
 organization: Angus Council
 resources:
 - format: html

@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Central core area of the Gallway Dark Skies Park
+notes: <p>Central core area of the Gallway Dark Skies Park</p>
 organization: South Ayrshire Council
 resources:
 - format: html

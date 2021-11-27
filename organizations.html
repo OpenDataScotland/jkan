@@ -3,34 +3,53 @@ title: Organizations
 layout: default
 permalink: /organizations/
 ---
+
 {% include breadcrumbs.html %}
 
-<a href="{{ site.baseurl }}/add-organization/" class="btn btn-default pull-right admin-only"
-  data-hook="add-organization-btn"><i class="fa fa-plus"></i> Add Organization</a>
+<input type="text" id="org-search" class="form-control" placeholder="Search..." style="margin-bottom:2rem;">
 
-{% for organization in site.organizations %}
-{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
-{% assign org_type = organization.type | first %}
-<div class="media">
-  <div class="media-left">
-    {% if organization.logo and organization.logo != empty %}
-    <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-      <img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}">
-    </a>
-    {% else %}
-    <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-      <img class="media-object" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}">
-    </a>
-    {% endif %}
-  </div>
-  <div class="media-body">
-    <h4 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title
-        }}</a>
-      <small style="margin-left: 0.5rem">{{ org_type }}</small>
-    </h4>
-    <p>{{ organization.description }}</p>
-    <p><a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }}
-        datasets</a></p>
-  </div>
+<a href="{{ site.baseurl }}/add-organization/"	class="btn btn-default pull-right admin-only"	data-hook="add-organization-btn"><i class="fa fa-plus"></i> Add Organization</a>
+
+<div id="org-list">
+	{% for organization in site.organizations %} 
+  {% assign dataset_count =	site.datasets | where:"organization", organization.title | size %} 
+  {% assign	org_type = organization.type | first %}
+	<div class="media org-parent" data-org-name="{{ organization.title }}" data-org-type="{{ org_type }}" data-org-description="{{ organization.description }}"	>
+		<div class="media-left">
+			{% if organization.logo and organization.logo != empty %}
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
+				<img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}"/>
+			</a>
+			{% else %}
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
+				<img class="media-object" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}"/>
+			</a>
+			{% endif %}
+		</div>
+		<div class="media-body">
+			<h4 class="media-heading">
+				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
+				<small style="margin-left: 0.5rem">{{ org_type }}</small>
+			</h4>
+			<p>{{ organization.description }}</p>
+			<p>
+				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }} datasets</a>
+			</p>
+		</div>
+	</div>
+	{% endfor %}
 </div>
-{% endfor %}
+
+<script>
+document.getElementById("org-search").addEventListener("keyup", function(e){
+  let searchTerm = e.srcElement.value;
+  let orgElements = document.querySelectorAll("#org-list .org-parent")
+  
+  orgElements.forEach(org => 
+  {    
+    org.style.display = org.dataset.orgName.toLowerCase().includes(searchTerm.toLowerCase()) || 
+    org.dataset.orgType.toLowerCase().includes(searchTerm.toLowerCase()) || 
+    org.dataset.orgType.toLowerCase().includes(searchTerm.toLowerCase()) ? "block" : "none";
+  })
+});
+</script>

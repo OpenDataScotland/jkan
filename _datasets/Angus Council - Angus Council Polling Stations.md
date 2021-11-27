@@ -10,7 +10,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Location of current Angus Council polling stations.
+notes: <p>Location of current Angus Council polling stations.</p>
 organization: Angus Council
 resources:
 - format: html

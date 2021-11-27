@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Allotments are plots of land that are rented by individuals or organisations\
+notes: "<p>Allotments are plots of land that are rented by individuals or organisations\
   \ for the purpose of growing fruit, vegetables and/or flowers. There are several\
   \ allotment sites in Dundee but not all of them are run by the council itself. Dundee\
   \ City Council has four sites: Arklay Terrace, Ancrum Road, Magdalen Green and Macaulay\
@@ -14,7 +14,7 @@ notes: "Allotments are plots of land that are rented by individuals or organisat
   \ Allotment charges are currently set at \xA35.10 (\xA34.10 concession) per annum\
   \ per pole (a unit of area of about 25 m2). Allotment sizes vary slightly so the\
   \ total cost is different for each plot but a full size plot averages 10 poles and\
-  \ would therefore cost about \xA351 per year."
+  \ would therefore cost about \xA351 per year.</p>"
 organization: Dundee City Council
 resources:
 - format: html

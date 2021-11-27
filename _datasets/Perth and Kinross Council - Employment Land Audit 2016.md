@@ -4,11 +4,11 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: The Perth and Kinross Employment Land Audit is prepared annually to provide
+notes: <p>The Perth and Kinross Employment Land Audit is prepared annually to provide
   up to date and accurate information on the supply and availability of employment
   land for business and industrial use within the Perth and Kinross Council area.
   This audit has been prepared from information provided in the Local Development
-  Plan and through the monitoring of planning application approvals.
+  Plan and through the monitoring of planning application approvals.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

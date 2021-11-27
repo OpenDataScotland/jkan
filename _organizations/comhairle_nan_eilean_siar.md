@@ -2,7 +2,7 @@
 schema: default
 title: Comhairle nan Eilean Siar
 description: Local authority for the Comhairle nan Eilean Siar area 
-logo: 'https://en.wikipedia.org/wiki/File:ComhairlenanEileanSiarLogo.svg'
+logo: 'https://upload.wikimedia.org/wikipedia/en/8/80/ComhairlenanEileanSiarLogo.svg'
 type:
 - Local authority
 portal_url: ''

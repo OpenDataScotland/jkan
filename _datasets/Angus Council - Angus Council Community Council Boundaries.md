@@ -8,9 +8,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Community Councils within Angus. A Community Council is a voluntary organisation
+notes: <p>Community Councils within Angus. A Community Council is a voluntary organisation
   set up by statute by the Local Authority and run by local residents to act on behalf
-  of its area.
+  of its area.</p>
 organization: Angus Council
 resources:
 - format: html

@@ -4,11 +4,13 @@ category:
 license: Open Data Commons Open Database License 1.0
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "The Council's Active Travel team conducted a survey of bicycle parking in\
-  \ 2015, with the results used to add or update cycle parking in [OpenStreetMap](https://www.openstreetmap.org).\
-  \ \n\nThis dataset is an extract of the current cycle parking in OpenStreetMap.\
-  \ If you see a facility missing or would like to update any of the information you\
-  \ can do this on OpenStreetMap yourself. "
+notes: '<p>The Council''s Active Travel team conducted a survey of bicycle parking
+  in 2015, with the results used to add or update cycle parking in <a href="https://www.openstreetmap.org">OpenStreetMap</a>.
+  </p>
+
+  <p>This dataset is an extract of the current cycle parking in OpenStreetMap. If
+  you see a facility missing or would like to update any of the information you can
+  do this on OpenStreetMap yourself. </p>'
 organization: Dundee City Council
 resources:
 - format: html

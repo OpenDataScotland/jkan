@@ -4,8 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Electricity usage data from Perth & Kinross Council owned buildings that have
-  meters where automatic readings are recorded.  Data is for the last  2 years.
+notes: <p>Electricity usage data from Perth &amp; Kinross Council owned buildings
+  that have meters where automatic readings are recorded.  Data is for the last  2
+  years.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

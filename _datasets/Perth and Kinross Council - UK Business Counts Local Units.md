@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'Test using NOMIS API
+notes: '<p>Test using NOMIS API
 
-  Licenced under OGL v3.0'
+  Licenced under OGL v3.0</p>'
 organization: Perth and Kinross Council
 resources:
 - format: html

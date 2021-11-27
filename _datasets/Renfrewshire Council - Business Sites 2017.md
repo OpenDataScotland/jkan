@@ -6,11 +6,11 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Estimates about the number of VAT/PAYE registered stocks and sites operating
+notes: <p>Estimates about the number of VAT/PAYE registered stocks and sites operating
   in Renfrewshire, broken down by industry sector and intermediate zone areas, and
   produced by Scottish Government within the Businesses in Scotland publication.A
   local unit (business site) is an enterprise or part thereof (e.g. a workshop, factory,
-  warehouse, office, mine or depot) situated in a geographically identified place.
+  warehouse, office, mine or depot) situated in a geographically identified place.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

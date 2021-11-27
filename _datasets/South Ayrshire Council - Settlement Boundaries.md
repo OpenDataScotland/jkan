@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Town and village settlement boundaries as defined in the 2007 LDP
+notes: <p>Town and village settlement boundaries as defined in the 2007 LDP</p>
 organization: South Ayrshire Council
 resources:
 - format: html

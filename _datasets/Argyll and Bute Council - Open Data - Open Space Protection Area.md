@@ -10,8 +10,8 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Areas of valued open space, sports pitches and playing fields as identified
-  in the Proposal Maps of the Local Development Plan.
+notes: <p>Areas of valued open space, sports pitches and playing fields as identified
+  in the Proposal Maps of the Local Development Plan.</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

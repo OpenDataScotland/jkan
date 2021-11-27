@@ -4,12 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: '**In addition to a breakdown of  the fee revenue received from taxi and private
-  hire car licence applications for the last five completed financial years, this
-  dataset provides the summary details on which the report is based.**
+notes: '<p><strong>In addition to a breakdown of  the fee revenue received from taxi
+  and private hire car licence applications for the last five completed financial
+  years, this dataset provides the summary details on which the report is based.</strong></p>
 
-
-  **Visit Stirling Council''s website for further information on [licences and permits](https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/).**'
+  <p><strong>Visit Stirling Council''s website for further information on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
+  and permits</a>.</strong></p>'
 organization: Stirling Council
 resources:
 - format: html

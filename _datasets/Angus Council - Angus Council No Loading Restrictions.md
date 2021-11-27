@@ -9,7 +9,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus Council No Loading Restrictions
+notes: <p>Angus Council No Loading Restrictions</p>
 organization: Angus Council
 resources:
 - format: html

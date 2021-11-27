@@ -4,8 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: "Parliamentary polling district boundaries are used\_to manage elections. They\
-  \ are sub-divisions of the 2007 electoral ward boundaries."
+notes: "<p>Parliamentary polling district boundaries are used\_to manage elections.\
+  \ They are sub-divisions of the 2007 electoral ward boundaries.</p>"
 organization: Perth and Kinross Council
 resources:
 - format: html

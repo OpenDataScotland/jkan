@@ -4,8 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: "Car parking zones in Perth city centre. Parking in Perth City is divided into\
-  \ three zones.\_Different pricing and waiting periods apply depending on the zone."
+notes: "<p>Car parking zones in Perth city centre. Parking in Perth City is divided\
+  \ into three zones.\_Different pricing and waiting periods apply depending on the\
+  \ zone.</p>"
 organization: Perth and Kinross Council
 resources:
 - format: html

@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Areas of vacant and derelict land
+notes: <p>Areas of vacant and derelict land</p>
 organization: South Ayrshire
 resources:
 - format: html

@@ -2,7 +2,7 @@
 schema: default
 title: Angus Council
 description: Local authority for the Angus Council area 
-logo: ''
+logo: 'https://www.angus.gov.uk/sites/angus-cms/files/2018-01/FB-angus-logo-header.png'
 type:
 - Local authority
 portal_url: ''

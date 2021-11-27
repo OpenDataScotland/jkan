@@ -7,14 +7,14 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Conservation Areas "are areas of special architectural or historic interest,
+notes: <p>Conservation Areas "are areas of special architectural or historic interest,
   the character or appearance of which it is desirable to preserve or enhance". S.61
   Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997Conservation
   Areas are crucial to the conservation of our environment. They can cover historic
   land, battlefields, public parks, designed landscapes or railways but most contain
   groups of buildings extending over areas of a village, town or city. To safeguard
   them for the enjoyment and benefit of future generations any new development should
-  preserve or enhance their varied character.
+  preserve or enhance their varied character.</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

@@ -3,7 +3,7 @@ category: []
 license: uk-ogl
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: A snapshot of Pullar House's energy usage by kW/h over July 2017.
+notes: <p>A snapshot of Pullar House's energy usage by kW/h over July 2017.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

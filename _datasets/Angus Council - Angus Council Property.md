@@ -6,8 +6,8 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Properties that Angus Council owns or occupies or has owned or occupied or
-  has some other interest in.
+notes: <p>Properties that Angus Council owns or occupies or has owned or occupied
+  or has some other interest in.</p>
 organization: Angus Council
 resources:
 - format: html

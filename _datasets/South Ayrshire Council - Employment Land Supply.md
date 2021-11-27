@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Marketable sites and locations for businesses allocated in development plans
+notes: <p>Marketable sites and locations for businesses allocated in development plans</p>
 organization: South Ayrshire Council
 resources:
 - format: html

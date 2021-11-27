@@ -9,10 +9,10 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: List of Non Domestic Rates Reliefs (excluding personal data) awarded in respect
-  of the Financial Year 2020/21 as at 26 February 2021. From the Financial Year 2021/22
-  details will be published on a quarterly basis in June, September, December and
-  March.
+notes: <p>List of Non Domestic Rates Reliefs (excluding personal data) awarded in
+  respect of the Financial Year 2020/21 as at 26 February 2021. From the Financial
+  Year 2021/22 details will be published on a quarterly basis in June, September,
+  December and March.</p>
 organization: Angus Council
 resources:
 - format: html

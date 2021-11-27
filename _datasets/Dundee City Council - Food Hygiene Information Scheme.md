@@ -4,12 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Food hygiene rating or inspection results given to a businesses and date of\
-  \ inspection or visit by the Dundee City council. Businesses include restaurants,\
+notes: "<p>Food hygiene rating or inspection results given to a businesses and date\
+  \ of inspection or visit by the Dundee City council. Businesses include restaurants,\
   \ pubs, caf\xE9s, takeaways, hotels and other places consumers eat, as well as in\
   \ supermarkets and other food shops. The data is held by the Food Standards Agency\
   \ on behalf of all local authorities participating in the FSA's national food hygiene\
-  \ rating schemes.\n\n"
+  \ rating schemes.</p>"
 organization: Dundee City Council
 resources:
 - format: html

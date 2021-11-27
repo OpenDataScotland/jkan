@@ -4,12 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "The [Hands Up Scotland Survey](https://www.sustrans.org.uk/scotland/hands-up-scotland-survey)\
-  \ looks at how pupils across Scotland travel to school. The project is funded by\
-  \ Transport Scotland and is a joint survey between Sustrans and all 32 Scottish\
-  \ local authorities. Each September, schools across Scotland complete the survey\
-  \ in class by asking their pupils \u2018How do you normally travel to school?\u2019\
-  ."
+notes: "<p>The <a href=\"https://www.sustrans.org.uk/scotland/hands-up-scotland-survey\"\
+  >Hands Up Scotland Survey</a> looks at how pupils across Scotland travel to school.\
+  \ The project is funded by Transport Scotland and is a joint survey between Sustrans\
+  \ and all 32 Scottish local authorities. Each September, schools across Scotland\
+  \ complete the survey in class by asking their pupils \u2018How do you normally\
+  \ travel to school?\u2019.</p>"
 organization: Dundee City Council
 resources:
 - format: html

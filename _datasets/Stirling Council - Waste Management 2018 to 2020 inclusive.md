@@ -4,15 +4,22 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**Domestic waste collection datasets are no longer published under this heading.\
-  \ From January 2021, these datasets will be available under the **[**Waste Services\
-  \ (2021 onwards)**](https://data.stirling.gov.uk/dataset/waste-services-2021-onwards)**\
-  \ group on this platform.**\n\n**This dataset shows the breakdown per calendar month\
-  \ of waste received in tonnage from Stirling Council's domestic waste collections.These\
-  \ figures are validated by the Scottish Environmental Protection Agency (SEPA) on\
-  \ an annual basis** \n\n[**Bins & Recycling**](https://www.stirling.gov.uk/bins-waste-recycling/)\
-  \ **provides details of Stirling Council's Waste Management Services.**\n\n**For\
-  \ information on  environmental protection, visit **[**SEPA's website**](https://www.sepa.org.uk/)**.**"
+notes: '<p><strong>Domestic waste collection datasets are no longer published under
+  this heading. From January 2021, these datasets will be available under the </strong><a
+  href="https://data.stirling.gov.uk/dataset/waste-services-2021-onwards"><strong>Waste
+  Services (2021 onwards)</strong></a><strong> group on this platform.</strong></p>
+
+  <p><strong>This dataset shows the breakdown per calendar month of waste received
+  in tonnage from Stirling Council''s domestic waste collections.These figures are
+  validated by the Scottish Environmental Protection Agency (SEPA) on an annual basis</strong>
+  </p>
+
+  <p><a href="https://www.stirling.gov.uk/bins-waste-recycling/"><strong>Bins &amp;
+  Recycling</strong></a> <strong>provides details of Stirling Council''s Waste Management
+  Services.</strong></p>
+
+  <p><strong>For information on  environmental protection, visit </strong><a href="https://www.sepa.org.uk/"><strong>SEPA''s
+  website</strong></a><strong>.</strong></p>'
 organization: Stirling Council
 resources:
 - format: html

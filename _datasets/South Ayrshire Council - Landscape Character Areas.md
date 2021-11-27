@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Defined landscape character areas for Ayrshire
+notes: <p>Defined landscape character areas for Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html
