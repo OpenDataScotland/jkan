@@ -33,7 +33,7 @@ notes: "The Roll of Honour for the **Great War** (later known as World War I or 
   \ section of the Aberdeen City Council website, and the [Aberdeen City and Aberdeenshire\
   \ Archives](https://www.aberdeencity.gov.uk/services/libraries-and-archives/aberdeen-city-and-aberdeenshire-archives)\
   \ web pages are listed as resources below."
-organisation: Aberdeen City Council
+organization: Aberdeen City Council
 resources:
 - format: CSV
   name: Aberdeen City Rolls of Honour CSV

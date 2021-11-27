@@ -16,7 +16,7 @@ notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 14 0;'><span
   academy. Some pupils may live within the city boundary however are 'in zone' for
   an Aberdeenshire Academy these Aberdeenshire zones are also shown.</span></span></p><p><span
   /></p></div></div></div>
-organisation: Aberdeen City Council
+organization: Aberdeen City Council
 resources:
 - format: HTML
   name: Academy School Catchments HTML

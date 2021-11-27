@@ -22,7 +22,7 @@ notes: "Aberdeen City Council in accordance with [**Section 35** of the Procurem
   \ (Purchase Orders) are also available on [Aberdeen City Council's website](https://www.aberdeencity.gov.uk/services/council-and-democracy/financial-information-and-procurement/contracts-register),\
   \ along with a list of additional providers of procurement opportunities and contact\
   \ details for the Commercial and Procurement Service. "
-organisation: Aberdeen City Council
+organization: Aberdeen City Council
 resources:
 - format: XLSX
   name: Aberdeen City Council Contracts Register XLSX
