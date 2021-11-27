@@ -2,7 +2,7 @@
 schema: default
 title: Inverclyde Council
 description: Local authority for the Inverclyde Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/d/dd/Inverclyde_Council.svg'
 type:
 - Local authority
 portal_url: ''

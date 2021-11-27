@@ -2,7 +2,7 @@
 schema: default
 title: Moray Council
 description: Local authority for the Moray Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/7/7a/The_Moray_Council.svg'
 type:
 - Local authority
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: Orkney Islands Council
 description: Local authority for the Orkney Islands Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/7/79/Orkney_Islands_Council.svg'
 type:
 - Local authority
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: Aberdeenshire Council
 description: Local authority for the Aberdeenshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/1/12/Aberdeenshire_Council.svg'
 type:
 - Local authority
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: East Renfrewshire Council
 description: Local authority for the East Renfrewshire Council area 
-logo: ''
+logo: 'https://en.wikipedia.org/wiki/File:East_Renfrewshire_Council.png'
 type:
 - Local authority
 portal_url: ''

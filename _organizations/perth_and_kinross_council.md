@@ -2,7 +2,7 @@
 schema: default
 title: Perth and Kinross Council
 description: Local authority for the Perth and Kinross Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/3/38/Perth_and_Kinross_Council_logo.svg'
 type:
 - Local authority
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: South Ayrshire Council
 description: Local authority for the South Ayrshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/0/09/South_Ayrshire_logo.PNG'
 type:
 - Local authority
 portal_url: ''
