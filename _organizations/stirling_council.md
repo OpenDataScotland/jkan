@@ -2,7 +2,7 @@
 schema: default
 title: Stirling Council
 description: Local authority for the Stirling Council area 
-logo: ''
+logo: 'https://en.wikipedia.org/wiki/File:Stirling_Council.svg'
 type:
 - Local authority
 portal_url: ''
