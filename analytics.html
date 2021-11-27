@@ -6,44 +6,38 @@ permalink: /analytics/
 {% include breadcrumbs.html %}
 
 
-
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8" />
-  
+<head>
+        <meta charset="utf-8" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
-
-<!-- Custom stylesheet, it must be in the same directory as the html file -->
-<link rel="stylesheet" href="analytics_style.css">
-
-<!-- Loading mathjax macro -->
-<!-- Load mathjax -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
-    <!-- MathJax configuration -->
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        // Center justify equations in code and markdown cells. Elsewhere
-        // we use CSS to left justify single line equations in code cells.
-        displayAlign: 'center',
-        "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
-            linebreaks: { automatic: true }
-        }
-    });
-    </script>
-    <!-- End of mathjax configuration --></head>
+        <!-- Loading mathjax macro -->
+        <!-- Load mathjax -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
+        <!-- MathJax configuration -->
+        <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+                tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                processEscapes: true,
+                processEnvironments: true
+                },
+                // Center justify equations in code and markdown cells. Elsewhere
+                // we use CSS to left justify single line equations in code cells.
+                displayAlign: 'center',
+                "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}},
+                linebreaks: { automatic: true }
+                }
+        });
+        </script>
+        <!-- End of mathjax configuration -->
+</head>
 <body>
-<div tabindex="-1" id="notebook" class="border-box-sizing">
-<div class="container" id="notebook-container">
 
 <!--Analytics Links, hardcoded until I figure it out-->
 <p>Analysis:
@@ -61,40 +55,19 @@ permalink: /analytics/
 <p>last updated: 27-Jun-2021 23:02</p>  
 
 
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><a id='overview'></a></p>
-<h2 id="Dataset-Overview">Dataset Overview<a class="anchor-link" href="#Dataset-Overview">&#182;</a></h2><p>An overview of the OD files available and which councils provide them</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>all data files:  953
+<!--Overview Stats-->
+<h2>Dataset Overview</h2>
+<p>An overview of the OD files available and which councils provide them</p>
+<p>all data files:  953
 distinct datasets:  427
-</pre>
-</div>
-</div>
+</p>
 
-</div>
-</div>
 
-</div>
+<!--Chart: Unique datasets by Council-->
 <div class="cell border-box-sizing code_cell rendered">
-
 <div class="output_wrapper">
 <div class="output">
-
 <div class="output_area">
-
-
 <div class="output_svg output_subarea ">
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -1530,21 +1503,18 @@ z
 </svg>
 
 </div>
-
+</div>
+</div>
+</div>
 </div>
 
-</div>
-</div>
 
-</div>
+
+<!--Chart: Total files by Council-->
 <div class="cell border-box-sizing code_cell rendered">
-
 <div class="output_wrapper">
 <div class="output">
-
 <div class="output_area">
-
-
 <div class="output_svg output_subarea ">
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
@@ -3004,52 +2974,18 @@ z
 </svg>
 
 </div>
-
-</div>
-
 </div>
 </div>
-
+</div>
 </div>
 
 
 
+<!--Summary Matrix-->
+<h2>Summary Matrix</h2>
+<p>All the characteristics, in one place.</p>
 
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-  <div class="text_cell_render border-box-sizing rendered_html">
-  <p><a id='summary'></a></p>
-  <h1 id="Summary-Matrix">Summary Matrix<a class="anchor-link" href="#Summary-Matrix">&#182;</a></h1><p>All the characteristics, in one place.</p>
-  
-  </div>
-  </div>
-  </div>
-  <div class="cell border-box-sizing code_cell rendered">
-  
-  </div>
-  <div class="cell border-box-sizing code_cell rendered">
-  
-  <div class="output_wrapper">
-  <div class="output">
-  
-  <div class="output_area">
-  
-  
-  <div class="output_html rendered_html output_subarea output_execute_result">
-  <div>
-  <style scoped>
-      .dataframe tbody tr th:only-of-type {
-          vertical-align: middle;
-      }
-  
-      .dataframe tbody tr th {
-          vertical-align: top;
-      }
-  
-      .dataframe thead th {
-          text-align: right;
-      }
-  </style>
-  <table class="table">
+<table class="table">
     <thead>
       <tr>
         <th>Council</th>
@@ -3236,22 +3172,8 @@ z
         <td>77.77</td>
       </tr>
     </tbody>
-  </table>
-  </div>
-  </div>
+</table>
   
-  </div>
-  
-  </div>
-  </div>
-  
-  </div>
 
-
-        
-</body>
-        
-         
-        
-        
+</body>     
 </html>
