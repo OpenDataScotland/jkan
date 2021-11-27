@@ -2,7 +2,7 @@
 schema: default
 title: North Ayrshire Council
 description: Local authority for the North Ayrshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/1/1d/North_Ayrshire_Council.svg'
 type:
 - Local authority
 portal_url: ''
