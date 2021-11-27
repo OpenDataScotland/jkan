@@ -5,34 +5,72 @@ layout: default
 {% assign org_type = page.type | first %}
 <div data-component="view-switcher">
   <div class="row" data-hook="view" data-view="display">
+    <div class="col-sm-3"></div>
     {% if page.logo and page.logo != empty %}
-    <div class="col-sm-3">
-      <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo"></a>
-    </div>
-    <div class="col-sm-9">
-    {% else %}
-    <div class="col-sm-12">
+    <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo"></a>
+    {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="thumbnail"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo"></a>
     {% endif %}
-      <h1>
-        {{ page.title }}
-        <small style="margin-left: 0.5rem">{{ org_type }}</small>
-        <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
-      </h1>
-      <p>{{ page.description }}</p>
-      <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
-        <h3 class="datasets-count" data-hook="datasets-count"></h3>
-        <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
-        <div data-hook="datasets-items"></div>
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Information</h3>
+      </div>
+      <div class="panel-body">
+        <dl>
+          {% if page.portal_url and page.portal_url != empty %}
+          <dt>Portal URL</dt>
+          <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a>></dd>
+          {% endif %}
+          {% if page.org_url and page.org_url != empty %}
+          <dt>Organization URL</dt>
+          <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a>></dd>
+          {% endif %}
+          {% if page.twitter_handle and page.twitter_handle != empty %}
+          <dt>Twitter</dt>
+          <dd><a href="https://twitter.com/{{ page.twitter_handle }}">https://twitter.com/{{ page.twitter_handle }}</a>></dd>
+          {% endif %}
+          {% if page.gss_code and page.gss_code != empty %}
+          <dt>GSS code</dt>
+          <dd>{{ page.gss_code }}</dd>
+          {% endif %}
+          {% if (page.wikidata_org_qid and page.wikidata_org_qid != empty) or (page.wikidata_portal_qid and page.wikidata_portal_qid != empty) %}
+          <dt>Wikidata</dt>
+          {% if page.wikidata_org_qid and page.wikidata_org_qid != empty %}
+          <dd>Organization: <a href="https://wikidata.org/wiki/{{ page.wikidata_org_qid }}">{{ page.wikidata_org_qid }}</a></dd>
+          {% endif %}
+          {% if page.wikidata_portal_qid and page.wikidata_portal_qid != empty %}
+          <dd>Portal: <a href="https://wikidata.org/wiki/{{ page.wikidata_portal_qid }} ">{{ page.wikidata_portal_qid }}</a></dd>
+          {% endif %}
+          {% endif %}
+          {% if page.wdtk_id and page.wdtk_id != empty %}
+          <dt>WhatDoTheyKnow page</dt>
+          <dd><a href="https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}">https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}</a></dd>
+          {% endif %}
+      </dl>
+      
       </div>
     </div>
   </div>
-
-  <div class="row" data-hook="view" data-view="edit">
-    <div class="col-sm-8 col-sm-offset-2">
-      {% include organization-form.html organization=page %}
-    </div>
-    <div class="col-sm-2">
-      <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
-    </div>
+  <div class="col-sm-9"></div>
+  <h1>
+    {{ page.title }}
+    <small style="margin-left: 0.5rem">{{ org_type }}</small>
+    <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
+  </h1>
+  <p>{{ page.description }}</p>
+  <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
+    <h3 class="datasets-count" data-hook="datasets-count"></h3>
+    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
+    <div data-hook="datasets-items"></div>
   </div>
+</div>
+</div>
+
+<div class="row" data-hook="view" data-view="edit">
+  <div class="col-sm-8 col-sm-offset-2">
+    {% include organization-form.html organization=page %}
+  </div>
+  <div class="col-sm-2">
+    <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
+  </div>
+</div>
 </div>
