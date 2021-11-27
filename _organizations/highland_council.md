@@ -2,7 +2,7 @@
 schema: default
 title: Highland Council
 description: Local authority for the Highland Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/b/bb/Highland_Council.svg'
 type:
 - Local authority
 portal_url: ''
