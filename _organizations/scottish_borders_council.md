@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Borders Council
 description: Local authority for the Scottish Borders Council area 
-logo: 'https://en.wikipedia.org/wiki/File:Scottish_Borders_Council_logo.svg'
+logo: 'https://upload.wikimedia.org/wikipedia/en/4/43/Scottish_Borders_Council_logo.svg'
 type:
 - Local authority
 portal_url: ''
