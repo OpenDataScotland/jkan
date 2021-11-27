@@ -9,9 +9,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Conservation areas are areas of special architectural or historic interest.
+notes: <p>Conservation areas are areas of special architectural or historic interest.
   They are designated by Angus Council to ensure any new development preserves or
-  enhances their varied character.
+  enhances their varied character.</p>
 organization: Angus Council
 resources:
 - format: html

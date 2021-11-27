@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Boundaries of Secondary School Catchment Areas in Argyll and Bute
+notes: <p>Boundaries of Secondary School Catchment Areas in Argyll and Bute</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

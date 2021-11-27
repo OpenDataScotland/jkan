@@ -7,14 +7,15 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: "Every six months, we publish a list of all invoices and credit notes over\
+notes: "<p>Every six months, we publish a list of all invoices and credit notes over\
   \ \xA3500 we receive, providing details on supplier name, amount paid, invoice reference,\
-  \ gross amount and vat amount.\n\n* Spend on premises, transport and supplies and\
-  \ services\n* Payments to contractors who do work on our behalf\n* Other spend we\
-  \ incur in carrying out our business\n\nSome areas of spend are covered by the Data\
-  \ Protection Act and are not published in full.  This includes:\n\n* Personal information,\
-  \ for example, individual payments for adoption and fostering, care related payments\n\
-  * Payments to staff\n\nThese entries have been omitted from the report.\n\n"
+  \ gross amount and vat amount.</p>\n<ul>\n<li>Spend on premises, transport and supplies\
+  \ and services</li>\n<li>Payments to contractors who do work on our behalf</li>\n\
+  <li>Other spend we incur in carrying out our business</li>\n</ul>\n<p>Some areas\
+  \ of spend are covered by the Data Protection Act and are not published in full.\
+  \  This includes:</p>\n<ul>\n<li>Personal information, for example, individual payments\
+  \ for adoption and fostering, care related payments</li>\n<li>Payments to staff</li>\n\
+  </ul>\n<p>These entries have been omitted from the report.</p>"
 organization: Angus Council
 resources:
 - format: html

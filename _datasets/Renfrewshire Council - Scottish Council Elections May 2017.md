@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Scottish Council Elections 4 May 2017 results and turnout
+notes: <p>Scottish Council Elections 4 May 2017 results and turnout</p>
 organization: Renfrewshire Council
 resources:
 - format: html

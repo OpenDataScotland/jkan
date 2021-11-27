@@ -4,13 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: 'Every electric vehicle charging session at Dundee City Council owned charge
+notes: '<p>Every electric vehicle charging session at Dundee City Council owned charge
   points. Data includes: Start and finish date/time, Kwh (amount of electricity) used,
-  Charge point ID, Location, Type of Charger.
+  Charge point ID, Location, Type of Charger.</p>
 
-
-  More information about electric vehicles in Dundee can be found on the Drive Dundee
-  Electric [website](https://drivedundeeelectric.co.uk/).'
+  <p>More information about electric vehicles in Dundee can be found on the Drive
+  Dundee Electric <a href="https://drivedundeeelectric.co.uk/">website</a>.</p>'
 organization: Dundee City Council
 resources:
 - format: html

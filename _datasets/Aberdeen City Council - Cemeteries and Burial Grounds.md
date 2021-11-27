@@ -6,20 +6,18 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Aberdeen City Council
 maintainer_email: someone@example.com
-notes: 'Locations of all Aberdeen City Council run cemeteries and burial grounds.
+notes: '<p>Locations of all Aberdeen City Council run cemeteries and burial grounds.</p>
 
+  <p>Resource files include cemetery name and address, plus latitude and longitude.</p>
 
-  Resource files include cemetery name and address, plus latitude and longitude.
-
-
-  To view these cemetery locations on a map click on the resource name below to go
-  to the Data Explorer page which will show you a preview of the data.  Click on the
-  Map tab.  If the Aberdeen map is not already displayed select ''Latitude / Longitude
+  <p>To view these cemetery locations on a map click on the resource name below to
+  go to the Data Explorer page which will show you a preview of the data.  Click on
+  the Map tab.  If the Aberdeen map is not already displayed select ''Latitude / Longitude
   fields'' and under the Latitude and Longitude drop-downs pick the relevant column
-  headings.
+  headings.</p>
 
-
-  For more local maps have a look at the [Aberdeen City Council Public Map Gallery](https://accabdn.maps.arcgis.com/apps/MinimalGallery/index.html?appid=ef2d388404864ef9955640d5b7efb9b5)'
+  <p>For more local maps have a look at the <a href="https://accabdn.maps.arcgis.com/apps/MinimalGallery/index.html?appid=ef2d388404864ef9955640d5b7efb9b5">Aberdeen
+  City Council Public Map Gallery</a></p>'
 organization: Aberdeen City Council
 resources:
 - format: html

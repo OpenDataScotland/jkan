@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Scottish Annual Business Survey 2017, Sustainable Tourism (June 2019 release)-
-  filtered for Renfrewshire
+notes: <p>Scottish Annual Business Survey 2017, Sustainable Tourism (June 2019 release)-
+  filtered for Renfrewshire</p>
 organization: Renfrewshire Council
 resources:
 - format: html

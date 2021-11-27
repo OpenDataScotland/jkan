@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Location of polling places to be used for elections in PKC from 2011 onwards.
+notes: <p>Location of polling places to be used for elections in PKC from 2011 onwards.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

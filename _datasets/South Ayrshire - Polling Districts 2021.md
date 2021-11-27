@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Areas depicting polling districts in South Ayrshire
+notes: <p>Areas depicting polling districts in South Ayrshire</p>
 organization: South Ayrshire
 resources:
 - format: html

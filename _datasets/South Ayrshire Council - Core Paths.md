@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Core paths for the area as defined by the Core Paths Plan
+notes: <p>Core paths for the area as defined by the Core Paths Plan</p>
 organization: South Ayrshire Council
 resources:
 - format: html

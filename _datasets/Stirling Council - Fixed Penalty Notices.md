@@ -4,19 +4,20 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**Fixed Penalty Notices (FPN) are issued by Stirling Council's Enforcement\
-  \ Officers.**\n\n**FPNs for Littering and Fly Tipping are enforced under the [Environmental\
-  \ Protection Act (EPA) 1990](https://www.legislation.gov.uk/ukpga/1990/43/contents).\
-  \ Section 87 states it is a criminal offence for a person to drop, throw down or\
-  \ deposit litter in a public space. If a person is found guilty they can be issued\
-  \ with a Fixed Penalty Notice of \xA380. Section 33A states It is a criminal offence\
-  \ to dump waste onto land that has no licence to accept it \u2013 from a bin bag\
-  \ of household rubbish to large quantities of tyres or construction waste.  If a\
-  \ person is found guilty of the offence they can be issued with a Fixed Penalty\
-  \ Notice of \xA3200.**\n\n**[The Dog Fouling (Scotland) Act 2003](https://www.legislation.gov.uk/asp/2003/12/contents)\
-  \ \nstates it is an offence for a person in charge of a dog to fail to remove and\
-  \ dispose appropriately any excrement after the dog has fouled in all public places.\
-  \ The Fixed Penalty monetary value is \xA380.**"
+notes: "<p><strong>Fixed Penalty Notices (FPN) are issued by Stirling Council's Enforcement\
+  \ Officers.</strong></p>\n<p><strong>FPNs for Littering and Fly Tipping are enforced\
+  \ under the <a href=\"https://www.legislation.gov.uk/ukpga/1990/43/contents\">Environmental\
+  \ Protection Act (EPA) 1990</a>. Section 87 states it is a criminal offence for\
+  \ a person to drop, throw down or deposit litter in a public space. If a person\
+  \ is found guilty they can be issued with a Fixed Penalty Notice of \xA380. Section\
+  \ 33A states It is a criminal offence to dump waste onto land that has no licence\
+  \ to accept it \u2013 from a bin bag of household rubbish to large quantities of\
+  \ tyres or construction waste.  If a person is found guilty of the offence they\
+  \ can be issued with a Fixed Penalty Notice of \xA3200.</strong></p>\n<p><strong><a\
+  \ href=\"https://www.legislation.gov.uk/asp/2003/12/contents\">The Dog Fouling (Scotland)\
+  \ Act 2003</a> \nstates it is an offence for a person in charge of a dog to fail\
+  \ to remove and dispose appropriately any excrement after the dog has fouled in\
+  \ all public places. The Fixed Penalty monetary value is \xA380.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html

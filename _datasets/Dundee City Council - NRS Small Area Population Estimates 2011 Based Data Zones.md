@@ -7,18 +7,18 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "This data set contains data zone level mid-year population estimates for Dundee\
-  \ City, sourced from the National Records of Scotland Small Area Population Estimates\
-  \ Scotland Publications.\nAt Data Zone level Scotland can be split into 6,976 data\
-  \ zones, 188 Data Zones are within the Dundee City Boundary.\nThe following data\
-  \ sets show population estimates for each of Dundee's 188 Data Zones for All Persons,\
-  \ Males and Females. \n\nNational Records of Scotland publish Small Area Population\
-  \ Estimates on an annual basis. The most recent publication is the Mid 2019 Small\
-  \ Area Population Estimates which were published in August 2020. You can access\
-  \ the full NRS publication by clicking on the link below:\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates/mid-2019\n\
-  \nDetailed Time Series data is also published on the National Records of Scotland\
+notes: "<p>This data set contains data zone level mid-year population estimates for\
+  \ Dundee City, sourced from the National Records of Scotland Small Area Population\
+  \ Estimates Scotland Publications.\nAt Data Zone level Scotland can be split into\
+  \ 6,976 data zones, 188 Data Zones are within the Dundee City Boundary.\nThe following\
+  \ data sets show population estimates for each of Dundee's 188 Data Zones for All\
+  \ Persons, Males and Females. </p>\n<p>National Records of Scotland publish Small\
+  \ Area Population Estimates on an annual basis. The most recent publication is the\
+  \ Mid 2019 Small Area Population Estimates which were published in August 2020.\
+  \ You can access the full NRS publication by clicking on the link below:\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates/mid-2019</p>\n\
+  <p>Detailed Time Series data is also published on the National Records of Scotland\
   \ Website and can be accessed by clicking on the link below:\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates/time-series\n\
-  \xA9 Crown Copyright 2020\n\n"
+  \xA9 Crown Copyright 2020</p>"
 organization: Dundee City Council
 resources:
 - format: html

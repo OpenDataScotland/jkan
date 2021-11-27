@@ -32,14 +32,13 @@ layout: default
             <dt>GSS code</dt>
             <dd>{{ page.gss_code }}</dd>
             {% endif %}
-            {% if (page.wikidata_org_qid and page.wikidata_org_qid != empty) or (page.wikidata_portal_qid and page.wikidata_portal_qid != empty) %}
-            <dt>Wikidata</dt>
             {% if page.wikidata_org_qid and page.wikidata_org_qid != empty %}
+            <dt>Wikidata (Organization)</dt>
             <dd>Organization: <a href="https://wikidata.org/wiki/{{ page.wikidata_org_qid }}">{{ page.wikidata_org_qid }}</a></dd>
             {% endif %}
             {% if page.wikidata_portal_qid and page.wikidata_portal_qid != empty %}
+            <dt>Wikidata (Portal)</dt>
             <dd>Portal: <a href="https://wikidata.org/wiki/{{ page.wikidata_portal_qid }} ">{{ page.wikidata_portal_qid }}</a></dd>
-            {% endif %}
             {% endif %}
             {% if page.wdtk_id and page.wdtk_id != empty %}
             <dt>WhatDoTheyKnow page</dt>
@@ -50,29 +49,27 @@ layout: default
         </div>
       </div>
     </div>
-  </div>
-</div>
-<div class="col-sm-9">
-  <h1>
-    {{ page.title }}
-    <small style="margin-left: 0.5rem">{{ org_type }}</small>
-    <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
-  </h1>
-  <p>{{ page.description }}</p>
-  <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
-    <h3 class="datasets-count" data-hook="datasets-count"></h3>
-    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
-    <div data-hook="datasets-items"></div>
-  </div>
-</div>
-</div>
+    <div class="col-sm-9">
+      <h1>
+        {{ page.title }}
+        <small style="margin-left: 0.5rem">{{ org_type }}</small>
+        <a href="?view=edit" class="pull-right btn btn-default admin-only">Edit</a>
+      </h1>
+      <p>{{ page.description }}</p>
+      <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
+        <h3 class="datasets-count" data-hook="datasets-count"></h3>
+        <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
+        <div data-hook="datasets-items"></div>
+      </div>
+    </div>
 
-<div class="row" data-hook="view" data-view="edit">
-  <div class="col-sm-8 col-sm-offset-2">
-    {% include organization-form.html organization=page %}
   </div>
-  <div class="col-sm-2">
-    <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
+  <div class="row" data-hook="view" data-view="edit">
+    <div class="col-sm-8 col-sm-offset-2">
+      {% include organization-form.html organization=page %}
+    </div>
+    <div class="col-sm-2">
+      <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
+    </div>
   </div>
-</div>
 </div>

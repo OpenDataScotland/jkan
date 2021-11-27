@@ -7,8 +7,8 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Location of Angus Council owned and managed sites and properties. Includes
-  common good properties.
+notes: <p>Location of Angus Council owned and managed sites and properties. Includes
+  common good properties.</p>
 organization: Angus Council
 resources:
 - format: html

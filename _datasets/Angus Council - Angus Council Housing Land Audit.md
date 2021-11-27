@@ -7,9 +7,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus Council and Dundee City Council have jointly prepared the Annual Audit
+notes: <p>Angus Council and Dundee City Council have jointly prepared the Annual Audit
   of Housing Land detailing those sites with a capacity of five or more houses which
-  contribute to the available supply of land for house building in Angus and Dundee.
+  contribute to the available supply of land for house building in Angus and Dundee.</p>
 organization: Angus Council
 resources:
 - format: html

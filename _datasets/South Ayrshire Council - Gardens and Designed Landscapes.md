@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Extent of gardens and designed landscapes across Ayrshire
+notes: <p>Extent of gardens and designed landscapes across Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

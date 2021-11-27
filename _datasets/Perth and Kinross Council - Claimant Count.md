@@ -4,8 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Adapted from NOMIS, published under the Open Government Licence. This will
-  pull data from October 2015 to the most recent month.
+notes: <p>Adapted from NOMIS, published under the Open Government Licence. This will
+  pull data from October 2015 to the most recent month.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

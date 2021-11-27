@@ -4,18 +4,29 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Energy usage recorded every half hour for primary and high schools in Dundee\
-  \ City. Data is given for gas and electricity usage and is the summation of readings\
-  \ taken from one or more meters within individual schools. To consider when looking\
-  \ at energy usage for individual schools: \n\n* School buildings and facilities\
-  \ noticeably vary. Some schools use older buildings which limit their energy efficiency.\
-  \ Some schools have swimming pools or other facilities that lead to a higher energy\
-  \ usage.\n* School sizes differ considerably, as do the number of attending pupils\
-  \ and staff.\n* Schools may be used during the evening and weekends for after-school\
-  \ clubs, community activities and other events. Schools may also be used in the\
-  \ mornings for breakfast clubs.\n* Weather conditions affect the amount of energy\
-  \ used by schools.\n* All the above factors and more can change the energy usage\
-  \ profile of the school and should be considered when viewing the data."
+notes: '<p>Energy usage recorded every half hour for primary and high schools in Dundee
+  City. Data is given for gas and electricity usage and is the summation of readings
+  taken from one or more meters within individual schools. To consider when looking
+  at energy usage for individual schools: </p>
+
+  <ul>
+
+  <li>School buildings and facilities noticeably vary. Some schools use older buildings
+  which limit their energy efficiency. Some schools have swimming pools or other facilities
+  that lead to a higher energy usage.</li>
+
+  <li>School sizes differ considerably, as do the number of attending pupils and staff.</li>
+
+  <li>Schools may be used during the evening and weekends for after-school clubs,
+  community activities and other events. Schools may also be used in the mornings
+  for breakfast clubs.</li>
+
+  <li>Weather conditions affect the amount of energy used by schools.</li>
+
+  <li>All the above factors and more can change the energy usage profile of the school
+  and should be considered when viewing the data.</li>
+
+  </ul>'
 organization: Dundee City Council
 resources:
 - format: html

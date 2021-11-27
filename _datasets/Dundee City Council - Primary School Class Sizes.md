@@ -4,15 +4,26 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Data on class sizes in primary schools - giving the number of pupils in each\
-  \ class in September of the given year. From the annual pupil census in publicly\
-  \ funded schools in Scotland. Filtered from the [national dataset](http://www.gov.scot/Topics/Statistics/Browse/School-Education/dspupcensus)\
-  \ to include schools within Dundee City only. Class size data is not collected for\
-  \ secondary school as class size varies widely across subjects. \n\n* \"Class type\"\
-  \ gives the stage of pupils in the class or, where more than one stage is present.\n\
-  * \"Co\" denotes a composite class.\n* In a class where there are two or more teachers\
-  \ then 'Two or More Teachers' will have a value of '1'.\n* '*' indicates where data\
-  \ has been suppressed for confidentiality reasons where <5 pupils could be identified."
+notes: '<p>Data on class sizes in primary schools - giving the number of pupils in
+  each class in September of the given year. From the annual pupil census in publicly
+  funded schools in Scotland. Filtered from the <a href="http://www.gov.scot/Topics/Statistics/Browse/School-Education/dspupcensus">national
+  dataset</a> to include schools within Dundee City only. Class size data is not collected
+  for secondary school as class size varies widely across subjects. </p>
+
+  <ul>
+
+  <li>"Class type" gives the stage of pupils in the class or, where more than one
+  stage is present.</li>
+
+  <li>"Co" denotes a composite class.</li>
+
+  <li>In a class where there are two or more teachers then ''Two or More Teachers''
+  will have a value of ''1''.</li>
+
+  <li>''*'' indicates where data has been suppressed for confidentiality reasons where
+  &lt;5 pupils could be identified.</li>
+
+  </ul>'
 organization: Dundee City Council
 resources:
 - format: html

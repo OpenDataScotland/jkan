@@ -5,8 +5,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Perth Green Belt from the 2014 Perth &amp; Kinross Council Adopted Local Development
-  Plan
+notes: <p>Perth Green Belt from the 2014 Perth &amp; Kinross Council Adopted Local
+  Development Plan</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

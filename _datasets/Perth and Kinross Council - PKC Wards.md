@@ -4,8 +4,10 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: <p>Electoral ward boundaries for Perth and Kinross council. For more information
-  on using the data see </p><p><a href="https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html">https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html</a></p>
+notes: '<p>Electoral ward boundaries for Perth and Kinross council. For more information
+  on using the data see </p>
+
+  <p><a href="https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html">https://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html</a></p>'
 organization: Perth and Kinross Council
 resources:
 - format: html

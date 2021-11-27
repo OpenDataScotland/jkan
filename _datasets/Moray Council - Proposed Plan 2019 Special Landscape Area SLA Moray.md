@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Proposed Plan 2019 Special Landscape Area (SLA) (Moray)
+notes: <p>Proposed Plan 2019 Special Landscape Area (SLA) (Moray)</p>
 organization: Moray Council
 resources:
 - format: html

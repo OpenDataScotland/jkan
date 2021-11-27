@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "A dataset showing the fixtures and results of football\_games played by St\
-  \ Mirren football\_teams. For further information please visit\_https://www.stmirren.com/news/matchday/first-team-fixtures"
+notes: "<p>A dataset showing the fixtures and results of football\_games played by\
+  \ St Mirren football\_teams. For further information please visit\_https://www.stmirren.com/news/matchday/first-team-fixtures</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

@@ -4,19 +4,19 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "The Place Standard is used to evaluate the quality of a \u201Cplace\u201D\
+notes: "<p>The Place Standard is used to evaluate the quality of a \u201Cplace\u201D\
   . It can evaluate places that are well-established, undergoing change, or still\
   \ being planned. The tool can also help users to identify their  priorities. This\
   \ was one of the main methods used by Community Regeneration staff and partner organisations\
   \ to inform the Engage Dundee consultation which was undertaken between June 2016\
-  \ and March 2017.\n\nFindings from the Engage Dundee consultation will directly\
+  \ and March 2017.</p>\n<p>Findings from the Engage Dundee consultation will directly\
   \ inform the key priorities in Local Community Plans currently being developed in\
   \ each multi-member Ward. The consultation was also used to identify priorities\
   \ to inform the Local Outcome Improvement Plan and potentially how the new Community\
-  \ Infrastructure Fund is allocated.\n\nThe survey consisted of questions which cover\
-  \ both the physical and social elements of a \u201Cplace.\u201D. \n\nYou can read\
-  \ more about the results in the [Engage Dundee summary leaflet](\"http://www.dundeepartnership.co.uk/sites/default/files/Engage%20Dundee%20PR%20summary.pdf\"\
-  )."
+  \ Infrastructure Fund is allocated.</p>\n<p>The survey consisted of questions which\
+  \ cover both the physical and social elements of a \u201Cplace.\u201D. </p>\n<p>You\
+  \ can read more about the results in the <a href=\"\" title=\"http://www.dundeepartnership.co.uk/sites/default/files/Engage%20Dundee%20PR%20summary.pdf\"\
+  >Engage Dundee summary leaflet</a>.</p>"
 organization: Dundee City Council
 resources:
 - format: html

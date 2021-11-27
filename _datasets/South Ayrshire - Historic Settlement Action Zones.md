@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Action zones in force in areas of historic settlement
+notes: <p>Action zones in force in areas of historic settlement</p>
 organization: South Ayrshire
 resources:
 - format: html

@@ -8,9 +8,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Responses to on-line questionnaire seeking feedback on the proposals to develop
-  Monifieth Learning Campus.  Consultation ran from 23 March 2021 to 21 April 2021.  No
-  hardcopy responses to questions were received as part of consultation.
+notes: <p>Responses to on-line questionnaire seeking feedback on the proposals to
+  develop Monifieth Learning Campus.  Consultation ran from 23 March 2021 to 21 April
+  2021.  No hardcopy responses to questions were received as part of consultation.</p>
 organization: Angus Council
 resources:
 - format: html

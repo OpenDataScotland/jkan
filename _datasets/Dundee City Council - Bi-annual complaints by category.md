@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: The percentage of complaints recorded by the Council in each six month period
+notes: <p>The percentage of complaints recorded by the Council in each six month period
   in each of the categories included in the model Complaint Handling Procedure in
-  Local Authorities.
+  Local Authorities.</p>
 organization: Dundee City Council
 resources:
 - format: html

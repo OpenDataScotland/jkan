@@ -10,7 +10,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Catchment areas (delineated) for secondary schools in Angus.
+notes: <p>Catchment areas (delineated) for secondary schools in Angus.</p>
 organization: Angus Council
 resources:
 - format: html

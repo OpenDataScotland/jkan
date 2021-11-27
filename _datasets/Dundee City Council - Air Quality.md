@@ -4,12 +4,22 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "Of the seven pollutants contained in the Air Quality Standards, currently\
-  \ only two of these are routinely monitored in Dundee. These are:\n\n* Nitrogen\
-  \ dioxide (NO2), and\n* Particulate Matter (PM10)\n\nAir quality monitored using\
-  \ continuous automatic analysers and/or diffusion tubes. \n\nVisit the Air Quality\
-  \ section of the Dundee City Council [website](https://www.dundeecity.gov.uk/service-area/neighbourhood-services/community-safety-and-protection/air-quality-dundee)\
-  \ for more information on air quality in Dundee. \n"
+notes: '<p>Of the seven pollutants contained in the Air Quality Standards, currently
+  only two of these are routinely monitored in Dundee. These are:</p>
+
+  <ul>
+
+  <li>Nitrogen dioxide (NO2), and</li>
+
+  <li>Particulate Matter (PM10)</li>
+
+  </ul>
+
+  <p>Air quality monitored using continuous automatic analysers and/or diffusion tubes.
+  </p>
+
+  <p>Visit the Air Quality section of the Dundee City Council <a href="https://www.dundeecity.gov.uk/service-area/neighbourhood-services/community-safety-and-protection/air-quality-dundee">website</a>
+  for more information on air quality in Dundee. </p>'
 organization: Dundee City Council
 resources:
 - format: html

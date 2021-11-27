@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Tree presevation orders in force across the area
+notes: <p>Tree presevation orders in force across the area</p>
 organization: South Ayrshire Council
 resources:
 - format: html

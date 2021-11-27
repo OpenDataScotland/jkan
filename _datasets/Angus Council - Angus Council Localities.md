@@ -6,7 +6,8 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Localities used in the Corporate Address Gazetteer for the generation of addresses.
+notes: <p>Localities used in the Corporate Address Gazetteer for the generation of
+  addresses.</p>
 organization: Angus Council
 resources:
 - format: html

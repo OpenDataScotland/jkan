@@ -4,8 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Operational Property is that which is dedicated to direct service delivery
-  e.g. offices.
+notes: <p>Operational Property is that which is dedicated to direct service delivery
+  e.g. offices.</p>
 organization: Dundee City Council
 resources:
 - format: html

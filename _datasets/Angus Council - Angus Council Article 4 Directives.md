@@ -9,8 +9,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Areas where Permitted Development rights under classes 1,7 & 8 of Town Country
-  Planning (General Permitted Development)(Scotland) Order 1992 have been revoked.
+notes: <p>Areas where Permitted Development rights under classes 1,7 &amp; 8 of Town
+  Country Planning (General Permitted Development)(Scotland) Order 1992 have been
+  revoked.</p>
 organization: Angus Council
 resources:
 - format: html

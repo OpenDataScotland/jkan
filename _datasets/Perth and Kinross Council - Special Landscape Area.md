@@ -4,14 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'Designated landscapes within Perth and Kinross which merit special attention,
+notes: <p>Designated landscapes within Perth and Kinross which merit special attention,
   either because they are of particular value and warrant protection or because they
   are degraded and require active management or positive restoration, or are under
   threat from inappropriate development. The associated LDP Landscape Supplementary
   Guidance in which they are contained was approved by Scottish Ministers on 17th
-  June 2015.
-
-  '
+  June 2015.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

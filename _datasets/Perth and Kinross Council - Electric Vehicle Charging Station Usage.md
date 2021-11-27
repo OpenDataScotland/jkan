@@ -4,8 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Datasets for Perth & Kinross Council's EV charging stations under the ChargePoint
-  Scotland scheme. Includes anonymous data from each individual charging session.
+notes: <p>Datasets for Perth &amp; Kinross Council's EV charging stations under the
+  ChargePoint Scotland scheme. Includes anonymous data from each individual charging
+  session.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

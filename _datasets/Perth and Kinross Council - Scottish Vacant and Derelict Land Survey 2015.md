@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: "An annual survey issued by the Scottish Government to establish the extent\_\
+notes: "<p>An annual survey issued by the Scottish Government to establish the extent\_\
   and state of vacant\_and derelict land in Scotland. Local Authorities return data\
-  \ to the Scottish Government for checking.\n"
+  \ to the Scottish Government for checking.</p>"
 organization: Perth and Kinross Council
 resources:
 - format: html

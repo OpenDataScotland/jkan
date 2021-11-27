@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Drug-related deaths 2018, filtered for Renfrewshire.
+notes: <p>Drug-related deaths 2018, filtered for Renfrewshire.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

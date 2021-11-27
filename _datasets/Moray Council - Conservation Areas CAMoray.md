@@ -7,10 +7,10 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: "Conservation Areas are areas of special architectural of historic interest\
+notes: "<p>Conservation Areas are areas of special architectural of historic interest\
   \ where it is desirable to preserve or enhance the character or appearance of the\
   \ area. The aim of this policy is to preserve and enhance Moray\u2019s Conservation\
-  \ Areas."
+  \ Areas.</p>"
 organization: Moray Council
 resources:
 - format: html

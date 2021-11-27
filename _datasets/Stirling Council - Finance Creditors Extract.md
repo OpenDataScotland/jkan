@@ -4,12 +4,13 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**Breakdown of individual payments to and credits from suppliers providing\
-  \ goods and/or services to Stirling Council.**\n\n**Based on the content of the\
-  \ relevant quarterly datasets, an annual summary of suppliers whose combined value\
-  \ of invoices and credit notes for the financial year totals \xA310,000 or more\
-  \ is also available.**     \n\n**[Stirling\u2019s Annual Accounts](https://www.stirling.gov.uk/council-democracy/information-performance-statistics/annual-accounts/)\
-  \ are available on the Council\u2019s website.**\n"
+notes: "<p><strong>Breakdown of individual payments to and credits from suppliers\
+  \ providing goods and/or services to Stirling Council.</strong></p>\n<p><strong>Based\
+  \ on the content of the relevant quarterly datasets, an annual summary of suppliers\
+  \ whose combined value of invoices and credit notes for the financial year totals\
+  \ \xA310,000 or more is also available.</strong>     </p>\n<p><strong><a href=\"\
+  https://www.stirling.gov.uk/council-democracy/information-performance-statistics/annual-accounts/\"\
+  >Stirling\u2019s Annual Accounts</a> are available on the Council\u2019s website.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html

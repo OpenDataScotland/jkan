@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Extent of the Galloway Forest Park
+notes: <p>Extent of the Galloway Forest Park</p>
 organization: South Ayrshire Council
 resources:
 - format: html

@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Strategic Industry and Business Location in the 2015 Local Development Plan
+notes: <p>Strategic Industry and Business Location in the 2015 Local Development Plan</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire
 maintainer_email: someone@example.com
-notes: Footpaths for the area - not indicative of a public right of way
+notes: <p>Footpaths for the area - not indicative of a public right of way</p>
 organization: South Ayrshire
 resources:
 - format: html

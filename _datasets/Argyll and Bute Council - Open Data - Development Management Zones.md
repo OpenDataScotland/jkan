@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Development Management Zones designated in the Argyll and Bute adopted Local
-  Development Plan 2015.
+notes: <p>Development Management Zones designated in the Argyll and Bute adopted Local
+  Development Plan 2015.</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

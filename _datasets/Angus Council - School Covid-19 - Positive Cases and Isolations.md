@@ -7,46 +7,48 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: 'This weekly data shows the cumulative number of positive Covid-19 cases and
-  cumulative individuals self-isolating in Angus school clusters - combined total
+notes: '<p>This weekly data shows the cumulative number of positive Covid-19 cases
+  and cumulative individuals self-isolating in Angus school clusters - combined total
   of teachers, support staff, children and young people (not including contractors).
-  The dataset is updated fortnightly on a Tuesday.
+  The dataset is updated fortnightly on a Tuesday.</p>
 
+  <p><strong>Field names</strong></p>
 
-  __Field names__
+  <ul>
 
+  <li>Cumulative confirmed cases in Brechin.</li>
 
-  *   Cumulative confirmed cases in Brechin.
+  <li>Cumulative self-isolating cases in Brechin.</li>
 
-  *   Cumulative self-isolating cases in Brechin.
+  <li>Cumulative confirmed cases in Carnoustie.</li>
 
-  *  Cumulative confirmed cases in Carnoustie.
+  <li>Cumulative self-isolating cases in Carnoustie.</li>
 
-  *  Cumulative self-isolating cases in Carnoustie.
+  <li>Cumulative confirmed cases in Forfar.</li>
 
-  *  Cumulative confirmed cases in Forfar.
+  <li>Cumulative self-isolating cases in Forfar.</li>
 
-  *  Cumulative self-isolating cases in Forfar.
+  <li>Cumulative confirmed cases in Kirriemuir.</li>
 
-  *  Cumulative confirmed cases in Kirriemuir.
+  <li>Cumulative self-isolating cases in Kirriemuir.</li>
 
-  *  Cumulative self-isolating cases in Kirriemuir.
+  <li>Cumulative confirmed cases in Monifieth.</li>
 
-  *  Cumulative confirmed cases in Monifieth.
+  <li>Cumulative self-isolating cases in Monifieth.</li>
 
-  *  Cumulative self-isolating cases in Monifieth.
+  <li>Cumulative confirmed cases in Montrose.</li>
 
-  *  Cumulative confirmed cases in Montrose.
+  <li>Cumulative self-isolating cases in Montrose.</li>
 
-  *  Cumulative self-isolating cases in Montrose.
+  <li>Cumulative confirmed cases in North Arbroath.</li>
 
-  *  Cumulative confirmed cases in North Arbroath.
+  <li>Cumulative self-isolating cases in North Arbroath.</li>
 
-  *  Cumulative self-isolating cases in North Arbroath.
+  <li>Cumulative confirmed cases in West Arbroath.</li>
 
-  *  Cumulative confirmed cases in West Arbroath.
+  <li>Cumulative self-isolating cases in West Arbroath.</li>
 
-  *  Cumulative self-isolating cases in West Arbroath.'
+  </ul>'
 organization: Angus Council
 resources:
 - format: html

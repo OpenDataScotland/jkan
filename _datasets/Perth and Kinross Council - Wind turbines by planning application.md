@@ -11,7 +11,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Location of wind turbines with relevant planning application information.
+notes: <p>Location of wind turbines with relevant planning application information.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

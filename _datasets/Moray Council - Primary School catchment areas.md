@@ -6,7 +6,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Primary School Catchments (Moray) (non denominational)
+notes: <p>Primary School Catchments (Moray) (non denominational)</p>
 organization: Moray Council
 resources:
 - format: html

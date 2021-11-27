@@ -9,7 +9,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: A layer presenting Care Homes in Renfrewshire Council area
+notes: <p>A layer presenting Care Homes in Renfrewshire Council area</p>
 organization: Renfrewshire Council
 resources:
 - format: html

@@ -6,28 +6,51 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Aberdeen City Council
 maintainer_email: someone@example.com
-notes: "The current UK Parliament constituencies were set in 2005.  The majority of\
-  \ the Aberdeen City area falls within 2 constituencies:\n\n- **Aberdeen North**\n\
-  - **Aberdeen South**\n\nAberdeen City Council is responsible for organising general\
-  \ election ballots within these constituencies and is therefore able to share the\
-  \ election results (including votes cast per candidate and rejected ballots) as\
-  \ open data.  More information about elections and voting within Aberdeen is available\
-  \ on the [Council and Democracy section of the **Aberdeen City Council** website](https://www.aberdeencity.gov.uk/services/council-and-democracy).\n\
-  \nA large part of the north of Aberdeen City, including Dyce and some parts of Bucksburn,\
-  \ falls within the **Gordon** constituency where general election ballots are administrated\
-  \ by Aberdeenshire Council.  Detailed results for Gordon, and the other constituencies\
-  \ administrated by Aberdeenshire Council can be found on the [elections section\
-  \ of the Aberdeenshire Council website](https://www.aberdeenshire.gov.uk/council-and-democracy/elections/).\n\
-  \nFor more information on UK Parliamentary Constituencies see the [Boundary Commission\
-  \ for Scotland website](https://www.bcomm-scotland.independent.gov.uk/).   \n\n\
-  _______________________________________________________\n\n\nThe **Election Results\
-  \ - General Elections** dataset contains 3 text files for each of the Aberdeen constituencies\
-  \ administrated by Aberdeen City Council, in each General Election.  These files\
-  \ contain:\n\n* **Poll summary** (Total electorate for the constituency, Number\
-  \ of ballot papers verified, Percentage poll)\n* **Votes Cast** (the Number of votes\
-  \ recorded for each candidate with Name of Candidate, Political Party, Total Votes\
-  \ received)\n* **Rejected Ballots** (the Numbers of ballot papers rejected for each\
-  \ Rejection Reason)"
+notes: '<p>The current UK Parliament constituencies were set in 2005.  The majority
+  of the Aberdeen City area falls within 2 constituencies:</p>
+
+  <ul>
+
+  <li><strong>Aberdeen North</strong></li>
+
+  <li><strong>Aberdeen South</strong></li>
+
+  </ul>
+
+  <p>Aberdeen City Council is responsible for organising general election ballots
+  within these constituencies and is therefore able to share the election results
+  (including votes cast per candidate and rejected ballots) as open data.  More information
+  about elections and voting within Aberdeen is available on the <a href="https://www.aberdeencity.gov.uk/services/council-and-democracy">Council
+  and Democracy section of the <strong>Aberdeen City Council</strong> website</a>.</p>
+
+  <p>A large part of the north of Aberdeen City, including Dyce and some parts of
+  Bucksburn, falls within the <strong>Gordon</strong> constituency where general election
+  ballots are administrated by Aberdeenshire Council.  Detailed results for Gordon,
+  and the other constituencies administrated by Aberdeenshire Council can be found
+  on the <a href="https://www.aberdeenshire.gov.uk/council-and-democracy/elections/">elections
+  section of the Aberdeenshire Council website</a>.</p>
+
+  <p>For more information on UK Parliamentary Constituencies see the <a href="https://www.bcomm-scotland.independent.gov.uk/">Boundary
+  Commission for Scotland website</a>.   </p>
+
+  <hr />
+
+  <p>The <strong>Election Results - General Elections</strong> dataset contains 3
+  text files for each of the Aberdeen constituencies administrated by Aberdeen City
+  Council, in each General Election.  These files contain:</p>
+
+  <ul>
+
+  <li><strong>Poll summary</strong> (Total electorate for the constituency, Number
+  of ballot papers verified, Percentage poll)</li>
+
+  <li><strong>Votes Cast</strong> (the Number of votes recorded for each candidate
+  with Name of Candidate, Political Party, Total Votes received)</li>
+
+  <li><strong>Rejected Ballots</strong> (the Numbers of ballot papers rejected for
+  each Rejection Reason)</li>
+
+  </ul>'
 organization: Aberdeen City Council
 resources:
 - format: html

@@ -4,11 +4,11 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**This dataset details complaints received from members of the public about\
-  \ dog fouling.**\n\n**[The Dog Fouling (Scotland) Act 2003](https://www.legislation.gov.uk/asp/2003/12/contents)\
-  \ makes it an offence for a person in charge of a dog to fail to remove and dispose\
-  \ appropriately any excrement after the dog has fouled in public places. The fine\
-  \ amount for this offence is \xA380.**\n\n\n"
+notes: "<p><strong>This dataset details complaints received from members of the public\
+  \ about dog fouling.</strong></p>\n<p><strong><a href=\"https://www.legislation.gov.uk/asp/2003/12/contents\"\
+  >The Dog Fouling (Scotland) Act 2003</a> makes it an offence for a person in charge\
+  \ of a dog to fail to remove and dispose appropriately any excrement after the dog\
+  \ has fouled in public places. The fine amount for this offence is \xA380.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html
