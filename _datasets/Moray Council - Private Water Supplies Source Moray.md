@@ -21,8 +21,11 @@ notes: Private Water Supplies Source (Moray)Reg 2 (previously Cat A) are supplie
   based on the best information available to the council at the time of writing.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=0e11645746e447f2b8dafabe750f24f2
 - format: FEATURE LAYER
-  name: Private Water Supplies Source (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Private Water Supplies Source (Moray)

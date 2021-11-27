@@ -19,14 +19,17 @@ notes: 'School term dates for schools within Dundee City for the following acade
   format allows you to add dates to most calendar applications. '
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/school-term-dates
 - format: ICS
-  name: School Term Dates ICS
+  name: ICS
   url: https://data.dundeecity.gov.uk/dataset/b815109b-3aeb-45b0-bac0-1cdbcd36e295/resource/5740679d-4677-4461-a2f8-1dc36266e84f/download/school-terms-dates_-dundee-city.ics
 - format: ''
-  name: 'School Term Dates '
+  name: ''
   url: https://www.dundeecity.gov.uk/service-area/children-and-families-service/education/school-term-dates
 - format: CSV
-  name: School Term Dates CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/b815109b-3aeb-45b0-bac0-1cdbcd36e295/resource/d8bb8a15-8293-4b86-8b83-e9e849d4fd9c/download/school-term-dates-csv.csv
 schema: default
 title: School Term Dates

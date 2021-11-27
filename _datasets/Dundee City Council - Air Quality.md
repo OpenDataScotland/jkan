@@ -12,14 +12,17 @@ notes: "Of the seven pollutants contained in the Air Quality Standards, currentl
   \ for more information on air quality in Dundee. \n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/air-quality
 - format: CSV
-  name: Air Quality CSV
+  name: CSV
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:AQ01_MONITORING_SITES&outputFormat=csv
 - format: HTML
-  name: Air Quality HTML
+  name: HTML
   url: http://www.scottishairquality.co.uk/latest/summary?view=la
 - format: CSV
-  name: Air Quality CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/832dec46-1a16-4dd0-a30c-606bb1ecc9c1/resource/3afa4345-b158-4e4f-a4e5-02f596fec9fa/download/copy-of-2017-dcc-pdt-data-summary-copy.csv
 schema: default
 title: Air Quality

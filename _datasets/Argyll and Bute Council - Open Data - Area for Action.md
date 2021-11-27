@@ -17,8 +17,11 @@ notes: "Areas for Action designated in the Argyll and Bute adopted Local Develop
   \ areas."
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=07e827d3a3ea414a997a1eef6ab29f24
 - format: FEATURE LAYER
-  name: Open Data - Area for Action FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Area for Action

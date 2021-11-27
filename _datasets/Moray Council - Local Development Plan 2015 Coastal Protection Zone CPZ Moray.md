@@ -13,9 +13,11 @@ notes: The Local Development Plan 2015 was superseded by the Local Development P
   Zone (CPZ) within which only certain types of development will be acceptable.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=1bd85abb1ff749c691db2a7bcdf4aee4
 - format: FEATURE LAYER
-  name: Local Development Plan 2015 Coastal Protection Zone (CPZ) (Moray) FEATURE
-    LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan 2015 Coastal Protection Zone (CPZ) (Moray)

@@ -15,9 +15,11 @@ notes: 'Scottish Planning Policy states "Planning authorities should set out in 
   Wind Energy Landscape Capacity Study. '
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=2691a454bf4e42e6abad960af1ce4cca
 - format: FEATURE LAYER
-  name: Moray Onshore Wind Energy 2017 Wind Farm Spatial Framework (Moray) FEATURE
-    LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Moray Onshore Wind Energy 2017 Wind Farm Spatial Framework (Moray)

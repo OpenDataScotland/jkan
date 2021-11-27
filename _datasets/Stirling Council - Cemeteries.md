@@ -17,8 +17,11 @@ notes: "**Extract of electronic burial records for cemeteries managed and mainta
   \ Tuesday, 6th July, 2021.**\n"
 organization: Stirling Council
 resources:
+- format: html
+  name: Description
+  url: https://data.stirling.gov.uk/dataset/cemetery-records
 - format: CSV
-  name: Cemeteries CSV
+  name: CSV
   url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/2021-06-01-20-05-09_epilog.csv
 schema: default
 title: Cemeteries

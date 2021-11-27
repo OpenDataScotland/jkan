@@ -15,8 +15,11 @@ notes: LNRs are established in a variety of locations with very varied habitats 
   is encouraged.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=5a61474862664776ac48a22db2b771b4
 - format: FEATURE LAYER
-  name: Open Data - Local Nature Reserves FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Local Nature Reserves

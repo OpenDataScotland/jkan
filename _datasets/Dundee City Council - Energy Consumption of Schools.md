@@ -18,17 +18,20 @@ notes: "Energy usage recorded every half hour for primary and high schools in Du
   \ profile of the school and should be considered when viewing the data."
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/energy-consumption-of-schools
 - format: CSV
-  name: Energy Consumption of Schools CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/7027c35f-d6b6-4306-9e82-fd61dc1e2256/resource/96e14a3c-4828-49fd-a69a-057d8f99bc85/download/schools-energy-consumption-gas.csv
 - format: CSV
-  name: Energy Consumption of Schools CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/7027c35f-d6b6-4306-9e82-fd61dc1e2256/resource/87e65e63-a756-4b7a-a8ea-4dfb751f8733/download/electricity-usage-130317-130318.csv
 - format: CSV
-  name: Energy Consumption of Schools CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/7027c35f-d6b6-4306-9e82-fd61dc1e2256/resource/afb6b6e2-1c06-4645-abd1-d66a45cb49f8/download/schools-energy-consumption-gas-201617.csv
 - format: CSV
-  name: Energy Consumption of Schools CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/7027c35f-d6b6-4306-9e82-fd61dc1e2256/resource/b2b26a6f-59fe-497b-a24f-0cb492499bb0/download/electricity-usage-120316-120317.csv
 schema: default
 title: Energy Consumption of Schools

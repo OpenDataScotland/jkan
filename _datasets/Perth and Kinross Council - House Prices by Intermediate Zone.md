@@ -13,11 +13,14 @@ notes: An adaptation from Scotland's official statistics giving house prices in 
   occurring after a Census.
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/house-prices-by-intermediate-zone
 - format: CSV
-  name: House Prices by Intermediate Zone CSV
+  name: CSV
   url: https://data.pkc.gov.uk/dataset/991c64f3-5e67-4f89-8ccd-d3698dd657c6/resource/9d142f4b-f7c5-401e-983d-baba9aa1346a/download/2016housepricebyintzonemodifiedheaders.csv
 - format: CSV
-  name: House Prices by Intermediate Zone CSV
+  name: CSV
   url: https://data.pkc.gov.uk/dataset/991c64f3-5e67-4f89-8ccd-d3698dd657c6/resource/8e4abc51-2d28-4c63-afb3-e988ba0c2229/download/2017housepricebyintzonemodifiedheaders.csv
 schema: default
 title: House Prices by Intermediate Zone

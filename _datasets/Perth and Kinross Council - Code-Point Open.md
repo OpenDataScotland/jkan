@@ -15,11 +15,14 @@ notes: Code-Point Open is a dataset that contains postcode units, each of which 
   not available with Code-Point Open.
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/code-point-open1
 - format: HTML
-  name: "Code-Point\xAE Open HTML"
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/business-government/products/code-point-open
 - format: HTML
-  name: "Code-Point\xAE Open HTML"
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#CODEPO
 schema: default
 title: "Code-Point\xAE Open"

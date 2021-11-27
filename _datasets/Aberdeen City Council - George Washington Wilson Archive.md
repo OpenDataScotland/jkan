@@ -25,14 +25,17 @@ notes: "George Washington Wilson (1823-1893), born in **Alvah**, Aberdeenshire, 
   \ \xA9 Aberdeen Art Gallery & Museums Collections)."
 organization: Aberdeen City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.aberdeencity.gov.uk/dataset/george-washington-wilson
 - format: XLSX
-  name: George Washington Wilson Archive XLSX
+  name: XLSX
   url: https://data.aberdeencity.gov.uk/dataset/ff66d1cf-8b72-40df-be7f-6330536aea91/resource/992291f7-7cb0-43ab-bf7b-d266240bdc88/download/georgewashingtonwilsonarchive-spreadsheet.xlsx
 - format: CSV
-  name: George Washington Wilson Archive CSV
+  name: CSV
   url: https://data.aberdeencity.gov.uk/dataset/ff66d1cf-8b72-40df-be7f-6330536aea91/resource/a4de5363-fc23-43e7-8ac0-f8c894ed4b40/download/georgewashingtonwilsonarchive-csv.csv
 - format: ''
-  name: 'George Washington Wilson Archive '
+  name: ''
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=George+Washington+Wilson+and+Company&Title=&chat=
 schema: default
 title: George Washington Wilson Archive

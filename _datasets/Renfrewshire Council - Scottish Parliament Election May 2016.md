@@ -10,8 +10,11 @@ notes: Renfrewshire South and Renfrewshire North Scottish Parliamnet Election re
   5 May 2016.
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=2d38f2e56bbc4aefba1fe872c0fc4f73
 - format: TABLE
-  name: Scottish Parliament Election May 2016 TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Scottish Parliament Election May 2016

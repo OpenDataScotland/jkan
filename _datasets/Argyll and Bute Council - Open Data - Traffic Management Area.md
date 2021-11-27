@@ -12,8 +12,11 @@ notes: Action proposed by the Local Development Plan in support of its settlemen
   relation to land use.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=3b73e8a6bda14a1492c89523103bbc35
 - format: FEATURE LAYER
-  name: Open Data - Traffic Management Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Traffic Management Area

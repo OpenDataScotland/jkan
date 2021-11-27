@@ -15,8 +15,11 @@ notes: Tree Preservation Orders (TPO) are served by the council to protect indiv
   its species or of local / historic interest.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=beb58178a74f45eb9eca942cf2584c48
 - format: FEATURE LAYER
-  name: Open Data - Tree Preservation Orders FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Tree Preservation Orders

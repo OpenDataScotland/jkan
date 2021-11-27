@@ -13,8 +13,11 @@ notes: 'Tells people about public notices that are published by Angus Council, e
   licensing and planning '
 organization: Angus Council
 resources:
+- format: html
+  name: Description
+  url: http://opendata.angus.gov.uk/dataset/tell-me-scotland
 - format: HTML
-  name: Tell Me Scotland HTML
+  name: HTML
   url: ''
 schema: default
 title: Tell Me Scotland

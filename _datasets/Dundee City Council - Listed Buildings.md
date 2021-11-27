@@ -21,20 +21,23 @@ notes: "Buildings are listed by Historic Scotland for their special architectura
   \ on listed buildings.\n\n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/listed-buildings
 - format: CSV
-  name: Listed Buildings CSV
+  name: CSV
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:LISTEDBUILDINGS&outputFormat=csv
 - format: GEOJSON
-  name: Listed Buildings GEOJSON
+  name: GEOJSON
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:LISTEDBUILDINGS&outputFormat=application/json&srsName=EPSG:4326
 - format: ZIP
-  name: Listed Buildings ZIP
+  name: ZIP
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:LISTEDBUILDINGS&outputFormat=SHAPE-ZIP
 - format: WFS
-  name: Listed Buildings WFS
+  name: WFS
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=WFS&version=2.0.0&request=getCapabilities
 - format: WMS
-  name: Listed Buildings WMS
+  name: WMS
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wms?service=Wms&version=1.3.0&request=getCapabilities
 schema: default
 title: Listed Buildings

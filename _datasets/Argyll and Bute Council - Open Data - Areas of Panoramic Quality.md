@@ -14,8 +14,11 @@ notes: "Areas of Panoramic Quality designated in the Argyll and Bute adopted Loc
   \ in the former Strathclyde Structure Plan"
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=1092d04288f3497bbe84eefb62dbb923
 - format: FEATURE LAYER
-  name: Open Data - Areas of Panoramic Quality FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Areas of Panoramic Quality

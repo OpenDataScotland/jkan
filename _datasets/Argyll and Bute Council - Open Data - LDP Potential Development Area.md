@@ -18,8 +18,11 @@ notes: "Potential Development Areas designated in the Argyll and Bute adopted Lo
   \ a number of identifiable development sites"
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=6d63d565373b45a394a5fb3fd0ea8694
 - format: FEATURE LAYER
-  name: Open Data - LDP Potential Development Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - LDP Potential Development Area

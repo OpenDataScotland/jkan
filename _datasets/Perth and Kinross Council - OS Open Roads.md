@@ -17,14 +17,17 @@ notes: "OS Open Roads is a digital representation of Great Britain\u2019s Roads.
   \ on a regional or county level and include all roads which make up the SRN."
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/os-open-roads
 - format: HTML
-  name: OS Open Roads HTML
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
 - format: HTML
-  name: OS Open Roads HTML
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPROAD
 - format: ATOM FEED
-  name: OS Open Roads ATOM FEED
+  name: ATOM FEED
   url: http://os.uk/xml/atom/OSOpenRoads.xml
 schema: default
 title: OS Open Roads

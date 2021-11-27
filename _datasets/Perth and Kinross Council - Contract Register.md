@@ -13,8 +13,11 @@ notes: 'This is the current contract register for Perth and Kinross Council, pul
   3.0]("http://www.nationalarchives.gov.uk/doc/open-government-licence/").'
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/contract-register
 - format: HTML
-  name: Contract Register HTML
+  name: HTML
   url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00372
 schema: default
 title: Contract Register

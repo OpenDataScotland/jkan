@@ -9,8 +9,11 @@ maintainer_email: someone@example.com
 notes: Strategic Masterplan Area in the 2015 Local Development Plan
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=fc2283b70f5f46eb8662698917abc2a5
 - format: FEATURE LAYER
-  name: Open Data - Strategic Masterplan Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Strategic Masterplan Area

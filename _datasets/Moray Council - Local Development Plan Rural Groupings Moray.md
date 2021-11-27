@@ -23,8 +23,11 @@ notes: "The Local Development Plan 2015 was superseded by the Local Development 
   \ physical grouping. Consolidation of these remains the preference."
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=4a37fbbf212d46ed90f5e87eaabdda02
 - format: FEATURE LAYER
-  name: Local Development Plan Rural Groupings (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan Rural Groupings (Moray)

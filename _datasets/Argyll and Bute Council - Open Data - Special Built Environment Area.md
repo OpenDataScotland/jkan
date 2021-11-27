@@ -13,8 +13,11 @@ notes: "Areas which do not have the presence, continuity or quality of \u2018con
   \ proposals."
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=989ae983a5ca4506b88aa52e9e92732c
 - format: FEATURE LAYER
-  name: Open Data - Special Built Environment Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Special Built Environment Area

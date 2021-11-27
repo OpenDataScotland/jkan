@@ -29,8 +29,11 @@ notes: "Statutory Administrative Boundaries for Scotland derived from Ordnance S
   \ WardsRenfrewshire3 Holyrood constituencies2 Westminster Constituencies12 wards"
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=c2f16a9d88174d0bbdbc9c81edcfc5c3
 - format: FEATURE LAYER
-  name: Renfrewshire Wards FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Renfrewshire Wards

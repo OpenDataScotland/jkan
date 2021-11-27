@@ -11,8 +11,11 @@ notes: Angus Council publishes all contract notices on the Public Contracts Scot
   website.
 organization: Angus Council
 resources:
+- format: html
+  name: Description
+  url: http://opendata.angus.gov.uk/dataset/angus-council-contract-award-notices-on-public-contracts-scotland
 - format: HTML
-  name: Angus Council Contract Award Notices on Public Contracts Scotland HTML
+  name: HTML
   url: http://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00236
 schema: default
 title: Angus Council Contract Award Notices on Public Contracts Scotland

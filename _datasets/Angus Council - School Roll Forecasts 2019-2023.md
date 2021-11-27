@@ -32,11 +32,14 @@ notes: "School Roll Forecasts\nView our 2017 based school roll forecasts for Ang
   \ data currently available. \n"
 organization: Angus Council
 resources:
+- format: html
+  name: Description
+  url: http://opendata.angus.gov.uk/dataset/school-roll-forecasts-2019-2023
 - format: CSV
-  name: School Roll Forecasts 2019-2023 CSV
+  name: CSV
   url: http://opendata.angus.gov.uk/dataset/1dd909a2-8045-41be-aae8-630a3841fd22/resource/898e5eed-6a12-4f8f-a61b-da6c87071d0c/download/school-roll-forecasts-2019-2023.csv
 - format: TXT
-  name: School Roll Forecasts 2019-2023 TXT
+  name: TXT
   url: http://opendata.angus.gov.uk/dataset/1dd909a2-8045-41be-aae8-630a3841fd22/resource/80dd3883-3784-4de3-858e-01ca3f2167c8/download/notes-for-roll-forecasts.txt
 schema: default
 title: School Roll Forecasts 2019-2023

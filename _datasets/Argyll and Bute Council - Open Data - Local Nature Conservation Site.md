@@ -19,8 +19,11 @@ notes: 'These are shown on the proposals maps, and are locally important sites f
   sites of important for nature conservation (SINC)Other local wildlife sites'
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=d05f7337b41e48b4af933404dc0592a2
 - format: FEATURE LAYER
-  name: Open Data - Local Nature Conservation Site FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Local Nature Conservation Site

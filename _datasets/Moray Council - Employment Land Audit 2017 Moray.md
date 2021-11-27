@@ -12,8 +12,11 @@ notes: Employment Land Audit 2017 sites provides am overview of the supply and a
   at Development Monitoring.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=4f325085a09e4460a4246e749c443cc7
 - format: FEATURE LAYER
-  name: Employment Land Audit 2017 (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Employment Land Audit 2017 (Moray)

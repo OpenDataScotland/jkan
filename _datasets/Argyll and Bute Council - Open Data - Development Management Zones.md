@@ -10,8 +10,11 @@ notes: Development Management Zones designated in the Argyll and Bute adopted Lo
   Development Plan 2015.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=c438cbaf9b99421fbc603738caa910a2
 - format: FEATURE LAYER
-  name: Open Data - Development Management Zones FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Development Management Zones

@@ -13,8 +13,11 @@ maintainer_email: someone@example.com
 notes: Education
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=c2a6e872c69f48398701c72d6e23f233
 - format: FEATURE LAYER
-  name: Private and Voluntary Nurseries FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Private and Voluntary Nurseries

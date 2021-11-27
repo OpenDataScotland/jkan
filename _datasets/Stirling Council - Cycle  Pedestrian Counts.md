@@ -27,17 +27,20 @@ notes: "**This group details the output from transport monitoring of cyclist and
   \ roadworks throughout the country.**\n"
 organization: Stirling Council
 resources:
+- format: html
+  name: Description
+  url: https://data.stirling.gov.uk/dataset/cycle-pedestrian-counts
 - format: CSV
-  name: Cycle & Pedestrian Counts CSV
+  name: CSV
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/c3ed863f-4e5e-4ba2-b062-204d843737c0/download/20210616-cycle-pedestrian-counts-jan-2020-to-dec-2020-v1.0.csv
 - format: CSV
-  name: Cycle & Pedestrian Counts CSV
+  name: CSV
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/0ab8ea65-2634-405c-8a40-a092973e7429/download/20210617-cycle-pedestrian-counts-jan-2021-to-dec-2021-v2.0.csv
 - format: JPEG
-  name: Cycle & Pedestrian Counts JPEG
+  name: JPEG
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/b2839a83-e188-4c5e-8983-3be63039cd85/download/20210526-craigs-roundabout-map.jpg
 - format: CSV
-  name: Cycle & Pedestrian Counts CSV
+  name: CSV
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/72934f94-6eed-4ba1-9b4c-0e28317bf9ef/download/20210616-cycle-pedestrian-monitoring-locations.csv
 schema: default
 title: Cycle & Pedestrian Counts

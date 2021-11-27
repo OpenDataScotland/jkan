@@ -12,8 +12,11 @@ notes: 'Data taken from cycle counter on the North Inch, alongside [Bells Sports
   (Note: position is approximate)'
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/perth-bike-counts
 - format: CSV
-  name: Perth Cycle Counter - North Inch/Bells Sports Centre CSV
+  name: CSV
   url: https://data.pkc.gov.uk/dataset/cb6e3218-5fcc-4324-9450-632a15593396/resource/b5a25b82-4372-413f-9143-486e9fefceae/download/bike-counter-north-inch.csv
 schema: default
 title: Perth Cycle Counter - North Inch/Bells Sports Centre

@@ -30,20 +30,23 @@ notes: "[LACD Group Exercise](http://www.leisureandculturedundee.com/leisure/onl
   \ Achieve your goal!"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/adult-fitness-classes
 - format: CSV
-  name: Adult Fitness Classes CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/26794466-d94a-4b8e-8097-6172b97d5977/resource/9b0b8f3e-d241-4df4-8c93-a78e2538b0be/download/afc-aprjun18.csv
 - format: ICS
-  name: Adult Fitness Classes ICS
+  name: ICS
   url: https://data.dundeecity.gov.uk/dataset/26794466-d94a-4b8e-8097-6172b97d5977/resource/ae76db27-2a7d-4b06-8381-4fc10580f5bc/download/lacd-adult-fitness-class-timetable.ics
 - format: PDF
-  name: Adult Fitness Classes PDF
+  name: PDF
   url: https://data.dundeecity.gov.uk/dataset/26794466-d94a-4b8e-8097-6172b97d5977/resource/dd01fe84-b461-4993-85db-b3e3aea068e5/download/adultclasses_apr-jun18.pdf
 - format: CSV
-  name: Adult Fitness Classes CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/26794466-d94a-4b8e-8097-6172b97d5977/resource/ddd480b2-0807-40bf-a14c-a70bb383a4de/download/fitness-class-descriptions.csv
 - format: CSV
-  name: Adult Fitness Classes CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/26794466-d94a-4b8e-8097-6172b97d5977/resource/ebce62a0-9840-4b06-9855-30bafadbbe79/download/lacd-fitness-class-locations.csv
 schema: default
 title: Adult Fitness Classes

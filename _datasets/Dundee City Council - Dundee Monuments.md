@@ -14,8 +14,11 @@ notes: "A list of monuments in Dundee. In this context, Dundee City Council defi
   \n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/dundee-monuments
 - format: CSV
-  name: Dundee Monuments CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/f0ce136f-da5b-4d5d-a7a6-6fea9a913bbe/resource/75ec80d4-57e7-4696-a6e5-1011a30f7019/download/monuments_transformed.csv
 schema: default
 title: Dundee Monuments

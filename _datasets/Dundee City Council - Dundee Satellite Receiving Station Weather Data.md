@@ -28,8 +28,11 @@ notes: 'Weather data, primarily wind, temperature, pressure, humidity, recorded 
   '
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/dundee-satellite-receiving-station-weather-data
 - format: CSV
-  name: Dundee Satellite Receiving Station Weather Data CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/a1bf17ec-8894-4989-96eb-aa6e7b31e0ea/resource/0f35ff53-d72f-434c-af99-c545ccbdb5f5/download/dsrs_weather_2017.csv
 schema: default
 title: Dundee Satellite Receiving Station Weather Data

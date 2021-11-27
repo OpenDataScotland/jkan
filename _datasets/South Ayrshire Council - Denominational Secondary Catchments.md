@@ -9,8 +9,11 @@ maintainer_email: someone@example.com
 notes: Areas depicting catchment zones for denominational secondary schools
 organization: South Ayrshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=88a6db9db81349e8be6a4e94f1f1378d
 - format: FEATURE LAYER
-  name: Denominational Secondary Catchments FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Denominational Secondary Catchments

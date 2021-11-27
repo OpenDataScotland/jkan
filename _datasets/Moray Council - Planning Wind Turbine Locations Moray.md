@@ -18,8 +18,11 @@ notes: Wind turbine locations generated from planning applications received by M
   at the time of writing.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=3af52ce7fed049c79ba57f80c66fc1bc
 - format: FEATURE LAYER
-  name: Planning Wind Turbine Locations (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Planning Wind Turbine Locations (Moray)

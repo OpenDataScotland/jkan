@@ -17,8 +17,11 @@ notes: Conservation Areas "are areas of special architectural or historic intere
   preserve or enhance their varied character.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=9d162181dde74c349d07619426219d67
 - format: FEATURE LAYER
-  name: Open Data - Conservation Areas FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Conservation Areas

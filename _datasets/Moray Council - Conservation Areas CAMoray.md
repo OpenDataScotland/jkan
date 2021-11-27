@@ -13,8 +13,11 @@ notes: "Conservation Areas are areas of special architectural of historic intere
   \ Areas."
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=ae82221d985d4517b788b14be8285329
 - format: FEATURE LAYER
-  name: Conservation Areas (CA)(Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Conservation Areas (CA)(Moray)

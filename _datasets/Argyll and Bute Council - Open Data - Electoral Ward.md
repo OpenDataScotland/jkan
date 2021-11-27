@@ -9,8 +9,11 @@ notes: "Electoral Wards in Argyll and Bute Council - the divisions of the area u
   \ to elect local\_councillors. Each ward has three or four councillors."
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=994a49d1ceeb4808bdf9bddae3a3243c
 - format: FEATURE LAYER
-  name: Open Data - Electoral Ward FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Electoral Ward

@@ -14,8 +14,11 @@ notes: Housing Land Audit 2017 sites for housing with a capacity for 4 or more h
   can be found at Development Monitoring.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=89dc6334d385499394d60066627b3dc6
 - format: FEATURE LAYER
-  name: Housing Land Audit 2017 (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Housing Land Audit 2017 (Moray)

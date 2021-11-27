@@ -15,8 +15,11 @@ notes: The purpose of community councils is to ascertain, co-ordinate and expres
   the public.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=8d9cbca7af444ca8bd527a4951c0072d
 - format: FEATURE LAYER
-  name: Community Council Boundaries (Moray)  FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: 'Community Council Boundaries (Moray) '

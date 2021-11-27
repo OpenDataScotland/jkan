@@ -14,8 +14,11 @@ notes: "For the purposes of the 2015 Local Development\_Plan this corresponds to
   \ defined mainly for retail policy purposes."
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=6de225e222ac44ef8c5c4be38d168917
 - format: FEATURE LAYER
-  name: Open Data - Town Centres FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Town Centres

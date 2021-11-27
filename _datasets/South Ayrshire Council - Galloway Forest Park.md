@@ -10,8 +10,11 @@ maintainer_email: someone@example.com
 notes: Extent of the Galloway Forest Park
 organization: South Ayrshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=e64ef903744442a5befce9fb19a64e53
 - format: FEATURE LAYER
-  name: Galloway Forest Park FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Galloway Forest Park

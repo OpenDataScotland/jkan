@@ -10,8 +10,11 @@ notes: "A \u2018polling place\u2019 is defined as the building or area in which 
   \ area within the polling place where voting takes place. "
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=6b49d2cc9ce44026a3fc232461780c42
 - format: FEATURE LAYER
-  name: Open Data - Polling Places FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Polling Places

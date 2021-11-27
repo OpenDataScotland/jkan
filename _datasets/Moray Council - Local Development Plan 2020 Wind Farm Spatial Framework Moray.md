@@ -8,8 +8,11 @@ maintainer_email: someone@example.com
 notes: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=f1cf505350cb4e909d27f832367a534e
 - format: FEATURE LAYER
-  name: Local Development Plan 2020 Wind Farm Spatial Framework (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)

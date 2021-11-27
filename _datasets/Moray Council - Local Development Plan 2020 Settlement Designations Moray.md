@@ -13,8 +13,11 @@ notes: Local Development Plan 2020Settlement Designations set out the current an
   section of the Local Development Plan.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=202ebe4a49d0469b8e619cfb220359a9
 - format: FEATURE LAYER
-  name: Local Development Plan 2020 Settlement Designations (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan 2020 Settlement Designations (Moray)

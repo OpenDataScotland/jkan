@@ -24,17 +24,20 @@ notes: 'OS Open Names is a geographic directory that contains basic information 
   to ensure that it is compliant with European open data initiatives.'
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/os-open-names
 - format: HTML
-  name: OS Open Names HTML
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME
 - format: HTML
-  name: OS Open Names HTML
+  name: HTML
   url: http://os.uk/business-and-government/products/os-open-names.html
 - format: ATOM FEED
-  name: OS Open Names ATOM FEED
+  name: ATOM FEED
   url: http://os.uk/xml/atom/OSOpenNames.xml
 - format: ZIP
-  name: OS Open Names ZIP
+  name: ZIP
   url: http://os.uk/xml/datasets/OSOpenNamesETRS-89.zip
 schema: default
 title: OS Open Names

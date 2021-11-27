@@ -19,8 +19,11 @@ notes: 'Linked Data is a growing part of the Web where data is published on the 
   users to enjoy.'
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/os-linked-data
 - format: HTML
-  name: OS Linked Data HTML
+  name: HTML
   url: http://data.ordnancesurvey.co.uk/
 schema: default
 title: OS Linked Data

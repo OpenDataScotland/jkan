@@ -16,8 +16,11 @@ notes: "Dundee City Council actively encourages dog owners to act responsibly an
   \ information.\n\n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/dog-bins
 - format: CSV
-  name: Dog Bins CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/a0bd7c32-7147-4e19-9e54-5c73607e3875/resource/09605904-7402-404c-9287-023293461a39/download/dog-bins-locations.csv
 schema: default
 title: Dog Bins
