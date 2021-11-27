@@ -31,15 +31,14 @@ layout: default
             {% if page.gss_code and page.gss_code != empty %}
             <dt>GSS code</dt>
             <dd>{{ page.gss_code }}</dd>
-            {% endif %}
-            {% if (page.wikidata_org_qid and page.wikidata_org_qid != empty) or (page.wikidata_portal_qid and page.wikidata_portal_qid != empty) %}
-            <dt>Wikidata</dt>
+            {% endif %}            
             {% if page.wikidata_org_qid and page.wikidata_org_qid != empty %}
+            <dt>Wikidata (Organization)</dt>
             <dd>Organization: <a href="https://wikidata.org/wiki/{{ page.wikidata_org_qid }}">{{ page.wikidata_org_qid }}</a></dd>
             {% endif %}
             {% if page.wikidata_portal_qid and page.wikidata_portal_qid != empty %}
+            <dt>Wikidata (Portal)</dt>
             <dd>Portal: <a href="https://wikidata.org/wiki/{{ page.wikidata_portal_qid }} ">{{ page.wikidata_portal_qid }}</a></dd>
-            {% endif %}
             {% endif %}
             {% if page.wdtk_id and page.wdtk_id != empty %}
             <dt>WhatDoTheyKnow page</dt>
