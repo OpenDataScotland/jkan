@@ -2,7 +2,7 @@
 schema: default
 title: East Lothian Council
 description: Local authority for the East Lothian Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/6/68/ELC_Logo_PMS_301_rgb_copy.png'
 type:
 - Local authority
 portal_url: ''
