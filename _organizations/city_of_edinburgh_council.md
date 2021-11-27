@@ -2,7 +2,7 @@
 schema: default
 title: City of Edinburgh Council
 description: Local authority for the City of Edinburgh Council area 
-logo: ''
+logo: 'https://en.wikipedia.org/wiki/File:City_of_Edinburgh_Council_logo,_2020.svg'
 type:
 - Local authority
 portal_url: ''
