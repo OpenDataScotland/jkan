@@ -73,7 +73,9 @@ organization_fields:
   - field_name: wikidata_org_qid
     label: Wikidata QID for organization
   - field_name: wikidata_portal_qid
-    label: Wikidata QID for portal
+    label: Wikidata QID for portal#
+  - field_name: wdtk_id
+    label: WhatDoTheyKnow organization ID 
 
 category_fields:
   - field_name: name

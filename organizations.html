@@ -17,6 +17,10 @@ permalink: /organizations/
     <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
       <img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}">
     </a>
+    {% else %}
+    <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
+      <img class="media-object" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}">
+    </a>
     {% endif %}
   </div>
   <div class="media-body">
