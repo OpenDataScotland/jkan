@@ -2,7 +2,7 @@
 schema: default
 title: Falkirk Council
 description: Local authority for the Falkirk Council area 
-logo: 'https://en.wikipedia.org/wiki/File:Falkirk_Council.svg'
+logo: 'https://upload.wikimedia.org/wikipedia/en/0/07/Falkirk_Council.svg'
 type:
 - Local authority
 portal_url: ''
