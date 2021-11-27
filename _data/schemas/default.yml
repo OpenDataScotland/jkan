@@ -70,8 +70,10 @@ organization_fields:
     label: Twitter handle
   - field_name: gss_code
     label: GSS code
-  - field_name: wikidata_qid
-    label: Wikidata QID
+  - field_name: wikidata_org_qid
+    label: Wikidata QID for organization
+  - field_name: wikidata_portal_qid
+    label: Wikidata QID for portal
 
 category_fields:
   - field_name: name
