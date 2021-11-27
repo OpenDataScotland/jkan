@@ -2,7 +2,7 @@
 schema: default
 title: East Dunbartonshire Council
 description: Local authority for the East Dunbartonshire Council area 
-logo: 'https://en.wikipedia.org/wiki/File:East_Dunbartonshire_Logo.svg'
+logo: 'https://upload.wikimedia.org/wikipedia/en/0/0a/East_Dunbartonshire_Logo.svg'
 type:
 - Local authority
 portal_url: ''
