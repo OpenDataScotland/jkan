@@ -2,7 +2,7 @@
 schema: default
 title: South Lanarkshire Council
 description: Local authority for the South Lanarkshire Council area 
-logo: ''
+logo: 'https://en.wikipedia.org/wiki/File:Logo_slanarkshire.gif'
 type:
 - Local authority
 portal_url: ''
