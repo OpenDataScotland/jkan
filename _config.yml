@@ -22,6 +22,8 @@ navigation:
     url: /organizations/
   - title: About
     url: /about/
+  - title: Analytics
+    url: /analytics/
 
 # Collections
 collections:
