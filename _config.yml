@@ -88,3 +88,6 @@ exclude:
   - webpack.config.js
   - README.md
   - LICENSE
+
+# Site default images/logos
+default_org_icon: /img/icons/default_org_icon.png
