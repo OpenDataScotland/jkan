@@ -15,14 +15,14 @@ layout: default
           <h3 class="panel-title">Information</h3>
         </div>
         <div class="panel-body">
-          <dl>
+          <dl style="word-wrap: break-word;">
             {% if page.portal_url and page.portal_url != empty %}
             <dt>Portal URL</dt>
-            <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a>></dd>
+            <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a></dd>
             {% endif %}
             {% if page.org_url and page.org_url != empty %}
             <dt>Organization URL</dt>
-            <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a>></dd>
+            <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a></dd>
             {% endif %}
             {% if page.twitter_handle and page.twitter_handle != empty %}
             <dt>Twitter</dt>
