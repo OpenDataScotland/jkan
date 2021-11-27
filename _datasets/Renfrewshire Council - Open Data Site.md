@@ -14,8 +14,11 @@ notes: Renfrewshire Open Data Platform This is the community's public platform f
   Deprivation 2016 Renfrewshire Open Data Strategy Contact Information danny.mcallion@renfrewshire.gov.uk
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=713c57b0af4a414783366ad9321e4f91
 - format: HUB SITE APPLICATION
-  name: Open Data Site HUB SITE APPLICATION
+  name: HUB SITE APPLICATION
   url: ''
 schema: default
 title: Open Data Site

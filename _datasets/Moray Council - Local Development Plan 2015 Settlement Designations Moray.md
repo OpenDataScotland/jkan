@@ -14,8 +14,11 @@ notes: The Local Development Plan 2015 was superseded by the Local Development P
   out in the Policy section of the Local Development Plan.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=24a749c00aa442ad928d71a22d5c4261
 - format: FEATURE LAYER
-  name: Local Development Plan 2015 Settlement Designations (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan 2015 Settlement Designations (Moray)

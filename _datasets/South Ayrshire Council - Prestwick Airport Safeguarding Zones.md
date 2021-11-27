@@ -9,8 +9,11 @@ maintainer_email: someone@example.com
 notes: Safeguarding zones for developments around Prestwick Airport
 organization: South Ayrshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=310950083fd945d5b618d2b18495d47a
 - format: FEATURE LAYER
-  name: Prestwick Airport Safeguarding Zones FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Prestwick Airport Safeguarding Zones

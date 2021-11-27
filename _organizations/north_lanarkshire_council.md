@@ -2,7 +2,7 @@
 schema: default
 title: North Lanarkshire Council
 description: Local authority for the North Lanarkshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/6/67/North_Lanarkshire_Council.svg'
 type:
 - Local authority
 portal_url: ''

@@ -15,8 +15,11 @@ notes: "This dataset provide the numbers and rates of fires in Renfrewshire down
   \ and Rescue Service website."
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=5ccecdc001ad421ebac54c69b23bf914
 - format: TABLE
-  name: Fire - Type of Incident 2017/18 TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Fire - Type of Incident 2017/18

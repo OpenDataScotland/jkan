@@ -16,8 +16,11 @@ notes: "Babies' first forenames by Council area, 2018 based on the records for a
   \ from outwith Scotland which occurred in the specified council area."
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=e708a65d88c44191875a7ddb8c748113
 - format: TABLE
-  name: Baby First Names 2018 (girls) TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Baby First Names 2018 (girls)

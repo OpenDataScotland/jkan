@@ -15,8 +15,11 @@ notes: "Council Register of Assets (Moray).\_ Section 94 of the Community Empowe
   \ to transfer that asset to the community."
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=400332609a0641e389c990dccfb42430
 - format: FEATURE LAYER
-  name: Council Register of Assets (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Council Register of Assets (Moray)

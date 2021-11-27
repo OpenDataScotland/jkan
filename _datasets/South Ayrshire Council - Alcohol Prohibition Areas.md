@@ -11,8 +11,11 @@ notes: "South Ayrshire Council has passed byelaws to prohibit the drinking of al
   \ where these byelaws apply."
 organization: South Ayrshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=31ae04f92a5f4d5793e03f64bfa0a925
 - format: FEATURE LAYER
-  name: Alcohol Prohibition Areas FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Alcohol Prohibition Areas

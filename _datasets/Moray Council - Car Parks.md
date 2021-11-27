@@ -8,8 +8,11 @@ notes: Details of location, number of spaces, whether paid or free and times of 
   (where applicable)
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: http://www.moray.gov.uk/moray_standard/page_110140.html
 - format: CSV
-  name: Car Parks CSV
+  name: CSV
   url: http://www.moray.gov.uk/moray_standard/page_110140.html
 schema: default
 title: Car Parks

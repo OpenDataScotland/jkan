@@ -2,7 +2,7 @@
 schema: default
 title: Renfrewshire Council
 description: Local authority for the Renfrewshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/0/04/Renfrewshire_Council.png'
 type:
 - Local authority
 portal_url: ''

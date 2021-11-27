@@ -2,7 +2,7 @@
 schema: default
 title: Clackmannanshire Council
 description: Local authority for the Clackmannanshire Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/0/02/Clackmannanshire_Council.svg'
 type:
 - Local authority
 portal_url: ''

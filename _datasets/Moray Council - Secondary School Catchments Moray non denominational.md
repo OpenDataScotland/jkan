@@ -18,8 +18,11 @@ notes: "  In Moray, the education authority discharges its duty to secure adequa
   \ address, they must make an out-of-zone \u2018placing request\u2019.\_   "
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=1892c1ffa5094c479f8769b5563ac88c
 - format: FEATURE LAYER
-  name: Secondary School Catchments (Moray) (non denominational) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Secondary School Catchments (Moray) (non denominational)

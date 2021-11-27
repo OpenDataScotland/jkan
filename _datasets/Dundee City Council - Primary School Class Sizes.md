@@ -15,11 +15,14 @@ notes: "Data on class sizes in primary schools - giving the number of pupils in 
   \ has been suppressed for confidentiality reasons where <5 pupils could be identified."
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/primary-school-class-sizes
 - format: CSV
-  name: Primary School Class Sizes CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/8404637f-dca8-40a9-a496-40a8af9720a5/resource/73286014-aca6-43b0-8dd4-332599e095e1/download/primary-school-class-sizes-sept-2017.csv
 - format: CSV
-  name: Primary School Class Sizes CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/8404637f-dca8-40a9-a496-40a8af9720a5/resource/0d6c691e-1b62-4c53-a852-2c840ddbe082/download/primary-school-class-sizes-sept-2016.csv
 schema: default
 title: Primary School Class Sizes

@@ -18,9 +18,11 @@ notes: "The Local Development Plan 2015 was superseded by the Local Development 
   \ area."
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=7fe8dc2f9ea1476592c29db5661450f4
 - format: FEATURE LAYER
-  name: Local Development Plan 2015 Area of Great Landscape Value (AGLV) (Moray) FEATURE
-    LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Development Plan 2015 Area of Great Landscape Value (AGLV) (Moray)

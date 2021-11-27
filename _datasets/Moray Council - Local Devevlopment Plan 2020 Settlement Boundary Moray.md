@@ -11,8 +11,11 @@ notes: Local Development Plan 2020 Settlement Boundaries are used for the distri
   primary, secondary and third tier settlements.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=98fd19de341d4263a367236b19c06032
 - format: FEATURE LAYER
-  name: Local Devevlopment Plan 2020 Settlement Boundary (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Local Devevlopment Plan 2020 Settlement Boundary (Moray)

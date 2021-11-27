@@ -10,8 +10,11 @@ notes: "Map showing location of heritage buildings and monuments in Renfrewshire
   \ links to detailed descriptions on\_https://paisley.is"
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=a4f0ac4f0fed458cad272614796a3e2e
 - format: WEB MAP
-  name: Heritage Buildings and Monuments WEB MAP
+  name: WEB MAP
   url: ''
 schema: default
 title: Heritage Buildings and Monuments

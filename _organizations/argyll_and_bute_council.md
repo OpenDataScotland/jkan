@@ -2,7 +2,7 @@
 schema: default
 title: Argyll and Bute Council
 description: Local authority for the Argyll and Bute Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/1/13/Argyll_and_Bute_Council.svg'
 type:
 - Local authority
 portal_url: ''

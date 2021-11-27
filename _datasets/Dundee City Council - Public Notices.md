@@ -10,11 +10,14 @@ notes: "Dundee City Council's posts public notices through the national [Tell Me
   \ Notices\n* Traffic Regulation Orders\n* Planning Applications\n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/public-notices
 - format: XML
-  name: Public Notices XML
+  name: XML
   url: https://www.tellmescotland.gov.uk/notices/dundee-city/rss/
 - format: HTML
-  name: Public Notices HTML
+  name: HTML
   url: https://www.tellmescotland.gov.uk/notices/dundee-city/all/
 schema: default
 title: Public Notices

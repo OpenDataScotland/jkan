@@ -9,8 +9,11 @@ maintainer_email: someone@example.com
 notes: Action zones in force in areas of historic settlement
 organization: South Ayrshire
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=9b466c006f98476db286d5a628a9d308
 - format: FEATURE LAYER
-  name: Historic Settlement Action Zones FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Historic Settlement Action Zones

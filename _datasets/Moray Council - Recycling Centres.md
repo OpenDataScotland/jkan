@@ -8,8 +8,11 @@ notes: Details of name, location, opening times and contact telephone number (wh
   applicable)
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: http://www.moray.gov.uk/moray_standard/page_110140.html
 - format: CSV
-  name: Recycling Centres CSV
+  name: CSV
   url: http://www.moray.gov.uk/moray_standard/page_110140.html
 schema: default
 title: Recycling Centres

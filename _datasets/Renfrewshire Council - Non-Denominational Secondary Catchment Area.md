@@ -13,8 +13,11 @@ maintainer_email: someone@example.com
 notes: Education
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=c2a6e872c69f48398701c72d6e23f233
 - format: FEATURE LAYER
-  name: Non-Denominational Secondary Catchment Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Non-Denominational Secondary Catchment Area

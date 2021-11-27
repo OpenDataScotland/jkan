@@ -12,11 +12,14 @@ notes: "Food hygiene rating or inspection results given to a businesses and date
   \ rating schemes.\n\n"
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/food-hygiene-information-scheme
 - format: XML
-  name: Food Hygiene Information Scheme XML
+  name: XML
   url: http://ratings.food.gov.uk/OpenDataFiles/FHRS772en-GB.xml
 - format: CSV
-  name: Food Hygiene Information Scheme CSV
+  name: CSV
   url: https://data.dundeecity.gov.uk/dataset/ad72621b-3aee-4db1-9c94-141420379a65/resource/e6e81dec-e5ca-42bf-9f67-f1f71b71a240/download/fhrs.csv
 schema: default
 title: Food Hygiene Information Scheme

@@ -15,8 +15,11 @@ notes: Community Councils Divisions 2013 - 2017 (Moray). The purpose of communit
   and health. All Community Council meetings are open to the public.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=885c5c2a7c224fc2a8139041dd9c8911
 - format: FEATURE LAYER
-  name: Community Council Boundary Divisions 2013 - 2017 (Moray) FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Community Council Boundary Divisions 2013 - 2017 (Moray)

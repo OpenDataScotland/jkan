@@ -20,17 +20,20 @@ notes: The most detailed open data mapping product available, providing a backdr
   optimised for digital styling and presentation.
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/os-open-map-local
 - format: HTML
-  name: OS Open Map - Local HTML
+  name: HTML
   url: http://os.uk/business-and-government/products/os-open-map-local.html
 - format: HTML
-  name: OS Open Map - Local HTML
+  name: HTML
   url: https://os.uk/opendatadownload/products.html
 - format: ATOM FEED
-  name: OS Open Map - Local ATOM FEED
+  name: ATOM FEED
   url: http://os.uk/xml/atom/OSOpenMapLocal.xml
 - format: ZIP
-  name: OS Open Map - Local ZIP
+  name: ZIP
   url: http://inspire.dundeecity.gov.uk/os_opendata/openmaplocal/OS_openmaplocal_dundee.zip
 schema: default
 title: OS Open Map - Local

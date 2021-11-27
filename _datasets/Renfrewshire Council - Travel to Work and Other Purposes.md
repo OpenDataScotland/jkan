@@ -19,8 +19,11 @@ notes: Detailed statistics on what mode of transport people usually use to get t
   2012, has operated with a fully unclustered sample design.
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=71efe4b2a5f64a4f99842eb37af251db
 - format: TABLE
-  name: Travel to Work and Other Purposes TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Travel to Work and Other Purposes

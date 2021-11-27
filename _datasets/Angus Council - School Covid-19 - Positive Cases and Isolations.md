@@ -49,8 +49,11 @@ notes: 'This weekly data shows the cumulative number of positive Covid-19 cases 
   *  Cumulative self-isolating cases in West Arbroath.'
 organization: Angus Council
 resources:
+- format: html
+  name: Description
+  url: http://opendata.angus.gov.uk/dataset/school-covid-19-positive-cases-and-isolations
 - format: CSV
-  name: School Covid-19 - Positive Cases and Isolations CSV
+  name: CSV
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services%3Aedn_schoolscovidcases&outputFormat=csv
 schema: default
 title: School Covid-19 - Positive Cases and Isolations

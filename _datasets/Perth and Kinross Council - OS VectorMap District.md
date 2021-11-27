@@ -19,14 +19,17 @@ notes: "OS VectorMap District is a simple vector dataset with a nominal scale of
   \ and text."
 organization: Perth and Kinross Council
 resources:
+- format: html
+  name: Description
+  url: https://data.pkc.gov.uk/dataset/os-vectormap-district1
 - format: HTML
-  name: "OS VectorMap\u2122 District HTML"
+  name: HTML
   url: http://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html
 - format: HTML
-  name: "OS VectorMap\u2122 District HTML"
+  name: HTML
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html
 - format: ATOM FEED
-  name: "OS VectorMap\u2122 District ATOM FEED"
+  name: ATOM FEED
   url: http://www.ordnancesurvey.co.uk/oswebsite/xml/atom/VMD.xml
 schema: default
 title: "OS VectorMap\u2122 District"

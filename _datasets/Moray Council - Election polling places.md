@@ -9,29 +9,32 @@ notes: Moray Council Polling Places. Point data showing the polling places for t
   to cast their vote(s) during elections.
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: http://www.moray.gov.uk/moray_standard/page_110140.html
 - format: CSV
-  name: Election polling places CSV
+  name: CSV
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-places-moray/about
 - format: KML
-  name: Election polling places KML
+  name: KML
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-places-moray/about
 - format: SHAPEFILE
-  name: Election polling places SHAPEFILE
+  name: SHAPEFILE
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-places-moray/about
 - format: GEOJSON
-  name: Election polling places GEOJSON
+  name: GEOJSON
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-places-moray/about
 - format: CSV
-  name: Election polling places CSV
+  name: CSV
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-districts-moray/about
 - format: KML
-  name: Election polling places KML
+  name: KML
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-districts-moray/about
 - format: SHAPEFILE
-  name: Election polling places SHAPEFILE
+  name: SHAPEFILE
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-districts-moray/about
 - format: GEOJSON
-  name: Election polling places GEOJSON
+  name: GEOJSON
   url: https://data-moray.opendata.arcgis.com/datasets/moray::polling-districts-moray/about
 schema: default
 title: Election polling places

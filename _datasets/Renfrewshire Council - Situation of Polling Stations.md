@@ -10,8 +10,11 @@ notes: "A layer showing the location of polling\_stations in Renfrewshire in Jun
   \ 2017."
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=000b32d31a22485d9107a1666577372b
 - format: FEATURE LAYER
-  name: Situation of Polling Stations FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Situation of Polling Stations

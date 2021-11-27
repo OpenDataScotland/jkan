@@ -14,20 +14,23 @@ notes: "Neighbourhood Representative Structures are supported and recognised by 
   \ Committee report number 752-2002."
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/neighbourhood-representative-structures
 - format: HTML
-  name: Neighbourhood Representative Structures HTML
+  name: HTML
   url: http://dundeecity.maps.arcgis.com/apps/View/index.html?appid=d226c55906204e948aad4cabe5312ffb
 - format: GEOJSON
-  name: Neighbourhood Representative Structures GEOJSON
+  name: GEOJSON
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:NEIGHBOURHOODREPSTRUCTURE&outputFormat=application%2Fjson&srsName=EPSG:3857
 - format: ZIP
-  name: Neighbourhood Representative Structures ZIP
+  name: ZIP
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:NEIGHBOURHOODREPSTRUCTURE&maxFeatures=100&outputFormat=SHAPE-ZIP
 - format: WMS
-  name: Neighbourhood Representative Structures WMS
+  name: WMS
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire:NEIGHBOURHODDREPSTRUCTURE/wms?service=WMS&version=1.3.0&request=getCapabilities
 - format: WFS
-  name: Neighbourhood Representative Structures WFS
+  name: WFS
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=wfs&request=getCapabilities
 schema: default
 title: Neighbourhood Representative Structures

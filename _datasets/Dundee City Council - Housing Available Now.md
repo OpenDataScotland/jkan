@@ -17,11 +17,14 @@ notes: "## Properties available now from the Common Housing Register\n\nProperti
   \ for available housing."
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/housing-available-now
 - format: HTML
-  name: Housing Available Now HTML
+  name: HTML
   url: https://mapsonline.dundeecity.gov.uk/dcc_gis_root/dcc_gis_config/app_config/availhousing/index.html
 - format: CSV
-  name: Housing Available Now CSV
+  name: CSV
   url: https://mapsonline.dundeecity.gov.uk/dcc_gis_root/DCC_GIS_Config/App_Config/AvailHousing/availhousing_csv.ashx
 schema: default
 title: Housing Available Now

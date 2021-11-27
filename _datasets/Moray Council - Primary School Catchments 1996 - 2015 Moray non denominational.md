@@ -19,9 +19,11 @@ notes: "Primary School Catchments 24/04/1996 - 31/12/2015 (Moray) (non denominat
   \ they must  make an out-of-zone \u2018placing request\u2019.\_ "
 organization: Moray Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=5f6c599e305c40e486be7f348d1716ec
 - format: FEATURE LAYER
-  name: Primary School Catchments 1996 - 2015 (Moray) (non denominational) FEATURE
-    LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Primary School Catchments 1996 - 2015 (Moray) (non denominational)

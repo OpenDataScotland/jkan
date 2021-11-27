@@ -14,8 +14,11 @@ notes: "The council, together with Scottish Natural Heritage have commissioned C
   \ Services and Licensing Committee on 20th September 2017."
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=551baee4d4784e5899d3d5cc4512d1fb
 - format: FEATURE LAYER
-  name: Wind Energy Capacity Study FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Wind Energy Capacity Study

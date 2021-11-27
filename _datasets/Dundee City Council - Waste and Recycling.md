@@ -22,8 +22,11 @@ notes: "Local authorities are required to report to the Scottish Environmental P
   \nAll data can be exported to Excel if required."
 organization: Dundee City Council
 resources:
+- format: html
+  name: Description
+  url: https://data.dundeecity.gov.uk/dataset/waste-and-recycling
 - format: ''
-  name: 'Waste and Recycling '
+  name: ''
   url: https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/waste-data-for-scotland/
 schema: default
 title: Waste and Recycling

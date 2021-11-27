@@ -14,8 +14,11 @@ notes: Areas of valued open space, sports pitches and playing fields as identifi
   in the Proposal Maps of the Local Development Plan.
 organization: Argyll and Bute Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=92f4e1007176410795147b5dd67c6917
 - format: FEATURE LAYER
-  name: Open Data - Open Space Protection Area FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Open Data - Open Space Protection Area

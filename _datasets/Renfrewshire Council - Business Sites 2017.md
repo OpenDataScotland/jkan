@@ -13,8 +13,11 @@ notes: Estimates about the number of VAT/PAYE registered stocks and sites operat
   warehouse, office, mine or depot) situated in a geographically identified place.
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=efc491c10f6e42c9a22fb4177b30582e
 - format: TABLE
-  name: Business Sites 2017 TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Business Sites 2017

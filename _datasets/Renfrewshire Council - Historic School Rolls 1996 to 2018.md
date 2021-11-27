@@ -12,8 +12,11 @@ notes: Data presented here is an extract of data published by the Scottish Gover
   in the Renfrewshire local authority area only.
 organization: Renfrewshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=2cb0962dfcd4418a80f00b3f3220f9c5
 - format: TABLE
-  name: Historic School Rolls 1996 to 2018 TABLE
+  name: TABLE
   url: ''
 schema: default
 title: Historic School Rolls 1996 to 2018

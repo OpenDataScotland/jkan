@@ -2,7 +2,7 @@
 schema: default
 title: Dumfries and Galloway Council
 description: Local authority for the Dumfries and Galloway Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/6/64/Dumfries_and_Galloway_Council.svg'
 type:
 - Local authority
 portal_url: ''

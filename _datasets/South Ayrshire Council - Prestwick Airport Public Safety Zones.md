@@ -10,8 +10,11 @@ maintainer_email: someone@example.com
 notes: Public safety zones surrounding Prestwick Airport
 organization: South Ayrshire Council
 resources:
+- format: html
+  name: Description
+  url: https://www.arcgis.com/home/item.html?id=5934cd9303934b9ba4c23157ecb7bc40
 - format: FEATURE LAYER
-  name: Prestwick Airport Public Safety Zones FEATURE LAYER
+  name: FEATURE LAYER
   url: ''
 schema: default
 title: Prestwick Airport Public Safety Zones
