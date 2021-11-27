@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Highland
-description: Health board for the NHS Highland area 
+description: Health board for the Highland area 
 logo: ''
 type:
 - Health board

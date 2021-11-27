@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Grampian
-description: Health board for the NHS Grampian area 
+description: Health board for the Grampian area 
 logo: ''
 type:
 - Health board

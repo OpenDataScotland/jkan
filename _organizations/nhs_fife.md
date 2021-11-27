@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Fife
-description: Health board for the NHS Fife area 
+description: Health board for the Fife area 
 logo: ''
 type:
 - Health board

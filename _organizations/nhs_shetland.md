@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Shetland
-description: Health board for the NHS Shetland area 
+description: Health board for the Shetland area 
 logo: ''
 type:
 - Health board

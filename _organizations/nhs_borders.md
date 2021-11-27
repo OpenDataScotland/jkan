@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Borders
-description: Health board for the NHS Borders area 
+description: Health board for the Borders area 
 logo: ''
 type:
 - Health board

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Orkney
-description: Health board for the NHS Orkney area 
+description: Health board for the Orkney area 
 logo: ''
 type:
 - Health board

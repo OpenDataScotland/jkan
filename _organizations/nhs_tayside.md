@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Tayside
-description: Health board for the NHS Tayside area 
+description: Health board for the Tayside area 
 logo: ''
 type:
 - Health board
