@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
+notes: <p>Local Development Plan 2020 Wind Farm Spatial Framework (Moray)</p>
 organization: Moray Council
 resources:
 - format: html

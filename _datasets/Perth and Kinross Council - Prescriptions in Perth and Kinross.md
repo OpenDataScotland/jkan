@@ -4,13 +4,11 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'Detail on prescriptions in the Perth and Kinross, divided
+notes: '<p>Detail on prescriptions in the Perth and Kinross, divided</p>
 
-
-  Adapted from data published by NHS ISD Scotland, licensed under the [Open Government
-  Licence 3.0]("http://www.nationalarchives.gov.uk/doc/open-government-licence/").
-
-  '
+  <p>Adapted from data published by NHS ISD Scotland, licensed under the <a href=""
+  title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government
+  Licence 3.0</a>.</p>'
 organization: Perth and Kinross Council
 resources:
 - format: html

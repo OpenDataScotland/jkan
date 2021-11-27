@@ -4,10 +4,10 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: '**Current civic licences, excluding liquor, issued by Stirling Council.**
+notes: '<p><strong>Current civic licences, excluding liquor, issued by Stirling Council.</strong></p>
 
-
-  **Visit Stirling Council''s website for further information on [licences and permits](https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/).**'
+  <p><strong>Visit Stirling Council''s website for further information on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
+  and permits</a>.</strong></p>'
 organization: Stirling Council
 resources:
 - format: html

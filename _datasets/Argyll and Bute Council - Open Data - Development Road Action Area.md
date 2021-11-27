@@ -8,9 +8,9 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: Action proposed by the 2015 Local Development Plan in support of its settlement
+notes: <p>Action proposed by the 2015 Local Development Plan in support of its settlement
   plans and proposals involving safeguarding measures, feasibility studies into options
-  and the undertaking of development road schemes.
+  and the undertaking of development road schemes.</p>
 organization: Argyll and Bute Council
 resources:
 - format: html

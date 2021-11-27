@@ -5,8 +5,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: By 2011 Intermediate Zones, sorted by accidental and non-accidental fires.
-  Derived from statistics.gov.scot under the Open Government Licence v3.0
+notes: <p>By 2011 Intermediate Zones, sorted by accidental and non-accidental fires.
+  Derived from statistics.gov.scot under the Open Government Licence v3.0</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

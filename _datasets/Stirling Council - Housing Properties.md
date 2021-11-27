@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: '**Profile of Stirling Council''s housing properties and yearly allocations.**'
+notes: <p><strong>Profile of Stirling Council's housing properties and yearly allocations.</strong></p>
 organization: Stirling Council
 resources:
 - format: html

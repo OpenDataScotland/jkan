@@ -4,7 +4,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Sites designated as part of the areas housing land supply
+notes: <p>Sites designated as part of the areas housing land supply</p>
 organization: South Ayrshire Council
 resources:
 - format: html

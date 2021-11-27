@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: public trees.
+notes: <p>public trees.</p>
 organization: Dundee City Council
 resources:
 - format: html

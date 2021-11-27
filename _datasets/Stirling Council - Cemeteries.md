@@ -4,17 +4,19 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "**Extract of electronic burial records for cemeteries managed and maintained\
-  \ by Stirling Council.**\n\n**Although this is not a full record of interments,\
-  \ the **[**Council's Archives Service**](https://www.stirling.gov.uk/libraries-archives/archives/)\
-  \ **holds additional burial and lair information, especially for funerals prior\
-  \ to 1900, and can be contacted directly for further assistance.**     \n\n**Information\
-  \ on arranging a funeral can be obtained from Stirling Council\u2019s website by\
-  \ following this link to the **[**Cemetery Service**](https://www.stirling.gov.uk/licensing-legal/births-marriages-death/cemeteries/)**.**\n\
-  \n[**National Records of Scotland**](https://www.nrscotland.gov.uk/) **and** [**Scotland\u2019\
-  s People**](https://www.scotlandspeople.gov.uk/) **provide useful information for\
-  \ those wishing to research their family tree.**\n\n**Next update available from\
-  \ Tuesday, 6th July, 2021.**\n"
+notes: "<p><strong>Extract of electronic burial records for cemeteries managed and\
+  \ maintained by Stirling Council.</strong></p>\n<p><strong>Although this is not\
+  \ a full record of interments, the </strong><a href=\"https://www.stirling.gov.uk/libraries-archives/archives/\"\
+  ><strong>Council's Archives Service</strong></a> <strong>holds additional burial\
+  \ and lair information, especially for funerals prior to 1900, and can be contacted\
+  \ directly for further assistance.</strong>     </p>\n<p><strong>Information on\
+  \ arranging a funeral can be obtained from Stirling Council\u2019s website by following\
+  \ this link to the </strong><a href=\"https://www.stirling.gov.uk/licensing-legal/births-marriages-death/cemeteries/\"\
+  ><strong>Cemetery Service</strong></a><strong>.</strong></p>\n<p><a href=\"https://www.nrscotland.gov.uk/\"\
+  ><strong>National Records of Scotland</strong></a> <strong>and</strong> <a href=\"\
+  https://www.scotlandspeople.gov.uk/\"><strong>Scotland\u2019s People</strong></a>\
+  \ <strong>provide useful information for those wishing to research their family\
+  \ tree.</strong></p>\n<p><strong>Next update available from Tuesday, 6th July, 2021.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html

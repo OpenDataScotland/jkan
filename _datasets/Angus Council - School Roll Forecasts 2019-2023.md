@@ -7,7 +7,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: "School Roll Forecasts\nView our 2017 based school roll forecasts for Angus\u2019\
+notes: "<p>School Roll Forecasts\nView our 2017 based school roll forecasts for Angus\u2019\
   s primary and secondary schools until 2023.\nThe forecasts take as their starting\
   \ point the current school population. They then attempt to identify how that population\
   \ may change over time. In doing so they take into account demographic factors such\
@@ -29,7 +29,7 @@ notes: "School Roll Forecasts\nView our 2017 based school roll forecasts for Ang
   \ can be disproportionately affected, either positively or negatively, by the movement\
   \ of one or two families. School forecasts, therefore, can, and often do, change\
   \ from year to year. They remain the best estimate that can be arrived at, using\
-  \ data currently available. \n"
+  \ data currently available. </p>"
 organization: Angus Council
 resources:
 - format: html

@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "A layer showing the location of polling\_stations in Renfrewshire in June\
-  \ 2017."
+notes: "<p>A layer showing the location of polling\_stations in Renfrewshire in June\
+  \ 2017.</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

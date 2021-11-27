@@ -8,9 +8,9 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: 'Community Councils within Renfrewshire. Community Councils play an active
+notes: <p>Community Councils within Renfrewshire. Community Councils play an active
   role in expressing the views and concerns of local people within their area on a
-  wide range of issues of public interest.The layer includes population figures. '
+  wide range of issues of public interest.The layer includes population figures. </p>
 organization: Renfrewshire Council
 resources:
 - format: html

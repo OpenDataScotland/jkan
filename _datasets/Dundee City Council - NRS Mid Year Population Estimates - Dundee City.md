@@ -5,16 +5,15 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: 'This data set contains Dundee City Mid Year Population Estimates, sourced
+notes: '<p>This data set contains Dundee City Mid Year Population Estimates, sourced
   from the National Records of Scotland. National Records of Scotland publish mid
   year population estimates on an annual basis.
 
   The most recent population estimates are the Mid 2019 Mid Year Population Estimates.
 
-  You can access the full NRS publication by clicking on the link below:
+  You can access the full NRS publication by clicking on the link below:</p>
 
-
-  https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019'
+  <p>https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2019</p>'
 organization: Dundee City Council
 resources:
 - format: html

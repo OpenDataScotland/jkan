@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Proposed Plan 2019 Rural Group Designations (Moray)
+notes: <p>Proposed Plan 2019 Rural Group Designations (Moray)</p>
 organization: Moray Council
 resources:
 - format: html

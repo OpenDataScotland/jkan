@@ -4,30 +4,30 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: "[LACD Group Exercise](http://www.leisureandculturedundee.com/leisure/onlinebooking)\
-  \ offers a variety of benefits you could miss out on if you chose to work out on\
-  \ your own. Some of the benefits include; exposure to a fun and sociable environment,\
-  \ a safe and effective workout program, a consistent exercise timetable, and a workout\
-  \ that requires no prior exercise knowledge or experience. Our classes are structured\
-  \ with a purpose and are beneficial for people with limited knowledge about safe\
-  \ and effective exercise programming. Our specifically designed classes include\
-  \ warm-ups, cool-downs and flexibility in addition to the conditioning section.\
-  \ \n \nWe have a large, diverse and multi-skilled team of highly qualified fitness\
-  \ professionals, who are sure to help you achieve your goal. They will also serve\
-  \ as a resource for class participants and can encourage you to engage in other\
-  \ healthy living programs LACD offer outside of class. \nFrom as little as \xA3\
-  29.00 a month our platinum membership offers you unlimited access to our Fitness\
+notes: "<p><a href=\"http://www.leisureandculturedundee.com/leisure/onlinebooking\"\
+  >LACD Group Exercise</a> offers a variety of benefits you could miss out on if you\
+  \ chose to work out on your own. Some of the benefits include; exposure to a fun\
+  \ and sociable environment, a safe and effective workout program, a consistent exercise\
+  \ timetable, and a workout that requires no prior exercise knowledge or experience.\
+  \ Our classes are structured with a purpose and are beneficial for people with limited\
+  \ knowledge about safe and effective exercise programming. Our specifically designed\
+  \ classes include warm-ups, cool-downs and flexibility in addition to the conditioning\
+  \ section. </p>\n<p>We have a large, diverse and multi-skilled team of highly qualified\
+  \ fitness professionals, who are sure to help you achieve your goal. They will also\
+  \ serve as a resource for class participants and can encourage you to engage in\
+  \ other healthy living programs LACD offer outside of class. \nFrom as little as\
+  \ \xA329.00 a month our platinum membership offers you unlimited access to our Fitness\
   \ Studios, Swimming Pools, Steam Room, Sauna Suites and the largest Group Exercise\
   \ Program within the local area. Our Group Exercise timetable offers over 120 classes,\
   \ 38 different disciplines with varied intensity levels, 7 days a week and we have\
   \ 8 different fantastic venues throughout Dundee to choose from. Regardless of ability\
-  \ we really do have something for everyone! \n \n[Leisureactive](http://www.leisureandculturedundee.com/leisure/leisure-active)\
-  \ is the exciting membership scheme run by LACD working in partnership with Dundee\
-  \ City Council. It provides fantastic value for money services in Olympia, Lochee\
-  \ Swim & Sports Centre, Dundee International Sports Centre (DISC), Douglas Sports\
-  \ Centre, Lynch Sports Centre, Grove Swim and Sport Centre, Harris Swim and Sport\
-  \ Centre and St Paul's Swim and Sport Centre. \n \nAll this designed for one purpose!\
-  \ Achieve your goal!"
+  \ we really do have something for everyone! </p>\n<p><a href=\"http://www.leisureandculturedundee.com/leisure/leisure-active\"\
+  >Leisureactive</a> is the exciting membership scheme run by LACD working in partnership\
+  \ with Dundee City Council. It provides fantastic value for money services in Olympia,\
+  \ Lochee Swim &amp; Sports Centre, Dundee International Sports Centre (DISC), Douglas\
+  \ Sports Centre, Lynch Sports Centre, Grove Swim and Sport Centre, Harris Swim and\
+  \ Sport Centre and St Paul's Swim and Sport Centre. </p>\n<p>All this designed for\
+  \ one purpose! Achieve your goal!</p>"
 organization: Dundee City Council
 resources:
 - format: html

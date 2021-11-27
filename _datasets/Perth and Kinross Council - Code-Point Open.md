@@ -8,11 +8,11 @@ category:
 license: uk-ogl
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Code-Point Open is a dataset that contains postcode units, each of which have
-  a precise geographical location. There are approximately 1.7 million postcode units
-  in England, Scotland and Wales. Each postcode unit, such as KY12 8UP or PO14 2RS,
-  contains an average of fifteen adjoining addresses. Northern Ireland postcodes are
-  not available with Code-Point Open.
+notes: <p>Code-Point Open is a dataset that contains postcode units, each of which
+  have a precise geographical location. There are approximately 1.7 million postcode
+  units in England, Scotland and Wales. Each postcode unit, such as KY12 8UP or PO14
+  2RS, contains an average of fifteen adjoining addresses. Northern Ireland postcodes
+  are not available with Code-Point Open.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

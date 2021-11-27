@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Areas depicting greenbelt in South Ayrshire
+notes: <p>Areas depicting greenbelt in South Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

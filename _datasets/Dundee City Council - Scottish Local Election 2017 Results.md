@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Dundee City Council 2017 Election Results. The preference profile reports for
-  each ward are listed in CSV format. Prior to accessing the reports you should read
-  the separate Guidance document.
+notes: <p>Dundee City Council 2017 Election Results. The preference profile reports
+  for each ward are listed in CSV format. Prior to accessing the reports you should
+  read the separate Guidance document.</p>
 organization: Dundee City Council
 resources:
 - format: html

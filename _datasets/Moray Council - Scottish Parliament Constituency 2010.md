@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Scottish Parliament Constituency 2010 (OS Boundary Line Open Data)
+notes: <p>Scottish Parliament Constituency 2010 (OS Boundary Line Open Data)</p>
 organization: Moray Council
 resources:
 - format: html

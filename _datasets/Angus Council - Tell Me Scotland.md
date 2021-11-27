@@ -9,8 +9,8 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: 'Tells people about public notices that are published by Angus Council, eg,
-  licensing and planning '
+notes: <p>Tells people about public notices that are published by Angus Council, eg,
+  licensing and planning </p>
 organization: Angus Council
 resources:
 - format: html

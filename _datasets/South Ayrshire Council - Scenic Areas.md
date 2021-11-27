@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Local landscape designations - areas depicting scenic area boundaries for South
-  Ayrshire
+notes: <p>Local landscape designations - areas depicting scenic area boundaries for
+  South Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

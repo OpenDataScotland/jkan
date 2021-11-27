@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Areas depicting community council boundaries for South Ayrshire
+notes: <p>Areas depicting community council boundaries for South Ayrshire</p>
 organization: South Ayrshire Council
 resources:
 - format: html

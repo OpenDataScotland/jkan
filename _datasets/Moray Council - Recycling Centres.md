@@ -4,8 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Details of name, location, opening times and contact telephone number (where
-  applicable)
+notes: <p>Details of name, location, opening times and contact telephone number (where
+  applicable)</p>
 organization: Moray Council
 resources:
 - format: html

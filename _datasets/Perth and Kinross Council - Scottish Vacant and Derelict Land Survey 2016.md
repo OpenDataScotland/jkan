@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: A survey issued by the Scottish Government to establish the extent &amp; state
-  of vacant &amp; derelict land in Scotland. Local Authorities return data to the
-  SG for checking.
+notes: <p>A survey issued by the Scottish Government to establish the extent &amp;
+  state of vacant &amp; derelict land in Scotland. Local Authorities return data to
+  the SG for checking.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

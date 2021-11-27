@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Location of various car parks in Perth and Kinross.
+notes: <p>Location of various car parks in Perth and Kinross.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

@@ -4,9 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'Community Council boundaries adopted in November 2011.
-
-  '
+notes: <p>Community Council boundaries adopted in November 2011.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

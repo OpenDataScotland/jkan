@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Local Development Plan 2020 Special Landscape Areas (SLA) (Moray)
+notes: <p>Local Development Plan 2020 Special Landscape Areas (SLA) (Moray)</p>
 organization: Moray Council
 resources:
 - format: html

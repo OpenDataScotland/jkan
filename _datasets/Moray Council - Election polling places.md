@@ -4,9 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Moray Council Polling Places. Point data showing the polling places for the
-  Moray Council area. A polling place is a the particular building where people go
-  to cast their vote(s) during elections.
+notes: <p>Moray Council Polling Places. Point data showing the polling places for
+  the Moray Council area. A polling place is a the particular building where people
+  go to cast their vote(s) during elections.</p>
 organization: Moray Council
 resources:
 - format: html

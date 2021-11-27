@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: Locations of hotels in Renfrewshire, with information on number of rooms, grade
-  and website links.
+notes: <p>Locations of hotels in Renfrewshire, with information on number of rooms,
+  grade and website links.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

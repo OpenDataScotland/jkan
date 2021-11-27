@@ -6,9 +6,9 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: All responses to on-line questionnaire seeking feedback on our current school
+notes: <p>All responses to on-line questionnaire seeking feedback on our current school
   estate and how we could improve in the future. Those questionnaires that were completed
-  in paper format were also uploaded to the on-line questionnaire.
+  in paper format were also uploaded to the on-line questionnaire.</p>
 organization: Angus Council
 resources:
 - format: html

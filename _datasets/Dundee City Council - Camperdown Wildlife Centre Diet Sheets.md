@@ -4,8 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: Diet sheets for animals at Camperdown Wildlife Centre. Diets are subject to
-  change. More information about the animals at Camperdown can be found on their [website](http://www.camperdownwildlifecentre.com/)
+notes: <p>Diet sheets for animals at Camperdown Wildlife Centre. Diets are subject
+  to change. More information about the animals at Camperdown can be found on their
+  <a href="http://www.camperdownwildlifecentre.com/">website</a></p>
 organization: Dundee City Council
 resources:
 - format: html

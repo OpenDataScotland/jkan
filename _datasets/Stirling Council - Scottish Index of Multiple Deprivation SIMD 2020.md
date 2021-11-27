@@ -4,11 +4,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Stirling Council
 maintainer_email: someone@example.com
-notes: "[**The Scottish Index of Multiple Deprivation 2020**](https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/)**\
-  \ is the Scottish Government\u2019s official tool for identifying those places in\
-  \ Scotland suffering from deprivation. It incorporates several different aspects\
-  \ of deprivation (employment, income, health, education, skills and training, geographic\
-  \ access, crime and housing), combining them into a single index.**"
+notes: "<p><a href=\"https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/\"\
+  ><strong>The Scottish Index of Multiple Deprivation 2020</strong></a><strong> is\
+  \ the Scottish Government\u2019s official tool for identifying those places in Scotland\
+  \ suffering from deprivation. It incorporates several different aspects of deprivation\
+  \ (employment, income, health, education, skills and training, geographic access,\
+  \ crime and housing), combining them into a single index.</strong></p>"
 organization: Stirling Council
 resources:
 - format: html

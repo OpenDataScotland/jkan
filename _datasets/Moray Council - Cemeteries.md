@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Details of name, location and whether Moray Council owned
+notes: <p>Details of name, location and whether Moray Council owned</p>
 organization: Moray Council
 resources:
 - format: html

@@ -4,8 +4,8 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Details of location, number of spaces, whether paid or free and times of opening
-  (where applicable)
+notes: <p>Details of location, number of spaces, whether paid or free and times of
+  opening (where applicable)</p>
 organization: Moray Council
 resources:
 - format: html

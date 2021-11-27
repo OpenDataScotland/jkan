@@ -7,7 +7,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Disabled parking bays in Angus with enforceable restrictions.
+notes: <p>Disabled parking bays in Angus with enforceable restrictions.</p>
 organization: Angus Council
 resources:
 - format: html

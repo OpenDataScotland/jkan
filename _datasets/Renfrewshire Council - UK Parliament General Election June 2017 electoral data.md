@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: UK Parliament General Election 8 June 2017 electoral data.
+notes: <p>UK Parliament General Election 8 June 2017 electoral data.</p>
 organization: Renfrewshire Council
 resources:
 - format: html

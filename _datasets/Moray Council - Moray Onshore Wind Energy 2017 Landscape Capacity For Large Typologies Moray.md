@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Moray Onshore Wind Energy 2017 Landscape Capacity For Large Typologies (Moray)
+notes: <p>Moray Onshore Wind Energy 2017 Landscape Capacity For Large Typologies (Moray)</p>
 organization: Moray Council
 resources:
 - format: html

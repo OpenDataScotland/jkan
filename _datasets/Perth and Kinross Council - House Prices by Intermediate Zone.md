@@ -5,12 +5,12 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: An adaptation from Scotland's official statistics giving house prices in Perth
-  and Kinross by intermediate Zones, a statistical geography created for use with
-  the Scottish Neighborhood Statistics (SNS) programme and the wider public sector.
+notes: <p>An adaptation from Scotland's official statistics giving house prices in
+  Perth and Kinross by intermediate Zones, a statistical geography created for use
+  with the Scottish Neighborhood Statistics (SNS) programme and the wider public sector.
   Intermediate Zones represent 2,500 - 6,000 household residents, and are a relatively
   stable geography that can be used to analyse change over time, with changes only
-  occurring after a Census.
+  occurring after a Census.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

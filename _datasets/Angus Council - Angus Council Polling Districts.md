@@ -8,7 +8,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Current and historic polling district boundaries in Angus Council.
+notes: <p>Current and historic polling district boundaries in Angus Council.</p>
 organization: Angus Council
 resources:
 - format: html

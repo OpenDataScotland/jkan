@@ -5,8 +5,8 @@ category:
 license: ''
 maintainer: Moray Council
 maintainer_email: someone@example.com
-notes: Education School Locations (Moray), including Secondary and Primary for non
-  denominational and denominational.
+notes: <p>Education School Locations (Moray), including Secondary and Primary for
+  non denominational and denominational.</p>
 organization: Moray Council
 resources:
 - format: html

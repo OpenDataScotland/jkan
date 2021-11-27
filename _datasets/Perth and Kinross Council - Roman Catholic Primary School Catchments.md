@@ -4,7 +4,7 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: "Boundaries for Roman Catholic primary school catchment areas \n"
+notes: <p>Boundaries for Roman Catholic primary school catchment areas </p>
 organization: Perth and Kinross Council
 resources:
 - format: html

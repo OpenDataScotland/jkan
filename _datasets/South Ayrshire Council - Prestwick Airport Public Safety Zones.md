@@ -7,7 +7,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Public safety zones surrounding Prestwick Airport
+notes: <p>Public safety zones surrounding Prestwick Airport</p>
 organization: South Ayrshire Council
 resources:
 - format: html

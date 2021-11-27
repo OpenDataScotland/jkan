@@ -9,9 +9,9 @@ category:
 license: ''
 maintainer: Argyll and Bute Council
 maintainer_email: someone@example.com
-notes: 'Argyll and Bute : Woodland and Forestry Strategy 2011 showing indicative suitability
-  for woodland and forestry. It identifies the existing resource, the main issues
-  and strategic priorities within Argyll and Bute'
+notes: '<p>Argyll and Bute : Woodland and Forestry Strategy 2011 showing indicative
+  suitability for woodland and forestry. It identifies the existing resource, the
+  main issues and strategic priorities within Argyll and Bute</p>'
 organization: Argyll and Bute Council
 resources:
 - format: html

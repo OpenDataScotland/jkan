@@ -4,11 +4,9 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: 'A designated area where certain pollutants exceed certain levels and therefore
+notes: <p>A designated area where certain pollutants exceed certain levels and therefore
   need a Detailed Assessment. In PKC nitrogen dioxide and particulate matter have
-  been identified.
-
-  '
+  been identified.</p>
 organization: Perth and Kinross Council
 resources:
 - format: html

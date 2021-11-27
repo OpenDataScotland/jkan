@@ -6,8 +6,9 @@ category:
 license: uk-ogl
 maintainer: Perth and Kinross Council
 maintainer_email: someone@example.com
-notes: Filtered from DfT data, derived from data.gov.uk and published under the [Open
-  Government License v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+notes: <p>Filtered from DfT data, derived from data.gov.uk and published under the
+  <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
+  Government License v3.0</a></p>
 organization: Perth and Kinross Council
 resources:
 - format: html

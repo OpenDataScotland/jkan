@@ -7,7 +7,7 @@ category:
 license: UK Open Government Licence (OGL)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Angus Council Denominational Primary School Catchment Areas
+notes: <p>Angus Council Denominational Primary School Catchment Areas</p>
 organization: Angus Council
 resources:
 - format: html

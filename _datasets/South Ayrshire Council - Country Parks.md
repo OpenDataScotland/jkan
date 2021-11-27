@@ -5,7 +5,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Extent of Country Parks in area
+notes: <p>Extent of Country Parks in area</p>
 organization: South Ayrshire Council
 resources:
 - format: html

@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Areas used historically for landfill
+notes: <p>Areas used historically for landfill</p>
 organization: South Ayrshire Council
 resources:
 - format: html

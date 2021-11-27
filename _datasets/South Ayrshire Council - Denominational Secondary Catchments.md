@@ -6,7 +6,7 @@ category:
 license: ''
 maintainer: South Ayrshire Council
 maintainer_email: someone@example.com
-notes: Areas depicting catchment zones for denominational secondary schools
+notes: <p>Areas depicting catchment zones for denominational secondary schools</p>
 organization: South Ayrshire Council
 resources:
 - format: html

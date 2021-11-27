@@ -6,8 +6,8 @@ category:
 license: ''
 maintainer: Renfrewshire Council
 maintainer_email: someone@example.com
-notes: "Scottish Index of Multiple Deprivation (SIMD) 2016 indicator data for Renfrewshire.\_\
-  For more information, guidance, and SIMD16 Technical Notes please go to\_http://www.gov.scot/SIMD"
+notes: "<p>Scottish Index of Multiple Deprivation (SIMD) 2016 indicator data for Renfrewshire.\_\
+  For more information, guidance, and SIMD16 Technical Notes please go to\_http://www.gov.scot/SIMD</p>"
 organization: Renfrewshire Council
 resources:
 - format: html

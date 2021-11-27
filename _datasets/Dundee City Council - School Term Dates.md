@@ -4,19 +4,21 @@ category:
 license: Open Government Licence 3.0 (United Kingdom)
 maintainer: Dundee City Council
 maintainer_email: someone@example.com
-notes: 'School term dates for schools within Dundee City for the following academic
-  years:
+notes: '<p>School term dates for schools within Dundee City for the following academic
+  years:</p>
 
+  <ul>
 
-  * 2018/2019
+  <li>2018/2019</li>
 
-  * 2019/2020
+  <li>2019/2020</li>
 
-  * 2020/2021
+  <li>2020/2021</li>
 
+  </ul>
 
-  Dates include public and school holidays as well as staff in service days. iCalendar
-  format allows you to add dates to most calendar applications. '
+  <p>Dates include public and school holidays as well as staff in service days. iCalendar
+  format allows you to add dates to most calendar applications. </p>'
 organization: Dundee City Council
 resources:
 - format: html

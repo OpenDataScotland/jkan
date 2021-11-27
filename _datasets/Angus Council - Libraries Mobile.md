@@ -3,7 +3,7 @@ category: []
 license: Other (Public Domain)
 maintainer: Angus Council
 maintainer_email: someone@example.com
-notes: Text file of Angus Council's mobile library locations
+notes: <p>Text file of Angus Council's mobile library locations</p>
 organization: Angus Council
 resources:
 - format: html
