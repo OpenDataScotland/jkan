@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Forth Valley
-description: Health board for the NHS Forth Valley area 
+description: Health board for the Forth Valley area 
 logo: ''
 type:
 - Health board

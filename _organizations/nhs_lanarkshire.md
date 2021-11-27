@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Lanarkshire
-description: Health board for the NHS Lanarkshire area 
+description: Health board for the Lanarkshire area 
 logo: ''
 type:
 - Health board

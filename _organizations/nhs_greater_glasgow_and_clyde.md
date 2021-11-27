@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Greater Glasgow and Clyde
-description: Health board for the NHS Greater Glasgow and Clyde area 
+description: Health board for the Greater Glasgow and Clyde area 
 logo: ''
 type:
 - Health board

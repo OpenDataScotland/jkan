@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Lothian
-description: Health board for the NHS Lothian area 
+description: Health board for the Lothian area 
 logo: ''
 type:
 - Health board

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: NHS Dumfries and Galloway
-description: Health board for the NHS Dumfries and Galloway area 
+description: Health board for the Dumfries and Galloway area 
 logo: ''
 type:
 - Health board
