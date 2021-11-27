@@ -26,7 +26,7 @@ layout: default
             {% endif %}
             {% if page.twitter_handle and page.twitter_handle != empty %}
             <dt>Twitter</dt>
-            <dd><a href="https://twitter.com/{{ page.twitter_handle }}">https://twitter.com/{{ page.twitter_handle }}</a>></dd>
+            <dd><a href="https://twitter.com/{{ page.twitter_handle }}">https://twitter.com/{{ page.twitter_handle }}</a></dd>
             {% endif %}
             {% if page.gss_code and page.gss_code != empty %}
             <dt>GSS code</dt>
@@ -51,7 +51,8 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="col-sm-9"></div>
+</div>
+<div class="col-sm-9">
   <h1>
     {{ page.title }}
     <small style="margin-left: 0.5rem">{{ org_type }}</small>
