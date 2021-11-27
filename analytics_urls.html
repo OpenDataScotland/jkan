@@ -1,0 +1,125 @@
+---
+title: URL Statuses
+layout: default
+permalink: /analytics/urls/
+---
+{% include breadcrumbs.html %}
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+<!-- Custom stylesheet, it must be in the same directory as the html file -->
+<link rel="stylesheet" href="analytics_style.css">
+
+<!-- Loading mathjax macro -->
+<!-- Load mathjax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    <!-- End of mathjax configuration --></head>
+
+<body>
+    <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+        <div class="text_cell_render border-box-sizing rendered_html">
+        <p><a id='urls'></a></p>
+        <h2 id="Check-URL-statuses">Check URL statuses<a class="anchor-link" href="#Check-URL-statuses">&#182;</a></h2><p>Checks to see if our urls are active or if the file for some reason has been removed.</p>
+        
+        </div>
+        </div>
+        </div>
+        <div class="cell border-box-sizing code_cell rendered">
+        
+        </div>
+        <div class="cell border-box-sizing code_cell rendered">
+        
+        <div class="output_wrapper">
+        <div class="output">
+        
+        <div class="output_area">
+        
+        <div class="output_subarea output_stream output_stdout output_text">
+        <pre>url status check skipped.
+        </pre>
+        </div>
+        </div>
+        
+        </div>
+        </div>
+        
+        </div>
+        <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+        <div class="text_cell_render border-box-sizing rendered_html">
+        <h2 id="URL-statuses-by-Council">URL statuses by Council<a class="anchor-link" href="#URL-statuses-by-Council">&#182;</a></h2><p>This shows if the URL of OD assets are active (True) or not (False).
+        If it is True, the data is accessible, if it is False there is a hosting issue.
+        (Error) indicates there is no URL to check or it is missing from our data.</p>
+        <p>A full listing of the URL status is available in 'output_AllAnalytics.csv'</p>
+        
+        </div>
+        </div>
+        </div>
+        <div class="cell border-box-sizing code_cell rendered">
+        
+        <div class="output_wrapper">
+        <div class="output">
+        
+        <div class="output_area">
+        
+        
+        <div class="output_html rendered_html output_subarea output_execute_result">
+        <div>
+        <style scoped>
+            .dataframe tbody tr th:only-of-type {
+                vertical-align: middle;
+            }
+        
+            .dataframe tbody tr th {
+                vertical-align: top;
+            }
+        
+            .dataframe thead th {
+                text-align: right;
+            }
+        </style>
+        <table border="1" class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th>AssetStatus</th>
+            </tr>
+            <tr>
+              <th>Owner</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+        </div>
+        </div>
+        
+        </div>
+        
+        </div>
+        </div>
+        
+        </div>
+</body>
