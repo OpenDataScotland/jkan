@@ -2,7 +2,7 @@
 schema: default
 title: Community Justice Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://communityjustice.scot/wp-content/uploads/2021/02/cropped-CJS-logo-black-background-1-1-270x270.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

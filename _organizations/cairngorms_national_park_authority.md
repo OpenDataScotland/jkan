@@ -2,7 +2,7 @@
 schema: default
 title: Cairngorms National Park Authority
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://cairngorms.co.uk/wp-content/themes/cnpa/assets/images/design/logo-cairngorms-v2.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

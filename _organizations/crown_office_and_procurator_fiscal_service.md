@@ -2,7 +2,7 @@
 schema: default
 title: Crown Office and Procurator Fiscal Service
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Crest_of_the_Kingdom_of_Scotland.svg'
 type:
 - Other agency
 portal_url: ''

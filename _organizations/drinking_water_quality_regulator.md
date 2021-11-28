@@ -2,7 +2,7 @@
 schema: default
 title: Drinking Water Quality Regulator
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://www.dwqr.scot/Content/images/branding/logo.png'
 type:
 - Other agency
 portal_url: ''

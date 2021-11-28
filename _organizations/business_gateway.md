@@ -2,7 +2,7 @@
 schema: default
 title: Business Gateway
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://www.bgateway.com/assets/dist/images/static/favicons/mstile-310x310.png'
 type:
 - Other agency
 portal_url: ''

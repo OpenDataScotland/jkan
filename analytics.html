@@ -12,7 +12,7 @@ permalink: /analytics/
         <meta charset="utf-8" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-
+        <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
         <!-- Loading mathjax macro -->
         <!-- Load mathjax -->
@@ -40,6 +40,10 @@ permalink: /analytics/
 <body>
 <!--standard set of links to use on all analytics pages-->        
 {% include analytics-links.html %}
+
+<!--Note-->
+<p><b>Note:</b> Unless specified, all of the analysis here is static and based on the original raw dataset scraped in Jun 2021. We are in the process of updating this section to use the dynamic <a href="/datasets/">datasets</a> you see on this site. Where the analysis is on this site's data, it will be referenced as "JKAN data". This work is expected to carry on to end Q2 2022 (see our <a href="/about/">About page</a> to view our plan in more detail or help us speed it up).</p>
+
 
 
 <!--Commentary-->
@@ -3158,6 +3162,29 @@ z
     </tbody>
 </table>
   
+
+
+<!--JKAN data from live site-->
+<h4>JKAN data</h4>
+<p>number of JKAN datasets: <span id="datasets_count"></span></p>
+<p>number of organisations with JKAN datasets: <span id="datasets_orgs_count"></span></p>
+<script>
+        // loading the datasets data
+        $.getJSON('https://opendata.scot/datasets.json', function(datasets) {
+                // Getting count of datasets
+                document.getElementById("datasets_count").innerHTML = datasets.length;
+                // Getting organisations with a dataset
+                let dataset_orgs = [];
+                datasets.forEach(function(dataset){
+                        dataset_orgs.push(dataset.organization)
+                        });
+                        // Retaining unique organisations only
+                        $.uniqueSort(dataset_orgs)
+                        document.getElementById("datasets_orgs_count").innerHTML = dataset_orgs.length;
+        });    
+</script>
+
+
 
 </body>     
 </html>

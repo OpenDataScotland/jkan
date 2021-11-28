@@ -2,7 +2,7 @@
 schema: default
 title: Children's Hearing
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://www.chscotland.gov.uk/media/dqoaijrg/childrens-hearing-scotland-logo.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
