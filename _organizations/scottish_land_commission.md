@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Land Commission
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/6/6b/Scottish_Land_Commission_logo.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
