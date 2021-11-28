@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Futures Trust
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Scottish_Futures_Trust_logo.svg/1920px-Scottish_Futures_Trust_logo.svg.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
