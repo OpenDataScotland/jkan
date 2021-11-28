@@ -2,7 +2,7 @@
 schema: default
 title: Crown Estate Scotland
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/6/6c/Crown_Estate_Scotland_logo.png'
 type:
 - Public corporation
 portal_url: ''
