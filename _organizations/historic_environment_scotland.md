@@ -2,7 +2,7 @@
 schema: default
 title: Historic Environment Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Historic_Environment_Scotland_full_logo.svg/1920px-Historic_Environment_Scotland_full_logo.svg.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
