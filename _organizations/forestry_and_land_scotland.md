@@ -2,7 +2,7 @@
 schema: default
 title: Forestry and Land Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://forestryandland.gov.scot//templates/forestry_and_land_scotland/mstile-150x150.png'
 type:
 - Other agency
 portal_url: ''
