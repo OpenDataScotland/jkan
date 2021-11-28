@@ -2,7 +2,7 @@
 schema: default
 title: Loch Lomond and the Trossachs National Park Authority
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Loch_Katrine.jpg/284px-Loch_Katrine.jpg'
 type:
 - Non-Departmental Public Body
 portal_url: ''
