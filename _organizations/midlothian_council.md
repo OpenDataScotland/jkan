@@ -2,7 +2,7 @@
 schema: default
 title: Midlothian Council
 description: Local authority for the Midlothian Council area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/a/a3/Midlothian_Council_Logo.svg'
 type:
 - Local authority
 portal_url: ''
