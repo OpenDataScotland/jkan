@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Canals
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Scottish_Canals_logo.jpg'
 type:
 - Public corporation
 portal_url: ''
