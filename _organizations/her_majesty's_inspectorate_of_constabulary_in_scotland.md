@@ -2,7 +2,7 @@
 schema: default
 title: Her Majesty's Inspectorate of Constabulary in Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://www.hmics.scot/sites/all/themes/mygov_base_omega/images/hmics_logo.svg'
 type:
 - Other agency
 portal_url: ''
