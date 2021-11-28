@@ -2,7 +2,7 @@
 schema: default
 title: NHS Lanarkshire
 description: Health board for the Lanarkshire area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lanarkshire_-_Scotland.svg/800px-Lanarkshire_-_Scotland.svg.png'
 type:
 - Health board
 portal_url: ''

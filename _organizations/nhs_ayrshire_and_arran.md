@@ -2,7 +2,8 @@
 schema: default
 title: NHS Ayrshire and Arran
 description: Health board for the Ayrshire and Arran area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NHSayrshirearran.png/800px-NHSayrshirearran.png
+'
 type:
 - Health board
 portal_url: ''

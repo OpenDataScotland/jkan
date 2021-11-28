@@ -2,7 +2,7 @@
 schema: default
 title: NHS Shetland
 description: Health board for the Shetland area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/NHS_Shetland_logo.svg/1280px-NHS_Shetland_logo.svg.png'
 type:
 - Health board
 portal_url: ''

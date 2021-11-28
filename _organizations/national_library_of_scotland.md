@@ -2,7 +2,8 @@
 schema: default
 title: National Library of Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/National_Library_of_Scotland_logo.svg/1920px-National_Library_of_Scotland_logo.svg.png
+'
 type:
 - Non-Departmental Public Body
 portal_url: ''

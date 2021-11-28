@@ -2,7 +2,7 @@
 schema: default
 title: Her Majesty's Fire Service Inspectorate for Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg'
 type:
 - Other agency
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: NHS Forth Valley
 description: Health board for the Forth Valley area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/NHSforthvalley.png/800px-NHSforthvalley.png'
 type:
 - Health board
 portal_url: ''

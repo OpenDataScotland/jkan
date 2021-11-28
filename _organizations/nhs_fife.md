@@ -2,7 +2,7 @@
 schema: default
 title: NHS Fife
 description: Health board for the Fife area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NHSfife.png/800px-NHSfife.png'
 type:
 - Health board
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: Police Investigations and Review Commissioner
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/8/8a/Police_Investigations_and_Review_Commissioner.jpg'
 type:
 - Non-Departmental Public Body
 portal_url: ''

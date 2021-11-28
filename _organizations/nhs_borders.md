@@ -2,7 +2,7 @@
 schema: default
 title: NHS Borders
 description: Health board for the Borders area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NHSborders.png/800px-NHSborders.png'
 type:
 - Health board
 portal_url: ''

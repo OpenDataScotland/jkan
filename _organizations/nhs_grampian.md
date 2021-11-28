@@ -2,7 +2,7 @@
 schema: default
 title: NHS Grampian
 description: Health board for the Grampian area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/NHSgrampian.png/800px-NHSgrampian.png'
 type:
 - Health board
 portal_url: ''

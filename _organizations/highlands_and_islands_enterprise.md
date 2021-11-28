@@ -2,7 +2,7 @@
 schema: default
 title: Highlands and Islands Enterprise
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://www.hie.co.uk/images/logo-new.svg'
 type:
 - Non-Departmental Public Body
 portal_url: ''
