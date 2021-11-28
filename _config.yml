@@ -24,9 +24,11 @@ navigation:
     url: /analytics/
   - title: Suggest dataset
     url: /suggest-dataset/
+  - title: What is Open Data?
+    url: /whatisod/
   - title: About
     url: /about/
-
+  
 # Collections
 collections:
   datasets:
