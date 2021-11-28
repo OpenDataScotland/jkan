@@ -5,5 +5,5 @@
 <meta name="twitter:title" content="{{ title | truncate: 70 }}" />
 <!-- Twitter truncates twitter:description at the word to 200 characters. -->
 {% assign description = page.notes | default: site.description %}
-<meta name="twitter:description" content="{{ description | truncate: 200 }}" />
+<meta name="twitter:description" content="{{ description | strip_html | truncate: 200 }}" />
 <meta name="twitter:image" content="{{ site.baseurl }}{{ site.logo }}" />
