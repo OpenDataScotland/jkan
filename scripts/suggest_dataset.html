@@ -10,6 +10,7 @@ permalink: /suggest-dataset/
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnXsl-Neld5CpSzVjbjGrn7r6GwcfJgO-xrCBYlmMzQrgBgw/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
     <div class=col-md-6>
+        <p>Here are some datasets that people have suggested previously:</p>
         <table class="table table-bordered table-striped">
             <thead>
                 <tr>
@@ -17,7 +18,7 @@ permalink: /suggest-dataset/
                     <th>Dataset name</th>
                 </tr>
             </thead>
-            <tbody>
+            <tbody id="suggested-datasets">
                 <tr>
                     <td>Test</td>
                     <td>Test</td>
@@ -26,3 +27,14 @@ permalink: /suggest-dataset/
         </table>
     </div>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv')
+        .then(data => {
+            console.log(data);
+            var parsed = $.csv.toObjects(data);
+            console.log(parsed);
+        });
+
+</script>
