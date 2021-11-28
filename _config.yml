@@ -20,10 +20,12 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
-  - title: About
-    url: /about/
   - title: Analytics
     url: /analytics/
+  - title: Suggest dataset
+    url: /suggest-dataset/
+  - title: About
+    url: /about/
 
 # Collections
 collections:
