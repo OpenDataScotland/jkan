@@ -2,12 +2,14 @@
 schema: default
 title: Transport Scotland
 description: An executive agency of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/8/8e/Transport_Scotland_logo.png'
 type:
-- Executive agency
+  - Executive agency
 portal_url: ''
-org_url: https://www.transport.gov.scot/
+org_url: 'https://www.transport.gov.scot/'
 twitter_handle: transcotland
-wikidata_qid: Q7834896
+gss_code: ''
+wikidata_org_qid: ''
+wikidata_portal_qid: ''
 wdtk_id: transport_scotland
 ---
