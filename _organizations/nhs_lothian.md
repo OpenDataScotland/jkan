@@ -2,7 +2,7 @@
 schema: default
 title: NHS Lothian
 description: Health board for the Lothian area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NHSlothians.png/800px-NHSlothians.png'
 type:
 - Health board
 portal_url: ''

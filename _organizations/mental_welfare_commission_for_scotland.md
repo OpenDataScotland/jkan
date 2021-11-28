@@ -2,7 +2,7 @@
 schema: default
 title: Mental Welfare Commission for Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://www.mwcscot.org.uk/themes/ud/img/logo_reverse.png'
 type:
 - Other agency
 portal_url: ''

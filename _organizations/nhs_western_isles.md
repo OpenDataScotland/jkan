@@ -2,7 +2,7 @@
 schema: default
 title: NHS Western Isles
 description: Health and social care partnership for the Western Isles area
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Na_h-Eileanan_Siarcouncil.PNG/800px-Na_h-Eileanan_Siarcouncil.PNG'
 type:
 - Health and Social Care Partnership
 portal_url: ''

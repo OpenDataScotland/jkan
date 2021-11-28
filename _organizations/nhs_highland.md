@@ -2,7 +2,7 @@
 schema: default
 title: NHS Highland
 description: Health board for the Highland area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Highland_in_Scotland.svg/800px-Highland_in_Scotland.svg.png'
 type:
 - Health board
 portal_url: ''

@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Local Government Boundary Commission for Scotland
+title: Boundaries Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://boundaries.scot/sites/all/themes/sbc/includes/dist/images/logo.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
