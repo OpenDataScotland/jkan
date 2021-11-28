@@ -2,7 +2,7 @@
 schema: default
 title: Mobility and Access Committee Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg'
 type:
 - Non-Departmental Public Body
 portal_url: ''
