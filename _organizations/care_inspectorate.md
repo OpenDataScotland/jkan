@@ -2,7 +2,7 @@
 schema: default
 title: Care Inspectorate
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/d/db/Care_Inspectorate_logo.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
