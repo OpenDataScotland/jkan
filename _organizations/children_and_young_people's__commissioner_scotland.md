@@ -4,7 +4,7 @@ title: Children and Young People's  Commissioner Scotland
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: https://www.cypcs.org.uk
 twitter_handle: 

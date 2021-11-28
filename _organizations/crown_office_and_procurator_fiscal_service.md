@@ -4,7 +4,7 @@ title: Crown Office and Procurator Fiscal Service
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: https://www.copfs.gov.uk/
 twitter_handle: 

@@ -4,7 +4,7 @@ title: Mental Welfare Commission for Scotland
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: http://www.mwcscot.org.uk
 twitter_handle: MentalWelfare

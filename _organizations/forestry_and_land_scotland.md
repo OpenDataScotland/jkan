@@ -4,7 +4,7 @@ title: Forestry and Land Scotland
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: https://forestryandland.gov.scot/
 twitter_handle: forestryls

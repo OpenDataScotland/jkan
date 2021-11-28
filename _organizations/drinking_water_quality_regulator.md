@@ -4,7 +4,7 @@ title: Drinking Water Quality Regulator
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: https://dwqr.scot/
 twitter_handle: 

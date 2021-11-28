@@ -4,7 +4,7 @@ title: Audit Scotland
 description: an agency of the Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: http://www.audit-scotland.gov.uk
 twitter_handle: 
