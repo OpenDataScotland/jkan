@@ -1,0 +1,16 @@
+---
+---
+[{% for org in site.organizations %}
+ {
+     "title": {{ org.title | jsonify }},
+     "description": {{ org.description | jsonify }},
+     "logo": {{ org.logo | jsonify }},
+     "type": {{ org.type | jsonify }},
+     "portal_url": {{ org.portal_url | jsonify }},
+     "org_url": {{ org.org_url | jsonify }},
+     "twitter_handle": {{ org.twitter_handle | jsonify }},
+     "gss_code": {{ org.gss_code | jsonify }},
+     "wikidata_org_qid": {{ org.wikidata_org_qid | jsonify }},
+     "wdtk_id": {{ org.wdtk_id | jsonify }}
+ }{% unless forloop.last %},{% endunless %}{% endfor %}
+]

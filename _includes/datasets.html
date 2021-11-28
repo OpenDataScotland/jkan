@@ -2,6 +2,6 @@
 <dataset>
   <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
   <h4>{{ dataset.organization }}</h4>
-  {{ dataset.notes | truncate: 300, '...' }}
+  {{ dataset.notes | truncate: 300, "..." }}
 </dataset>
 {% endfor %}
