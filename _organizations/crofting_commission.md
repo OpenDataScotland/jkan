@@ -2,7 +2,7 @@
 schema: default
 title: Crofting Commission
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/a/a4/Logo_of_the_Crofting_Commission_in_Scotland.gif'
 type:
 - Non-Departmental Public Body
 portal_url: ''
