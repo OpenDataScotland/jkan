@@ -28,14 +28,21 @@ permalink: /suggest-dataset/
     </div>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datalib/1.9.3/datalib.min.js" integrity="sha512-0Wxch7yEHpq8eszzwYYczf6VJxBz9pDsx/K2LirpZ05WgDaoo7BK6uap/osDV21OO1KGNFhKJ2ujZXm0vk18pg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv')
-        .then(response => response.text())
-        .then(data => {
-            console.log(data);
-            var parsed = $.csv.toObjects(data);
-            console.log(parsed);
-        });
+    // fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv')
+    //     .then(response => response.text())
+    //     .then(data => {
+    //         console.log(data);
+    //         var parsed = $.csv.toObjects(data);
+    //         console.log(parsed);
+    //     });
+
+    // Load datalib.
+    var dl = require('datalib');
+
+    var data = dl.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv');
+
+    debugger;
 
 </script>
