@@ -4,7 +4,7 @@ title: Revenue Scotland
 description: public corporation controlled by Scottish Government
 logo: ''
 type:
-- Other Scottish Govt agency
+- Other agency
 portal_url: ''
 org_url: https://revenue.scot
 twitter_handle: 
