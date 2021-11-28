@@ -2,7 +2,7 @@
 schema: default
 title: NHS Dumfries and Galloway
 description: Health board for the Dumfries and Galloway area 
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NHSdumgal.png/800px-NHSdumgal.png'
 type:
 - Health board
 portal_url: ''
