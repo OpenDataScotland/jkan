@@ -30,10 +30,10 @@ permalink: /suggest-dataset/
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script>
-    fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv')
+    await fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv')
         .then(data => {
             console.log(data);
-            var parsed = $.csv.toObjects(data);
+            var parsed = $.csv.toObjects(data.body);
             console.log(parsed);
         });
 
