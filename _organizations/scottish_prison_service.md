@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Prison Service
 description: An executive agency of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/1/12/Scottish_Prison_Service_logo.png'
 type:
 - Executive agency
 portal_url: ''
