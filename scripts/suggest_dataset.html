@@ -38,9 +38,20 @@ permalink: /suggest-dataset/
     //         console.log(parsed);
     //     });
 
-
+    let datasetTable = document.getElementById("suggested-datasets");
     var data = dl.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv');
 
-    debugger;
+    var catColName = data.columns[1];
+    var datasetColName = data.columns[2];
+
+    data.forEach(row => {
+        debugger;        
+        let category = row[catColName];
+        let dataset = row[datasetColName];
+
+        var newRow = `<tr><td>${category}</td><td>${dataset}</td></tr>`
+
+        datasetTable.insertAdjacentHTML( 'beforeend', newRow );
+    })
 
 </script>
