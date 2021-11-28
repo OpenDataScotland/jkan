@@ -53,7 +53,7 @@ permalink: /organizations/
 		orgElements.forEach(org => {
 			if (org.dataset.orgName.toLowerCase().includes(searchTerm.toLowerCase()) ||
 				org.dataset.orgType.toLowerCase().includes(searchTerm.toLowerCase()) ||
-				org.dataset.orgType.toLowerCase().includes(searchTerm.toLowerCase())) {
+				org.dataset.orgDescription.toLowerCase().includes(searchTerm.toLowerCase())) {
 				org.style.display = "block";
 				orgShownCount++
 			}
