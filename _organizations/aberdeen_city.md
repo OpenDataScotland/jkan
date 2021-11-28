@@ -2,7 +2,7 @@
 schema: default
 title: Aberdeen City
 description: Health and social care partnership for the Aberdeen City area
-logo: ''
+logo: 'https://www.aberdeencityhscp.scot/Static/images/header.gif'
 type:
 - Health and Social Care Partnership
 portal_url: ''
