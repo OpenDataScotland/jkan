@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Government
 description: the devolved Government of Scotland
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Scottish_Government_Logo.svg'
 type:
 - Executive agency
 portal_url: ''
