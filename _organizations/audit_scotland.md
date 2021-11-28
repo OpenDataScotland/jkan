@@ -2,7 +2,7 @@
 schema: default
 title: Audit Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: 'https://www.audit-scotland.gov.uk/sites/all/themes/custom/auditscotland/img/audit-scotland-icon.svg'
 type:
 - Other agency
 portal_url: ''
