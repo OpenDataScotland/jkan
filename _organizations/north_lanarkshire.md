@@ -4,7 +4,7 @@ title: North Lanarkshire
 description: Health and social care partnership for the North Lanarkshire area
 logo: ''
 type:
-- Other Scottish Govt agency
+- Health and Social Care Partnership
 portal_url: ''
 org_url: 
 twitter_handle: 
