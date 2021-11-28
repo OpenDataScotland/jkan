@@ -31,7 +31,7 @@ dataset_fields:
     label: Date Created
     datajson: date_created
   - field_name: date_updated
-    label: Date Created
+    label: Date Updated
     datajson: date_updated
   - field_name: records
     label: Number of records
