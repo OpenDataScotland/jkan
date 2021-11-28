@@ -4,7 +4,7 @@ title: Dumfries and Galloway
 description: Health and social care partnership for the Dumfries and Galloway area
 logo: ''
 type:
-- Other Scottish Govt agency
+- Health and Social Care Partnership
 portal_url: ''
 org_url: 
 twitter_handle: 
