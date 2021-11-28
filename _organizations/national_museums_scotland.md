@@ -2,7 +2,7 @@
 schema: default
 title: National Museums Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://www.nms.ac.uk/images/logo-dark.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
