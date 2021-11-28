@@ -2,7 +2,7 @@
 schema: default
 title: Highlands and Islands Airports
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/8/8b/HIA_Limited_Logo.PNG'
 type:
 - Public corporation
 portal_url: ''
