@@ -2,7 +2,7 @@
 schema: default
 title: Risk Management Authority
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/en/c/c1/Risk_Management_Authority_logo.jpg'
 type:
 - Non-Departmental Public Body
 portal_url: ''
