@@ -2,7 +2,7 @@
 schema: default
 title: University of Aberdeen
 description: Research Data from the University of Aberdeen
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1e/University_of_Aberdeen_arms.svg'
 type:
 - Further Education
 portal_url: 'https://abdn.pure.elsevier.com/en/datasets/'
