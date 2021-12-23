@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="{{ site.baseurl }}/" style="display:flex; align-items:center;">
-        <img src="{{ site.baseurl }}{{ site.logo }}" style="margin-right: 1rem; height: 150%;">  
+        <img src="{{ site.baseurl }}{{ site.logo }}" style="margin-right: 1rem; height: 150%;">
         {{ site.title }}
       </a>
     </div>
@@ -17,10 +17,30 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% for link in site.navigation %}
-          {% if page.url contains link.url %}
+          {% if link.sub-pages | size > 0 %}
+          {% assign active-sub-page = link.sub-pages | where_exp: "item", "page.url != '/' and item.url contains page.url" | size %}
+          {% if active-sub-page > 0 %}
+          <li class="dropdown active">
+          {% else %}
+          <li class="dropdown">
+          {% endif %}          
+            <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              {{ link.title }} <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+               {% for sub-link in link.sub-pages %}
+                  {% if page.url contains sub-link.url %}
+                    <li class="active"><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
+                  {% else %}
+                    <li><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
+                  {% endif %}                 
+               {% endfor %}
+            </ul>
+          </li>   
+          {% elsif page.url contains link.url %}  
             <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
           {% else %}
-            <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+            <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} </a></li>
           {% endif %}
         {% endfor %}
       </ul>
