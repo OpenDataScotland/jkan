@@ -18,7 +18,7 @@
       <ul class="nav navbar-nav">
         {% for link in site.navigation %}
           {% if link.sub-pages | size > 0 %}
-          {% assign active-sub-page = link.sub-pages | where_exp: "item", "page.url != '/' and item.url contains page.url" size %}
+          {% assign active-sub-page = link.sub-pages where_exp: "item", "page.url != '/' and item.url contains page.url" size %}
           {% if active-sub-page > 0 %}
           <li class="dropdown active">
           {% else %}
