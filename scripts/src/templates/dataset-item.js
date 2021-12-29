@@ -2,6 +2,6 @@ export default (data) => (
 `<dataset>
   <h3><a href="${data.url}">${data.title}</a></h3>
   <h4>${data.organization || ''}</h4>
-  ${data.notes || ''}
+  <div class="dataset-desc">${data.notes || ''}</div>
 </dataset>`
 )
