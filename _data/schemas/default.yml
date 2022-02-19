@@ -38,8 +38,8 @@ dataset_fields:
     datajson: records
   - field_name: original_dataset_link
     label: Original dataset link
-    datajson: original_dataset_link
-    
+    display_template: display/link.html
+    datajson: original_dataset_link    
     
 
 resource_fields:
