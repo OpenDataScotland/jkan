@@ -127,3 +127,7 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+.filetype-list-item {
+  margin: 0 .25em;
+}
