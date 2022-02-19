@@ -36,6 +36,9 @@ dataset_fields:
   - field_name: records
     label: Number of records
     datajson: records
+  - field_name: original_dataset_link
+    label: Original dataset link
+    datajson: original_dataset_link
     
     
 
