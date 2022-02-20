@@ -1,6 +1,6 @@
 plugins:
   - jekyll-sitemap
-url: "https://opendata.scot/"
+url: "https://opendata.scot"
 
 title: Open Data Scotland
 greeting: Welcome to Open Data Scotland
