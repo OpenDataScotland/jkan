@@ -7,6 +7,10 @@
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}",
-    "resources": {{dataset.resources | jsonify}}
+    "resources": {{dataset.resources | jsonify}},
+    "licence": "{{site.data.licenses[dataset.license]}}",
+    "date_created": "{{dataset.date_created}}",
+    "date_updated": "{{dataset.date_updated}}"
+    
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
