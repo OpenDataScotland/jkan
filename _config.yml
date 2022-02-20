@@ -1,3 +1,7 @@
+plugins:
+  - jekyll-sitemap
+url: "https://opendata.scot/"
+
 title: Open Data Scotland
 greeting: Welcome to Open Data Scotland
 description: A crowdsourced open data portal, aggregating open datasets across Scotland.
