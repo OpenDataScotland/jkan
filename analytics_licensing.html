@@ -18,7 +18,7 @@ permalink: /analytics/licensing/
                 document.getElementById("analytics-last-updated").style.display = "none"
 
                 // loading the datasets data
-                $.getJSON('https://opendata.scot/datasets.json', function (datasets) {
+                $.getJSON('/datasets.json', function (datasets) {
                         // Load charts
                         chartDatasetsByLicense(datasets);
                 });

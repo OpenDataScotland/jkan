@@ -8,7 +8,11 @@
     "category": {{ dataset.category | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}",
     "resources": {{dataset.resources | jsonify}},
+    {% if site.data.licenses[dataset.license] == null %}
+    "licence": "{{dataset.license}}",
+    {% else %}
     "licence": "{{site.data.licenses[dataset.license]}}",
+    {% endif %}
     "date_created": "{{dataset.date_created}}",
     "date_updated": "{{dataset.date_updated}}"
     
