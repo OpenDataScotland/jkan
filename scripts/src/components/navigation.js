@@ -37,7 +37,7 @@ export default class {
   _setUserInfo (user, elements) {
     elements.loginLink.hide()
     elements.userName.text(user.username)
-    elements.userDropdown.removeClass('hidden')
+    elements.userDropdown.removeClass('d-none')
     if (user.isCollaborator) {
       elements.adminLinkListItem.show()
     } else if (user.isCollaborator === false) { // don't catch undefined
