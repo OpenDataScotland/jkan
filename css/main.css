@@ -108,6 +108,17 @@ dataset {
   flex-shrink: 0;
 }
 
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;  
+}
+
+.footer-icons {
+  font-size: 1.5em;
+}
+
 html, body {
   height: 100%;
 }
