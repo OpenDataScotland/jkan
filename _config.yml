@@ -34,6 +34,8 @@ navigation:
         url: /about/
       - title: What is Open Data?
         url: /whatisod/
+      - title: Site Analytics
+        url: /about/siteanalytics/
   - title: Resources
     url: /resources/
   
