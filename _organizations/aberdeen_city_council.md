@@ -9,7 +9,8 @@ portal_url: 'https://data.aberdeencity.gov.uk'
 org_url: 'http://www.aberdeencity.gov.uk/'
 twitter_handle: AberdeenCC
 gss_code: S12000033
-wikidata_org_qid: 'Q2425849'
-wikidata_portal_qid: 'Q109851933'
+wikidata_org_qid: Q2425849
+wikidata_portal_qid: Q109851933
 wdtk_id: aberdeen_city_council
+portal_type: CKAN
 ---
