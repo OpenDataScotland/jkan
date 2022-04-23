@@ -90,6 +90,14 @@ organization_fields:
     label: Wikidata QID for portal#
   - field_name: wdtk_id
     label: WhatDoTheyKnow organization ID 
+  - field_name: portal_type
+    label: Portal type
+    form_template: form/dropdown.html
+    values:
+      - CKAN
+      - JKAN
+      - ArcGIS
+      - Static
 
 category_fields:
   - field_name: name
