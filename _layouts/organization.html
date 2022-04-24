@@ -20,6 +20,10 @@ layout: default
             <dt>Portal URL</dt>
             <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a></dd>
             {% endif %}
+            {% if page.portal_type and page.portal_type != empty %}
+            <dt>Portal Type</dt>
+            <dd>{{ page.portal_type }}</dd>
+            {% endif %}
             {% if page.org_url and page.org_url != empty %}
             <dt>Organization URL</dt>
             <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a></dd>
