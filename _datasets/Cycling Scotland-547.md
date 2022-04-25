@@ -1,12 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- bikeability scotland
-- children
-- cycling scotland
-- schools
-- featured
+- Uncategorised
 date_created: '2019-11-08T11:37:05.577Z'
 date_updated: '2021-10-13'
 license: https://creativecommons.org/licenses/by/4.0/

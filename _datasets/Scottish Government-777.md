@@ -1,15 +1,15 @@
 ---
 category:
-- crime and justice
-date_created: '2014-07-29'
-date_updated: '2021-10-12'
+- Uncategorised
+date_created: '2018-02-14'
+date_updated: '2021-10-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of supervised attendance orders commenced by length</p>
+notes: <p>Area of land in community ownership (hectares)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/supervised-attendance-orders-by-length
+original_dataset_link: http://statistics.gov.scot/data/community-ownership-area-of-land
 records: null
 resources: []
 schema: default
-title: Supervised Attendance Orders By Length
+title: "Community Ownership \u2013 Area of Land"
 ---

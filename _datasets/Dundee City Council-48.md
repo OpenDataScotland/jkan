@@ -1,9 +1,6 @@
 ---
 category:
-- data zones
-- estimated population
-- i&rteam
-- national records of scotland
+- Uncategorised
 date_created: '2019-01-29'
 date_updated: '2021-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

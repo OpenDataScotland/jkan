@@ -1,17 +1,16 @@
 ---
 category:
-- health and social care
-date_created: 14:25:31Z
-date_updated: '2021-01-19'
+- Economy
+date_created: '2018-11-23'
+date_updated: '2021-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Current smokers by Current smokers by tenure, household type, age, sex and
-  disability. The Scottish Survey Core Questions is an innovative project drawing
-  together multiple household surveys to provide a large sample for subnational analysis.</p>
+notes: <p>The average amount of economic output produced per job and per hour worked
+  in Scotland.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/smoking-sscq
+original_dataset_link: http://statistics.gov.scot/data/labour-productivity-annual
 records: null
 resources: []
 schema: default
-title: Smoking - Scottish Survey Core Questions
+title: 'Labour Productivity: Annual'
 ---

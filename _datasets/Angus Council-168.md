@@ -1,9 +1,6 @@
 ---
 category:
-- covid-19
-- positive cases
-- schools
-- self-isolation
+- Health / Human Services
 date_created: '2021-02-19'
 date_updated: '2021-10-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

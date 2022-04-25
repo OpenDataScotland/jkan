@@ -1,15 +1,16 @@
 ---
 category:
-- crime and justice
-date_created: '2014-07-29'
-date_updated: '2021-10-12'
+- Economy
+date_created: '2017-04-26'
+date_updated: '2021-11-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of breaches applications for social work orders by order type.</p>
+notes: <p>Number of applications received for Community Care Grants and Crisis Grants
+  for the Scottish Welfare Fund</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/breached-order-applications
+original_dataset_link: http://statistics.gov.scot/data/scottish-welfare-fund-applications
 records: null
 resources: []
 schema: default
-title: Breached Order Applications
+title: Scottish Welfare Fund Applications
 ---

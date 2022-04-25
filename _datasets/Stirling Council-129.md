@@ -1,7 +1,6 @@
 ---
 category:
-- lgcs democracy
-- national records of scotland
+- Uncategorised
 date_created: '2021-08-05'
 date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

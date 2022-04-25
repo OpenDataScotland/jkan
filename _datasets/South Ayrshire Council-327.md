@@ -1,17 +1,15 @@
 ---
 category:
-- planning
-date_created: '2017-03-21'
-date_updated: '2019-09-13'
+- Planning / Zoning
+date_created: '2015-10-30'
+date_updated: '2020-11-25'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>The LDP is a strategic land use plan that sets out strategic spatial priorities
-  and policies for South Ayrshire and will secure land for specified uses (e.g. housing/industry
-  etc.) to provide certainty for development.</p>
+notes: <p>Action zones in force in areas of historic settlement</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=2ee3f24392c547a288842eb3a62996f0
-records: 607
+original_dataset_link: https://www.arcgis.com/home/item.html?id=9b466c006f98476db286d5a628a9d308
+records: 13
 resources: []
 schema: default
-title: Local Development Plan
+title: Historic Settlement Action Zones
 ---

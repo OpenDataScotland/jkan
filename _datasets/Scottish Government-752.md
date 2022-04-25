@@ -1,15 +1,15 @@
 ---
 category:
-- health and social care
-date_created: '2014-07-29'
-date_updated: '2019-08-26'
+- Uncategorised
+date_created: '2017-08-17'
+date_updated: '2017-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percentage of places in Care Homes which have ensuite facilities</p>
+notes: <p>Deprivation by smoking behaviour, age and gender</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/ensuite-places-in-care-homes
+original_dataset_link: http://statistics.gov.scot/data/smoking-prevalence-and-deprivation-salsus
 records: null
 resources: []
 schema: default
-title: Places in Care Homes with En-Suite Facilities
+title: Smoking prevalence and deprivation (SALSUS)
 ---

@@ -1,8 +1,6 @@
 ---
 category:
-- geospatial
-- public access routes
-- walking and cycling
+- Uncategorised
 date_created: '2018-07-12T12:59:26.547Z'
 date_updated: '2020-02-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

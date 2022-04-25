@@ -1,12 +1,6 @@
 ---
 category:
-- .sd
-- arcgis
-- service definition
-- administrative
-- boundary
-- electorate
-- polling
+- Elections / Politics
 date_created: '2021-09-30'
 date_updated: '2021-09-30'
 license: No licence

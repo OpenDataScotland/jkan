@@ -1,15 +1,16 @@
 ---
 category:
-- geography
-date_created: '2017-02-01'
-date_updated: '2020-08-24'
+- Uncategorised
+date_created: '2018-03-23'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Land area in hectares based on aggregating 2001 Data Zone data.</p>
+notes: <p>How adults in Scotland rate their local neighbourhood as a place to live,
+  from the Scottish Household Survey (SHS)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/land-area-2001-data-zone-based
+original_dataset_link: http://statistics.gov.scot/data/neighbourhood-rating---shs
 records: null
 resources: []
 schema: default
-title: Land Area (based on 2001 Data Zones)
+title: Neighbourhood rating - Scottish Household Survey
 ---

@@ -1,17 +1,16 @@
 ---
 category:
-- scottish index of multiple deprivation
-date_created: '2017-02-01'
-date_updated: '2020-03-31'
+- Uncategorised
+date_created: '2019-03-26'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The most recent Scottish Index of Multiple Deprivation (SIMD) was published
-  in January 2020. This dataset contains the indicators that were used to calculate
-  SIMD 2016 and SIMD 2020 crime domains.</p>
+notes: <p>Percentage of adults who agree with various statements about involvement
+  with people in their neighbourhood, from the Scottish Household Survey (SHS)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---crime-indicators
+original_dataset_link: http://statistics.gov.scot/data/involvement-with-people-in-the-neighbourhood---scottish-household-survey
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation - Crime Indicators
+title: Involvement with people in the neighbourhood - Scottish Household Survey
 ---

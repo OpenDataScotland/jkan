@@ -1,17 +1,16 @@
 ---
 category:
-- ldp2
-- planning
-- town centres
-date_created: '2021-10-18'
-date_updated: '2021-10-18'
+- Planning / Zoning
+- Environment
+date_created: '2015-10-30'
+date_updated: '2018-04-20'
 license: No licence
 maintainer: South Ayrshire Council
-notes: ''
+notes: <p>Areas of special protection in Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=377c6805161848569939d70aa47da8cb
-records: 5
+original_dataset_link: https://www.arcgis.com/home/item.html?id=fdd7141aced44013ac71e3cc2dac407b
+records: 4564
 resources: []
 schema: default
-title: LDP2 Town Centre Boundaries
+title: Special Protection Areas
 ---

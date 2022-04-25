@@ -1,15 +1,6 @@
 ---
 category:
-- bmi
-- child
-- council area
-- deprivation
-- health board
-- nutrition
-- obesity
-- overweight
-- primary 1
-- school
+- Uncategorised
 date_created: '2018-12-07'
 date_updated: '2021-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

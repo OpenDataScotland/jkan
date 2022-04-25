@@ -1,12 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- children
-- cycle friendly
-- cycling
-- cycling scotland
-- schools
+- Transportation
 date_created: '2019-10-18T10:57:07.618Z'
 date_updated: '2019-10-30'
 license: https://creativecommons.org/licenses/by/4.0/

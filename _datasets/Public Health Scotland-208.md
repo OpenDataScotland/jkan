@@ -1,15 +1,6 @@
 ---
 category:
-- address
-- data zone
-- dispenser
-- dispensing
-- health and social care partnership
-- health board
-- medication
-- medicine
-- pharmacy
-- postcode
+- Uncategorised
 date_created: '2019-03-26'
 date_updated: '2021-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

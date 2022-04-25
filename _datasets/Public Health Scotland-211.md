@@ -1,18 +1,7 @@
 ---
 category:
-- 13-15 months
-- child health
-- children
-- council area
-- deprivation
-- early child development
-- ethnicity
-- health
-- health board
-- infants
-- language
-- local authority
-- review
+- Health / Human Services
+- Elections / Politics
 date_created: '2020-11-06'
 date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

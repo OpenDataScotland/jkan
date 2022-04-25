@@ -1,7 +1,6 @@
 ---
 category:
-- social / community
-- architectural
+- Uncategorised
 date_created: '2018-01-23T14:03:57.604Z'
 date_updated: '2018-09-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,16 +1,15 @@
 ---
 category:
-- education
-- skills and training
-date_created: '2014-07-29'
-date_updated: '2021-03-05'
+- Uncategorised
+date_created: '2016-12-01'
+date_updated: '2016-12-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Attendance rate of pupils attending publicly funded schools</p>
+notes: <p>When 13 and 15 year olds last had an alcoholic drink.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/school-attendance-rate
+original_dataset_link: http://statistics.gov.scot/data/drinking-behaviour-among-young-people-salsus
 records: null
 resources: []
 schema: default
-title: School Attendance Rate
+title: Drinking behaviour among young people (SALSUS)
 ---

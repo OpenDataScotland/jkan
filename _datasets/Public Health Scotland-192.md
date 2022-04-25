@@ -1,12 +1,6 @@
 ---
 category:
-- coronavirus
-- covid-19
-- immunisation
-- maternity
-- pregnancy
-- vaccination
-- vaccine
+- Health / Human Services
 date_created: '2021-07-12'
 date_updated: '2021-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

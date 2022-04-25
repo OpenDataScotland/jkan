@@ -1,11 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- cycling
-- cycling scotland
-- transport
-- reported road casualties scotland
+- Transportation
 date_created: '2018-05-15T14:56:31.679Z'
 date_updated: '2019-11-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

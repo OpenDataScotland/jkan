@@ -1,8 +1,6 @@
 ---
 category:
-- equipment
-- fleet vehicles
-- plant
+- Uncategorised
 date_created: '2018-06-14'
 date_updated: '2020-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

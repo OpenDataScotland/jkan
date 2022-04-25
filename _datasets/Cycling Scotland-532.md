@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- cycling scotland
-- coronavirus
-- data
-- cycling
+- Transportation
 date_created: '2020-06-22T08:39:30.001Z'
 date_updated: '2020-06-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

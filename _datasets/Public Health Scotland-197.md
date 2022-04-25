@@ -1,13 +1,6 @@
 ---
 category:
-- coronavirus
-- covid
-- covid-19
-- emergency
-- emergency care
-- healthcare impact
-- hospital activity
-- injury
+- Health / Human Services
 date_created: '2020-05-25'
 date_updated: '2022-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

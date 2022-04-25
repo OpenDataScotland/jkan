@@ -1,15 +1,15 @@
 ---
 category:
-- environment
-date_created: '2014-07-29'
-date_updated: '2020-10-23'
+- Uncategorised
+date_created: '2018-02-14'
+date_updated: '2021-10-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percent of adults making one or more visits to the outdoors per week</p>
+notes: <p>Number of assets in community ownership</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/outdoor-visits
+original_dataset_link: http://statistics.gov.scot/data/community-ownership-number-of-land-parcels-assets
 records: null
 resources: []
 schema: default
-title: Outdoor Visits (National Indicator)
+title: "Community Ownership \u2013 Number of Assets"
 ---

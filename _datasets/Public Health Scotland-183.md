@@ -1,27 +1,6 @@
 ---
 category:
-- 31 day
-- 62 day
-- breast
-- cervical
-- compliance
-- growth
-- head and neck
-- health board
-- lung
-- lymphoma
-- malignant
-- melanoma
-- neoplasm
-- ovarian
-- skin
-- standard
-- target
-- tumor
-- upper gastrointestinal
-- upper gi
-- urological
-- waiting time
+- Uncategorised
 date_created: '2018-07-06'
 date_updated: '2022-02-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

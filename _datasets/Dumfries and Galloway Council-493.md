@@ -1,7 +1,6 @@
 ---
 category:
-- built environment
-- planning
+- Planning / Zoning
 date_created: '2018-07-12T13:05:10.581Z'
 date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

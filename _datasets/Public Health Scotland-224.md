@@ -1,12 +1,6 @@
 ---
 category:
-- health board
-- ivf
-- ivf centre
-- patients seen
-- patients waiting
-- referral
-- waiting times
+- Uncategorised
 date_created: '2020-04-08'
 date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

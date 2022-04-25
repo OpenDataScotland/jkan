@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- cycling scotland
-- data
-- national monitoring framework
+- Uncategorised
 date_created: '2020-12-17T10:47:51.797Z'
 date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

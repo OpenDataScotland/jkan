@@ -1,9 +1,6 @@
 ---
 category:
-- http://publications.europa.eu/resource/authority/data-theme/heal
-- geospatial
-- health
-- environmental
+- Health / Human Services
 date_created: '2018-07-16T08:52:30.623Z'
 date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

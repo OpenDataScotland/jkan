@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- cycling
-- traffic counts
-- active travel
+- Transportation
 date_created: '2021-03-25T12:15:32.356Z'
 date_updated: '2021-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

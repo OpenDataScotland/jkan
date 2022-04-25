@@ -1,15 +1,15 @@
 ---
 category:
-- housing
-date_created: '2014-07-29'
-date_updated: '2017-10-25'
+- Uncategorised
+date_created: '2017-11-22'
+date_updated: '2021-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of council house sales to sitting tenants by housing type.</p>
+notes: <p>Local Authority owned housing stock, by type of dwelling</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/council-house-sales
+original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-stock-by-type
 records: null
 resources: []
 schema: default
-title: Council House Sales
+title: Local Authority Housing Stock by Type
 ---

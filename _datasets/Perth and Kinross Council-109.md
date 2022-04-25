@@ -1,11 +1,6 @@
 ---
 category:
-- '2017'
-- boundary
-- derelict
-- economy
-- land
-- vacant
+- Economy
 date_created: '2021-09-30'
 date_updated: '2021-09-30'
 license: No licence

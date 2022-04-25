@@ -1,10 +1,6 @@
 ---
 category:
-- council area
-- death
-- health board
-- injury
-- smr01
+- Uncategorised
 date_created: '2020-02-27'
 date_updated: '2021-10-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

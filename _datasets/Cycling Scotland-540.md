@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- scottish household survey
-- mode share
+- Uncategorised
 date_created: '2020-07-22T14:25:56.771Z'
 date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,9 +1,6 @@
 ---
 category:
-- logistics
-- geospatial
-- polling districts
-- voting
+- Uncategorised
 date_created: '2018-07-16T09:12:21.645Z'
 date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,15 +1,16 @@
 ---
 category:
-- health and social care
-date_created: '2017-02-07'
-date_updated: '2021-09-03'
+- Economy
+date_created: '2019-05-14'
+date_updated: '2021-08-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: ''
+notes: "<p>Carer\u2019s Allowance Supplement payments- number, percentage and expenditure.\
+  \ \nNational values are broken down by age, gender and local authority.  </p>"
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/cancer-registrations---annual-data
+original_dataset_link: http://statistics.gov.scot/data/carers-allowance-supplement
 records: null
 resources: []
 schema: default
-title: Cancer Registrations - Annual Data
+title: Carer's Allowance Supplement
 ---

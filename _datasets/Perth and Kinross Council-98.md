@@ -1,6 +1,6 @@
 ---
 category:
-- health
+- Health / Human Services
 date_created: '2017-11-02'
 date_updated: '2019-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

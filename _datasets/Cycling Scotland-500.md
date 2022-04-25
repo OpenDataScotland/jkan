@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- cycling
-- scottish household survey
-- active travel
+- Transportation
 date_created: '2018-05-11T13:55:31.912Z'
 date_updated: '2019-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

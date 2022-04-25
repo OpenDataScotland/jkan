@@ -1,16 +1,16 @@
 ---
 category:
-- labour force
-date_created: '2014-07-29'
-date_updated: '2021-08-02'
+- Uncategorised
+date_created: '2018-07-20'
+date_updated: '2021-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The difference between male and female median earnings (gross hourly earnings
-  excluding overtime) as a percentage of male earnings.</p>
+notes: '<p>Local authority vacant stock: as at 31 March each year, by current status
+  and length of vacancy</p>'
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/earnings-paygap
+original_dataset_link: http://statistics.gov.scot/data/local-authority-vacant-dwellings
 records: null
 resources: []
 schema: default
-title: Gender Pay Gap
+title: Local Authority Vacant Dwellings
 ---

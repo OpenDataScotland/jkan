@@ -1,9 +1,6 @@
 ---
 category:
-- social / community
-- education
-- schools
-- young people
+- Education
 date_created: '2017-11-15T10:18:25.225Z'
 date_updated: '2017-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

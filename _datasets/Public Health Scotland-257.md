@@ -1,15 +1,6 @@
 ---
 category:
-- 2011-2018
-- council area
-- death
-- health board
-- mental health
-- scotpho
-- scottish index of multiple deprivation
-- simd
-- suicide
-- suicide overview
+- Uncategorised
 date_created: '2020-04-02'
 date_updated: '2021-08-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

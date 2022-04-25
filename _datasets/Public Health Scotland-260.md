@@ -1,18 +1,6 @@
 ---
 category:
-- coronavirus
-- covid-19
-- gp out of hours
-- hospital admission
-- icu
-- infection
-- intensive care
-- nhs24
-- primary care out of hours
-- respiratory
-- sas
-- scottish ambulance services
-- virus
+- Health / Human Services
 date_created: '2020-05-05'
 date_updated: '2022-02-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

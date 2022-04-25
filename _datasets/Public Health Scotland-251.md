@@ -1,12 +1,6 @@
 ---
 category:
-- daycase
-- inpatient
-- outpatient
-- stage of treatment
-- treatment
-- waiting list
-- waiting time
+- Uncategorised
 date_created: '2020-03-20'
 date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

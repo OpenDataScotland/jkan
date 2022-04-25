@@ -1,7 +1,6 @@
 ---
 category:
-- polling
-- democracy
+- Uncategorised
 date_created: ''
 date_updated: '2021-01-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,16 +1,16 @@
 ---
 category:
-- children and young people
-date_created: '2017-11-28'
-date_updated: '2019-06-26'
+- Economy
+date_created: '2021-06-03'
+date_updated: '2021-09-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percent of children in families that have both low income and cannot afford
-  three or more out of a list of 22 basic necessities.</p>
+notes: <p>Applications received and authorised, and total value of payments for Scottish
+  Child Payment</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/children-in-families-with-limited-resources
+original_dataset_link: http://statistics.gov.scot/data/scottish-child-payment-applications-and-payments
 records: null
 resources: []
 schema: default
-title: Children in Families with Limited Resources
+title: 'Scottish Child Payment: Applications and Payments'
 ---

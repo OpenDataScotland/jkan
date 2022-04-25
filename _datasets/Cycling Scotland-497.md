@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- national monitoring framework
-- cycling scotland
-- cycling
-- active travel
+- Transportation
 date_created: '2021-03-24T20:21:48.559Z'
 date_updated: '2021-09-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

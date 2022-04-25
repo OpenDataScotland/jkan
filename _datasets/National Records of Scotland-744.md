@@ -1,16 +1,15 @@
 ---
 category:
-- population
-date_created: '2014-07-29'
-date_updated: '2021-03-17'
+- Uncategorised
+date_created: '2017-07-07'
+date_updated: '2021-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>Number of births by gender that were registered in a calendar year, or occurred
-  in a mid-year period (1 July to 30 June). </p>
+notes: <p>The average number of people per household in each council area and in Scotland</p>
 organization: National Records of Scotland
-original_dataset_link: http://statistics.gov.scot/data/births
+original_dataset_link: http://statistics.gov.scot/data/average-household-size
 records: null
 resources: []
 schema: default
-title: Births
+title: Average Household Size
 ---

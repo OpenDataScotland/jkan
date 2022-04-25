@@ -1,24 +1,6 @@
 ---
 category:
-- community partnership
-- geography
-- health and social care partnership
-- hscp
-- locality
-- nhs ayrshire and arran
-- nhs borders
-- nhs dumfries and galloway
-- nhs fife
-- nhs forth valley
-- nhs grampian
-- nhs greater glasgow and clyde
-- nhs highland
-- nhs lanarkshire
-- nhs lothian
-- nhs tayside
-- nhs western isles
-- operational unit
-- region
+- Uncategorised
 date_created: '2018-06-12'
 date_updated: '2021-08-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

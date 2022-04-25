@@ -1,17 +1,16 @@
 ---
 category:
-- education
-- skills and training
-date_created: '2018-04-24'
-date_updated: '2021-05-03'
+- Uncategorised
+date_created: '2021-05-12'
+date_updated: '2021-05-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The percentage of school leavers going to a 'positive destination' on leaving
-  school</p>
+notes: <p>Official Statistics of the number and proportions of adults in poverty.
+  Various poverty measures and breakdowns are available.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/positive-destinations
+original_dataset_link: http://statistics.gov.scot/data/poverty-adults
 records: null
 resources: []
 schema: default
-title: Schools - Positive Leaver Destinations
+title: Poverty (adults)
 ---

@@ -1,9 +1,6 @@
 ---
 category:
-- lookup
-- speciality
-- specialty
-- treatment
+- Uncategorised
 date_created: '2018-02-27'
 date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

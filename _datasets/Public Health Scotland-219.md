@@ -1,12 +1,6 @@
 ---
 category:
-- address
-- council area
-- data zone
-- health and social care partnership
-- health board
-- hospital
-- lookup
+- Health / Human Services
 date_created: '2018-03-27'
 date_updated: '2022-01-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

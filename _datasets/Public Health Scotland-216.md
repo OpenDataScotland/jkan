@@ -1,15 +1,6 @@
 ---
 category:
-- address
-- council area
-- data zone
-- general practice
-- health and social care partnership
-- health board
-- list size
-- lookup
-- medicine
-- primary care
+- Uncategorised
 date_created: '2018-02-13'
 date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

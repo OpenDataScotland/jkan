@@ -1,10 +1,6 @@
 ---
 category:
-- '2021'
-- monifieth
-- campus
-- consultation
-- survey
+- Uncategorised
 date_created: '2021-06-10'
 date_updated: '2021-06-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,7 +1,6 @@
 ---
 category:
-- planning
-- local developmen plan
+- Planning / Zoning
 date_created: ''
 date_updated: '2018-11-23'
 license: No licence

@@ -1,15 +1,16 @@
 ---
 category:
-- economy
-date_created: '2017-08-23'
-date_updated: '2021-09-15'
+- Economy
+date_created: '2020-03-06'
+date_updated: '2021-09-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The value of goods and services produced quarterly</p>
+notes: <p>Applications received and authorised, and total value of payments for Young
+  Carer Grant.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/gross-domestic-product-quarterly-output-by-industry
+original_dataset_link: http://statistics.gov.scot/data/young-carer-grant-applications
 records: null
 resources: []
 schema: default
-title: 'Gross Domestic Product: Quarterly Output by Industry'
+title: Young Carer Grant Applications and Payments
 ---

@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- cycling
-- counter
-- active travel
+- Transportation
 date_created: '2020-04-03T14:53:09.123Z'
 date_updated: '2020-04-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

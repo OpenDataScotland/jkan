@@ -1,17 +1,16 @@
 ---
 category:
-- scottish index of multiple deprivation
-date_created: '2017-03-01'
-date_updated: '2020-03-31'
+- Uncategorised
+date_created: '2019-04-25'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Mean travel time (in minutes) to key services, by car or public transport.
-  This dataset contains indicators  used to calculate the geographic access to services
-  domains of SIMD 2016 and SIMD 2020.</p>
+notes: <p>Geography lookup tables used for aggregation, from 2011 data zones to higher
+  level geographies</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---geographic-access-to-services-indicators
+original_dataset_link: http://statistics.gov.scot/data/data-zone-lookup
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation - Geographic Access to Services Indicators
+title: Data Zone Lookup
 ---

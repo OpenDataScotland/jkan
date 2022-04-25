@@ -1,6 +1,6 @@
 ---
 category:
-- cooling towers
+- Uncategorised
 date_created: ''
 date_updated: '2018-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

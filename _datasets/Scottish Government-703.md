@@ -1,15 +1,17 @@
 ---
 category:
-- health and social care
-date_created: '2014-07-29'
-date_updated: '2020-03-25'
+- Uncategorised
+date_created: 14:46:06Z
+date_updated: '2021-01-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number and rate per 1,000 population of home care clients by age and gender.</p>
+notes: <p>Unpaid care provision by tenure, household type, age, sex and disability.
+  The Scottish Survey Core Questions is an innovative project drawing together multiple
+  household surveys to provide a large sample for subnational analysis. </p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/home-care-clients
+original_dataset_link: http://statistics.gov.scot/data/unpaid-care-provision-sscq
 records: null
 resources: []
 schema: default
-title: Home Care Clients
+title: Unpaid Care Provision - Scottish Surveys Core Questions
 ---

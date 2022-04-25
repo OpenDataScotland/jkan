@@ -1,15 +1,17 @@
 ---
 category:
-- health and social care
-date_created: '2017-08-03'
-date_updated: '2017-08-11'
+- Uncategorised
+date_created: '2019-10-09'
+date_updated: '2020-03-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Emotional and behavioural problems, by drinking behaviour, age, and gender</p>
+notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August
+  2016. This dataset contains the indicators that were used to calculate the education
+  domain of SIMD.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/drinking-behaviour-and-emotional-and-behavioural-problems-salsus
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---education-indicators
 records: null
 resources: []
 schema: default
-title: Drinking behaviour and emotional and behavioural problems (SALSUS)
+title: Scottish Index of Multiple Deprivation - Education Indicators
 ---

@@ -1,14 +1,6 @@
 ---
 category:
-- cannabis
-- council area
-- diazepam
-- drug
-- health board
-- heroin
-- methadone
-- smr25a
-- treatment
+- Uncategorised
 date_created: '2020-04-01'
 date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

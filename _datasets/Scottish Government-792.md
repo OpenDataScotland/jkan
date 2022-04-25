@@ -1,16 +1,17 @@
 ---
 category:
-- community wellbeing and social environment
-date_created: '2014-07-29'
-date_updated: '2021-06-14'
+- Uncategorised
+date_created: '2018-05-01'
+date_updated: '2021-09-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of households in fuel poverty and extreme fuel poverty by selected
-  dwelling and household characteristics.</p>
+notes: '<p>Management Information: environmental data on the Domestic Energy Performance
+  Certificate (EPC) and Recommendations Report for each current record held on the
+  Scottish EPC Register from Q4 2012 to Q2 2021.  Data extracted July 2021.</p>'
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/fuel-poverty-shcs
+original_dataset_link: http://statistics.gov.scot/data/domestic-energy-performance-certificates
 records: null
 resources: []
 schema: default
-title: Fuel Poverty (Scottish House Condition Survey)
+title: Domestic Energy Performance Certificates - Dataset to Q2 2021
 ---

@@ -1,13 +1,6 @@
 ---
 category:
-- confirmed cases
-- coronavirus
-- council area
-- covid
-- covid-19
-- deaths
-- health board
-- positive cases
+- Health / Human Services
 date_created: '2020-04-22'
 date_updated: '2022-02-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

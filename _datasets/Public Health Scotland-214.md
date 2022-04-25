@@ -1,11 +1,6 @@
 ---
 category:
-- address
-- general practice
-- health and social care partnership
-- health board
-- lookup
-- practitioner
+- Uncategorised
 date_created: '2019-02-19'
 date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

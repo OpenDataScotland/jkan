@@ -1,15 +1,6 @@
 ---
 category:
-- age
-- alcohol
-- council area
-- deprivation
-- health board
-- hospital stays
-- misuse
-- sex
-- smr01
-- smr04
+- Uncategorised
 date_created: '2018-01-25'
 date_updated: '2022-02-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

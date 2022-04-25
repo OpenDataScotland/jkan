@@ -1,9 +1,6 @@
 ---
 category:
-- air
-- boundary
-- environment
-- quality
+- Environment
 date_created: '2021-09-30'
 date_updated: '2021-09-30'
 license: No licence

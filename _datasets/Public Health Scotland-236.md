@@ -1,15 +1,6 @@
 ---
 category:
-- age
-- council area
-- data zone
-- health and social care partnership
-- health board
-- integrated joint board
-- integration authority
-- intermed zone
-- intermediate zone
-- number of people
+- Uncategorised
 date_created: '2018-02-06'
 date_updated: '2021-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

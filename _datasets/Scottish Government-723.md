@@ -1,16 +1,15 @@
 ---
 category:
-- health and social care
-date_created: '2014-07-29'
-date_updated: '2017-05-25'
+- Uncategorised
+date_created: 15:38:45Z
+date_updated: '2020-03-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of home care clients by care type or disability. Number and rate
-  per 1,000 population of home care clients by disability/condition</p>
+notes: <p>The number and percentage of people who are employment deprived</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/home-care-client-group
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---employment-indicators
 records: null
 resources: []
 schema: default
-title: Home Care Client Group
+title: Scottish Index of Multiple Deprivation - Employment Indicators
 ---

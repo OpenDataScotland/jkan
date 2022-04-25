@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- cycling
-- cycling scotland
-- traffic counts
+- Transportation
 date_created: '2020-02-19T10:04:20.336Z'
 date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

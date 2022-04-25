@@ -1,19 +1,6 @@
 ---
 category:
-- ahp
-- allied health
-- chiropody
-- health board
-- mats
-- msk
-- occupational therapy
-- orthotics
-- patients seen
-- patients waiting
-- physiotherapy
-- podiatry
-- referral
-- waiting time
+- Uncategorised
 date_created: '2019-10-14'
 date_updated: '2021-12-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

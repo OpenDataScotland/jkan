@@ -1,12 +1,6 @@
 ---
 category:
-- geospatial
-- natural environment
-- active travel
-- cycling
-- john muir way
-- walking
-- counter
+- Transportation
 date_created: '2020-02-05T09:44:01.233Z'
 date_updated: '2020-02-05'
 license: Creative Commons Attribution Share-Alike 3.0

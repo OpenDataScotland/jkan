@@ -1,7 +1,6 @@
 ---
 category:
-- social / community
-- community assets
+- Uncategorised
 date_created: '2018-01-25T16:23:29.465Z'
 date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

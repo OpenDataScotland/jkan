@@ -1,9 +1,6 @@
 ---
 category:
-- coronavirus
-- covid-19
-- serology
-- seroprevalence
+- Health / Human Services
 date_created: '2021-04-14'
 date_updated: '2022-02-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

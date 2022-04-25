@@ -1,10 +1,6 @@
 ---
 category:
-- hospital
-- inpatient
-- learning disability
-- psychiatric
-- smr04
+- Health / Human Services
 date_created: '2020-02-12'
 date_updated: '2021-12-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

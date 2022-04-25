@@ -1,19 +1,6 @@
 ---
 category:
-- age
-- care
-- community
-- council area
-- death
-- deprivation
-- end of life
-- health and social care partnership
-- health board
-- palliative care
-- rurality
-- sex
-- smr01
-- smr04
+- Uncategorised
 date_created: '2019-11-26'
 date_updated: '2021-10-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

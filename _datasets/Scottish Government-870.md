@@ -1,15 +1,16 @@
 ---
 category:
-- housing
-date_created: '2017-11-29'
-date_updated: '2021-08-30'
+- Economy
+date_created: '2021-04-29'
+date_updated: '2021-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
+notes: <p>Number of clients responding to Equality Monitoring and Feedback forms since
+  9th December 2019.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-stock-by-normal-use
+original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-clients-responding-to-equality-forms
 records: null
 resources: []
 schema: default
-title: Local Authority Housing Stock by Normal Use
+title: 'Social Security Scotland: clients responding to equality forms'
 ---

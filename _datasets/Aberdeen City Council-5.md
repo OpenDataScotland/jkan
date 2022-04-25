@@ -1,8 +1,6 @@
 ---
 category:
-- aberdeen
-- burial grounds
-- cemetery
+- Uncategorised
 date_created: '2020-01-27'
 date_updated: '2020-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,13 +1,6 @@
 ---
 category:
-- child
-- council area
-- deprivation
-- development
-- ethnicity
-- health board
-- infant
-- language
+- Uncategorised
 date_created: '2018-04-23'
 date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

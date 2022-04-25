@@ -1,8 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- cycling scotland
+- Uncategorised
 date_created: '2020-07-20T08:51:08.163Z'
 date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

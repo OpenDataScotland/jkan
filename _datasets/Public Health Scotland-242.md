@@ -1,16 +1,6 @@
 ---
 category:
-- bacteraemia
-- c. difficile
-- cdi
-- e. coli
-- ecb
-- hai
-- healthcare associated infection
-- sab
-- ssi
-- staphylococcus aureus
-- surgical site infection
+- Uncategorised
 date_created: '2020-02-05'
 date_updated: '2022-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

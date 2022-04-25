@@ -1,12 +1,6 @@
 ---
 category:
-- council area
-- death
-- health board
-- hospital activity
-- mortality
-- smr01
-- stroke
+- Uncategorised
 date_created: '2020-03-31'
 date_updated: '2022-01-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

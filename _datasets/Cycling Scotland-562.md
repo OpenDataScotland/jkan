@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- cycling
-- traffic counts
+- Transportation
 date_created: '2021-09-25T13:08:11.623Z'
 date_updated: '2021-11-16'
 license: https://opendatacommons.org/licenses/odbl/

@@ -1,15 +1,16 @@
 ---
 category:
-- geography
-date_created: '2014-07-29'
-date_updated: '2018-04-12'
+- Uncategorised
+date_created: '2017-07-13'
+date_updated: '2020-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Urban Rural Classification (6-Fold)</p>
+notes: <p>Percent of respondents who believe that crime has stayed the same or reduced
+  in the past 2 years in their local area</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/urban-rural-classification
+original_dataset_link: http://statistics.gov.scot/data/local-crime-rate-national-indicator
 records: null
 resources: []
 schema: default
-title: Urban Rural Classification (6-Fold)
+title: Local Crime Rate (National Indicator)
 ---

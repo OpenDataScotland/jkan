@@ -1,16 +1,15 @@
 ---
 category:
-- crime and justice
+- Environment
 date_created: '2014-07-29'
-date_updated: '2021-08-27'
+date_updated: '2016-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number, and rate per 10,000 population, of crimes and offences recorded
-  by the police</p>
+notes: <p>Number of dwellings in flood risk areas</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/recorded-crime
+original_dataset_link: http://statistics.gov.scot/data/dwellings-in-flood-risk-areas
 records: null
 resources: []
 schema: default
-title: Recorded Crimes and Offences
+title: Dwellings In Flood Risk Areas
 ---

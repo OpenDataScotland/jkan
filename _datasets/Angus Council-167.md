@@ -1,11 +1,6 @@
 ---
 category:
-- relief recipients
-- relief statistics
-- reliefs
-- local government
-- non-domestic rates
-- tax relief
+- Uncategorised
 date_created: '2021-05-07'
 date_updated: '2021-12-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

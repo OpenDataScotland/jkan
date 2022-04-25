@@ -1,16 +1,16 @@
 ---
 category:
-- economy
-date_created: '2017-08-23'
-date_updated: '2021-09-15'
+- Uncategorised
+date_created: '2020-02-13'
+date_updated: '2020-02-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The value of goods and services produced annually, reported as an index
-  (chainlinked volume measure)</p>
+notes: <p>Data Zone level ranks and quantiles for the 2016 Scottish Index of Multiple
+  Deprivation (SIMD) overall, and by individual domain</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/gross-domestic-product-annual-output-by-industry
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-historical-ii
 records: null
 resources: []
 schema: default
-title: 'Gross Domestic Product: Annual Output by Industry'
+title: Scottish Index of Multiple Deprivation (Historical) - 2016
 ---

@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- government
-- scottish household survey
-- transport and travel in scotland
+- Uncategorised
 date_created: '2019-10-17T13:39:53.097Z'
 date_updated: '2019-12-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

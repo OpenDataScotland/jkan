@@ -1,10 +1,6 @@
 ---
 category:
-- diagnostic
-- endoscopy
-- health board
-- radiology
-- waiting time
+- Uncategorised
 date_created: '2019-07-04'
 date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

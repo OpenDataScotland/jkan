@@ -1,16 +1,15 @@
 ---
 category:
-- community wellbeing and social environment
-date_created: '2014-07-29'
-date_updated: '2021-06-10'
+- Uncategorised
+date_created: '2017-11-29'
+date_updated: '2021-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The number and proportions of people living in private households with an
-  equivalised income of less than 60% of the UK median before housing costs.</p>
+notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/poverty
+original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-stock-by-normal-use
 records: null
 resources: []
 schema: default
-title: Poverty
+title: Local Authority Housing Stock by Normal Use
 ---

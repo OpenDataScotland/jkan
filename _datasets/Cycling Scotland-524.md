@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- schools
-- active travel
-- transport
+- Transportation
 date_created: '2021-10-13T12:02:45.152Z'
 date_updated: '2021-10-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

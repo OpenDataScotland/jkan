@@ -1,15 +1,6 @@
 ---
 category:
-- age
-- council area
-- deprivation
-- episode
-- health board
-- hospital
-- sex
-- smr01
-- specialty
-- stay
+- Health / Human Services
 date_created: '2019-11-05'
 date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

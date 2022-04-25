@@ -1,12 +1,6 @@
 ---
 category:
-- cancer
-- cancer network region
-- cancer site
-- death
-- health board
-- icd10
-- mortality
+- Uncategorised
 date_created: '2019-02-12'
 date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

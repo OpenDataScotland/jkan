@@ -1,12 +1,6 @@
 ---
 category:
-- astrazeneca
-- coronavirus
-- covid-19
-- immunisation
-- pfizer
-- vaccination
-- vaccine
+- Health / Human Services
 date_created: '2021-01-13'
 date_updated: '2022-02-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- transport
-- bikeability scotland
-- active travel
-- schools
+- Transportation
 date_created: '2021-10-13T11:55:10.006Z'
 date_updated: '2021-10-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

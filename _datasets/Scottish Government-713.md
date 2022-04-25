@@ -1,16 +1,15 @@
 ---
 category:
-- education
-- skills and training
-date_created: '2014-07-29'
-date_updated: '2021-03-31'
+- Uncategorised
+date_created: '2016-12-01'
+date_updated: '2016-12-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Information from the School Pupil Census</p>
+notes: <p>Drug use among 13 and 15 year olds in Scotland.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/school-pupil-census
+original_dataset_link: http://statistics.gov.scot/data/drug-use-behaviour-among-young-people-salsus
 records: null
 resources: []
 schema: default
-title: School Pupil Census
+title: Drug use behaviour among young people (SALSUS)
 ---

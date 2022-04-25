@@ -1,14 +1,6 @@
 ---
 category:
-- diagnosis
-- health board
-- hospital
-- mental health
-- patients seen
-- psych
-- psychiatry
-- smr01
-- smr04
+- Health / Human Services
 date_created: '2018-03-06'
 date_updated: '2021-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

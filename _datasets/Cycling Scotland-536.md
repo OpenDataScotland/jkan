@@ -1,8 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- transport and travel in scotland
+- Uncategorised
 date_created: '2021-04-08T15:10:01.596Z'
 date_updated: '2021-04-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

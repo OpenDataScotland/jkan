@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- cycling
-- cycling scotland
-- cycling friendly
+- Transportation
 date_created: '2019-10-21T11:53:05.320Z'
 date_updated: '2019-11-08'
 license: https://creativecommons.org/licenses/by/4.0/

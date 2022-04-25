@@ -1,10 +1,6 @@
 ---
 category:
-- consultant
-- health board
-- profession
-- staff
-- vacancies
+- Uncategorised
 date_created: '2018-06-01'
 date_updated: '2020-08-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

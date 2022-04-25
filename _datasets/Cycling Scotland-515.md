@@ -1,10 +1,6 @@
 ---
 category:
-- transport / mobility
-- transport
-- national monitoring framework
-- traffic counts
-- active travel
+- Transportation
 date_created: '2021-11-26T15:37:11.471Z'
 date_updated: '2021-11-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

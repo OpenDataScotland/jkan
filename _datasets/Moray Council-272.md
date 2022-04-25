@@ -1,8 +1,6 @@
 ---
 category:
-- planning
-- inspire
-- development plans
+- Planning / Zoning
 date_created: 23/07/20
 date_updated: '2020-11-30'
 license: 'Custom licence: INSPIRE Regulations 2009'

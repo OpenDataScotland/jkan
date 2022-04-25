@@ -1,10 +1,6 @@
 ---
 category:
-- council area
-- drug
-- health board
-- hospital
-- smr01
+- Health / Human Services
 date_created: '2020-02-28'
 date_updated: '2021-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

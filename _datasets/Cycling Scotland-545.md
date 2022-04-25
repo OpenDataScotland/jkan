@@ -1,11 +1,6 @@
 ---
 category:
-- transport / mobility
-- traffic counts
-- active travel
-- transport and travel in scotland
-- national monitoring framework
-- cycling scotland
+- Uncategorised
 date_created: '2021-12-23T16:01:50.046Z'
 date_updated: '2022-01-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

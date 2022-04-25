@@ -1,15 +1,6 @@
 ---
 category:
-- agenda for change
-- agenda for change band
-- ahp
-- allied health
-- health board
-- non-medical staff
-- pay band
-- profession
-- staff
-- vacancies
+- Uncategorised
 date_created: '2018-05-29'
 date_updated: '2020-08-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

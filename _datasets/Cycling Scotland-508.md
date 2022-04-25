@@ -1,9 +1,6 @@
 ---
 category:
-- infrastructure
-- transport / mobility
-- cycling
-- transport and travel in scotland
+- Transportation
 date_created: '2019-06-20T13:28:53.883Z'
 date_updated: '2021-01-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

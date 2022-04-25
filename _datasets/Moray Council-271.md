@@ -1,8 +1,6 @@
 ---
 category:
-- planning
-- inspire
-- wind turbines
+- Planning / Zoning
 date_created: 11/01/18
 date_updated: '2021-02-02'
 license: 'Custom licence: INSPIRE Regulations 2009'

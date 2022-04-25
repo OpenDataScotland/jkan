@@ -1,30 +1,6 @@
 ---
 category:
-- adult
-- alcohol
-- brain injury
-- care home
-- care home resident
-- charge
-- cost
-- council area
-- dementia
-- drug
-- hearing impairment
-- learning disability
-- local authority
-- long stay
-- mental health
-- nursing care
-- older people
-- personal care
-- physical disability
-- resident
-- respite stay
-- self funder
-- short stay
-- visual impairment
-- weekly cost
+- Elections / Politics
 date_created: '2019-04-30'
 date_updated: '2021-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

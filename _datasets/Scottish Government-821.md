@@ -1,16 +1,16 @@
 ---
 category:
-- housing
-date_created: '2016-12-12'
-date_updated: '2021-09-16'
+- Uncategorised
+date_created: '2019-03-14'
+date_updated: '2020-12-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Quarterly time series data on Scottish approvals, starts and completions
-  by sector </p>
+notes: <p>How safe adults in Scotland feel when alone in their home at night, from
+  the Scottish Household Survey (SHS)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/new-build-housing-starts-and-completions
+original_dataset_link: http://statistics.gov.scot/data/feeling-safe-when-alone-at-home---scottish-household-survey
 records: null
 resources: []
 schema: default
-title: New Build Housing Starts and Completions
+title: Feeling safe when alone at home - Scottish Household Survey
 ---

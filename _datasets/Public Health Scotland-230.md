@@ -1,12 +1,6 @@
 ---
 category:
-- 17c
-- 17j
-- 2c
-- financial year
-- general practice
-- gp payment
-- payments
+- Uncategorised
 date_created: '2021-01-14'
 date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

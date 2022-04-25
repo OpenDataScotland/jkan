@@ -1,8 +1,6 @@
 ---
 category:
-- ev
-- electric vehicle
-- charging
+- Transportation
 date_created: '2017-12-04'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

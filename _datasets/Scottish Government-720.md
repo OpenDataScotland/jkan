@@ -1,17 +1,15 @@
 ---
 category:
-- business
-- enterprise and energy
-date_created: '2018-05-22'
-date_updated: '2021-09-09'
+- Uncategorised
+date_created: '2017-02-02'
+date_updated: '2020-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number and rate (per 10,000 adults) of VAT/PAYE registered stocks and sites
-  operating in Scotland.</p>
+notes: <p>Land area in hectares based on aggregating 2011 Data Zone data.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites
+original_dataset_link: http://statistics.gov.scot/data/land-area-2011-data-zone-based
 records: null
 resources: []
 schema: default
-title: Business Stocks and Sites
+title: Land Area (based on 2011 Data Zones)
 ---

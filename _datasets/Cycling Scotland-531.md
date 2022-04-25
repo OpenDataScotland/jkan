@@ -1,9 +1,6 @@
 ---
 category:
-- transport / mobility
-- active travel
-- government
-- scottish household survey
+- Uncategorised
 date_created: '2019-11-26T15:08:45.181Z'
 date_updated: '2021-09-14'
 license: https://creativecommons.org/licenses/by/4.0/

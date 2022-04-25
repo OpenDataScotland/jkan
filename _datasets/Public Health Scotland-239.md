@@ -1,14 +1,6 @@
 ---
 category:
-- british national formulary bnf
-- drug
-- general practice
-- generic drug
-- health board
-- medicine
-- prescribing
-- prescription
-- proprietary drug
+- Uncategorised
 date_created: '2018-01-17'
 date_updated: '2022-02-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,16 +1,15 @@
 ---
 category:
-- labour force
-date_created: '2014-07-29'
-date_updated: '2016-02-09'
+- Economy
+date_created: '2018-06-04'
+date_updated: '2021-06-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number, and percent, of young people (16-19) who were not in education,
-  employment or training.</p>
+notes: <p>Number of awards made by Local Authorities for Discretionary Housing Payments.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/neet
+original_dataset_link: http://statistics.gov.scot/data/discretionary-housing-payments-awards
 records: null
 resources: []
 schema: default
-title: Not in Employment, Education or Training (NEET)
+title: Discretionary Housing Payments Awards
 ---

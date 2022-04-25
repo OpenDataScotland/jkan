@@ -1,10 +1,6 @@
 ---
 category:
-- lgcs transport infrastructure
-- roads
-- safety
-- transport
-- potholes
+- Transportation
 date_created: '2018-12-05'
 date_updated: '2020-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,18 +1,6 @@
 ---
 category:
-- council area
-- data zone
-- health and social care partnership
-- health board
-- hscp
-- ia
-- ijb
-- integrated joint board
-- integration authority
-- intermed zone
-- intermediate zone
-- lookup
-- map
+- Uncategorised
 date_created: '2017-09-27'
 date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

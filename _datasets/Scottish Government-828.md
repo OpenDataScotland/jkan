@@ -1,15 +1,17 @@
 ---
 category:
-- scottish index of multiple deprivation
-date_created: 15:38:45Z
-date_updated: '2020-03-31'
+- Economy
+date_created: '2019-05-31'
+date_updated: '2021-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The number and percentage of people who are employment deprived</p>
+notes: <p>Received applications and authorised applications (awards) for Best Start
+  Grant Pregnancy and Baby Payment,  Early Learning Payment, School Age Payment and
+  Best Start Foods Payment</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---employment-indicators
+original_dataset_link: http://statistics.gov.scot/data/best-start-grant
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation - Employment Indicators
+title: 'Best Start Grant and Best Start Foods: Applications'
 ---

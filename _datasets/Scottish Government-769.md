@@ -1,15 +1,16 @@
 ---
 category:
-- health and social care
-date_created: '2014-07-29'
-date_updated: '2016-03-11'
+- Education
+date_created: '2018-04-24'
+date_updated: '2021-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number, and WTE, of social work staff by gender</p>
+notes: <p>The percentage of school leavers going to a 'positive destination' on leaving
+  school</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/social-work-staffing
+original_dataset_link: http://statistics.gov.scot/data/positive-destinations
 records: null
 resources: []
 schema: default
-title: Social Work Staffing
+title: Schools - Positive Leaver Destinations
 ---
