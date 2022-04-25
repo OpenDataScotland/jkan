@@ -55,7 +55,7 @@ defaults:
       type: datasets
     values:
       layout: dataset
-      category: Uncategorized
+      category: Uncategorised
       organization: N/A
   - scope:
       path: ""
