@@ -1,0 +1,16 @@
+---
+---
+{% assign local_authorities = site.organizations | where: "type", "Local authority" %}
+[{% for org in local_authorities  %}
+ {
+     "title": {{ org.title | jsonify }},
+     "description": {{ org.description | jsonify }},
+     "logo": {{ org.logo | jsonify }},
+     "portal_url": {{ org.portal_url | default: null | jsonify }},
+     "org_url": {{ org.org_url | jsonify }},
+     "twitter_handle": {{ org.twitter_handle | jsonify }},
+     "gss_code": {{ org.gss_code | jsonify }},
+     "wikidata_org_qid": {{ org.wikidata_org_qid | jsonify }},
+     "wdtk_id": {{ org.wdtk_id | jsonify }}
+ }{% unless forloop.last %},{% endunless %}{% endfor %}
+]
