@@ -11,6 +11,8 @@
      "twitter_handle": {{ org.twitter_handle | jsonify }},
      "gss_code": {{ org.gss_code | jsonify }},
      "wikidata_org_qid": {{ org.wikidata_org_qid | jsonify }},
-     "wdtk_id": {{ org.wdtk_id | jsonify }}
+     "wdtk_id": {{ org.wdtk_id | jsonify }},
+     "ods_url": {{ org.url | jsonify }},
+     "dataset_count": {{  site.datasets | where: "organization", org.title | size | jsonify }}
  }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]

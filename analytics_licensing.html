@@ -5,9 +5,6 @@ permalink: /analytics/licensing/
 ---
 {% include breadcrumbs.html %}
 
-<!--standard set of links to use on all analytics pages-->
-{% include analytics-links.html %}
-
 <!--Chart: number of data files by license-->
 <h2>Dataset Licensing</h2>
 
@@ -15,7 +12,6 @@ permalink: /analytics/licensing/
 
 <script>
         document.addEventListener('DOMContentLoaded', () => {
-                document.getElementById("analytics-last-updated").style.display = "none"
 
                 // loading the datasets data
                 $.getJSON('/datasets.json', function (datasets) {

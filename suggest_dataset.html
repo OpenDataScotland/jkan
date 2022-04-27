@@ -1,0 +1,44 @@
+---
+title: Suggest dataset
+layout: default
+permalink: /suggest-dataset/
+---
+{% include breadcrumbs.html %}
+
+<div class="row">
+    <div class="col-md-6">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdnXsl-Neld5CpSzVjbjGrn7r6GwcfJgO-xrCBYlmMzQrgBgw/viewform?embedded=true" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </div>
+    <div class=col-md-6>
+        <p>Here are some datasets that people have suggested previously:</p>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Dataset name</th>
+                </tr>
+            </thead>
+            <tbody id="suggested-datasets">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/datalib/1.9.3/datalib.min.js" integrity="sha512-0Wxch7yEHpq8eszzwYYczf6VJxBz9pDsx/K2LirpZ05WgDaoo7BK6uap/osDV21OO1KGNFhKJ2ujZXm0vk18pg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    let datasetTable = document.getElementById("suggested-datasets");
+    var data = dl.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQC8_grmC3ArTzE51139elnwe-FtSIuqxN51MDnZOQwAiJSSmBsoYRp4V8H7qpnVHeuEjPRuf5gwbkT/pub?output=csv');
+
+    var catColName = data.columns[1];
+    var datasetColName = data.columns[2];
+
+    data.forEach(row => {
+        let category = row[catColName].replace(/(<([^>]+)>)/gi, "");;
+        let dataset = row[datasetColName].replace(/(<([^>]+)>)/gi, "");;
+
+        var newRow = `<tr><td>${category}</td><td>${dataset}</td></tr>`
+
+        datasetTable.insertAdjacentHTML( 'beforeend', newRow );
+    })
+
+</script>

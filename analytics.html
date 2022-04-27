@@ -5,9 +5,6 @@ permalink: /analytics/
 ---
 {% include breadcrumbs.html %}
 
-<!--standard set of links to use on all analytics pages-->
-{% include analytics-links.html %}
-
 <!--Commentary-->
 <h2>Dataset Overview</h2>
 <p class="lead" style="margin-bottom:0"><span id="stat-distinct-datasets"></span> Distinct datasets</p>
@@ -21,7 +18,6 @@ permalink: /analytics/
 
 <script>
         document.addEventListener('DOMContentLoaded', () => {
-                document.getElementById("analytics-last-updated").style.display = "none"
 
                 // loading the datasets data
                 $.getJSON('/datasets.json', function (datasets) {

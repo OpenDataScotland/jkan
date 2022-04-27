@@ -1,0 +1,142 @@
+---
+title: Local authority coverage
+layout: default
+permalink: /analytics/local-authority-coverage
+---
+{% include breadcrumbs.html %}
+
+<h1>{{ page.title }}</h1>
+
+<div id="map" class="leaflet-map"></div>
+
+{% assign local_authorities = site.organizations | where: "type", "Local authority" %}
+{% assign local_authorities_count = local_authorities | size %}
+{% assign la_publish_count = 0.0 %}
+{% for org in local_authorities %}
+{% assign dataset_count = site.datasets | where: "organization", org.title | size %}
+{% if dataset_count > 0 %}
+{% assign la_publish_count = la_publish_count | plus: 1.0 %}
+{% endif %}
+{% endfor %}
+
+{% assign la_publish_percent = la_publish_count | divided_by: local_authorities_count %}
+
+<p class="lead">Currently <strong>{{la_publish_count | round: 0}}</strong> out of <strong>{{ local_authorities_count
+        }}</strong> ({{la_publish_percent | times: 100 | round: 2 }}%) Scottish
+    local authorities publish open data</p>
+
+<table id="la-leaderboard" class="table table-responsive table-bordered table-striped mt-2">
+    <thead>
+        <tr>
+            <th>Local authority</th>
+            <th># datasets</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+<template id="popup-template">
+    {% raw %}
+    <img src="{{logo}}" class="img-fluid popup-la-logo" alt="Logo for {{title}}">
+    <h1 class="h3 text-center">{{title}}</h1>
+    <a href="{{ods_url}}" class="lead">{{dataset_count}} datasets</a>
+    {% endraw %}
+</template>
+
+<template id="row-template">
+    {% raw %}
+    <tr>
+        <td><a href="{{ods_url}}">{{title}}</a></td>
+        <td>{{dataset_count}}</td>
+    </tr>
+    {% endraw %}
+</template>
+
+<template id="map-legend">
+    {% raw %}
+    <h1 class="h5">Legend</h1>
+    <ul class="list-unstyled legend-list">
+        <li><span class="legend-circle" style="background-color: {{publishColour}}"></span>Publishes open data</li>
+        <li><span class="legend-circle" style="background-color: {{noPublishColour}}"></span>Doesn't publish open data
+        </li>
+    </ul>
+    {% endraw %}
+</template>
+
+<script>
+    var map;
+    const HAS_DATASETS_COLOUR = '#005AB5';
+    const NO_DATASETS_COLOUR = '#CCCCC4';
+    $(document).ready(function () {
+        map = L.map('map').setView(SCOTLAND_CENTRE, 6);
+
+        OSM_TILE_LAYER.addTo(map);
+
+        loadData();
+    });
+
+    async function loadData() {
+        let geoJson = await fetch('{{ site.baseurl }}/geojson/local_authorities.geojson').then(response => { return response.json() });
+        let localAuthorityOrgs = await fetch('{{ site.baseurl }}/data/local_authorities.json').then(response => { return response.json() });
+
+        // Map
+        L.geoJSON(geoJson, { onEachFeature: (feature, layer) => bindLAPopup(feature, layer, localAuthorityOrgs) })
+            .addTo(map);
+
+        addLegend();
+
+        // Table
+        localAuthorityOrgs.sort((a, b) => b.dataset_count - a.dataset_count);
+
+        let rowTemplate = document.getElementById('row-template').innerHTML;
+        let leaderboardTable = document.querySelector('#la-leaderboard tbody');
+
+        localAuthorityOrgs.forEach(la => {
+
+            let renderedRow = Mustache.render(rowTemplate, la);
+
+            leaderboardTable.insertAdjacentHTML('beforeend', renderedRow);
+
+        })
+    }
+
+    function bindLAPopup(feature, layer, laOrgs) {
+        let popupContent = '';
+
+        let laMetadata = laOrgs.filter(la => la.gss_code == feature.properties.code)[0] || null;
+
+        if (laMetadata === null) {
+            popupContent = `<span class="text-danger">Metadata not found!</span>`
+            layer.bindLAPopup(popupContent);
+            return;
+        }
+
+        // Populate popup content
+        let popupTemplate = document.getElementById('popup-template').innerHTML;
+        let rendered = Mustache.render(popupTemplate, laMetadata);
+
+        layer.bindPopup(rendered, { maxWidth: POPUP_MAX_WIDTH });
+
+        // Determine polygon style
+        let polyColour = laMetadata.dataset_count > 0 ? HAS_DATASETS_COLOUR : NO_DATASETS_COLOUR;
+        layer.setStyle({ color: POLYGON_LINE_COLOUR, weight: POLYGON_LINE_WEIGHT, fillColor: polyColour, fillOpacity: POLYGON_OPACITY })
+    }
+
+    function addLegend() {
+        var legend = L.control({ position: 'bottomleft' });
+        legend.onAdd = function (map) {
+
+            let parent = L.DomUtil.create('div', 'legend');
+            let legendTemplate = document.getElementById('map-legend');
+
+            let renderedLegend = Mustache.render(legendTemplate.innerHTML, {publishColour: HAS_DATASETS_COLOUR, noPublishColour: NO_DATASETS_COLOUR});
+
+            parent.innerHTML += renderedLegend;
+            return parent;
+        };
+        legend.addTo(map);
+    }
+
+</script>
