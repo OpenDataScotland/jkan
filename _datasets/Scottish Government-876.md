@@ -1,16 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-05-13'
-date_updated: '2021-05-13'
+- Economy
+date_created: '2021-04-28'
+date_updated: '2021-04-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Official Statistics of the number and proportions of working-age adults
-  in poverty. Various poverty measures and breakdowns are available.</p>
+notes: <p>Child Winter Heating Assistance payments and expenditure since November
+  2020</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/poverty-working-age-adults
+original_dataset_link: http://statistics.gov.scot/data/child-winter-heating-assistance
 records: null
 resources: []
 schema: default
-title: Poverty (working age adults)
+title: Child Winter Heating Assistance
 ---

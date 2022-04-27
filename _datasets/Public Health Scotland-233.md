@@ -1,59 +1,47 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-06-01'
-date_updated: '2020-08-27'
+- Elections / Politics
+- Economy
+- Health / Human Services
+- Planning / Zoning
+date_created: '2019-11-26'
+date_updated: '2021-10-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Information on open nursing and midwifery vacancies taken at a census point,
-  for each NHS board, broken down by profession and pay bands. </p>
-
-  <p>A vacancy is a post which has been cleared for advert after being through the
-  redeployment process (internal or external advert) and remains a vacancy until an
-  individual starts in the post. All data is presented as whole time equivalents.</p>
-
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHSScotland
-  Workforce page</a> of the NES <a href="https://turasdata.nes.nhs.scot/">Turas Data
-  Intelligence website</a>.</p>
-
-  <p>Data visualisation of Nursing and Midwifery vacancies is available on the <a
-  href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/publications/02-june-2020/dashboards/nursing-and-midwifery/">Nursing
-  and Midwifery dashboard</a>. </p>
-
-  <p><em>Please note this dataset is no longer updated with new data releases from
-  1st April 2020 onwards. The newest data is now made available on the <a href="https://turasdata.nes.nhs.scot/">NES
-  Turas Data Intelligence website</a>, along with all publications and supporting
-  material related to <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHS
-  Scotland Workforce</a>.</em></p>'
+notes: "<h1>Percentage of time in the last 6 months of life spent at home or in a\
+  \ community setting.</h1>\n<p>This data provides information in support of the Scottish\
+  \ Government\u2019s <a href=\"http://www.gov.scot/Resource/0049/00491388.pdf\">Strategic\
+  \ Framework for Action on Palliative and End of Life Care</a> which has one of its\
+  \ commitments to \u201Csupport improvements in the collection, analysis, interpretation\
+  \ and dissemination of data and evidence relating to needs, provision, activity,\
+  \ indicators and outcomes in respect of palliative and end of life care\u201D. </p>\n\
+  <p>The percentage of time in the last 6 months of life spent at home or in a community\
+  \ setting provides a high level indication of progress in implementation of the\
+  \ strategic framework for action. This is inferred by measuring the amount of time\
+  \ spent in a hospital setting during the last months of life (using hospital admissions\
+  \ data) and from this estimating the time spent at home or in a community setting.</p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/nursing-and-midwifery-vacancies
+original_dataset_link: https://www.opendata.nhs.scot/dataset/palliative-and-end-of-life-care
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/e5736957-77c7-4cb4-9abe-11fb168a0768/download/nandm_vacancy_dec19.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/3b68cad8-a4ba-4aeb-908a-f731e5380aea/download/2021-10-05_last-six-months-of-life_health-board.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/053e2f37-ae8d-406c-a01f-7e7d6b237c56/download/nandm_vacancy_sep19.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/48467a13-3db2-4eaa-bfba-87b36e9c6668/download/2021-10-05_last-six-months-of-life_hscp.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/d9738160-3738-4186-a18a-1d616099862f/download/nandm_vacancy_jun19.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/73bf87ad-a768-4283-9b75-0bf4931d24a0/download/2021-10-05_last-six-months-of-life_council-area.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/e6020924-9916-4bfb-a8a8-750133013779/download/nandm_vacancy_mar19.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/3e37b87f-952a-4a7f-9be5-1fb614811326/download/2021-10-05_last-six-months-of-life_age-sex.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/a3748df7-24b8-46ab-ab02-96349a044268/download/nandm_vacancy_dec18.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/80c50776-3b2e-4471-ab81-b6057bea5bfc/download/2021-10-05_last-six-months-of-life_deprivation.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/960b594e-e62f-4bd4-8da6-0d4592789b5e/download/nandm_vacancy_sep18rev.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/1d7f7dc9-3d0b-420b-9b19-a00b6c53b2a4/download/nandm_vacancy_jun18rev.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/2036e866-823f-4fbd-976e-301cc7fa3d6d/download/nandm_vacancy_mar18rev.csv
+  url: https://www.opendata.nhs.scot/dataset/a739339b-812f-471b-9630-0b731070e98a/resource/0a7a920e-8c8c-4b65-b51e-13a2f8026710/download/2021-10-05_last-six-months-of-life_rurality.csv
 schema: default
-title: Nursing and Midwifery Vacancies
+title: Palliative and End of Life Care
 ---

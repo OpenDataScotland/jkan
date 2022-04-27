@@ -1,33 +1,26 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
-license: No licence
+- Transportation
+date_created: '2017-09-25'
+date_updated: '2019-06-25'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>Location of the 8 major parks with Perth and Kinross</p>
+notes: '<p>National Public Transport Access Nodes (NaPTAN) is the national system
+  for identifying access points for public transport. It is updated by local authorities
+  and the data is collated and published by the Department for Transport (DfT).</p>
+
+  <p>The links provided lead to the up-to-date NaPTAN, filtered to only include points
+  that fall within the Perth &amp; Kinross area.</p>'
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/major-parks
+original_dataset_link: https://data.pkc.gov.uk/dataset/naptan-perth-kinross
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Major_Parks/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: XML
+  name: XML
+  url: http://naptan.app.dft.gov.uk/DataRequest/Naptan.ashx?format=xml&LA=648
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/dataset/0f2bb8dd-7255-4224-8bbd-9cfe3732d1d6/resource/0ab9c888-6c26-48f6-8941-7c174b73ff76/download/naptanstopsperth.csv
 schema: default
-title: Major Parks
+title: Public transport access points in Perth & Kinross (NaPTAN)
 ---

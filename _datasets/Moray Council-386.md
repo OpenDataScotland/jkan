@@ -1,22 +1,20 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-08-21'
+- Planning / Zoning
+date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Council Register of Assets (Moray).\_ Section 94 of the Community Empowerment\
-  \ (Scotland) Act 2015 (the Act) requires public authorities to make available to\
-  \ members of the public a register of land that it owns or leases \u201Cto the best\
-  \ of its knowledge and belief\u201D.\_ The purpose of the register is to help Community\
-  \ Transfer Bodies identify assets that may be available through asset transfer under\
-  \ Part 5 of the Act.\_ The inclusion of an asset on the register is a requirement\
-  \ of the Act and does not necessarily imply that the Council is actively seeking\
-  \ to transfer that asset to the community.</p>"
+notes: <p>Local Development Plan 2020Settlement Designations set out the current and
+  proposed land uses related to the boundaries for the primary, secondary and third
+  tier settlements. In general the land use designations indicate the types of uses
+  that will be acceptable under the terms of the plan. However any proposal for development
+  will also have to satisfy the key governing policies that are set out in the Policy
+  section of the Local Development Plan.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=400332609a0641e389c990dccfb42430
-records: 1135
+original_dataset_link: https://www.arcgis.com/home/item.html?id=202ebe4a49d0469b8e619cfb220359a9
+records: 764
 resources: []
 schema: default
-title: Council Register of Assets (Moray)
+title: Local Development Plan 2020 Settlement Designations (Moray)
 ---

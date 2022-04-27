@@ -1,19 +1,20 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-06-14'
-date_updated: '2020-07-14'
+- Food
+- Economy
+date_created: '2017-10-25'
+date_updated: '2017-10-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>A list of the fleet vehicles and mechanical equipment controlled by the
-  fleet management team</p>
+notes: "<p>The XML feed from the Food Standards agency for Perth and Kinross. Licensed\
+  \ under OGL 3.0 -\n https://www.food.gov.uk/about-us/data-and-policies/aboutsite/termsandconditions/fhrs-data-usage-open-government-licence-and-disclaimer</p>"
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/fleetinventory
+original_dataset_link: https://data.pkc.gov.uk/dataset/food-standards-scotland-feed
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/6eea3afa-d54c-48ba-993d-b4a6a988c549/resource/0931bcf2-4ef0-42ec-94d0-52f95e8eec54/download/fleetinventoryopendata.csv
+- format: XML
+  name: XML
+  url: http://ratings.food.gov.uk/OpenDataFiles/FHRS786en-GB.xml
 schema: default
-title: Perth and Kinross Council Fleet Inventory
+title: Food Hygiene Ratings in PKC
 ---

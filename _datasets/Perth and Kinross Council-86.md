@@ -1,24 +1,33 @@
 ---
 category:
-- Uncategorised
+- Transportation
+- Parks / Recreation
+- Real Estate / Land Records
 date_created: '2017-08-25'
 date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: '<p>Linked Data is a growing part of the Web where data is published on the
-  Web and then linked to other published data in much the same way that web pages
-  are interlinked using hypertext.</p>
-
-  <p>OS Linked Data site takes some of the OS OpenData products and produces them
-  in machine readable languages and publishes them in this easy to use website for
-  all users to enjoy.</p>'
+notes: <p>The most detailed open data mapping product available, providing a backdrop
+  for integrating and visualising analytical datasets.  The product provides an enhanced
+  level of detail for buildings - including the specific identification of functional
+  sites such as hospitals and schools, and an extensive set of cartographic names
+  optimised for digital styling and presentation.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/os-linked-data
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-map-local
 records: null
 resources:
 - format: HTML
   name: HTML
-  url: http://data.ordnancesurvey.co.uk/
+  url: http://os.uk/business-and-government/products/os-open-map-local.html
+- format: HTML
+  name: HTML
+  url: https://os.uk/opendatadownload/products.html
+- format: ATOM FEED
+  name: ATOM FEED
+  url: http://os.uk/xml/atom/OSOpenMapLocal.xml
+- format: ZIP
+  name: ZIP
+  url: http://inspire.dundeecity.gov.uk/os_opendata/openmaplocal/OS_openmaplocal_dundee.zip
 schema: default
-title: OS Linked Data
+title: OS Open Map - Local
 ---

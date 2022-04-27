@@ -1,22 +1,26 @@
 ---
 category:
 - Transportation
-date_created: '2019-10-17T15:06:31.003Z'
-date_updated: '2019-11-26'
-license: https://creativecommons.org/licenses/by/4.0/
+date_created: '2021-11-26T15:37:11.471Z'
+date_updated: '2021-11-29'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This data highlights all university and college campuses across Scotland
-  that have received a Cycling Friendly Campus Award</p>
+notes: <p>All-mode traffic data from 48-hour surveys across Scotland in September
+  2021</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ccdfe336-fc50-44e4-8e07-77ec03547b0e
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2313c4cf-ea8f-4974-98d1-50476db791cd
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c92986a3-157a-485b-b967-f15f041ccecf/5/urql
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e0cb9563-d672-4dad-aaae-4aebbd06060d
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a101efee-bc93-47fc-b403-3d97149a0f38
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8dbd8bf-91e7-4ae7-9d0d-38f1e0ef63e1
 schema: default
-title: Cycling Friendly - Campus Award - Cycling Scotland
+title: National Monitoring Framework - all-mode traffic survey results September 2021
+  - Cycling Scotland
 ---

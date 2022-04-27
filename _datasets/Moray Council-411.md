@@ -5,11 +5,11 @@ date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Local Development Plan 2020 Rural Group Boundary (Moray)</p>
+notes: <p>Local Development Plan 2020 Waste Sites (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e060c11e0790471f826ef40c08029094
-records: 89
+original_dataset_link: https://www.arcgis.com/home/item.html?id=60a64be6443046ce8ce4c2fe628f2c37
+records: 4
 resources: []
 schema: default
-title: Local Development Plan 2020 Rural Group Boundary (Moray)
+title: Local Development Plan 2020 Waste Sites (Moray)
 ---

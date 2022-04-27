@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Education
 date_created: '2018-05-16'
 date_updated: '2021-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

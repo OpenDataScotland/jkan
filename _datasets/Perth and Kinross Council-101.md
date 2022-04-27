@@ -1,18 +1,25 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-08-23'
-date_updated: '2019-06-25'
+- Transportation
+date_created: '2018-12-05'
+date_updated: '2020-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>A snapshot of Pullar House's energy usage by kW/h over July 2017.</p>
+notes: <p>Summary of roads defects and maintenance carried out in financial year 2018-19.
+  The data should be considered in conjunction with the accompanying PDF of the "Road
+  Safety Inspection and Defect Categorisation Policy" which defines the standards
+  for safety inspections on public roads in the Perth and Kinross Council area including
+  the nature and priority of response to defects encountered.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/pullar-house-energy-usage
+original_dataset_link: https://data.pkc.gov.uk/dataset/roads-defects
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/e5ebd755-1798-4bd9-9563-f0259dab5847/resource/68980ba4-e73c-4cca-a4ab-8c5da469d384/download/599feb3b72990800040000c4.csv
+  url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/5425064c-da6e-471b-9ead-f9d8b2cd143e/download/roads-defects-open-data-2018-19-financial-year.csv
+- format: PDF
+  name: PDF
+  url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/f899908c-77ff-4a64-aed8-c1b712c5deca/download/road-defects-policy-doc-pkc.pdf
 schema: default
-title: Pullar House Energy Usage
+title: Roads defects and maintenance
 ---

@@ -1,35 +1,37 @@
 ---
 category:
-- Transportation
+- Economy
 date_created: '2021-09-30'
 date_updated: '2021-09-30'
 license: No licence
 maintainer: Perth and Kinross Council
-notes: <div style='text-align:Left;font-size:12pt'><p><span>Attributes about each
-  charging point includes the connection type,  location, chargeable / free, charging
-  speed and whether it is available to the public. </span></p></div>
+notes: <p>The Perth and Kinross Employment Land Audit is prepared annually  to provide
+  up to date and accurate information on the supply and availability of employment
+  land for business and industrial use within the Perth and Kinross Council area.
+  This audit has been prepared from information provided in the Local Development
+  Plan and through the monitoring of planning application approvals.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/electric-vehicle-charging-points
+original_dataset_link: https://data.pkc.gov.uk/dataset/employment-land-audit-2015
 records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Electric_Vehicle_Charging_Points_noAddress/FeatureServer/0
+  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Employment_Land_Audit_2015/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Electric Vehicle Charging Points
+title: Employment Land Audit 2015
 ---

@@ -1,21 +1,24 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-01-25T16:07:09.343Z'
-date_updated: '2018-08-23'
+- Education
+date_created: '2017-11-29T11:05:07.274Z'
+date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Burial Grounds in Dumfries and Galloway</p>
+notes: <p>Primary school class sizes as at September 2016</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/873818de-53dd-4008-ac1c-8cc0c6f74070
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/49492547-04d7-4dc8-b962-21c2c389be7a
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/ac87ee48-ba3d-4742-938f-7f97269454c7/1/urql
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=74a0bbbf-55f8-4ccf-83f9-388b93b219e9
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=4ac6c7de-b05b-4dce-ab05-faab6ccff4e3
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e42a8889-9106-41ee-9d0c-cb22e81fe69d
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=b3f0b67b-7d62-4f94-a99b-e12105d36483
 schema: default
-title: Burial Grounds
+title: Class Sizes
 ---

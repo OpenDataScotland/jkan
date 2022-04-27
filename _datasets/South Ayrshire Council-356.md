@@ -1,16 +1,15 @@
 ---
 category:
-- Planning / Zoning
 - Environment
 date_created: '2015-10-30'
-date_updated: '2018-04-20'
+date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Areas depicting greenbelt in South Ayrshire</p>
+notes: <p>Extent of Country Parks in area</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=2facf03873644aab824f4e5ccaed4d7d
-records: 3
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1416a0c5fb0d402e804c54935befd32e
+records: 43
 resources: []
 schema: default
-title: Greenbelt
+title: Country Parks
 ---

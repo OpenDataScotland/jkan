@@ -1,15 +1,16 @@
 ---
 category:
-- Planning / Zoning
-date_created: '2015-10-15'
+- Arts / Culture / History
+- Environment
+date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Town and village settlement boundaries as defined in the 2007 LDP</p>
+notes: <p>Areas depicting wildlife sites South Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=2fee7037164841e4b4325cccaef39f45
-records: 30
+original_dataset_link: https://www.arcgis.com/home/item.html?id=177b941c716b4aada41ade02cd687d30
+records: 107
 resources: []
 schema: default
-title: Settlement Boundaries
+title: Wildlife Sites
 ---

@@ -1,97 +1,53 @@
 ---
 category:
 - Uncategorised
-date_created: '2018-06-12'
-date_updated: '2021-08-27'
+date_created: '2020-03-17'
+date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Defined in the Public Bodies (Joint Working) (Scotland) Act 2014 as a smaller
-  area within the borders of a Health and Social Care Partnership (HSCP).</p>
+notes: '<p>Termination data are derived from the notifications of abortion to the
+  Chief Medical Officer for Scotland (CMO) under the abortion (Scotland) regulations
+  1991. Information is provided by age, gestation, method of termination, NHS board
+  of residence, deprivation area, previous termination, parity and council area of
+  residence. </p>
 
-  <p>Each sub area (also referred to as Locality or Community Partnership) has been
-  agreed in consultation with local professionals and communities and relates to natural
-  communities. Locations of GP practices are taken into account. They vary in size
-  according to local circumstances.</p>
+  <p>An abortion can either be induced (therapeutic) or spontaneous (miscarriage).
+  The termination of pregnancy statistics reports on induced abortions only. A termination
+  of pregnancy can be performed surgically (eg vacuum aspiration, dilation and curettage)
+  or medically.</p>
 
-  <p>Methods of creating the Sub Areas vary between HSCPs and include use of building-block
-  geographies, use of best-fit building-block geographies, communities and drawing
-  lines on a map. </p>
+  <p>For more information on terminations of pregnancy see the <a href="https://beta.isdscotland.org/find-publications-and-data/population-health/sexual-health/termination-of-pregnancy-statistics/">terminations
+  section</a> of the <a href="https://beta.isdscotland.org/">PHS Data and Intelligence
+  website</a> and the annual publication. For related topics, please see the <a href="https://beta.isdscotland.org/find-publications-and-data/population-health/sexual-health/">sexual
+  health pages</a>. </p>
 
-  <p>Within some HSCP Sub Areas are then aggregated to form larger administrative
-  or operational geographies, which are also made available if sent from source. </p>'
+  <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/sub-health-and-social-care-partnership-areas
+original_dataset_link: https://www.opendata.nhs.scot/dataset/termination-of-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/d6e500c4-c1f2-4507-979a-e18855efd7a4/download/datazone-to-locality-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/342f9627-dfdd-41f5-a27c-0a3c7bcb8672/download/top_open_data_table1.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/ebd57e3f-e662-46b0-891d-acef8f7a3245/download/aberdeen-city-sub-hscp-areas.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/09542b6e-2281-42d3-86c2-10aadeee4350/download/top_open_data_table2.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/dadee8ac-1b53-41e5-b7ed-af318f11723b/download/aberdeenshire_subhscp_areas.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/1c7e5dbb-a46e-46cc-9e72-2ac5c6b062eb/download/top_open_data_table3.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/c31a1488-ad5b-4c7c-9874-f6357a4a41ac/download/angus-sub-hscp-areas.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/7ef75a65-99ad-43e9-a37f-99a0d795655b/download/top_open_data_table4.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/c30f685e-f67b-45ab-9a4c-305bc5f5225e/download/argyllbutesubhscp.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/6d4ffcb0-5bb3-4d7d-9e52-56b5bfb793f1/download/top_open_data_table5.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/ac0afa16-2437-4120-843f-ed154e0b8641/download/clackmannanshire_stirling_subhscp.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/50e0b4f2-1c5a-4a05-96e9-e4e8ccf6e17d/download/top_open_data_table6.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/cd4c6eab-7f4b-4f42-a5e6-8232804eea84/download/dumfriesgallowaysubhscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/61d51c57-b0b9-418a-8f12-64f07a90d474/download/dundee-city-sub-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/e383f070-8b9b-43a7-85de-9113e0d8a7cb/download/east-ayrshire-sub-hscp-area.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/c9d3d275-bfb2-49c3-9359-b04c223342be/download/east-lothian-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/0292ecb3-7ea1-40f5-8dd5-69d2aad5d1bb/download/edinburgh-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/6bb3b3f6-536c-4db1-99f4-15c5569a88ee/download/fife_sub_hscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/5cb283c6-f74e-42f7-a071-abece73559cf/download/highlandsubhscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/dd7fb291-00f9-43dd-9131-8e87f700768e/download/moray_subhscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/5640f74d-c481-494e-ab45-a29bc64ed52e/download/midlothian-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/2848659c-633b-453f-9ac3-a8bf5a3c35fb/download/north-lanarkshire-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/ca88c6f9-662f-47a9-a1d9-6e673c9ea0b8/download/renfrewshire-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/0b2b7f0f-fc6e-46a5-b32c-9e55e12b2e52/download/scottish-borders-hscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/04c75e63-1be2-43e7-a1aa-519934ac2583/download/south-ayrshire-hscp.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/89f1ef03-ea59-4614-b248-00495738f1cb/download/south-lanarkshire-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/96d7a8eb-5616-48de-acfa-d1cc2aeb9702/download/west-dunbartonshire-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/b83bcf98-fba4-432c-b90f-f5edd8917dad/download/west-lothian-sub-hscp-areas.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/f8d2c4f7-d420-4c57-a15f-2d5fc80a75b2/download/western-isles-hscp-areas.csv
+  url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/30bd356b-81c8-46a7-a1d6-5ce992f5c5cb/download/top_open_data_table7.csv
 schema: default
-title: Sub Health and Social Care Partnership Areas
+title: Termination of Pregnancy in Scotland
 ---

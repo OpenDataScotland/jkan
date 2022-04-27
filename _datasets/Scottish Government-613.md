@@ -1,16 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2014-07-29'
-date_updated: '2019-05-22'
+- Economy
+date_created: '2018-05-22'
+date_updated: '2021-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>A dataset with all of the organisations involved in creating and publishing
-  statistics on this site.</p>
+notes: <p>Number and rate (per 10,000 adults) of VAT/PAYE registered stocks and sites
+  operating in Scotland.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/organisations
+original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites
 records: null
 resources: []
 schema: default
-title: Organisations
+title: Business Stocks and Sites
 ---

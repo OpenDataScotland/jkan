@@ -1,8 +1,8 @@
 ---
 category:
-- Education
+- Arts / Culture / History
 date_created: ''
-date_updated: '2021-06-01'
+date_updated: '2020-05-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,13 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_secondary_school_catchments.kmz
+  url: http://online.aberdeenshire.gov.uk/apps/opendata/kml/WindTurbineApps200520.kmz
+- format: CSV
+  name: CSV
+  url: http://online.aberdeenshire.gov.uk/apps/opendata/csv/WindTurbineApps_200520.csv
+- format: ZIP
+  name: ZIP
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/WindApps_200520.zip
 schema: default
-title: Secondary school catchment boundaries within Aberdeenshire
+title: Wind turbine applications within Aberdeenshire
 ---

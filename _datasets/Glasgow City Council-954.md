@@ -1,30 +1,21 @@
 ---
 category:
-- Education
+- Transportation
+- Environment
 date_created: ''
-date_updated: '2021-06-02'
+date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Schools and catchemnts areas</p>
+notes: <div><div style='box-sizing:border-box;'><p>A real time traffic API allowing
+  queries of current traffic flows from the Glasgow SCOOT traffic network and also
+  the ability to query over a given time period.</p><div></div></div></div>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_4
+original_dataset_link: https://data.glasgow.gov.uk/datasets/a3f0b3d4ec154dca9771e0fa4ede23ca
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer/4
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_4.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_4.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_4.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gcc.developer.azure-api.net/api-details#api=traffic&operation=movement
 schema: default
-title: RC Secondary Schools
+title: Traffic API - Real Time Movement
 ---

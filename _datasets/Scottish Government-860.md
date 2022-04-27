@@ -1,15 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-03-03'
-date_updated: '2020-03-11'
+- Economy
+date_created: '2020-04-06'
+date_updated: '2021-07-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: ''
+notes: <p>Mid-year population estimates for 2018 onwards. Higher geographies are aggregated
+  from 2011 Data Zones.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/commuting-time-by-travel-to-work-areas
+original_dataset_link: http://statistics.gov.scot/data/population-estimates-young-and-old
 records: null
 resources: []
 schema: default
-title: Commuting time by Travel to Work Areas
+title: 'Population Estimates: Young and Old'
 ---

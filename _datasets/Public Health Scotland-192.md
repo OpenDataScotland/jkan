@@ -1,82 +1,46 @@
 ---
 category:
 - Health / Human Services
-date_created: '2021-07-12'
-date_updated: '2021-10-06'
+date_created: '2020-06-23'
+date_updated: '2022-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset presents information on COVID-19 vaccinations delivered to
-  pregnant women in Scotland.</p>
-
-  <p>In Scotland the Pfizer/BioNTech vaccine has been used since the start of the
-  vaccination programme on 8 December 2020. The Oxford/Astrazeneca vaccine has been
-  used from 4 January 2021 and the Moderna vaccine from 7 April 2021. </p>
-
-  <p>Women can receive a first or second dose, or both doses, of COVID-19 vaccination
-  during pregnancy, depending on when they become eligible for vaccination and how
-  this relates to the dates of their pregnancy.</p>
-
-  <p>PHS has generated this information on COVID-19 vaccinations delivered to pregnant
-  women by linking national data on vaccinations to the COVID-19 in Pregnancy in Scotland
-  (COPS) study database of pregnant women in Scotland.</p>
-
-  <p>As part of the COPS study, PHS is regularly linking together a wide range of
-  health records to identify women who are, or recently have been, pregnant.  The
-  specific records used include:</p>
-
-  <ul>
-
-  <li>Records of booking for antenatal care</li>
-
-  <li>GP records relating to miscarriage</li>
-
-  <li>Hospital discharge records relating to miscarriage or delivery of a live or
-  stillborn baby</li>
-
-  <li>Statutory termination of pregnancy notification records</li>
-
-  <li>Statutory live or stillbirth registration records</li>
-
-  <li>NHS live birth notification records.</li>
-
-  </ul>
-
-  <p>Using these records, we have identified all women in Scotland who were pregnant
-  on 1 March 2020 (the start of the COVID-19 pandemic), and all women who have subsequently
-  become pregnant.  </p>
-
-  <p>The study database is refreshed every month with new pregnancies added to the
-  database, and previous records of ongoing pregnancies updated as required, for example
-  if a woman has recently delivered her baby.</p>
-
-  <p>Further details on the COPS study are available on the <a href="https://www.ed.ac.uk/usher/research/projects/covid-19-pregnancy-scotland">Usher
-  Institute webpage</a> and <a href="https://github.com/Public-Health-Scotland/COPS-public">PHS
-  github page</a>.</p>'
+notes: "<p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified\
+  \ in Wuhan, China. Clinical presentation may range from mild-to-moderate illness\
+  \ to pneumonia or severe acute respiratory infection.\nThe COVID-19 pandemic has\
+  \ wider impacts on individuals\u2019 health, and their use of healthcare services,\
+  \ than those that occur as the direct result of infection. Reasons for this may\
+  \ include:</p>\n<p>\u2022 Individuals being reluctant to use health services because\
+  \ they do not want to burden the NHS or are anxious about the risk of infection.</p>\n\
+  <p>\u2022 The health service delaying preventative and non-urgent care such as some\
+  \ screening services and planned surgery.</p>\n<p>\u2022 Other indirect effects\
+  \ of interventions to control COVID-19, such as mental or physical consequences\
+  \ of distancing measures.</p>\n<p>This dataset provides information on trend data\
+  \ regarding the wider impact of the pandemic on cardiovascular attendances in A&amp;E\
+  \ departments. Data is available from the beginning of 2020 along with historical\
+  \ activity (average from 2018 and 2019) for comparison purposes. The recent trend\
+  \ data for Accident &amp; Emergency Department attendances are shown by age group,\
+  \ and by broad area deprivation category (Scottish Index of Multiple Deprivation,\
+  \ SIMD).</p>\n<p>This data is also available on the <a href=\"https://scotland.shinyapps.io/phs-covid-wider-impact/\"\
+  >COVID-19 Wider Impact Dashboard</a>.\nAdditional data sources relating to this\
+  \ topic area are provided in the Links section of the Metadata below. Information\
+  \ on COVID-19, including stay at home advice for people who are self-isolating and\
+  \ their households, can be found on <a href=\"https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice\"\
+  >NHS Inform</a>.</p>\n<p>All publications and supporting material to this topic\
+  \ area can be found in the weekly <a href=\"https://publichealthscotland.scot/publications/covid-19-statistical-report/\"\
+  >COVID-19 Statistical Report</a>. The date of the next release can be found on our\
+  \ list of <a href=\"https://publichealthscotland.scot/publications/forthcoming-publications/\"\
+  >forthcoming publications</a>.</p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccinations-in-pregnancy-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-cardiovascular-activity
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8fca2670-52bb-4ea9-a16d-cb8324a3affb/download/vacc_week_20210930.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4/download/ae_cardio_data_age_20220302.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/9841abc3-8e29-4cf9-a1a9-81c94c1d5774/download/vacc_gest_20210930.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/d8e07786-c596-46ea-b9ad-5ddb012c3692/download/vacc_product_20210930.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/70c434ed-917b-47bb-a40c-7d8236ea688e/download/uptake_age_20210930.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8a1ebc79-1338-4149-9d57-0aba2b459ed0/download/uptake_simd_20210930.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/4af31ede-1a40-4bbc-b258-c3f0229e7b04/download/coverage_delivery_20210930.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8ca8ddf9-f77f-45e7-acae-bb919a1259f3/download/uptake_hb_20210930.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20220302.csv
 schema: default
-title: COVID-19 Vaccinations in Pregnancy in Scotland
+title: "COVID-19 Wider Impacts \u2013 Cardiovascular Activity"
 ---

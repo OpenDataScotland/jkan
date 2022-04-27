@@ -1,22 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-04-18'
-date_updated: '2019-04-18'
-license: No licence
+date_created: '2017-12-04'
+date_updated: '2018-09-12'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: "<p>Babies' first forenames by Council area, 2018 based on the records for\
-  \ all the births which were registered in that year -\_filtered for Renfrewshire.\_\
-  Notes -\_a)\_each list covers first forenames given to 3+ babies of that sex in\
-  \ the specified council area (so OMITS first forenames given to only 1-2 babies\
-  \ of that sex).b)\_the geographical basis is the usual one for National Records\
-  \ of Scotland (NRS) statistics of births, which is births registered in Scotland\
-  \ to mothers who lived in the specified council area plus any births to mothers\
-  \ from outwith Scotland which occurred in the specified council area.</p>"
+notes: "<p>Scottish Index of Multiple Deprivation (SIMD) 2016 indicator data for Renfrewshire.\_\
+  For more information, guidance, and SIMD16 Technical Notes please go to\_http://www.gov.scot/SIMD</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e708a65d88c44191875a7ddb8c748113
-records: 71
+original_dataset_link: https://www.arcgis.com/home/item.html?id=e6254992c57f4f65b57e45d847dae0ac
+records: 231
 resources: []
 schema: default
-title: Baby First Names 2018 (girls)
+title: Scottish Index of Multiple Deprivation 2016 Indicator Data
 ---

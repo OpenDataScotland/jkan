@@ -1,26 +1,33 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-02-05'
-date_updated: '2022-01-26'
+- Elections / Politics
+- Planning / Zoning
+- Health / Human Services
+date_created: '2020-04-01'
+date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Health Protection Scotland (HPS) provides quarterly statistics and a combined
-  epidemiological commentary for <em>Clostridioides difficile infection</em> (CDI),
-  <em>Escherichia coli bacteraemia</em> (ECB), <em>Staphylococcus aureus bacteraemia</em>
-  (SAB) and  Surgical Site Infection (SSI) in Scotland. Quarterly case numbers and
-  denominator data are provided in order to calculate infection rates and SSI incidence
-  for the 14 regional NHS boards and one Special NHS Board.</p>
-
-  <p>The full report and relevant documents, including methods and caveats, are available
-  to view at: https://www.hps.scot.nhs.uk/data/healthcare-associated-infection-quarterly-epidemiological-commentary/</p>'
+notes: <p>The Scottish Drug Misuse Database (SDMD) report provide an annual update
+  to figures on the number of individuals presenting for assessment at specialist
+  drug treatment services. All publications and supporting material to this topic
+  area can be found on <a href="https://beta.isdscotland.org/find-publications-and-data/lifestyle-and-behaviours/substance-use/">PHS
+  - Substance use</a>. </p>
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/quarterly-epidemiological-data-on-healthcare-associated-infections
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-drug-misuse-database
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/e8d82157-1870-4458-9dc0-0e17e113e6c1/resource/6d30b0c0-bdcf-4721-9d5c-bd7967c11bac/download/hai_quarterly_epi_od_2021_q3.csv
+  url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/e096573f-b828-4e8d-abf2-84f94345a751/download/demographics_sdmd_healthboard.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/72cb44e7-0b8f-48a8-b653-eb124be4baca/download/demographics_sdmd_council.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/aebb18ee-40c3-4520-9521-d0800e749567/download/treatment_group_sdmd_healthboard.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/d5ffbfe1-12d1-4d58-8a49-a32b8c3356a5/download/treatment_group_sdmd_council.csv
 schema: default
-title: Quarterly Epidemiological Data on Healthcare Associated Infections
+title: Scottish Drug Misuse Database
 ---

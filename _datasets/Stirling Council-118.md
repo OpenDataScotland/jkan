@@ -1,34 +1,30 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-02-06'
-date_updated: '2022-01-24'
+date_created: '2019-02-04'
+date_updated: '2022-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<p><strong>Stirling Council''s activities cover the area bordered by Clackmannanshire
-  (to the east), North Lanarkshire (to the south), Falkirk (to the south-east), Perth
-  &amp; Kinross (to the north and north-east), Argyll &amp; Bute (to the north and
-  north-west), and East and West Dunbartonshire (to the south-west).</strong></p>
-
-  <p><strong>With the exception of properties owned by the Housing Service, this dataset
-  details the land and property assets managed and maintained by Stirling Council.</strong></p>
-
-  <p><a href="https://www.ros.gov.uk/"><strong>Registers of Scotland</strong></a>
-  <strong>can provide details on individual properties throughout the country..</strong></p>
-
-  <p><strong>Please pass any comments or queries to <a href="mailto: surveyandinfo@stirling.gov.uk">surveyandinfo@stirling.gov.uk</a>.</strong></p>
-
-  <p><strong>All data believed to be correct at the date of the last update, 12th
-  February, 2019.</strong></p>
-
-  <p><strong>Under review as at 14st January, 2022.</strong></p>'
+notes: "<p><strong>Extract of electronic burial records for cemeteries managed and\
+  \ maintained by Stirling Council.</strong></p>\n<p><strong>Although this is not\
+  \ a full record of interments, the </strong><a href=\"https://www.stirling.gov.uk/libraries-archives/archives/\"\
+  ><strong>Council's Archives Service</strong></a> <strong>holds additional burial\
+  \ and lair information, especially for funerals prior to 1900, and can be contacted\
+  \ directly for further assistance.</strong>     </p>\n<p><strong>Information on\
+  \ arranging a funeral can be obtained from Stirling Council\u2019s website by following\
+  \ this link to the </strong><a href=\"https://www.stirling.gov.uk/licensing-legal/births-marriages-death/cemeteries/\"\
+  ><strong>Cemetery Service</strong></a><strong>.</strong></p>\n<p><a href=\"https://www.nrscotland.gov.uk/\"\
+  ><strong>National Records of Scotland</strong></a> <strong>and</strong> <a href=\"\
+  https://www.scotlandspeople.gov.uk/\"><strong>Scotland\u2019s People</strong></a>\
+  \ <strong>provide useful information for those wishing to research their family\
+  \ tree.</strong></p>\n<p><strong>Next update available from Monday, 4th April, 2022.</strong></p>"
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/asset-register
+original_dataset_link: https://data.stirling.gov.uk/dataset/cemetery-records
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/5eb94d01-0635-4a89-8504-9ec04f600cb8/resource/81650170-e849-4d5c-94f8-d67b8adccd53/download/20190313-land-and-property-asset-register-12.02.2019.csv
+  url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/2022-03-01-20-05-07_epilog-v1.0.csv
 schema: default
-title: Asset Register
+title: Cemeteries
 ---

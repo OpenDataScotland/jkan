@@ -1,21 +1,22 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-01-24T15:10:17.795Z'
-date_updated: '2019-01-29'
+date_created: '2018-01-23T14:13:15.167Z'
+date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Secondry School Teachers FTE (Full Time Equivelnt) 2017</p>
+notes: <p>The Number of Non-Domestic Properties by Category Code and Total Rateable
+  Value in D&amp;G , plus All-Scotland totals.</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/9c8928da-f25f-46ac-99a4-ef024ece4b45
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/c72bf08c-c809-48e0-9e2c-e43f363f5a1b
 records: null
 resources:
-- format: JSON
-  name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/dda8302f-f4d3-494a-839b-fa6916cc1dd2/1/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=c0002a4b-37c9-49e2-8725-1dd44734b349
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=0d4286b2-c9c6-43a3-a87c-a1cba1ac600c
+- format: JSON
+  name: JSON
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/596aa399-760c-4dc5-a76d-58ecd43fc7e6/1/urql
 schema: default
-title: Secondary School Teaches FTE
+title: Valuation by industry
 ---

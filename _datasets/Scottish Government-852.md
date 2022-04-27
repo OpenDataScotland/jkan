@@ -1,16 +1,16 @@
 ---
 category:
 - Economy
-date_created: '2019-12-03'
-date_updated: '2019-12-03'
+date_created: '2019-12-18'
+date_updated: '2021-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of families benefitting from tax credits. The figures presented are
-  for live tax credit cases, at 31st August of the stated years.</p>
+notes: <p>Received applications, authorised applications and issued payments for Funeral
+  Support Payment</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/personal-tax-credits-number-of-families
+original_dataset_link: http://statistics.gov.scot/data/funeral-support-payment-applications-and-payments
 records: null
 resources: []
 schema: default
-title: 'Personal Tax Credits: Number of Families'
+title: 'Funeral Support Payment: Applications and Payments'
 ---

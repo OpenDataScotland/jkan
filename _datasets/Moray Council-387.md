@@ -1,25 +1,21 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2018-01-11'
+date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Wind turbine locations generated from planning applications received by
-  Moray Council this includes applications Moray Council dealt with and Section 36
-  applications which were dealt with by Scottish Government. It also includes refused
-  applications, some of the refused applications maybe appealed. Some applications
-  maybe for the same site where the applicant has submitted a revised application
-  to change turbine size/location etc.Any turbine location co-ordinates we provide
-  will not be exact locations taken from GPS or similar. The co-ordinates will be
-  either calculated from plans provide by the applicant or grid co-ordinates stated
-  in the application, these co-ordinates will not take into account for any micro-siting
-  at construction stage. The data is provided based on the best information available
-  to the council at the time of writing.</p>
+notes: <p>Local Development Plan Rural Group Sites have been set out within many of
+  the Local Development Plan Rural Groupings. Sites with development potential have
+  been identified. These are acceptable in principle subject to compliance with the
+  Moray Local Development Plan (MLDP) 2020, but will still require confirmation of
+  technical requirements (eg road access; drainage).These designations do not imply
+  any right of access or use of private land, nor do they commit the Council to any
+  form of maintenance or upkeep of the site.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=3af52ce7fed049c79ba57f80c66fc1bc
-records: 812
+original_dataset_link: https://www.arcgis.com/home/item.html?id=673187f103714c21aedb89b723351944
+records: 200
 resources: []
 schema: default
-title: Planning Wind Turbine Locations (Moray)
+title: Local Devevlopment Plan 2020 Rural Group Sites (Moray)
 ---

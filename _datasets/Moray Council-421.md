@@ -1,15 +1,15 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2018-12-13'
+date_created: '2019-09-25'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Proposed Plan 2019 Settlement Designations (Moray)</p>
+notes: <p>Scottish Parliament Constituency 2010 (OS Boundary Line Open Data)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=4c46411e0cfe447295acb5c95fff862a
-records: 766
+original_dataset_link: https://www.arcgis.com/home/item.html?id=50ca14c63c434679b79be96b6c5ff5fe
+records: 73
 resources: []
 schema: default
-title: Proposed Plan 2019 Settlement Designations (Moray)
+title: Scottish Parliament Constituency 2010
 ---

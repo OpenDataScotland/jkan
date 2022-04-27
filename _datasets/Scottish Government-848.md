@@ -1,16 +1,15 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-09-24'
-date_updated: '2021-10-28'
+date_created: '2019-11-19'
+date_updated: '2021-01-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Indicators of population health and related risk factors from the Scottish
-  Health Survey</p>
+notes: ''
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-health-survey-local-area-level-data
+original_dataset_link: http://statistics.gov.scot/data/local-service-satisfaction-sscq
 records: null
 resources: []
 schema: default
-title: Scottish Health Survey-Local area level data
+title: Local Service Satisfaction - Scottish Surveys Core Questions
 ---

@@ -1,6 +1,7 @@
 ---
 category:
-- Uncategorised
+- Arts / Culture / History
+- Planning / Zoning
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence
@@ -10,27 +11,28 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
-  text-decoration-color:initial; display:inline !important;'>The locations of permanent
-  CCTV cameras in the Edinburgh Council area</span></p>
+  text-decoration-color:initial; display:inline !important;'>Trees, groups of trees,
+  woodlands and areas of trees that have been afforded the statutory protection of
+  a Tree Preservation Order.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/0c4720e2845d497fbf139a5e2a52a1fc_5
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/5
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/16
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/0c4720e2845d497fbf139a5e2a52a1fc_5.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/0c4720e2845d497fbf139a5e2a52a1fc_5.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/0c4720e2845d497fbf139a5e2a52a1fc_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/0c4720e2845d497fbf139a5e2a52a1fc_5.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Public CCTV Locations
+title: Tree Preservation Orders
 ---

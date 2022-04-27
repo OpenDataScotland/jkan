@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2021-05-20'
+date_updated: '2018-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -10,9 +10,9 @@ organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: KMZ
-  name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_community_councils.kmz
+- format: CSV
+  name: CSV
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/csv/cooling-towers-register.csv
 schema: default
-title: Community councils within Aberdeenshire
+title: Cooling tower register
 ---

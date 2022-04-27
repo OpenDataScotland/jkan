@@ -1,16 +1,15 @@
 ---
 category:
-- Education
-date_created: '2017-11-14'
-date_updated: '2020-12-01'
+- Planning / Zoning
+date_created: '2018-03-29'
+date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Education School Locations (Moray), including Secondary and Primary for
-  non denominational and denominational.</p>
+notes: <p>Moray Onshore Wind Energy 2017 Scenic Approaches (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=b5ba23aa94ab484f97cb617eb20741cf
-records: 54
+original_dataset_link: https://www.arcgis.com/home/item.html?id=c35b2527a3d14876918f4f12d14ede5a
+records: 3
 resources: []
 schema: default
-title: Education School Locations (Moray)
+title: Moray Onshore Wind Energy 2017 Scenic Approaches (Moray)
 ---

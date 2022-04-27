@@ -1,18 +1,21 @@
 ---
 category:
-- Uncategorised
-date_created: ''
-date_updated: '2016-08-08'
-license: 'Custom licence: Other (Public Domain)'
+- Education
+date_created: '2021-10-20'
+date_updated: '2021-10-28'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Text file of Angus Council's mobile library locations</p>
+notes: <p>Responses to questionnaire seeking feedback on the proposal to include Monifieth
+  Public Library within Monifieth Learning Campus. Consultation ran from 13 September
+  2021 to 27 September 2021. 179 on-line responses and 20 hardcopy responses to questions
+  were received as part of consultation</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/libraries-mobile
+original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-public-library-consultation
 records: null
 resources:
-- format: TXT
-  name: TXT
-  url: http://opendata.angus.gov.uk/dataset/2b4f7001-b2f2-4948-9b8a-8e5ec4572579/resource/f0297fd0-df28-4c71-bd0e-91c435ad10bb/download/mobilelibraries.txt
+- format: XLS
+  name: XLS
+  url: http://opendata.angus.gov.uk/dataset/1d49f9cb-b983-468e-add4-6820f5e0f664/resource/9cdf66b5-7b71-49d2-bfcd-d8819cfb6f0d/download/monifieth-public-library-consultation-open-data.xlsx
 schema: default
-title: Libraries Mobile
+title: Monifieth Public Library Consultation
 ---

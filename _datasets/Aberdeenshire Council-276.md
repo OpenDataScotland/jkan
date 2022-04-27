@@ -2,8 +2,8 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-01-13'
-license: 'Custom licence: Custom'
+date_updated: '2018-11-10'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/adopted-core-paths.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/car_parks.kmz
 schema: default
-title: Adopted Core Paths
+title: Car Parks
 ---

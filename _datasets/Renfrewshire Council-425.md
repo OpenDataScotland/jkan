@@ -1,34 +1,21 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-07-19'
-date_updated: '2019-07-24'
+date_created: '2019-07-22'
+date_updated: '2019-07-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: "<p>Mid-year population estimates: Scotland and Renfrewshire by single year\
-  \ of age and sex 1981 to 2018.Annual publication of mid-year population estimates\
-  \ by age and sex as at 30 June every year, where population for higher geographies\
-  \ is aggregated from the population estimates for 2011 Data Zones.Data zones are\
-  \ the small area geography used by the Scottish Government to allow statistics to\
-  \ be available across a number of policy areas. Data zones were initially set up\
-  \ to nest within council area boundaries and to have a population of between 500\
-  \ and 1,000 household residents. As much as possible, data zones were set up to\
-  \ contain households with similar social characteristics and to take into consideration\
-  \ physical boundaries. More information on data zone geography can be found on the\_\
-  Scottish Government\_website. There are 6,976 data zones in Scotland.Following the\
-  \ 2011 Census the Scottish Government completed a consultation on the redrawing\
-  \ of data zone boundary and finalised the new data zones. 2011 Data Zones were published\
-  \ at the end of 2014.Intermediate zones are built up from data zones. Intermediate\
-  \ zones are the statistical small geographical areas designed to contain a population\
-  \ of between 2,500 and 6,000 household residents. There are 1,235 intermediate zones\
-  \ in Scotland. More information on intermediate geography can be found on the\_\
-  Scottish Government\_website.For more information on population statistics, please\
-  \ see the NRS website here:\_https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimatesSingle\
-  \ year of age population estimates are available on the NRS website here:\_https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates</p>"
+notes: "<p>This dataset provide the numbers and rates of fires in Renfrewshire down\
+  \ to dintermediate zone level. Data is provided for the total number of fires, including\
+  \ accidental and deliberate causes.Data is entered by the Scottish Fire and Rescue\
+  \ Service into the Incident Recording System. This dataset is an extract from this\
+  \ live management information system, and thus may differ slightly from other extracts\
+  \ taken on different dates such as the statistics published on the\_Scottish Fire\
+  \ and Rescue Service website.</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=15c9fe9deaaf405ca361cd632cc7cfba
-records: 4
+original_dataset_link: https://www.arcgis.com/home/item.html?id=5ccecdc001ad421ebac54c69b23bf914
+records: 38
 resources: []
 schema: default
-title: Mid year 2018 population estimate
+title: Fire - Type of Incident 2017/18
 ---

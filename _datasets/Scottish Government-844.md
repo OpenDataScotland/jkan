@@ -1,15 +1,17 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-08-23'
-date_updated: '2021-03-29'
+- Economy
+date_created: '2019-10-09'
+date_updated: '2019-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Share of businesses involved in innovation activities since 2010-2012</p>
+notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August
+  2016. This dataset contains the indicators that were used to calculate the housing
+  domain of SIMD.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/business-innovation
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---housing-indicators
 records: null
 resources: []
 schema: default
-title: Business Innovation
+title: Scottish Index of Multiple Deprivation - Housing Indicators
 ---

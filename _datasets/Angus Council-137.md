@@ -1,24 +1,26 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-01-04'
-date_updated: '2017-01-12'
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: '<p>Sourced from National Records of Scotland website the fact sheet brings
-  together up-to-date statistics of the Angus area.
-
-  https://www.nrscotland.gov.uk/statistics-and-data/statistics/stats-at-a-glance/council-area-profiles</p>'
+notes: <p>Community Councils within Angus. A Community Council is a voluntary organisation
+  set up by statute by the Local Authority and run by local residents to act on behalf
+  of its area.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-area-fact-sheet
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-community-council-boundaries
 records: null
 resources:
-- format: XLS
-  name: XLS
-  url: http://opendata.angus.gov.uk/dataset/6937ec2d-e0af-435b-8030-66090b0b4033/resource/b94f0cc6-1b9c-4dab-baf4-e6655239ad97/download/angus-council-area-fact-sheet.xls
-- format: PDF
-  name: PDF
-  url: http://opendata.angus.gov.uk/dataset/6937ec2d-e0af-435b-8030-66090b0b4033/resource/90530c83-2efc-400a-a6b1-24039d8a6093/download/angus-council-area-fact-sheet.pdf
+- format: WMS
+  name: WMS
+  url: http://data.angus.gov.uk/geoserver/inspire/inspire:chx_commcouncils/wms?service=WMS&request=GetMap
+- format: KML
+  name: KML
+  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:chx_commcouncils&mode=download
+- format: GEOJSON
+  name: GEOJSON
+  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:chx_commcouncils&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Area Fact Sheet
+title: Angus Council Community Council Boundaries
 ---

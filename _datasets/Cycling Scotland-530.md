@@ -1,25 +1,21 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-06-23T13:45:58.596Z'
-date_updated: '2021-08-17'
+- Transportation
+date_created: '2020-06-22T08:39:30.001Z'
+date_updated: '2020-06-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>All-mode traffic data from 48-hour surveys across Scotland in May 2019</p>
+notes: <p>All figures, unless otherwise stated, are from YouGov Plc.  Total sample
+  size was 2035 adults. Fieldwork was undertaken between 14th - 22nd May 2020.  The
+  survey was carried out online. The figures have been weighted and are representative
+  of all Scotland adults (aged 18+).</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a5c396fb-6da0-420d-9732-459d5d717264
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bdd7303d-650f-499e-92ff-c3fd4e70dc1d
 records: null
 resources:
-- format: JSON
-  name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=cd8d4580-827e-473a-ac43-b1bff21e4802
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=db36ee3c-89ea-45bd-9c36-a5baea139830
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31cc3c72-9b5c-444f-a5fb-2d509a2571b8
+- format: VND.OPENXMLFORMATS-OFFICEDOCUMENT.SPREADSHEETML.SHEET
+  name: VND.OPENXMLFORMATS-OFFICEDOCUMENT.SPREADSHEETML.SHEET
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e94ed0c1-f963-4e21-afc4-75ac1badb18b
 schema: default
-title: National Monitoring Framework - all-mode traffic survey results May 2019 -
-  Cycling Scotland
+title: YouGov survey - Coronavirus and cycling - Cycling Scotland
 ---

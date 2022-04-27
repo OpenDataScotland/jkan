@@ -1,15 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-11-19'
-date_updated: '2021-01-21'
+- Economy
+date_created: '2019-12-03'
+date_updated: '2019-12-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: ''
+notes: <p>Number of families benefitting from tax credits. The figures presented are
+  for live tax credit cases, at 31st August of the stated years.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/local-service-satisfaction-sscq
+original_dataset_link: http://statistics.gov.scot/data/personal-tax-credits-number-of-families
 records: null
 resources: []
 schema: default
-title: Local Service Satisfaction - Scottish Surveys Core Questions
+title: 'Personal Tax Credits: Number of Families'
 ---

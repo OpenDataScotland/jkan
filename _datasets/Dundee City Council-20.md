@@ -1,27 +1,20 @@
 ---
 category:
-- Transportation
-date_created: '2017-09-23'
-date_updated: '2017-10-25'
-license: https://opendatacommons.org/licenses/odbl/
+- Uncategorised
+date_created: '2018-01-31'
+date_updated: '2022-02-10'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: '<p>The Council''s Active Travel team conducted a survey of bicycle parking
-  in 2015, with the results used to add or update cycle parking in <a href="https://www.openstreetmap.org">OpenStreetMap</a>.
-  </p>
-
-  <p>This dataset is an extract of the current cycle parking in OpenStreetMap. If
-  you see a facility missing or would like to update any of the information you can
-  do this on OpenStreetMap yourself. </p>'
+notes: <p>The percentage of complaints recorded by the Council in each six month period
+  in each of the categories included in the model Complaint Handling Procedure in
+  Local Authorities.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/bicycle-parking
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/bi-annual-complaints-by-category
 records: null
 resources:
-- format: GEOJSON
-  name: GEOJSON
-  url: https://gist.githubusercontent.com/anonymous/39196dcb0e7fc9288313dbcce0d0da68/raw/8af22904c4a32d9e97afee64f44376ca6b52b3e9/overpass.geojson
-- format: HTML
-  name: HTML
-  url: https://www.openstreetmap.org/#map=13/56.4753/-2.9480&layers=C
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/dataset/41e1205d-ab77-49cb-ae49-941a2e964269/resource/4608b93b-bb4f-400d-a11c-5f1e7a92bc4c/download/complaints-by-nature-data-series.csv
 schema: default
-title: Bicycle Parking
+title: Bi-annual complaints by category
 ---

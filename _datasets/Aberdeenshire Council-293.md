@@ -1,9 +1,9 @@
 ---
 category:
-- Planning / Zoning
+- Arts / Culture / History
 date_created: ''
-date_updated: '2018-11-23'
-license: No licence
+date_updated: '2018-02-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/LDP17_Sites.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_local_nature_reserves.kmz
 schema: default
-title: Local Development Plan (LDP) 2017 - sites
+title: Local nature reserves within Aberdeenshire
 ---

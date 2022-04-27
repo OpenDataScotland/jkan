@@ -1,23 +1,37 @@
 ---
 category:
-- Transportation
-date_created: '2017-08-21'
-date_updated: '2020-07-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Uncategorised
+date_created: '2021-09-30'
+date_updated: '2021-09-30'
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>Filtered from DfT data, derived from data.gov.uk and published under the
-  <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
-  Government License v3.0</a></p>
+notes: <p>Ward boundaries from 2017 onwards extracted from the OS Boundary Line product.
+  The Perth and Kinross (Electoral Arrangements) Order 2016 was laid before the Scottish
+  Parliament on 14th September 2016 and came into force on 30th September 2016. The
+  Order applies only for the purposes of an election to be held on or after 4th May
+  2017</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/perth-kinross-road-incidents-2015
+original_dataset_link: https://data.pkc.gov.uk/dataset/pkc-wards
 records: null
 resources:
+- format: HTML
+  name: HTML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/82ad0197d62c4fd1a1ba38252e96e519_0
+- format: ARCGIS GEOSERVICES REST API
+  name: ARCGIS GEOSERVICES REST API
+  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/PKC_Wards/FeatureServer/0
+- format: GEOJSON
+  name: GEOJSON
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/82ad0197d62c4fd1a1ba38252e96e519_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/6550c006-5ffc-4bde-8de3-12f04437daa8/resource/68e2917d-5e7b-4a2d-a640-0e4b0da55637/download/pkc-road-collisions-short-2015.csv
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/6550c006-5ffc-4bde-8de3-12f04437daa8/resource/97f9c0e2-4565-4134-9477-fc027cf9efd5/download/2016-road-accident-data-perth-and-kinross.csv
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/82ad0197d62c4fd1a1ba38252e96e519_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: KML
+  name: KML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/82ad0197d62c4fd1a1ba38252e96e519_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: ZIP
+  name: ZIP
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/82ad0197d62c4fd1a1ba38252e96e519_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Perth & Kinross Road Traffic Incidents
+title: PKC Wards
 ---

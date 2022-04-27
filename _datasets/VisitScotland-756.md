@@ -1,17 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-08-31'
-date_updated: '2021-06-25'
+- Economy
+date_created: '2017-08-30'
+date_updated: '2021-06-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: VisitScotland
-notes: <p>The Scottish Accommodation Occupancy Survey (SAOS) gathers and analyses
-  data on occupancy levels in hotels, guest houses, B&amp;Bs, self-catering, hostels
-  and caravan &amp; camping parks.</p>
+notes: <p>The Great Britain Day Visits Survey measures the visits and expenditure
+  of tourism day visitors to Scotland.</p>
 organization: VisitScotland
-original_dataset_link: http://statistics.gov.scot/data/scottish-accommodation-occupancy
+original_dataset_link: http://statistics.gov.scot/data/tourism-day-visits---location
 records: null
 resources: []
 schema: default
-title: Scottish Accommodation Occupancy
+title: Tourism Day Visits - Location
 ---

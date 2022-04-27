@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2018-02-14'
+date_updated: '2018-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_housing_land_audit_2017.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/LDP17_Settlements.kmz
 schema: default
-title: Housing Land Audit 2017
+title: Local Development Plan (LDP) 2017 - Settlements
 ---

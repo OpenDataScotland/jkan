@@ -1,18 +1,27 @@
 ---
 category:
-- Uncategorised
-date_created: ''
-date_updated: ''
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Planning / Zoning
+date_created: 11/01/18
+date_updated: '2021-02-02'
+license: 'Custom licence: INSPIRE Regulations 2009'
 maintainer: Moray Council
-notes: <p>Details of name and location</p>
+notes: ''
 organization: Moray Council
-original_dataset_link: http://www.moray.gov.uk/moray_standard/page_110140.html
-records: 23
+original_dataset_link: https://data-moray.opendata.arcgis.com/datasets/moray::planning-wind-turbine-locations-moray/about
+records: 812
 resources:
 - format: CSV
   name: CSV
-  url: http://www.moray.gov.uk/moray_standard/page_110140.html
+  url: https://data-moray.opendata.arcgis.com/datasets/moray::planning-wind-turbine-locations-moray/about
+- format: KML
+  name: KML
+  url: https://data-moray.opendata.arcgis.com/datasets/moray::planning-wind-turbine-locations-moray/about
+- format: SHAPEFILE
+  name: SHAPEFILE
+  url: https://data-moray.opendata.arcgis.com/datasets/moray::planning-wind-turbine-locations-moray/about
+- format: GEOJSON
+  name: GEOJSON
+  url: https://data-moray.opendata.arcgis.com/datasets/moray::planning-wind-turbine-locations-moray/about
 schema: default
-title: Recycling Points
+title: Planning Wind Turbine Locations (Moray)
 ---

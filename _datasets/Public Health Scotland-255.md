@@ -1,40 +1,34 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-07-10'
-date_updated: '2021-07-06'
+- Elections / Politics
+- Economy
+- Health / Human Services
+- Planning / Zoning
+date_created: '2020-04-02'
+date_updated: '2021-08-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset provides an annual update on teenage pregnancy statistics
-  in Scotland. It is based on the age at conception and presented by year of
-
-  conception. Data is presented by NHS Board, council area and deprivation for the
-  age groups of under 16, under 18 and under 20 years old and reports on pregnancies
-  and outcome (delivery and termination).</p>
-
-  <p>Further information on teenage pregnancies across Scotland can be found in the
-  <a href="https://publichealthscotland.scot/publications/teenage-pregnancies/">publication
-  summary</a>. All publications and supporting material to this topic area can be
-  found on the <a href="https://beta.isdscotland.org/topics/maternity-and-births/teenage-pregnancy/">PHS
-  Data and Intelligence Teenage Pregnancy Website</a>. The date of the next release
-  can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+notes: <p>These files present information on probable suicides registered in Scotland
+  including breakdowns by health board, local authority and Scottish Index of Multiple
+  Deprivation (SIMD) decile. For the health board and local authority data the period
+  covered is calendar years 2011-2020. For the SIMD data the periods covered are 2006-2010
+  and 2016-2020. All publications related to this topic area can be found on the <a
+  href="https://beta.isdscotland.org/find-publications-and-data/population-health/mortality/">PHS
+  Mortality webpage</a>. The next release of the ScotPHO suicide overview publication
+  will be summer 2022.</p>
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/teenage-pregnancy
+original_dataset_link: https://www.opendata.nhs.scot/dataset/the-scottish-public-health-observatory-suicide-overview
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/17eeca19-a7ef-4f52-9ec4-5f9331e31cfc/resource/e7454f7b-3d2c-4dc2-abaa-c59604d9cefc/download/tp_od_caoutcome.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/a6bd971a-077b-4bca-92d8-4476f4903e77/download/scotpho_2020_suicide_hb_overview.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/17eeca19-a7ef-4f52-9ec4-5f9331e31cfc/resource/bb758751-28cf-4aa2-a4ed-e27f38a411af/download/tp_od_hboutcome.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/31595e43-9d5e-4740-8855-f3d839bc1aa0/download/scotpho_2020_suicide_la_overview.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/17eeca19-a7ef-4f52-9ec4-5f9331e31cfc/resource/361ab1bf-2254-431a-8431-37ccc3627bfe/download/tp_od_hbsimd.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/17eeca19-a7ef-4f52-9ec4-5f9331e31cfc/resource/3ce36f7a-73da-45c6-909a-0898191ee611/download/tp_od_outcomesimd.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/f4e70964-38c9-44f6-aaba-08e38f8dbb2f/download/scotpho_2020_suicide_simd_overview.csv
 schema: default
-title: Teenage Pregnancy
+title: The Scottish Public Health Observatory - Suicide Overview
 ---

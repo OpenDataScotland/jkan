@@ -1,16 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2018-01-09'
-date_updated: '2018-05-09'
+date_created: '2019-07-19'
+date_updated: '2019-07-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: <p>Renfrewshire South and Renfrewshire North Scottish Parliamnet Election results
-  5 May 2016.</p>
+notes: <p>Scottish Annual Business Survey 2017, Sustainable Tourism (June 2019 release)-
+  filtered for Renfrewshire</p>
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=2d38f2e56bbc4aefba1fe872c0fc4f73
-records: 2
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1a29736b06fd42339bb3e9bac85d0bf3
+records: 12
 resources: []
 schema: default
-title: Scottish Parliament Election May 2016
+title: Sustainable Tourism
 ---

@@ -1,71 +1,54 @@
 ---
 category:
 - Health / Human Services
-date_created: '2018-10-12'
-date_updated: '2022-02-09'
+date_created: '2019-02-12'
+date_updated: '2021-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Annual update to information on births in Scottish NHS hospitals. This
-  includes information on the mother, the delivery and the baby, available at various
-  geographies including NHS Board, council area and hospital level. </p>
+notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. Data
+  is presented by Cancer Network Region and Health Board; within Scotland and
 
-  <p>Further information on births in Scottish hospitals can be found in the <a href="https://publichealthscotland.scot/publications/births-in-scottish-hospitals/">full
-  publication report</a> and the <a href="https://publichealthscotland.scot/media/6650/2020-11-24-births-technical.pdf">technical
-  report</a>. All publications and supporting material to this topic area can be found
-  on the <a href="https://beta.isdscotland.org/topics/maternity-and-births/">PHS Data
-  &amp; Intelligence Website</a>.</p>'
+  Network levels of reporting, the mortality figures are further broken down by
+
+  age group and sex.</p>
+
+  <p>The cancer sites reported on include: bladder, bone and connective tissue, brain
+  and central nervous system, breast colorectal, female genital organs, head and neck,
+  hodgkin lymphoma, kidney, leukaemias, liver, lung and mesothelioma, male genital
+  organs, multiple myeloma, non-hodgkin lymphoma, oesophageal, pancreatic, skin, stomach.</p>
+
+  <p>Further information on cancer incidence can be found in the <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/cancer/cancer-mortality/">annual
+  publication</a>. All publications and supporting material to this topic area can
+  be found on the <a href="https://www.isdscotland.org/Health-Topics/Cancer/Cancer-Statistics/">ISD
+  Scotland Website</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/births-in-scottish-hospitals
+original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-mortality
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/01ea2bee-6606-4b52-9c17-2a2bd941aa64/download/10.1_populations.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/ba8d7049-ec05-4291-9333-57ca49ce7697/download/opendata_mort9520_scotland.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/5fb6b068-8426-45fb-a9d9-6dd4d7a627ea/download/10.2_nrsvsmr02.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/9574c0f8-c780-49d8-810a-46fa76567fb3/download/opendata_mort9520_region.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/d534ae02-7890-4fbc-8cc7-f223d53fb11b/download/10.3_birthsbyhospital.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/57f0983f-864e-4dbd-b3dc-ea8f16de83a4/download/opendata_mort9520_hb.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/d6968cfb-1bae-4b45-8a34-7f7b9f7cca81/download/11.1_parity.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/eebc8f38-7297-4bdc-a417-69ce3e2e6d44/download/opendata_mort9520_ca.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/edc632af-4a14-4917-81c8-ce6bb5fcbdc5/download/11.2_antenatal.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/000c92ab-1484-48b5-8e3d-cd42d03abe14/download/opendata_mort1620comb_scotland.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/690818a4-fee9-48c0-86a2-2d2b8d5eb314/download/11.3_bmi.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/828106bf-288c-48ce-b20f-35040cafee5d/download/opendata_mort1620comb_region.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/e87a7673-0397-43ca-91a5-166184319728/download/11.4_smoking.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/f0446372-e55a-441e-ae71-0b21a1cdda2c/download/opendata_mort1620comb_hb.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/76a1dcd8-2cae-41f0-8a45-5687545852c9/download/11.5_ca_alcohol.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/263c8c02-ee31-4409-b3bc-2974728316bb/download/11.5_hb_alcohol.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/3e96277a-9029-4390-ab90-ec600f9926a5/download/11.6_ca_drugmisuse.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/8c8377e1-b1c7-48e7-b313-79eb5ac3c110/download/11.6_hb_drugmisuse.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/8654b6d8-9765-4ced-8e9b-4611aa4596eb/download/12.1_delivery.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/a5d4de3f-e340-455f-b4e4-e26321d09207/download/12.2_birthweight.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/7a023064-9629-4952-a923-5daeb1773efe/download/12.3_neonatalcare.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/66b537ce-cdd4-4313-8e25-4e819e25d0a5/download/12.4_ca_birthsaffectedbydrugs.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/39c4ef03-592e-4bfc-abcf-5b9f5e6b4e8e/download/12.4_hb_birthsaffectedbydrugs.csv
+  url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/e7617772-9a43-402f-adf3-e6106edd9b2f/download/opendata_mort1620comb_ca.csv
 schema: default
-title: Births in Scotland
+title: Cancer Mortality
 ---

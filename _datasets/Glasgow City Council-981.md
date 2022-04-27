@@ -1,22 +1,20 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2022-01-14'
+date_updated: '2021-12-13'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir
-  Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica
-  Neue&quot;, sans-serif; font-size:16px;'><span style='max-width:100%; display:inherit;'>Photo
-  realistic detail (+/- 20 cm accuracy) of the Glasgow Urban Model.</span><div><br
-  /></div></p>
+notes: <p>Spatial Data layers referenced in City Development Plan Policy and Proposals
+  &amp; Supplementary Guidance Maps. Third party data displayed in the above mentioned
+  maps are not included herein.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/970d5b16b53e42bdb50615556ddd30d3
+original_dataset_link: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc-urban-model.ubdc.ac.uk/obj_photo_realistic
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/City_Development_Plan/MapServer
 schema: default
-title: Urban Model - Photo realistic detail
+title: City Development Plan
 ---

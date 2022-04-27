@@ -1,16 +1,15 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-12-04'
-date_updated: '2018-09-12'
+date_created: '2017-12-01'
+date_updated: '2019-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: "<p>Scottish Index of Multiple Deprivation (SIMD) 2016 indicator data for Renfrewshire.\_\
-  For more information, guidance, and SIMD16 Technical Notes please go to\_http://www.gov.scot/SIMD</p>"
+notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e6254992c57f4f65b57e45d847dae0ac
-records: 231
+original_dataset_link: https://www.arcgis.com/home/item.html?id=470b2275323447fa97133a3971de735b
+records: 21
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation 2016 Indicator Data
+title: Council Housing Stock
 ---

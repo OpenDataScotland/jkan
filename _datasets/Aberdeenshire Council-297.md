@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Elections / Politics
 date_created: ''
-date_updated: '2018-12-10'
+date_updated: '2021-01-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/council_offices.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_polling_places.kmz
 schema: default
-title: Offices open to the public
+title: Polling place locations within Aberdeenshire
 ---

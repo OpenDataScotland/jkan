@@ -1,26 +1,34 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-12-20'
-date_updated: '2021-11-24'
+- Environment
+date_created: '2021-04-09'
+date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<p><strong>In addition to a breakdown of  the fee revenue received from taxi
-  and private hire car licence applications for the last five completed financial
-  years, this dataset provides the summary details on which the report is based.</strong></p>
-
-  <p><strong>Visit Stirling Council''s website for further information on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
-  and permits</a>.</strong></p>'
+notes: "<p><strong>Datasets within this group show the monthly breakdown of the tonnage\
+  \ of waste received from Stirling Council\u2019s domestic waste collections. These\
+  \ figures are validated by the Scottish Environmental Protection Agency (SEPA) on\
+  \ an annual basis.</strong></p>\n<p><a href=\"https://www.stirling.gov.uk/bins-waste-recycling/\"\
+  ><strong>Bins &amp; Recycling</strong></a> <strong>provides details of Stirling\
+  \ Council's Waste Services.</strong></p>\n<p><strong>For information on environmental\
+  \ protection, visit </strong><a href=\"https://www.sepa.org.uk/\"><strong>SEPA's\
+  \ website</strong></a><strong>.</strong></p>\n<p><strong>Datasets for 2018, 2019\
+  \ and 2020 can be found under the </strong><a href=\"https://data.stirling.gov.uk/dataset/waste-management\"\
+  ><strong>Waste Management (2018 to 2020, inclusive)</strong></a><strong> group on\
+  \ this platform.</strong></p>"
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/taxi-private-hire-car-revenue
+original_dataset_link: https://data.stirling.gov.uk/dataset/waste-services-2021-onwards
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/b6d6b7a5-7f74-42c0-8fce-54f17536f135/resource/674f515f-ba02-42f9-b41c-4090e8873982/download/20210323-taxi-private-hire-car-applications-data.csv
+  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/8807c713-46cb-4100-80c5-de8a457b0f8e/download/20220207-domestic-waste-collections-jan-2021-to-dec-2021.csv
 - format: PDF
   name: PDF
-  url: https://data.stirling.gov.uk/dataset/b6d6b7a5-7f74-42c0-8fce-54f17536f135/resource/f5d81a1e-01ad-40d2-aa53-fa87a9c49359/download/20210323-taxi-private-hire-car-applications-2015-to-2019.pdf
+  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/ad4967e0-5924-4e77-8166-e2cffbbcdb4a/download/20211224-revised-collections-summary-dataset-report.pdf
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/22285ab0-0401-4774-b8ac-caf0d6fd0bbd/download/20211224-revised-collections-summary-dataset-report.csv
 schema: default
-title: Taxi & Private Hire Car Applications Revenue
+title: Waste Services (2021 onwards)
 ---

@@ -1,15 +1,17 @@
 ---
 category:
+- Arts / Culture / History
 - Planning / Zoning
+- Environment
 date_created: '2015-10-30'
-date_updated: '2019-09-13'
+date_updated: '2018-04-20'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Central core area of the Gallway Dark Skies Park</p>
+notes: <p>Areas of special protection in Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=17a25600d18f42538dac2997aa6369fa
-records: 1
+original_dataset_link: https://www.arcgis.com/home/item.html?id=fdd7141aced44013ac71e3cc2dac407b
+records: 4564
 resources: []
 schema: default
-title: Dark Skies Park Core Area
+title: Special Protection Areas
 ---

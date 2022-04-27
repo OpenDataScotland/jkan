@@ -1,55 +1,52 @@
 ---
 category:
 - Health / Human Services
-date_created: '2021-03-16'
-date_updated: '2022-02-02'
+date_created: '2020-05-25'
+date_updated: '2022-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p>As an essential service, maternity care including \u2018booking\u2019 has\
-  \ been provided throughout the COVID-19 pandemic, and women have been encouraged\
-  \ to attend all their scheduled antenatal appointments. However, how some elements\
-  \ of maternity care are delivered has changed in order to minimise the number of\
-  \ visits women need to make. The \u2018booking\u2019 appointment is the first main\
-  \ appointment a woman has with her local maternity service once she knows she is\
-  \ pregnant. At the booking appointment, women are assessed by a midwife who can\
-  \ then tailor the subsequent care they receive during their pregnancy to their particular\
-  \ preferences and needs. Women are encouraged to book before they are 13 weeks pregnant,\
-  \ and ideally before they are 10 weeks pregnant. </p>\n<p>In general, prior to COVID-19,\
-  \ women were offered an initial in-person booking appointment (including various\
-  \ face to face tests such as blood tests and blood pressure monitoring) then a follow\
-  \ up appointment for their early pregnancy ultrasound scan. Since March 2020, in\
-  \ many areas women have been offered an initial remote consultation, then an in-person\
-  \ \u2018one stop\u2019 follow up appointment for all their face to face tests and\
-  \ their scan.</p>\n<p>This dataset shows the number of women booking for antenatal\
-  \ care in each week from the week beginning 1 April 2019 onwards. In addition to\
-  \ the weekly data, monthly data (based on exact month of booking rather than summation\
-  \ of sequential weeks) is presented for each NHS Board of residence, including the\
-  \ Island Boards. Due to small numbers, weekly data is not shown for individual Island\
-  \ Boards of residence (NHS Orkney, NHS Shetland, and NHS Western Isles), however\
-  \ the Island Boards are included in the Scotland total.</p>\n<p>This data is also\
-  \ available on the <a href=\"https://scotland.shinyapps.io/phs-covid-wider-impact/\"\
-  >COVID-19 Wider Impact Dashboard</a>. Additional data sources relating to this topic\
-  \ area are provided in the Links section of the Metadata below. Information on COVID-19,\
-  \ including stay at home advice for people who are self-isolating and their households,\
-  \ can be found on <a href=\"https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice\"\
+notes: "<p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified\
+  \ in Wuhan, China. Clinical presentation may range from mild-to-moderate illness\
+  \ to pneumonia or severe acute respiratory infection. </p>\n<p>The COVID-19 pandemic\
+  \ has wider impacts on individuals\u2019 health, and their use of healthcare services,\
+  \ than those that occur as the direct result of infection.\nReasons for this may\
+  \ include:</p>\n<p>\u2022 Individuals being reluctant to use health services because\
+  \ they do not want to burden the NHS or are anxious about the risk of infection.</p>\n\
+  <p>\u2022 The health service delaying preventative and non-urgent care such as some\
+  \ screening services and planned surgery.</p>\n<p>\u2022 Other indirect effects\
+  \ of interventions to control COVID-19, such as mental or physical consequences\
+  \ of distancing measures.</p>\n<p>This dataset provides information on trend data\
+  \ regarding the wider impact of the pandemic on contacts with NHS 24. Information\
+  \ is shown for patients in different age groups; for males and females; and for\
+  \ people living in areas with different levels of material deprivation. Information\
+  \ is also available at different levels of geographical breakdown such as Health\
+  \ Boards, Health and Social Care partnerships, and Scotland totals. </p>\n<p>This\
+  \ data is also available on the <a href=\"https://scotland.shinyapps.io/phs-covid-wider-impact/\"\
+  >COVID-19 Wider Impact Dashboard</a>.\nAdditional data sources relating to this\
+  \ topic area are provided in the Links section of the Metadata below. Information\
+  \ on COVID-19, including stay at home advice for people who are self-isolating and\
+  \ their households, can be found on <a href=\"https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice\"\
   >NHS Inform</a>.</p>\n<p>All publications and supporting material to this topic\
   \ area can be found in the weekly <a href=\"https://publichealthscotland.scot/publications/covid-19-statistical-report/\"\
   >COVID-19 Statistical Report</a>. The date of the next release can be found on our\
   \ list of <a href=\"https://publichealthscotland.scot/publications/forthcoming-publications/\"\
   >forthcoming publications</a>.</p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-antenatal-bookings
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-contacts-with-nhs-24
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd/download/ante_booking_hb_week_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/9bac6060-345e-49ac-a87f-bc700be824aa/download/nhs24_hb_agesex_20220302.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/ee22b73d-296d-441d-85f8-4068581efd38/download/ante_booking_age_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/bdff7323-da18-4a77-adc4-83bee3c43e83/download/nhs24_hb_simd_20220302.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/4f542379-dcac-4d0e-b2cf-d3670eea1aaa/download/nhs24_hscp_agesex_20220302.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/237ea289-7c55-403a-bdda-338b3a26ee4a/download/nhs24_hscp_simd_20220302.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Antenatal Bookings"
+title: COVID-19 Wider Impacts - Contacts with NHS 24
 ---

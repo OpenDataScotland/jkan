@@ -1,16 +1,15 @@
 ---
 category:
-- Transportation
-- Environment
-date_created: '2015-10-30'
-date_updated: '2020-11-25'
+- Planning / Zoning
+date_created: '2015-10-15'
+date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Footpaths for the area - not indicative of a public right of way</p>
+notes: <p>Town and village settlement boundaries as defined in the 2007 LDP</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=fdd0530913d84cf398ab315c86278a06
-records: 110
+original_dataset_link: https://www.arcgis.com/home/item.html?id=2fee7037164841e4b4325cccaef39f45
+records: 30
 resources: []
 schema: default
-title: Footpaths
+title: Settlement Boundaries
 ---

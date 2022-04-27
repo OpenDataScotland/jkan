@@ -1,25 +1,34 @@
 ---
 category:
-- Transportation
-date_created: '2018-12-05'
-date_updated: '2020-07-13'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Planning / Zoning
+- Education
+date_created: '2021-09-30'
+date_updated: '2021-09-30'
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>Summary of roads defects and maintenance carried out in financial year 2018-19.
-  The data should be considered in conjunction with the accompanying PDF of the "Road
-  Safety Inspection and Defect Categorisation Policy" which defines the standards
-  for safety inspections on public roads in the Perth and Kinross Council area including
-  the nature and priority of response to defects encountered.</p>
+notes: <p>Boundaries for Roman Catholic primary school catchment areas</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/roads-defects
+original_dataset_link: https://data.pkc.gov.uk/dataset/roman-catholic-primary-school-catchments
 records: null
 resources:
+- format: HTML
+  name: HTML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/31684bc58c394ac5ac15c5848771b85c_0
+- format: ARCGIS GEOSERVICES REST API
+  name: ARCGIS GEOSERVICES REST API
+  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Roman_Catholic_Primary_School_Catchments/FeatureServer/0
+- format: GEOJSON
+  name: GEOJSON
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/31684bc58c394ac5ac15c5848771b85c_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/5425064c-da6e-471b-9ead-f9d8b2cd143e/download/roads-defects-open-data-2018-19-financial-year.csv
-- format: PDF
-  name: PDF
-  url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/f899908c-77ff-4a64-aed8-c1b712c5deca/download/road-defects-policy-doc-pkc.pdf
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/31684bc58c394ac5ac15c5848771b85c_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/31684bc58c394ac5ac15c5848771b85c_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: ZIP
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/31684bc58c394ac5ac15c5848771b85c_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Roads defects and maintenance
+title: Roman Catholic Primary School Catchments
 ---

@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Education
 date_created: ''
-date_updated: '2021-01-04'
+date_updated: '2018-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_polling_places.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_primary_school_locations.kmz
 schema: default
-title: Polling place locations within Aberdeenshire
+title: Primary school locations within Aberdeenshire
 ---

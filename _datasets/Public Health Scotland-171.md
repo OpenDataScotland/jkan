@@ -1,30 +1,45 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-07-22'
-date_updated: '2021-11-30'
+- Elections / Politics
+- Economy
+- Health / Human Services
+- Planning / Zoning
+date_created: '2018-01-25'
+date_updated: '2022-02-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset contains monthly summaries of whole journey waiting times
-  across NHSScotland. The 18 Weeks Referral to Treatment (RTT) is a whole journey
-  waiting time standard from initial referral to the start of treatment.</p>
+notes: '<p>Alcohol-related hospital statistics (ARHS) provide an annual update to
+  figures on the alcohol-related inpatient and day case activity taking place within
+  general acute hospitals and psychiatric hospitals in Scotland. </p>
 
-  <p>The Scottish Government has determined that the 18 Weeks RTT standard should
-  be delivered for at least 90% of patients. Further information on the 18 Week RTT
-  can be found in the <a href="https://publichealthscotland.scot/publications/nhs-waiting-times-18-weeks-referral-to-treatment/">quarterly
-  publication</a>. All publications and supporting material to this topic area can
-  be found on the <a href="https://www.isdscotland.org/Health-Topics/Waiting-Times/18-Weeks-RTT/">PHS
-  18 Weeks RTT Website</a>.</p>
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="http://www.isdscotland.org/Health-Topics/Drugs-and-Alcohol-Misuse/">ISD
+  Scotland - Drug and Alcohol Misuse Website</a>. </p>
+
+  <p>Open Data to this topic is also available on the Scottish Governments open data
+  portal for official statistics <a href="https://statistics.gov.scot/resource?uri=http%3A%2F%2Fstatistics.gov.scot%2Fdata%2Falcohol-related-hospital-statistics">statistics.gov.scot</a>.</p>
 
   <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/18-weeks-referral-to-treatment
+original_dataset_link: https://www.opendata.nhs.scot/dataset/alcohol-related-hospital-statistics-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/aa8b22e8-8a02-484d-a6c8-0a0154a6249d/resource/f2598c24-bf00-4171-b7ef-a469bbacbf6c/download/open_data_18_weeks_rtt_september2021.csv
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/29452b1f-a7be-4e93-9e22-dfa120c2df26/download/arhs_agegender_01_02_2022.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/2d158224-1adf-4ffc-8e65-a05fe5712ea0/download/arhs_deprivation_01_02_2022.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/b0b520e8-3507-46cd-a9b5-cff03007bb57/download/arhs_councilarea_01_02_2022.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/1cad0a45-a9ce-43f8-9aec-df0aac122764/download/arhs_hbr_01_02_2022.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/5e6e7c94-4786-4299-bedb-29f7cfbd26ea/download/icd10.csv
 schema: default
-title: 18 Weeks Referral to Treatment
+title: Alcohol Related Hospital Statistics Scotland
 ---

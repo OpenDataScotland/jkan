@@ -1,21 +1,22 @@
 ---
 category:
 - Transportation
-- Environment
 date_created: ''
 date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
-notes: <div><div style='box-sizing:border-box;'><p>A real time traffic API allowing
-  queries of current traffic flows from the Glasgow SCOOT traffic network and also
-  the ability to query over a given time period.</p><div></div></div></div>
+notes: '<p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''></p>
+
+  <p>Access to real time traffic and car parking data City Council using the DATEX
+  II Protocol, including traffic movement, traffic events, and parking volumes at
+  Council run car parks.</p>'
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/a3f0b3d4ec154dca9771e0fa4ede23ca
+original_dataset_link: https://data.glasgow.gov.uk/datasets/f1970f4776484272a05231586522c670
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=traffic&operation=movement
+  url: https://gcc.developer.azure-api.net/api-details#api=55c36a318b3a0306f0009483&operation=563cea91aab82f1168298575
 schema: default
-title: Traffic API - Real Time Movement
+title: "Traffic DATEX II API \u2013 Traffic and car parking"
 ---

@@ -1,24 +1,17 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-07-19'
-date_updated: '2019-07-24'
+- Transportation
+date_created: '2018-05-11'
+date_updated: '2018-05-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: <p>Scottish Annual Business Survey 2017 (June 2019 release)- filtered for Renfrewshire.Scottish
-  Annual Business Statistics (SABS), which is largely sourced to the Annual Business
-  Survey, provides data mainly on the Production (including Manufacturing), Construction
-  and Service Sectors in Scotland. The main sectors not covered are the financial
-  sector &amp; parts of agriculture and the public sector. Data are classified according
-  to industry group and geographical area. All figures are at current prices.Variables
-  include employment, employees, turnover, purchases of goods &amp; services, approximate
-  gross value added (GVA), gross wages &amp; salaries, labour costs, total output
-  and number of business units. GVA per head, gross wages &amp; salaries per head
-  and labour costs per head are also available.</p>
+notes: "<p>Extract of data taken from the\_Disabled Person Protection Policy. Data\
+  \ details the access for wheelchairs or disabled people when using rails stations.\_\
+  </p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=549c194eaec6427cb9b93808d7a2afda
-records: 12
+original_dataset_link: https://www.arcgis.com/home/item.html?id=b0b58021aad34051a5f14ea4b68dfd34
+records: 10
 resources: []
 schema: default
-title: Annual Business Statistics
+title: ScotRail Station Facilities
 ---

@@ -1,24 +1,21 @@
 ---
 category:
-- Education
-date_created: '2017-11-21T15:27:30.905Z'
-date_updated: '2017-11-21'
+- Economy
+date_created: '2018-01-25T16:07:09.343Z'
+date_updated: '2018-08-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Primary Schools in Dumfries and Galloway</p>
+notes: <p>Burial Grounds in Dumfries and Galloway</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/247a79cc-bd65-43c5-8b3b-26d463febe36
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/873818de-53dd-4008-ac1c-8cc0c6f74070
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/d1d37cf0-246c-4f67-bcc2-4ab9fbc351ae/1/urql
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/ac87ee48-ba3d-4742-938f-7f97269454c7/1/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eeff79f-6e79-4e91-984a-5cc347b2eaf4
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d6c7780e-7d08-4f74-a2f1-a8fb3ac3ddb4
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=4ac6c7de-b05b-4dce-ab05-faab6ccff4e3
 schema: default
-title: Primary Schools
+title: Burial Grounds
 ---

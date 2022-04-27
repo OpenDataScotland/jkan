@@ -1,31 +1,25 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-04-08T15:10:01.596Z'
-date_updated: '2021-04-23'
+- Transportation
+date_created: '2020-07-22T14:01:15.068Z'
+date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: '<ul>
-
-  <li>All organisations listed provide bike repair services </li>
-
-  <li>All organisations listed have appropriate public liability insurance in place</li>
-
-  </ul>'
+notes: <p>All-mode traffic data from 48-hour surveys across Scotland in May 2017</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f61e40-cdff-4f2c-85e6-5245d1980b9b
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2fe0e496-9f15-401e-9be4-9006c0494fe6
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0473e05d-8f43-4b5f-9694-c307b79178ab
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0e015863-3700-4c04-954a-79c74dc7f6b9
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=4e16a09d-cdf0-4f3f-b391-a1c5324b3338
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b9a4e147-2393-4cf4-a1c6-1228053cbc76
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=04c3987d-bf0a-474a-8ef7-f65ed54c4272
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c570a1a8-e2bb-4b69-be1d-13c35c4327dd
 schema: default
-title: Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle
-  Repair Scheme 2020/21
+title: National Monitoring Framework - all-mode traffic survey results May 2017 -
+  Cycling Scotland
 ---

@@ -1,22 +1,28 @@
 ---
 category:
 - Transportation
-date_created: '2019-10-18T10:57:07.618Z'
-date_updated: '2019-10-30'
-license: https://creativecommons.org/licenses/by/4.0/
+date_created: '2018-12-18T13:28:31.800Z'
+date_updated: '2021-10-13'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This data highlights all primary and secondary schools across Scotland that
-  have received a Cycling Friendly School Award</p>
+notes: <p>Schools in Scotland which delivered Bikeability Scotland training in 2017/18.
+  Bikeability Scotland is a cycle training programme designed to give children the
+  skills and confidence they need both to cycle safely on the roads, and to encourage
+  them to carry on cycling into adulthood.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a9c9055c-4393-4b9a-a1f9-e262674f64db
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/c2dac095-6b06-495f-8531-dec6c0b27dc2
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/13028f91-1f7b-4997-a377-55940b35db51/3/urql
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=52ac5039-7ff4-44f0-8e41-708c0e2eb1de
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=71dd3758-e670-43a4-9623-7d4ced6277de
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9d7823fd-27b9-4088-9dc5-377d52139fee
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b64cd424-bba7-40fc-b3ff-0170e6be5b47
 schema: default
-title: Cycling Friendly - School Award - Cycling Scotland
+title: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18
+  - Cycling Scotland
 ---

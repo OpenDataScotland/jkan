@@ -5,11 +5,11 @@ date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Local Development Plan 2020 Wind Farm Spatial Framework (Moray)</p>
+notes: <p>Local Development Plan 2020 Countryside Around Towns (CAT) (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=f1cf505350cb4e909d27f832367a534e
-records: 1
+original_dataset_link: https://www.arcgis.com/home/item.html?id=9739369e0233450bb36720efecd09295
+records: 5
 resources: []
 schema: default
-title: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
+title: Local Development Plan 2020 Countryside Around Towns (CAT) (Moray)
 ---

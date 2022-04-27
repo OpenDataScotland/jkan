@@ -1,30 +1,36 @@
 ---
 category:
-- Uncategorised
+- Transportation
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>Ward boundaries for Edinburgh Council</p>
+notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
+  &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
+  sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
+  font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
+  word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
+  text-decoration-color:initial; display:inline !important;'>Location of the current
+  tram lines in Edinburgh</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/dc96624b1db849db926f59806e287d44_24
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/fcd8d11078284316ac4b40244b069a4a_8
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/24
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/8
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/dc96624b1db849db926f59806e287d44_24.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/fcd8d11078284316ac4b40244b069a4a_8.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/dc96624b1db849db926f59806e287d44_24.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/fcd8d11078284316ac4b40244b069a4a_8.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/dc96624b1db849db926f59806e287d44_24.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/fcd8d11078284316ac4b40244b069a4a_8.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/dc96624b1db849db926f59806e287d44_24.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/fcd8d11078284316ac4b40244b069a4a_8.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Edinburgh Ward Boundaries
+title: Tramlines
 ---

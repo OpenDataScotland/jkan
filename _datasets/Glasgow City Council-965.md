@@ -1,19 +1,15 @@
 ---
 category:
-- Transportation
+- Uncategorised
 date_created: ''
-date_updated: '2021-04-29'
+date_updated: '2021-12-23'
 license: No licence
 maintainer: Glasgow City Council
-notes: <div><p>Returns real time and historical bike hire data from nextbike stations
-  across Glasgow, by hour, day, month and year.</p><span></span></div>
+notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/7b4e077aca3047908a21e39e170a7ff0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/d40f6064b85e406c8b79a7a32d5cc6b9
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=mobility&operation=5f23cd7c7e947e7d1cf2f4ae
+resources: []
 schema: default
-title: Bike hire API
+title: 3D Urban Model
 ---

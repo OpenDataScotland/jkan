@@ -1,53 +1,47 @@
 ---
 category:
 - Health / Human Services
-- Elections / Politics
-date_created: '2020-11-06'
-date_updated: '2021-06-29'
+date_created: '2021-04-14'
+date_updated: '2022-03-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>The 13-15 month review is an assessment generally carried out by a health
-  visitor. This review was introduced in April 2017 and should be offered to all children.
-  A wide range of information is collected including developmental domains such as
-  speech, language and communication, hearing, vision, personal/ social, behavioural/emotional,
-  fine motor and gross motor. </p>
+notes: '<p>This dataset shows the latest results of the Public Health Scotland (PHS)
+  serology surveillance programme. The PHS serology surveillance programme uses existing
+  blood samples within community healthcare and other settings to estimate the proportion
+  of people who have antibodies to coronavirus ("seroprevalence") in the general population
+  of Scotland and to see if this changes over time. Antibodies can be used to identify
+  individuals who have had COVID-19 infection in the past or have developed antibodies
+  as a result of vaccination.</p>
 
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://publichealthscotland.scot/publications/early-child-development/">Public
-  Health Scotland website</a>. The date of the next release can be found on our list
-  of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>This data is also available on the Enhanced Surveillance of Covid-19 in Scotland
+  Dashboard along with detailed commentary and background information on interpreting
+  the data. The dashboard can be accessed from the <a href="https://www.publichealthscotland.scot/publications/enhanced-surveillance-of-covid-19-in-scotland/">Enhanced
+  Surveillance of Covid-19 in Scotland publication</a> page. The date of the next
+  release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>. Additional data sources relating to this topic area are provided
+  in the Links section of the Metadata below. Information on COVID-19, including stay
+  at home advice for people who are self-isolating and their households, can be found
+  on <a href="https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice">NHS
+  Inform</a>.</p>
+
+  <p><strong>Revisions have been made to our antenatal data: from week beginning 7th
+  June 2021 (ISO week 23 of 2021), we can detect which antibodies are from vaccination
+  and which are from infection (+/- vaccination). These changes can be seen in the
+  dashboard publications from 10th November 2021 onwards. More detail regarding these
+  changes can be found in the notes section of the dashboard.</strong></p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/early-child-development-13-15-month-review-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/enhanced-surveillance-of-covid-19-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/1a96a615-ee1f-4841-a96a-31b86e9aeb2d/download/open13mlatotals.csv
+  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/9f483ac0-08d9-40d0-92d9-af6c9a6e81e3/download/serology_hb.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/e73c1eb3-f529-42c1-b26a-6a503d8b1ba8/download/open13mlaage.csv
+  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/dbdea476-f80f-407b-afc5-f9cf4856055f/download/serology_age.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/983decbc-4a4a-416b-9f44-e89e738bca3c/download/open13mlasex.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/1a7a5981-bbaa-46db-912b-a047637776c5/download/open13mlasimd.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/6d43565f-f234-478c-be7d-f31316b89bf2/download/open13mscotlandsimd.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/dc6acfbe-0eff-4207-8cd6-f0f6960e4325/download/open13mscbimulti.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/7e474506-07f6-416e-9b8f-57d9e257aacf/download/open13mscenglish.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/5f844d43-9be1-45f4-b930-a0ab1947c8fd/download/open13mscethnicity.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/fbbccd2d-15ec-4b3a-a960-0704b5f3995c/download/open13msclac.csv
+  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/4936110e-642f-4a77-87dd-5f8bc6fb36b3/download/serology_sex.csv
 schema: default
-title: Early Child Development - 13-15 month review statistics
+title: Enhanced Surveillance of COVID-19 in Scotland
 ---

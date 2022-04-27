@@ -1,62 +1,77 @@
 ---
 category:
 - Health / Human Services
-- Education
-date_created: '2021-03-29'
-date_updated: '2022-01-14'
+date_created: '2021-10-06'
+date_updated: '2021-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p>This dataset presents information on COVID-19 in children and young people\
-  \ of educational age, education staff and educational settings. This includes:</p>\n\
-  <p>\u2022   Testing and cases among children and young people of educational age.</p>\n\
-  <p>\u2022   Hospital admissions related to COVID-19 among children and young people\
-  \ of educational age.</p>\n<p>\u2022   Information from contact tracing on cases\
-  \ present in an educational setting in the 7-days before symptom onset, and on cases\
-  \ who work in education or childcare.</p>\n<p>\u2022   Information about COVID-19\
-  \ cases in registered school pupils.</p>\n<p>This data is also available on the\
-  \ <a href=\"https://scotland.shinyapps.io/phs-covid19-education/_w_852fb58e/\">COVID-19\
-  \ Education Surveillance Dashboard</a>. Additional data sources relating to this\
-  \ topic area are provided in the Links section of the Metadata below. </p>\n<p>All\
-  \ publications and supporting material to this topic area can be found on the <a\
-  \ href=\"https://publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-data-and-intelligence/enhanced-surveillance-of-covid-19-in-education-settings/\"\
-  >Enhanced Surveillance of COVID-19 in Education settings</a> section of the Public\
-  \ Health Scotland website.</p>\n<p><strong>From 11/06/2021 data completeness will\
-  \ be up to the previous Wednesday, so weekly data are aggregated from Thursday to\
-  \ Wednesday. Previously data covered periods from Saturday to Friday. This is due\
-  \ to NHS Boards submitting admission data from Monday to Friday and a three day\
-  \ lag for some boards by the time data is processed for COVID-19 hospital admission.</strong></p>\n\
-  <p><em>From 2nd of July, information on testing and admissions will be extended\
-  \ to include 20-21 years olds, and admissions will also include 18-19 year olds.\
-  \ From 13th of August, information on PCR testing and admissions has been extended\
-  \ to include 0-1 year olds.</em></p>"
+notes: "<p>Confirmed cases of COVID-19 have been identified by a positive SARS-CoV-2\
+  \ viral PCR test result.        </p>\n<p>For any individual, the specimen date of\
+  \ their first positive viral PCR result is taken as the date of onset of their first\
+  \ episode of COVID-19.      <br />\nSubsequent positive viral PCR results with specimen\
+  \ date within 90 days of their first positive result are discounted.    <br />\n\
+  If the individual then has a positive viral PCR result with specimen date \u2265\
+  90 days after their first positive result, this is taken as the date of onset of\
+  \ their second episode of COVID-19.     <br />\nSubsequent positive viral PCR results\
+  \ with specimen date within 90 days of this second index date are then discounted\
+  \ as for the first episode of COVID, and so on.     </p>\n<p>Confirmed cases of\
+  \ COVID-19 have been identified as occurring in pregnancy if the date of onset of\
+  \ the episode of COVID-19 occurred at any point from the estimated date of conception\
+  \ (date the woman was 2+0 weeks gestation) up to and including the date the pregnancy\
+  \ ended.       </p>\n<p>Traditionally, pregnancies were dated from the first day\
+  \ of a woman's last menstrual period (LMP) prior to her pregnancy, with this date\
+  \ being set as the first day of gestation (0+0 weeks) and babies being 'due' at\
+  \ 40+0 weeks.    <br />\nConception, and hence the actual start of the pregnancy,\
+  \ usually occurs around 2 weeks after the first day of the LMP, at 2+0 gestation.\
+  \      <br />\nThese days, pregnancies are usually dated based on an ultrasound\
+  \ scan done in early pregnancy and the woman's LMP date, but this dating convention\
+  \ is still used, i.e. the date of conception is set at 2+0 weeks gestation.    \
+  \    </p>\n<p>Broadly the three trimesters of pregnancy divide pregnancies into\
+  \ three approximately equal time periods covering early, mid, and later pregnancy\
+  \     <br />\nHowever, there is no internationally agreed definition of the exact\
+  \ start and end point of each trimester     <br />\nHere we have used the definitions\
+  \ recommended by the American College of Obstetricians and Gynecologists      <br\
+  \ />\nhttps://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date\
+  \    <br />\nThe most critical period for a baby's development is between 2+0 and\
+  \ 9+6 weeks gestation: this is the period when all the major organs in the body\
+  \ are formed       </p>\n<p>As the testing data is more up to date than the pregnancy\
+  \ data, we have assumed that any woman showing as 44+0 weeks gestation or over at\
+  \ the date of onset of an episode of COVID-19 was in fact no longer pregnant at\
+  \ that time and this has not been counted as an infection in pregnancy.     <br\
+  \ />\nAs described in the Data sources tab, these data lag issues will be resolved\
+  \ over time as pregnancy related records are returned to PHS and incorporated into\
+  \ the COPS study database of pregnant women.        </p>\n<p>The COPS study database\
+  \ includes women aged 11 to 55 years inclusive at the time of conception.      \
+  \   </p>\n<p>An unlinked analysis has been used to calculate rates of infection\
+  \ among pregnant women.      <br />\nThe denominator for this analysis is a 'snapshot'\
+  \ of the number of women pregnant at the start of the specified month.    <br />\n\
+  The numerator is the number of women with onset of COVID-19 during pregnancy at\
+  \ any point during the specified month.       </p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-positive-cases-in-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/7caee5e0-d1bf-46fa-87e0-bfd7197b315e/download/cases_among_children_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/0a883f85-97bf-474a-8daa-158128f79743/download/cases_week_20211005.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/ee094a26-d085-4cc5-ac6c-f3930a7c71c7/download/tests_among_children_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/b7f26274-113c-47ab-8a14-73763b39a894/download/case_gest_20211005.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/2b631540-1bcf-4d3a-9244-131e1a650051/download/admissions_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/76c63f4f-769e-4780-963e-6bb179207d4b/download/case_vacc_stat_20211005.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/0c9428bc-76d0-4420-b05a-9849c1e68372/download/cms_educational_setting_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/78762e59-14b8-42d6-be12-83dc279c675b/download/case_rate_20211005.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/bf847bab-16fc-4646-8b36-f311a18ff10a/download/cms_occupational_sector_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/5960ae17-7931-4f6c-a6ba-a9d5c12c18ca/download/case_rate_age_20211005.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/866f1e8a-ddca-40f7-9437-6959b97e1e97/download/cms_completeness_data.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/72bc7a85-d0aa-4629-b3b5-83dedd3885a8/download/case_rate_simd_20211006.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/d0ae885c-cfbe-4ca2-9bfd-0e385092e003/download/rates_by_age_group.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/b4b602e6-8142-4055-8894-54a23c655f0b/download/schools_data_0_1_2.csv
+  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/2dca5eb6-8d9f-4931-b72b-1bdd1366febc/download/case_rate_hb_20211006.csv
 schema: default
-title: COVID-19 Education Surveillance
+title: COVID-19 Infections in Pregnancy in Scotland
 ---

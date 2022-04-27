@@ -1,19 +1,22 @@
 ---
 category:
+- Elections / Politics
 - Planning / Zoning
-- Environment
-date_created: '2018-02-22'
+date_created: '2017-06-26'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Conservation Areas are areas of special architectural of historic interest\
-  \ where it is desirable to preserve or enhance the character or appearance of the\
-  \ area. The aim of this policy is to preserve and enhance Moray\u2019s Conservation\
-  \ Areas.</p>"
+notes: <p>The purpose of community councils is to ascertain, co-ordinate and express
+  the views of the community it represents to local authorities and other pubic bodies.
+  This includes community councils appointing one person as their point of contact
+  for all planning matters. Community Councils are regularly consulted by the local
+  authority and public bodies on a wide range of issues which affect their area, such
+  as planning, environment and health. All Community Council meetings are open to
+  the public.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=ae82221d985d4517b788b14be8285329
-records: 18
+original_dataset_link: https://www.arcgis.com/home/item.html?id=8d9cbca7af444ca8bd527a4951c0072d
+records: 20
 resources: []
 schema: default
-title: Conservation Areas (CA)(Moray)
+title: 'Community Council Boundaries (Moray) '
 ---

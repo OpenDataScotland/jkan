@@ -1,83 +1,110 @@
 ---
 category:
 - Health / Human Services
-date_created: '2020-04-22'
-date_updated: '2022-02-18'
+date_created: '2021-01-13'
+date_updated: '2022-03-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p><strong>Update from 10/02/2022 onwards</strong>: There have been changes\
-  \ to the way we publish the LFD and PCR data. Previously they were contained in\
-  \ their own resources, but from the 10th the other resources will incorporate this\
-  \ data, and the three standalone \"Combined cases\" resources will no longer be\
-  \ updated. Additionally, test numbers are no longer reported, as well as number\
-  \ of negative tests. Read more about this approach <a href=\"https://www.publichealthscotland.scot/news/2022/february/update-on-enhancements-to-covid-19-reporting/\"\
-  >here</a>. </p>\n<p>To allow new data to be fully processed and available at 14:00,\
-  \ the Daily COVID-19 in Scotland and COVID-19 Vaccination in Scotland datasets will\
-  \ be temporarily unavailable from 12:45 to 14:00. During this window, the datasets\
+notes: "<p><em>From 24 March 2022, Public Health Scotland (PHS) began reporting the\
+  \ number of people who have received a fourth dose of Covid-19 vaccination. Vaccine\
+  \ uptake statistics among care home residents and those who are severely immunosuppressed\
+  \ will be reported initially. PHS will include further updates as the Spring/Summer\
+  \ vaccination programme rolls out.</em></p>\n<p><em>In addition, as part of our\
+  \ continuous review of reporting, PHS made some changes to vaccine uptake statistics.\
+  \ From 24 March 2022, the deceased and those who no longer live in Scotland are\
+  \ no longer be included in vaccine uptake statistics.  Historic trend data have\
+  \ been updated to take into account this new methodology for all apart from the\
+  \ Daily Trends by JCVI Priority Group table (more details about the data in this\
+  \ table are below).  Scotland level data for all vaccinations administered (i.e.\
+  \ including those who have since died or moved from Scotland) are still available\
+  \ in the Daily Trend of All Vaccinations Delivered in Scotland table.</em></p>\n\
+  <p><em>Also from 24 March 2022, Dose 3/Booster doses are termed \u201CDose 3\u201D\
+  .</em></p>\n<p><strong>To allow new data to be fully processed and available at\
+  \ 14:00, the Daily COVID-19 in Scotland and COVID-19 Vaccination in Scotland datasets\
+  \ will be temporarily unavailable from 12:45 to 14:00. During this window, the datasets\
   \ will not be visible and any queries made to these datasets will return a 404 \u2013\
   \ Not found error. At all other times the datasets will be available in full as\
-  \ usual.</p>\n<p>This dataset provides information on number of new daily confirmed\
-  \ cases, negative cases, deaths, testing by NHS Labs (Pillar 1) and UK Government\
-  \ (Pillar 2), new hospital admissions and new ICU admissions from novel coronavirus\
-  \ (COVID-19) in Scotland, including cumulative totals and population rates at Scotland,\
-  \ NHS Board and Council Area levels (where possible). Seven day positive cases and\
-  \ population rates are also presented by Neighbourhood Area (Intermediate Zone 2011).\
-  \ Information on how PHS publish small are COVID figures is available on the <a\
-  \ href=\"https://publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-data-and-intelligence/covid-19-daily-cases-in-scotland-dashboard/how-we-publish-small-area-covid-figures/\"\
-  >PHS website</a>. </p>\n<p>Novel coronavirus (COVID-19) is a new strain of coronavirus\
-  \ first identified in Wuhan, China. Clinical presentation may range from mild-to-moderate\
-  \ illness to pneumonia or severe acute respiratory infection. COVID-19 was declared\
-  \ a pandemic by the World Health Organisation on 12 March 2020. We now have spread\
-  \ of COVID-19 within communities in the UK.</p>\n<p>Information on COVID-19, including\
-  \ stay at home advice for people who are self-isolating and their households, can\
-  \ be found on <a href=\"https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice\"\
-  >NHS Inform</a>.</p>\n<p>Data visualisation of Scottish COVID-19 cases is available\
-  \ on the <a href=\"https://public.tableau.com/app/profile/phs.covid.19/viz/COVID-19DailyDashboard_15960160643010/Overview\"\
-  >Public Health Scotland - Covid 19 Scotland dashboard</a>. </p>\n<p>Further information\
-  \ on coronavirus in Scotland is available on the <a href=\"https://www.gov.scot/coronavirus-covid-19/\"\
-  >Scottish Government \u2013 Coronavirus in Scotland</a>  page, where further breakdown\
-  \ of <a href=\"https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/\"\
-  >coronavirus data</a>  is also published daily.</p>"
+  \ usual.</strong></p>\n<p>PHS reviewed the JCVI priority group uptake figures from\
+  \ 18 November 2021, specifically how we derive the numerator and the denominator.\
+  \  The rational for the change is to ensure we report on most up to date living\
+  \ population for each group.  For this, the list of individuals in each cohort has\
+  \ been refreshed to be more current.  We have also removed individuals who have\
+  \ since died to reflect the current living population. From the 24 March 2022 those\
+  \ who are no longer living in Scotland have also been removed from the numerator\
+  \ and denominator for JCVI priority group uptake figures.</p>\n<p>This means all\
+  \ the JCVI cohorts and populations have changed for both numerator and denominators\
+  \ on these two dates and care should be taken when interpreting trends.</p>\n<p>On\
+  \ 08 December 2020, a Coronavirus (COVID-19) vaccine developed by Pfizer BioNTech\
+  \ (Comirnaty) was first used in the UK as part of national immunisation programmes.\
+  \ The AstraZeneca (Spikevax) vaccine was also approved for use in the national programme,\
+  \ and rollout of this vaccine began on 04 January 2021. Moderna (Vaxzevria) vaccine\
+  \ was approved for use on 8 January 2021 and rollout of this vaccine began on 07\
+  \ April 2021.</p>\n<p>These vaccines have met strict standards of safety, quality\
+  \ and effectiveness set out by the independent Medicines and Healthcare Products\
+  \ Regulatory Agency (MHRA). </p>\n<p>Those giving the vaccine to others were the\
+  \ first to receive the vaccination. In the first phase of the programme, NHS Scotland\
+  \ followed the independent advice received from the <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948353/Priority_groups_for_coronavirus__COVID-19__vaccination_-_advice_from_the_JCVI__2_December_2020.pdf\"\
+  >Joint Committee on Vaccination and Immunisation (JCVI)</a> and prioritised delivery\
+  \ of the vaccine to those with the greatest clinical need, in line with the recommended\
+  \ order of prioritisation.  For booster vaccinations a similar approach has been\
+  \ adopted. </p>\n<p>Definitions used in the vaccine uptake by JCVI priority group\
+  \ resource can be found in the <a href=\"https://www.opendata.nhs.scot/dataset/covid-19-vaccination-in-scotland/resource/29e8ab8e-065a-4f92-ab70-4371d757633b\"\
+  >JCVI Priority Group Definitions table</a>. Individuals can appear in more than\
+  \ one JCVI priority group.</p>\n<p>A 2-dose primary schedule is advised for the\
+  \ vaccines - followed by a booster dose and a secondary booster for those aged 75+\
+  \ or in certain JCVI priority groups. For the Pfizer BioNTech (Comirnaty) vaccine,\
+  \ the second vaccine dose can be offered between 3 to 12 weeks after the first dose.\
+  \ For the AstraZeneca (Vaxzevria) and Moderna (Spikevax) vaccine, the second dose\
+  \ can be offered 4 to 12 weeks after the first dose.  First booster doses are offered\
+  \ 12 weeks after 2nd dose. Second boosters are offered 24 weeks after the initial\
+  \ booster. Those are in the severely immuno-suppressed priority group will receive\
+  \ a 3rd primary dose before being eligible for a first booster.</p>\n<p>This dataset\
+  \ provides information on daily number of COVID vaccinations in Scotland. Data on\
+  \ the total number of vaccinations in Scotland is presented by day administered\
+  \ and vaccine type, by age group, by sex, by non-age cohorts and by geographies\
+  \ (NHS Board and Local Authority). As the population in the cohorts can change with\
+  \ time, these will be refined when updated data are available.</p>\n<p>Additional\
+  \ data sources relating to this topic area are provided in the Links section of\
+  \ the Metadata below. \nData visualisation and additional notes are available on\
+  \ the <a href=\"https://public.tableau.com/app/profile/phs.covid.19/viz/COVID-19DailyDashboard_15960160643010/Overview\"\
+  >Public Health Scotland - Covid 19 Scotland dashboard</a>.</p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccination-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/7fad90e5-6f19-455b-bc07-694a22f8d5dc/download/total_cases_by_hb_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/42f17a3c-a4db-4965-ba68-3dffe6bca13a/download/daily_vacc_scot_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/e8454cf0-1152-4bcb-b9da-4343f625dfef/download/total_cases_by_la_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/9b99e278-b8d8-47df-8d7a-a8cf98519ac1/download/daily_vacc_age_sex_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/19646dce-d830-4ee0-a0a9-fcec79b5ac71/download/total_cases_agesex_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/758f72d6-7371-4eee-9e6b-0b0798470d7e/download/daily_vacc_hb_2021_part_1_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a965ee86-0974-4c93-bbea-e839e27d7085/download/total_cases_simd_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/09f5073d-2b7a-4c95-9fb3-d59c9da3fbd4/download/daily_vacc_hb_2021_part_2_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/287fc645-4352-4477-9c8c-55bc054b7e76/download/daily_cuml_scot_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/8f7b64b1-eb53-43e9-b888-45af0bc25505/download/daily_vacc_hb_2022_part_1_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/2dd8534b-0a6f-4744-9253-9565d62f96c2/download/trend_hb_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d5ffffc0-f6f3-4b76-8f38-71ccfd7747a4/download/daily_vacc_la_2021_part_1_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/427f9a25-db22-4014-a3bc-893b68243055/download/trend_ca_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/70e10191-6607-4f67-8132-ce14f57cbb28/download/daily_vacc_la_2021_part_2_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/8906de12-f413-4b3f-95a0-11ed15e61773/download/trend_iz_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/03323275-7985-41b9-b657-7d3be9ca9b19/download/daily_vacc_la_2022_part_1_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/9393bd66-5012-4f01-9bc5-e7a10accacf4/download/trend_agesex_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d442b584-fe34-4c8d-acd0-3de9ac568eaf/download/daily_vacc_jcvi_20220328.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a38a4c21-7c75-4ecd-a511-3f83e0e8f0c3/download/trend_simd_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/29e8ab8e-065a-4f92-ab70-4371d757633b/download/jcvi-table_20220201.xlsx
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/8da654cd-293b-4286-96a4-b3ece86225f0/download/test_hb_20220218.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/3349540e-dc63-4d6d-a78b-00387b9aca50/download/test_ca_20220218.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/db27a16d-52e1-45e4-bd97-d13831548393/download/all_delivered_vacc_scot_20220328.csv
 schema: default
-title: Daily COVID-19 Cases in Scotland
+title: COVID-19 Vaccination in Scotland
 ---

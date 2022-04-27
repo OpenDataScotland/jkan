@@ -1,15 +1,15 @@
 ---
 category:
-- Planning / Zoning
-date_created: '2021-10-12'
-date_updated: '2021-10-12'
+- Elections / Politics
+date_created: '2017-03-13'
+date_updated: '2021-03-24'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Marketable sites and locations for businesses allocated in development plans</p>
+notes: <p>Points depicting polling places in South Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=ed7c55e6dd21435d82c4bafc1b0064d3
-records: 53
+original_dataset_link: https://www.arcgis.com/home/item.html?id=72bef698f90b4da7b28ee403598e4403
+records: 79
 resources: []
 schema: default
-title: Employment Land Supply
+title: Polling Places 2021
 ---

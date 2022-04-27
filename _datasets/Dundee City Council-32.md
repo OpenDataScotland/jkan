@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: '2017-08-16'
 date_updated: '2021-08-19'
 license: 'Custom licence: Public Sector End User Licence (Scotland)'

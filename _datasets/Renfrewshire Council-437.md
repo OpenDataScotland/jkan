@@ -1,16 +1,15 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-07-19'
-date_updated: '2019-07-19'
+date_created: '2019-04-17'
+date_updated: '2019-04-17'
 license: No licence
 maintainer: Renfrewshire Council
-notes: "<p>Map showing location of heritage buildings and monuments in Renfrewshire\
-  \ with links to detailed descriptions on\_https://paisley.is</p>"
+notes: <p>Dataset listing Big Lottery funded projects in Renfrewshire in 2018.</p>
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=a4f0ac4f0fed458cad272614796a3e2e
-records: null
+original_dataset_link: https://www.arcgis.com/home/item.html?id=3ab34647842e4971889def454f31f2e8
+records: 36
 resources: []
 schema: default
-title: Heritage Buildings and Monuments
+title: Big Lottery Funded Projects 2018
 ---

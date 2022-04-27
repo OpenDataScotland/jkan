@@ -1,25 +1,22 @@
 ---
 category:
-- Transportation
-date_created: '2019-07-23'
-date_updated: '2019-07-23'
-license: Open Government Licence v2.0
+- Uncategorised
+date_created: '2019-04-18'
+date_updated: '2019-04-18'
+license: No licence
 maintainer: Renfrewshire Council
-notes: <p>Detailed statistics on what mode of transport people usually use to get
-  to work and education, as well as the percentage of total journeys which people
-  make for a given purpose and children's mode of travel to school (from the Scottish
-  Household Survey).These estimates are from the Scottish Household Survey Travel
-  Diary, which asks adult respondents about all the journeys which they made the previous
-  day, as well as information about the mode, purpose, duration and length of these
-  journeys. The proportion of people who travel to work by public or active travel
-  is a National Indicator in the Scotland Performs framework.SHS estimates are National
-  Statistics and provide figures which are representative of households and individuals
-  in Scotland annually. The SHS has an annual sample size of around 10,000 individuals
-  and, since 2012, has operated with a fully unclustered sample design.</p>
+notes: "<p>Babies' first forenames by Council area, 2018 based on the records for\
+  \ all the births which were registered in that year -\_filtered for Renfrewshire.\_\
+  Notes -\_a)\_each list covers first forenames given to 3+ babies of that sex in\
+  \ the specified council area (so OMITS first forenames given to only 1-2 babies\
+  \ of that sex).b)\_the geographical basis is the usual one for National Records\
+  \ of Scotland (NRS) statistics of births, which is births registered in Scotland\
+  \ to mothers who lived in the specified council area plus any births to mothers\
+  \ from outwith Scotland which occurred in the specified council area.</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=71efe4b2a5f64a4f99842eb37af251db
-records: 2
+original_dataset_link: https://www.arcgis.com/home/item.html?id=e708a65d88c44191875a7ddb8c748113
+records: 71
 resources: []
 schema: default
-title: Travel to Work and Other Purposes
+title: Baby First Names 2018 (girls)
 ---

@@ -1,21 +1,19 @@
 ---
 category:
 - Transportation
-date_created: '2018-05-15T10:17:06.963Z'
-date_updated: '2019-12-20'
+date_created: '2021-09-25T13:03:52.003Z'
+date_updated: '2021-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>Data from Transport and Travel in Scotland and the Scottish Household Survey
-  relating to the number of bikes available for private use by Local Authority in
-  2016.</p>
+notes: <p>A real-time daily upload from each cycling counter within North Ayrshire
+  Council's network.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0f20095c-c878-4f07-962d-8db0faaa0b5c
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0bbe839b-6eb0-427f-9da0-105fc91cad59
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=aa86d727-c4eb-4c00-b8ae-69fdd191ceb7
+- format: JSON
+  name: JSON
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1b1f46df-8b37-48fb-90fa-9f464bb8f30a/1/urql
 schema: default
-title: Number of bikes available for private use - Travel and Transport Scotland 2016
-  - Scottish Household Survey
+title: North Ayrshire Council- Daily cycling counts from automatic cycling counters
 ---

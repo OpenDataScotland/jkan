@@ -1,18 +1,15 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-04-10'
+- Planning / Zoning
+date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Moray Council Polling Places.  Point data showing the polling\_places for\
-  \ the Moray Council area. A polling place is a the particular building where people\
-  \ go to cast their vote(s) during elections. A polling station is located within\
-  \ a polling place. There may be more than one polling station in a polling place.</p>"
+notes: <p>Local Development Plan 2020 Wind Farm Spatial Framework (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=65e731a73f384fadad25bef39fdcc342
-records: 60
+original_dataset_link: https://www.arcgis.com/home/item.html?id=f1cf505350cb4e909d27f832367a534e
+records: 1
 resources: []
 schema: default
-title: Polling Places (Moray)
+title: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
 ---

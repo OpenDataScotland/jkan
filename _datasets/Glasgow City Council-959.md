@@ -1,24 +1,31 @@
 ---
 category:
-- Transportation
+- Public Safety
 date_created: ''
-date_updated: '2021-04-30'
+date_updated: '2021-08-12'
 license: No licence
 maintainer: Glasgow City Council
-notes: '<p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''><span
-  style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir
-  Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>A
-  Traffic API returning historical traffic flow data from the Glasgow SCOOT Traffic
-  Network.</span></p>
-
-  <p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''><br /></p>'
+notes: <p>Graffiti incidences observed and logged by community enforcement patrols
+  and by the public in Glasgow.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/ccbdc6ee9be44c3eb1c4b5290a10d050
+original_dataset_link: https://data.glasgow.gov.uk/datasets/5119d3a1faa94fd3a581fb92694afb8a_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=traffic&operation=5b044adda611ad4c9b1c58b2
+  url: https://utility.arcgis.com/usrsvcs/servers/5119d3a1faa94fd3a581fb92694afb8a/rest/services/OPEN_DATA/Graffiti_Incidences/MapServer/0
+- format: GEOJSON
+  name: GEOJSON
+  url: https://data.glasgow.gov.uk/datasets/5119d3a1faa94fd3a581fb92694afb8a_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: CSV
+  name: CSV
+  url: https://data.glasgow.gov.uk/datasets/5119d3a1faa94fd3a581fb92694afb8a_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://data.glasgow.gov.uk/datasets/5119d3a1faa94fd3a581fb92694afb8a_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: ZIP
+  url: https://data.glasgow.gov.uk/datasets/5119d3a1faa94fd3a581fb92694afb8a_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Traffic API - Historical
+title: Graffiti Incidences
 ---

@@ -1,36 +1,22 @@
 ---
 category:
-- Elections / Politics
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
-license: No licence
+- Health / Human Services
+date_created: '2017-11-02'
+date_updated: '2019-06-25'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: "<p><font size='3'>Location of polling places to be used for elections in PKC.\_\
-  A polling place is a building or area in which a polling station is located. There\
-  \ can be more than one polling station in a polling place. Polling Places can change\
-  \ over time due to the availability of the buildings.</font></p>"
+notes: '<p>Detail on prescriptions in the Perth and Kinross, divided</p>
+
+  <p>Adapted from data published by NHS ISD Scotland, licensed under the <a href=""
+  title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government
+  Licence 3.0</a>.</p>'
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/polling-places
+original_dataset_link: https://data.pkc.gov.uk/dataset/prescriptions-in-perth-and-kinross
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/dataset/253b3994-7512-4c99-86d8-7cfd6fa86fed/resource/c47253d0-5e93-4fef-9e82-61085738ef26/download/201706_prescribing_data_tayside_practicenames.csv
 schema: default
-title: Polling places
+title: Prescriptions in Perth and Kinross
 ---

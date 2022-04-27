@@ -1,16 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-07-13'
-date_updated: '2020-10-23'
+date_created: '2018-03-23'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percent of respondents who believe that crime has stayed the same or reduced
-  in the past 2 years in their local area</p>
+notes: <p>How adults in Scotland rate their local neighbourhood as a place to live,
+  from the Scottish Household Survey (SHS)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/local-crime-rate-national-indicator
+original_dataset_link: http://statistics.gov.scot/data/neighbourhood-rating---shs
 records: null
 resources: []
 schema: default
-title: Local Crime Rate (National Indicator)
+title: Neighbourhood rating - Scottish Household Survey
 ---

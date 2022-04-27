@@ -1,39 +1,36 @@
 ---
 category:
 - Health / Human Services
-date_created: '2019-11-07'
-date_updated: '2021-11-30'
+date_created: '2020-12-03'
+date_updated: '2022-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>In order to provide an effective, safe and efficient service to patients,
-  hospitals must balance the provision of staffed beds against anticipated demand.
-  Historically, the total number of beds has been reducing in line with evolving models
-  of healthcare provision which aim to reduce the frequency and duration of hospital
-  admissions and improve the integration of health and social care services. This
-  strategy aims to improve outcomes for patients and reduce the likelihood of future
-  hospital admissions.</p>
+notes: '<p>Antimicrobial Resistance and Healthcare Associated Infection (ARHAI) Scotland,
+  part of National Services Scotland works closely with Public Health Scotland to
+  deliver the COVID-19 response. This dataset provides data for COVID-19 hospital
+  onset cases in Scotland for week ending 1 March 2020 onwards, as available.</p>
 
-  <p>The residence data files relate to activity by NHS Board of residence. The treatment
-  data files relate to activity by NHS Board of treatment. ISD(S)1 also does not record
-  information on the deprivation, age or sex of patients.</p>
+  <p>COVID-19 cases first diagnosed within hospital in-patients are classed as hospital
+  onset COVID-19, with the length of time between admission and the date of first
+  positive test of new infections or reinfection episodes (90 days from previous COVID-19
+  positive result), determining their hospital onset status. </p>
 
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://beta.isdscotland.org/topics/hospital-care/">PHS Website</a>. Further
-  information on hospital activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/">recent
-  quarterly publication</a>. </p>
+  <p>ARHAI Scotland is working with NHS boards on a continuous basis to validate COVID-19
+  hospital onset cases to ensure the data are robust. Data are published on the Open
+  Data platform at NHS Scotland level, by week of specimen date.</p>
 
-  <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>All publications and supporting material to this topic area can be found in the
+  weekly Hospital onset COVID-19 cases in Scotland publication. Further information
+  on the epidemiology of COVID-19 in healthcare settings can be found on the Public
+  Health Scotland website. The date of the next release can be found on our list of
+  forthcoming publications.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-beds-information
+original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-onset-covid-19-cases-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/554b0e7a-ccac-4bb6-82db-1a8b306fcb36/resource/f272bb7d-5320-4491-84c1-614a2c064007/download/beds_by_nhs_board_of_treatment_and_specialty.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/554b0e7a-ccac-4bb6-82db-1a8b306fcb36/resource/25bdc37b-4a77-4ff8-9b3a-edaba6e1c613/download/notes.csv
+  url: https://www.opendata.nhs.scot/dataset/d67b13ef-73a4-482d-b5df-d39d777540fd/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec/download/2022-03-11_hospitalonsetcovid_opendata.csv
 schema: default
-title: Quarterly Hospital Beds Information
+title: Hospital Onset COVID-19 Cases in Scotland
 ---

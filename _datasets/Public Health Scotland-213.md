@@ -1,47 +1,98 @@
 ---
 category:
+- Elections / Politics
+- Planning / Zoning
 - Health / Human Services
-date_created: '2021-04-14'
-date_updated: '2022-02-16'
+date_created: '2017-09-27'
+date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset shows the latest results of the Public Health Scotland (PHS)
-  serology surveillance programme. The PHS serology surveillance programme uses existing
-  blood samples within community healthcare and other settings to estimate the proportion
-  of people who have antibodies to coronavirus ("seroprevalence") in the general population
-  of Scotland and to see if this changes over time. Antibodies can be used to identify
-  individuals who have had COVID-19 infection in the past or have developed antibodies
-  as a result of vaccination.</p>
+notes: '<p>9 digit standard geography codes and labels for</p>
 
-  <p>This data is also available on the Enhanced Surveillance of Covid-19 in Scotland
-  Dashboard along with detailed commentary and background information on interpreting
-  the data. The dashboard can be accessed from the <a href="https://www.publichealthscotland.scot/publications/enhanced-surveillance-of-covid-19-in-scotland/">Enhanced
-  Surveillance of Covid-19 in Scotland publication</a> page. The date of the next
-  release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>. Additional data sources relating to this topic area are provided
-  in the Links section of the Metadata below. Information on COVID-19, including stay
-  at home advice for people who are self-isolating and their households, can be found
-  on <a href="https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice">NHS
-  Inform</a>.</p>
+  <ul>
 
-  <p><strong>Revisions have been made to our antenatal data: from week beginning 7th
-  June 2021 (ISO week 23 of 2021), we can detect which antibodies are from vaccination
-  and which are from infection (+/- vaccination). These changes can be seen in the
-  dashboard publications from 10th November 2021 onwards. More detail regarding these
-  changes can be found in the notes section of the dashboard.</strong></p>'
+  <li>
+
+  <p>Data Zone (2001 and 2011)</p>
+
+  </li>
+
+  <li>
+
+  <p>Intermediate Zone (2001 and 2011)</p>
+
+  </li>
+
+  <li>
+
+  <p>Council Area (2011, 2018 and 2019)</p>
+
+  </li>
+
+  <li>
+
+  <p>Health and Social Care Partnership (2016, 2018 and 2019) </p>
+
+  </li>
+
+  <li>
+
+  <p>Health Board (1995, 2006, 2014, 2018 and 2019). <em>Note: Health Board for 1995
+  are not 9 digit codes as this predates the standardisation of the codes</em></p>
+
+  </li>
+
+  <li>
+
+  <p>Country code for Scotland is given in all files.</p>
+
+  </li>
+
+  </ul>
+
+  <p>This data set can be used to map from the lowest geography level (data zone)
+  through to the highest geography level (country) and all relevant geographies in
+  between.</p>
+
+  <p>Information from the <a href="http://www.gov.scot/Topics/Statistics/sns/SNSRef/StanGeoCodeRegister">Standard
+  Geography Code Register</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/enhanced-surveillance-of-covid-19-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/geography-codes-and-labels
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/9f483ac0-08d9-40d0-92d9-af6c9a6e81e3/download/serology_hb_20220216.csv
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e92d19d4-ced7-40c8-b628-e28e4528fc41/download/dz2001_codes_and_labels_21042020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/dbdea476-f80f-407b-afc5-f9cf4856055f/download/serology_age_20220216.csv
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/395476ab-0720-4740-be07-ff4467141352/download/dz2011_codes_and_labels_21042020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/4936110e-642f-4a77-87dd-5f8bc6fb36b3/download/serology_sex_20220216.csv
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/84f6061a-6f15-4e8f-a4f9-aeb96e142b83/download/iz2001_codes_and_labels_21042020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e3e885cc-2530-4b3c-bead-9eda9782264f/download/iz2011_codes_and_labels_21042020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/967937c4-8d67-4f39-974f-fd58c4acfda5/download/ca11_ca19.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/944765d7-d0d9-46a0-b377-abb3de51d08e/download/hscp16_hscp19.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/d1fd7380-ffd9-4854-ab2c-574c266085df/download/hb1995_codes_and_labels_06042020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/2db6cf68-2890-4bf8-9fae-92ca63c9b07f/download/hb2006_codes_and_labels_06042020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/652ff726-e676-4a20-abda-435b98dd7bdc/download/hb14_hb19.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/042f9b17-a42d-4112-b40b-32c094fdc01d/download/isd_health_board_of_treatment.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/9c6e6c56-2697-4184-92c6-60d69c2b6792/download/geography_codes_and_labels_country.csv
 schema: default
-title: Enhanced Surveillance of COVID-19 in Scotland
+title: Geography Codes and Labels
 ---

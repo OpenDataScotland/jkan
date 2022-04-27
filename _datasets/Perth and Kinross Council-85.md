@@ -1,23 +1,24 @@
 ---
 category:
 - Uncategorised
-date_created: '2021-12-10'
-date_updated: '2021-12-10'
+date_created: '2017-08-25'
+date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: "<p>For each year since 2010, this dataset shows the National Records of Scotland\
-  \ (NRS) estimated life expectancy figures at birth for females and males within\
-  \ the Perth and Kinross Council area.</p>\n<p>NRS publishes life expectancy estimates\
-  \ on an annual basis. The most recent data, released in September 2021, are sourced\
-  \ from the Life Expectancy in Scotland, 2018-2020 page on the NRS website.</p>\n\
-  <p>\xA9 Crown Copyright 2021</p>"
+notes: '<p>Linked Data is a growing part of the Web where data is published on the
+  Web and then linked to other published data in much the same way that web pages
+  are interlinked using hypertext.</p>
+
+  <p>OS Linked Data site takes some of the OS OpenData products and produces them
+  in machine readable languages and publishes them in this easy to use website for
+  all users to enjoy.</p>'
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/nrs-life-expectancy
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-linked-data
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/b5d48668-d96f-445d-a6de-5566df2810f2/resource/770894e3-402c-42a6-9ad9-0cb67fe9bea8/download/estimatedlifeexpectancyatbirthpkc.csv
+- format: HTML
+  name: HTML
+  url: http://data.ordnancesurvey.co.uk/
 schema: default
-title: NRS Life Expectancy
+title: OS Linked Data
 ---

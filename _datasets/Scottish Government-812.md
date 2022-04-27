@@ -1,16 +1,16 @@
 ---
 category:
 - Economy
-date_created: '2018-12-14'
-date_updated: '2020-08-28'
+date_created: '2019-01-30'
+date_updated: '2021-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Geographical analysis of families claiming Child Benefit at small area levels.
-  Number of families in a live Child Benefit award as at 31st August.</p>
+notes: <p>Number of VAT/PAYE registered stocks and sites operating in Scotland by
+  Urban Rural Classification</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/child-benefit---families
+original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites-by-urban-rural-classification
 records: null
 resources: []
 schema: default
-title: Child Benefit - Families
+title: Business Stocks and Sites by Urban Rural Classification
 ---

@@ -1,15 +1,15 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-02-14'
-date_updated: '2021-10-20'
+- Economy
+date_created: '2018-04-11'
+date_updated: '2021-09-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of assets in community ownership</p>
+notes: <p>Number and rate (percent) of VAT/PAYE business survival.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/community-ownership-number-of-land-parcels-assets
+original_dataset_link: http://statistics.gov.scot/data/business-demography---survival
 records: null
 resources: []
 schema: default
-title: "Community Ownership \u2013 Number of Assets"
+title: Business Demography - Survival
 ---

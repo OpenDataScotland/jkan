@@ -1,45 +1,50 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-01-14'
-date_updated: '2021-06-30'
+- Health / Human Services
+date_created: '2018-03-21'
+date_updated: '2021-02-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This annual release produced by Public Health Scotland in partnership with
-  NSS Practitioner Services provides information on NHSScotland payments to General
-  Practices. Information is presented at General Practice level and geographical hierarchies
-  are available.</p>
+notes: '<p>NHS have added codes for non standard geographies that are separate to
+  the standard 9 digit codes. These include</p>
 
-  <p>Further information can be found in the <a href="https://publichealthscotland.scot/publications/nhs-payments-to-general-practice/">NHSScotland
-  Payments to General Practice annual publication</a> and on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/">General
-  Practice pages</a> of the ISD website. The date of the next release can be found
-  on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <ul>
+
+  <li>
+
+  <p>Special Health Boards and National Facilities</p>
+
+  </li>
+
+  <li>
+
+  <p>Strategic Business Units</p>
+
+  </li>
+
+  <li>
+
+  <p>Other non official Residential Categories </p>
+
+  </li>
+
+  </ul>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice
+original_dataset_link: https://www.opendata.nhs.scot/dataset/non-standard-geography-codes-and-labels
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/e88cb482-6bf2-4cc0-a548-c2f7409af607/download/gppayments2019-20.csv
+  url: https://www.opendata.nhs.scot/dataset/65402d20-f0f1-4cee-a4f9-a960ca560444/resource/0450a5a2-f600-4569-a9ae-5d6317141899/download/special-health-boards_19022021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/0dc48fd0-6321-42ed-a335-ab3d195682ec/download/gppayments2018-19.csv
+  url: https://www.opendata.nhs.scot/dataset/65402d20-f0f1-4cee-a4f9-a960ca560444/resource/179e68a9-2bcd-4b4c-b06b-4845b44de19b/download/strategic-business-units_06042020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/46c9f7ed-ed37-44e6-b3a7-6ccced1d5740/download/gppayments2017-18.csv
+  url: https://www.opendata.nhs.scot/dataset/65402d20-f0f1-4cee-a4f9-a960ca560444/resource/8f0c3067-7b10-44c6-af36-37f87a9e6efa/download/grouped-geography.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/8c4a4fba-0d91-4b97-8643-f250d1938419/download/gppayments2016-17.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/42ae85ea-e0a7-4695-b399-6bbe0a400450/download/gppayments2015-16.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/8983146b-bb92-4a6f-adb0-e97f80794ffd/download/gppayments2014-15.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/49db89d6-276c-4cbf-9233-2c41a0f67084/download/gppayments2013-14.csv
+  url: https://www.opendata.nhs.scot/dataset/65402d20-f0f1-4cee-a4f9-a960ca560444/resource/32164b83-c9ec-495a-ac9f-dbeeb6ed5e59/download/other-residential-categories.csv
 schema: default
-title: NHSScotland Payments to General Practice
+title: Non Standard Geography Codes and Labels
 ---

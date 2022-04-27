@@ -1,30 +1,32 @@
 ---
 category:
-- Education
+- Environment
 date_created: ''
-date_updated: '2021-06-02'
+date_updated: '2021-09-14'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Schools and catchemnts areas</p>
+notes: <p>Coverage data from mobile and fixed telecoms operators, as of May 2019,
+  including coverage by type and extent. Limited data available for Glasgow such asdata
+  zone. Sourced from Ofcom and provided via the Open Government License.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_5
+original_dataset_link: https://data.glasgow.gov.uk/datasets/88133d3d01f6453da06157192b52289f_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer/5
+  url: https://utility.arcgis.com/usrsvcs/servers/88133d3d01f6453da06157192b52289f/rest/services/OPEN_DATA/Broadband_Coverage/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_5.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/88133d3d01f6453da06157192b52289f_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_5.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/88133d3d01f6453da06157192b52289f_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/88133d3d01f6453da06157192b52289f_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/2bfa782d5da84302bf15219e19a05112_5.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/88133d3d01f6453da06157192b52289f_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Gaelic Primary Catchment Areas
+title: Broadband Coverage
 ---

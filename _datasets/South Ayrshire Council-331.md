@@ -1,15 +1,16 @@
 ---
 category:
-- Environment
+- Planning / Zoning
+- Education
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Extent of the Galloway Forest Park</p>
+notes: <p>Areas depicting catchment zones for denominational secondary schools</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e64ef903744442a5befce9fb19a64e53
-records: 1
+original_dataset_link: https://www.arcgis.com/home/item.html?id=88a6db9db81349e8be6a4e94f1f1378d
+records: 2
 resources: []
 schema: default
-title: Galloway Forest Park
+title: Denominational Secondary Catchments
 ---

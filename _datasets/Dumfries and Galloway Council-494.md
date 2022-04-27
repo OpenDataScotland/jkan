@@ -1,21 +1,21 @@
 ---
 category:
-- Education
-date_created: '2017-11-17T11:31:23.930Z'
-date_updated: '2018-02-21'
+- Uncategorised
+date_created: '2018-07-16T09:12:21.645Z'
+date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Secondary Schools in Dumfries and Galloway</p>
+notes: <p>Polling Districts 2017</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/85141456-67b4-4af9-8c24-17e35d4753f6
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/9414517b-2fcd-47f7-b8eb-8659122454cc
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d50c4283-1e69-4347-a7e5-93b556135152
+- format: GEOJSON
+  name: GEOJSON
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=78ba2d5f-a0ef-41fd-8d9b-8ea4ec22c182
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/7631a55f-a450-4658-ae08-a1c3ddc626f7/1/urql
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/df4ef60a-7ca3-43b8-b433-afd3815f2d04/1/urql
 schema: default
-title: Secondary Schools
+title: Polling Districts 2017
 ---

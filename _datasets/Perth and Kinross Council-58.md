@@ -1,35 +1,19 @@
 ---
 category:
-- Transportation
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
-license: No licence
+- Economy
+date_created: '2017-09-19'
+date_updated: '2019-06-25'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: "<p>Car parking zones in Perth city centre. Parking in Perth City is divided\
-  \ into three zones.\_Different pricing and waiting periods apply depending on the\
-  \ zone.</p>"
+notes: <p>Adapted from NOMIS, published under the Open Government Licence. This will
+  pull data from October 2015 to the most recent month.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/car-park-zones-perth-city-centre
+original_dataset_link: https://data.pkc.gov.uk/dataset/claimant-count
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/1822fcfddad9452e89d3a6f0d8762d4f_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/car_par_zones_perth/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/1822fcfddad9452e89d3a6f0d8762d4f_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/1822fcfddad9452e89d3a6f0d8762d4f_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/1822fcfddad9452e89d3a6f0d8762d4f_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/1822fcfddad9452e89d3a6f0d8762d4f_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: http://www.nomisweb.co.uk/api/v01/dataset/NM_162_1.data.csv?geography=973079520,973079539,973079516,973079540...973079542,973079522,973079525,973079532,973079517,973079538,973079518,973079519,973079536,973079533,973079521,973079535,973079528,973079537,973079513,973079527,973079544,973079514,973079523,973079530,973079515,973079531,973079529,973079545,973079512,973079546,973079534,973079543,973079524,973079526&date=latestMINUS23-latest&gender=0&age=0...4&measure=1&measures=20100&select=date_name,geography_name,geography_code,gender_name,age_name,measure_name,measures_name,obs_value,obs_status_name
 schema: default
-title: Car park zones Perth city centre
+title: Claimant Count
 ---

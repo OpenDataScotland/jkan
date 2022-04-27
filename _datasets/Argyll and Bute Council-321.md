@@ -1,18 +1,16 @@
 ---
 category:
-- Transportation
 - Planning / Zoning
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: <p>Action proposed by the Local Development Plan in support of its settlement
-  plans and development proposals involving the management of traffic and access in
-  relation to land use.</p>
+notes: <p>Valued Tourist Area Vulnerable to Change of Use in the 2015 Local Development
+  Plan</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=3b73e8a6bda14a1492c89523103bbc35
-records: 3
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1c12d89cd7414cc993ba792709652a8c
+records: 14
 resources: []
 schema: default
-title: Open Data - Traffic Management Area
+title: Open Data - Valued Tourist Area
 ---

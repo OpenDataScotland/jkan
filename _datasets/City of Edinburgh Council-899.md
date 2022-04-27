@@ -1,8 +1,8 @@
 ---
 category:
-- Planning / Zoning
+- Elections / Politics
 date_created: ''
-date_updated: '2021-05-27'
+date_updated: '2021-05-25'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
@@ -10,28 +10,27 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
-  text-decoration-color:initial; display:inline !important;'>Trees, groups of trees,
-  woodlands and areas of trees that have been afforded the statutory protection of
-  a Tree Preservation Order.</span></p>
+  text-decoration-color:initial; display:inline !important;'>The boundaries for each
+  polling station district used in elections.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/ad30e119f2f34eb09b6c8563b35296e3_28
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/16
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/28
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/ad30e119f2f34eb09b6c8563b35296e3_28.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/ad30e119f2f34eb09b6c8563b35296e3_28.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/ad30e119f2f34eb09b6c8563b35296e3_28.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/47a36ea293a946a78b11c4d196ef4dfc_16.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/ad30e119f2f34eb09b6c8563b35296e3_28.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Tree Preservation Orders
+title: Polling District Boundaries
 ---

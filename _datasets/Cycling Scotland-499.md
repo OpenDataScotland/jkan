@@ -1,22 +1,21 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-05-13T13:35:32.999Z'
-date_updated: '2021-08-13'
+- Transportation
+date_created: '2020-02-19T15:31:56.977Z'
+date_updated: '2021-09-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: '<p>The Local section of the Annual Cycling Monitoring Report examines all
-  the local authorities across Scotland and highlights statistics based on headline
-  trends,
-
-  workplaces and schools from a range of sources.</p>'
+notes: <p>This data set is a real-time daily upload from each cycling counter that
+  is part of the National Monitoring Framework. The data includes pedestrian and bicycle
+  user counts for more than 65 counters across Scotland in 20 different local authorities.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/5722da4b-7559-4819-ab1c-4d2c9a6f92ec
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2d0d20d6-ff8e-47a8-8fc8-10580e00a052
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/45724cc2-0f99-4215-9c07-2c78dadd6075/3/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/02444e7a-5bd4-4ef3-9c66-e26671bb4c8a/1/urql
 schema: default
-title: Annual Cycling Monitoring Report - Local Authority Cycling Statistics
+title: National Monitoring Framework - daily data from automatic cycling counters
+  - Cycling Scotland
 ---

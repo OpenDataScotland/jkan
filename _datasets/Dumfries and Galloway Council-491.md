@@ -1,21 +1,21 @@
 ---
 category:
-- Education
-date_created: '2017-11-15T10:18:25.225Z'
-date_updated: '2017-11-16'
+- Planning / Zoning
+date_created: '2018-07-12T13:05:10.581Z'
+date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Annual Attendance Percentages for Secondary Schools in Dumfries and Galloway</p>
+notes: <p>Contaminated Land Register</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/8dd37ea1-2e1d-4e37-8fb7-323c90fdb192
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/b05ebc9e-e5b6-4a18-bcb7-c3c316ec20cb
 records: null
 resources:
+- format: ZIP
+  name: ZIP
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e9b516c9-2ccd-4da5-96b8-d3c252418a15
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/fa9e7d24-afa0-4126-ac1a-7b43ee2b1707/1/urql
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=6eed0631-2804-4336-bce9-fc3597280d29
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2f44f5af-a48f-4e4f-8387-799c130da2df/1/urql
 schema: default
-title: Secondary School Attendance
+title: Contaminated Land Register
 ---

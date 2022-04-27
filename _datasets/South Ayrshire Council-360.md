@@ -7,9 +7,9 @@ license: No licence
 maintainer: South Ayrshire Council
 notes: ''
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=b12aeb6748a74b239bf87caf88de41b0
-records: 34
+original_dataset_link: https://www.arcgis.com/home/item.html?id=377c6805161848569939d70aa47da8cb
+records: 5
 resources: []
 schema: default
-title: LDP2 Town Centre Policies
+title: LDP2 Town Centre Boundaries
 ---

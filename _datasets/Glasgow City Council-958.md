@@ -1,22 +1,25 @@
 ---
 category:
-- Transportation
+- Planning / Zoning
+- Real Estate / Land Records
 date_created: ''
-date_updated: '2021-04-30'
+date_updated: '2021-08-12'
 license: No licence
 maintainer: Glasgow City Council
-notes: '<p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''></p>
-
-  <p>Access to real time traffic and car parking data City Council using the DATEX
-  II Protocol, including traffic movement, traffic events, and parking volumes at
-  Council run car parks.</p>'
+notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes
+  GCC Service Department HQs/main buildings, Major Glasgow Life Facilities, ALEO HQs
+  etc e.g. Libraries, Sports Centres, Swimming Pools, Museums, etc. Selected Community
+  Facilities - Community Halls, Youth Centres, Neighbourhood Centres - which have
+  Glasgow Life managemanagement committment but which and operated by the Voluntary
+  Sector. Selected Community Facilities - Community Centres, Youth Centres, Recreation
+  Centres - managed and operated by Glasgow Life. </p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/f1970f4776484272a05231586522c670
+original_dataset_link: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=55c36a318b3a0306f0009483&operation=563cea91aab82f1168298575
+  url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer
 schema: default
-title: "Traffic DATEX II API \u2013 Traffic and car parking"
+title: Public Buildings
 ---

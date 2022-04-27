@@ -1,16 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-11-28'
-date_updated: '2019-06-26'
+- Planning / Zoning
+date_created: '2018-01-29'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percent of children in families that have both low income and cannot afford
-  three or more out of a list of 22 basic necessities.</p>
+notes: <p>How households in Scotland manage financially, from the Scottish Household
+  Survey (SHS)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/children-in-families-with-limited-resources
+original_dataset_link: http://statistics.gov.scot/data/household-financial-management---shs
 records: null
 resources: []
 schema: default
-title: Children in Families with Limited Resources
+title: Household Financial Management - Scottish Household Survey
 ---

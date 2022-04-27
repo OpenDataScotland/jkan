@@ -1,22 +1,25 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-10-21T10:38:12.077Z'
-date_updated: '2019-10-30'
-license: https://creativecommons.org/licenses/by/4.0/
+- Transportation
+date_created: '2021-08-10T14:30:44.494Z'
+date_updated: '2021-08-17'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This data highlights all secondary schools across Scotland that have received
-  a Cycling Scotland Development Fund</p>
+notes: <p>All-mode traffic data from 48-hour surveys across Scotland in May 2021</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/31b68937-3327-4468-bca1-546d5d25de11
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b4e027e-59e2-4147-994f-c2f01cd08747
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3ad3768f-134c-4e77-a50f-cd22b39e2ee6/2/urql
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eafbe615-dba0-4a67-a711-5b966bf72fde
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1662f845-427f-4b6e-b59f-d6eb353c742b
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=764a63a7-fb84-424b-a957-eb0f6008630c
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d8a1badd-3280-40bf-b1fa-c6c505c902b5
 schema: default
-title: Cycling Friendly - Secondary School Development Fund - Cycling Scotland
+title: National Monitoring Framework - all-mode traffic survey results May 2021 -
+  Cycling Scotland
 ---

@@ -1,24 +1,25 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2018-03-29'
+date_created: '2018-01-11'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Moray Onshore Wind Energy 2017 Policy Guidance Map for Large Typologies\
-  \ (Moray) Areas of Greatest Potential. Scottish Planning Policy states that planning\
-  \ authorities \u201Cshould identify where there is strategic capacity for wind farms,\
-  \ and areas with the greatest potential for wind development\u201D. Areas of greatest\
-  \ scope for further investigating the feasibility of developing wind farms. These\
-  \ areas have been identified on Policy Guidance maps by removing additional constraints\
-  \ from the spatial framework map of the areas likely to be most appropriate for\
-  \ wind farm development. The remaining areas which have been mapped for each development\
-  \ typology are the areas with the fewest constraints and therefore the greatest\
-  \ potential for wind farm developments.</p>"
+notes: <p>Wind turbine locations generated from planning applications received by
+  Moray Council this includes applications Moray Council dealt with and Section 36
+  applications which were dealt with by Scottish Government. It also includes refused
+  applications, some of the refused applications maybe appealed. Some applications
+  maybe for the same site where the applicant has submitted a revised application
+  to change turbine size/location etc.Any turbine location co-ordinates we provide
+  will not be exact locations taken from GPS or similar. The co-ordinates will be
+  either calculated from plans provide by the applicant or grid co-ordinates stated
+  in the application, these co-ordinates will not take into account for any micro-siting
+  at construction stage. The data is provided based on the best information available
+  to the council at the time of writing.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=886f3db2dff0431480fd86167523d669
-records: 1
+original_dataset_link: https://www.arcgis.com/home/item.html?id=3af52ce7fed049c79ba57f80c66fc1bc
+records: 812
 resources: []
 schema: default
-title: Moray Onshore Wind Energy 2017 Policy Guidance Map for Large Typologies (Moray)
+title: Planning Wind Turbine Locations (Moray)
 ---

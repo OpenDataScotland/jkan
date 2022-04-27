@@ -1,22 +1,26 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-10-21T10:07:11.873Z'
-date_updated: '2019-11-26'
-license: https://creativecommons.org/licenses/by/4.0/
+- Transportation
+date_created: '2020-12-17T10:47:51.797Z'
+date_updated: '2021-08-17'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This data highlights all employers across Scotland that have received a
-  Cycling Friendly School Award</p>
+notes: <p>All-mode traffic data from 48-hour surveys across Scotland in September
+  2020</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/fa4d4cbb-b4a0-4efd-ae68-7767f6ab117d
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f1e8a739-ee14-4742-a7de-45d1ab6cb8aa
 records: null
 resources:
-- format: JSON
-  name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/2976a33d-5707-4144-8ac5-9df05abf5071/5/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c045f5f5-7e79-440c-a8be-477d686c5fdc
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c940b83f-9a3c-4bfe-9789-83a5c2cabc18
+- format: JSON
+  name: JSON
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d9d8e21d-cb72-4290-a397-d23cea3361fa
+- format: XML
+  name: XML
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f2e3ad90-7257-41aa-b0ba-78eb00459295
 schema: default
-title: Cycling Friendly - Employers Award - Cycling Scotland
+title: National Monitoring Framework - all-mode traffic survey results September 2020
+  - Cycling Scotland
 ---

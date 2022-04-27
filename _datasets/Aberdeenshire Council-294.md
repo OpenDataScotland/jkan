@@ -1,8 +1,8 @@
 ---
 category:
-- Planning / Zoning
+- Arts / Culture / History
 date_created: ''
-date_updated: '2018-11-23'
+date_updated: '2018-07-10'
 license: No licence
 maintainer: Aberdeenshire Council
 notes: ''
@@ -10,9 +10,9 @@ organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ZIP
-  name: ZIP
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/LDP17_shape.zip
+- format: KMZ
+  name: KMZ
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/museums.kmz
 schema: default
-title: Local Development Plan (LDP) 2017 - shapes
+title: Museums
 ---

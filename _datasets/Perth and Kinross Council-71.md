@@ -1,38 +1,20 @@
 ---
 category:
 - Uncategorised
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
-license: No licence
+date_created: '2019-09-10'
+date_updated: '2022-03-27'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p><span style='font-family:&quot;Avenir Next&quot;, &quot;Avenir Next&quot;;
-  font-size:18px;'>The Perth and Kinross Employment Land Audit is prepared annually
-  to provide up to date and accurate information on the supply and availability of
-  employment land for business and industrial use within the Perth and Kinross Council
-  area. This audit has been prepared from information provided in the Local Development
-  Plan and through the monitoring of planning application approvals.</span></p>
+notes: <p>Electricity usage data from Perth &amp; Kinross Council owned buildings
+  that have meters where automatic readings are recorded.  Data is for the last  2
+  years.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/employment-land-audit-2020
+original_dataset_link: https://data.pkc.gov.uk/dataset/energy-electricity
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/33a224e6f2f848f7a46d58f2c05f3dfa_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/EmploymentLandAudit/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/33a224e6f2f848f7a46d58f2c05f3dfa_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/33a224e6f2f848f7a46d58f2c05f3dfa_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/33a224e6f2f848f7a46d58f2c05f3dfa_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ZIP
-  name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/33a224e6f2f848f7a46d58f2c05f3dfa_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data.pkc.gov.uk/dataset/3d8d3d43-35fc-4da1-b52b-0daf6c9c6f72/resource/ed1fd7df-69c5-41a3-b52f-ca111a308d34/download/energyelectricity.csv
 schema: default
-title: Employment Land Audit 2020
+title: Energy - Electricity
 ---

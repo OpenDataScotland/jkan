@@ -1,27 +1,24 @@
 ---
 category:
-- Planning / Zoning
-- Environment
-date_created: '2016-11-28'
+- Education
+date_created: '2016-11-30'
 date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Conservation areas are areas of special architectural or historic interest.
-  They are designated by Angus Council to ensure any new development preserves or
-  enhances their varied character.</p>
+notes: <p>Angus Council Denominational Primary School Catchment Areas</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-conservation-areas
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-denominational-primary-school-catchment-areas
 records: null
 resources:
 - format: WMS
   name: WMS
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_conservationareas/wms?service=WMS&request=GetMap
+  url: http://data.angus.gov.uk/geoserver/inspire/inspire:edn_denominationalprimaryschoolscatchmentareas/wms?service=WMS&request=GetMap
 - format: KML
   name: KML
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_conservationareas&mode=download
+  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:edn_denominationalprimaryschoolscatchmentareas&mode=download
 - format: GEOJSON
   name: GEOJSON
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_conservationareas&outputFormat=application%2Fjson&srsName=EPSG:3857
+  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:edn_denominationalprimaryschoolscatchmentareas&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Conservation Areas
+title: Angus Council Denominational Primary School Catchment Areas
 ---

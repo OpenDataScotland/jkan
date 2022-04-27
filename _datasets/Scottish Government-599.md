@@ -1,16 +1,15 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: '2014-07-29'
-date_updated: '2021-10-12'
+date_updated: '2016-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The geography Entities (levels such as Council Area - S12) and Instances
-  (areas such as Glasgow City - S12000046)</p>
+notes: <p>Number of lettings, evictions and abandonments of local authority housing.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/standard-geography-code-register
+original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-council-housing
 records: null
 resources: []
 schema: default
-title: Standard Geography Code Register
+title: Local Authority Housing Council Housing
 ---

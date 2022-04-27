@@ -1,15 +1,19 @@
 ---
 category:
-- Education
+- Planning / Zoning
+- Arts / Culture / History
+- Parks / Recreation
+- Real Estate / Land Records
+- Environment
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Areas depicting catchment zones for denominational secondary schools</p>
+notes: <p>Tree presevation orders in force across the area</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=88a6db9db81349e8be6a4e94f1f1378d
-records: 2
+original_dataset_link: https://www.arcgis.com/home/item.html?id=2afbf49fd8514e8aa67fa6a6eceeaf86
+records: 93
 resources: []
 schema: default
-title: Denominational Secondary Catchments
+title: Tree Preservation Orders
 ---

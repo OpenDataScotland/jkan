@@ -1,19 +1,15 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2017-08-08'
+date_created: '2018-12-13'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>The Local Development Plan 2015 was superseded by the Local Development
-  Plan 2020 on 27 July 2020.Local Development Plan 2015 Settlement Boundaries are
-  used for the distribution of housing and employment land across Moray as per the
-  spatial strategy set out within the Moray Local Development Plan 2015. Settlement
-  boundaries contain the primary, secondary and third tier settlements.</p>
+notes: <p>Proposed Plan 2019 Settlement Designations (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=5c51907e5088428ea44e8d4068cf8e51
-records: 33
+original_dataset_link: https://www.arcgis.com/home/item.html?id=4c46411e0cfe447295acb5c95fff862a
+records: 766
 resources: []
 schema: default
-title: Local Development Plan 2015 Settlement Boundaries (Moray)
+title: Proposed Plan 2019 Settlement Designations (Moray)
 ---

@@ -1,25 +1,18 @@
 ---
 category:
-- Education
-date_created: '2017-10-27'
+- Planning / Zoning
+date_created: '2018-12-19'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Secondary School Catchments 24/04/1996 - 23/10/2016 (Moray) (non denominational)In\
-  \  Moray, the education authority discharges its duty to secure adequate  and efficient\
-  \ education for the local authority area by operating a  \u201Ccatchment area\u201D\
-  \ system to enable parents/carers to comply with their  duty to provide efficient\
-  \ education for their child(ren).\_ The zones  (catchment areas) are shown as delineated\
-  \ areas on maps.\_ Information on  these catchment areas is available at the Moray\
-  \ Council website.Most  parents of children living within the catchment area will\
-  \ choose for  their children to attend the designated primary and secondary school\
-  \ for  their catchment area.If  a parent wishes their child to be enrolled at a\
-  \ school which is not the  designated catchment area school for their postal address,\
-  \ they must  make an out-of-zone \u2018placing request\u2019.\_ </p>"
+notes: <p>Employment Land Audit 2018 sites provides am overview of the supply and
+  availability of employment land across the Moray Council area. The audit provides
+  details of Moray's employment land supply as at January 2018. Further information
+  can be found at Development Monitoring.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=40b74eeb21874aa482f2b7dec312ce4a
-records: 8
+original_dataset_link: https://www.arcgis.com/home/item.html?id=ca1f14248a5448f9b6ce4c436aad360a
+records: 33
 resources: []
 schema: default
-title: Secondary School Catchments 1996 - 2016 (Moray) (non denominational)
+title: Employment Land Audit 2018 (Moray)
 ---

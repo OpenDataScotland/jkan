@@ -1,15 +1,16 @@
 ---
 category:
 - Elections / Politics
+- Planning / Zoning
 date_created: '2015-10-30'
-date_updated: '2020-11-11'
+date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Polygons depicting South Ayrshire Council Electoral Wards</p>
+notes: <p>Areas depicting community council boundaries for South Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=a2f8a89dc3e7448c96dbd0e2b7de6e5b
-records: 8
+original_dataset_link: https://www.arcgis.com/home/item.html?id=2210e29ba21043acacaddf98daecdaf9
+records: 30
 resources: []
 schema: default
-title: Council Wards
+title: Community Councils
 ---

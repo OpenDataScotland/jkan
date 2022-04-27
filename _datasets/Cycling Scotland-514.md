@@ -1,25 +1,19 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-10-17T11:16:41.438Z'
-date_updated: '2019-12-16'
+- Transportation
+date_created: '2021-03-17T17:44:41.886Z'
+date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>Data from the Transport and Travel related questions asked in the Scottish
-  Household Survey 2016. Data is of average distance traveled (km) nationally. Data
-  is classified by Local Authority, Regional Transport Partnership, and Urban/Rural
-  Classification. Reproduced via Open Government Licence. https://www.transport.gov.scot/publication/26-september-2017-transport-and-travel-in-scotland-2016/</p>
+notes: <p>A real-time hourly upload from each cycling counter within Glasgow City
+  Council's network.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ba9b5d11-01c5-4a50-9232-9c54634ebb62
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/01c6a04a-1b6f-4121-9b8a-d081c7e6ea28
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/6b18c08b-3562-4f6a-8154-6fab63fbafe6/2/urql
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9f6d8939-bd70-44d2-b569-6bfc32f35353
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9697fc32-5f26-466a-b6b8-f9e15e6a0c3c/1/urql
 schema: default
-title: Average distance traveled (km) - Transport and Travel in Scotland 2016 - Scottish
-  Household Survey
+title: Glasgow City Council - Hourly cycling counts from automatic cycling counters
 ---

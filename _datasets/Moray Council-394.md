@@ -1,17 +1,20 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-04-10'
+- Planning / Zoning
+- Environment
+date_created: '2017-12-13'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: "<p>Moray Council Polling District Boundaries.  Polygon data showing the polling\
-  \ district boundaries for the Moray Council area used\_for the purposes of designating\
-  \ an area of electors which attend a particular polling place.</p>"
+notes: <p>The Local Development Plan 2015 was superseded by the Local Development
+  Plan 2020 on 27 July 2020.The objective of the designation is to protect and enhance
+  the Moray coast for its landscape, nature conservation, recreation and tourism benefits.
+  The undeveloped coastline is protected through identification of a Coastal Protection
+  Zone (CPZ) within which only certain types of development will be acceptable.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=bd878bfec39f4a659c2d016f1b3bc920
-records: 60
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1bd85abb1ff749c691db2a7bcdf4aee4
+records: 1
 resources: []
 schema: default
-title: Polling Districts (Moray)
+title: Local Development Plan 2015 Coastal Protection Zone (CPZ) (Moray)
 ---

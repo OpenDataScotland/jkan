@@ -1,38 +1,21 @@
 ---
 category:
-- Transportation
-date_created: '2018-02-12'
+- Environment
+date_created: '2018-02-15'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: '<p>The street lighting in Dundee is delivered through the <a href="https://www.dundeecity.gov.uk/service-area/city-development/roads-and-transportation/street-lighting">Street
-  Lighting Partnership</a>.  </p>
-
-  <p>This dataset includes locations of all street lights in the city that are operated
-  by the partnership, and includes details of the light type and column height.   </p>
-
-  <p>You can <a href="https://my.dundeecity.gov.uk/service/Street_Lighting_Fault___Report_it">report
-  a fault</a> online - let us know in the comments if you would be interested in an
-  API to report faults using the light data this dataset. </p>'
+notes: <p>public trees.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/street-lights
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/trees
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=opendata:v_street_lights&outputFormat=csv
-- format: ZIP
-  name: ZIP
-  url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=opendata:v_street_lights&outputFormat=SHAPE-ZIP
-- format: GEOJSON
-  name: GEOJSON
-  url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=opendata:v_street_lights&outputFormat=application/json
-- format: WMS
-  name: WMS
-  url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wms?service=Wms&version=1.3.0&request=getCapabilities
-- format: WFS
-  name: WFS
-  url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?service=WFS&version=2.0.0&request=getCapabilities
+  url: https://data.dundeecity.gov.uk/dataset/d7de061a-2fc2-4cba-aa1b-4d0d15ef5c33/resource/e54ef90a-76e5-415e-a272-5e489d9f5c67/download/trees_public.csv
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/dataset/d7de061a-2fc2-4cba-aa1b-4d0d15ef5c33/resource/43ead9bf-c66d-4eaf-81b0-5fb2b3a63f9a/download/species_nbn_dictionary.csv
 schema: default
-title: Street Lights
+title: Trees
 ---

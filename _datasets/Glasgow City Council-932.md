@@ -1,38 +1,37 @@
 ---
 category:
-- Education
+- Planning / Zoning
+- Real Estate / Land Records
 date_created: ''
-date_updated: '2021-12-07'
+date_updated: '2021-08-12'
 license: No licence
 maintainer: Glasgow City Council
-notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
-  \ a wide variety of information on pupils in all publicly funded schools in Scotland.\
-  \ These files provide information at the level of individual schools separated into\
-  \ primary, secondary and additional support for learning (ASL) provision.Each file\
-  \ contains information on: school roll;proportion of pupils living in the 20% most\
-  \ deprived areas in Scotland (using the SIMD 2020 ver 2);ethnicity;the proportion\
-  \ of pupils for whom English is an additional language.The Pupil in Scotland census\
-  \ data is obtained from schools management information systems and is validated\
-  \ by ScotXed.</p>"
+notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes
+  GCC Service Department HQs/main buildings, Major Glasgow Life Facilities, ALEO HQs
+  etc e.g. Libraries, Sports Centres, Swimming Pools, Museums, etc. Selected Community
+  Facilities - Community Halls, Youth Centres, Neighbourhood Centres - which have
+  Glasgow Life managemanagement committment but which and operated by the Voluntary
+  Sector. Selected Community Facilities - Community Centres, Youth Centres, Recreation
+  Centres - managed and operated by Glasgow Life. </p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/52383d4cda9e4cc1b77204fe53a99728/rest/services/OPEN_DATA/School_Census_ASL_2020/MapServer/0
+  url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer/2
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: School Census ASL 2020
+title: Community Managed Facilities
 ---

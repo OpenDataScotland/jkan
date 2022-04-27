@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Education
 date_created: ''
-date_updated: '2018-11-10'
+date_updated: '2021-06-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/public_toilets.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_secondary_school_catchments.kmz
 schema: default
-title: Public toilets
+title: Secondary school catchment boundaries within Aberdeenshire
 ---

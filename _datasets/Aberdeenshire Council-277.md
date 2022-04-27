@@ -1,9 +1,9 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2018-11-10'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2019-12-09'
+license: No licence
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/burial_grounds.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_council_committee_areas.kmz
 schema: default
-title: Burial Grounds
+title: Committee areas boundaries within Aberdeenshire
 ---

@@ -1,77 +1,82 @@
 ---
 category:
 - Health / Human Services
-date_created: '2021-10-06'
+date_created: '2021-07-12'
 date_updated: '2021-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p>Confirmed cases of COVID-19 have been identified by a positive SARS-CoV-2\
-  \ viral PCR test result.        </p>\n<p>For any individual, the specimen date of\
-  \ their first positive viral PCR result is taken as the date of onset of their first\
-  \ episode of COVID-19.      <br />\nSubsequent positive viral PCR results with specimen\
-  \ date within 90 days of their first positive result are discounted.    <br />\n\
-  If the individual then has a positive viral PCR result with specimen date \u2265\
-  90 days after their first positive result, this is taken as the date of onset of\
-  \ their second episode of COVID-19.     <br />\nSubsequent positive viral PCR results\
-  \ with specimen date within 90 days of this second index date are then discounted\
-  \ as for the first episode of COVID, and so on.     </p>\n<p>Confirmed cases of\
-  \ COVID-19 have been identified as occurring in pregnancy if the date of onset of\
-  \ the episode of COVID-19 occurred at any point from the estimated date of conception\
-  \ (date the woman was 2+0 weeks gestation) up to and including the date the pregnancy\
-  \ ended.       </p>\n<p>Traditionally, pregnancies were dated from the first day\
-  \ of a woman's last menstrual period (LMP) prior to her pregnancy, with this date\
-  \ being set as the first day of gestation (0+0 weeks) and babies being 'due' at\
-  \ 40+0 weeks.    <br />\nConception, and hence the actual start of the pregnancy,\
-  \ usually occurs around 2 weeks after the first day of the LMP, at 2+0 gestation.\
-  \      <br />\nThese days, pregnancies are usually dated based on an ultrasound\
-  \ scan done in early pregnancy and the woman's LMP date, but this dating convention\
-  \ is still used, i.e. the date of conception is set at 2+0 weeks gestation.    \
-  \    </p>\n<p>Broadly the three trimesters of pregnancy divide pregnancies into\
-  \ three approximately equal time periods covering early, mid, and later pregnancy\
-  \     <br />\nHowever, there is no internationally agreed definition of the exact\
-  \ start and end point of each trimester     <br />\nHere we have used the definitions\
-  \ recommended by the American College of Obstetricians and Gynecologists      <br\
-  \ />\nhttps://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/05/methods-for-estimating-the-due-date\
-  \    <br />\nThe most critical period for a baby's development is between 2+0 and\
-  \ 9+6 weeks gestation: this is the period when all the major organs in the body\
-  \ are formed       </p>\n<p>As the testing data is more up to date than the pregnancy\
-  \ data, we have assumed that any woman showing as 44+0 weeks gestation or over at\
-  \ the date of onset of an episode of COVID-19 was in fact no longer pregnant at\
-  \ that time and this has not been counted as an infection in pregnancy.     <br\
-  \ />\nAs described in the Data sources tab, these data lag issues will be resolved\
-  \ over time as pregnancy related records are returned to PHS and incorporated into\
-  \ the COPS study database of pregnant women.        </p>\n<p>The COPS study database\
-  \ includes women aged 11 to 55 years inclusive at the time of conception.      \
-  \   </p>\n<p>An unlinked analysis has been used to calculate rates of infection\
-  \ among pregnant women.      <br />\nThe denominator for this analysis is a 'snapshot'\
-  \ of the number of women pregnant at the start of the specified month.    <br />\n\
-  The numerator is the number of women with onset of COVID-19 during pregnancy at\
-  \ any point during the specified month.       </p>"
+notes: '<p>This dataset presents information on COVID-19 vaccinations delivered to
+  pregnant women in Scotland.</p>
+
+  <p>In Scotland the Pfizer/BioNTech vaccine has been used since the start of the
+  vaccination programme on 8 December 2020. The Oxford/Astrazeneca vaccine has been
+  used from 4 January 2021 and the Moderna vaccine from 7 April 2021. </p>
+
+  <p>Women can receive a first or second dose, or both doses, of COVID-19 vaccination
+  during pregnancy, depending on when they become eligible for vaccination and how
+  this relates to the dates of their pregnancy.</p>
+
+  <p>PHS has generated this information on COVID-19 vaccinations delivered to pregnant
+  women by linking national data on vaccinations to the COVID-19 in Pregnancy in Scotland
+  (COPS) study database of pregnant women in Scotland.</p>
+
+  <p>As part of the COPS study, PHS is regularly linking together a wide range of
+  health records to identify women who are, or recently have been, pregnant.  The
+  specific records used include:</p>
+
+  <ul>
+
+  <li>Records of booking for antenatal care</li>
+
+  <li>GP records relating to miscarriage</li>
+
+  <li>Hospital discharge records relating to miscarriage or delivery of a live or
+  stillborn baby</li>
+
+  <li>Statutory termination of pregnancy notification records</li>
+
+  <li>Statutory live or stillbirth registration records</li>
+
+  <li>NHS live birth notification records.</li>
+
+  </ul>
+
+  <p>Using these records, we have identified all women in Scotland who were pregnant
+  on 1 March 2020 (the start of the COVID-19 pandemic), and all women who have subsequently
+  become pregnant.  </p>
+
+  <p>The study database is refreshed every month with new pregnancies added to the
+  database, and previous records of ongoing pregnancies updated as required, for example
+  if a woman has recently delivered her baby.</p>
+
+  <p>Further details on the COPS study are available on the <a href="https://www.ed.ac.uk/usher/research/projects/covid-19-pregnancy-scotland">Usher
+  Institute webpage</a> and <a href="https://github.com/Public-Health-Scotland/COPS-public">PHS
+  github page</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-positive-cases-in-pregnancy-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccinations-in-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/0a883f85-97bf-474a-8daa-158128f79743/download/cases_week_20211005.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8fca2670-52bb-4ea9-a16d-cb8324a3affb/download/vacc_week_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/b7f26274-113c-47ab-8a14-73763b39a894/download/case_gest_20211005.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/9841abc3-8e29-4cf9-a1a9-81c94c1d5774/download/vacc_gest_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/76c63f4f-769e-4780-963e-6bb179207d4b/download/case_vacc_stat_20211005.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/d8e07786-c596-46ea-b9ad-5ddb012c3692/download/vacc_product_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/78762e59-14b8-42d6-be12-83dc279c675b/download/case_rate_20211005.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/70c434ed-917b-47bb-a40c-7d8236ea688e/download/uptake_age_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/5960ae17-7931-4f6c-a6ba-a9d5c12c18ca/download/case_rate_age_20211005.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8a1ebc79-1338-4149-9d57-0aba2b459ed0/download/uptake_simd_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/72bc7a85-d0aa-4629-b3b5-83dedd3885a8/download/case_rate_simd_20211006.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/4af31ede-1a40-4bbc-b258-c3f0229e7b04/download/coverage_delivery_20210930.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/2dca5eb6-8d9f-4931-b72b-1bdd1366febc/download/case_rate_hb_20211006.csv
+  url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8ca8ddf9-f77f-45e7-acae-bb919a1259f3/download/uptake_hb_20210930.csv
 schema: default
-title: COVID-19 Infections in Pregnancy in Scotland
+title: COVID-19 Vaccinations in Pregnancy in Scotland
 ---

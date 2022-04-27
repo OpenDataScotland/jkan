@@ -1,39 +1,39 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-05-28'
-date_updated: '2021-10-05'
+- Elections / Politics
+- Planning / Zoning
+- Health / Human Services
+date_created: '2020-04-02'
+date_updated: '2022-01-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset provides annual cervical screening statistics in Scotland,
-  including information on uptake by age group and NHS Board. In addition, data are
-  presented on laboratory turnaround times, number of screening tests and results
-  of tests by NHS Board and laboratory.</p>
+notes: '<p>Summary of discharges from hospital and deaths in Scotland resulting from
+  a heart condition (including coronary heart disease, heart attack, heart failure
+  and angina).</p>
 
-  <p>From the financial year 2016/2017, cervical screening is routinely offered to
-  women aged 25-64 in Scotland; those aged 25-49 every three years and those aged
-  50-64 every five years.</p>
-
-  <p>Further information on cervical screening in Scotland can be found in the most
-  recent <a href="https://publichealthscotland.scot/publications/scottish-cervical-screening-programme-statistics/">annual
-  publication</a>. The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://beta.isdscotland.org/topics/heart-disease-and-stroke/">PHS Heart
+  Disease Website</a>. Further information on heart disease can be found in the <a
+  href="https://publichealthscotland.scot/publications/scottish-heart-disease-statistics/">recent
+  annual publication</a>. The date of the next release can be found on our list of
+  <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-cervical-screening-programme-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-heart-disease-statistics
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/7191190e-2ebd-47e4-bbca-a1eb3182408a/download/open-data-cervical-screening-uptake-201617-202021.csv
+  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/748e2065-b447-4b75-99bd-f17f26f3eaef/download/hd_activitybyhbr.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/f79671d8-e271-4e63-9d63-4fed6c63cb50/download/open-data-workload-statistics-201213-202021.csv
+  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/5379a655-d677-46cf-814d-bc0574ac59e4/download/hd_activitybyca.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/86493971-19a8-4c47-876e-cbbe7c978210/download/open-data-cervical-screening-uptake-199798-201516.csv
+  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/dc0512a8-eb49-43b9-84f1-17ef95365d57/download/hd_mortalitybyhbr.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/bfa18049-4397-4169-b84f-0466cd6401f7/download/open-data-workload-statistics-200708-201112.csv
+  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/fc7b42f1-4de6-48dd-b640-613fb0aa427d/download/hd_mortalitybyca.csv
 schema: default
-title: Scottish Cervical Screening Programme Statistics
+title: Scottish Heart Disease Statistics
 ---

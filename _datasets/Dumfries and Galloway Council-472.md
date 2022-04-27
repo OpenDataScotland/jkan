@@ -1,24 +1,21 @@
 ---
 category:
-- Education
-date_created: '2017-11-29T11:05:07.274Z'
-date_updated: '2018-03-01'
+- Transportation
+date_created: '2018-07-25T12:16:30.004Z'
+date_updated: '2018-09-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Primary school class sizes as at September 2016</p>
+notes: <p>Transport Contract List</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/49492547-04d7-4dc8-b962-21c2c389be7a
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/57d4db7f-d91c-4464-92c4-ed12df5db423
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=74a0bbbf-55f8-4ccf-83f9-388b93b219e9
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2a653384-4e4b-439a-a993-c43970cf0225/1/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e42a8889-9106-41ee-9d0c-cb22e81fe69d
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=b3f0b67b-7d62-4f94-a99b-e12105d36483
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=7900d65d-e46c-48c9-a3ff-785b9878c78b
 schema: default
-title: Class Sizes
+title: Transport Contract List
 ---

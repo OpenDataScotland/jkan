@@ -2,35 +2,35 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2021-08-12'
+date_updated: '2021-08-06'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes
-  GCC Service Department HQs/main buildings, Major Glasgow Life Facilities, ALEO HQs
-  etc e.g. Libraries, Sports Centres, Swimming Pools, Museums, etc. Selected Community
-  Facilities - Community Halls, Youth Centres, Neighbourhood Centres - which have
-  Glasgow Life managemanagement committment but which and operated by the Voluntary
-  Sector. Selected Community Facilities - Community Centres, Youth Centres, Recreation
-  Centres - managed and operated by Glasgow Life. </p>
+notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They are
+  issued by the City of Glasgow Licensing Board. This dataset shows the location of
+  current Premises Licences. More information and additional data such as Personal
+  Licence, Occasional Licence, Premises Licence, Transfer of Premises Licence, Variation
+  of Premises Licence (Major &amp; Minor) and Premises Licence Extended Hours can
+  be found on the Glasgow City Council website (https://www.glasgow.gov.uk/index.aspx?articleid=17552).
+  This data is updated weekly.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2
+original_dataset_link: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer/2
+  url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/rest/services/OPEN_DATA/Licensed_Premises/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_2.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Community Managed Facilities
+title: Licensed Premises
 ---
