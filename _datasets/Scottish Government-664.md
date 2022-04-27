@@ -1,15 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2014-07-29'
-date_updated: '2016-03-11'
+- Health / Human Services
+date_created: '2019-09-24'
+date_updated: '2021-10-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number, and WTE, of social work staff by gender</p>
+notes: <p>Indicators of population health and related risk factors from the Scottish
+  Health Survey (2008-2019).</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/social-work-staffing
+original_dataset_link: http://statistics.gov.scot/data/scottish-health-survey-scotland-level-data
 records: null
 resources: []
 schema: default
-title: Social Work Staffing
+title: Scottish Health Survey-Scotland level data
 ---

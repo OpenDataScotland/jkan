@@ -1,59 +1,41 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-05-29'
-date_updated: '2020-08-27'
+- Health / Human Services
+date_created: '2020-09-24'
+date_updated: '2021-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Information on open allied health professional vacancies taken at a census
-  point, for each NHS board, broken down by profession and pay bands.</p>
+notes: '<p>In order to provide an effective, safe and efficient service to patients,
+  hospitals must balance the provision of staffed beds against anticipated demand.
+  Historically, the total number of beds has been reducing in line with evolving models
+  of healthcare provision which aim to reduce the frequency and duration of hospital
+  admissions and improve the integration of health and social care services. This
+  strategy aims to improve outcomes for patients and reduce the likelihood of future
+  hospital admissions.</p>
 
-  <p>A vacancy is a post which has been cleared for advert after being through the
-  redeployment process (internal or external advert) and remains a vacancy until an
-  individual starts in the post. All data is presented as whole time equivalents.</p>
+  <p>Further information on hospital beds can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
+  annual publication</a>. </p>
 
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHSScotland
-  Workforce page</a> of the NES <a href="https://turasdata.nes.nhs.scot/">Turas Data
-  Intelligence website</a>.</p>
+  <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.</p>
 
-  <p>Data visualisation of Allied Health Professions vacancies is available on the
-  <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/publications/02-june-2020/dashboards/allied-health-professions/">Allied
-  Health Professions dashboard</a>. </p>
-
-  <p><em>Please note this dataset is no longer updated with new data releases from
-  1st April 2020 onwards. The newest data is now made available on the <a href="https://turasdata.nes.nhs.scot/">NES
-  Turas Data Intelligence website</a>, along with all publications and supporting
-  material related to <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHS
-  Scotland Workforce</a>.</em></p>'
+  <p><strong>As part of making our open data output align better with our annual publication
+  tables, we have applied column ordering to the Inpatient, Outpatient and Beds files
+  in the September 2021 annual open data release consistent with the publication excel
+  tables.</strong></p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/allied-health-professional-vacancies
+original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-hospital-beds-information
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/a2638e43-e928-4781-9065-55a56417ab8c/download/ahp_vacancy_dec19.csv
+  url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/5d55964b-8e45-4c49-bfdd-9ea3e1fb962d/download/beds_by_nhs_board-of-treatment_specialty.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/bf3fb085-3406-4110-a232-29ee76aac6cf/download/ahp_vacancy_sep19.csv
+  url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/d719af13-5fb3-430f-810e-ab3360961107/download/beds_by_location_of-treatment_specialty.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/6ae073da-60ff-4fb5-af46-41d08d407d0e/download/ahp_vacancy_jun19.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/3021ad0c-3fd7-4b0a-bad0-373b8de5c7e9/download/ahp_vacancy_mar19.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/a21aad8d-bbf9-43ad-adec-6fe615484dbf/download/ahp_vacancy_dec18.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/f31d8ca1-c815-482b-8541-ac185c97a1ad/download/ahp_vacancy_sep18rev.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/faf91998-4229-4617-8f65-62c6a1e8b9a9/download/ahp_vacancy_jun18rev.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/53a23519-59b6-4fde-b9aa-631ecc3dc279/download/allied-health-professional-vacancy_mar18.csv
+  url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2021-locations-lookup.csv
 schema: default
-title: Allied Health Professional Vacancies
+title: Annual Hospital Beds Information
 ---

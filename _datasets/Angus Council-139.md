@@ -1,26 +1,19 @@
 ---
 category:
-- Uncategorised
-date_created: '2016-11-28'
-date_updated: '2016-11-30'
+- Elections / Politics
+date_created: '2016-11-01'
+date_updated: '2016-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Community Councils within Angus. A Community Council is a voluntary organisation
-  set up by statute by the Local Authority and run by local residents to act on behalf
-  of its area.</p>
+notes: <p>Angus Council publishes all contract notices on the Public Contracts Scotland
+  website.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-community-council-boundaries
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-contract-award-notices-on-public-contracts-scotland
 records: null
 resources:
-- format: WMS
-  name: WMS
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:chx_commcouncils/wms?service=WMS&request=GetMap
-- format: KML
-  name: KML
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:chx_commcouncils&mode=download
-- format: GEOJSON
-  name: GEOJSON
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:chx_commcouncils&outputFormat=application%2Fjson&srsName=EPSG:3857
+- format: HTML
+  name: HTML
+  url: http://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00236
 schema: default
-title: Angus Council Community Council Boundaries
+title: Angus Council Contract Award Notices on Public Contracts Scotland
 ---

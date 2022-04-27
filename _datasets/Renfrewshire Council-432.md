@@ -1,22 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-04-18'
-date_updated: '2019-04-18'
+date_created: '2018-08-17'
+date_updated: '2019-04-17'
 license: No licence
 maintainer: Renfrewshire Council
-notes: "<p>Babies' first forenames by Council area, 2018 based on the records for\
-  \ all the births which were registered in that year -\_filtered for Renfrewshire.\_\
-  Notes -\_a)\_each list covers first forenames given to 3+ babies of that sex in\
-  \ the specified council area (so OMITS first forenames given to only 1-2 babies\
-  \ of that sex).b)\_the geographical basis is the usual one for National Records\
-  \ of Scotland (NRS) statistics of births, which is births registered in Scotland\
-  \ to mothers who lived in the specified council area plus any births to mothers\
-  \ from outwith Scotland which occurred in the specified council area.</p>"
+notes: "<p>A dataset showing the fixtures and results of football\_games played by\
+  \ St Mirren football\_teams. For further information please visit\_https://www.stmirren.com/news/matchday/first-team-fixtures</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=a6603c44e7d44c1fbc124068c8c53426
-records: 90
+original_dataset_link: https://www.arcgis.com/home/item.html?id=ed2e302a57a34868ad0bd311fd888d0f
+records: 38
 resources: []
 schema: default
-title: Baby First Names 2018 (boys)
+title: St Mirren Fixtures 2018/19
 ---

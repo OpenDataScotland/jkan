@@ -1,36 +1,33 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
 date_created: ''
-date_updated: '2021-08-12'
+date_updated: '2021-06-29'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes
-  GCC Service Department HQs/main buildings, Major Glasgow Life Facilities, ALEO HQs
-  etc e.g. Libraries, Sports Centres, Swimming Pools, Museums, etc. Selected Community
-  Facilities - Community Halls, Youth Centres, Neighbourhood Centres - which have
-  Glasgow Life managemanagement committment but which and operated by the Voluntary
-  Sector. Selected Community Facilities - Community Centres, Youth Centres, Recreation
-  Centres - managed and operated by Glasgow Life. </p>
+notes: <p>Glasgow City Council's Integrated Grant Fund (IGF) provides grant funding
+  to organisations to deliver high quality and much needed services to the citizens
+  of Glasgow. This provides a list of Grant awards made covering the period 2018/2019
+  and 2019/2020.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/374bc8d7525145dbb14da0a264d24834_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer/0
+  url: https://utility.arcgis.com/usrsvcs/servers/374bc8d7525145dbb14da0a264d24834/rest/services/OPEN_DATA/Integrated_Grant_Fund/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/374bc8d7525145dbb14da0a264d24834_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/374bc8d7525145dbb14da0a264d24834_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/374bc8d7525145dbb14da0a264d24834_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/ea63fcac577e4cefb6e632cd8d84365b_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/374bc8d7525145dbb14da0a264d24834_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Council Buildings
+title: Integrated Grant Fund
 ---

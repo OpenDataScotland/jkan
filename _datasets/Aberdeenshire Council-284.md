@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Transportation
 date_created: ''
-date_updated: '2019-02-13'
+date_updated: '2018-11-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/recycling_points.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
 schema: default
-title: Glass and textiles recycling points
+title: Grit bin locations
 ---

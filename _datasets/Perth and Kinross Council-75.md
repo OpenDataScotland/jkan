@@ -1,19 +1,19 @@
 ---
 category:
-- Public Safety
-date_created: '2017-11-02'
+- Uncategorised
+date_created: '2018-06-14'
 date_updated: '2020-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>By 2011 Intermediate Zones, sorted by accidental and non-accidental fires.
-  Derived from statistics.gov.scot under the Open Government Licence v3.0</p>
+notes: <p>A list of the fleet vehicles and mechanical equipment controlled by the
+  fleet management team</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/fire-incidents
+original_dataset_link: https://data.pkc.gov.uk/dataset/fleetinventory
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/c2c06f56-668f-4b26-b49d-8370f0a16d85/resource/4c5e3768-380e-4673-a4d3-7a0a2330dc41/download/f71b5650-b357-4b49-b21e-44198834574d.csv
+  url: https://data.pkc.gov.uk/dataset/6eea3afa-d54c-48ba-993d-b4a6a988c549/resource/0931bcf2-4ef0-42ec-94d0-52f95e8eec54/download/fleetinventoryopendata.csv
 schema: default
-title: Fire incidents
+title: Perth and Kinross Council Fleet Inventory
 ---

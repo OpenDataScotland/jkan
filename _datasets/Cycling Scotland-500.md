@@ -1,21 +1,19 @@
 ---
 category:
 - Transportation
-date_created: '2018-05-11T13:55:31.912Z'
-date_updated: '2019-12-20'
+date_created: '2021-09-25T13:04:24.130Z'
+date_updated: '2021-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>Data from the Scottish Household Survey (2007 - 2018) related to people's
-  participation in physical activity and sport in the 4 weeks prior to the question
-  being asked.</p>
+notes: <p>A real-time hourly upload from each cycling counter within North Ayrshire
+  Council's network.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/9bb661cb-1dea-4856-b6c2-6aac6508da03
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ce2214d2-242e-4d0b-a25d-3a7e283c9959
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e2e82854-062a-4bdd-a5d8-b0b09a9d3268
+- format: JSON
+  name: JSON
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4b0fff26-d98d-4403-a57e-c8a863da9ba4/1/urql
 schema: default
-title: Participation in physical activity and sport in the last four weeks - Scottish
-  Household Survey
+title: North Ayrshire Council  - Hourly cycling counts from automatic cycling counters
 ---

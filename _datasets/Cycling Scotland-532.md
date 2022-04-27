@@ -1,21 +1,19 @@
 ---
 category:
 - Transportation
-date_created: '2020-06-22T08:39:30.001Z'
-date_updated: '2020-06-22'
+date_created: '2021-09-25T13:18:13.257Z'
+date_updated: '2021-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>All figures, unless otherwise stated, are from YouGov Plc.  Total sample
-  size was 2035 adults. Fieldwork was undertaken between 14th - 22nd May 2020.  The
-  survey was carried out online. The figures have been weighted and are representative
-  of all Scotland adults (aged 18+).</p>
+notes: <p>A real-time daily upload from each cycling counter within The Highland Council's
+  network.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bdd7303d-650f-499e-92ff-c3fd4e70dc1d
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/da632de6-499b-427d-a15d-94c75d381249
 records: null
 resources:
-- format: VND.OPENXMLFORMATS-OFFICEDOCUMENT.SPREADSHEETML.SHEET
-  name: VND.OPENXMLFORMATS-OFFICEDOCUMENT.SPREADSHEETML.SHEET
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e94ed0c1-f963-4e21-afc4-75ac1badb18b
+- format: JSON
+  name: JSON
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c762c71a-7366-44ba-8828-90f473295f44/1/urql
 schema: default
-title: YouGov survey - Coronavirus and cycling - Cycling Scotland
+title: The Highland Council - Daily cycling counts from automatic cycling counters
 ---

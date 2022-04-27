@@ -1,58 +1,55 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-04-01'
+- Elections / Politics
+- Economy
+- Health / Human Services
+- Planning / Zoning
+date_created: '2020-11-06'
 date_updated: '2021-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p>Data reflecting the time a patient waits between being referred for drug\
-  \ and/or alcohol treatment and recieving their first treatment appointment. The\
-  \ Scottish Government set a standard that 90% of people referred for help with their\
-  \ drug or alcohol problem will wait no longer than three weeks for treatment that\
-  \ supports their recovery.</p>\n<p>All publications and supporting material to this\
-  \ topic area can be found on the <a href=\"https://beta.isdscotland.org/find-publications-and-data/lifestyle-and-behaviours/substance-use/\"\
-  >PHS Data and Intelligence - Substance Use</a> page. The date of the next release\
-  \ can be found on our list of <a href=\"https://publichealthscotland.scot/publications/forthcoming-publications/\"\
-  >forthcoming publications</a>.</p>\n<p>On 1st December 2020 NHS Ayrshire &amp; Arran,\
-  \ NHS Dumfries &amp; Galloway, NHS Grampian, and NHS Western Isles began using the\
-  \ Drug and Alcohol Information System (DAISy), a new national database for Scotland.\
-  \ It is expected that the remaining NHS Boards will transfer to DAISy in April 2021.\
-  \ DAISy holds data in relation to drug and alcohol treatments and waiting times\
-  \ from services throughout Scotland delivering tier 3 and 4 interventions. DAISy\
-  \ replaces the previous systems:</p>\n<p>\u2022   Drug &amp; Alcohol Treatment Waiting\
-  \ Times (DATWT)</p>\n<p>\u2022   Scottish Drug Misuse Database (SDMD)</p>\n<p>In\
-  \ order to allow sufficient time for quality assurance work to be undertaken, data\
-  \ for referrals received during December 2020 for the above 4 NHS Boards has not\
-  \ been included in this data. Information for October to December will be revised\
-  \ in the next publication which is due to be published in June 2021.</p>"
+notes: '<p>The 13-15 month review is an assessment generally carried out by a health
+  visitor. This review was introduced in April 2017 and should be offered to all children.
+  A wide range of information is collected including developmental domains such as
+  speech, language and communication, hearing, vision, personal/ social, behavioural/emotional,
+  fine motor and gross motor. </p>
+
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://publichealthscotland.scot/publications/early-child-development/">Public
+  Health Scotland website</a>. The date of the next release can be found on our list
+  of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/drug-and-alcohol-treatment-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/early-child-development-13-15-month-review-statistics
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/c21dc4c0-71e6-4f5d-a5fb-00c4b2c8722b/download/all-quarters-completed-adp.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/1a96a615-ee1f-4841-a96a-31b86e9aeb2d/download/open13mlatotals.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/00c5bfc4-d7b4-4a08-b119-c38825406d2e/download/all-quarters-completed-hb.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/e73c1eb3-f529-42c1-b26a-6a503d8b1ba8/download/open13mlaage.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/691d7aea-86ea-40ea-8d8e-5afe6bbed25c/download/all-quarters-ongoing-adp.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/983decbc-4a4a-416b-9f44-e89e738bca3c/download/open13mlasex.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/ca67ac5b-085c-412c-947d-2a1fa2ec646b/download/all-quarters-ongoing-hb.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/1a7a5981-bbaa-46db-912b-a047637776c5/download/open13mlasimd.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/5b80bbc8-7d4e-4b3b-b5b2-ec0b70bba1b0/download/all-quarters-completed-prisons.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/6d43565f-f234-478c-be7d-f31316b89bf2/download/open13mscotlandsimd.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/a5595172-90d7-4c3b-934f-b5dd0effd38d/download/all-quarters-ongoing-prisons.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/dc6acfbe-0eff-4207-8cd6-f0f6960e4325/download/open13mscbimulti.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/95fb3211-3bdb-4595-ab25-257dc04add7d/download/all-quarters-ongoing-prisons.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/7e474506-07f6-416e-9b8f-57d9e257aacf/download/open13mscenglish.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/b81adba8-cc76-4445-b9b6-0fcdd503f6ef/download/all-quarters-completed-prisons.csv
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/5f844d43-9be1-45f4-b930-a0ab1947c8fd/download/open13mscethnicity.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/fbbccd2d-15ec-4b3a-a960-0704b5f3995c/download/open13msclac.csv
 schema: default
-title: Drug and Alcohol Treatment Waiting Times
+title: Early Child Development - 13-15 month review statistics
 ---

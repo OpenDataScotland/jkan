@@ -1,20 +1,20 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-01-31'
-date_updated: '2022-02-10'
+- Arts / Culture / History
+- Planning / Zoning
+date_created: '2022-03-18'
+date_updated: '2022-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>The percentage of complaints recorded by the Council in each six month period
-  in each of the categories included in the model Complaint Handling Procedure in
-  Local Authorities.</p>
+notes: <p>An Area of Special Control where advertisments are prohibited by a regulation
+  made under s182 of Town and Country Planning (Scotland) Act 1997 </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/bi-annual-complaints-by-category
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/area-of-special-control
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/41e1205d-ab77-49cb-ae49-941a2e964269/resource/4608b93b-bb4f-400d-a11c-5f1e7a92bc4c/download/complaints-by-nature-data-series.csv
+- format: WFS
+  name: WFS
+  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Area_of_Special_Control/WFSServer?service=wfs&request=getcapabilities
 schema: default
-title: Bi-annual complaints by category
+title: Area of Special Control
 ---

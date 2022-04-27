@@ -1,19 +1,25 @@
 ---
 category:
-- Uncategorised
-date_created: '2016-11-01'
-date_updated: '2016-11-23'
+- Planning / Zoning
+- Environment
+date_created: '2016-11-28'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Angus Council publishes all contract notices on the Public Contracts Scotland
-  website.</p>
+notes: <p>Development control boundaries in Angus</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-contract-award-notices-on-public-contracts-scotland
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-development-control-areas
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: http://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00236
+- format: WMS
+  name: WMS
+  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_ldp14_development_boundary/wms?service=WMS&request=GetMap
+- format: KML
+  name: KML
+  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_ldp14_development_boundary&mode=download
+- format: GEOJSON
+  name: GEOJSON
+  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ldp14_development_boundary&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Contract Award Notices on Public Contracts Scotland
+title: Angus Council Development Control Areas
 ---

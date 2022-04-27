@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2018-02-15'
+date_updated: '2018-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_cycle_routes.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_LDP17_greenbelt.kmz
 schema: default
-title: Cycle routes across Aberdeenshire
+title: Green belt areas within Aberdeenshire
 ---

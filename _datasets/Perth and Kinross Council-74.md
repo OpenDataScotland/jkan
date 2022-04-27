@@ -1,26 +1,19 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-09-15'
-date_updated: '2021-12-15'
+- Public Safety
+date_created: '2017-11-02'
+date_updated: '2020-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>Datasets for Perth &amp; Kinross Council's EV charging stations under the
-  ChargePlace Scotland scheme. Includes anonymous data from each individual charging
-  session.</p>
+notes: <p>By 2011 Intermediate Zones, sorted by accidental and non-accidental fires.
+  Derived from statistics.gov.scot under the Open Government Licence v3.0</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/ev-charging-data
+original_dataset_link: https://data.pkc.gov.uk/dataset/fire-incidents
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/d0bc0302-90e5-4f8c-bc2e-b54e648b88b6/download/electricvehiclechargecorrected.csv
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/f5f95c50-2ca1-436d-bd6e-1c5f8317ac9b/download/sept17toaug18standardisedcorrected.csv
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/845fe22f-19f4-499b-b8bc-8812a763e660/download/sept18toaug19standardisedcorrected.csv
+  url: https://data.pkc.gov.uk/dataset/c2c06f56-668f-4b26-b49d-8370f0a16d85/resource/4c5e3768-380e-4673-a4d3-7a0a2330dc41/download/f71b5650-b357-4b49-b21e-44198834574d.csv
 schema: default
-title: Electric Vehicle Charging Station Usage
+title: Fire incidents
 ---

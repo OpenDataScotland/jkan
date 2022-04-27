@@ -1,15 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-01-09'
-date_updated: '2018-05-09'
+- Elections / Politics
+date_created: '2017-10-19'
+date_updated: '2017-10-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: <p>Scottish Council Elections 4 May 2017 results and turnout</p>
+notes: "<p>A layer showing the location of polling\_stations in Renfrewshire in June\
+  \ 2017.</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=bc963f15662f477091cb291c7b5186e1
-records: 13
+original_dataset_link: https://www.arcgis.com/home/item.html?id=000b32d31a22485d9107a1666577372b
+records: 174
 resources: []
 schema: default
-title: Scottish Council Elections May 2017
+title: Situation of Polling Stations
 ---

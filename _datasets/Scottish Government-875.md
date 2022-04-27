@@ -1,16 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2021-05-13'
-date_updated: '2021-05-13'
+date_created: '2021-05-12'
+date_updated: '2021-05-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Official Statistics of the number and proportions of single adults in poverty.
-  Various poverty measures and breakdowns are available.</p>
+notes: <p>Official Statistics of the number and proportions of pensionable age adults
+  in poverty. Various poverty measures and breakdowns are available.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/poverty-single-adults
+original_dataset_link: http://statistics.gov.scot/data/poverty-pensionable-age-adults
 records: null
 resources: []
 schema: default
-title: Poverty (single adults)
+title: Poverty (pensionable age adults)
 ---

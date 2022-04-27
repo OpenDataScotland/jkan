@@ -1,19 +1,19 @@
 ---
 category:
 - Transportation
-date_created: '2021-03-17T17:44:41.886Z'
-date_updated: '2022-02-17'
+date_created: '2021-09-04T14:18:51.125Z'
+date_updated: '2021-09-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>A real-time hourly upload from each cycling counter within Glasgow City
-  Council's network.</p>
+notes: <p>A real-time hourly upload from each cycling counter within Stirling Council's
+  network.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/01c6a04a-1b6f-4121-9b8a-d081c7e6ea28
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/87c7e354-a619-443c-bc84-fc69967079eb
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9697fc32-5f26-466a-b6b8-f9e15e6a0c3c/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f37ce11c-745a-4fae-8b3c-47eaa2905900/1/urql
 schema: default
-title: Glasgow City Council - Hourly cycling counts from automatic cycling counters
+title: Perth & Kinross - Hourly cycling counts from automatic cycling counters
 ---

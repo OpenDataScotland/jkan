@@ -1,8 +1,9 @@
 ---
 category:
-- Transportation
+- Planning / Zoning
+- Environment
 date_created: ''
-date_updated: '2021-05-27'
+date_updated: '2021-05-25'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
@@ -10,28 +11,28 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
-  text-decoration-color:initial; display:inline !important;'>This dataset shows priority
-  1 road gritting routes, priority 1 pavement gritting routes and local priority pavement
-  gritting routes.</span></p>
+  text-decoration-color:initial; display:inline !important;'>Boundaries of all designated
+  Green Belts in and around the City of Edinburgh. These boundaries come from the
+  Edinburgh Local Development Plan.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/ff0c918558bc435e9bb9fc313930a230_9
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/35b3bd6322d5438db142438d64e283e5_32
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/9
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/32
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/ff0c918558bc435e9bb9fc313930a230_9.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/35b3bd6322d5438db142438d64e283e5_32.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/ff0c918558bc435e9bb9fc313930a230_9.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/35b3bd6322d5438db142438d64e283e5_32.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/ff0c918558bc435e9bb9fc313930a230_9.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/35b3bd6322d5438db142438d64e283e5_32.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/ff0c918558bc435e9bb9fc313930a230_9.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/35b3bd6322d5438db142438d64e283e5_32.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Gritting Routes
+title: Green Belt
 ---

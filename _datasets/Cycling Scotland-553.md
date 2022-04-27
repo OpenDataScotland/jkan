@@ -1,19 +1,23 @@
 ---
 category:
 - Transportation
-date_created: '2021-07-29T17:25:22.766Z'
-date_updated: '2021-08-13'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Education
+date_created: '2019-10-21T10:38:12.077Z'
+date_updated: '2019-10-30'
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
-notes: <p>A real-time daily upload from each cycling counter within John Muir Way's
-  cycle network.</p>
+notes: <p>This data highlights all secondary schools across Scotland that have received
+  a Cycling Scotland Development Fund</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/80b5351e-5280-426d-a8ae-5af79ad2afbb
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/31b68937-3327-4468-bca1-546d5d25de11
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4709d578-f2b6-4584-b8e2-4512c5936f65/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3ad3768f-134c-4e77-a50f-cd22b39e2ee6/2/urql
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1662f845-427f-4b6e-b59f-d6eb353c742b
 schema: default
-title: John Muir Way - Daily cycling counts from automatic cycling counters
+title: Cycling Friendly - Secondary School Development Fund - Cycling Scotland
 ---

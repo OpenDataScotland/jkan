@@ -1,41 +1,39 @@
 ---
 category:
-- Transportation
-- Environment
+- Economy
+- Education
 date_created: ''
-date_updated: '2021-12-17'
+date_updated: '2021-12-07'
 license: No licence
 maintainer: Glasgow City Council
-notes: '<p style=''margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir
-  Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica
-  Neue&quot;, sans-serif; font-size:16px;''><span style=''max-width:100%; display:inherit;''>This
-  dataset captures detailed statistics about road accidents in Glasgow from 2014 to
-  2020. The data relate to type of accident, casualties and the vehicles involved.
-  The statistics relate only to personal injury accidents on public roads that are
-  reported to the police, and subsequently recorded, using the STATS19 accident reporting
-  form. Data are released via the UK Department for Transport and can be found at
-  the UK Government Data portal data.gov.uk.</span></p>
-
-  <div><br /></div>'
+notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
+  \ a wide variety of information on pupils in all publicly funded schools in Scotland.\
+  \ These files provide information at the level of individual schools separated into\
+  \ primary, secondary and additional support for learning (ASL) provision.Each file\
+  \ contains information on: school roll;proportion of pupils living in the 20% most\
+  \ deprived areas in Scotland (using the SIMD 2020 ver 2);ethnicity;the proportion\
+  \ of pupils for whom English is an additional language.The Pupil in Scotland census\
+  \ data is obtained from schools management information systems and is validated\
+  \ by ScotXed.</p>"
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/caaece2dbbbc43428083810d46e68bcb_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/8b5f8ff4af97441f8f53625d58de1de4_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/caaece2dbbbc43428083810d46e68bcb/rest/services/OPEN_DATA/Road_Safety_Accidents/MapServer/0
+  url: https://utility.arcgis.com/usrsvcs/servers/8b5f8ff4af97441f8f53625d58de1de4/rest/services/OPEN_DATA/School_Census_Primary_2020/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/caaece2dbbbc43428083810d46e68bcb_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/8b5f8ff4af97441f8f53625d58de1de4_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/caaece2dbbbc43428083810d46e68bcb_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/8b5f8ff4af97441f8f53625d58de1de4_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/caaece2dbbbc43428083810d46e68bcb_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/8b5f8ff4af97441f8f53625d58de1de4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/caaece2dbbbc43428083810d46e68bcb_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/8b5f8ff4af97441f8f53625d58de1de4_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Road Safety Accidents
+title: School Census Primary 2020
 ---

@@ -1,18 +1,17 @@
 ---
 category:
 - Economy
-date_created: '2019-08-21'
-date_updated: '2021-11-02'
+date_created: '2019-10-09'
+date_updated: '2020-03-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: '<p>Expenditure for Best Start Grant (BSG) Pregnancy and Baby Payment, Early
-  Learning Payment, School Age Payment and Best Start Foods Payment</p>
-
-  <p>Contact email- MI@socialsecurity.gov.scot</p>'
+notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August
+  2016. This dataset contains the indicators that were used to calculate the education
+  domain of SIMD.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/best-start-grant-expenditure
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---education-indicators
 records: null
 resources: []
 schema: default
-title: 'Best Start Grant and Best Start Foods: Expenditure'
+title: Scottish Index of Multiple Deprivation - Education Indicators
 ---

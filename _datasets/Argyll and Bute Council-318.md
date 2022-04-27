@@ -1,19 +1,15 @@
 ---
 category:
 - Planning / Zoning
-- Environment
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: "<p>Areas of Panoramic Quality designated in the Argyll and Bute adopted Local\
-  \ Development Plan 2015. These are areas of regional importance in terms of their\
-  \ landscape quality which were previously identified as \u2018Regional Scenic Areas\u2019\
-  \ in the former Strathclyde Structure Plan</p>"
+notes: <p>Strategic Masterplan Area in the 2015 Local Development Plan</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=1092d04288f3497bbe84eefb62dbb923
-records: 18
+original_dataset_link: https://www.arcgis.com/home/item.html?id=fc2283b70f5f46eb8662698917abc2a5
+records: 12
 resources: []
 schema: default
-title: Open Data - Areas of Panoramic Quality
+title: Open Data - Strategic Masterplan Area
 ---

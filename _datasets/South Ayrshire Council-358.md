@@ -1,15 +1,15 @@
 ---
 category:
-- Environment
-date_created: '2015-10-30'
-date_updated: '2019-09-13'
+- Planning / Zoning
+date_created: '2021-10-18'
+date_updated: '2021-10-18'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Extent of Country Parks in area</p>
+notes: ''
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=1416a0c5fb0d402e804c54935befd32e
-records: 43
+original_dataset_link: https://www.arcgis.com/home/item.html?id=b12aeb6748a74b239bf87caf88de41b0
+records: 34
 resources: []
 schema: default
-title: Country Parks
+title: LDP2 Town Centre Policies
 ---

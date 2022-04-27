@@ -1,29 +1,39 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-05-29'
-date_updated: '2022-02-08'
+- Health / Human Services
+date_created: '2020-02-11'
+date_updated: '2021-09-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Estimates of completeness of outpatient, acute, maternity, mental health
-  and geriatric long stay SMR records received from boards and Health Care providers
-  in recent years.</p>
+notes: '<p>These files present information on probable suicides registered in Scotland,
+  including their degree of contact with healthcare services. The period covered is
+  calendar years 2011-19. </p>
 
-  <p>More to this topic are can be found on the <a href="https://www.isdscotland.org/products-and-Services/Data-Support-and-Monitoring/SMR-Completeness/">ISD
-  Scotland website</a>.</p>'
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/mental-health/">PHS
+  Scotland - Mental Health Website</a>. The date of the next release can be found
+  on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-morbidity-record-completeness
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-suicide-information-database-contact-with-unscheduled-care-services-prior-to-death
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/03cf3cb7-41cc-4984-bff6-bbccd5957679/download/quarters.csv
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/63978d6f-00ba-4355-bbab-28a03074996b/download/scotsid-age-sex.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/daf55fd2-457f-4845-9af1-5d154cc0b19c/download/financialyr.csv
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/e926b17e-91f5-4faf-be83-9a5ed6f4dddf/download/scotsid-hb.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/96cf4b14-68fe-4dd9-a64c-57db91dbf103/download/calendaryr.csv
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/d1c07107-0818-43e0-818b-85dcdffad615/download/scotsid-la.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/0d115149-191a-4f1a-a12a-04ccdea63c77/download/scotsid-deprivation.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/b87e08ab-da6f-4f6b-80fd-7bf3a4a84d99/download/scotsid-ucd-frequency-of-contact.csv
 schema: default
-title: Scottish Morbidity Record Completeness
+title: Scottish Suicide Information Database - Contact with Healthcare Services prior
+  to death
 ---

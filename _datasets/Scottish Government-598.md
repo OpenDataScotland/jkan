@@ -2,14 +2,14 @@
 category:
 - Uncategorised
 date_created: '2014-07-29'
-date_updated: '2020-03-25'
+date_updated: '2019-08-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number and rate per 1,000 population of home care clients by age and gender.</p>
+notes: <p>Information about the number of looked after children by type of care setting.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/home-care-clients
+original_dataset_link: http://statistics.gov.scot/data/looked-after-children
 records: null
 resources: []
 schema: default
-title: Home Care Clients
+title: Looked After Children
 ---

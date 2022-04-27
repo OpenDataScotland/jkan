@@ -1,32 +1,19 @@
 ---
 category:
-- Education
+- Uncategorised
 date_created: ''
-date_updated: '2021-07-16'
+date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Data presented here is an extract of data published by the Scottish Government
-  regarding historical school rolls graduated to individual school level. Includes
-  data on all schools in Glasgow.</p>
+notes: <div><div style='box-sizing:border-box;'><div><p>Returns details for nextbike
+  hire station locations across Glasgow.</p></div></div></div>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/8598a615cc674b6aa652a54fbf0c71da_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/1af02420dc114dc997fe7b1da56355fb
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/8598a615cc674b6aa652a54fbf0c71da/rest/services/OPEN_DATA/School_Roll/MapServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/8598a615cc674b6aa652a54fbf0c71da_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
-  url: https://data.glasgow.gov.uk/datasets/8598a615cc674b6aa652a54fbf0c71da_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://data.glasgow.gov.uk/datasets/8598a615cc674b6aa652a54fbf0c71da_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/8598a615cc674b6aa652a54fbf0c71da_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gcc.developer.azure-api.net/api-details#api=mobility&operation=sites
 schema: default
-title: School Roll
+title: Cycling hire sites API
 ---

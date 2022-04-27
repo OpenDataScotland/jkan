@@ -5,12 +5,11 @@ date_created: '2018-04-24'
 date_updated: '2021-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The average total tariff score, and percentage of school leavers by Scottish
-  Index of Multiple Deprivation (SIMD) Quintile                  </p>
+notes: <p>The number of school leavers for each establishment, by year</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/attainment-by-deprivation-quintile
+original_dataset_link: http://statistics.gov.scot/data/leaver-count
 records: null
 resources: []
 schema: default
-title: Schools - Attainment by Deprivation
+title: Schools - Leaver Count
 ---

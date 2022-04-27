@@ -1,21 +1,21 @@
 ---
 category:
-- Education
-date_created: '2017-11-15T10:44:08.462Z'
-date_updated: '2017-11-16'
+- Uncategorised
+date_created: '2018-02-21T11:08:06.136Z'
+date_updated: '2019-01-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Percentage of Absences by Authorised, Unauthorised and Exclusions</p>
+notes: <p>Historical School Rolls in Dumfries and Galloway</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/c593551e-56da-46e8-8b8f-7d81e5343964
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/e48094b9-b9d6-4f50-8b19-8825f881ddff
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=3dcfc9aa-b1eb-41f7-8385-1ccfa420e303
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/343e83eb-7841-4eb5-a73a-61047ee6d823/1/urql
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/091b7162-6da4-4cc2-a0b8-4936cddbd4eb/1/urql
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=41f05d21-058e-4475-b406-e5a6b61edbca
 schema: default
-title: School Absence
+title: School Rolls
 ---

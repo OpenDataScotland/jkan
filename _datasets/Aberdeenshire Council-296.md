@@ -1,9 +1,9 @@
 ---
 category:
-- Arts / Culture / History
+- Elections / Politics
 date_created: ''
-date_updated: '2018-07-10'
-license: No licence
+date_updated: '2021-01-04'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/museums.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_polling_districts.kmz
 schema: default
-title: Museums
+title: Polling district boundaries within Aberdeenshire
 ---

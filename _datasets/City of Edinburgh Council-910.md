@@ -1,6 +1,7 @@
 ---
 category:
-- Transportation
+- Arts / Culture / History
+- Planning / Zoning
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence
@@ -10,28 +11,28 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
-  text-decoration-color:initial; display:inline !important;'>Polygons of all the parking
-  bays within the City Of Edinburgh Council administrative area backed by a Traffic
-  Regulation Order (TRO).</span></p>
+  text-decoration-color:initial; display:inline !important;'>Conservation areas have
+  special architectural or historic interest. There are 49 in Edinburgh. The Council
+  must protect these areas, and there are extra rules to control building work.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/b72828db4b1945e4adfab6ba9883147b_11
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/aa2f467386a443f884230f56579ea627_17
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/11
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/17
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/b72828db4b1945e4adfab6ba9883147b_11.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/aa2f467386a443f884230f56579ea627_17.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/b72828db4b1945e4adfab6ba9883147b_11.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/aa2f467386a443f884230f56579ea627_17.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/b72828db4b1945e4adfab6ba9883147b_11.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/aa2f467386a443f884230f56579ea627_17.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/b72828db4b1945e4adfab6ba9883147b_11.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/aa2f467386a443f884230f56579ea627_17.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Parking Bays
+title: Conservation Areas
 ---

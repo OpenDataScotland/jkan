@@ -1,17 +1,15 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2018-03-29'
+date_created: '2020-07-23'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Moray Onshore Wind Energy 2017 Potential Development Areas for Extension
-  and Repowering (Moray)</p>
+notes: <p>Local Development Plan 2020 Mineral Sites (Moray)</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=5c376e304a4a4be2aa7a4d12f922ab9f
-records: 5
+original_dataset_link: https://www.arcgis.com/home/item.html?id=ddbc67e3368447b28218fc71fe53fd73
+records: 20
 resources: []
 schema: default
-title: Moray Onshore Wind Energy 2017 Potential Development Areas for Extension and
-  Repowering (Moray)
+title: Local Development Plan 2020 Mineral Sites (Moray)
 ---

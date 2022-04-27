@@ -2,31 +2,33 @@
 category:
 - Planning / Zoning
 date_created: ''
-date_updated: '2021-09-28'
+date_updated: '2021-11-24'
 license: No licence
 maintainer: City of Edinburgh Council
-notes: <p><font face='Avenir Next, Avenir Next'><span style='font-size:18px; background-color:rgb(248,
-  248, 248);'>The shops database is a record of a comprehensive survey of all shops
-  in Edinburgh to provide a long-term perspective on retail change in the city.</span></font></p>
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>Housing Land Audit Sites. Annual assessment of the housing land
+  supply. Spatial and non-spatial data derived from planning applications. This is
+  the 2021 Housing Land Audit Schedule data.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/0d85c1d2dda442439bd4d68768ab1f5c_43
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/43
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/13
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/0d85c1d2dda442439bd4d68768ab1f5c_43.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/0d85c1d2dda442439bd4d68768ab1f5c_43.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/0d85c1d2dda442439bd4d68768ab1f5c_43.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/0d85c1d2dda442439bd4d68768ab1f5c_43.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Shop Survey 2015
+title: Housing Land Audit schedule
 ---

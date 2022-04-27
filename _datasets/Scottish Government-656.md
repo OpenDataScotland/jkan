@@ -1,15 +1,15 @@
 ---
 category:
-- Uncategorised
+- Economy
 date_created: '2014-07-29'
-date_updated: '2021-10-12'
+date_updated: '2016-02-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of probation orders commenced by length.</p>
+notes: <p>Number of working age claimants of key benefits by age</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/probation-orders-by-length
+original_dataset_link: http://statistics.gov.scot/data/working-age-claimants-of-benefits-key
 records: null
 resources: []
 schema: default
-title: Probation Orders By Length
+title: Working Age Claimants Of Key Benefits
 ---

@@ -1,19 +1,34 @@
 ---
 category:
 - Uncategorised
-date_created: '2018-10-23'
-date_updated: '2020-07-13'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2021-09-30'
+date_updated: '2021-09-30'
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>A summary of the number and type of inquiries received by Perth and Kinross
-  Council from January to June 2018</p>
+notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Defibrillators
+  in PKC</span></p></div>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/customer-service-enquiries-january-to-june-2018
+original_dataset_link: https://data.pkc.gov.uk/dataset/defibrillators
 records: null
 resources:
+- format: HTML
+  name: HTML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/693571a48faf4520a0a210398e5385b3_0
+- format: ARCGIS GEOSERVICES REST API
+  name: ARCGIS GEOSERVICES REST API
+  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Defibrillators/FeatureServer/0
+- format: GEOJSON
+  name: GEOJSON
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/693571a48faf4520a0a210398e5385b3_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/5508ccaa-70f6-4c40-b73f-f2a5bf84fbb4/resource/4b69835d-486e-4276-92f5-2d31f6cfa920/download/customerserviceenquiriesq1q2_2018.csv
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/693571a48faf4520a0a210398e5385b3_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/693571a48faf4520a0a210398e5385b3_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: ZIP
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/693571a48faf4520a0a210398e5385b3_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Customer Service Enquiries January to June 2018
+title: Defibrillators
 ---

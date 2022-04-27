@@ -1,21 +1,22 @@
 ---
 category:
 - Uncategorised
-date_created: '2018-05-28'
-date_updated: '2021-04-19'
+date_created: '2019-09-25'
+date_updated: '2022-03-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <p><strong>Profile of Stirling Council's housing properties and yearly allocations.</strong></p>
+notes: '<p><strong>Details current taxi and private hire car licences issued by Stirling
+  Council.</strong></p>
+
+  <p><strong>Visit Stirling Council''s website for further information on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
+  and permits</a>.</strong> </p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/housing-stock-profiles
+original_dataset_link: https://data.stirling.gov.uk/dataset/licencing-taxis-private-hire-cars
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/dfba3b8d-ac94-4c1b-8ecd-c5486cfe437b/resource/c6cdebeb-308e-404e-9466-f28f52e0401b/download/20181001-housing-stock-as-at-june-2018.csv
-- format: CSV
-  name: CSV
-  url: https://data.stirling.gov.uk/dataset/dfba3b8d-ac94-4c1b-8ecd-c5486cfe437b/resource/dbc5834e-7eea-4ae3-af2a-6ff1c9e4afae/download/20181001-housing-relets-for-year-ending-31.02.2018.csv
+  url: https://data.stirling.gov.uk/dataset/507c945f-2d44-401a-bd42-af5a58359514/resource/96feb11c-54b7-4db3-afe3-a8681324f1b0/download/20220309-taxi-private-hire-car-licences.csv
 schema: default
-title: Housing Properties
+title: Taxi & Private Hire Car Licences
 ---

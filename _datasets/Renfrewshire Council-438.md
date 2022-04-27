@@ -1,15 +1,15 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-04-17'
-date_updated: '2019-04-18'
-license: No licence
+- Elections / Politics
+date_created: '2018-01-09'
+date_updated: '2018-09-12'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: "<p>Estimated population by single year of age and electoral ward,\_ mid-2017</p>"
+notes: <p>UK Parliament General Election 8 June 2017 electoral data.</p>
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=8e6a60c35291492cabf1c480fcd2d123
-records: 12
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1f9c282884ce450f9f32e81402f52f5c
+records: 3
 resources: []
 schema: default
-title: Population by Age and Ward 2017
+title: UK Parliament General Election June 2017 (electoral data)
 ---

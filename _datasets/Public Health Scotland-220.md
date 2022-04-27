@@ -1,33 +1,41 @@
 ---
 category:
+- Elections / Politics
+- Economy
+- Planning / Zoning
 - Health / Human Services
-date_created: '2020-12-03'
-date_updated: '2022-02-16'
+date_created: '2018-07-11'
+date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: "<p>Antimicrobial Resistance and Healthcare Associated Infection (ARHAI) Scotland,\
-  \ part of National Services Scotland works closely with Public Health Scotland to\
-  \ deliver the COVID-19 response. This dataset provides data for COVID-19 hospital\
-  \ onset cases in Scotland for week ending 1 March 2020 onwards, as available.</p>\n\
-  <p>COVID-19 cases first diagnosed within hospital in-patients are classed as hospital\
-  \ onset COVID-19, with the length of time between admission and their first COVID-19\
-  \ positive sample determining their hospital onset status. \nARHAI Scotland is working\
-  \ with NHS boards on a continuous basis to validate COVID-19 hospital onset cases\
-  \ to ensure the data are robust. Data are published on the Open Data platform at\
-  \ NHS Scotland level, by week of specimen date.</p>\n<p>All publications and supporting\
-  \ material to this topic area can be found in the weekly <a href=\"https://publichealthscotland.scot/publications/hospital-onset-covid-19-cases-in-scotland/\"\
-  >Hospital onset COVID-19 cases in Scotland publication</a>. Further information\
-  \ on the epidemiology of COVID-19 in healthcare settings can be found on the <a\
-  \ href=\"https://publichealthscotland.scot/\">Public Health Scotland website</a>.\
-  \ The date of the next release can be found on our list of <a href=\"https://publichealthscotland.scot/publications/forthcoming-publications/\"\
-  >forthcoming publications</a>.</p>"
+notes: '<p>Infant feeding statistics capture important aspects of nutrition at the
+  First Visit and 6-8 week review. Data are presented by: NHS health board, council
+  area, maternal age, deprivation and maternal smoking status.</p>
+
+  <p>A <a href="https://publichealthscotland.scot/publications/infant-feeding-statistics/">full
+  publication report</a> and <a href="https://publichealthscotland.scot/media/6522/2020-10-27-infant-feeding-technical-report.pdf">technical
+  report</a> are available. All publications and supporting material to this topic
+  area can be found on the <a href="http://www.isdscotland.org/Health-Topics/Child-Health/Infant-Feeding/">ISD
+  Scotland - Child Health Website</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-onset-covid-19-cases-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/infant-feeding
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d67b13ef-73a4-482d-b5df-d39d777540fd/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec/download/hospitalonsetcovid_opendata_20220216.csv
+  url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/fd82a04b-20f7-4ee3-be91-fcef729c6426/download/od_if_maternal_age.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/cdc31a4b-a972-4f57-8c8c-e2e4e7b0f1f8/download/od_if_simd.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/01fb752b-70dd-489b-b076-aa57ca6165e6/download/od_if_smoking.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/49d37733-2132-4ef7-a991-c8452f62c11f/download/od_if_timing_6-8weekreview.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/a1eb3449-8858-495b-a217-e45be1bc2e7e/download/od_if_data_quality.csv
 schema: default
-title: Hospital Onset COVID-19 Cases in Scotland
+title: Infant Feeding
 ---

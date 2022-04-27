@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2018-12-01'
+date_updated: '2018-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/harbours.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/community_centres.kmz
 schema: default
-title: Harbours (owned by the council)
+title: Leisure and community centres
 ---

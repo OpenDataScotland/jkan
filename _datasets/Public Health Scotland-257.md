@@ -1,31 +1,52 @@
 ---
 category:
 - Uncategorised
-date_created: '2020-04-02'
-date_updated: '2021-08-18'
+date_created: '2018-04-06'
+date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>These files present information on probable suicides registered in Scotland
-  including breakdowns by health board, local authority and Scottish Index of Multiple
-  Deprivation (SIMD) decile. For the health board and local authority data the period
-  covered is calendar years 2011-2020. For the SIMD data the periods covered are 2006-2010
-  and 2016-2020. All publications related to this topic area can be found on the <a
-  href="https://beta.isdscotland.org/find-publications-and-data/population-health/mortality/">PHS
-  Mortality webpage</a>. The next release of the ScotPHO suicide overview publication
-  will be summer 2022.</p>
+notes: '<p>The Scottish Government Urban Rural Classification provides a consistent
+  way of defining urban and rural areas across Scotland. The classification is based
+  upon two main criteria: (i) population as defined by the National Records of Scotland,
+  and (ii) accessibility based on drive time analysis to differentiate between accessible
+  and remote areas in Scotland.</p>
+
+  <p>There are four levels for classification </p>
+
+  <ul>
+
+  <li>
+
+  <p>2-fold </p>
+
+  </li>
+
+  <li>
+
+  <p>3-fold</p>
+
+  </li>
+
+  <li>
+
+  <p>6-fold </p>
+
+  </li>
+
+  <li>
+
+  <p>8-fold</p>
+
+  </li>
+
+  </ul>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/the-scottish-public-health-observatory-suicide-overview
+original_dataset_link: https://www.opendata.nhs.scot/dataset/urban-rural-classification
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/a6bd971a-077b-4bca-92d8-4476f4903e77/download/scotpho_2020_suicide_hb_overview.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/31595e43-9d5e-4740-8855-f3d839bc1aa0/download/scotpho_2020_suicide_la_overview.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/f4e70964-38c9-44f6-aaba-08e38f8dbb2f/download/scotpho_2020_suicide_simd_overview.csv
+  url: https://www.opendata.nhs.scot/dataset/a7acd6f7-8f50-4433-b952-cee6807d0ff6/resource/c8bd76cd-6613-4dd7-8a28-6c99a16dc678/download/datazone2011_urban_rural_2016.csv
 schema: default
-title: The Scottish Public Health Observatory - Suicide Overview
+title: Urban Rural Classification
 ---

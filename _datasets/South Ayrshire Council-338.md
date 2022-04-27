@@ -1,15 +1,15 @@
 ---
 category:
-- Environment
+- Planning / Zoning
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Areas used historically for landfill</p>
+notes: <p>Central core area of the Gallway Dark Skies Park</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e74ac17ef31b4c28a2c257977c4b31e1
-records: 26
+original_dataset_link: https://www.arcgis.com/home/item.html?id=17a25600d18f42538dac2997aa6369fa
+records: 1
 resources: []
 schema: default
-title: Historic Landfill Sites
+title: Dark Skies Park Core Area
 ---

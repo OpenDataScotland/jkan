@@ -2,18 +2,14 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2022-01-14'
+date_updated: '2021-04-18'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Glasgow Urban Model is a 3D digital representation of the City Centre and
-  River Clyde corridor.<br /></p>
+notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/43deba4b591743528f7ce9c6ff7c9746
+original_dataset_link: https://data.glasgow.gov.uk/datasets/157020762cbb4ff8a913dfc69a796c93
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://gcc-urban-model.ubdc.ac.uk
+resources: []
 schema: default
-title: Glasgow Urban Model
+title: Accessibility
 ---

@@ -2,19 +2,23 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-05-07'
+date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Real time and historical cycling counts across the city centre using the
-  Q Free network of sensors. Also a small number of pedestrian counts across some
-  city bridges.</p>
+notes: '<p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''><span
+  style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir
+  Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>A
+  Traffic API returning historical traffic flow data from the Glasgow SCOOT Traffic
+  Network.</span></p>
+
+  <p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''><br /></p>'
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/53646442a5c14905b127b39148fb1089
+original_dataset_link: https://data.glasgow.gov.uk/datasets/ccbdc6ee9be44c3eb1c4b5290a10d050
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=mobility&operation=get-mobility-measurements
+  url: https://gcc.developer.azure-api.net/api-details#api=traffic&operation=5b044adda611ad4c9b1c58b2
 schema: default
-title: Cycling counter API
+title: Traffic API - Historical
 ---

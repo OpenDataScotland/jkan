@@ -1,16 +1,16 @@
 ---
 category:
-- Environment
-date_created: '2018-07-10'
-date_updated: '2020-10-23'
+- Planning / Zoning
+date_created: '2018-07-20'
+date_updated: '2021-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Percentage of adults living within 5 minutes walking distance of their nearest
-  green or blue space</p>
+notes: <p>Number of Local Authority dwellings falling vacant during the year and which
+  are available for reletting (whether or not relet)</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/green-and-blue-spaces
+original_dataset_link: http://statistics.gov.scot/data/local-authority-vacant-dwellings-vacancies-arising-during-the-year
 records: null
 resources: []
 schema: default
-title: Distance to Nearest Green or Blue Space (National Indicator)
+title: Local Authority Vacant Dwellings (vacancies arising during the year)
 ---

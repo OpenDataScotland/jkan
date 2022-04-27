@@ -1,28 +1,26 @@
 ---
 category:
 - Transportation
-date_created: '2021-10-13T12:02:45.152Z'
-date_updated: '2021-10-25'
+date_created: '2019-04-30T12:48:40.686Z'
+date_updated: '2019-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>Schools in Scotland which delivered Bikeability Scotland training in 2020/21.
-  Bikeability Scotland is a cycle training programme designed to give children the
-  skills and confidence they need both to cycle safely on the roads, and to encourage
-  them to carry on cycling into adulthood.</p>
+notes: <p>Data from the Scottish Household Survey Travel Diary showing percentage
+  of journeys by main mode of travel between 2007 and 2017.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/abd9a110-9d4d-4b06-82e1-b3b6d1b3090f
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/43ea90d9-39d4-44a6-bb44-b83a6955f6ab
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=892d071f-1787-493b-a8d7-f031979271f9
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=febbc0b9-e30b-4743-9d62-77b029c696dd
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6b17067a-86b5-4cbb-ab2f-819bd8e81c24
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1e4e42a2-e891-4595-bbe7-043491118569
 - format: XML
   name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7685f4d0-4919-4610-86b4-9ac457171e51
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=48559fa7-126e-4d5a-9f5f-4ded9ca4d30f
 schema: default
-title: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21
-  - Cycling Scotland
+title: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
+  - Scottish Household Survey
 ---

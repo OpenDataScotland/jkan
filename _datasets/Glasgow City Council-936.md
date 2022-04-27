@@ -1,36 +1,34 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
 date_created: ''
-date_updated: '2021-08-06'
+date_updated: '2021-09-06'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They are
-  issued by the City of Glasgow Licensing Board. This dataset shows the location of
-  current Premises Licences. More information and additional data such as Personal
-  Licence, Occasional Licence, Premises Licence, Transfer of Premises Licence, Variation
-  of Premises Licence (Major &amp; Minor) and Premises Licence Extended Hours can
-  be found on the Glasgow City Council website (https://www.glasgow.gov.uk/index.aspx?articleid=17552).
-  This data is updated weekly.</p>
+notes: "<p>Open to eligible third sector, voluntary and community organisations across\
+  \ Glasgow, the fund, worth more than \xA360million over three years, will support\
+  \ services and activities that improve the health, well-being, social and economic\
+  \ position of communities and individuals.  The data provide awards made covering\
+  \ the period 2020/21 to 2022/23.  </p>"
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/20c31ebb8b7948b2946c43b303fbd15e_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/rest/services/OPEN_DATA/Licensed_Premises/MapServer/0
+  url: https://utility.arcgis.com/usrsvcs/servers/20c31ebb8b7948b2946c43b303fbd15e/rest/services/OPEN_DATA/Glasgow_Community_Grants_Fund/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/20c31ebb8b7948b2946c43b303fbd15e_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/20c31ebb8b7948b2946c43b303fbd15e_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/20c31ebb8b7948b2946c43b303fbd15e_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/0b5b75d511f7400483d7275881897215_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/20c31ebb8b7948b2946c43b303fbd15e_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Licensed Premises
+title: Glasgow Communities Fund
 ---

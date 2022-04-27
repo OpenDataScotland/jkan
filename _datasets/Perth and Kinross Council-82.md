@@ -1,23 +1,33 @@
 ---
 category:
-- Education
-date_created: '2017-12-04'
-date_updated: '2020-07-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Parks / Recreation
+date_created: '2021-09-30'
+date_updated: '2021-09-30'
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>Collated statistics related to the attendance at English language (ESOL)
-  and adult literacy programmes held at the Learning Curve, based at the AK Bell Library,
-  organised by the Perth and Kinross Adult Literacy and Numeracy Partnership.</p>
+notes: <p>Location of the 8 major parks with Perth and Kinross</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/learning-curve-footfall
+original_dataset_link: https://data.pkc.gov.uk/dataset/major-parks
 records: null
 resources:
+- format: HTML
+  name: HTML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0
+- format: ARCGIS GEOSERVICES REST API
+  name: ARCGIS GEOSERVICES REST API
+  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Major_Parks/FeatureServer/0
+- format: GEOJSON
+  name: GEOJSON
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/dataset/a90994ff-c246-4322-bdc0-1c6db9faae0f/resource/9373f72a-14de-47e4-9e26-6d9dca5d08c7/download/2015-2016.csv
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/dataset/a90994ff-c246-4322-bdc0-1c6db9faae0f/resource/dab6a84c-b608-44c8-a5cd-f1e0314f4817/download/2016-2017.csv
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: ZIP
+  url: https://opendata-pkc.opendata.arcgis.com/datasets/eb47b24b436442bd96c520aecc26ae72_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: ESOL and adult literacy - Footfall and Enquiries
+title: Major Parks
 ---

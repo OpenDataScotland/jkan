@@ -1,16 +1,15 @@
 ---
 category:
-- Economy
-date_created: '2017-05-16'
-date_updated: '2018-06-15'
+- Health / Human Services
+date_created: '2017-06-06'
+date_updated: '2017-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Mean and median gross household income estimates at Data Zone level for
-  2014</p>
+notes: <p>Self-assessed general health by smoking status, age, and gender</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/local-level-average-household-income-estimates-2014
+original_dataset_link: http://statistics.gov.scot/data/smoking-behaviour-and-self-rated-health-salsus
 records: null
 resources: []
 schema: default
-title: Local Level Average Household Income Estimates 2014
+title: Smoking behaviour and self-rated health (SALSUS)
 ---

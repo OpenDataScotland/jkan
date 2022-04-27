@@ -1,16 +1,18 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-06-18'
-date_updated: '2021-03-29'
+- Planning / Zoning
+date_created: '2018-03-28'
+date_updated: '2020-11-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Expenditure and employment on research and development by businesses in
-  Scotland since 2001.</p>
+notes: <p>The proportion of households with any (basic) disrepair, disrepair to critical
+  elements, urgent disrepair or extensive disrepair to their dwelling, by dwelling
+  types,  household characteristics and council area. Derived from the Scottish House
+  Condition Survey (SHCS). </p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/business-enterprise-research-and-development-expenditure
+original_dataset_link: http://statistics.gov.scot/data/dwelling-disrepair-scottish-house-condition-survey
 records: null
 resources: []
 schema: default
-title: Business Enterprise Research and Development Expenditure
+title: Dwelling Disrepair (Scottish House Condition Survey)
 ---

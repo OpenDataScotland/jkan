@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2020-12-20'
+date_updated: '2018-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_roads_main_and_secondary.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/harbours.kmz
 schema: default
-title: Primary and secodary gritting routes within Aberdeenshire
+title: Harbours (owned by the council)
 ---

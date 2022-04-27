@@ -1,39 +1,53 @@
 ---
 category:
 - Uncategorised
-date_created: '2020-02-11'
-date_updated: '2021-09-24'
+date_created: '2020-03-20'
+date_updated: '2022-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>These files present information on probable suicides registered in Scotland,
-  including their degree of contact with healthcare services. The period covered is
-  calendar years 2011-19. </p>
-
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/mental-health/">PHS
-  Scotland - Mental Health Website</a>. The date of the next release can be found
-  on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+notes: "<p>This dataset reports key statistics on Inpatient, Day case and New Outpatient\
+  \ Waiting Times, at Boards across Scotland. For more information on stage of treatment\
+  \ waiting times see the\_quarterly\_<a href=\"https://publichealthscotland.scot/publications/nhs-waiting-times-stage-of-treatment/\"\
+  >NHS waiting times - stage of treatment publications</a>. The date of the next release\
+  \ can be found on our list of\_<a href=\"https://publichealthscotland.scot/publications/forthcoming-publications/\"\
+  >forthcoming publications</a>.</p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-suicide-information-database-contact-with-unscheduled-care-services-prior-to-death
+original_dataset_link: https://www.opendata.nhs.scot/dataset/stage-of-treatment-waiting-times
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/63978d6f-00ba-4355-bbab-28a03074996b/download/scotsid-age-sex.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/4c091d26-1492-41e5-9577-832cbc1cd4cf/download/sot_performance_completed_waits_dec21.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/e926b17e-91f5-4faf-be83-9a5ed6f4dddf/download/scotsid-hb.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/5816ec92-66bf-4033-ae55-9df45ff19d49/download/sot_performance_ongoing_waits_dec21.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/d1c07107-0818-43e0-818b-85dcdffad615/download/scotsid-la.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/685a5dde-adaa-4ea4-94b0-ca9af032184f/download/sot_distribution_of_completed_waits_dec21.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/0d115149-191a-4f1a-a12a-04ccdea63c77/download/scotsid-deprivation.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/093f04a5-bb8f-4ce6-9016-d4fa0a912630/download/sot_distribution_of_ongoing_waits_dec21.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/b87e08ab-da6f-4f6b-80fd-7bf3a4a84d99/download/scotsid-ucd-frequency-of-contact.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/492f9e04-b2ff-4c20-a235-a32dbab17ab4/download/sot_na_rates_ipdc_dec21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f7f2e127-27a7-4368-a4d9-a6906a63d244/download/sot_na_rates_newop_dec21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/10dd6ca4-1868-464c-8d20-7f9261070484/download/sot_removal_reasons_dec21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/22ecd482-f3b5-45f9-9477-029afad87bc9/download/sot_unavailability_ipdc_dec21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/7c648cd6-0742-44ed-a8b3-efea3cfc3614/download/sot_unavailability_newop_dec21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/c31cf4c5-b721-4fe8-bd05-e49325064692/download/sot_distribution_of_completed_waits_jun21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/eb5b41cc-f997-44e9-af51-a9532afbb5f5/download/sot_distribution_of_ongoing_waits_jun21.csv
 schema: default
-title: Scottish Suicide Information Database - Contact with Healthcare Services prior
-  to death
+title: Stage of Treatment Waiting Times
 ---

@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2020-12-20'
+date_updated: '2018-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_footways_priorities_1_and_2.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_housing_land_audit_2017.kmz
 schema: default
-title: Footway priorities 1 and 2 within Aberdeenshire
+title: Housing Land Audit 2017
 ---

@@ -1,22 +1,24 @@
 ---
 category:
 - Transportation
-date_created: '2019-10-21T11:53:05.320Z'
-date_updated: '2019-11-08'
-license: https://creativecommons.org/licenses/by/4.0/
+date_created: '2021-12-23T16:01:50.046Z'
+date_updated: '2022-01-05'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This dataset shows communities across Scotland that have received funding
-  through Cycling Scotland's Cycling Friendly program</p>
+notes: <p>This dataset holds the locations for all of Cycling Scotland's all-mode
+  traffic counts which are undertaken biannually across Scotland. The dates of each
+  count are included.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/f623d8cf-cdaf-426a-90f2-63387b8d680b
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b4caea0b-4a89-41de-9bf4-5f349f1f7cea
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9e4f2a31-315e-4b91-a501-26753fa87137
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9b8b85e0-8d97-4b9f-8ecb-36419272ecc5/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b7c2f32e-599b-4c60-b298-38ae1257ae7e/1/urql
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e9a35cef-fa69-4c96-aeba-59c79ea73a2a
 schema: default
-title: Cycling Friendly - Communities Funded - Cycling Scotland
+title: National Monitoring Framework - all-mode Traffic Survey locations - Cycling
+  Scotland
 ---

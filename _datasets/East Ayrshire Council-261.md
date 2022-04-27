@@ -8,11 +8,11 @@ maintainer: East Ayrshire Council
 notes: ''
 organization: East Ayrshire Council
 original_dataset_link: https://www.east-ayrshire.gov.uk/CouncilAndGovernment/About-the-Council/Information-and-statistics/Open-Data.aspx
-records: 41
+records: 3
 resources:
 - format: CSV
   name: CSV
-  url: https://www.east-ayrshire.gov.uk/Resources/CSV/Open-Data-001-Primary-School-Contacts.csv
+  url: https://www.east-ayrshire.gov.uk/Resources/CSV/Open-Data-003-SEN-School-Contacts.csv
 schema: default
-title: Primary School Contact Details
+title: SEN School Contact Details
 ---

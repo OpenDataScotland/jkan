@@ -1,30 +1,27 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-06-08'
-date_updated: '2019-03-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Transportation
+date_created: '2017-09-23'
+date_updated: '2017-10-25'
+license: https://opendatacommons.org/licenses/odbl/
 maintainer: Dundee City Council
-notes: <p>Data for bins with attached sensors. </p>
+notes: '<p>The Council''s Active Travel team conducted a survey of bicycle parking
+  in 2015, with the results used to add or update cycle parking in <a href="https://www.openstreetmap.org">OpenStreetMap</a>.
+  </p>
+
+  <p>This dataset is an extract of the current cycle parking in OpenStreetMap. If
+  you see a facility missing or would like to update any of the information you can
+  do this on OpenStreetMap yourself. </p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/bin-sensor-returns
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/bicycle-parking
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/f649cf9a-23e1-438d-9129-15c5ee10a747/download/bin-sensor-locations.csv
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/7ed9bb3b-b832-4756-a1ab-3554c622d43a/download/number-of-collections-sensors-may-2018.csv
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/7c89cdd5-5a97-4d72-bb19-e024c7e12323/download/number-of-collections-sensors-june-2018.csv
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/63db5f04-52c7-4c71-8e8a-bdc60d4f92af/download/fullness-levels-of-sensors-june-2018_2.csv
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/5d6ff425-4208-46f3-acee-5bed7d365a05/download/fullness-level-of-bins-may-2018.csv
+- format: GEOJSON
+  name: GEOJSON
+  url: https://gist.githubusercontent.com/anonymous/39196dcb0e7fc9288313dbcce0d0da68/raw/8af22904c4a32d9e97afee64f44376ca6b52b3e9/overpass.geojson
+- format: HTML
+  name: HTML
+  url: https://www.openstreetmap.org/#map=13/56.4753/-2.9480&layers=C
 schema: default
-title: Bin Sensor Returns
+title: Bicycle Parking
 ---

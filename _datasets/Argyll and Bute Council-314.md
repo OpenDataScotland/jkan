@@ -1,16 +1,18 @@
 ---
 category:
+- Transportation
 - Planning / Zoning
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: <p>Development Management Zones designated in the Argyll and Bute adopted Local
-  Development Plan 2015.</p>
+notes: <p>Action proposed by the 2015 Local Development Plan in support of its settlement
+  plans and proposals involving safeguarding measures, feasibility studies into options
+  and the undertaking of development road schemes.</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=c438cbaf9b99421fbc603738caa910a2
-records: 9373
+original_dataset_link: https://www.arcgis.com/home/item.html?id=c6ec4637aa244b41a86e2623b6089a84
+records: 5
 resources: []
 schema: default
-title: Open Data - Development Management Zones
+title: Open Data - Development Road Action Area
 ---

@@ -1,62 +1,58 @@
 ---
 category:
+- Elections / Politics
+- Planning / Zoning
 - Health / Human Services
-date_created: '2021-03-16'
-date_updated: '2022-02-02'
+date_created: '2019-01-22'
+date_updated: '2021-10-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>As an essential service, care relating to termination of pregnancy has
-  been provided throughout the COVID-19 pandemic. Termination of pregnancy can be
-  carried out as a medical procedure or, less commonly, a surgical procedure. Medical
-  terminations involve the woman taking two different medicines 24-48 hours apart
-  to end her pregnancy. Prior to October 2017, women having a medical termination
-  were required to attend a clinic or hospital on two occasions to take the first
-  and then, separately, the second medicine. From October 2017, women requiring an
-  early medical termination (at up to 9 weeks and 6 days gestation) were able to take
-  the second medicine away with them at the end of their first appointment, and subsequently
-  take that at home. From 31 March 2020, in response to the COVID-19 pandemic, women
-  requiring an early medical termination (at up to 11 weeks and 6 days gestation)
-  have been able to have an initial remote consultation, by telephone or video call,
-  then take both medicines at home.</p>
+notes: '<p>This dataset contains address data and practice sizes for all NHS dental
+  practices in Scotland.</p>
 
-  <p>Termination of pregnancy (also referred to as a therapeutic or induced abortion)
-  is provided under the terms of the Abortion Act 1967 and subsequent regulations.
-  When a healthcare practitioner provides a termination of pregnancy, there is a legal
-  requirement for them to notify the Chief Medical Officer of the termination within
-  seven days of it taking place. Public Health Scotland is responsible for the collation
-  of data derived from notifications of terminations of pregnancy on behalf of the
-  Chief Medical Officer. Detailed information on terminations is published each year
-  by Public Health Scotland. The most recent report covers the year to December 2019.</p>
-
-  <p>This dataset presents information on the number of terminations of pregnancy
-  carried out in Scotland, and the average gestation (stage of pregnancy) at which
-  they occurred. Data is shown at Scotland and NHS Board level, as well as broken
-  down by age group and deprivation. </p>
-
-  <p>This data is also available on the COVID-19 Wider Impact Dashboard. Additional
-  data sources relating to this topic area are provided in the Links section of the
-  Metadata below. Information on COVID-19, including stay at home advice for people
-  who are self-isolating and their households, can be found on <a href="https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/coronavirus-covid-19#stay-at-home-advice">NHS
-  Inform</a>.</p>
-
-  <p>All publications and supporting material to this topic area can be found in the
-  weekly <a href="https://publichealthscotland.scot/publications/covid-19-statistical-report/">COVID-19
-  Statistical Report</a>. The date of the next release can be found on our list of
-  <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://www.isdscotland.org/Health-Topics/Dental-Care/">ISD Scotland -
+  Dental Care website</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-termination-of-pregnancy
+original_dataset_link: https://www.opendata.nhs.scot/dataset/dental-practices-and-patient-registrations
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/5a00501e-b78a-40d6-b3e1-d77508866b9c/download/terminations_preg_hb_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/12bf4b02-15e6-41d0-9ae0-18663b463833/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-june-2021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/f2276117-8605-48b2-ae6f-68f3fb2d6b92/download/terminations_preg_age_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/8892b104-45d5-413b-8865-a75323e2a619/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-march-2021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/085c1c13-29ea-4ce3-8a46-798a011970b3/download/terminations_preg_simd_20220202.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/20040f9f-e598-4237-8a12-8bc35c0b2959/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-december-2020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/bdc933fe-dffb-45f6-983d-2f0874801dfc/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-september-2020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/8aeea4e6-e314-49b4-901e-b81bbfbe519b/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-june-2020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/38658ea5-6244-40ea-9417-d6c4be70f1de/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-march-2020.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/5eef47af-94d7-40df-a54d-6079d55d1fd7/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-december-2019.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/dd37ce89-8286-4b72-a929-ee6f9ff04ff2/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-september-2019.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/39b2460a-132e-4c83-9c23-51bf90e23ef0/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-june-2019.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/ff6c79b5-727e-4cfc-aef7-60dcbe9950d8/download/nhs-dental-practices-and-nhs-dental-registrationst-as-at-31st-march-2019.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/730d4829-13e6-4e7e-b312-9328ae9cfa06/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-december-2018-v1.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/faae473f-3748-4f99-8ec9-0d827749f60b/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-september-2018-v2.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Termination of Pregnancy"
+title: Dental Practices and Patient Registrations
 ---

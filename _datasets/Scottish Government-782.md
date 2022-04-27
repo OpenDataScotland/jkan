@@ -1,15 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-02-14'
-date_updated: '2021-10-20'
+- Economy
+date_created: '2018-06-18'
+date_updated: '2021-03-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of community groups that own assets</p>
+notes: <p>Expenditure and employment on research and development by businesses in
+  Scotland since 2001.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/community-ownership-number-of-community-groups
+original_dataset_link: http://statistics.gov.scot/data/business-enterprise-research-and-development-expenditure
 records: null
 resources: []
 schema: default
-title: "Community Ownership \u2013 Number of Community Groups"
+title: Business Enterprise Research and Development Expenditure
 ---

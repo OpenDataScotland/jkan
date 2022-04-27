@@ -1,16 +1,16 @@
 ---
 category:
-- Transportation
-date_created: '2017-10-10'
-date_updated: '2021-10-25'
+- Planning / Zoning
+date_created: '2018-03-12'
+date_updated: '2021-10-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The indicator gives a score for the availability and frequency of bus service
-  in each data zone.</p>
+notes: <p>Total number of applications on waiting lists and transfer lists for a local
+  authority dwelling</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/bus-accessibility
+original_dataset_link: http://statistics.gov.scot/data/housing-lists
 records: null
 resources: []
 schema: default
-title: Bus Accessibility
+title: Housing Lists
 ---

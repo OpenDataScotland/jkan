@@ -1,15 +1,16 @@
 ---
 category:
 - Planning / Zoning
+- Education
 date_created: '2015-10-30'
-date_updated: '2020-11-25'
+date_updated: '2019-09-13'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Areas of vacant and derelict land</p>
+notes: <p>Areas depicting catchment zones for non-denominational primary schools</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=a7fef8a46e4c49d497c2718ef40f80bb
-records: 83
+original_dataset_link: https://www.arcgis.com/home/item.html?id=bbb6cbfbf1044a7bb7652f642c41ef72
+records: 45
 resources: []
 schema: default
-title: Vacant and Derelict Land
+title: Non-denominational Primary Catchments
 ---

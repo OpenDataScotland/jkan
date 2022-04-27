@@ -1,16 +1,16 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-03-27'
-date_updated: '2020-03-31'
+- Economy
+date_created: '2020-02-13'
+date_updated: '2020-02-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Dataset containing the Broadband Indicator used to calculate the SIMD 2020
-  Access To Services Domain</p>
+notes: <p>Data Zone level ranks and quantiles for the 2016 Scottish Index of Multiple
+  Deprivation (SIMD) overall, and by individual domain</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---broadband-access-indicator
+original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-historical-ii
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation - Broadband Access Indicator
+title: Scottish Index of Multiple Deprivation (Historical) - 2016
 ---

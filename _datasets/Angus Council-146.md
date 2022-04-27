@@ -1,35 +1,25 @@
 ---
 category:
-- Planning / Zoning
-date_created: '2016-11-22'
-date_updated: '2016-12-09'
+- Uncategorised
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Angus Council and Dundee City Council have jointly prepared the Annual Audit
-  of Housing Land detailing those sites with a capacity of five or more houses which
-  contribute to the available supply of land for house building in Angus and Dundee.</p>
+notes: <p>Localities used in the Corporate Address Gazetteer for the generation of
+  addresses.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-housing-land-audit
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-localities
 records: null
 resources:
 - format: WMS
   name: WMS
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_housinglandaudit2014/wms?service=WMS&version=1.1.0&request=GetMap
+  url: http://data.angus.gov.uk/geoserver/inspire/inspire:gaz_localities/wms?service=WMS&request=GetMap
 - format: KML
   name: KML
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_housinglandaudit2014&mode=download
+  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:gaz_localities&mode=download
 - format: GEOJSON
   name: GEOJSON
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_housinglandaudit2014&outputFormat=application%2Fjson&srsName=EPSG:3857
-- format: WMS
-  name: WMS
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_housinglandaudit2015/wms?service=WMS&request=GetMap
-- format: KML
-  name: KML
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_housinglandaudit2015&mode=download
-- format: GEOJSON
-  name: GEOJSON
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_housinglandaudit2015&outputFormat=application%2Fjson&srsName=EPSG:3857
+  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:gaz_localities&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Housing Land Audit
+title: Angus Council Localities
 ---

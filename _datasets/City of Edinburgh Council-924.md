@@ -1,34 +1,31 @@
 ---
 category:
-- Planning / Zoning
+- Arts / Culture / History
+- Environment
 date_created: ''
-date_updated: '2021-11-24'
+date_updated: '2022-02-01'
 license: No licence
 maintainer: City of Edinburgh Council
-notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
-  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
-  font-size:16px;'>Housing Land Audit Sites. Annual assessment of the housing land
-  supply. Spatial and non-spatial data derived from planning applications. This is
-  the 2021 Housing Land Audit Schedule data.</span></p>
+notes: ''
 organization: City of Edinburgh Council
-original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13
+original_dataset_link: https://data.edinburghcouncilmaps.info/datasets/e7554df993b44b3497b7e888c5776f77_45
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/13
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/45
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/e7554df993b44b3497b7e888c5776f77_45.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/e7554df993b44b3497b7e888c5776f77_45.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/e7554df993b44b3497b7e888c5776f77_45.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.edinburghcouncilmaps.info/datasets/7c51195e83584dfd8f79ca6e123ed668_13.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.edinburghcouncilmaps.info/datasets/e7554df993b44b3497b7e888c5776f77_45.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Housing Land Audit schedule
+title: Local Nature Conservation Sites
 ---

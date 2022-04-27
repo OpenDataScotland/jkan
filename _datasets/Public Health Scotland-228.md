@@ -1,29 +1,42 @@
 ---
 category:
-- Health / Human Services
-date_created: '2018-12-06'
-date_updated: '2022-02-01'
+- Budget / Finance
+date_created: '2021-01-14'
+date_updated: '2022-03-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Key statistics on new and unplanned return attendances at Accident and
-  Emergency (A&amp;E) services across Scotland. The information presented  includes
-  trends in the number of attendances and admissions, and performance against the
-  four hour waiting time standard. </p>
-
-  <p>Further information on A&amp;E services across Scotland can be found in the <a
-  href="https://publichealthscotland.scot/publications/ae-activity-and-waiting-times/">publication
-  summary</a>, the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/Emergency-Department-Activity/Data-Quality/AE2-User-Guide_V1-3.pdf">A&amp;E
-  User Guide</a> and in the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/ED_Background_Glossary.pdf">Background
-  Information</a>. All publications and supporting material to this topic area can
-  be found on the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/">ISD
-  Scotland Website</a>.</p>'
+notes: <p>This annual release produced by Public Health Scotland in partnership with
+  NSS Practitioner Services provides information on NHSScotland payments to General
+  Practices. Information is presented at General Practice level and geographical hierarchies
+  are available.</p>
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/monthly-emergency-department-activity-and-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202112.csv
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/79b1c49b-da32-4f71-adb1-355174e2db89/download/gppayments2020-21.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/e88cb482-6bf2-4cc0-a548-c2f7409af607/download/gppayments2019-20.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/0dc48fd0-6321-42ed-a335-ab3d195682ec/download/gppayments2018-19.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/46c9f7ed-ed37-44e6-b3a7-6ccced1d5740/download/gppayments2017-18.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/8c4a4fba-0d91-4b97-8643-f250d1938419/download/gppayments2016-17.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/42ae85ea-e0a7-4695-b399-6bbe0a400450/download/gppayments2015-16.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/8983146b-bb92-4a6f-adb0-e97f80794ffd/download/gppayments2014-15.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/49db89d6-276c-4cbf-9233-2c41a0f67084/download/gppayments2013-14.csv
 schema: default
-title: Monthly Emergency Department Activity and Waiting Times
+title: NHSScotland Payments to General Practice
 ---

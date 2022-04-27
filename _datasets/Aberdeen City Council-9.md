@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Elections / Politics
 date_created: '2020-02-28'
 date_updated: '2020-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

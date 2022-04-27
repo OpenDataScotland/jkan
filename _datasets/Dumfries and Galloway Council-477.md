@@ -1,19 +1,21 @@
 ---
 category:
 - Education
-date_created: '2017-11-16T15:14:09.245Z'
-date_updated: '2020-12-11'
+date_created: '2019-01-24T15:10:17.795Z'
+date_updated: '2019-01-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>Dumfries and Galloway School Catchment area boundaries</p>
+notes: <p>Secondry School Teachers FTE (Full Time Equivelnt) 2017</p>
 organization: Dumfries and Galloway Council
-original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/b958299b-9fca-4380-a6f1-047bdf0223aa
+original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/9c8928da-f25f-46ac-99a4-ef024ece4b45
 records: null
 resources:
-- format: ZIP
-  name: ZIP
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/additionalDocumentation/29388337-4e19-4ac9-8a8c-5d99e0639d9b/Secondary
-    Catchments ND.zip
+- format: JSON
+  name: JSON
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/dda8302f-f4d3-494a-839b-fa6916cc1dd2/1/urql
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=c0002a4b-37c9-49e2-8725-1dd44734b349
 schema: default
-title: School Catchment Areas
+title: Secondary School Teaches FTE
 ---

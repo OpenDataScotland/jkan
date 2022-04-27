@@ -1,9 +1,9 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
-date_updated: '2018-10-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2018-11-23'
+license: No licence
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/community_centres.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/LDP17_Sites.kmz
 schema: default
-title: Leisure and community centres
+title: Local Development Plan (LDP) 2017 - sites
 ---

@@ -1,18 +1,22 @@
 ---
 category:
 - Planning / Zoning
-date_created: '2017-07-10'
+date_created: '2017-12-13'
 date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
-notes: <p>Employment Land Audit 2017 sites provides am overview of the supply and
-  availability of employment land across the Moray Council area. The audit provides
-  details of Moray's employment land supply as at January 2017. Further information
-  can be found at Development Monitoring.</p>
+notes: <p>The Local Development Plan 2015 was superseded by the Local Development
+  Plan 2020 on 27 July 2020.Local Development Plan Rural Grouping Designations have
+  been set out within many of the Local Development Plan Rural Groupings. Sites with
+  development potential have been identified. These are acceptable in principle subject
+  to compliance with the Moray Local Development Plan (MLDP) 2015, but will still
+  require confirmation of technical requirements (eg road access; drainage).These
+  designations do not imply any right of access or use of private land, nor do they
+  commit the Council to any form of maintenance or upkeep of the site.</p>
 organization: Moray Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=4f325085a09e4460a4246e749c443cc7
-records: 33
+original_dataset_link: https://www.arcgis.com/home/item.html?id=9bd82804a7d34a7aa8960f4947b15211
+records: 183
 resources: []
 schema: default
-title: Employment Land Audit 2017 (Moray)
+title: Local Devevlopment Plan Rural Groupings Designations (Moray)
 ---

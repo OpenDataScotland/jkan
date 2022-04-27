@@ -1,23 +1,19 @@
 ---
 category:
-- Economy
-date_created: '2017-12-07'
-date_updated: '2020-04-29'
+- Elections / Politics
+date_created: '2018-10-23'
+date_updated: '2020-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: '<p>This is the current contract register for Perth and Kinross Council, pulled
-  from Public Contracts Scotland, the national procurement portal.</p>
-
-  <p>The register is updated on a regular basis, and can be downloaded as either a
-  CSV or Excel file. Some Contract notices are licensed under the <a href="" title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open
-  Government Licence 3.0</a>.</p>'
+notes: <p>A summary of the number and type of inquiries received by Perth and Kinross
+  Council from January to June 2018</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/contract-register
+original_dataset_link: https://data.pkc.gov.uk/dataset/customer-service-enquiries-january-to-june-2018
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00372
+- format: CSV
+  name: CSV
+  url: https://data.pkc.gov.uk/dataset/5508ccaa-70f6-4c40-b73f-f2a5bf84fbb4/resource/4b69835d-486e-4276-92f5-2d31f6cfa920/download/customerserviceenquiriesq1q2_2018.csv
 schema: default
-title: Contract Register
+title: Customer Service Enquiries January to June 2018
 ---

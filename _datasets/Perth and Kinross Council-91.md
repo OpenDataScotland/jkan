@@ -3,21 +3,29 @@ category:
 - Uncategorised
 date_created: '2017-08-25'
 date_updated: '2020-04-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>Ordnance Surveys OS Terrain 50 Contour is a dataset representing the physical
-  shape of the real world. The dataset includes contours (50metre interval), spot
-  heights, and high and low water marks. The product is updated and maintained annually.</p>
+notes: "<p>OS VectorMap District is a simple vector dataset with a nominal scale of\
+  \ 1:25000 covering the whole of Great Britain that has been designed for creating\
+  \ graphical mapping. The product can be used as mapping in its own right or can\
+  \ be used to provide a flexible geographic context reference for customers\u2019\
+  \ overlay information. As well as the vector dataset, a number of output styles\
+  \ are suggested. The main characteristics of the dataset is represention of real\
+  \ world features (e.g. roads, railways, buildings blocks, vegetation and boundaries)\
+  \ as points, lines, polygons, and text.</p>"
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/os-terrain-50-contour
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-vectormap-district1
 records: null
 resources:
-- format: ''
-  name: ''
-  url: http://os.uk/business-and-government/products/terrain-50.html
-- format: ''
-  name: ''
-  url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50
+- format: HTML
+  name: HTML
+  url: http://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html
+- format: HTML
+  name: HTML
+  url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html
+- format: ATOM FEED
+  name: ATOM FEED
+  url: http://www.ordnancesurvey.co.uk/oswebsite/xml/atom/VMD.xml
 schema: default
-title: OS Terrain 50 Contour
+title: "OS VectorMap\u2122 District"
 ---

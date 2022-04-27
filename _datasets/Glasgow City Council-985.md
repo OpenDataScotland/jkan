@@ -1,20 +1,18 @@
 ---
 category:
-- Transportation
+- Health / Human Services
 date_created: ''
-date_updated: '2021-09-06'
+date_updated: '2021-04-08'
 license: No licence
 maintainer: Glasgow City Council
-notes: <p>Access to data on the volume of footfall across Glasgow City Centre, generated
-  from a network of sensors provided by Springboard. Data by hour, day, month and
-  year going back to 2010.</p>
+notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/4a7ed3197541460c9145554b685e3a01
+original_dataset_link: https://data.glasgow.gov.uk/datasets/1d7eec0258714a4e991a2013218b10fd
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://gcc.developer.azure-api.net/api-details#api=mobility&operation=footfall
+  url: https://storymaps.arcgis.com/stories/1d7eec0258714a4e991a2013218b10fd
 schema: default
-title: Footfall
+title: Glasgow's City Council's Data Driven Response to  Covid-19
 ---

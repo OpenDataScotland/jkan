@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Planning / Zoning
 date_created: ''
 date_updated: '2021-12-13'
 license: No licence
@@ -9,24 +9,24 @@ notes: <p>Spatial Data layers referenced in City Development Plan Policy and Pro
   &amp; Supplementary Guidance Maps. Third party data displayed in the above mentioned
   maps are not included herein.</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_6
+original_dataset_link: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_10
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/City_Development_Plan/MapServer/6
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/City_Development_Plan/MapServer/10
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_6.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_10.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_6.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_10.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_6.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_10.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_6.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/05d8a63e2f934523a367d3dc5cc1aca2_10.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: 'Economic Development Areas: CDP3'
+title: 'City Development Plan: Citywide Policy'
 ---

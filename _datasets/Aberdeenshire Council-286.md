@@ -1,8 +1,8 @@
 ---
 category:
-- Uncategorised
+- Transportation
 date_created: ''
-date_updated: '2018-11-10'
+date_updated: '2020-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_footways_priorities_1_and_2.kmz
 schema: default
-title: Grit bin locations
+title: Footway priorities 1 and 2 within Aberdeenshire
 ---

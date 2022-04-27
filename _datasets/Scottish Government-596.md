@@ -1,15 +1,15 @@
 ---
 category:
-- Uncategorised
+- Health / Human Services
 date_created: '2014-07-29'
-date_updated: '2016-02-09'
+date_updated: '2020-03-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Indicators from the Scottish House Condition Survey (SHCS)</p>
+notes: <p>Number and rate per 1,000 population of home care clients by age and gender.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/shqs
+original_dataset_link: http://statistics.gov.scot/data/home-care-clients
 records: null
 resources: []
 schema: default
-title: Scottish Housing Quality Standard (SHQS)
+title: Home Care Clients
 ---

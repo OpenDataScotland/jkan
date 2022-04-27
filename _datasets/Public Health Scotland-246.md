@@ -1,92 +1,36 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-09-21'
-date_updated: '2021-06-30'
+- Elections / Politics
+- Planning / Zoning
+- Health / Human Services
+date_created: '2020-03-31'
+date_updated: '2022-01-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Scottish Index of Multiple Deprivation (SIMD) splits Scotland into data
-  zones which are given ranking from most deprived to least deprived.</p>
+notes: '<p>Summary of discharges from hospital and deaths in Scotland resulting from
+  a cerebrovascular disease (including stroke and subarachnoid haemorrhage).</p>
 
-  <p>This data set contains population weighted quintiles and deciles for health board,
-  council area, and health and social care partnership where appropriate. Also available
-  is an indicator as to whether a data zone is in the 15% most deprived or 15% least
-  deprived data zones in Scotland.</p>
-
-  <p>SIMD is based on a number of indicators:</p>
-
-  <ul>
-
-  <li>
-
-  <p>Access to Services</p>
-
-  </li>
-
-  <li>
-
-  <p>Crime</p>
-
-  </li>
-
-  <li>
-
-  <p>Education</p>
-
-  </li>
-
-  <li>
-
-  <p>Employment</p>
-
-  </li>
-
-  <li>
-
-  <p>Health</p>
-
-  </li>
-
-  <li>
-
-  <p>Housing</p>
-
-  </li>
-
-  <li>
-
-  <p>Income</p>
-
-  </li>
-
-  </ul>
-
-  <p>Note: An area may be classed as deprived but residents may not be deprived, and
-  an area may be classed as not deprived but this doesn''t mean residents are not
-  deprived. SIMD is not a tool for saying <strong>how much more</strong> deprived
-  one area is from another.</p>'
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://beta.isdscotland.org/topics/heart-disease-and-stroke/">PHS Stroke
+  Website</a>. Further information on stroke can be found in the recent <a href="https://publichealthscotland.scot/publications/scottish-stroke-statistics/">annual
+  publication</a>. The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-index-of-multiple-deprivation
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-stroke-statistics
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/acade396-8430-4b34-895a-b3e757fa346e/download/simd2020v2_22062020.csv
+  url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/47656572-e196-40c8-83e8-08b0b223b2e6/download/stroke_activitybyhbr.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/cadf715a-c365-4dcf-a6e0-acd7e3af21ec/download/simd2016_18052020.csv
+  url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/b80202b1-0ad8-4f40-a326-f9966872c4eb/download/stroke_activitybyca.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/dd4b13d3-066b-4714-bb1f-730e1a1ee692/download/simd2012_02042020.csv
+  url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/19c01b59-6cf7-42a9-876a-b07b9b92d6eb/download/stroke_mortalitybyhbr.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/d9738550-4cf9-428e-8453-c2aad463ff68/download/simd2009v2_23062019.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/6f871d03-d2af-4fe2-a615-d2d2ca76c3a5/download/simd2006_02042020.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/a97fca71-ebbb-4897-a611-88024a76ff21/download/simd2004_02042020.csv
+  url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/285b4cbd-1e87-49fe-9e24-73d2da8166ae/download/stroke_mortalitybyca.csv
 schema: default
-title: Scottish Index of Multiple Deprivation (Population Weighted)
+title: Scottish Stroke Statistics
 ---

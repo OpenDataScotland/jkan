@@ -5,29 +5,19 @@ date_created: '2017-08-25'
 date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: "<p>OS Open Roads is a digital representation of Great Britain\u2019s Roads.\
-  \ The links represent an approximate central alignment of the road carriageway and\
-  \ include roads classified by the National or Local Highway authority (for example,\
-  \ A Roads) and unclassified roads which make up Great Britain\u2019s road network.\
-  \ Attributes identify the roads that make up the Primary Route Network (PRN) and\
-  \ the Strategic Route Network (SRN). The SRN is made up of nationally significant\
-  \ roads used for the distribution of goods and services, and a network for the travelling\
-  \ public. They are known as Trunk Roads. Whilst the PRN is made up of roads used\
-  \ for transport on a regional or county level and include all roads which make up\
-  \ the SRN.</p>"
+notes: <p>Ordnance Surveys OS Terrain 50 Contour is a dataset representing the physical
+  shape of the real world. The dataset includes contours (50metre interval), spot
+  heights, and high and low water marks. The product is updated and maintained annually.</p>
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-roads
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-terrain-50-contour
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
-- format: HTML
-  name: HTML
-  url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPROAD
-- format: ATOM FEED
-  name: ATOM FEED
-  url: http://os.uk/xml/atom/OSOpenRoads.xml
+- format: ''
+  name: ''
+  url: http://os.uk/business-and-government/products/terrain-50.html
+- format: ''
+  name: ''
+  url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50
 schema: default
-title: OS Open Roads
+title: OS Terrain 50 Contour
 ---

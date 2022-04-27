@@ -1,17 +1,18 @@
 ---
 category:
-- Education
-date_created: '2017-07-17'
+- Transportation
+- Planning / Zoning
+date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: "<p>The location of local authority schools across Argyll and Bute - primary,\
-  \ secondary and special needs;\_non-denominational and denominational (Roman Catholic).\
-  \ Each school within a joint campus is shown separately.</p>"
+notes: <p>Action proposed by the Local Development Plan in support of its settlement
+  plans and development proposals involving the management of traffic and access in
+  relation to land use.</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=dd6a8a84e7d64a8b92d4700a67b29b85
-records: 94
+original_dataset_link: https://www.arcgis.com/home/item.html?id=3b73e8a6bda14a1492c89523103bbc35
+records: 3
 resources: []
 schema: default
-title: Open Data - Schools
+title: Open Data - Traffic Management Area
 ---

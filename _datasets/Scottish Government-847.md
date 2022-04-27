@@ -1,17 +1,15 @@
 ---
 category:
-- Uncategorised
+- Economy
 date_created: '2019-10-09'
-date_updated: '2020-03-31'
+date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August
-  2016. This dataset contains the indicators that were used to calculate the education
-  domain of SIMD.</p>
+notes: <p>Feedback statistics covering suggestions received by Social Security Scotland.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation---education-indicators
+original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-feedback-suggestions
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation - Education Indicators
+title: 'Social Security Scotland Feedback: Suggestions'
 ---

@@ -1,37 +1,29 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-04-02'
-date_updated: '2022-01-25'
+- Health / Human Services
+date_created: '2019-05-29'
+date_updated: '2022-02-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Summary of discharges from hospital and deaths in Scotland resulting from
-  a heart condition (including coronary heart disease, heart attack, heart failure
-  and angina).</p>
+notes: '<p>Estimates of completeness of outpatient, acute, maternity, mental health
+  and geriatric long stay SMR records received from boards and Health Care providers
+  in recent years.</p>
 
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://beta.isdscotland.org/topics/heart-disease-and-stroke/">PHS Heart
-  Disease Website</a>. Further information on heart disease can be found in the <a
-  href="https://publichealthscotland.scot/publications/scottish-heart-disease-statistics/">recent
-  annual publication</a>. The date of the next release can be found on our list of
-  <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>More to this topic are can be found on the <a href="https://www.isdscotland.org/products-and-Services/Data-Support-and-Monitoring/SMR-Completeness/">ISD
+  Scotland website</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-heart-disease-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-morbidity-record-completeness
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/748e2065-b447-4b75-99bd-f17f26f3eaef/download/hd_activitybyhbr.csv
+  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/03cf3cb7-41cc-4984-bff6-bbccd5957679/download/quarters.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/5379a655-d677-46cf-814d-bc0574ac59e4/download/hd_activitybyca.csv
+  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/daf55fd2-457f-4845-9af1-5d154cc0b19c/download/financialyr.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/dc0512a8-eb49-43b9-84f1-17ef95365d57/download/hd_mortalitybyhbr.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/fc7b42f1-4de6-48dd-b640-613fb0aa427d/download/hd_mortalitybyca.csv
+  url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/96cf4b14-68fe-4dd9-a64c-57db91dbf103/download/calendaryr.csv
 schema: default
-title: Scottish Heart Disease Statistics
+title: Scottish Morbidity Record Completeness
 ---

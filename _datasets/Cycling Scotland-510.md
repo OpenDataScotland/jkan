@@ -1,23 +1,19 @@
 ---
 category:
 - Transportation
-date_created: '2019-10-29T14:22:23.676Z'
-date_updated: '2020-04-20'
-license: https://creativecommons.org/licenses/by/4.0/
+date_created: '2019-05-13T14:44:51.982Z'
+date_updated: '2019-10-28'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>This dataset holds the locations for all of Cycling Scotland's all-mode
-  traffic counts across Scotland, including the dates the counts were undertaken</p>
+notes: <p>Cycle data from 2018 City Centre Cordon survey</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec524177-6c0e-497d-85b9-3906eb525840
 records: null
 resources:
-- format: JSON
-  name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9dab7bac-c9ca-4c4f-9daa-d2617b328017/1/urql
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393
+- format: PDF
+  name: PDF
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/ebe31a3b-6295-4338-bcd6-a466ac521501/2018_Cycling
+    Cordon Plan_ISSUE.pdf
 schema: default
-title: National Monitoring Framework - all-mode traffic survey locations - Cycling
-  Scotland
+title: Glasgow City Centre Cordon Count
 ---

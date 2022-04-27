@@ -1,25 +1,26 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-08-10T14:30:44.494Z'
+- Transportation
+date_created: '2020-07-20T08:53:30.537Z'
 date_updated: '2021-08-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>All-mode traffic data from 48-hour surveys across Scotland in May 2021</p>
+notes: <p>All-mode traffic data from 48-hour surveys across Scotland in September
+  2018</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b4e027e-59e2-4147-994f-c2f01cd08747
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/a0f74c16-ff56-4d36-a26d-8d07e9a5a449
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eafbe615-dba0-4a67-a711-5b966bf72fde
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=764a63a7-fb84-424b-a957-eb0f6008630c
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/20f490ba-edef-4843-822a-cd3e2670916f/2/urql
 - format: XML
   name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d8a1badd-3280-40bf-b1fa-c6c505c902b5
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f255f058-4237-42a4-8ddf-e88d2627ae66
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7b202b52-1850-4396-b668-dca476a69da5
 schema: default
-title: National Monitoring Framework - all-mode traffic survey results May 2021 -
-  Cycling Scotland
+title: National Monitoring Framework - all-mode traffic survey results September 2018
+  - Cycling Scotland
 ---

@@ -1,44 +1,35 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-03-12'
-date_updated: '2022-02-01'
+- Health / Human Services
+date_created: '2019-07-04'
+date_updated: '2022-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>These data provide monthly information on the number of hospital bed days
-  occupied by people delayed in their discharge and the number of people experiencing
-  a delay in discharge from hospital at the monthly census point. The data relate
-  to people aged 18 and over who were clinically ready for discharge. Figures are
-  shown for Scotland, NHS Board of delay and Council area / Local authority of residence.</p>
+notes: '<p>This dataset reports key statistics on diagnostic waiting times as a monthly
+  summary of patients waiting times for eight key diagnostic tests and investigations.</p>
 
-  <p>Further information on delayed discharges can be found in the <a href="https://publichealthscotland.scot/publications/delayed-discharges-in-nhsscotland-monthly/">monthly</a>
-  and <a href="https://publichealthscotland.scot/publications/delayed-discharges-in-nhsscotland-annual/">annual
-  publications</a>.
+  <p>Further information on diagnostic waiting times across Scotland can be found
+  in the <a href="https://publichealthscotland.scot/publications/nhs-waiting-times-diagnostics/">publication
+  summary</a>. All publications and supporting material to this topic area can be
+  found on the <a href="https://www.isdscotland.org/Health-Topics/Waiting-Times/Diagnostics/">ISD
+  Scotland Website</a>. A selection of information from this publication is included
+  in <a href="http://www.nhsperforms.scot/">NHS Performs</a>.</p>
 
-  The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>This publication includes a revision of March 2021 data for CT and MRI scans,
+  due to a resubmission of data from NHS Western Isles. Scotland figures are therefore
+  also affected. The figures for total waiting, patients waiting over six weeks, percentage
+  of patients waiting over six weeks and distribution of waits for the two types of
+  tests have been amended accordingly. Total radiology figures remain unaffected.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/delayed-discharges-in-nhsscotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/diagnostic-waiting-times
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/fd354e4b-6211-48ba-8e4f-8356a5ed4215/download/2021-12_delayed-discharge-beddays-health-board.csv
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/10dfe6f3-32de-4039-84c2-7e7794a06b31/download/diagnostics_by_board_december_2021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/513d2d71-cf73-458e-8b44-4fa9bccbf50a/download/2021-12_delayed-discharge-beddays-council-area.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/49ca8a39-7f01-4e2b-acd6-205bc9827852/download/2021-12_delayed-discharge-census-health-board.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/0924cb38-25e6-431f-b144-7e30ab4a1a0b/download/2021-12_delayed-discharge-census-council-area.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/b7276489-6c88-455c-8429-033317f44914/download/2016-06_delayed-discharge-beddays-health-board.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/2a07d2e2-fa0b-4bf7-8a49-36db4ca5f35e/download/2016-06_delayed-discharge-beddays-council-area.csv
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/df75544f-4ba1-488d-97c7-30ab6258270d/download/diagnostics_scotland_december_2021.csv
 schema: default
-title: Delayed Discharges in NHSScotland
+title: Diagnostic Waiting Times
 ---

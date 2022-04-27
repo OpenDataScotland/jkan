@@ -1,5 +1,6 @@
 ---
 category:
+- Economy
 - Education
 date_created: ''
 date_updated: '2021-12-07'
@@ -15,24 +16,24 @@ notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and 
   \ data is obtained from schools management information systems and is validated\
   \ by ScotXed.</p>"
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/dbadfece12ff4b79ae14d6891f1cab77_0
+original_dataset_link: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/dbadfece12ff4b79ae14d6891f1cab77/rest/services/OPEN_DATA/School_Census_Secondary_2020/MapServer/0
+  url: https://utility.arcgis.com/usrsvcs/servers/52383d4cda9e4cc1b77204fe53a99728/rest/services/OPEN_DATA/School_Census_ASL_2020/MapServer/0
 - format: GEOJSON
   name: GEOJSON
-  url: https://data.glasgow.gov.uk/datasets/dbadfece12ff4b79ae14d6891f1cab77_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://data.glasgow.gov.uk/datasets/dbadfece12ff4b79ae14d6891f1cab77_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://data.glasgow.gov.uk/datasets/dbadfece12ff4b79ae14d6891f1cab77_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://data.glasgow.gov.uk/datasets/dbadfece12ff4b79ae14d6891f1cab77_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.glasgow.gov.uk/datasets/52383d4cda9e4cc1b77204fe53a99728_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: School Census Secondary 2020
+title: School Census ASL 2020
 ---

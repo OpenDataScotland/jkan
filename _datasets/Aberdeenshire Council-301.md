@@ -1,8 +1,8 @@
 ---
 category:
-- Education
+- Environment
 date_created: ''
-date_updated: '2018-02-14'
+date_updated: '2018-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_primary_school_locations.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/recycling_centres.kmz
 schema: default
-title: Primary school locations within Aberdeenshire
+title: Recycling centres
 ---

@@ -1,35 +1,30 @@
 ---
 category:
-- Planning / Zoning
-- Environment
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
-license: No licence
+- Transportation
+- Education
+date_created: '2021-09-24'
+date_updated: '2021-12-03'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
-notes: <p>Perth Green Belt from the 2019 Perth &amp; Kinross Council Adopted Local
-  Development Plan</p>
+notes: "<p>The Hands Up Scotland Survey looks at how pupils across the country travel\
+  \ to school and nursery.</p>\n<p>The project is funded by Transport Scotland and\
+  \ is a joint survey between Sustrans and all 32 Scottish local authorities.</p>\n\
+  <p>Each September, schools across Scotland complete the survey by asking their pupils\
+  \ \u2018How do you normally travel to school?\u2019. Council staff distribute the\
+  \ survey to schools and return pupil responses to the Sustrans\u2019 Research and\
+  \ Monitoring Unit for overall collation, analysis and reporting.</p>\n<p>The most\
+  \ recent results, published on 24th June 2021 in the 2020 Annual Report, provide\
+  \ a valuable snapshot of school travel in Scotland.</p>"
 organization: Perth and Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/green-belt
+original_dataset_link: https://data.pkc.gov.uk/dataset/hands-up-scotland-survey
 records: null
 resources:
-- format: HTML
-  name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/dee9de7efe6d460489782d361b668d7b_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Green_Belt/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/dee9de7efe6d460489782d361b668d7b_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/dee9de7efe6d460489782d361b668d7b_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/dee9de7efe6d460489782d361b668d7b_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/dee9de7efe6d460489782d361b668d7b_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/dataset/b7473a77-cd94-459a-92d8-7e0710e303e7/resource/4771a517-2049-4dc3-93bc-fe08075f6472/download/analysis-by-travel-mode-perth-and-kinross.csv
+- format: CSV
+  name: CSV
+  url: https://data.pkc.gov.uk/dataset/b7473a77-cd94-459a-92d8-7e0710e303e7/resource/971e7bd6-13df-4beb-872b-d73717172893/download/responses-by-school-type-perth-and-kinross-plus-national.csv
 schema: default
-title: Green Belt
+title: Hands Up Scotland Survey
 ---

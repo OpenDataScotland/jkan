@@ -1,15 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-12-01'
+date_created: '2019-07-19'
 date_updated: '2019-07-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Renfrewshire Council
-notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
+notes: "<p>Map showing location of heritage buildings and monuments in Renfrewshire\
+  \ with links to detailed descriptions on\_https://paisley.is</p>"
 organization: Renfrewshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=470b2275323447fa97133a3971de735b
-records: 21
+original_dataset_link: https://www.arcgis.com/home/item.html?id=a4f0ac4f0fed458cad272614796a3e2e
+records: null
 resources: []
 schema: default
-title: Council Housing Stock
+title: Heritage Buildings and Monuments
 ---

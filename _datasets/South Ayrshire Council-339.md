@@ -1,16 +1,17 @@
 ---
 category:
+- Arts / Culture / History
 - Planning / Zoning
 - Environment
 date_created: '2015-10-30'
-date_updated: '2019-09-13'
+date_updated: '2018-04-20'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Extent of gardens and designed landscapes across Ayrshire</p>
+notes: <p>Special areas of conservation in Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=4176b297b0564de59db94477a6865ada
-records: 141
+original_dataset_link: https://www.arcgis.com/home/item.html?id=1df49391cbf448e4a7786efe6b52f008
+records: 2034
 resources: []
 schema: default
-title: Gardens and Designed Landscapes
+title: Special Areas of Conservation
 ---

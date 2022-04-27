@@ -1,45 +1,62 @@
 ---
 category:
-- Uncategorised
-date_created: '2017-09-13'
-date_updated: '2021-12-14'
+- Education
+- Health / Human Services
+date_created: '2021-03-29'
+date_updated: '2022-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Public Health Scotland has released Community Pharmacy activity and direct
-  pharmaceutical care services. This information release makes these data available
-  in response to information requests for contractor data relating to specific Community
-  Pharmacy services. </p>
-
-  <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+notes: "<p>This dataset presents information on COVID-19 in children and young people\
+  \ of educational age, education staff and educational settings. This includes:</p>\n\
+  <p>\u2022   Testing and cases among children and young people of educational age.</p>\n\
+  <p>\u2022   Hospital admissions related to COVID-19 among children and young people\
+  \ of educational age.</p>\n<p>\u2022   Information from contact tracing on cases\
+  \ present in an educational setting in the 7-days before symptom onset, and on cases\
+  \ who work in education or childcare.</p>\n<p>\u2022   Information about COVID-19\
+  \ cases in registered school pupils.</p>\n<p>This data is also available on the\
+  \ <a href=\"https://scotland.shinyapps.io/phs-covid19-education/_w_852fb58e/\">COVID-19\
+  \ Education Surveillance Dashboard</a>. Additional data sources relating to this\
+  \ topic area are provided in the Links section of the Metadata below. </p>\n<p>All\
+  \ publications and supporting material to this topic area can be found on the <a\
+  \ href=\"https://publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-data-and-intelligence/enhanced-surveillance-of-covid-19-in-education-settings/\"\
+  >Enhanced Surveillance of COVID-19 in Education settings</a> section of the Public\
+  \ Health Scotland website.</p>\n<p><strong>From 11/06/2021 data completeness will\
+  \ be up to the previous Wednesday, so weekly data are aggregated from Thursday to\
+  \ Wednesday. Previously data covered periods from Saturday to Friday. This is due\
+  \ to NHS Boards submitting admission data from Monday to Friday and a three day\
+  \ lag for some boards by the time data is processed for COVID-19 hospital admission.</strong></p>\n\
+  <p><em>From 2nd of July, information on testing and admissions will be extended\
+  \ to include 20-21 years olds, and admissions will also include 18-19 year olds.\
+  \ From 13th of August, information on PCR testing and admissions has been extended\
+  \ to include 0-1 year olds.</em></p>"
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/58f982d6-47e7-4773-bb6e-5064115c5f81/download/contractor-activity-2021.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/7caee5e0-d1bf-46fa-87e0-bfd7197b315e/download/cases_among_children_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/29a583a9-0527-4d60-a193-09a20cfb5069/download/contractor-activity-2020.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/ee094a26-d085-4cc5-ac6c-f3930a7c71c7/download/tests_among_children_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/80274dba-3cca-4e31-8d0c-0a90c1ae46da/download/contractor-activity-2019.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/2b631540-1bcf-4d3a-9244-131e1a650051/download/admissions_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/a3484d2f-f744-4d20-876c-6e3db2909db6/download/contractor-activity-2018.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/0c9428bc-76d0-4420-b05a-9849c1e68372/download/cms_educational_setting_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/61f6e164-8e7e-4282-b691-50fbb14fd11c/download/contractor-activity-2017.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/bf847bab-16fc-4646-8b36-f311a18ff10a/download/cms_occupational_sector_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/0ae561a7-e861-4854-8017-966bc6ad5eaf/download/contractor-activity-2016.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/866f1e8a-ddca-40f7-9437-6959b97e1e97/download/cms_completeness_data.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/324c5d87-5d95-41aa-be38-140328d40b73/download/contractor-activity-2015.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/d0ae885c-cfbe-4ca2-9bfd-0e385092e003/download/rates_by_age_group.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/9c22675d-c83f-4245-a0bd-0f1de64fa145/download/contractor-activity-2014.csv
+  url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/b4b602e6-8142-4055-8894-54a23c655f0b/download/schools_data_0_1_2.csv
 schema: default
-title: Community Pharmacy - Contractor Activity
+title: COVID-19 Education Surveillance
 ---

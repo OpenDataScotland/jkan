@@ -1,26 +1,39 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-04-30'
-date_updated: '2021-09-02'
+- Environment
+date_created: '2019-02-11'
+date_updated: '2021-04-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<p><a href=\"https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/\"\
-  ><strong>The Scottish Index of Multiple Deprivation 2020</strong></a><strong> is\
-  \ the Scottish Government\u2019s official tool for identifying those places in Scotland\
-  \ suffering from deprivation. It incorporates several different aspects of deprivation\
-  \ (employment, income, health, education, skills and training, geographic access,\
-  \ crime and housing), combining them into a single index.</strong></p>"
+notes: '<p><strong>Domestic waste collection datasets are no longer published under
+  this heading. From January 2021, these datasets will be available under the </strong><a
+  href="https://data.stirling.gov.uk/dataset/waste-services-2021-onwards"><strong>Waste
+  Services (2021 onwards)</strong></a><strong> group on this platform.</strong></p>
+
+  <p><strong>This dataset shows the breakdown per calendar month of waste received
+  in tonnage from Stirling Council''s domestic waste collections.These figures are
+  validated by the Scottish Environmental Protection Agency (SEPA) on an annual basis</strong>
+  </p>
+
+  <p><a href="https://www.stirling.gov.uk/bins-waste-recycling/"><strong>Bins &amp;
+  Recycling</strong></a> <strong>provides details of Stirling Council''s Waste Management
+  Services.</strong></p>
+
+  <p><strong>For information on  environmental protection, visit </strong><a href="https://www.sepa.org.uk/"><strong>SEPA''s
+  website</strong></a><strong>.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/scottish-index-of-multiple-deprivation-simd-2020
+original_dataset_link: https://data.stirling.gov.uk/dataset/waste-management
 records: null
 resources:
-- format: PDF
-  name: PDF
-  url: https://data.stirling.gov.uk/dataset/41f3da13-b458-4e31-88a3-501bc684ee61/resource/1d9627a9-c7d2-48a6-a67e-e9a66b581716/download/simd-2020-domains-methodology.pdf
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/41f3da13-b458-4e31-88a3-501bc684ee61/resource/d59a12e4-c1c0-4413-9e50-85637318b9d8/download/20210805-simd-2020-v2.2-data-for-stirling.csv
+  url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/1dc20298-7291-4937-ad19-6e66566b8d6c/download/20190322-waste-management-january-to-december-2018.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/d5fa214b-1cd3-4b4d-9624-f91e302ba1d2/download/20200116-waste-management-january-to-december-2019.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/22683cc9-d7fc-4a87-8001-c9dc4e4e4a62/download/20210115-waste-management-january-to-december-2020.csv
 schema: default
-title: Scottish Index of Multiple Deprivation (SIMD) 2020
+title: Waste Management (2018 to 2020, inclusive)
 ---

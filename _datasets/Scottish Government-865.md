@@ -1,17 +1,16 @@
 ---
 category:
-- Economy
-date_created: '2020-05-11'
-date_updated: '2021-05-06'
+- Environment
+date_created: '2020-06-19'
+date_updated: '2021-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number of clients responding to Equality Monitoring and Feedback forms from
-  10th December 2018 to 8th December 2019.</p>
+notes: <p>This contains the results of the Scottish Greenhouse Gas Inventory, which
+  is the key tool for understanding the origins and magnitudes of greenhouse emissions</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-clients-responding-to-equality-forms-to-december-2019
+original_dataset_link: http://statistics.gov.scot/data/greenhouse-gas-emissions-by-national-communications-category
 records: null
 resources: []
 schema: default
-title: 'Social Security Scotland: clients responding to equality forms to December
-  2019'
+title: Greenhouse Gas Emissions by National Communications Category
 ---

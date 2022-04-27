@@ -1,16 +1,16 @@
 ---
 category:
-- Planning / Zoning
-date_created: '2019-07-31'
-date_updated: '2019-07-31'
+- Education
+date_created: '2017-07-07'
+date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: '<p>Spatial Framework for Wind Turbines over 50 metres: Supplementary Guidance
-  to Local Development Plan 2015. Adopted December 2016</p>'
+notes: <p>Boundaries of Primary School Catchment Areas in Argyll and Bute, including
+  denominational (Roman Catholic) Primary Schools.</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=2078db2e07f54b38af1f5e96bbd95dc4
-records: 4
+original_dataset_link: https://www.arcgis.com/home/item.html?id=e25fab81a2c045ca85cccf6cdee98b0f
+records: 84
 resources: []
 schema: default
-title: Spatial Framework for Wind Energy
+title: Open Data - Primary School Catchment Areas
 ---

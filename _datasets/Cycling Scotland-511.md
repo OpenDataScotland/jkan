@@ -1,25 +1,22 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-04-04T10:46:24.051Z'
-date_updated: '2019-11-08'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+- Transportation
+date_created: '2019-10-17T15:06:31.003Z'
+date_updated: '2019-11-26'
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
-notes: <p>This dataset shows the locations of Cycling Scotland's Go Mountrain Bike
-  centres across the UK as of 2019</p>
+notes: <p>This data highlights all university and college campuses across Scotland
+  that have received a Cycling Friendly Campus Award</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ec90664f-00ed-4ef7-afe0-5a51aba90294
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/ccdfe336-fc50-44e4-8e07-77ec03547b0e
 records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=989cccbd-1e21-4aa3-8071-5556c0aa720e
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c92986a3-157a-485b-b967-f15f041ccecf/5/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8fa7d5eb-ed2e-4020-9d6b-e56bb9e9e5fe
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=efa338b1-2fe2-4f65-a08c-21400237de94
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a101efee-bc93-47fc-b403-3d97149a0f38
 schema: default
-title: Go Mountain Bike - Centre Locations - Cycling Scotland
+title: Cycling Friendly - Campus Award - Cycling Scotland
 ---

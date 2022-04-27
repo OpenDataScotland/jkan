@@ -1,65 +1,91 @@
 ---
 category:
+- Elections / Politics
+- Planning / Zoning
 - Health / Human Services
-date_created: '2019-11-07'
-date_updated: '2021-11-30'
+date_created: '2018-02-06'
+date_updated: '2021-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Patients who require the medical opinion of a specialist clinician may
-  be referred to an outpatient clinic for treatment or investigation. An outpatient
-  is a patient who attends (outpatient attendance) a consultant or other medical clinic,
-  or has an arranged meeting with a consultant or a senior member of their team outwith
-  a clinic session. Outpatients are not admitted to a hospital and do not use a hospital
-  bed.</p>
+notes: '<p>Population estimates for all geography types in Scotland:</p>
 
-  <p>Outpatient attendances can be categorised as new or follow-up (return) attendances.
-  Information on return appointments is only available for datasets that report on
-  NHS Board of Treatment. Files reporting on the residency of patients only contain
-  data for new outpatients as the ISD(S)1 data source for return outpatients does
-  not contain residence information. ISD(S)1 also does not record information on the
-  deprivation, age or sex of patients.</p>
+  <ul>
 
-  <p>All publications and supporting material to this topic area can be found on the
-  <a href="https://beta.isdscotland.org/topics/hospital-care/">PHS Website</a>. Further
-  information on hospital activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/">recent
-  quarterly publication</a>. </p>
+  <li>
 
-  <p>The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>Data Zone (2011) from 2001 to 2020</p>
+
+  </li>
+
+  <li>
+
+  <p>Intermediate Zone (2011) from 2001 to 2020</p>
+
+  </li>
+
+  <li>
+
+  <p>Council Area (2011) from 1981 to 2020</p>
+
+  </li>
+
+  <li>
+
+  <p>Health and Social Care Partnership (2016) from 1981 to 2020</p>
+
+  </li>
+
+  <li>
+
+  <p>Health Board (2014)  from 1981 to 2020</p>
+
+  </li>
+
+  </ul>
+
+  <p>All resources include Scotland figures for the relevant time period.</p>
+
+  <p>Population estimates are broken down by single year ages and by sex, and gives
+  totals for both.</p>
+
+  <p>Based on 2011 census data.</p>
+
+  <p><em>Note: Health and Social Care Partnerships may also be referred to as integrated
+  joint boards or integration authorities by other public bodies.</em></p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/population-estimates
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/421fe3d3-25f8-4ec5-be48-2da3a4823c23/download/outpatients_by_nhs_board_of_residence.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c505f490-c201-44bd-abd1-1bd7a64285ee/download/dz2011-pop-est_07092021fm.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/3e767ae5-d6a1-434e-bbed-abd5ab6c23a9/download/outpatients_by_nhs_board_of_residence_age_and_sex.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_07092021fm.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/dd94be3e-d9a1-4367-bfe2-618b5b56d9e4/download/outpatients_by_nhs_board_of_residence_and_simd.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/09ebfefb-33f4-4f6a-8312-2d14e2b02ace/download/ca2019_pop_est_29062021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/c8766697-eef0-452f-8041-4a7cc5fa8039/download/outpatients_by_nhs_board_of_residence_and_specialty.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c3a393ce-253b-4c75-82dc-06b1bb5638a3/download/hscp2019_pop_est_29062021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/480d4317-20ed-44f0-9ca5-f7a866b2ee2d/download/outpatients_by_nhs_board_of_treatment.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1/download/hb2019_pop_est_29062021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/806245b0-46c7-4a4c-a97a-1b7b9c2fab3e/download/outpatients_by_nhs_board_of_treatment_age_and_sex.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/bf086aee-130d-4487-b854-808db0e29dc4/download/dz2001_pop_est_02072020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/e4d9f98a-20b4-401b-bb92-6026c127129e/download/outpatients_by_nhs_board_of_treatment_and_simd.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/0bb11b73-27ad-45ed-9a35-df688d69b12b/download/iz2001_pop_est_02072020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/ff1207f8-1f44-4554-94c8-a47625fc3a0d/download/outpatients_by_nhs_board_of_treatment_and_specialty.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/5502b69c-5ba2-4b1e-9840-b3b868d6d64b/download/hb1995_pop_est_1974_1980_07072020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/a0c4f931-f99d-441a-8c50-7c1041b57781/download/outpatients_cross_boundary_flow.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/51b079bf-131b-4e7d-a0e7-56ee43d42413/download/hb1995_pop_est_1981_2006_07072020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/notes.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/ed097ff7-ae9b-4977-ac13-94bc8d0f1331/download/hb2006_pop_est_01072020.csv
 schema: default
-title: Quarterly Outpatient Activity
+title: Population Estimates
 ---

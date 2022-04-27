@@ -1,15 +1,15 @@
 ---
 category:
-- Education
+- Public Safety
 date_created: '2014-07-29'
-date_updated: '2021-03-31'
+date_updated: '2021-03-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>Number, and percent, of school leavers by destination from initial survey</p>
+notes: <p>Percentage of summary criminal cases dealt with within 26 weeks.</p>
 organization: Scottish Government
-original_dataset_link: http://statistics.gov.scot/data/school-leaver-destinations
+original_dataset_link: http://statistics.gov.scot/data/court-process-times
 records: null
 resources: []
 schema: default
-title: School Leaver Destinations Initial
+title: Court Process Times
 ---

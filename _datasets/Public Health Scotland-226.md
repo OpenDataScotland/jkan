@@ -1,34 +1,29 @@
 ---
 category:
-- Uncategorised
-date_created: '2020-04-02'
-date_updated: '2021-09-21'
+- Health / Human Services
+date_created: '2018-12-06'
+date_updated: '2022-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset gives an annual update on the proportion of women of reproductive
-  age (15-49) prescribed long acting reversible methods of contraception (LARC) in
-  primary care and sexual health settings. This includes the contraceptive injection,
-  implant, intrauterine device (IUD) and intrauterine system (IUS).</p>
+notes: '<p>Key statistics on new and unplanned return attendances at Accident and
+  Emergency (A&amp;E) services across Scotland. The information presented  includes
+  trends in the number of attendances and admissions, and performance against the
+  four hour waiting time standard. </p>
 
-  <p>Further information on long acting reversible contraception can be found in the
-  <a href="https://publichealthscotland.scot/publications/long-acting-reversible-contraception-larc-key-clinical-indicator-kci/">recent
-  annual publication</a> and the <a href="https://beta.isdscotland.org/find-publications-and-data/population-health/sexual-health/">ISD
-  Sexual Health</a> topic page. The date of the next release can be found on our list
-  of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>'
+  <p>Further information on A&amp;E services across Scotland can be found in the <a
+  href="https://publichealthscotland.scot/publications/ae-activity-and-waiting-times/">publication
+  summary</a>, the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/Emergency-Department-Activity/Data-Quality/AE2-User-Guide_V1-3.pdf">A&amp;E
+  User Guide</a> and in the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/ED_Background_Glossary.pdf">Background
+  Information</a>. All publications and supporting material to this topic area can
+  be found on the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/">ISD
+  Scotland Website</a>.</p>'
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/long-acting-reversible-methods-of-contraception-larc-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/monthly-emergency-department-activity-and-waiting-times
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/a2e1e94c-9e39-480e-9644-c6d380ae9dea/download/larc_by_agegroup_2021.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/b351cf55-fdd4-424e-a413-956612756e84/download/larc_by_hb_2021.csv
-- format: CSV
-  name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/bec034bb-d3c4-41dc-9449-436780d3f71f/download/larc_by_deprivation-_2021.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202201.csv
 schema: default
-title: Long Acting Reversible Methods of Contraception (LARC) in Scotland
+title: Monthly Emergency Department Activity and Waiting Times
 ---

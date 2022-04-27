@@ -1,27 +1,21 @@
 ---
 category:
-- Uncategorised
-date_created: '2021-09-14T16:43:33.184Z'
-date_updated: '2021-09-14'
+- Transportation
+date_created: '2018-05-11T14:16:53.569Z'
+date_updated: '2019-12-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>Data from Transport and Travel in Scotland and the Scottish Household Survey
-  relating to the number of bikes available for private use by Local Authority in
-  2019.</p>
+notes: <p>Data from Transport and Travel in Scotland relating to cycling frequency
+  in the previous seven days. Split by gender, age, employment status, net household
+  income, SIMD and more.</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0d94f83a-4b54-407c-89ae-6010ebd3ac8d
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/1891331f-7ec1-4d7a-9ad5-4c43bb817ad8
 records: null
 resources:
-- format: JSON
-  name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/ae0b651b-ce85-42b8-a9b6-7423465de8f4/1/urql
-- format: XML
-  name: XML
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=14508826-0c68-4dce-beb9-01620d1b4c7c
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=614df944-323e-4899-b099-9da795a66f77
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7a097bf0-1a75-4cf2-b4d7-90d6b73aa15e
 schema: default
-title: Number of bikes available for private use - Travel and Transport Scotland 2019
-  - Scottish Household Survey
+title: Frequency of cycling in the previous seven days 2016 - Transport and Travel
+  Scotland 2018 - Scottish Household Survey
 ---

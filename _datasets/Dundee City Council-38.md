@@ -1,31 +1,26 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-04-16'
+- Arts / Culture / History
+date_created: '2017-10-30'
 date_updated: '2019-03-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Dundee City Council
-notes: <p>Operational Property is that which is dedicated to direct service delivery
-  e.g. offices.</p>
+notes: "<p>As part of an exciting collaboration with Dundee Place Partnership, <a\
+  \ href=\"https://creativedundee.com/\">Creative Dundee</a> has been doing some research\
+  \ and consultation to find out more about the cultural and creative happenings across\
+  \ the city. For 5 months, they have been to many of Dundee\u2019s community hubs\
+  \ and events with a big map of the city where people could pin down their favourite\
+  \ places to go, and fill a short survey about the activities they like doing in\
+  \ their free time and what they\u2019d like to see happening across the city. The\
+  \ places are shared in this dataset. Read more about the research and see other\
+  \ results on Creative Dundee's website. </p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/operational-property
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/places-database
 records: null
 resources:
 - format: CSV
   name: CSV
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:SV_OPERATIONAL_PROPERTY&outputFormat=csv
-- format: ZIP
-  name: ZIP
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:SV_OPERATIONAL_PROPERTY&outputFormat=SHAPE-ZIP
-- format: GEOJSON
-  name: GEOJSON
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?version=2.0.0&service=wfs&request=GetFeature&typeName=inspire:SV_OPERATIONAL_PROPERTY&outputFormat=json
-- format: WMS
-  name: WMS
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wms?service=WMS&version=1.3.0&request=getCapabilities
-- format: WFS
-  name: WFS
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=WFS&version=1.1.0&request=getCapabilities
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRh_IIlWTpBVHvsln6J6ynyy8iTCnLVdJ3eDIgpJj66oJgMQOWmzhQedLZ0Hq9RsYwwPiICOfYsD9tg/pub?gid=1914242938&single=true&output=csv
 schema: default
-title: Operational Property
+title: Dundee Places
 ---

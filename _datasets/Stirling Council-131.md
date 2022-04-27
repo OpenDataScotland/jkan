@@ -1,34 +1,26 @@
 ---
 category:
-- Uncategorised
-date_created: '2019-02-22'
-date_updated: '2022-01-06'
+- Economy
+date_created: '2021-04-30'
+date_updated: '2021-09-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<p><strong>This dataset details complaints received from members of the public\
-  \ about dog fouling.</strong></p>\n<p><strong><a href=\"https://www.legislation.gov.uk/asp/2003/12/contents\"\
-  >The Dog Fouling (Scotland) Act 2003</a> makes it an offence for a person in charge\
-  \ of a dog to fail to remove and dispose appropriately any excrement after the dog\
-  \ has fouled in public places. The fine amount for this offence is \xA380.</strong></p>"
+notes: "<p><a href=\"https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/\"\
+  ><strong>The Scottish Index of Multiple Deprivation 2020</strong></a><strong> is\
+  \ the Scottish Government\u2019s official tool for identifying those places in Scotland\
+  \ suffering from deprivation. It incorporates several different aspects of deprivation\
+  \ (employment, income, health, education, skills and training, geographic access,\
+  \ crime and housing), combining them into a single index.</strong></p>"
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/safer-communities
+original_dataset_link: https://data.stirling.gov.uk/dataset/scottish-index-of-multiple-deprivation-simd-2020
 records: null
 resources:
+- format: PDF
+  name: PDF
+  url: https://data.stirling.gov.uk/dataset/41f3da13-b458-4e31-88a3-501bc684ee61/resource/1d9627a9-c7d2-48a6-a67e-e9a66b581716/download/simd-2020-domains-methodology.pdf
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/2a0c99be-a8e5-4eb5-bc0a-ca5b0e339e06/download/20190910-dog-fouling-notices-01.04.2018-to-31.03.2019.csv
-- format: CSV
-  name: CSV
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/4b9dbb63-868e-4b6f-8bb6-5c27c039884d/download/20210201-dog-fouling-notices-01.04.2019-to-31.03.2020.csv
-- format: CSV
-  name: CSV
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/a04c17fe-aeed-4293-8d60-3c14011accc6/download/20190910-dog-fouling-notices-01.04.2017-to-31.03.2018.csv
-- format: CSV
-  name: CSV
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/99e46798-c811-4548-9e83-c7183b03dbb4/download/20210510-dog-fouling-notices-01.04.2020-to-31.03.2021-v1.0.csv
-- format: CSV
-  name: CSV
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/940afe35-7c79-4f06-b763-eb156f5f7078/download/20220106-dog-fouling-notices-01.04.2021-to-31.03.2022-v1.0.csv
+  url: https://data.stirling.gov.uk/dataset/41f3da13-b458-4e31-88a3-501bc684ee61/resource/d59a12e4-c1c0-4413-9e50-85637318b9d8/download/20210805-simd-2020-v2.2-data-for-stirling.csv
 schema: default
-title: Dog Fouling Complaints
+title: Scottish Index of Multiple Deprivation (SIMD) 2020
 ---

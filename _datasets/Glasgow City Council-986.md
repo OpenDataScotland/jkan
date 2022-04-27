@@ -1,18 +1,18 @@
 ---
 category:
-- Uncategorised
+- Health / Human Services
 date_created: ''
-date_updated: '2022-02-03'
+date_updated: '2021-04-08'
 license: No licence
 maintainer: Glasgow City Council
-notes: "<p>Our open data is about more than the numbers \u2013 it relates to real\
-  \ people, places and issues. We want to bring the data to life by sharing some stories\
-  \ around what it tells us about the city and how we might use these insights to\
-  \ improve the lives of those who live and work in Glasgow.</p>"
+notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://data.glasgow.gov.uk/datasets/bffac4e5691841fca72288f82bfde58e
+original_dataset_link: https://data.glasgow.gov.uk/datasets/c60b49f824524b1495657651f67eb14b
 records: null
-resources: []
+resources:
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
+  url: https://storymaps.arcgis.com/stories/c60b49f824524b1495657651f67eb14b
 schema: default
-title: App Gallery
+title: Covid-19 in Glasgow - one year on
 ---

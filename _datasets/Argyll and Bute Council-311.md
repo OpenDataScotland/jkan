@@ -1,18 +1,15 @@
 ---
 category:
-- Elections / Politics
+- Education
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
 maintainer: Argyll and Bute Council
-notes: <p>Community councils are required to be established by local authorities.
-  They are the most local tier of statutory representation in Scotland. They bridge
-  the gap between local authorities and communities and help to make public bodies
-  aware of the opinions and needs of the communities they represent.</p>
+notes: <p>Boundaries of Secondary School Catchment Areas in Argyll and Bute</p>
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=faa76111592f4802971cee44a6c54bf6
-records: 56
+original_dataset_link: https://www.arcgis.com/home/item.html?id=d344834454e54fc891966ce23c3cfa34
+records: 12
 resources: []
 schema: default
-title: Open Data - Community Councils
+title: Open Data - Secondary School Catchment Areas
 ---
