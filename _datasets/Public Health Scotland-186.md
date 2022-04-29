@@ -1,7 +1,7 @@
 ---
 category:
-- Education
 - Health / Human Services
+- Education
 date_created: '2021-03-29'
 date_updated: '2022-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

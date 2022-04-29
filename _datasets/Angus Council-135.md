@@ -1,8 +1,8 @@
 ---
 category:
+- Real Estate / Land Records
 - Economy
 - Planning / Zoning
-- Real Estate / Land Records
 date_created: '2017-01-04'
 date_updated: '2017-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

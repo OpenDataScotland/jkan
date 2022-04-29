@@ -1,9 +1,9 @@
 ---
 category:
-- Elections / Politics
-- Economy
 - Health / Human Services
+- Elections / Politics
 - Planning / Zoning
+- Economy
 date_created: '2019-11-05'
 date_updated: '2022-03-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,9 +1,9 @@
 ---
 category:
-- Elections / Politics
-- Planning / Zoning
 - Health / Human Services
 - Economy
+- Planning / Zoning
+- Elections / Politics
 - Education
 date_created: '2018-12-07'
 date_updated: '2021-12-14'
