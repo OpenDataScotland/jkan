@@ -13,7 +13,7 @@ notes: '<p>This dataset contains the location details of Type A and Type B Priva
 
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bf7b4d832-1712-4c53-864e-0e755e0873ef%7D''
   rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bf7b4d832-1712-4c53-864e-0e755e0873ef%7D</a></p>'
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::private-water-supplies
 records: null
 resources:

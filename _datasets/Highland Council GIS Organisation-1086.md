@@ -8,7 +8,7 @@ maintainer: Highland Council GIS Organisation
 notes: '<p>Community Partnerships in Highland Council area (revised March 2017).</p>
 
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>'
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-partnerships
 records: null
 resources:

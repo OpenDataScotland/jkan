@@ -6,7 +6,7 @@ date_updated: '2017-03-16'
 license: No licence
 maintainer: Highland Council GIS Organisation
 notes: <p>Polling Places in the Highland Council area.</p>
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::pollingplaces
 records: null
 resources:

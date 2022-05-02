@@ -9,7 +9,7 @@ notes: "<p>Land indentified as Contaminated Land as per Part IIA Environmental P
   \ Act 1990 (Statutory Instrument).<div>Gemini metadata\_ record is at :<br /></div><p><a\
   \ href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901</a></p></p>"
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/45c3003e7c724eba833832197459e86c_0
 records: null
 resources:

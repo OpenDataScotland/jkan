@@ -7,7 +7,7 @@ date_updated: '2017-03-16'
 license: No licence
 maintainer: Highland Council GIS Organisation
 notes: <p>Polling Districts in the Highland Council area.</p>
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/77fa374a2e9146e2afdd3690e650d50e_0
 records: null
 resources:

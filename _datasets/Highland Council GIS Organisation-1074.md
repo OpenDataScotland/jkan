@@ -12,7 +12,7 @@ notes: "<p>Flare Zones within the Highland Council Area. A Flare Zone is an admi
   \ that this is a slightly generalised version of the boundaries.<div><br /></div><div>Gemini\
   \ metadata\_ record is at:</div><div><a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/{4c20561e-1a50-4a7b-b4eb-98e2af45a00a}'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/{4c20561e-1a50-4a7b-b4eb-98e2af45a00a}</a></div></p>"
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/516df9b993334e37b8a160bd41e39103_0
 records: null
 resources:

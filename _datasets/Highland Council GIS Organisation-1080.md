@@ -9,7 +9,7 @@ notes: "<p>Air Quality Management Areas in Highland Council area.<div><br /></di
   \ metadata\_ record is at:</div><div><a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/50122181-5f4c-49ed-9423-b63f502fea9a'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/50122181-5f4c-49ed-9423-b63f502fea9a</a></div><div><br\
   \ /></div></p>"
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/a28227b21bbd49dbb70cae596c9d1d58_0
 records: null
 resources:
