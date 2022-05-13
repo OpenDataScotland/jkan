@@ -10,13 +10,15 @@
  *   data-organization="sample-department"
  *   data-category="education"
  */
-import {pick, defaults, filter} from 'lodash'
+import { pick, defaults, filter } from 'lodash'
 
 import TmplDatasetItem from '../templates/dataset-item'
-import {queryByHook, setContent, createDatasetFilters} from '../util'
+import { queryByHook, setContent, createDatasetFilters } from '../util'
+
+import Fuse from 'fuse.js'
 
 export default class {
-  constructor (opts) {
+  constructor(opts) {
     const elements = {
       datasetsItems: queryByHook('datasets-items', opts.el),
       datasetsCount: queryByHook('datasets-count', opts.el),
@@ -32,17 +34,27 @@ export default class {
     setContent(elements.datasetsItems, datasetsMarkup)
 
     // // Dataset count
-    const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
+    const datasetSuffix = filteredDatasets.length > 1 ? 's' : ''
     const datasetsCountMarkup = filteredDatasets.length + ' dataset' + datasetSuffix;
     setContent(elements.datasetsCount, datasetsCountMarkup)
+
+    // 2. Set up the Fuse instance
+    // const fuse = new Fuse(books, {
+    //   keys: ['title', 'author.firstName']
+    // })
+    const datasetsFuse = new Fuse(opts.datasets, {
+      keys: ['title', 'organization', 'notes', 'category']
+    })
 
     // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)
     elements.searchQuery.on('keyup', (e) => {
       const query = e.currentTarget.value
 
+      console.log('test');
       // Datasets
-      const results = searchFunction(query)
+      //const results = searchFunction(query)
+      const results = query == '' ? opts.datasets : datasetsFuse.search(query).map(x => x.item);
       const resultsMarkup = results.map(TmplDatasetItem)
       setContent(elements.datasetsItems, resultsMarkup)
 
@@ -54,7 +66,7 @@ export default class {
 
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
-  _createSearchFunction (datasets) {
+  _createSearchFunction(datasets) {
     const keys = ['title', 'notes']
     return function (query) {
       const lowerCaseQuery = query.toLowerCase()
