@@ -42,6 +42,10 @@
 - name: Real Estate / Land Records
   logo: /img/categories/real-estate-land-records.svg
   featured: true
+- name: Tourism
+  logo: /img/categories/tourism.svg
+  logo_credit: WEBTECHOPS LLP from the Noun Project
+  featured: true
 - name: Transportation
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
