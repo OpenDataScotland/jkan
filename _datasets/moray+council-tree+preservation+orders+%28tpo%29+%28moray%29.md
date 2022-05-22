@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Environment
+- Council and Government
 - Planning and Development
 date_created: '2018-02-16'
 date_updated: '2020-11-30'

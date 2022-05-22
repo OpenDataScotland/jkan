@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Education
+- Council and Government
 date_created: ''
 date_updated: '2021-07-16'
 license: No licence

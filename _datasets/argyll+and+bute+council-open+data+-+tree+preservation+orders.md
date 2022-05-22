@@ -1,9 +1,9 @@
 ---
 category:
+- Environment
+- Parks / Recreation
 - Arts / Culture / History
 - Housing and Estates
-- Parks / Recreation
-- Environment
 - Planning and Development
 date_created: '2017-07-07'
 date_updated: '2017-07-18'

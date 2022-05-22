@@ -1,7 +1,7 @@
 ---
 category:
-- Environment
 - Housing and Estates
+- Environment
 - Planning and Development
 date_created: ''
 date_updated: '2021-06-24'

@@ -1,8 +1,8 @@
 ---
 category:
 - Housing and Estates
-- Planning and Development
 - Business and Economy
+- Planning and Development
 date_created: '2017-01-04'
 date_updated: '2017-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
