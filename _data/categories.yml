@@ -50,6 +50,10 @@
   logo: /img/categories/new_public_safety.svg
   logo_credit: Vectors Point from the Noun Project
   featured: true
+-name: Sport and Leisure
+  logo: /img/categories/sport_and_leisure.svg
+  logo_credit: Adrien Coquet from theNoun Project
+  featured: true
 - name: Tourism
   logo: /img/categories/tourism.svg
   logo_credit: WEBTECHOPS LLP from the Noun Project
