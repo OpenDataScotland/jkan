@@ -28,6 +28,9 @@
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
   featured: true
+- name: Housing and Estates
+  logo: /img/categories/housing_and_estates.svg
+  featured: true
 - name: Law and Licensing
   logo: /img/categories/law_and_licensing.svg
   logo_credit: ghufronagustian from the Noun Project
@@ -42,9 +45,6 @@
 - name: Public Safety
   logo: /img/categories/new_public_safety.svg
   logo_credit: Vectors Point from the Noun Project
-  featured: true
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
   featured: true
 - name: Tourism
   logo: /img/categories/tourism.svg
