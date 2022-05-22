@@ -1,10 +1,10 @@
 ---
 category:
+- Environment
+- Planning / Zoning
 - Real Estate / Land Records
 - Parks / Recreation
 - Arts / Culture / History
-- Planning / Zoning
-- Environment
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

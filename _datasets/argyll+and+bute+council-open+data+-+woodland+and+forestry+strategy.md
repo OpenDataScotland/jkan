@@ -1,9 +1,9 @@
 ---
 category:
-- Planning / Zoning
-- Real Estate / Land Records
-- Parks / Recreation
 - Environment
+- Planning / Zoning
+- Parks / Recreation
+- Real Estate / Land Records
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

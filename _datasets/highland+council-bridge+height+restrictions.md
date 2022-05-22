@@ -4,7 +4,7 @@ category:
 date_created: ''
 date_updated: '2022-02-23'
 license: No licence
-maintainer: Highland Council GIS Organisation
+maintainer: Highland Council
 notes: "<p>Locations of bridge height restrictions over roads adopted by The Highland\
   \ Council.<div><br /></div><div><span style='font-family:&quot;Avenir Next W01&quot;,\
   \ &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica\
@@ -12,7 +12,7 @@ notes: "<p>Locations of bridge height restrictions over roads adopted by The Hig
   \ href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/3581e0d3-a33e-48e7-b479-579c9b5b1fc0'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/3581e0d3-a33e-48e7-b479-579c9b5b1fc0</a><br\
   \ /></div></p>"
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/a8ab0322f9a042e588745dfed90189b4_0
 records: null
 resources:

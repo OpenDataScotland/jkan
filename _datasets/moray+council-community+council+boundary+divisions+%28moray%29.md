@@ -1,7 +1,7 @@
 ---
 category:
-- Planning / Zoning
 - Elections / Politics
+- Planning / Zoning
 date_created: '2017-06-26'
 date_updated: '2020-11-30'
 license: No licence

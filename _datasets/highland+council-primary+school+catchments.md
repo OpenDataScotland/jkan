@@ -1,16 +1,16 @@
 ---
 category:
-- Planning / Zoning
 - Education
+- Planning / Zoning
 date_created: ''
 date_updated: '2017-09-08'
 license: No licence
-maintainer: Highland Council GIS Organisation
+maintainer: Highland Council
 notes: '<p>Primary School Catchments in Highland. </p>
 
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/37631a4c-9490-4a1d-9772-d55d51ac0f06''
   rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/37631a4c-9490-4a1d-9772-d55d51ac0f06</a>.</p>'
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::primary-school-catchments
 records: null
 resources:

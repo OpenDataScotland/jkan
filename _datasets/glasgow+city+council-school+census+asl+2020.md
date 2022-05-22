@@ -1,7 +1,7 @@
 ---
 category:
-- Education
 - Economy
+- Education
 date_created: ''
 date_updated: '2021-12-07'
 license: No licence

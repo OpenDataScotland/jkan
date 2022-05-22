@@ -1,7 +1,7 @@
 ---
 category:
-- Planning / Zoning
 - Environment
+- Planning / Zoning
 date_created: '2018-02-16'
 date_updated: '2020-11-30'
 license: No licence

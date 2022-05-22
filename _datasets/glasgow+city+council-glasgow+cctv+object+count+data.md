@@ -30,7 +30,7 @@ records: null
 resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
-  url: https://api.ubdc.ac.uk/cctv/
+  url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
 schema: default
 title: Glasgow CCTV Object Count Data
 ---

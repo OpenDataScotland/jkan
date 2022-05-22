@@ -4,7 +4,7 @@ category:
 date_created: ''
 date_updated: '2016-09-27'
 license: No licence
-maintainer: Highland Council GIS Organisation
+maintainer: Highland Council
 notes: '<p>This dataset contains the location details of Type A and Type B Private
   Water Supplies known of by The Highland Council within The Highland Council Area.
   There are likely to be private water supplies that the council has not been notified
@@ -13,7 +13,7 @@ notes: '<p>This dataset contains the location details of Type A and Type B Priva
 
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bf7b4d832-1712-4c53-864e-0e755e0873ef%7D''
   rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bf7b4d832-1712-4c53-864e-0e755e0873ef%7D</a></p>'
-organization: Highland Council GIS Organisation
+organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::private-water-supplies
 records: null
 resources:

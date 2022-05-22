@@ -1,7 +1,7 @@
 ---
 category:
-- Planning / Zoning
 - Education
+- Planning / Zoning
 date_created: 24/03/17
 date_updated: '2020-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
