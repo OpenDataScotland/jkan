@@ -1,7 +1,7 @@
 ---
 category:
-- Environment
 - Planning and Development
+- Environment
 date_created: '2015-10-30'
 date_updated: '2018-04-20'
 license: No licence

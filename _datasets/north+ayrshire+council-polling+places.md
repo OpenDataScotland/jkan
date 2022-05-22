@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Elections / Politics
 date_created: ''
 date_updated: '2017-05-25'
 license: No licence

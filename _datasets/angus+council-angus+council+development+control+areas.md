@@ -1,7 +1,7 @@
 ---
 category:
-- Environment
 - Planning and Development
+- Environment
 date_created: '2016-11-28'
 date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Planning and Development
+- Council and Government
 date_created: ''
 date_updated: '2021-05-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

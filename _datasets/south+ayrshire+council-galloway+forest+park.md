@@ -1,10 +1,10 @@
 ---
 category:
-- Environment
+- Planning and Development
 - Tourism
 - Parks / Recreation
 - Housing and Estates
-- Planning and Development
+- Environment
 - Council and Government
 date_created: '2015-10-30'
 date_updated: '2019-09-13'

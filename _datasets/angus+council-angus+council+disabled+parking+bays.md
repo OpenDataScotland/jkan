@@ -1,7 +1,7 @@
 ---
 category:
-- Housing and Estates
 - Transportation
+- Housing and Estates
 - Elections / Politics
 date_created: '2016-11-30'
 date_updated: '2016-12-09'

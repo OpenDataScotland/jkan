@@ -1,7 +1,7 @@
 ---
 category:
-- Housing and Estates
 - Planning and Development
+- Housing and Estates
 date_created: ''
 date_updated: '2018-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

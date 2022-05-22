@@ -1,8 +1,8 @@
 ---
 category:
 - Arts / Culture / History
-- Environment
 - Planning and Development
+- Environment
 date_created: ''
 date_updated: '2022-02-01'
 license: No licence

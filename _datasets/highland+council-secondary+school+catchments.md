@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-- Council and Government
 - Planning and Development
+- Council and Government
 date_created: ''
 date_updated: '2018-02-27'
 license: No licence

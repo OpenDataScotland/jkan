@@ -1,10 +1,10 @@
 ---
 category:
-- Environment
-- Parks / Recreation
-- Arts / Culture / History
-- Housing and Estates
 - Planning and Development
+- Parks / Recreation
+- Housing and Estates
+- Environment
+- Arts / Culture / History
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence
