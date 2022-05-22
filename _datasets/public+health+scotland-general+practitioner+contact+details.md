@@ -1,7 +1,7 @@
 ---
 category:
-- Health / Human Services
-- Planning / Zoning
+- Health and Social Care
+- Planning and Development
 date_created: '2019-02-19'
 date_updated: '2022-05-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

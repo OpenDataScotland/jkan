@@ -1,7 +1,7 @@
 ---
 category:
 - Tourism
-- Planning / Zoning
+- Planning and Development
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

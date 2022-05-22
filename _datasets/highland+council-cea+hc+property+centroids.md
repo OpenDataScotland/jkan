@@ -1,7 +1,7 @@
 ---
 category:
-- Planning / Zoning
-- Real Estate / Land Records
+- Housing and Estates
+- Planning and Development
 date_created: ''
 date_updated: '2022-01-11'
 license: No licence

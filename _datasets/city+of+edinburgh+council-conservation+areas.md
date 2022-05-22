@@ -1,7 +1,7 @@
 ---
 category:
-- Planning / Zoning
 - Arts / Culture / History
+- Planning and Development
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence

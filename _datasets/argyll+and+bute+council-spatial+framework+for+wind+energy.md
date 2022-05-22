@@ -1,6 +1,6 @@
 ---
 category:
-- Planning / Zoning
+- Planning and Development
 date_created: '2019-07-31'
 date_updated: '2019-07-31'
 license: No licence

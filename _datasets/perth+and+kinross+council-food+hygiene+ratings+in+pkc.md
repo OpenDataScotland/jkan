@@ -1,7 +1,7 @@
 ---
 category:
 - Food
-- Economy
+- Business and Economy
 date_created: '2017-10-25'
 date_updated: '2017-10-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Business and Economy
 date_created: ''
 date_updated: '2020-11-18'
 license: No licence

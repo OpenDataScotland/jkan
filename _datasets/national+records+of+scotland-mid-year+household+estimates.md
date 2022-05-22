@@ -1,6 +1,7 @@
 ---
 category:
-- Planning / Zoning
+- Housing and Estates
+- Planning and Development
 date_created: '2017-07-13'
 date_updated: '2021-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

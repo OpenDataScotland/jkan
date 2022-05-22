@@ -1,6 +1,6 @@
 ---
 category:
-- Planning / Zoning
+- Planning and Development
 date_created: ''
 date_updated: '2018-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
