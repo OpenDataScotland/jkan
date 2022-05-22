@@ -12,7 +12,7 @@ records: 41
 resources:
 - format: CSV
   name: CSV
-  url: https://www.east-ayrshire.gov.uk/Resources/CSV/Open-Data-001-Primary-School-Contacts.csv
+  url: https://www.east-ayrshire.gov.uk//Resources/CSV/Open-Data-001-Primary-School-Contacts.csv
 schema: default
 title: Primary School Contact Details
 ---

@@ -1,9 +1,9 @@
 ---
 category:
-- Transportation
+- Uncategorised
 date_created: ''
 date_updated: '2018-11-10'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/car_parks.kmz
 schema: default
-title: Car Parks
+title: Car parks
 ---

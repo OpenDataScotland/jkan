@@ -1,9 +1,9 @@
 ---
 category:
-- Transportation
+- Uncategorised
 date_created: ''
 date_updated: '2021-01-13'
-license: 'Custom licence: Custom'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/adopted-core-paths.kmz
 schema: default
-title: Adopted Core Paths
+title: Adopted core paths
 ---

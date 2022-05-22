@@ -1,8 +1,8 @@
 ---
 category:
-- Planning and Development
-- Environment
 - Council and Government
+- Environment
+- Planning and Development
 date_created: ''
 date_updated: '2016-07-07'
 license: No licence

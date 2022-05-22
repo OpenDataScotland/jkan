@@ -13,7 +13,7 @@ records: 42
 resources:
 - format: CSV
   name: CSV
-  url: http://www.moray.gov.uk/moray_standard/page_110140.html
+  url: http://www.moray.gov.uk/OpenData/Files/CarParks.csv
 schema: default
 title: Car Parks
 ---

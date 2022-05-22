@@ -1,8 +1,8 @@
 ---
 category:
-- Business and Economy
-- Health and Social Care
 - Planning and Development
+- Health and Social Care
+- Business and Economy
 - Elections / Politics
 date_created: '2018-07-11'
 date_updated: '2021-06-30'

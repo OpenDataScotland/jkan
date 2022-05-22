@@ -12,7 +12,7 @@ records: 9
 resources:
 - format: CSV
   name: CSV
-  url: https://www.east-ayrshire.gov.uk/Resources/CSV/Open-Data-002-Secondary-School-Contacts.csv
+  url: https://www.east-ayrshire.gov.uk//Resources/CSV/Open-Data-002-Secondary-School-Contacts.csv
 schema: default
 title: Secondary School Contact Details
 ---

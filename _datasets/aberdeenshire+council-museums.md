@@ -1,10 +1,9 @@
 ---
 category:
-- Arts / Culture / History
-- Sport and Leisure
+- Uncategorised
 date_created: ''
-date_updated: '2018-07-10'
-license: No licence
+date_updated: '2018-12-10'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council

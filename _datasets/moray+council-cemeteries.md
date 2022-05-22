@@ -12,7 +12,7 @@ records: 80
 resources:
 - format: CSV
   name: CSV
-  url: http://www.moray.gov.uk/moray_standard/page_110140.html
+  url: http://www.moray.gov.uk/OpenData/Files/Cemeteries.csv
 schema: default
 title: Cemeteries
 ---

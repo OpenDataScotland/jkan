@@ -1,9 +1,9 @@
 ---
 category:
 - Planning and Development
+- Housing and Estates
 - Business and Economy
 - Parks / Recreation
-- Housing and Estates
 - Environment
 date_created: '2017-07-07'
 date_updated: '2017-07-18'

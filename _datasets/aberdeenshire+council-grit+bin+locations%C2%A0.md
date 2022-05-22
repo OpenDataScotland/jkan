@@ -1,18 +1,18 @@
 ---
 category:
-- Planning and Development
+- Uncategorised
 date_created: ''
-date_updated: '2018-11-23'
-license: No licence
+date_updated: '2018-11-10'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ZIP
-  name: ZIP
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/LDP17_shape.zip
+- format: KMZ
+  name: KMZ
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
 schema: default
-title: Local Development Plan (LDP) 2017 - shapes
+title: "Grit bin locations\_"
 ---

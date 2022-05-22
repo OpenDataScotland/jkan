@@ -1,8 +1,8 @@
 ---
 category:
-- Arts / Culture / History
 - Planning and Development
 - Environment
+- Arts / Culture / History
 - Sport and Leisure
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
