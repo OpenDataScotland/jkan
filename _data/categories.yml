@@ -24,7 +24,7 @@
   logo: /img/categories/food.svg
   logo_credit: Creative Stall from the Noun Project
   featured: true
-- name: Health / Human Services
+- name: Health and Social Care
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
   featured: true
@@ -36,8 +36,8 @@
   logo: /img/categories/planning-zoning.svg
   featured: true
 - name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
+  logo: /img/categories/new_public_safety.svg
+  logo_credit: Vectors Point from the Noun Project
   featured: true
 - name: Real Estate / Land Records
   logo: /img/categories/real-estate-land-records.svg
