@@ -43,8 +43,8 @@
   logo: /img/categories/parks-recreation.svg
   logo_credit: Pipe Rosas Licht from the Noun Project
   featured: true
-- name: Planning / Zoning
-  logo: /img/categories/planning-zoning.svg
+- name: Planning and Development
+  logo: /img/categories/planning_and_development.svg
   featured: true
 - name: Public Safety
   logo: /img/categories/new_public_safety.svg
