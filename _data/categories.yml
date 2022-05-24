@@ -21,12 +21,8 @@
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
   featured: true
-- name: Environment
-  logo: /img/categories/environment.svg
-  featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
+- name: Food and Environment
+  logo: /img/categories/food_environment.svg
   featured: true
 - name: Health and Social Care
   logo: /img/categories/health-human-services.svg
