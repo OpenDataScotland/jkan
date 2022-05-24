@@ -1,7 +1,7 @@
 ---
 category:
-- Budget / Finance
 - Council and Government
+- Budget / Finance
 date_created: '2018-03-01'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
