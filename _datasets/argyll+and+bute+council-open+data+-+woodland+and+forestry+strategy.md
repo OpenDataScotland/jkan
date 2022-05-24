@@ -1,10 +1,10 @@
 ---
 category:
 - Planning and Development
-- Housing and Estates
+- Food and Environment
 - Business and Economy
 - Parks / Recreation
-- Environment
+- Housing and Estates
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

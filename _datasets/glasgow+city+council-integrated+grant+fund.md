@@ -1,7 +1,7 @@
 ---
 category:
-- Budget / Finance
 - Council and Government
+- Budget / Finance
 date_created: ''
 date_updated: '2021-06-29'
 license: No licence

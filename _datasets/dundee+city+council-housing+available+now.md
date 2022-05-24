@@ -1,7 +1,7 @@
 ---
 category:
-- Housing and Estates
 - Planning and Development
+- Housing and Estates
 date_created: '2017-08-16'
 date_updated: '2022-04-07'
 license: 'Custom licence: Public Sector End User Licence (Scotland)'

@@ -1,9 +1,9 @@
 ---
 category:
-- Planning and Development
-- Elections / Politics
-- Business and Economy
 - Education
+- Elections / Politics
+- Planning and Development
+- Business and Economy
 - Health and Social Care
 date_created: '2018-12-07'
 date_updated: '2021-12-14'

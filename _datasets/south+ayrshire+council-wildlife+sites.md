@@ -1,9 +1,9 @@
 ---
 category:
-- Planning and Development
-- Environment
-- Arts / Culture / History
 - Sport and Leisure
+- Arts / Culture / History
+- Food and Environment
+- Planning and Development
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence
