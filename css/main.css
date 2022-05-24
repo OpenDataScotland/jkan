@@ -61,7 +61,9 @@ dataset {
 }
 
 .homepage-categories {
-  text-align: left;
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 /* allows last line of categories to be justify aligned */
