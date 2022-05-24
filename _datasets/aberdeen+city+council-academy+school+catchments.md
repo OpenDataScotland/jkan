@@ -1,6 +1,7 @@
 ---
 category:
-- Planning / Zoning
+- Council and Government
+- Planning and Development
 - Education
 date_created: '2020-07-20'
 date_updated: '2020-09-22'

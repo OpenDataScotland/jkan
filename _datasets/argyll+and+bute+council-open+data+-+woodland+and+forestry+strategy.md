@@ -1,9 +1,10 @@
 ---
 category:
-- Environment
-- Planning / Zoning
+- Planning and Development
+- Housing and Estates
+- Business and Economy
 - Parks / Recreation
-- Real Estate / Land Records
+- Environment
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

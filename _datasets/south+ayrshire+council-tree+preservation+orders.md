@@ -1,9 +1,9 @@
 ---
 category:
-- Environment
-- Planning / Zoning
-- Real Estate / Land Records
+- Planning and Development
+- Housing and Estates
 - Parks / Recreation
+- Environment
 - Arts / Culture / History
 date_created: '2015-10-30'
 date_updated: '2019-09-13'

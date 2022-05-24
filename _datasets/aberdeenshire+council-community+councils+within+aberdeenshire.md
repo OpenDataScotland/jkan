@@ -1,9 +1,9 @@
 ---
 category:
-- Planning / Zoning
+- Uncategorised
 date_created: ''
-date_updated: '2021-05-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2022-09-05'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council

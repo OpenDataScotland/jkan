@@ -1,9 +1,9 @@
 ---
 category:
-- Planning / Zoning
+- Uncategorised
 date_created: ''
 date_updated: '2018-02-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_LDP17_greenbelt.kmz
 schema: default
-title: Green belt areas within Aberdeenshire
+title: "Green belt areas\_within Aberdeenshire"
 ---

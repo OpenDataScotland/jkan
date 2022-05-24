@@ -1,6 +1,6 @@
 ---
 category:
-- Economy
+- Business and Economy
 date_created: ''
 date_updated: '2018-06-04'
 license: No licence

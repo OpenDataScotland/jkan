@@ -1,8 +1,9 @@
 ---
 category:
+- Council and Government
+- Planning and Development
+- Business and Economy
 - Elections / Politics
-- Economy
-- Planning / Zoning
 date_created: '2017-09-12'
 date_updated: '2017-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

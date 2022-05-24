@@ -1,9 +1,9 @@
 ---
 category:
+- Planning and Development
+- Health and Social Care
+- Business and Economy
 - Elections / Politics
-- Economy
-- Planning / Zoning
-- Health / Human Services
 date_created: '2020-11-06'
 date_updated: '2022-04-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,6 @@
 ---
 category:
-- Economy
+- Business and Economy
 - Education
 date_created: ''
 date_updated: '2021-12-07'

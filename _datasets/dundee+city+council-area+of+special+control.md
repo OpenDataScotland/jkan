@@ -1,6 +1,6 @@
 ---
 category:
-- Planning / Zoning
+- Planning and Development
 - Arts / Culture / History
 date_created: '2022-03-18'
 date_updated: '2022-03-18'

@@ -1,7 +1,8 @@
 ---
 category:
+- Council and Government
+- Planning and Development
 - Education
-- Planning / Zoning
 date_created: '2017-10-27'
 date_updated: '2020-11-30'
 license: No licence

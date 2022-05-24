@@ -1,6 +1,7 @@
 ---
 category:
-- Planning / Zoning
+- Planning and Development
+- Housing and Estates
 date_created: ''
 date_updated: '2018-12-18'
 license: No licence

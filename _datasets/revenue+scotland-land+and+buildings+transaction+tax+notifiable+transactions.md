@@ -1,6 +1,6 @@
 ---
 category:
-- Economy
+- Business and Economy
 date_created: '2018-03-22'
 date_updated: '2021-11-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

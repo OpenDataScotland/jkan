@@ -2,8 +2,8 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2018-12-01'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2018-12-10'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council

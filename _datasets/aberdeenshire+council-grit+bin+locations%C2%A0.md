@@ -1,9 +1,9 @@
 ---
 category:
-- Planning / Zoning
+- Uncategorised
 date_created: ''
-date_updated: '2019-12-09'
-license: No licence
+date_updated: '2018-11-10'
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_council_committee_areas.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
 schema: default
-title: Committee areas boundaries within Aberdeenshire
+title: "Grit bin locations\_"
 ---

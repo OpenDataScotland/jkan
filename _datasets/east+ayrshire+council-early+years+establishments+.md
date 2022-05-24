@@ -12,7 +12,7 @@ records: 35
 resources:
 - format: CSV
   name: CSV
-  url: https://www.east-ayrshire.gov.uk/Resources/CSV/Open-Data-004-Early-Years-Contacts.csv
+  url: https://www.east-ayrshire.gov.uk//Resources/CSV/Open-Data-004-Early-Years-Contacts.csv
 schema: default
-title: Early Years Establishments
+title: 'Early Years Establishments '
 ---
