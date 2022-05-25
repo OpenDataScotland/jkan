@@ -5,9 +5,13 @@
   logo: /img/categories/budget-finance.svg
   logo_credit: Renan Ferreira Santos from the Noun Project
   featured: true
-- name: Economy
-  logo: /img/categories/economy.svg
+- name: Business and Economy
+  logo: /img/categories/business_and_economy.svg
   logo_credit: Vectors Market from the Noun Project
+  featured: true
+- name: Council and Government
+  logo: /img/categories/council_and_government.svg
+  logo_credit: praveen patchu from the Noun Project
   featured: true
 - name: Education
   logo: /img/categories/education.svg
@@ -17,30 +21,38 @@
   logo: /img/categories/elections-politics.svg
   logo_credit: Jean Soo from the Noun Project
   featured: true
-- name: Environment
-  logo: /img/categories/environment.svg
+- name: Food and Environment
+  logo: /img/categories/food_environment.svg
   featured: true
-- name: Food
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
-  featured: true
-- name: Health / Human Services
+- name: Health and Social Care
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
+  featured: true
+- name: Housing and Estates
+  logo: /img/categories/housing_and_estates.svg
+  featured: true
+- name: Law and Licensing
+  logo: /img/categories/law_and_licensing.svg
+  logo_credit: ghufronagustian from the Noun Project
   featured: true
 - name: Parks / Recreation
   logo: /img/categories/parks-recreation.svg
   logo_credit: Pipe Rosas Licht from the Noun Project
   featured: true
-- name: Planning / Zoning
-  logo: /img/categories/planning-zoning.svg
+- name: Planning and Development
+  logo: /img/categories/planning_and_development.svg
   featured: true
 - name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
+  logo: /img/categories/new_public_safety.svg
+  logo_credit: Vectors Point from the Noun Project
   featured: true
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
+- name: Sport and Leisure
+  logo: /img/categories/sport_and_leisure.svg
+  logo_credit: Adrien Coquet from theNoun Project
+  featured: true
+- name: Tourism
+  logo: /img/categories/tourism.svg
+  logo_credit: WEBTECHOPS LLP from the Noun Project
   featured: true
 - name: Transportation
   logo: /img/categories/transportation.svg

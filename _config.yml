@@ -28,22 +28,8 @@ navigation:
     sub-pages:
     - title: Overview
       url: /analytics/
-    - title: Scorecard
-      url: /analytics/scorecard
-    - title: Dataset sources
-      url: /analytics/sources
-    - title: File types
-      url: /analytics/filetypes
-    - title: File sizes
-      url: /analytics/filesizes
-    - title: Dataset tags
-      url: /analytics/tags
     - title: Dataset licensing
       url: /analytics/licensing
-    - title: URL statuses
-      url: /analytics/urls
-    - title: Summary matrix
-      url: /analytics/summary-matrix
     - title: Local authority coverage
       url: /analytics/local-authority-coverage
   - title: Suggest dataset
