@@ -7,6 +7,7 @@ import {setContent, slugify, createDatasetFilters, collapseListGroup} from '../u
 export default class {
   constructor (opts) {
     const categories = this._categoriesWithCount(opts.datasets, opts.params)
+    console.log(categories)
     const categoriesMarkup = categories.map(TmplListGroupItem)
     setContent(opts.el, categoriesMarkup)
     collapseListGroup(opts.el)
@@ -40,7 +41,7 @@ export default class {
           selected: selected
         }
       })
-      .orderBy('unfilteredCount', 'desc')
+      .orderBy('count', 'desc')
       .value()
   }
 }
