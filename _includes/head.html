@@ -1,3 +1,4 @@
+{% assign cacheBust = site.time | date:'?v=%s' %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,7 +30,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
   integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
   crossorigin=""/>
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url | append: cacheBust }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   {% if site.digital_analytics_program.enabled == true %}
@@ -60,14 +61,14 @@
   {% include addons/twittercard.html %}
   {% endif %}
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" ></script>
-  <script src="{{ site.baseurl }}/scripts/dist/bundle.js" defer></script>
+  <script src="{{ "/scripts/dist/bundle.js" | relative_url | append: cacheBust }}" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.bundle.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
   <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
   integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
   crossorigin=""></script>
   <script src="https://unpkg.com/mustache@latest"></script>
-  <script src="{{ site.baseurl }}/scripts/dist/map-utils.js"></script>
+  <script src="{{ "/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
 
 
 
