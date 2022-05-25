@@ -186,3 +186,7 @@ body {
   margin: 0.5em auto;
   align-items: center;
 }
+
+.view-code-link {
+  margin: 1em;
+}
