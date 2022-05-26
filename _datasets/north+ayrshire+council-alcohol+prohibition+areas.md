@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-- Food and Environment
 - Planning and Development
+- Food and Environment
 date_created: ''
 date_updated: '2017-05-25'
 license: No licence

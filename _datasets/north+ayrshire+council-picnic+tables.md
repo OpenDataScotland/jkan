@@ -1,8 +1,8 @@
 ---
 category:
-- Sport and Leisure
 - Arts / Culture / History
 - Food and Environment
+- Sport and Leisure
 date_created: ''
 date_updated: '2018-11-01'
 license: No licence

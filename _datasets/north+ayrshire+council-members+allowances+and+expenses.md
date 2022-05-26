@@ -1,8 +1,8 @@
 ---
 category:
-- Council and Government
-- Business and Economy
 - Elections / Politics
+- Business and Economy
+- Council and Government
 date_created: ''
 date_updated: '2018-04-16'
 license: No licence

@@ -1,10 +1,10 @@
 ---
 category:
-- Planning and Development
-- Food and Environment
 - Parks / Recreation
 - Housing and Estates
 - Arts / Culture / History
+- Food and Environment
+- Planning and Development
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: No licence

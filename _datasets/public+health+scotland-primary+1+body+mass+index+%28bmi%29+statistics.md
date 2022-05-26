@@ -1,10 +1,10 @@
 ---
 category:
-- Education
 - Elections / Politics
-- Planning and Development
 - Business and Economy
+- Education
 - Health and Social Care
+- Planning and Development
 date_created: '2018-12-07'
 date_updated: '2021-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
