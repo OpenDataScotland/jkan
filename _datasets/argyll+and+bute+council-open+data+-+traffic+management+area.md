@@ -4,7 +4,7 @@ category:
 - Transportation
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Action proposed by the Local Development Plan in support of its settlement
   plans and development proposals involving the management of traffic and access in

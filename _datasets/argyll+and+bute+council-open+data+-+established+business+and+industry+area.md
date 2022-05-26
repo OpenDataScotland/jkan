@@ -1,10 +1,10 @@
 ---
 category:
-- Business and Economy
 - Planning and Development
+- Business and Economy
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Established Business and Industry Area in the 2015 Local Development Plan</p>
 organization: Argyll and Bute Council

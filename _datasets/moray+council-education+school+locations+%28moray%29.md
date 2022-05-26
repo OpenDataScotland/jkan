@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2017-11-14'
 date_updated: '2020-12-01'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Education School Locations (Moray), including Secondary and Primary for
   non denominational and denominational.</p>

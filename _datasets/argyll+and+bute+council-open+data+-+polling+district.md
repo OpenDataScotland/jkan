@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 date_created: '2017-07-07'
 date_updated: '2021-05-04'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an electoral\
   \ area such as an electoral Ward within which a polling place is designated.The\

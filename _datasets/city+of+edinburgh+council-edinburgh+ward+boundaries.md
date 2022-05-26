@@ -1,8 +1,8 @@
 ---
 category:
+- Planning and Development
 - Elections / Politics
 - Council and Government
-- Planning and Development
 - Health and Social Care
 date_created: ''
 date_updated: '2021-05-27'

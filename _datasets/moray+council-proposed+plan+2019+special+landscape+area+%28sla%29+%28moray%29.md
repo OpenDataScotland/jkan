@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2018-12-13'
 date_updated: '2020-11-30'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Proposed Plan 2019 Special Landscape Area (SLA) (Moray)</p>
 organization: Moray Council

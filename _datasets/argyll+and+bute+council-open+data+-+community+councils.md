@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge

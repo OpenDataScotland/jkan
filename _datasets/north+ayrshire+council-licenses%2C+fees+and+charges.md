@@ -1,7 +1,7 @@
 ---
 category:
-- Law and Licensing
 - Business and Economy
+- Law and Licensing
 date_created: ''
 date_updated: '2018-10-31'
 license: No licence

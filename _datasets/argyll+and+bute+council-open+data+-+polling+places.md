@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>A \u2018polling place\u2019 is defined as the building or area in which\
   \ a polling station will be located. A \u2018polling station\u2019 is the room or\

@@ -1,8 +1,8 @@
 ---
 category:
-- Education
 - Arts / Culture / History
 - Sport and Leisure
+- Education
 date_created: ''
 date_updated: '2017-05-25'
 license: No licence

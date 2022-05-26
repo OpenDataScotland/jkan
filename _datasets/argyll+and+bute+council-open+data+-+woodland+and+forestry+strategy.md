@@ -1,13 +1,13 @@
 ---
 category:
-- Parks / Recreation
-- Business and Economy
-- Housing and Estates
-- Food and Environment
 - Planning and Development
+- Business and Economy
+- Parks / Recreation
+- Food and Environment
+- Housing and Estates
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: '<p>Argyll and Bute : Woodland and Forestry Strategy 2011 showing indicative
   suitability for woodland and forestry. It identifies the existing resource, the

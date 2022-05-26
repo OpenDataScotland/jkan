@@ -1,10 +1,10 @@
 ---
 category:
-- Council and Government
 - Planning and Development
+- Council and Government
 date_created: '2018-03-28'
 date_updated: '2020-11-30'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Scottish Planning Policy states "Planning authorities should set out in
   the development plan a spatial framework identifying those areas that are likely
