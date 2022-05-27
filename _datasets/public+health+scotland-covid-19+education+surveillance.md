@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Education
 date_created: '2021-03-29'
-date_updated: '2022-05-20'
+date_updated: '2022-05-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: "<p>This dataset presents information on COVID-19 in children and young people\

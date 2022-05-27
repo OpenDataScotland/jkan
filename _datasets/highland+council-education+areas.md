@@ -1,8 +1,8 @@
 ---
 category:
-- Planning and Development
 - Council and Government
 - Education
+- Planning and Development
 date_created: ''
 date_updated: '2019-10-29'
 license: No licence

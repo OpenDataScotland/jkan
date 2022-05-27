@@ -1,8 +1,8 @@
 ---
 category:
+- Council and Government
 - Food and Environment
 - Planning and Development
-- Council and Government
 date_created: '2018-02-22'
 date_updated: '2020-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
