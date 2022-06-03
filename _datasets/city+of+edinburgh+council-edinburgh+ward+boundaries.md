@@ -1,9 +1,9 @@
 ---
 category:
-- Planning and Development
+- Council and Government
 - Elections / Politics
 - Health and Social Care
-- Council and Government
+- Planning and Development
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence

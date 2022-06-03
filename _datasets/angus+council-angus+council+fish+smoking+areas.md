@@ -1,7 +1,7 @@
 ---
 category:
-- Business and Economy
 - Arts / Culture / History
+- Business and Economy
 - Planning and Development
 date_created: '2016-11-30'
 date_updated: '2016-12-09'

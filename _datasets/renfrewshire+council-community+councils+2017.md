@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-- Elections / Politics
 - Council and Government
+- Elections / Politics
 - Planning and Development
 date_created: '2017-09-12'
 date_updated: '2017-10-09'

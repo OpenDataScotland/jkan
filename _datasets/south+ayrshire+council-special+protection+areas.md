@@ -1,9 +1,9 @@
 ---
 category:
-- Planning and Development
-- Food and Environment
-- Council and Government
 - Arts / Culture / History
+- Council and Government
+- Food and Environment
+- Planning and Development
 date_created: '2015-10-30'
 date_updated: '2018-04-20'
 license: No licence

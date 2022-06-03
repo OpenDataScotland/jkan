@@ -1,8 +1,8 @@
 ---
 category:
-- Public Safety
 - Housing and Estates
 - Planning and Development
+- Public Safety
 date_created: ''
 date_updated: '2018-11-01'
 license: No licence
