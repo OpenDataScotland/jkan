@@ -1,7 +1,7 @@
 ---
 category:
-- Education
 - Planning and Development
+- Education
 - Housing and Estates
 date_created: '2017-07-17'
 date_updated: '2017-07-18'

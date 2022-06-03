@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-- Health and Social Care
 - Elections / Politics
+- Health and Social Care
 date_created: '2018-02-06'
 date_updated: '2021-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

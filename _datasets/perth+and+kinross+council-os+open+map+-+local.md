@@ -1,8 +1,8 @@
 ---
 category:
-- Housing and Estates
 - Parks / Recreation
 - Transportation
+- Housing and Estates
 - Planning and Development
 date_created: '2017-08-25'
 date_updated: '2020-04-29'

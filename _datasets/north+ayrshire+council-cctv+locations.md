@@ -1,7 +1,7 @@
 ---
 category:
-- Housing and Estates
 - Public Safety
+- Housing and Estates
 - Planning and Development
 date_created: ''
 date_updated: '2018-11-01'

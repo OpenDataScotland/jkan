@@ -1,8 +1,8 @@
 ---
 category:
-- Housing and Estates
 - Parks / Recreation
 - Food and Environment
+- Housing and Estates
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence

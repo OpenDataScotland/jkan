@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-- Council and Government
 - Elections / Politics
+- Council and Government
 date_created: '2015-10-30'
 date_updated: '2020-11-11'
 license: No licence
