@@ -1,7 +1,7 @@
 ---
 category:
-- Business and Economy
 - Budget / Finance
+- Business and Economy
 - Elections / Politics
 date_created: '2016-11-01'
 date_updated: '2016-11-23'

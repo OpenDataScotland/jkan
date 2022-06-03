@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Education
+- Council and Government
 - Planning and Development
 date_created: '2021-09-30'
 date_updated: '2021-09-30'

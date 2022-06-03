@@ -1,32 +1,35 @@
 ---
 category:
 - Health and Social Care
-- Business and Economy
 - Planning and Development
+- Business and Economy
 - Elections / Politics
 date_created: '2019-11-07'
-date_updated: '2022-02-22'
+date_updated: '2022-06-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Patients who require the medical opinion of a specialist clinician may
   be referred to an outpatient clinic for treatment or investigation. An outpatient
-  is a patient who attends (outpatient attendance) a consultant or other medical clinic,
-  or has an arranged meeting with a consultant or a senior member of their team outwith
-  a clinic session. Outpatients are not admitted to a hospital and do not use a hospital
-  bed.</p>
+  is a patient who attends a consultant or other medical clinic or has an arranged
+  meeting with a consultant or a senior member of their team outside of a clinic session.
+  Outpatients are not admitted to a hospital and do not use a hospital bed.</p>
 
   <p>Outpatient attendances can be categorised as new or follow-up (return) attendances.
   Information on return appointments is only available for datasets that report on
-  NHS Board of Treatment. Files reporting on the residency of patients only contain
+  NHS board of treatment. Files reporting on the residency of patients only contain
   data for new outpatients as the ISD(S)1 data source for return outpatients does
   not contain residence information. ISD(S)1 also does not record information on the
   deprivation, age or sex of patients.</p>
 
-  <p>Further information on hospital activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/acute-hospital-activity-and-nhs-beds-information-quarterly-quarter-ending-30-september-2021/">recent
-  quarterly publication</a>. </p>
+  <p>All publications and supporting material to this topic area can be found on the
+  <a href="https://beta.isdscotland.org/topics/hospital-care/">Public Health Scotland
+  website (external website)</a>. </p>
 
-  <p>The date of the next release can be found on our list of forthcoming publications
-  https://www.publichealthscotland.scot/publications/forthcoming-publications/</p>'
+  <p>Further information on hospital activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/acute-hospital-activity-and-nhs-beds-information-quarterly-quarter-ending-31-december-2021/data-summary/">recent
+  quarterly publication (external website)</a>.</p>
+
+  <p>The date of the next release can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications (external website)</a>.</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
 records: null

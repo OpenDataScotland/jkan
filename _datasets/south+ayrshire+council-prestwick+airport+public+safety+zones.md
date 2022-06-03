@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Public Safety
+- Council and Government
 - Planning and Development
 date_created: '2015-10-30'
 date_updated: '2019-09-13'

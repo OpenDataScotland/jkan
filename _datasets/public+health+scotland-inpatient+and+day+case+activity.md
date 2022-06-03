@@ -1,21 +1,29 @@
 ---
 category:
 - Health and Social Care
-- Business and Economy
 - Planning and Development
+- Business and Economy
 - Elections / Politics
 date_created: '2019-11-05'
-date_updated: '2022-03-08'
+date_updated: '2022-06-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>Inpatients refer to people who are admitted to an available staffed bed
-  in a hospital (either electively or as an emergency) and either: remain overnight
-  whatever the original intention; or are expected to remain overnight but are discharged
-  earlier. Day cases refer to episodes where a person makes a planned admission to
-  an available staffed bed in a hospital for clinical care, and requires the use of
-  a bed (or trolley in lieu of a bed). For the purposes of national data, a day case
-  episode refers to a patient who is admitted as a day case and is discharged on the
-  same day as planned.</p>'
+notes: "<p>A patient is termed an inpatient when they occupy a staffed bed in a hospital\
+  \ and either remain overnight (whether intended or not) or are expected to remain\
+  \ overnight but are discharged earlier. An inpatient\u2019s admission can be an\
+  \ emergency, an elective or a transfer. A day case is when a patient makes a planned\
+  \ attendance for one day to a specialty for clinical care and requires the use of\
+  \ a bed (or trolley in lieu of a bed). Although a day case is usually completed\
+  \ on the same day, the patient may need to be admitted as an inpatient if they are\
+  \ not fit to be discharged.</p>\n<p>The residence data files relate to activity\
+  \ by NHS board of residence. The treatment data files relate to activity by NHS\
+  \ board of treatment.</p>\n<p>All publications and supporting material to this topic\
+  \ area can be found on the <a href=\"https://beta.isdscotland.org/topics/hospital-care/\"\
+  >Public Health Scotland website (external website)</a>. </p>\n<p>Further information\
+  \ on hospital activity can be found in the <a href=\"https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/acute-hospital-activity-and-nhs-beds-information-quarterly-quarter-ending-31-december-2021/data-summary/\"\
+  >recent quarterly publication (external website)</a>.</p>\n<p>The date of the next\
+  \ release can be found on our list of <a href=\"https://www.publichealthscotland.scot/publications/forthcoming-publications/\"\
+  >forthcoming publications (external website)</a>.</p>"
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity
 records: null

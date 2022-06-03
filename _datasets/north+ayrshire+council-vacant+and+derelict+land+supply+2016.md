@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Food and Environment
+- Council and Government
 - Planning and Development
 date_created: ''
 date_updated: '2017-05-25'
