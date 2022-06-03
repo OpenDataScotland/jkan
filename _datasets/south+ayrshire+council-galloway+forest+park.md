@@ -1,11 +1,11 @@
 ---
 category:
-- Housing and Estates
-- Food and Environment
+- Tourism
 - Council and Government
+- Housing and Estates
 - Planning and Development
 - Parks / Recreation
-- Tourism
+- Food and Environment
 date_created: '2015-10-30'
 date_updated: '2019-09-13'
 license: No licence

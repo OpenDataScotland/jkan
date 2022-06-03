@@ -1,7 +1,7 @@
 ---
 category:
-- Health and Social Care
 - Planning and Development
+- Health and Social Care
 - Elections / Politics
 date_created: '2019-04-30'
 date_updated: '2021-12-14'

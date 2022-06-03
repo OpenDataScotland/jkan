@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Planning and Development
+- Council and Government
 date_created: ''
 date_updated: '2015-09-18'
 license: No licence

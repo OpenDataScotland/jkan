@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
 - Planning and Development
+- Council and Government
 - Elections / Politics
 date_created: ''
 date_updated: '2017-05-15'

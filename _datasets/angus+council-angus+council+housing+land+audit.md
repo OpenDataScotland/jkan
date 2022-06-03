@@ -1,7 +1,7 @@
 ---
 category:
-- Planning and Development
 - Housing and Estates
+- Planning and Development
 - Food and Environment
 date_created: '2016-11-22'
 date_updated: '2016-12-09'

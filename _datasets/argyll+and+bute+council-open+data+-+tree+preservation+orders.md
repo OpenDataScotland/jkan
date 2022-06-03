@@ -1,10 +1,10 @@
 ---
 category:
-- Housing and Estates
-- Food and Environment
-- Parks / Recreation
-- Planning and Development
 - Arts / Culture / History
+- Housing and Estates
+- Planning and Development
+- Parks / Recreation
+- Food and Environment
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
