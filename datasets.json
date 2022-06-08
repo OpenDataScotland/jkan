@@ -14,7 +14,9 @@
     "licence": "{{site.data.licenses[dataset.license]}}",
     {% endif %}
     "date_created": "{{dataset.date_created}}",
-    "date_updated": "{{dataset.date_updated}}"
+    "date_updated": "{{dataset.date_updated}}",
+    {% assign org = site.organizations | find: "title", dataset.organization %}
+    "org_type": "{{ org.type }}"
     
   }{% unless forloop.last %},{% endunless %}{% endfor %}
 ]
