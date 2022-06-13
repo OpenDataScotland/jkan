@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-12-03'
-date_updated: '2022-05-03'
+date_updated: '2022-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Current civic licences, excluding licensed premises, issued by
@@ -16,7 +16,7 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/e6f17324-3397-49a5-9c3f-72ae586d0027/resource/2268be0e-aefc-455b-a642-7d3d58719eba/download/20220503-stirling-council-civic-licences-as-at-02.05.2022.csv
+  url: https://data.stirling.gov.uk/dataset/e6f17324-3397-49a5-9c3f-72ae586d0027/resource/2268be0e-aefc-455b-a642-7d3d58719eba/download/20220606-stirling-council-civic-licences-as-at-06.06.2022.csv
 schema: default
 title: Civic Licences
 ---

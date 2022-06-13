@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-04-14'
-date_updated: '2022-06-01'
+date_updated: '2022-06-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset shows the latest results of the Public Health Scotland (PHS)
