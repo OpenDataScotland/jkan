@@ -30,7 +30,7 @@
             </a>
             <ul class="dropdown-menu">
                {% for sub-link in link.sub-pages %}
-                  {% if page.url contains sub-link.url %}
+                  {% if page.url == sub-link.url %}
                     <li class="active"><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
                   {% else %}
                     <li><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
