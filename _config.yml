@@ -30,9 +30,11 @@ navigation:
     - title: Overview
       url: /analytics/
     - title: Dataset licensing
-      url: /analytics/licensing
+      url: /analytics/licensing/
     - title: Local authority coverage
-      url: /analytics/local-authority-coverage
+      url: /analytics/local-authority-coverage/
+    - title: Platform health
+      url: /analytics/platform-health/
   - title: Suggest dataset
     url: /suggest-dataset/
   - title: About

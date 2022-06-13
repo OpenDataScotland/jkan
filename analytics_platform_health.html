@@ -1,0 +1,115 @@
+---
+title: Platform health
+layout: default
+permalink: /analytics/platform-health/
+---
+{% include breadcrumbs.html %}
+
+<style>
+    .report-good {
+        color: #3F784C;
+    }
+
+    .report-bad {
+        color: #B20D30;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css"/>
+ 
+<h2>{{ page.title }}</h2>
+
+<h3>Organizations</h3>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th rowspan="2">Name</th>
+            <th><abbr title="Description">Desc</abbr></th>
+            <th>Logo</th>
+            <th>Type</th>
+            <th>Portal</th>
+            <th>Website</th>
+            <th>Twitter</th>
+            <th>GSS</th>
+            <th><abbr title="Wikidata">WD (Org)</abbr></th>
+            <th><abbr title="Wikidata">WD (Portal)</abbr></th>
+            <th><abbr title="What Do They Know">WDTK</abbr></th>
+            <th>Portal type</th>
+        </tr>
+        {% assign org_count = site.organizations.size %}
+        {% assign desc_count = site.organizations | where_exp: "item", "item.description.size > 0" | size %}
+        {% assign logo_count = site.organizations | where_exp: "item", "item.logo.size > 0" | size %}
+        {% assign type_count = site.organizations | where_exp: "item", "item.type.size > 0" | size %}
+        {% assign portal_count = site.organizations | where_exp: "item", "item.portal_url.size > 0" | size %}
+        {% assign website_count = site.organizations | where_exp: "item", "item.org_url.size > 0" | size %}
+        {% assign twitter_count = site.organizations | where_exp: "item", "item.twitter_handle.size > 0" | size %}
+        {% assign gss_count = site.organizations | where_exp: "item", "item.gss_code.size > 0" | size %}
+        {% assign wd_org_count = site.organizations | where_exp: "item", "item.wikidata_org_qid.size > 0" | size %}
+        {% assign wd_portal_count = site.organizations | where_exp: "item", "item.wikidata_portal_qid.size > 0" | size %}
+        {% assign wdtk_count = site.organizations | where_exp: "item", "item.wdtk_id.size > 0" | size %}
+        {% assign portal_type_count = site.organizations | where_exp: "item", "item.portal_type.size > 0" | size %}
+        <tr>
+            <th>{{ desc_count }}/{{org_count}}</th>
+            <th>{{ logo_count }}/{{org_count}}</th>
+            <th>{{ type_count }}/{{org_count}}</th>
+            <th>{{ portal_count }}/{{org_count}}</th>
+            <th>{{ website_count }}/{{org_count}}</th>
+            <th>{{ twitter_count }}/{{org_count}}</th>
+            <th>{{ gss_count }}/{{org_count}}</th>
+            <th>{{ wd_org_count }}/{{org_count}}</th>
+            <th>{{ wd_portal_count }}/{{org_count}}</th>
+            <th>{{ wdtk_count }}/{{org_count}}</th>
+            <th>{{ portal_type_count }}/{{org_count}}</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for org in site.organizations %}
+        <tr>
+            <td><a href="{{ site.baseurl }}{{ org.url }}">{{ org.title }}</a></td>
+            <td>
+                {% if org.description.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.logo.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.type.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.portal_url.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.org_url.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.twitter_handle.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.gss_code.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.wikidata_org_qid.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.wikidata_portal_qid.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.wdtk_id.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+            <td>
+                {% if org.portal_type.size > 0 %} <i class="fa fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
+<script>
+    $('table').DataTable( {
+    fixedHeader: true,
+    dom: 't',
+    paging: false,
+    orderCellsTop: true
+} );
+</script>
