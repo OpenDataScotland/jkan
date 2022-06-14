@@ -5,10 +5,11 @@ description: Local authority for the Renfrewshire Council area
 logo: 'https://upload.wikimedia.org/wikipedia/en/0/04/Renfrewshire_Council.png'
 type:
 - Local authority
-portal_url: ''
+portal_url: 'https://data-ren.opendata.arcgis.com'
 org_url: http://www.renfrewshire.gov.uk
 twitter_handle: RenCouncil
 gss_code: S12000038
 wikidata_qid: Q99229583
 wdtk_id: renfrewshire_council
+portal_type: ArcGIS
 ---

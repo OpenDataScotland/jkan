@@ -15,4 +15,5 @@ gss_code: ''
 wikidata_org_qid: ''
 wikidata_portal_qid: ''
 wdtk_id: ''
+portal_type: USMART
 ---

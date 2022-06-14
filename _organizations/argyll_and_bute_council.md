@@ -12,4 +12,5 @@ gss_code: 'S12000035'
 wikidata_qid: 'Q28530251'
 wikidata_portal_qid: 'Q109980846'
 wdtk_id: 'argyll_and_bute_council'
+portal_type: ArcGIS
 ---

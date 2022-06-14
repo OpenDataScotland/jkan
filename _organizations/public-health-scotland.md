@@ -14,4 +14,5 @@ gss_code: ''
 wikidata_org_qid: Q89284077
 wikidata_portal_qid: ''
 wdtk_id: public_health_scotland
+portal_type: CKAN
 ---

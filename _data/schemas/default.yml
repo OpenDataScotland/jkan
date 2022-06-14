@@ -96,6 +96,7 @@ organization_fields:
     values:
       - CKAN
       - JKAN
+      - USMART
       - ArcGIS
       - Static
 

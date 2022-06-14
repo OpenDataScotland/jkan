@@ -12,4 +12,5 @@ gss_code: 'S12000041'
 wikidata_qid: 'Q28528114'
 wikidata_portal_qid: 'Q109851949'
 wdtk_id: 'angus_council'
+portal_type: CKAN
 ---
