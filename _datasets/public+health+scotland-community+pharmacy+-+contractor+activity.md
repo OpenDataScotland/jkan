@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2017-09-13'
-date_updated: '2022-03-08'
+date_updated: '2022-06-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Public Health Scotland has released Community Pharmacy activity and direct
@@ -17,6 +17,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/39fe35f5-3af9-42ae-a791-c13a0c2a3e09/download/contractor-activity-2022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/58f982d6-47e7-4773-bb6e-5064115c5f81/download/contractor-activity-2021.csv

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2022-03-08'
+date_updated: '2022-06-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset contains details of items prescribed and subsequently dispensed
@@ -15,6 +15,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/239e55b9-de1b-43cb-aa7d-9fedda76d200/download/prescribed-dispensed-2022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/2680b561-72f8-488a-91e0-10873ac9c649/download/prescribed-dispensed-2021.csv
