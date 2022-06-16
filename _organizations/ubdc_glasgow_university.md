@@ -10,4 +10,5 @@ org_url: 'https://www.ubdc.ac.uk/'
 twitter_handle: 
 wikidata_qid: Q108836999
 wdtk_id: 
+portal_type: CKAN
 ---

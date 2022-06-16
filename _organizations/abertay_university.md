@@ -10,4 +10,5 @@ org_url: 'http://www.abertay.ac.uk/'
 twitter_handle: 'AbertayUni'
 wikidata_qid: Q108836999
 wdtk_id: university_of_abertay_dundee
+portal_type: Pure
 ---

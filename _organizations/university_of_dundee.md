@@ -10,4 +10,5 @@ org_url: 'https://www.dundee.ac.uk'
 twitter_handle: 'dundeeuni'
 wikidata_qid: Q1249005
 wdtk_id: 'university_of_dundee'
+portal_type: Pure
 ---

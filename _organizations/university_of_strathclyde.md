@@ -10,4 +10,5 @@ org_url: 'https://www.strath.ac.uk/'
 twitter_handle: 'unistrathclyde'
 wikidata_qid: Q1859178
 wdtk_id: university_of_strathclyde
+portal_type: Pure
 ---

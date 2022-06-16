@@ -1,0 +1,63 @@
+---
+title: Portal types
+layout: default
+permalink: /analytics/portal-types/
+---
+{% include breadcrumbs.html parent="Analytics" %}
+
+<h2>{{ page.title }}</h2>
+
+<canvas id="chart-portals-by-type" width="400" height="200"></canvas>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+            // loading the datasets data
+            $.getJSON('/organizations.json', function (orgs) {
+                    // Load charts
+                    chartPortalsByType(orgs);
+            });
+    });
+
+    function chartPortalsByType(orgs) {
+            let ctx = document.getElementById('chart-portals-by-type').getContext('2d');
+            let data = _.chain(orgs)
+                    .filter(org => org.portal_url)
+                    .groupBy('portal_type')
+                    .map((value, key) => ({ label: key == 'null' ? 'Not specified' : key, count: value.length }))
+                    .orderBy('count', 'desc')
+                    .value();
+
+            let labels = _.chain(data)
+                    .map('label')
+                    .value();
+
+            let values = _.chain(data)
+                    .map('count')
+                    .value();
+
+            var myChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                            labels: labels,
+                            datasets: [{
+                                    label: '# of organisations by portal type',
+                                    data: values,
+                                    backgroundColor: 'rgba(31, 120, 180, 1)',
+                                    borderColor: 'rgba(31, 120, 180, 0.5)',
+                                    borderWidth: 1
+                            }]
+                    },
+                    options: {
+                            scales: {
+                                    yAxes: [{
+                                            ticks: {
+                                                    beginAtZero: true
+                                            }
+                                    }]
+                            }
+                    }
+            });
+    }
+
+</script>

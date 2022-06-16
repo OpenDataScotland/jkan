@@ -12,4 +12,5 @@ gss_code: 'S12000034'
 wikidata_qid: 'Q13194614'
 wikidata_portal_qid: 'Q97023929'
 wdtk_id: aberdeenshire_council
+portal_type: Static
 ---

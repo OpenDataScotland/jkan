@@ -10,4 +10,5 @@ org_url: 'https://edina.ac.uk'
 twitter_handle: 
 wikidata_qid: Q5322851
 wdtk_id: 
+portal_type: DSpace
 ---

@@ -6,9 +6,10 @@ logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/National_Librar
 '
 type:
 - Non-Departmental Public Body
-portal_url: ''
+portal_url: 'https://data.nls.uk/data/'
 org_url: https://www.nls.uk/
 twitter_handle: natlibscot
-wikidata_qid: Q1670994
+wikidata_org_qid: Q1670994
 wdtk_id: national_library_of_scotland
+portal_type: Static
 ---

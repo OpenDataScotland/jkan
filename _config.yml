@@ -33,6 +33,8 @@ navigation:
       url: /analytics/licensing/
     - title: Local authority coverage
       url: /analytics/local-authority-coverage/
+    - title: Portal types
+      url: /analytics/portal-types/
     - title: Platform health
       url: /analytics/platform-health/
   - title: Suggest dataset

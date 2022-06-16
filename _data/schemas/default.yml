@@ -99,6 +99,8 @@ organization_fields:
       - USMART
       - ArcGIS
       - Static
+      - Pure
+      - DSpace
 
 category_fields:
   - field_name: name
