@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.scottishfuturestrust.org.uk
 twitter_handle: 
-wikidata_qid: Q7437749
+wikidata_org_qid: Q7437749
 wdtk_id: scottish_futures_trust_limited
 ---

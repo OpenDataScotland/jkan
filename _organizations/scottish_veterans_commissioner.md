@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://scottishveteranscommissioner.org/
 twitter_handle: 
-wikidata_qid: Q108842760
+wikidata_org_qid: Q108842760
 wdtk_id: 
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.nationalgalleries.org/
 twitter_handle: 
-wikidata_qid: Q2051997
+wikidata_org_qid: Q2051997
 wdtk_id: national_galleries_of_scotland
 ---

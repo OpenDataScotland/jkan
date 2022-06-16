@@ -9,7 +9,7 @@ portal_url: 'https://data-argyll-bute.opendata.arcgis.com/'
 org_url: https://www.argyll-bute.gov.uk/home
 twitter_handle: ArgyllAndBute
 gss_code: 'S12000035'
-wikidata_qid: 'Q28530251'
+wikidata_org_qid: 'Q28530251'
 wikidata_portal_qid: 'Q109980846'
 wdtk_id: 'argyll_and_bute_council'
 portal_type: ArcGIS

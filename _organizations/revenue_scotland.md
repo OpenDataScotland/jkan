@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://revenue.scot
 twitter_handle: 
-wikidata_qid: Q18163474
+wikidata_org_qid: Q18163474
 wdtk_id: revenue_scotland
 ---

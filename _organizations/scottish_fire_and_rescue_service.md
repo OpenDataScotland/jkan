@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.firescotland.gov.uk
 twitter_handle: fire_scot
-wikidata_qid: Q7437729
+wikidata_org_qid: Q7437729
 wdtk_id: scottish_fire_and_rescue_service
 ---

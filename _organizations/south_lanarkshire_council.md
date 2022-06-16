@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.southlanarkshire.gov.uk
 twitter_handle: SouthLanCouncil
 gss_code: S12000029
-wikidata_qid: Q99229588
+wikidata_org_qid: Q99229588
 wdtk_id: south_lanarkshire_council
 ---

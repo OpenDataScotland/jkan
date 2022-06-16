@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.mwcscot.org.uk
 twitter_handle: MentalWelfare
-wikidata_qid: Q6817445
+wikidata_org_qid: Q6817445
 wdtk_id: mental_welfare_commission_for_scotland
 ---

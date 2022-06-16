@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.tsh.scot.nhs.uk/Index.htm
 twitter_handle: 
-wikidata_qid: Q108838059
+wikidata_org_qid: Q108838059
 wdtk_id: 
 ---

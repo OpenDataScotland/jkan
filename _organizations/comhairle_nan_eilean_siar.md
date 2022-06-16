@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.cne-siar.gov.uk/
 twitter_handle: cne_siar
 gss_code: S12000013
-wikidata_qid: Q3778400
+wikidata_org_qid: Q3778400
 wdtk_id: comhairle_nan_eilean_siar
 ---

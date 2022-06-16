@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.rbge.org.uk/
 twitter_handle: TheBotanics
-wikidata_qid: Q1807521
+wikidata_org_qid: Q1807521
 wdtk_id: royal_botanic_garden_edinburgh
 ---

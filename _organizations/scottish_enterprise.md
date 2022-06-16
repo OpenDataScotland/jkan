@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.scottish-enterprise.com/
 twitter_handle: ScotEnt
-wikidata_qid: Q7437711
+wikidata_org_qid: Q7437711
 wdtk_id: scottish_enterprise
 ---

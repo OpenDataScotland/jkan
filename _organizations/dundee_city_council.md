@@ -9,7 +9,7 @@ portal_url: 'https://data.dundeecity.gov.uk/'
 org_url: https://www.dundeecity.gov.uk
 twitter_handle: DundeeCouncil
 gss_code: S12000042
-wikidata_qid: Q28528294
+wikidata_org_qid: Q28528294
 wdtk_id: dundee_city_council
 portal_type: CKAN
 ---

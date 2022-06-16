@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.scottishlegalcomplaints.org.uk/
 twitter_handle: 
-wikidata_qid: Q20537760
+wikidata_org_qid: Q20537760
 wdtk_id: scottish_legal_complaints_commission
 ---

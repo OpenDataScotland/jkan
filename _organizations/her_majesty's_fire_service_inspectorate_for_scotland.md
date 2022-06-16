@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.gov.scot/groups/hm-fire-service-inspectorate-scotland/
 twitter_handle: HMFSI_Scotland
-wikidata_qid: Q5732298
+wikidata_org_qid: Q5732298
 wdtk_id: 
 ---

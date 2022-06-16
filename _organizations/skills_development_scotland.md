@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.skillsdevelopmentscotland.co.uk
 twitter_handle: skillsdevscot
-wikidata_qid: Q7535242
+wikidata_org_qid: Q7535242
 wdtk_id: 
 ---

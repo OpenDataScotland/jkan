@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.midlothian.gov.uk
 twitter_handle: MidGov
 gss_code: S12000019
-wikidata_qid: Q6842580
+wikidata_org_qid: Q6842580
 wdtk_id: midlothian_council
 ---

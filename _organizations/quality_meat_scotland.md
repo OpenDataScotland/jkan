@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.qmscotland.co.uk
 twitter_handle: qmscotland
-wikidata_qid: Q7268750
+wikidata_org_qid: Q7268750
 wdtk_id: quality_meat_scotland
 ---

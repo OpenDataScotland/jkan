@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://landcommission.gov.scot
 twitter_handle: 
-wikidata_qid: Q29169092
+wikidata_org_qid: Q29169092
 wdtk_id: scottish_land_commission
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.lochlomond-trossachs.org/
 twitter_handle: 
-wikidata_qid: Q104246092
+wikidata_org_qid: Q104246092
 wdtk_id: loch_lomond_and_the_trossachs_national_park_authority
 ---

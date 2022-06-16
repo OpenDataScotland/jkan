@@ -8,7 +8,7 @@ type:
 portal_url: 'https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_relational_operator=equals&filter=dataset'
 org_url: 'https://edina.ac.uk'
 twitter_handle: 
-wikidata_qid: Q5322851
+wikidata_org_qid: Q5322851
 wdtk_id: 
 portal_type: DSpace
 ---

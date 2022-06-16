@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.shetland.gov.uk/
 twitter_handle: ShetIslandsCLL
 gss_code: S12000027
-wikidata_qid: Q3481996
+wikidata_org_qid: Q3481996
 wdtk_id: shetland_islands_council
 ---

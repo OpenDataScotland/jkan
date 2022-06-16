@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.sqa.org.uk
 twitter_handle: sqanews
-wikidata_qid: Q16919096
+wikidata_org_qid: Q16919096
 wdtk_id: scottish_qualifications_authority
 ---

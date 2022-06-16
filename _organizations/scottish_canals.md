@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.scottishcanals.co.uk/
 twitter_handle: scottishcanals
-wikidata_qid: Q7437643
+wikidata_org_qid: Q7437643
 wdtk_id: scottish_canals
 ---

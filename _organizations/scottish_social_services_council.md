@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.sssc.uk.com
 twitter_handle: 
-wikidata_qid: Q7437981
+wikidata_org_qid: Q7437981
 wdtk_id: sssc
 ---

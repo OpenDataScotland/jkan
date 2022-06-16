@@ -9,7 +9,7 @@ portal_url: 'https://data.edinburghcouncilmaps.info/'
 org_url: https://www.edinburgh.gov.uk/
 twitter_handle: Edinburgh_CC
 gss_code: S12000036
-wikidata_qid: Q28530250
+wikidata_org_qid: Q28530250
 wdtk_id: edinburgh_city_council
 portal_type: ArcGIS
 ---

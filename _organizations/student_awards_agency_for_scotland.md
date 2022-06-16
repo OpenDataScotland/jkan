@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.saas.gov.uk/
 twitter_handle: saastweet
-wikidata_qid: Q7627632
+wikidata_org_qid: Q7627632
 wdtk_id: saas
 ---

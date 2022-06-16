@@ -9,7 +9,7 @@ portal_url: 'https://maps-north-ayrshire.opendata.arcgis.com/'
 org_url: https://www.north-ayrshire.gov.uk/
 twitter_handle: North_Ayrshire
 gss_code: S12000021
-wikidata_qid: Q99229582
+wikidata_org_qid: Q99229582
 wdtk_id: north_ayrshire_council
 portal_type: ArcGIS
 ---

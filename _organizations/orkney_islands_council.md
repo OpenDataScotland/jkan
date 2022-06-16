@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.orkney.gov.uk
 twitter_handle: Orkneycouncil
 gss_code: S12000023
-wikidata_qid: Q11994103
+wikidata_org_qid: Q11994103
 wdtk_id: orkney_islands_council
 ---

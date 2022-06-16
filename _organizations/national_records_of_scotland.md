@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.nrscotland.gov.uk/
 twitter_handle: natrecordsscot
-wikidata_qid: Q16932348
+wikidata_org_qid: Q16932348
 wdtk_id: nrs
 ---

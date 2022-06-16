@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.rmascotland.gov.uk
 twitter_handle: 
-wikidata_qid: Q7336245
+wikidata_org_qid: Q7336245
 wdtk_id: risk_management_authority
 ---

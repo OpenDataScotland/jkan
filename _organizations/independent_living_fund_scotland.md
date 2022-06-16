@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://ilf.scot/
 twitter_handle: ILFScotland
-wikidata_qid: Q108837368
+wikidata_org_qid: Q108837368
 wdtk_id: 
 ---

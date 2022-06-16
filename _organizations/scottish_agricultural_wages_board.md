@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q7437612
+wikidata_org_qid: Q7437612
 wdtk_id: scottish_agricultural_wages_board
 ---

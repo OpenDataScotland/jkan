@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.scotlawcom.gov.uk
 twitter_handle: 
-wikidata_qid: Q7437840
+wikidata_org_qid: Q7437840
 wdtk_id: scottish_law_commission
 ---

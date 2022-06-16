@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q7437845
+wikidata_org_qid: Q7437845
 wdtk_id: scottish_legal_aid_board
 ---

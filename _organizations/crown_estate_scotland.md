@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.crownestatescotland.com/
 twitter_handle: 
-wikidata_qid: Q30603015
+wikidata_org_qid: Q30603015
 wdtk_id: crown_estate_scotland
 ---

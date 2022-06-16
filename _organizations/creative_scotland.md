@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.creativescotland.com
 twitter_handle: creativescots
-wikidata_qid: Q5183544
+wikidata_org_qid: Q5183544
 wdtk_id: creative_scotland
 ---

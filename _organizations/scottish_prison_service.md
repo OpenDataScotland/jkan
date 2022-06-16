@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.sps.gov.uk/
 twitter_handle: scottishprisons
-wikidata_qid: Q7437912
+wikidata_org_qid: Q7437912
 wdtk_id: sps
 ---

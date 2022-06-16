@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://pirc.scotland.gov.uk/
 twitter_handle: pircnews
-wikidata_qid: Q19385498
+wikidata_org_qid: Q19385498
 wdtk_id: pirc
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.oscr.org.uk/
 twitter_handle: 
-wikidata_qid: Q107179294
+wikidata_org_qid: Q107179294
 wdtk_id: 
 ---

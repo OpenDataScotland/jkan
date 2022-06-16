@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.sportscotland.org.uk
 twitter_handle: sportscotland
-wikidata_qid: Q16932565
+wikidata_org_qid: Q16932565
 wdtk_id: sportscotland
 ---

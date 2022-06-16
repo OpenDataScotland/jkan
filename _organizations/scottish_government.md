@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.gov.scot
 twitter_handle: scotgov
-wikidata_qid: Q32521
+wikidata_org_qid: Q32521
 wdtk_id: scottish_government
 ---

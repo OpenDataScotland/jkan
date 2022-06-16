@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.itspublicknowledge.info
 twitter_handle: 
-wikidata_qid: Q7437791
+wikidata_org_qid: Q7437791
 wdtk_id: scottish_information_commissioner
 ---

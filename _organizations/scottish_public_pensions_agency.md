@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://pensions.gov.scot
 twitter_handle: 
-wikidata_qid: Q7437916
+wikidata_org_qid: Q7437916
 wdtk_id: scottish_public_pensions_agency
 ---

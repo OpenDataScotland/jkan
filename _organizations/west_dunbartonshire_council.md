@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.west-dunbarton.gov.uk
 twitter_handle: WDCouncil
 gss_code: S12000039
-wikidata_qid: Q99229590
+wikidata_org_qid: Q99229590
 wdtk_id: west_dunbartonshire_council
 ---

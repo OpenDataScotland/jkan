@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.careinspectorate.com/
 twitter_handle: 
-wikidata_qid: Q5038855
+wikidata_org_qid: Q5038855
 wdtk_id: 
 ---

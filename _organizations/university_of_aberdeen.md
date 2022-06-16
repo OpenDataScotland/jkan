@@ -8,7 +8,7 @@ type:
 portal_url: 'https://abdn.pure.elsevier.com/en/datasets/'
 org_url: 'https://www.abdn.ac.uk/'
 twitter_handle: 'aberdeenuni'
-wikidata_qid: Q270532
+wikidata_org_qid: Q270532
 wdtk_id: 'university_of_aberdeen'
 portal_type: Pure
 ---

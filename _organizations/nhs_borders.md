@@ -9,6 +9,6 @@ portal_url: ''
 org_url: http://www.nhsborders.scot.nhs.uk
 twitter_handle: NHSBorders
 gss_code: S08000016
-wikidata_qid: Q6954115
+wikidata_org_qid: Q6954115
 wdtk_id: nhs_borders
 ---

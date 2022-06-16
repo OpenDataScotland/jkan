@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.spso.org.uk
 twitter_handle: 
-wikidata_qid: Q7437918
+wikidata_org_qid: Q7437918
 wdtk_id: scottish_public_services_ombudsman
 ---

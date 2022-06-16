@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q6302842
+wikidata_org_qid: Q6302842
 wdtk_id: judicial_appointments_board_for_scotland
 ---

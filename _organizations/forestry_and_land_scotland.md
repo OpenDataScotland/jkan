@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://forestryandland.gov.scot/
 twitter_handle: forestryls
-wikidata_qid: Q65061975
+wikidata_org_qid: Q65061975
 wdtk_id: forestry_and_land_scotland
 ---

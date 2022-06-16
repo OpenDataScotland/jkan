@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q5236981
+wikidata_org_qid: Q5236981
 wdtk_id: david_macbrayne_limited
 ---

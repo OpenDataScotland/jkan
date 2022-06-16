@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.spa.police.uk
 twitter_handle: 
-wikidata_qid: Q7437899
+wikidata_org_qid: Q7437899
 wdtk_id: scottish_police_authority
 ---

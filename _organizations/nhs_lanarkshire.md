@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.nhslanarkshire.scot.nhs.uk/
 twitter_handle: NHSLanarkshire
 gss_code: S08000032
-wikidata_qid: Q6954145
+wikidata_org_qid: Q6954145
 wdtk_id: nhs_lanarkshire
 ---

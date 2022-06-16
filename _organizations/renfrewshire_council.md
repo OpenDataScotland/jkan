@@ -9,7 +9,7 @@ portal_url: 'https://data-ren.opendata.arcgis.com'
 org_url: http://www.renfrewshire.gov.uk
 twitter_handle: RenCouncil
 gss_code: S12000038
-wikidata_qid: Q99229583
+wikidata_org_qid: Q99229583
 wdtk_id: renfrewshire_council
 portal_type: ArcGIS
 ---

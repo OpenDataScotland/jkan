@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.scottishwater.co.uk/
 twitter_handle: scottish_water
-wikidata_qid: Q7438022
+wikidata_org_qid: Q7438022
 wdtk_id: scottish_water
 ---

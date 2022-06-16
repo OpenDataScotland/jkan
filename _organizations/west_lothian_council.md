@@ -9,6 +9,6 @@ portal_url: ''
 org_url: http://www.westlothian.gov.uk/
 twitter_handle: LoveWestLothian
 gss_code: S12000040
-wikidata_qid: Q7985814
+wikidata_org_qid: Q7985814
 wdtk_id: west_lothian_council
 ---

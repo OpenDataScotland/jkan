@@ -8,7 +8,7 @@ type:
 portal_url: 'https://pureportal.strath.ac.uk/en/datasets/'
 org_url: 'https://www.strath.ac.uk/'
 twitter_handle: 'unistrathclyde'
-wikidata_qid: Q1859178
+wikidata_org_qid: Q1859178
 wdtk_id: university_of_strathclyde
 portal_type: Pure
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.hie.co.uk/
 twitter_handle: HIEScotland
-wikidata_qid: Q5759437
+wikidata_org_qid: Q5759437
 wdtk_id: hie
 ---

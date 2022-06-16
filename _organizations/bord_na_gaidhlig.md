@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.gaidhlig.scot/
 twitter_handle: 
-wikidata_qid: Q3361399
+wikidata_org_qid: Q3361399
 wdtk_id: bord_na_gaidhlig
 ---

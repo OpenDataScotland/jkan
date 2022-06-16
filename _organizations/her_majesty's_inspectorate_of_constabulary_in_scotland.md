@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://hmics.scot
 twitter_handle: 
-wikidata_qid: Q16842517
+wikidata_org_qid: Q16842517
 wdtk_id: 
 ---

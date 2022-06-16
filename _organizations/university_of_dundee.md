@@ -8,7 +8,7 @@ type:
 portal_url: 'https://discovery.dundee.ac.uk/en/datasets/'
 org_url: 'https://www.dundee.ac.uk'
 twitter_handle: 'dundeeuni'
-wikidata_qid: Q1249005
+wikidata_org_qid: Q1249005
 wdtk_id: 'university_of_dundee'
 portal_type: Pure
 ---

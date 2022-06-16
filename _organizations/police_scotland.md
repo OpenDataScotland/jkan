@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.scotland.police.uk/
 twitter_handle: policescotland
-wikidata_qid: Q7209499
+wikidata_org_qid: Q7209499
 wdtk_id: police_scotland
 ---

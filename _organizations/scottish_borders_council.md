@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.scotborders.gov.uk
 twitter_handle: ScotBorders
 gss_code: S12000026
-wikidata_qid: Q99229585
+wikidata_org_qid: Q99229585
 wdtk_id: scottish_borders_council
 ---

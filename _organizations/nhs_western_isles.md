@@ -9,6 +9,6 @@ portal_url: ''
 org_url: http://www.wihb.scot.nhs.uk
 twitter_handle: NHSWI
 gss_code: S08000028
-wikidata_qid: Q6954182
+wikidata_org_qid: Q6954182
 wdtk_id: nhs_western_isles
 ---

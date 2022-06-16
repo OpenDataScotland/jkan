@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://falkirk.gov.uk
 twitter_handle: FalkirkCouncil
 gss_code: S12000014
-wikidata_qid: Q28530255
+wikidata_org_qid: Q28530255
 wdtk_id: falkirk_council
 ---

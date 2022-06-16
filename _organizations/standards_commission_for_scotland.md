@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.standardscommissionscotland.org.uk
 twitter_handle: 
-wikidata_qid: Q7598418
+wikidata_org_qid: Q7598418
 wdtk_id: standards_commission_for_scotland
 ---

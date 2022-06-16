@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.sepa.org.uk
 twitter_handle: 
-wikidata_qid: Q7437713
+wikidata_org_qid: Q7437713
 wdtk_id: sepa
 ---

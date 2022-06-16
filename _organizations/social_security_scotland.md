@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://beta.gov.scot/policies/social-security/
 twitter_handle: socsecscot
-wikidata_qid: Q54493776
+wikidata_org_qid: Q54493776
 wdtk_id: social_security_scotland
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q27159796
+wikidata_org_qid: Q27159796
 wdtk_id: cairngorms_national_park_authority
 ---

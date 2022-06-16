@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.cmassets.co.uk
 twitter_handle: 
-wikidata_qid: Q5019430
+wikidata_org_qid: Q5019430
 wdtk_id: cmal
 ---

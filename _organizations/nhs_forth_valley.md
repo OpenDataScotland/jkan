@@ -9,6 +9,6 @@ portal_url: ''
 org_url: http://www.nhsforthvalley.com
 twitter_handle: nhsforthvalley
 gss_code: S08000019
-wikidata_qid: Q6954136
+wikidata_org_qid: Q6954136
 wdtk_id: nhs_forth_valley
 ---

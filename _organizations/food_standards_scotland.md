@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.foodstandards.gov.scot
 twitter_handle: 
-wikidata_qid: Q20713120
+wikidata_org_qid: Q20713120
 wdtk_id: food_standards_scotland
 ---

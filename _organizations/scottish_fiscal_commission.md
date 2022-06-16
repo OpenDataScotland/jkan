@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.fiscal.scot
 twitter_handle: 
-wikidata_qid: Q20950096
+wikidata_org_qid: Q20950096
 wdtk_id: scottish_fiscal_commission
 ---

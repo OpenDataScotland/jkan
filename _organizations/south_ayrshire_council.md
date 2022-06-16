@@ -9,7 +9,7 @@ portal_url: 'https://maps-south-ayrshire.opendata.arcgis.com/'
 org_url: https://www.south-ayrshire.gov.uk
 twitter_handle: SouthAyrshire
 gss_code: S12000028
-wikidata_qid: Q99229587
+wikidata_org_qid: Q99229587
 wdtk_id: south_ayrshire_council
 portal_type: ArcGIS
 ---

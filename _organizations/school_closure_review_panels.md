@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://scrp.scot/
 twitter_handle: 
-wikidata_qid: Q108837587
+wikidata_org_qid: Q108837587
 wdtk_id: 
 ---

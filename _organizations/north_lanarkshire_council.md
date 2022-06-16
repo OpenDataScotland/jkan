@@ -9,7 +9,7 @@ portal_url: 'https://gisdata.northlanarkshire.gov.uk/'
 org_url: https://www.northlanarkshire.gov.uk
 twitter_handle: NLCPeople
 gss_code: S12000050
-wikidata_qid: Q99229584
+wikidata_org_qid: Q99229584
 wdtk_id: north_lanarkshire_council
 portal_type: ArcGIS
 ---

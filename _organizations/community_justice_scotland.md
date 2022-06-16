@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://communityjustice.scot
 twitter_handle: ComJusScot
-wikidata_qid: Q29169138
+wikidata_org_qid: Q29169138
 wdtk_id: community_justice_scotland
 ---

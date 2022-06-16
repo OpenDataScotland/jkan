@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://education.gov.scot/
 twitter_handle: educationscot
-wikidata_qid: Q5340921
+wikidata_org_qid: Q5340921
 wdtk_id: 
 ---

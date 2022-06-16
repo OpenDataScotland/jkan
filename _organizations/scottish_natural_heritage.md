@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q108060459
+wikidata_org_qid: Q108060459
 wdtk_id: 
 ---

@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.audit-scotland.gov.uk/about/ac
 twitter_handle: 
-wikidata_qid: Q4672804
+wikidata_org_qid: Q4672804
 wdtk_id: 
 ---

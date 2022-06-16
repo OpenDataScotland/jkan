@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: http://www.hial.co.uk
 twitter_handle: 
-wikidata_qid: Q16149321
+wikidata_org_qid: Q16149321
 wdtk_id: highlands_and_islands_airports_limited
 ---

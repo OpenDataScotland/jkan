@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: https://www.scottishhumanrights.com
 twitter_handle: 
-wikidata_qid: Q7437782
+wikidata_org_qid: Q7437782
 wdtk_id: scottish_commission_for_human_rights
 ---

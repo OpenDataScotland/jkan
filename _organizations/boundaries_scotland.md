@@ -8,6 +8,6 @@ type:
 portal_url: ''
 org_url: 
 twitter_handle: 
-wikidata_qid: Q6664099
+wikidata_org_qid: Q6664099
 wdtk_id: local_government_boundary_commission_for_scotland
 ---

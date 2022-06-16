@@ -9,6 +9,6 @@ portal_url: ''
 org_url: https://www.eastrenfrewshire.gov.uk
 twitter_handle: EastRenCouncil
 gss_code: S12000011
-wikidata_qid: Q28528285
+wikidata_org_qid: Q28528285
 wdtk_id: east_renfrewshire_council
 ---
