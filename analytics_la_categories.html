@@ -1,0 +1,34 @@
+---
+title: Local authority category breakdown
+layout: default
+permalink: /analytics/local-authority-categories
+full_width: true
+---
+{% include breadcrumbs.html %}
+
+<h1>{{ page.title }}</h1>
+
+{% assign categories = site.data.categories %}
+
+<table class="table table-responsive table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Council</th>
+            {% for category in categories %}
+            <th>{{category.name }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% assign local_authorities = site.organizations | where: "type", "Local authority" %}
+        {% for la in local_authorities %}
+        <tr>
+            <td>{{ la.title }}</td>
+            {% for category in categories %}
+            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title and item.category contains category.name" | size %}
+            <td>{{ dataset_count }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

@@ -10,7 +10,7 @@
   <div class="content">
     {% include header.html %}
 
-    <section data-hook="main" class="container">
+    <section data-hook="main" class="{% if page.full_width==true %}container-fluid{% else %}container{% endif %}">
       {{ content }}
     </section>
 
