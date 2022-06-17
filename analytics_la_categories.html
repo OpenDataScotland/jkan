@@ -6,13 +6,18 @@ full_width: true
 ---
 {% include breadcrumbs.html parent="Analytics" %}
 
+{% assign COLOUR_NONE = "background-color:rgba(203, 33, 41,0.5)" %}
+{% assign COLOUR_LOW = "background-color:rgba(234, 119, 26,0.5)" %}
+{% assign COLOUR_MEDIUM = "background-color:rgba(224, 168, 66,0.5)" %}
+{% assign COLOUR_HIGH = "background-color:rgba(16, 141, 113,0.5)" %}
+
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css"/>
 
 <h1>{{ page.title }}</h1>
 
 {% assign categories = site.data.categories %}
 
-<table class="table table-responsive table-bordered table-striped">
+<table id="category-breakdown-table" class="table table-responsive table-bordered table-striped">
     <thead>
         <tr>
             <th>Council</th>
@@ -23,57 +28,55 @@ full_width: true
         </tr>
     </thead>
     <tbody>
-        {%comment%}
-        {% assign local_authorities = site.organizations | where: "type", "Local authority" %}
-        {% assign local_authorities_count = 0 %}
+        
+        {% assign local_authorities = site.organizations | where: "type", "Local authority" %}        
+        {% assign local_authorities_count = local_authorities | size %}        
         {% for la in local_authorities %}
         {% assign dataset_count_total = 0 %}
+        
         <tr>
             <td>{{ la.title }}</td>
             {% for category in categories %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title and item.category contains category.name" | size %}
+            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
             {% assign dataset_count_total = dataset_count_total | plus: dataset_count %}
             {% if dataset_count < 1 %}
-            <td style="background-color:rgba(203, 33, 41,0.5)">{{dataset_count}}</td>
+            <td style="{{COLOUR_NONE}}">{{dataset_count}}</td>
             {% elsif dataset_count >= 1 and dataset_count <= 3 %}
-            <td style="background-color:rgba(234, 119, 26,0.5)">{{dataset_count}}</td>
+            <td style="{{COLOUR_LOW}}">{{dataset_count}}</td>
             {% elsif dataset_count >= 4 and dataset_count <= 6 %}
-            <td style="background-color:rgba(224, 168, 66,0.5)">{{dataset_count}}</td>
+            <td style="{{COLOUR_MEDIUM}}">{{dataset_count}}</td>
             {% elsif dataset_count > 6 %}
-            <td style="background-color:rgba(16, 141, 113,0.5)">{{dataset_count}}</td>
+            <td style="{{COLOUR_HIGH}}">{{dataset_count}}</td>
             {% else %}
             <td>{{dataset_count}}</td>
             {% endif %}
             {% endfor %}
             <th>{{dataset_count_total}}</th>
         </tr>
-        {% endfor %}
-        {%endcomment%}
+        
+        {% endfor %}        
     </tbody>
     <tfoot>
         <tr>
             <th># councils with no data</th>
-            {%comment%}
             {% for category in categories %}
             {% assign las_no_data_count = 0 %}
             {% for la in local_authorities %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title and item.category contains category.name" | size %}
+            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
             {% if dataset_count == 0 %}
             {% assign las_no_data_count = las_no_data_count | plus: 1 %}
             {% endif %}
             {% endfor %}
             <td>{{las_no_data_count}}/{{ local_authorities_count }}</td>
             {% endfor %}
-            {%endcomment%}
             <th style="background-color:#f9f9f9"></th>
         </tr>
         <tr>
             <th>% of councils with no data</th>
-            {%comment%}
             {% for category in categories %}
             {% assign las_no_data_count = 0 %}
             {% for la in local_authorities %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title and item.category contains category.name" | size %}
+            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
             {% if dataset_count == 0 %}
             {% assign las_no_data_count = las_no_data_count | plus: 1 %}
             {% endif %}
@@ -81,7 +84,6 @@ full_width: true
             {% assign las_no_data_percent = las_no_data_count | times: 100.0 | divided_by: local_authorities_count %}
             <td>{{ las_no_data_percent | round: 0 }}</td>
             {% endfor %}
-            {%endcomment%}
             <th style="background-color:#f9f9f9"></th>
         </tr>
     </tfoot>
@@ -89,11 +91,38 @@ full_width: true
 <section class="container">
     <h2>Additional information</h2>
     <p>Some datasets may have more than one category applied to them meaning that the total dataset count in the far-right total column is larger than the amount of datasets belonging to an organisation. For example, a Community Council boundaries dataset may have both the <em>Council and Government</em> and <em>Elections / Politics</em> categories applied.</p>
+    <p>The following colour scheme is employed for the number ranges in the table above:</p>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Level</th>
+                <th>Range</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="{{COLOUR_NONE}}">
+                <td>None</td>
+                <td>0 datasets</td>
+            </tr>
+            <tr style="{{COLOUR_LOW}}">
+                <td>Low</td>
+                <td>1-3 datasets</td>
+            </tr>
+            <tr style="{{COLOUR_MEDIUM}}">
+                <td>Medium</td>
+                <td>4-6 datasets</td>
+            </tr>
+            <tr style="{{COLOUR_HIGH}}">
+                <td>High</td>
+                <td>7+ datasets</td>
+            </tr>
+        </tbody>
+    </table>
 </section>
 
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
 <script>
-    $('table').DataTable( {
+    $('#category-breakdown-table').DataTable( {
     fixedHeader: true,
     dom: 't',
     paging: false,
