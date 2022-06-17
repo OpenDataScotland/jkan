@@ -1,4 +1,4 @@
-<ol class="breadcrumb">
+<ol class="breadcrumb{% if page.full_width %} container{% endif %}">
   {% if page.title == site.title %}
     <li class="active"><i class="fa fa-home" aria-label="Home"></i></li>
   {% else %}
@@ -10,5 +10,5 @@
       {% endif %}
     {% endif %}
     <li class="active">{{ page.title }}</li>
-  {% endif %}
+  {% endif %}  
 </ol>
