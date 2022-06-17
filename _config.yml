@@ -31,6 +31,8 @@ navigation:
       url: /analytics/
     - title: Dataset licensing
       url: /analytics/licensing/
+    - title: Local authority category breakdown
+      url: /analytics/local-authority-categories/
     - title: Local authority coverage
       url: /analytics/local-authority-coverage/
     - title: Portal types
