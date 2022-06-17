@@ -23,8 +23,9 @@ full_width: true
         </tr>
     </thead>
     <tbody>
+        {%comment%}
         {% assign local_authorities = site.organizations | where: "type", "Local authority" %}
-        {% assign local_authorities_count = local_authorities | size %}
+        {% assign local_authorities_count = 0 %}
         {% for la in local_authorities %}
         {% assign dataset_count_total = 0 %}
         <tr>
@@ -47,10 +48,12 @@ full_width: true
             <th>{{dataset_count_total}}</th>
         </tr>
         {% endfor %}
+        {%endcomment%}
     </tbody>
     <tfoot>
         <tr>
             <th># councils with no data</th>
+            {%comment%}
             {% for category in categories %}
             {% assign las_no_data_count = 0 %}
             {% for la in local_authorities %}
@@ -61,10 +64,12 @@ full_width: true
             {% endfor %}
             <td>{{las_no_data_count}}/{{ local_authorities_count }}</td>
             {% endfor %}
+            {%endcomment%}
             <th style="background-color:#f9f9f9"></th>
         </tr>
         <tr>
             <th>% of councils with no data</th>
+            {%comment%}
             {% for category in categories %}
             {% assign las_no_data_count = 0 %}
             {% for la in local_authorities %}
@@ -76,6 +81,7 @@ full_width: true
             {% assign las_no_data_percent = las_no_data_count | times: 100.0 | divided_by: local_authorities_count %}
             <td>{{ las_no_data_percent | round: 0 }}</td>
             {% endfor %}
+            {%endcomment%}
             <th style="background-color:#f9f9f9"></th>
         </tr>
     </tfoot>
