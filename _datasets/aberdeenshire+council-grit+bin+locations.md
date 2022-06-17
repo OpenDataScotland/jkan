@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2020-12-22'
+date_updated: '2018-11-10'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,10 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_roads_main_and_secondary.kmz
-- format: KMZ
-  name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_footways_priorities_1_and_2.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
 schema: default
-title: "Gritting routes\_within Aberdeenshire"
+title: Grit bin locations
 ---

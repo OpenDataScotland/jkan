@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-02-14'
+date_updated: '2020-12-22'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,10 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_LDP17_greenbelt.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_roads_main_and_secondary.kmz
+- format: KMZ
+  name: KMZ
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_footways_priorities_1_and_2.kmz
 schema: default
-title: "Green belt areas\_within Aberdeenshire"
+title: Gritting routes within Aberdeenshire
 ---
