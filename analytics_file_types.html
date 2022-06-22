@@ -1,0 +1,68 @@
+---
+title: File types
+layout: default
+permalink: /analytics/file-types/
+---
+{% include breadcrumbs.html parent="Analytics" %}
+
+<h2>{{page.title}}</h2>
+
+<canvas id="chart-file-types" width="400" height="200"></canvas>
+
+<canvas id="chart-file-types-by-org" width="400" height="200"></canvas>
+
+<canvas id="chart-file-types-per-dataset" width="400" height="200"></canvas>
+
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+                // Loading the datasets data
+                $.getJSON('/datasets.json', function (datasets) {
+                        // Load charts
+                        chartFileTypes(datasets);
+                });
+        });
+
+        function chartFileTypes(datasets) {
+                let ctx = document.getElementById('chart-file-types').getContext('2d');
+                let data = _.chain(datasets)
+                        .map(dataset => dataset.resources.map(resource => resource.format))
+                        .flatten()
+                        .groupBy()
+                        .map((value, key) => ({ label: key, count: value.length }))
+                        .orderBy('count', 'desc')
+                        .value();
+
+                let labels = _.chain(data)
+                        .map('label')
+                        .value();
+
+                let values = _.chain(data)
+                        .map('count')
+                        .value();
+
+                var myChart = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                                labels: labels,
+                                datasets: [{
+                                        label: '# of file types in datasets',
+                                        data: values,
+                                        backgroundColor: 'rgba(31, 120, 180, 1)',
+                                        borderColor: 'rgba(31, 120, 180, 0.5)',
+                                        borderWidth: 1
+                                }]
+                        },
+                        options: {
+                                scales: {
+                                        yAxes: [{
+                                                ticks: {
+                                                        beginAtZero: true
+                                                }
+                                        }]
+                                }
+                        }
+                });
+        }
+
+</script>

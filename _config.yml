@@ -29,6 +29,8 @@ navigation:
     sub-pages:
     - title: Overview
       url: /analytics/
+    - title: Dataset file types
+      url: /analytics/file-types/
     - title: Dataset licensing
       url: /analytics/licensing/
     - title: Local authority category breakdown
