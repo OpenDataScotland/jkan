@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-04-26'
-date_updated: '2022-05-19'
+date_updated: '2022-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><strong>This group details the output from transport monitoring of cyclist\
@@ -49,10 +49,10 @@ resources:
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/35c5bdd9-1dcd-4294-aa5b-c38026537b38/download/20220211-monitoring-locations-summary-counts-for-2021.csv
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/f5afb989-91c4-42e3-9d0d-9ace2874ae8a/download/20220519-monitoring-locations-summary-counts-for-2022.csv
+  url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/f5afb989-91c4-42e3-9d0d-9ace2874ae8a/download/20220621-monitoring-locations-summary-counts-for-2022.csv
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/0ba6a880-f5d5-4a5c-8a36-aef1d7e2376b/download/20220519-cycle-pedestrian-counts-jan-2022-to-dec-2022.csv
+  url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/0ba6a880-f5d5-4a5c-8a36-aef1d7e2376b/download/20220621-cycle-pedestrian-counts-jan-2022-to-dec-2022.csv
 schema: default
 title: Cycle & Pedestrian Counts
 ---
