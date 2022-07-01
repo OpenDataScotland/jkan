@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-02-06'
-date_updated: '2022-05-03'
+date_updated: '2022-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Stirling Council''s activities cover the area bordered by Clackmannanshire
@@ -21,7 +21,7 @@ notes: '<p><strong>Stirling Council''s activities cover the area bordered by Cla
   <p><strong>All data believed to be correct at the date of the last update, 12th
   February, 2019.</strong></p>
 
-  <p><strong>Under review as at 14st January, 2022.</strong></p>'
+  <p><strong>Under review as at 30th June, 2022.</strong></p>'
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/asset-register
 records: null

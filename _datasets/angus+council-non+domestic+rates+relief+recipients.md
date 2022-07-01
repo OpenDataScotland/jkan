@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-05-07'
-date_updated: '2021-12-23'
+date_updated: '2022-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>List of Non Domestic Rates Reliefs (excluding personal data) awarded in
@@ -25,6 +25,9 @@ resources:
 - format: XLSX
   name: XLSX
   url: http://opendata.angus.gov.uk/dataset/6ad899f5-569b-4f22-a024-004c9318ede9/resource/27178e66-5b70-40b4-a983-df5faccabc22/download/non-domestic-rates-relief-recipients-december-2021.xlsx
+- format: XLSX
+  name: XLSX
+  url: http://opendata.angus.gov.uk/dataset/6ad899f5-569b-4f22-a024-004c9318ede9/resource/6c268c22-494d-4e70-92eb-f2f8ea70f8cf/download/ndr-relief-recipients-june-2022.xlsx
 schema: default
 title: Non Domestic Rates Relief Recipients
 ---

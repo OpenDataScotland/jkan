@@ -12,10 +12,10 @@ records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=42785e38-d42a-48da-a318-1eb378e7fb0b
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/51ec8f3f-9268-45d2-a86b-eb86db3f2b7a/2/urql
 - format: CSV
   name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=41ebcac6-665f-4474-9895-80b12f398034
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1ee0bad4-20a3-4c6d-b574-9886f306b365
 - format: XML
   name: XML
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3f64ce49-f421-4692-9577-2f06428ca1c1

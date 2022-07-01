@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2021-04-09'
-date_updated: '2022-05-24'
+date_updated: '2022-07-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><strong>Datasets within this group show the monthly breakdown of the tonnage\
@@ -31,7 +31,7 @@ resources:
   url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/22285ab0-0401-4774-b8ac-caf0d6fd0bbd/download/20210409-collections-summary-data.csv
 - format: CSV
   name: CSV
-  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/f0a75f47-bae7-429b-85b1-3669cc1288b5/download/20220520-stirling-domestic-waste-collections-jan-2022-to-dec-2022.csv
+  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/f0a75f47-bae7-429b-85b1-3669cc1288b5/download/20220630-stirling-domestic-waste-collections-jan-2022-to-dec-2022.csv
 - format: PDF
   name: PDF
   url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/e1aa9bb6-d605-418d-a1b0-8d82d7140b44/download/20220520-stirling-waste-services-collections-summary-from-27.09.2021-v.2.pdf

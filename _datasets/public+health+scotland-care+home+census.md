@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-04-30'
-date_updated: '2021-12-14'
+date_updated: '2022-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Trend data from the annual adult Care Home Census, aggregated to council
@@ -55,7 +55,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/f2f376d8-f101-41f5-adb0-3249ed31cce0/download/file9a_percentage_of_long_stay_residents_by_sex_and_age.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/92ebf3df-2af4-4d73-9397-f5d6a6778da7/download/file7b_number_of_long_stay_residents_by_source_of_funding.csv
+  url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/92ebf3df-2af4-4d73-9397-f5d6a6778da7/download/file8b_number_of_long_stay_residents_by_health_characteristics.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/39d2b480-2990-46a2-bd58-96aac41a032a/download/file9b_number_of_long_stay_residents_by_sex_and_age.csv

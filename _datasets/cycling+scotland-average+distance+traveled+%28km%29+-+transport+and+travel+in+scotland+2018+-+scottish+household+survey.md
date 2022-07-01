@@ -13,12 +13,12 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/afbf361c-6311-47de-8779-d79dbb4b9f0e
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9c3a1332-406b-4264-b619-bff7f4449600
 - format: JSON
   name: JSON
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/821b3439-2f43-4d31-a53e-1695f37ed1b0/2/urql
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fedaf873-5787-4bec-b2b5-5f4c863c7d6e
 schema: default
 title: Average distance traveled (km) - Transport and Travel in Scotland 2018 - Scottish
   Household Survey
