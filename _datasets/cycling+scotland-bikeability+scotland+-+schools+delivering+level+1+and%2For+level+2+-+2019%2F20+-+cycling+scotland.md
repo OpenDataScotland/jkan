@@ -13,15 +13,15 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b9fa9cf4-16b3-4d13-97c0-29c2d0c21d6a
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=ddd63aef-2696-46d3-a7b5-89559ac8c803
+- format: JSON
+  name: JSON
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9c85eebd-326e-4713-b81b-76cc3734a81d
 - format: XML
   name: XML
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5a716f5c-b44b-42ff-aa29-9fccba0aab6f
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=45d4ec00-30ba-4175-a12d-7e5f4e38a5b2
-- format: JSON
-  name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/51a9ebdd-ce35-4dfe-8921-1bc8207b4b5e/1/urql
 schema: default
 title: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2019/20
   - Cycling Scotland

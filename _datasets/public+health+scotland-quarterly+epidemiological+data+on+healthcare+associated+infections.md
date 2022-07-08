@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2020-02-05'
-date_updated: '2022-04-27'
+date_updated: '2022-07-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Health Protection Scotland (HPS) provides quarterly statistics and a combined

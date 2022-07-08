@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-05'
-date_updated: '2022-06-29'
+date_updated: '2022-07-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: "<p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified\

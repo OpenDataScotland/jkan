@@ -11,12 +11,12 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bc613ae3-3325-4f19-92b0-d03f68459200
 records: null
 resources:
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9a0bccaa-cdca-44dd-8384-967dcde48c04
 - format: JSON
   name: JSON
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8ddc25ea-6850-42ee-a8ea-78e8e3293986
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8f684864-b2b8-41bf-83f8-7990d1a62feb
 - format: XML
   name: XML
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31ec95f9-9c93-4625-8bca-3b2210c57892
