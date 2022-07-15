@@ -2,8 +2,8 @@
 category:
 - Business and Economy
 - Food and Environment
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>The Perth and Kinross Employment Land Audit is prepared annually to provide
@@ -17,7 +17,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/2229ba9846484c9f9c29529fb75acd8f_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/2229ba9846484c9f9c29529fb75acd8f_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Employment_Land_Audit_2016/FeatureServer/0

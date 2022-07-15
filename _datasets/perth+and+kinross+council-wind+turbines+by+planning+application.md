@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>Location of wind turbines with relevant planning application information.</p>
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/bbb233741cc54ad9bf545ac30cf908f6_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/bbb233741cc54ad9bf545ac30cf908f6_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Wind_turbines_by_planning_application/FeatureServer/0

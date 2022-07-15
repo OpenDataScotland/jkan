@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>Location of various car parks in Perth and Kinross.</p>
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/5bf68327e1eb4001a45191b37e248b9b_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/5bf68327e1eb4001a45191b37e248b9b_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Car_parking_points/FeatureServer/0

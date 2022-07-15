@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2017-09-27'
-date_updated: '2021-06-30'
+date_updated: '2022-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>9 digit standard geography codes and labels for</p>
@@ -71,7 +71,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/84f6061a-6f15-4e8f-a4f9-aeb96e142b83/download/iz2001_codes_and_labels_21042020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e3e885cc-2530-4b3c-bead-9eda9782264f/download/iz2011_codes_and_labels_21042020.csv
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e3e885cc-2530-4b3c-bead-9eda9782264f/download/iz2011_codes_and_labels_14072022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/967937c4-8d67-4f39-974f-fd58c4acfda5/download/ca11_ca19.csv

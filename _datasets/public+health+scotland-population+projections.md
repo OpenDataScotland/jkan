@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-04-17'
-date_updated: '2021-06-30'
+date_updated: '2022-07-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Population projections for Scotland on a country, NHS health board, health
@@ -29,7 +29,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/0876fc67-05e6-4e87-bc30-c4b0756fff04/download/hb_pop_proj_03072020.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/7a9e74c9-8746-488b-8fba-0fad7c7866ea/download/scotland_pop_proj_03072020.csv
+  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/7a9e74c9-8746-488b-8fba-0fad7c7866ea/download/scotland_pop_proj_15072022.csv
 schema: default
 title: Population Projections
 ---

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-12-03'
-date_updated: '2022-07-06'
+date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: "<p>Antimicrobial Resistance and Healthcare Associated Infection (ARHAI) Scotland,\

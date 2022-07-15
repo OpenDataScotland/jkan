@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: "<table width='100%'><tbody><tr><td></td></tr><tr><td></td><td>Availability\
@@ -24,7 +24,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/e6e7993e5ed446738eb95d0531785025_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/e6e7993e5ed446738eb95d0531785025_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/SuperfastBroadband/FeatureServer/0

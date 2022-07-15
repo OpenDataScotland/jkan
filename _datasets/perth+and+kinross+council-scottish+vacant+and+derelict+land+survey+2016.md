@@ -2,8 +2,8 @@
 category:
 - Business and Economy
 - Food and Environment
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>A survey issued by the Scottish Government to establish the extent &amp;
@@ -15,7 +15,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/b83c58ff1c5e4286990e8643212c146b_1
+  url: https://opendata-pkc.opendata.arcgis.com/maps/b83c58ff1c5e4286990e8643212c146b_1
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Scottish_Vacant_and_Derelict_Land_2016/FeatureServer/1

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Attributes about each
@@ -14,7 +14,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/02b13b6fa75d4ac4930ba595989fe40d_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/02b13b6fa75d4ac4930ba595989fe40d_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Electric_Vehicle_Charging_Points_noAddress/FeatureServer/0

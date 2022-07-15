@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>St Ninians Episcopal School Catchment Boundary (Whole of PKC)</p>
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/23a0859e00624870a1574d5555fbbc1a_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/23a0859e00624870a1574d5555fbbc1a_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/St_Ninians_Episcopal_School_Catchment/FeatureServer/0

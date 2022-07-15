@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Education
 - Planning and Development
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>Boundary for the Roman Catholic secondary school catchment area</p>
@@ -14,7 +14,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/ac1cee7b64dd4a84920309b4c7119d96_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/ac1cee7b64dd4a84920309b4c7119d96_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Roman_Catholic_Secondary_School_Catchments/FeatureServer/0

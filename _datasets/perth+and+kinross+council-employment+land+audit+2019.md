@@ -3,8 +3,8 @@ category:
 - Business and Economy
 - Food and Environment
 - Planning and Development
-date_created: '2021-09-30'
-date_updated: '2021-09-30'
+date_created: '2022-07-13'
+date_updated: '2022-07-13'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: '<p><span style=''font-family: &quot;Avenir Next&quot;, &quot;Avenir Next&quot;;
@@ -19,7 +19,7 @@ records: null
 resources:
 - format: HTML
   name: HTML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/0721f9dd62c84d58a313a23ce77aa92e_0
+  url: https://opendata-pkc.opendata.arcgis.com/maps/0721f9dd62c84d58a313a23ce77aa92e_0
 - format: ARCGIS GEOSERVICES REST API
   name: ARCGIS GEOSERVICES REST API
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/EmploymentLandAudit2019/FeatureServer/0
