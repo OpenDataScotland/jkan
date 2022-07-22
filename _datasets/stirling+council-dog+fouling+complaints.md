@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: '2019-02-22'
-date_updated: '2022-05-03'
+date_updated: '2022-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><strong>This dataset details complaints received from members of the public\
