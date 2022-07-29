@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: 29/08/2019
+date_created: ''
 date_updated: ''
-license: 'Custom licence: Public Domain'
+license: 'Custom licence: [''Non-Commercial Use Only'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/english-ballads/
-records: null
+records: 3
 resources:
-- format: MARCXML, DUBLIN CORE
-  name: MARCXML, DUBLIN CORE
+- format: '[''TXT'', ''XML'']'
+  name: '[''TXT'', ''XML'']'
   url: https://data.nls.uk/download/metadata-collections/English-Ballads.zip
 schema: default
 title: English Ballads

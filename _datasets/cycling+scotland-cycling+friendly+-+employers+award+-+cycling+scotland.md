@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-21T10:07:11.873Z'
 date_updated: '2019-11-26'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This data highlights all employers across Scotland that have received a
   Cycling Friendly School Award"</p>

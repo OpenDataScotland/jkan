@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-11-08T11:37:05.577Z'
 date_updated: '2021-10-13'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"Schools in Scotland which delivered Bikeability Scotland training in 2018/19.
   Bikeability Scotland is a cycle training programme designed to give children the

@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-21T11:39:17.535Z'
 date_updated: '2019-10-29'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows all campuses across Scotland with a Campus Cycling Officer
   (CCO) during the academic year 2019/2020"</p>

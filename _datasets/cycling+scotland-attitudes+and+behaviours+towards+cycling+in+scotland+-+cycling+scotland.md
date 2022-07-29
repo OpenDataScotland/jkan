@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2020-01-23T14:17:31.971Z'
 date_updated: '2021-12-21'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"Cycling Scotland undertakes research biennially into the attitudes and
   behaviours of people towards cycling. This dataset has the results in pdf format

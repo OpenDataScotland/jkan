@@ -6,7 +6,7 @@ date_created: ''
 date_updated: '2022-03-31'
 license: No licence
 maintainer: Glasgow City Council
-notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
+notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
   \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
   \ font-size:16px;'>Glasgow City Council's Licensing and Regulatory Committee is\
   \ responsible for administering the House in Multiple Occupation (HMO) Licensing\
@@ -25,7 +25,12 @@ notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Ne
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://www.glasgow.gov.uk/index.aspx?articleid=22540'\
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
-  \ ugc noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=22540</a></span></p>"
+  \ ugc noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=22540</a><br\
+  \ /></span></div>\n<div><br /></div>\n<div><span style='font-family:&quot;Avenir\
+  \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
+  \ &quot;Helvetica Neue&quot;, sans-serif;'>The data is updated weekly.</span><br\
+  \ /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,\
+  \ &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
 records: null

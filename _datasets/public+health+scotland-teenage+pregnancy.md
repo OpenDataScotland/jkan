@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-07-10'
-date_updated: '2021-07-06'
+date_updated: '2022-07-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset provides an annual update on teenage pregnancy statistics

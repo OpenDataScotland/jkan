@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: 16/01/2020
+date_created: '2020.0'
 date_updated: ''
-license: 'Custom licence: Public Domain and Open Government License'
+license: 'Custom licence: [''Public Domain'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/britain-uk-handbooks/
-records: null
+records: 1052
 resources:
-- format: METS/ALTO XML, PLAIN TEXT, IMAGES
-  name: METS/ALTO XML, PLAIN TEXT, IMAGES
+- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-handbooks.zip
 schema: default
 title: Britain and UK Handbooks

@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-01-22'
-date_updated: '2022-07-01'
+date_updated: '2022-07-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset contains address data and practice sizes for all NHS dental
@@ -17,6 +17,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/dental-practices-and-patient-registrations
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/f500ffbf-791a-4478-9480-449551849d2b/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-march-2022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/00219e6b-4674-48df-8075-2b6f3e389cc8/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31st-december-2021.csv

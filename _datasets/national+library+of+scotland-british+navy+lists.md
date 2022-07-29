@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: 19/03/2020
+date_created: '2020.0'
 date_updated: ''
-license: 'Custom licence: Public Domain'
+license: 'Custom licence: [''Public Domain'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/british-navy-lists/
-records: null
+records: 2258
 resources:
-- format: METS/ALTO XML, PLAIN TEXT, IMAGES
-  name: METS/ALTO XML, PLAIN TEXT, IMAGES
+- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-navyLists.zip
 schema: default
 title: British Navy Lists

@@ -1,18 +1,18 @@
 ---
 category:
 - Uncategorised
-date_created: 29/08/2019
+date_created: '2019.0'
 date_updated: ''
-license: 'Custom licence: Public Domain and CC-BY 4.0'
+license: 'Custom licence: [''Public Domain'', ''Creative Commons Attribution 4.0 International'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/scottish-exams/
-records: null
+records: 114
 resources:
-- format: METS/ALTO XML, PLAIN TEXT, IMAGES
-  name: METS/ALTO XML, PLAIN TEXT, IMAGES
+- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-scottishSchoolExams.zip
 schema: default
-title: Scottish School Exam Papers, 1888-1963
+title: Scottish School Exam Papers
 ---

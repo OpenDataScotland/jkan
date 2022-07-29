@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-21T11:53:05.320Z'
 date_updated: '2019-11-08'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows communities across Scotland that have received funding
   through Cycling Scotland's Cycling Friendly program"</p>

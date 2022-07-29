@@ -1,18 +1,18 @@
 ---
 category:
 - Uncategorised
-date_created: 23/10/2019
+date_created: '2019.0'
 date_updated: ''
-license: 'Custom licence: No Known Copyright'
+license: 'Custom licence: [''No licence'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/edinburgh-ladies-debating-society/
-records: null
+records: 634
 resources:
-- format: METS/ALTO XML, PLAIN TEXT, IMAGES
-  name: METS/ALTO XML, PLAIN TEXT, IMAGES
+- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-ladiesDebating.zip
 schema: default
-title: Ladies' Edinburgh Debating Society
+title: "Edinburgh Ladies\u2019 Debating Society"
 ---

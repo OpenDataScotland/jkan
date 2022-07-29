@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-18T10:57:07.618Z'
 date_updated: '2019-10-30'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This data highlights all primary and secondary schools across Scotland
   that have received a Cycling Friendly School Award"</p>

@@ -7,12 +7,12 @@ license: 'Custom licence: [''Creative Commons CC0'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
-original_dataset_link: https://data.nls.uk/data/map-spatial-data/edinburgh-boundaries/
+original_dataset_link: https://data.nls.uk/data/map-spatial-data/gb1900/
 records: 0
 resources:
 - format: '[]'
   name: '[]'
-  url: https://maps.nls.uk/geo/boundaries/edinburgh/download.html
+  url: http://www.visionofbritain.org.uk/data/#tabgb1900
 schema: default
-title: Edinburgh Boundaries
+title: GB1900 gazetteer
 ---

@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-29T14:22:23.676Z'
 date_updated: '2020-04-20'
-license: https://creativecommons.org/licenses/by/4.0/
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This dataset holds the locations for all of Cycling Scotland's all-mode
   traffic counts across Scotland, including the dates the counts were undertaken"</p>

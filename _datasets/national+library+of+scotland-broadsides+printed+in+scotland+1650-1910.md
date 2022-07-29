@@ -1,18 +1,18 @@
 ---
 category:
 - Uncategorised
-date_created: 09/12/2020
+date_created: '2020.0'
 date_updated: ''
-license: 'Custom licence: Public Domain and No Known Copyright'
+license: 'Custom licence: [''Public Domain'']'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/broadsides-printed-in-scotland/
-records: null
+records: 16
 resources:
-- format: METS/ALTO XML, PLAIN TEXT, IMAGES
-  name: METS/ALTO XML, PLAIN TEXT, IMAGES
+- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-broadsides.zip
 schema: default
-title: Broadsides Printed in Scotland 1650-1910
+title: Broadsides printed in Scotland 1650-1910
 ---
