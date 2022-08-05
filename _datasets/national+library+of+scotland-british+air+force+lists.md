@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/british-air-force-lists/
 records: 1358
 resources:
-- format: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
-  name: '[''IMAGE'', ''TXT'', ''METS XML'', ''XML'']'
+- format: '[''TXT'', ''XML'', ''METS XML'', ''IMAGE'']'
+  name: '[''TXT'', ''XML'', ''METS XML'', ''IMAGE'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-airForceLists.zip
 schema: default
 title: British Air Force Lists

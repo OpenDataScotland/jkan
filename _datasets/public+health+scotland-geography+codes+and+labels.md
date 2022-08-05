@@ -4,10 +4,13 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2017-09-27'
-date_updated: '2022-07-14'
+date_updated: '2022-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>9 digit standard geography codes and labels for</p>
+notes: '<p><strong>UPDATE 04/08/2022</strong>: There will be major changes to this
+  dataset soon. If you have any concerns contact the Open Data team at phs.opendata@phs.scot</p>
+
+  <p>9 digit standard geography codes and labels for</p>
 
   <ul>
 
