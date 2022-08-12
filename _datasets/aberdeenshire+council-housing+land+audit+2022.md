@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2017-05-08'
+date_updated: '2022-12-08'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_housing_land_audit_2017.kmz
+  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/HousingLandAudit2022.kmz
 schema: default
-title: Housing Land Audit 2017
+title: Housing Land Audit 2022
 ---

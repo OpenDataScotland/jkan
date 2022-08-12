@@ -14,13 +14,13 @@ records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=79e31b87-fbd8-4cc7-b0fb-bd8cf56beba3
-- format: CSV
-  name: CSV
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=dd1d4f08-6aba-4e14-abfd-3d6e6d79b811
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/10be827e-e5ed-4fcf-9e5b-e2089e02daad/2/urql
 - format: XML
   name: XML
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38d63877-40f3-462d-92b7-91685f20c22d
+- format: CSV
+  name: CSV
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c7e5cde0-f871-4465-8454-2e4575bbc4e4
 schema: default
 title: National Monitoring Framework - Automatic cycling counter locations - Cycling
   Scotland

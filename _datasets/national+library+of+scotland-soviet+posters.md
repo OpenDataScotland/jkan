@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/soviet-posters/
 records: 3
 resources:
-- format: '[''TXT'', ''XML'']'
-  name: '[''TXT'', ''XML'']'
+- format: '[''XML'', ''TXT'']'
+  name: '[''XML'', ''TXT'']'
   url: https://data.nls.uk/download/metadata-collections/Soviet-Posters.zip
 schema: default
 title: Soviet Posters

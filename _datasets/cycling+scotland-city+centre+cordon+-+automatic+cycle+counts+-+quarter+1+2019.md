@@ -12,7 +12,7 @@ records: null
 resources:
 - format: VND.MS-EXCEL
   name: VND.MS-EXCEL
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c3e8b496-290b-4f9e-b040-8acbaad84e00
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c2f910a3-010c-4f8f-80cb-f0ca4201f329
 - format: PDF
   name: PDF
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/e6b0978b-db1a-44f3-9f44-88a75181b7bf/Automatic
