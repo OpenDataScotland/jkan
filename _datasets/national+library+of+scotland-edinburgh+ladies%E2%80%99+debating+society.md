@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/edinburgh-ladies-debating-society/
 records: 634
 resources:
-- format: '[''METS XML'', ''XML'', ''IMAGE'', ''TXT'']'
-  name: '[''METS XML'', ''XML'', ''IMAGE'', ''TXT'']'
+- format: '[''TXT'', ''METS XML'', ''XML'', ''IMAGE'']'
+  name: '[''TXT'', ''METS XML'', ''XML'', ''IMAGE'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-ladiesDebating.zip
 schema: default
 title: "Edinburgh Ladies\u2019 Debating Society"

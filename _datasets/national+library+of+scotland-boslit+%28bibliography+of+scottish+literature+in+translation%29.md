@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/boslit/
 records: 3
 resources:
-- format: '[''XML'', ''TXT'']'
-  name: '[''XML'', ''TXT'']'
+- format: '[''TXT'', ''XML'']'
+  name: '[''TXT'', ''XML'']'
   url: https://data.nls.uk/download/metadata-collections/BOSLIT.zip
 schema: default
 title: BOSLIT (Bibliography of Scottish Literature in Translation)

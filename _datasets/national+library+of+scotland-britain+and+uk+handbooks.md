@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/britain-uk-handbooks/
 records: 1052
 resources:
-- format: '[''METS XML'', ''XML'', ''IMAGE'', ''TXT'']'
-  name: '[''METS XML'', ''XML'', ''IMAGE'', ''TXT'']'
+- format: '[''TXT'', ''METS XML'', ''XML'', ''IMAGE'']'
+  name: '[''TXT'', ''METS XML'', ''XML'', ''IMAGE'']'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-handbooks.zip
 schema: default
 title: Britain and UK Handbooks

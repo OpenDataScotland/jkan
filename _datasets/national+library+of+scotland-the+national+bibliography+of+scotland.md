@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/national-bibliography-of-scotland/
 records: 3
 resources:
-- format: '[''XML'', ''TXT'']'
-  name: '[''XML'', ''TXT'']'
+- format: '[''TXT'', ''XML'']'
+  name: '[''TXT'', ''XML'']'
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-nbs-v2.zip
 schema: default
 title: The National Bibliography of Scotland

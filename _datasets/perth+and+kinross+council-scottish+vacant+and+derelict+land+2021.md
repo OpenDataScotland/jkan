@@ -1,8 +1,8 @@
 ---
 category:
 - Housing and Estates
-date_created: '2022-07-13'
-date_updated: '2022-07-13'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: '<p style=''font-size:16px;''>A survey issued by the Scottish Government to

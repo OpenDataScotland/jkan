@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Health and Social Care
-date_created: '2022-07-13'
-date_updated: '2022-07-13'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <p>Ward boundaries from 2017 onwards extracted from the OS Boundary Line product.

@@ -2,8 +2,8 @@
 category:
 - Food and Environment
 - Planning and Development
-date_created: '2022-07-13'
-date_updated: '2022-07-13'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: '<div>The Perth and Kinross Employment Land Audit is prepared annually to provide

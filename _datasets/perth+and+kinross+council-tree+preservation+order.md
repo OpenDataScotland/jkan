@@ -1,12 +1,11 @@
 ---
 category:
 - Food and Environment
-date_created: '2022-07-13'
-date_updated: '2022-07-13'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
+license: No licence
 maintainer: Perth and Kinross Council
-notes: <p>A legal title plan &amp; associated description protecting a tree or trees
-  within a defined area from development</p>
+notes: ''
 organization: Perth and Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/tree-preservation-order
 records: null

@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/john-wood-town-plans/
 records: 3
 resources:
-- format: '[''XML'', ''TXT'']'
-  name: '[''XML'', ''TXT'']'
+- format: '[''TXT'', ''XML'']'
+  name: '[''TXT'', ''XML'']'
   url: https://data.nls.uk/download/metadata-collections/John-Wood-Town-Plans.zip
 schema: default
 title: John Wood Town Plans

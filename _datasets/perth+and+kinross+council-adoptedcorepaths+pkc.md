@@ -2,8 +2,8 @@
 category:
 - Planning and Development
 - Transportation
-date_created: '2022-07-13'
-date_updated: '2022-07-13'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth and Kinross Council
 notes: <DIV STYLE="text-align:Left;font-size:12pt"><P><SPAN>Core Path network adopted

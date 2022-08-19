@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/jacobite-prints-broadsides/
 records: 3
 resources:
-- format: '[''XML'', ''TXT'']'
-  name: '[''XML'', ''TXT'']'
+- format: '[''TXT'', ''XML'']'
+  name: '[''TXT'', ''XML'']'
   url: https://data.nls.uk/download/metadata-collections/Jacobite-Prints-And-Broadsides.zip
 schema: default
 title: Jacobite Prints and Broadsides

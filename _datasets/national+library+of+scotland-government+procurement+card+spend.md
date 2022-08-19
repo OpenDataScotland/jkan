@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/organisational-data/government-procurement-card/
 records: 2
 resources:
-- format: '[''CSV'', ''TXT'']'
-  name: '[''CSV'', ''TXT'']'
+- format: '[''TXT'', ''CSV'']'
+  name: '[''TXT'', ''CSV'']'
   url: https://data.nls.uk/download/organisational-data/Government-Procurement-Card-Spend.zip
 schema: default
 title: Government Procurement Card spend
