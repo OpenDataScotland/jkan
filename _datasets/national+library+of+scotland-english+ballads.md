@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/english-ballads/
 records: 3
 resources:
-- format: '[''TXT'', ''XML'']'
-  name: '[''TXT'', ''XML'']'
+- format: '[''XML'', ''TXT'']'
+  name: '[''XML'', ''TXT'']'
   url: https://data.nls.uk/download/metadata-collections/English-Ballads.zip
 schema: default
 title: English Ballads

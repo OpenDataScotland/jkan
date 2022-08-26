@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/gdd-project/
 records: 3
 resources:
-- format: '[''TXT'', ''TSV'']'
-  name: '[''TXT'', ''TSV'']'
+- format: '[''TSV'', ''TXT'']'
+  name: '[''TSV'', ''TXT'']'
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-metadata-gdd.zip
 schema: default
 title: Aggregated dataset of digitised texts from the GDD project

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-01-13'
-date_updated: '2022-08-17'
+date_updated: '2022-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: "<p><em>From 24 March 2022, Public Health Scotland (PHS) began reporting the\
@@ -65,43 +65,43 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/42f17a3c-a4db-4965-ba68-3dffe6bca13a/download/daily_vacc_scot_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/42f17a3c-a4db-4965-ba68-3dffe6bca13a/download/daily_vacc_scot_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/9b99e278-b8d8-47df-8d7a-a8cf98519ac1/download/daily_vacc_age_sex_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/9b99e278-b8d8-47df-8d7a-a8cf98519ac1/download/daily_vacc_age_sex_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/758f72d6-7371-4eee-9e6b-0b0798470d7e/download/daily_vacc_hb_2021_part_1_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/758f72d6-7371-4eee-9e6b-0b0798470d7e/download/daily_vacc_hb_2021_part_1_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/09f5073d-2b7a-4c95-9fb3-d59c9da3fbd4/download/daily_vacc_hb_2021_part_2_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/09f5073d-2b7a-4c95-9fb3-d59c9da3fbd4/download/daily_vacc_hb_2021_part_2_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/8f7b64b1-eb53-43e9-b888-45af0bc25505/download/daily_vacc_hb_2022_part_1_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/8f7b64b1-eb53-43e9-b888-45af0bc25505/download/daily_vacc_hb_2022_part_1_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/789bc61c-1385-4bbe-a040-9a7ab495f2fd/download/daily_vacc_hb_2022_part_2_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/789bc61c-1385-4bbe-a040-9a7ab495f2fd/download/daily_vacc_hb_2022_part_2_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d5ffffc0-f6f3-4b76-8f38-71ccfd7747a4/download/daily_vacc_la_2021_part_1_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d5ffffc0-f6f3-4b76-8f38-71ccfd7747a4/download/daily_vacc_la_2021_part_1_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/70e10191-6607-4f67-8132-ce14f57cbb28/download/daily_vacc_la_2021_part_2_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/70e10191-6607-4f67-8132-ce14f57cbb28/download/daily_vacc_la_2021_part_2_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/03323275-7985-41b9-b657-7d3be9ca9b19/download/daily_vacc_la_2022_part_1_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/03323275-7985-41b9-b657-7d3be9ca9b19/download/daily_vacc_la_2022_part_1_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/64d24cf5-c33b-4035-8e1f-58902dac624a/download/daily_vacc_la_2022_part_2_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/64d24cf5-c33b-4035-8e1f-58902dac624a/download/daily_vacc_la_2022_part_2_20220824.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d442b584-fe34-4c8d-acd0-3de9ac568eaf/download/daily_vacc_jcvi_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d442b584-fe34-4c8d-acd0-3de9ac568eaf/download/daily_vacc_jcvi_20220824.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/29e8ab8e-065a-4f92-ab70-4371d757633b/download/jcvi-table_20220201.xlsx
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/db27a16d-52e1-45e4-bd97-d13831548393/download/all_delivered_vacc_scot_20220817.csv
+  url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/db27a16d-52e1-45e4-bd97-d13831548393/download/all_delivered_vacc_scot_20220824.csv
 schema: default
 title: COVID-19 Vaccination in Scotland
 ---
