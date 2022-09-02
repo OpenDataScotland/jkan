@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-25'
-date_updated: '2022-03-02'
+date_updated: '2022-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: "<p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified\
@@ -42,16 +42,16 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/d1d2d098-193f-489c-940a-a828fdcfc357/download/sas_hb_agesex_20220302.csv
+  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/d1d2d098-193f-489c-940a-a828fdcfc357/download/sas_hb_agesex_20220830.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/12e52d78-bff5-4fde-8085-f1b03667a8e5/download/sas_hb_simd_20220302.csv
+  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/12e52d78-bff5-4fde-8085-f1b03667a8e5/download/sas_hb_simd_20220830.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/0a3992c3-a712-4adf-b3b3-928850cc65ff/download/sas_hscp_agesex_20220302.csv
+  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/0a3992c3-a712-4adf-b3b3-928850cc65ff/download/sas_hscp_agesex_20220830.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/1329dfdb-0dd7-428b-9afb-b8fb3e438518/download/sas_hscp_simd_20220302.csv
+  url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/1329dfdb-0dd7-428b-9afb-b8fb3e438518/download/sas_hscp_simd_20220830.csv
 schema: default
 title: COVID-19 Wider Impacts - Scottish Ambulance Services
 ---

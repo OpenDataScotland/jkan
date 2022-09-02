@@ -14,7 +14,7 @@ records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/45724cc2-0f99-4215-9c07-2c78dadd6075/3/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/45724cc2-0f99-4215-9c07-2c78dadd6075/5/urql
 schema: default
 title: Annual Cycling Monitoring Report - Local Authority Cycling Statistics
 ---

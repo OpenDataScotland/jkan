@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-04-08'
-date_updated: '2022-05-31'
+date_updated: '2022-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Quarterly summary of waiting times and waiting lists for IVF in Scotland.</p>

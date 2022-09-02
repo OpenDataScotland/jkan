@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-04-02'
-date_updated: '2022-08-02'
+date_updated: '2022-09-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These files present information on probable suicides registered in Scotland
@@ -22,13 +22,13 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/a6bd971a-077b-4bca-92d8-4476f4903e77/download/cancellations_scotland_may_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/a6bd971a-077b-4bca-92d8-4476f4903e77/download/scotpho_2020_suicide_hb_overview_v2.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/31595e43-9d5e-4740-8855-f3d839bc1aa0/download/cancellations_scotland_may_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/31595e43-9d5e-4740-8855-f3d839bc1aa0/download/scotpho_2020_suicide_la_overview_v2.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/f4e70964-38c9-44f6-aaba-08e38f8dbb2f/download/cancellations_scotland_may_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/f4e70964-38c9-44f6-aaba-08e38f8dbb2f/download/scotpho_2020_suicide_simd_overview_v2.csv
 schema: default
 title: The Scottish Public Health Observatory - Suicide Overview
 ---

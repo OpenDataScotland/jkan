@@ -7,12 +7,12 @@ license: 'Custom licence: [''https://creativecommons.org/share-your-work/public-
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
-original_dataset_link: https://data.nls.uk/data/map-spatial-data/gb1900/
+original_dataset_link: https://data.nls.uk/data/map-spatial-data/roy-gazetteer/
 records: 0
 resources:
-- format: UK/DATA/#TABGB1900
-  name: UK/DATA/#TABGB1900
-  url: http://www.visionofbritain.org.uk/data/#tabgb1900
+- format: 'UK/ROY/GAZETTEER/#DOWNLOAD '
+  name: 'UK/ROY/GAZETTEER/#DOWNLOAD '
+  url: 'https://maps.nls.uk/roy/gazetteer/#download '
 schema: default
-title: GB1900 gazetteer
+title: Roy Gazetteer
 ---

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-12-06'
-date_updated: '2022-08-02'
+date_updated: '2022-08-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Key statistics on new and unplanned return attendances at Accident and
@@ -25,5 +25,5 @@ resources:
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202206.csv
 schema: default
-title: Monthly Emergency Department Activity and Waiting Times
+title: Monthly A&E Activity and Waiting Times
 ---

@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-02-06'
-date_updated: '2022-08-24'
+date_updated: '2022-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Population estimates for all geography types in Scotland:</p>

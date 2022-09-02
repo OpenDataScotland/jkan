@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-07-22'
-date_updated: '2022-05-31'
+date_updated: '2022-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset contains monthly summaries of whole journey waiting times
@@ -24,7 +24,7 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/aa8b22e8-8a02-484d-a6c8-0a0154a6249d/resource/f2598c24-bf00-4171-b7ef-a469bbacbf6c/download/open_data_18_weeks_rtt_mar22.csv
+  url: https://www.opendata.nhs.scot/dataset/aa8b22e8-8a02-484d-a6c8-0a0154a6249d/resource/f2598c24-bf00-4171-b7ef-a469bbacbf6c/download/open_data_18_weeks_rtt_jun22.csv
 schema: default
 title: 18 Weeks Referral to Treatment
 ---
