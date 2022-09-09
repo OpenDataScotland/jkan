@@ -2,10 +2,10 @@
 category:
 - Uncategorised
 date_created: '2022-08-18'
-date_updated: '2022-08-18'
-license: No licence
+date_updated: '2022-09-07'
+license: Creative Commons Attribution 4.0 International
 maintainer: Perth and Kinross Council
-notes: ''
+notes: <p>Location of road gullies in Perth and Kinross</p>
 organization: Perth and Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/gullies
 records: null

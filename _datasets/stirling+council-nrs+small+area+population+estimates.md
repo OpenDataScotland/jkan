@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-08-05'
-date_updated: '2022-07-13'
+date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><strong>This group contains the data zone level mid-year population estimates\
@@ -13,7 +13,7 @@ notes: "<p><strong>This group contains the data zone level mid-year population e
   >National Records of Scotland (NRS)</a> website.</strong></p>\n<p><strong>Of the\
   \ 6,976 data zones in Scotland, each covering a population of between 500 and 1000\
   \ residents, there are 121 within the Stirling Council area. </strong></p>\n<p><strong>\xA9\
-  \ Crown Copyright 2017, 2018, 2019, 2020, 2021.</strong></p>"
+  \ Crown Copyright 2017, 2018, 2019, 2020, 2021, 2022</strong></p>"
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-small-area-population-estimates
 records: null
@@ -63,6 +63,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/d7febc0e-8f0f-46ba-b216-b2a97c934851/download/20220712-stirling-council-sape-mid-2020-all-persons.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/8561454d-1fee-4aa2-ab4c-88424111ba41/download/20220905-stirling-council-sape-mid-2021-males.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/761870c8-e8ed-4e77-941c-810c879236e4/download/20220905-stirling-council-sape-mid-2021-females.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/f292f707-4914-4bdf-a9ca-b2f28a7e3a7d/download/20220905-stirling-council-sape-mid-2021-all-persons.csv
 schema: default
 title: NRS Small Area Population Estimates
 ---
