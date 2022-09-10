@@ -10,6 +10,7 @@ org_url: https://www.pkc.gov.uk/
 twitter_handle: PerthAndKinross
 gss_code: S12000048
 wikidata_org_qid: Q7170911
+wikidata_portal_qid: Q97024154
 wdtk_id: perth_and_kinross_council
 portal_type: CKAN
 ---
