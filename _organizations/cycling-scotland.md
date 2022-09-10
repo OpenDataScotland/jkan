@@ -12,8 +12,8 @@ portal_url: 'https://usmart.io/org/cyclingscotland/'
 org_url: 'https://www.cycling.scot/'
 twitter_handle: CyclingScotland
 gss_code: ''
-wikidata_org_qid: ''
-wikidata_portal_qid: ''
+wikidata_org_qid: Q113883477
+wikidata_portal_qid: Q113883431
 wdtk_id: ''
 portal_type: USMART
 ---
