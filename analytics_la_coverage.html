@@ -82,7 +82,7 @@ permalink: /analytics/local-authority-coverage/
         let localAuthorityOrgs = await fetch('{{ site.baseurl }}/data/local_authorities.json').then(response => { return response.json() });
 
         // Map
-        L.geoJSON(geoJson, { onEachFeature: (feature, layer) => bindLAPopup(feature, layer, localAuthorityOrgs) })
+        L.geoJSON(geoJson, { onEachFeature: (feature, layer) => {bindLAPopup(feature, layer, localAuthorityOrgs); } })
             .addTo(map);
 
         addLegend();
@@ -109,7 +109,7 @@ permalink: /analytics/local-authority-coverage/
 
         if (laMetadata === null) {
             popupContent = `<span class="text-danger">Metadata not found!</span>`
-            layer.bindLAPopup(popupContent);
+            layer.bindPopup(popupContent);
             return;
         }
 
