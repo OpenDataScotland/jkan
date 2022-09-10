@@ -12,7 +12,7 @@ org_url: 'https://publichealthscotland.scot/'
 twitter_handle: P_H_S_Official
 gss_code: ''
 wikidata_org_qid: Q89284077
-wikidata_portal_qid: ''
+wikidata_portal_qid: Q113883309
 wdtk_id: public_health_scotland
 portal_type: CKAN
 ---
