@@ -11,5 +11,6 @@ twitter_handle: DundeeCouncil
 gss_code: S12000042
 wikidata_org_qid: Q28528294
 wdtk_id: dundee_city_council
+wikidata_portal_qid: Q97024014
 portal_type: CKAN
 ---
