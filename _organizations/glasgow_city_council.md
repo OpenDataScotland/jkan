@@ -10,6 +10,7 @@ org_url: https://www.glasgow.gov.uk/
 twitter_handle: GlasgowCC
 gss_code: S12000049
 wikidata_org_qid: Q130637
+wikidata_portal_id: Q97024133
 wdtk_id: gcc
 portal_type: ArcGIS
 ---
