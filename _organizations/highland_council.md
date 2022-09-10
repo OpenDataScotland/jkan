@@ -10,6 +10,7 @@ org_url: https://www.highland.gov.uk
 twitter_handle: HighlandCouncil
 gss_code: S12000017
 wikidata_org_qid: Q28530249
+wikidata_portal_qid: Q113883353
 wdtk_id: highland_council
 portal_type: ArcGIS
 ---
