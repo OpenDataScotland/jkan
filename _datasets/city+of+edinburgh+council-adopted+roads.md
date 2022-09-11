@@ -3,9 +3,7 @@ category:
 - Transportation
 date_created: ''
 date_updated: '2022-05-03'
-license: No licence
-maintainer: City of Edinburgh Council
-notes: "<p><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&quot;,\
+license: "<span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&quot;,\
   \ &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida Sans&quot;,\
   \ Tahoma, sans-serif; font-size:16px; background-color:rgb(249, 249, 249);'>Adopted\
   \ roads are roads, streets, footpaths and verges that are managed and maintained\
@@ -13,25 +11,27 @@ notes: "<p><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&qu
   \ the road is built.\_</span><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet\
   \ MS&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida\
   \ Sans&quot;, Tahoma, sans-serif; font-size:16px; background-color:rgb(249, 249,\
-  \ 249);'>Until a road has been adopted it remains private.</span></p>"
+  \ 249);'>Until a road has been adopted it remains private.</span>"
+maintainer: City of Edinburgh Council
+notes: <p>DCAT feed</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::adopted-roads-1
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Transport/Transport/MapServer/22
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Adopted Roads

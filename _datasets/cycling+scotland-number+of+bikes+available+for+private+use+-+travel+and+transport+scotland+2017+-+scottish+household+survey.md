@@ -3,23 +3,23 @@ category:
 - Transportation
 date_created: '2019-04-30T12:43:55.842Z'
 date_updated: '2019-12-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Cycling Scotland
-notes: <p>"Data from Transport and Travel in Scotland and the Scottish Household Survey
+license: '"Data from Transport and Travel in Scotland and the Scottish Household Survey
   relating to the number of bikes available for private use by Local Authority in
-  2017."</p>
+  2017."'
+maintainer: Cycling Scotland
+notes: <p>USMART API</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/d292fc7e-9657-4f1b-bb65-042262d196fd
 records: null
 resources:
-- format: JSON
-  name: JSON
+- format: ''
+  name: ''
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fad11ec0-7797-44e6-abe2-d0bcaef81024
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3e3273b3-c653-44e3-b6ef-645d3decdf60
-- format: XML
-  name: XML
+- format: ''
+  name: ''
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=58185fbd-906d-486f-9e9d-e0ac31a5ea2d
 schema: default
 title: Number of bikes available for private use - Travel and Transport Scotland 2017

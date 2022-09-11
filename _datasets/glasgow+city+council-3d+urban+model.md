@@ -3,9 +3,9 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2021-12-23'
-license: No licence
+license: '{{description}}'
 maintainer: Glasgow City Council
-notes: <p>{{description}}</p>
+notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/pages/3d-urban-model
 records: null

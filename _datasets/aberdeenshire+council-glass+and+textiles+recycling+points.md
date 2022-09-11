@@ -3,15 +3,15 @@ category:
 - Transportation
 date_created: ''
 date_updated: '2019-02-13'
-license: 'Custom licence: Open Government'
+license: ''
 maintainer: Aberdeenshire Council
-notes: ''
+notes: <p>Web Scraped</p>
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: KMZ
-  name: KMZ
+- format: ''
+  name: ''
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/recycling_points.kmz
 schema: default
 title: Glass and textiles recycling points

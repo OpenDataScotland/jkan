@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: 'Custom licence: [''https://creativecommons.org/share-your-work/public-domain/cc0'']'
+license: ''
 maintainer: National Library of Scotland
-notes: ''
+notes: <p>Web Scraped</p>
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/map-spatial-data/edinburgh-boundaries/
-records: 0
+records: null
 resources:
-- format: HTML
-  name: HTML
+- format: '0.0'
+  name: '0.0'
   url: https://maps.nls.uk/geo/boundaries/edinburgh/download.html
 schema: default
 title: Edinburgh Boundaries

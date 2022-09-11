@@ -4,9 +4,7 @@ category:
 - Education
 date_created: ''
 date_updated: '2021-12-07'
-license: No licence
-maintainer: Glasgow City Council
-notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
+license: "The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
   \ a wide variety of information on pupils in all publicly funded schools in Scotland.\
   \ These files provide information at the level of individual schools separated into\
   \ primary, secondary and additional support for learning (ASL) provision.Each file\
@@ -14,25 +12,27 @@ notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and 
   \ deprived areas in Scotland (using the SIMD 2020 ver 2);ethnicity;the proportion\
   \ of pupils for whom English is an additional language.The Pupil in Scotland census\
   \ data is obtained from schools management information systems and is validated\
-  \ by ScotXed.</p>"
+  \ by ScotXed."
+maintainer: Glasgow City Council
+notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-census-primary-2020
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://utility.arcgis.com/usrsvcs/servers/8b5f8ff4af97441f8f53625d58de1de4/rest/services/OPEN_DATA/School_Census_Primary_2020/MapServer/0
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-primary-2020.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-primary-2020.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-primary-2020.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-primary-2020.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: School Census Primary 2020

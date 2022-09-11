@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2017-04-26'
-date_updated: '2021-11-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2017-04-26T14:40:11Z'
+date_updated: '2022-08-25'
+license: Expenditure for awards paid out for the Scottish Welfare Fund
 maintainer: Scottish Government
-notes: <p>Expenditure for awards paid out for the Scottish Welfare Fund</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/scottish-welfare-fund-expenditure
 records: null

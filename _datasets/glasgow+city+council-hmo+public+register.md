@@ -4,10 +4,8 @@ category:
 - Planning and Development
 date_created: ''
 date_updated: '2022-03-31'
-license: No licence
-maintainer: Glasgow City Council
-notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
-  \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
+license: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir\
+  \ Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
   \ font-size:16px;'>Glasgow City Council's Licensing and Regulatory Committee is\
   \ responsible for administering the House in Multiple Occupation (HMO) Licensing\
   \ scheme for Glasgow under the Housing (Scotland) Act 2006. In terms of the Housing\
@@ -26,29 +24,31 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://www.glasgow.gov.uk/index.aspx?articleid=22540'\
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
   \ ugc noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=22540</a><br\
-  \ /></span></div>\n<div><br /></div>\n<div><span style='font-family:&quot;Avenir\
+  \ /></span></div><div><br /></div><div><span style='font-family:&quot;Avenir Next\
+  \ W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica\
+  \ Neue&quot;, sans-serif;'>The data is updated weekly.</span><br /><span style='font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
-  \ &quot;Helvetica Neue&quot;, sans-serif;'>The data is updated weekly.</span><br\
-  \ /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,\
-  \ &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
+  \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
+maintainer: Glasgow City Council
+notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://utility.arcgis.com/usrsvcs/servers/c4d432bf3bb34b7583c07527c770a373/rest/services/OPEN_DATA/HMO_Public_Register/MapServer/0
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: HMO Public Register

@@ -4,9 +4,7 @@ category:
 - Planning and Development
 date_created: ''
 date_updated: '2018-04-16'
-license: No licence
-maintainer: North Ayrshire Council
-notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
+license: "<span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
   \ none; -webkit-tap-highlight-color: transparent; font-size: 10.5pt; font-family:\
   \ &quot;Avenir Next&quot;, &quot;Avenir Next_MSFontService&quot;, sans-serif; font-kerning:\
   \ none; line-height: 18.3458px; font-variant-ligatures: none !important;'><span\
@@ -53,19 +51,21 @@ notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-us
   \ padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color:\
   \ transparent; color: rgb(0, 0, 0); font-size: 10.5pt; line-height: 18.3458px; font-family:\
   \ &quot;Avenir Next&quot;, &quot;Avenir Next_MSFontService&quot;, sans-serif;'>\_\
-  </span></p>"
+  </span>"
+maintainer: North Ayrshire Council
+notes: <p>DCAT feed</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-action-taken-by-nac
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/19
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::homelessness-action-taken-by-nac.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::homelessness-action-taken-by-nac.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Homelessness - Action Taken by NAC

@@ -3,9 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2022-06-13'
-license: No licence
-maintainer: North Ayrshire Council
-notes: "<p>Scottish Planning Policy (SPP) requires that a five-year ongoing effective\
+license: "Scottish Planning Policy (SPP) requires that a five-year ongoing effective\
   \ land supply is available to meet the identified housing land requirements. Planning\
   \ authorities therefore carry out regular monitoring of housing completions and\
   \ the progress of sites through the planning process. This is achieved through the\
@@ -16,25 +14,27 @@ notes: "<p>Scottish Planning Policy (SPP) requires that a five-year ongoing effe
   \ the 12 months up to 31st March 2021 and the future delivery programming of all\
   \ housing sites within North Ayrshire.The Housing Land Audit monitors housing sites\
   \ which have a capacity of four or more new houses and identifies and quantifies\
-  \ the land available for housing in North Ayrshire.</p>"
+  \ the land available for housing in North Ayrshire."
+maintainer: North Ayrshire Council
+notes: <p>DCAT feed</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2021-1
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/FeatureServer/72
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2021-1.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2021-1.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2021-1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2021-1.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Housing Land Audit 2021

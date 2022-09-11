@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-12-18'
-date_updated: '2021-11-16'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2019-12-18T10:27:27Z'
+date_updated: '2022-08-22'
+license: Received applications, authorised applications and issued payments for Funeral
+  Support Payment
 maintainer: Scottish Government
-notes: <p>Received applications, authorised applications and issued payments for Funeral
-  Support Payment</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/funeral-support-payment-applications-and-payments
 records: null

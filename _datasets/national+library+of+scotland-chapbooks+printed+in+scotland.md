@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: '2019.0'
 date_updated: ''
-license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'']'
+license: ''
 maintainer: National Library of Scotland
-notes: ''
+notes: <p>Web Scraped</p>
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/chapbooks-printed-in-scotland/
-records: 18
+records: null
 resources:
-- format: ZIP
-  name: ZIP
+- format: '18.0'
+  name: '18.0'
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-chapbooks.zip
 schema: default
 title: Chapbooks printed in Scotland

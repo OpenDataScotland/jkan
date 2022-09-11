@@ -1,11 +1,11 @@
 ---
 category:
 - Health and Social Care
-date_created: '2017-02-07'
+date_created: '2017-02-07T16:21:51Z'
 date_updated: '2021-09-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: ''
 maintainer: Scottish Government
-notes: ''
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/cancer-registrations---annual-data
 records: null

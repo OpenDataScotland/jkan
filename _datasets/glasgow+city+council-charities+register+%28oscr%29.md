@@ -3,9 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2022-03-10'
-license: No licence
-maintainer: Glasgow City Council
-notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
+license: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='max-width:100%;\
   \ display:inherit;'>The Scottish Charity Regulator (OSCR) is a Non-Ministerial Department\
@@ -25,24 +23,26 @@ notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-fa
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
   \ ugc noopener noreferrer'>https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download/</a></span><div><br\
   \ /></div></p>"
+maintainer: Glasgow City Council
+notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::charities-register-oscr
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://utility.arcgis.com/usrsvcs/servers/4c7781a6db8346fdb463187ed9b08b54/rest/services/OPEN_DATA/OSCR_Register/MapServer/0
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Charities Register (OSCR)

@@ -4,29 +4,28 @@ category:
 - Planning and Development
 date_created: ''
 date_updated: '2017-03-28'
-license: No licence
+license: <p>Community Partnerships in Highland Council area (revised March 2017).</p><p>Gemini
+  metadata record is at <a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>
 maintainer: Highland Council
-notes: '<p>Community Partnerships in Highland Council area (revised March 2017).</p>
-
-  <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>'
+notes: <p>DCAT feed</p>
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-partnerships
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityPartnerships/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Community Partnerships

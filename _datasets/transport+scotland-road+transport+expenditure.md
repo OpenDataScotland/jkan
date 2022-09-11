@@ -1,11 +1,11 @@
 ---
 category:
 - Transportation
-date_created: '2014-07-29'
-date_updated: '2021-05-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2014-07-29T00:00:00Z'
+date_updated: '2022-05-17'
+license: Local and central government transport expenditure
 maintainer: Transport Scotland
-notes: <p>Local and central government transport expenditure</p>
+notes: <p>manual extraction</p>
 organization: Transport Scotland
 original_dataset_link: http://statistics.gov.scot/data/road-transport-expenditure
 records: null

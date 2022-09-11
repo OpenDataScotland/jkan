@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: 'Custom licence: [''https://creativecommons.org/licenses/by/4.0/'']'
+license: ''
 maintainer: National Library of Scotland
-notes: ''
+notes: <p>Web Scraped</p>
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/boslit/
-records: 3
+records: null
 resources:
-- format: ZIP
-  name: ZIP
+- format: '3.0'
+  name: '3.0'
   url: https://data.nls.uk/download/metadata-collections/BOSLIT.zip
 schema: default
 title: BOSLIT (Bibliography of Scottish Literature in Translation)

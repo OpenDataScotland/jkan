@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2018-06-18'
-date_updated: '2021-03-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2018-06-18T09:06:17Z'
+date_updated: '2022-03-31'
+license: Expenditure and employment on research and development by businesses in Scotland
+  since 2001.
 maintainer: Scottish Government
-notes: <p>Expenditure and employment on research and development by businesses in
-  Scotland since 2001.</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/business-enterprise-research-and-development-expenditure
 records: null

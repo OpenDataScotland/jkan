@@ -3,12 +3,12 @@ category:
 - Planning and Development
 date_created: '2020-07-23'
 date_updated: '2020-11-30'
-license: No licence
+license: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
 maintainer: Moray Council
-notes: <p>Local Development Plan 2020 Wind Farm Spatial Framework (Moray)</p>
+notes: <p>arcgis API</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=f1cf505350cb4e909d27f832367a534e
-records: 1
+records: null
 resources: []
 schema: default
 title: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)

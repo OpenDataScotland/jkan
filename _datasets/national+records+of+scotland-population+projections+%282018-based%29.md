@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-10-21'
+date_created: '2019-10-21T16:04:46Z'
 date_updated: '2020-04-08'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Population projections for Scotland, based on 2018 population estimates
 maintainer: National Records of Scotland
-notes: <p>Population projections for Scotland, based on 2018 population estimates</p>
+notes: <p>manual extraction</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/population-projections-2018-based
 records: null

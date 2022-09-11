@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: 'Custom licence: [''https://creativecommons.org/licenses/by/4.0/'']'
+license: ''
 maintainer: National Library of Scotland
-notes: ''
+notes: <p>Web Scraped</p>
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/organisational-data/transactions-over-25k/
-records: 2
+records: null
 resources:
-- format: ZIP
-  name: ZIP
+- format: '2.0'
+  name: '2.0'
   url: https://data.nls.uk/download/organisational-data/over-25000-transactions.zip
 schema: default
 title: "Transactions over \xA325,000"

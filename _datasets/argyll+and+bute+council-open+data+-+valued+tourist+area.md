@@ -4,13 +4,13 @@ category:
 - Tourism
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Valued Tourist Area Vulnerable to Change of Use in the 2015 Local Development
+  Plan
 maintainer: Argyll and Bute Council
-notes: <p>Valued Tourist Area Vulnerable to Change of Use in the 2015 Local Development
-  Plan</p>
+notes: <p>arcgis API</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=1c12d89cd7414cc993ba792709652a8c
-records: 14
+records: null
 resources: []
 schema: default
 title: Open Data - Valued Tourist Area

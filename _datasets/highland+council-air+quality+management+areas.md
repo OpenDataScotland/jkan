@@ -3,30 +3,30 @@ category:
 - Food and Environment
 date_created: ''
 date_updated: '2019-11-21'
-license: No licence
-maintainer: Highland Council
-notes: "<p>Air Quality Management Areas in Highland Council area.<div><br /></div><div>Gemini\
+license: "Air Quality Management Areas in Highland Council area.<div><br /></div><div>Gemini\
   \ metadata\_ record is at:</div><div><a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/50122181-5f4c-49ed-9423-b63f502fea9a'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/50122181-5f4c-49ed-9423-b63f502fea9a</a></div><div><br\
-  \ /></div></p>"
+  \ /></div>"
+maintainer: Highland Council
+notes: <p>DCAT feed</p>
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/a28227b21bbd49dbb70cae596c9d1d58_0
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/AirQualityManagementAreas/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
+- format: ''
+  name: ''
   url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Air Quality Management Areas

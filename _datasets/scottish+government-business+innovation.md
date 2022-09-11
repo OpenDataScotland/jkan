@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-08-23'
-date_updated: '2021-03-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2019-08-23T11:05:46Z'
+date_updated: '2022-03-01'
+license: Share of businesses involved in innovation activities since 2010-2012
 maintainer: Scottish Government
-notes: <p>Share of businesses involved in innovation activities since 2010-2012</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/business-innovation
 records: null

@@ -4,21 +4,21 @@ category:
 - Sport and Leisure
 date_created: ''
 date_updated: '2019-08-29'
-license: No licence
+license: Library IT use; Computer Bookings, WiFi Logins.
 maintainer: North Ayrshire Council
-notes: <p>Library IT use; Computer Bookings, WiFi Logins.</p>
+notes: <p>DCAT feed</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::library-it-use
 records: null
 resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+- format: ''
+  name: ''
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/31
-- format: GEOJSON
-  name: GEOJSON
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::library-it-use.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: CSV
-  name: CSV
+- format: ''
+  name: ''
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::library-it-use.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Library IT Use

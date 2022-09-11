@@ -3,13 +3,13 @@ category:
 - Education
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Boundaries of Primary School Catchment Areas in Argyll and Bute, including
+  denominational (Roman Catholic) Primary Schools.
 maintainer: Argyll and Bute Council
-notes: <p>Boundaries of Primary School Catchment Areas in Argyll and Bute, including
-  denominational (Roman Catholic) Primary Schools.</p>
+notes: <p>arcgis API</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=e25fab81a2c045ca85cccf6cdee98b0f
-records: 84
+records: null
 resources: []
 schema: default
 title: Open Data - Primary School Catchment Areas

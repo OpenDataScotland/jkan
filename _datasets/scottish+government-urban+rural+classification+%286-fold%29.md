@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: '2014-07-29'
-date_updated: '2018-04-12'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2014-07-29T00:00:00Z'
+date_updated: '2022-05-31'
+license: Urban Rural Classification (6-Fold)
 maintainer: Scottish Government
-notes: <p>Urban Rural Classification (6-Fold)</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/urban-rural-classification
 records: null

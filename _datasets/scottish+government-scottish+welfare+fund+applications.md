@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2017-04-26'
-date_updated: '2021-11-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2017-04-26T14:40:11Z'
+date_updated: '2022-08-25'
+license: Number of applications received for Community Care Grants and Crisis Grants
+  for the Scottish Welfare Fund
 maintainer: Scottish Government
-notes: <p>Number of applications received for Community Care Grants and Crisis Grants
-  for the Scottish Welfare Fund</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/scottish-welfare-fund-applications
 records: null

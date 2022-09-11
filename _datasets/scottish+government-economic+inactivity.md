@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29'
-date_updated: '2021-10-06'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2014-07-29T00:00:00Z'
+date_updated: '2022-02-08'
+license: Economic inactivity level and rate by gender
 maintainer: Scottish Government
-notes: <p>Economic inactivity level and rate by gender</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/economic-inactivity
 records: null

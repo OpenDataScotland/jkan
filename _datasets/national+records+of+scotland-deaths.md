@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29'
+date_created: '2014-07-29T00:00:00Z'
 date_updated: '2021-03-17'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Numbers of deaths registered by cause. '
 maintainer: National Records of Scotland
-notes: <p>Numbers of deaths registered by cause.</p>
+notes: <p>manual extraction</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/deaths
 records: null

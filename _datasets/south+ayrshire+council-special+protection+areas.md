@@ -6,12 +6,12 @@ category:
 - Planning and Development
 date_created: '2015-10-30'
 date_updated: '2018-04-20'
-license: No licence
+license: Areas of special protection in Ayrshire
 maintainer: South Ayrshire Council
-notes: <p>Areas of special protection in Ayrshire</p>
+notes: <p>arcgis API</p>
 organization: South Ayrshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=fdd7141aced44013ac71e3cc2dac407b
-records: 4564
+records: null
 resources: []
 schema: default
 title: Special Protection Areas

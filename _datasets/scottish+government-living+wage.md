@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-02-28'
-date_updated: '2021-08-02'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2019-02-28T08:27:59Z'
+date_updated: '2022-02-01'
+license: Number and percentage of employees earning less than the living wage, based
+  on workplace local authority
 maintainer: Scottish Government
-notes: <p>Number and percentage of employees earning less than the living wage, based
-  on workplace local authority</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/living-wage
 records: null

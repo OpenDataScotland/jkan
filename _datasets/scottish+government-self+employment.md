@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2018-10-10'
-date_updated: '2021-10-06'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2018-10-10T20:48:59Z'
+date_updated: '2022-03-28'
+license: Self Employment level and ratio (aged 16 and over).
 maintainer: Scottish Government
-notes: <p>Self Employment level and ratio (aged 16 and over).</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/self-employment
 records: null

@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-11-19'
+date_created: '2019-11-19T09:11:19Z'
 date_updated: '2021-01-21'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: ''
 maintainer: Scottish Government
-notes: ''
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/local-service-satisfaction-sscq
 records: null

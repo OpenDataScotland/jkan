@@ -3,15 +3,15 @@ category:
 - Education
 date_created: ''
 date_updated: '2021-06-01'
-license: 'Custom licence: Open Government'
+license: ''
 maintainer: Aberdeenshire Council
-notes: ''
+notes: <p>Web Scraped</p>
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: KMZ
-  name: KMZ
+- format: ''
+  name: ''
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_secondary_school_catchments.kmz
 schema: default
 title: Secondary school catchment boundaries within Aberdeenshire

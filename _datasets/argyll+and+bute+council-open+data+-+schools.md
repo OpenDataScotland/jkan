@@ -5,14 +5,14 @@ category:
 - Planning and Development
 date_created: '2017-07-17'
 date_updated: '2017-07-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Argyll and Bute Council
-notes: "<p>The location of local authority schools across Argyll and Bute - primary,\
+license: "The location of local authority schools across Argyll and Bute - primary,\
   \ secondary and special needs;\_non-denominational and denominational (Roman Catholic).\
-  \ Each school within a joint campus is shown separately.</p>"
+  \ Each school within a joint campus is shown separately."
+maintainer: Argyll and Bute Council
+notes: <p>arcgis API</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=dd6a8a84e7d64a8b92d4700a67b29b85
-records: 94
+records: null
 resources: []
 schema: default
 title: Open Data - Schools

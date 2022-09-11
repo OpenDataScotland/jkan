@@ -3,9 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-07-19'
 date_updated: '2019-07-24'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Renfrewshire Council
-notes: "<p>Mid-year population estimates: Scotland and Renfrewshire by single year\
+license: "Mid-year population estimates: Scotland and Renfrewshire by single year\
   \ of age and sex 1981 to 2018.Annual publication of mid-year population estimates\
   \ by age and sex as at 30 June every year, where population for higher geographies\
   \ is aggregated from the population estimates for 2011 Data Zones.Data zones are\
@@ -24,10 +22,12 @@ notes: "<p>Mid-year population estimates: Scotland and Renfrewshire by single ye
   \ in Scotland. More information on intermediate geography can be found on the\_\
   Scottish Government\_website.For more information on population statistics, please\
   \ see the NRS website here:\_https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimatesSingle\
-  \ year of age population estimates are available on the NRS website here:\_https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates</p>"
+  \ year of age population estimates are available on the NRS website here:\_https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates"
+maintainer: Renfrewshire Council
+notes: <p>arcgis API</p>
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=15c9fe9deaaf405ca361cd632cc7cfba
-records: 4
+records: null
 resources: []
 schema: default
 title: Mid year 2018 population estimate

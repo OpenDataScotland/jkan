@@ -1,11 +1,11 @@
 ---
 category:
 - Health and Social Care
-date_created: '2018-02-14'
+date_created: '2018-02-14T10:59:01Z'
 date_updated: '2021-10-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Number of community groups that own assets
 maintainer: Scottish Government
-notes: <p>Number of community groups that own assets</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/community-ownership-number-of-community-groups
 records: null

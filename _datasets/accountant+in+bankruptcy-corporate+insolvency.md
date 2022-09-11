@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2016-11-15'
+date_created: '2016-11-15T11:27:50Z'
 date_updated: '2021-11-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Scottish registered companies becoming insolvent or entering receivership.
 maintainer: Accountant in Bankruptcy
-notes: <p>Scottish registered companies becoming insolvent or entering receivership.</p>
+notes: <p>manual extraction</p>
 organization: Accountant in Bankruptcy
 original_dataset_link: http://statistics.gov.scot/data/corporate-insolvency
 records: null

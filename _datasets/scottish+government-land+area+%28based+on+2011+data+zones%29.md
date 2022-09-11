@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-02-02'
+date_created: '2017-02-02T17:34:53Z'
 date_updated: '2020-08-24'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: Land area in hectares based on aggregating 2011 Data Zone data.
 maintainer: Scottish Government
-notes: <p>Land area in hectares based on aggregating 2011 Data Zone data.</p>
+notes: <p>manual extraction</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/land-area-2011-data-zone-based
 records: null
