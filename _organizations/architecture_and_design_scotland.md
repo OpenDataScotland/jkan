@@ -2,7 +2,7 @@
 schema: default
 title: Architecture and Design Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: 'https://www.ads.org.uk/wp-content/themes/arcdessco/asset_dist/images/logo@2x.png'
+logo: '/img/org_logos/architecture_and_design_scotland.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

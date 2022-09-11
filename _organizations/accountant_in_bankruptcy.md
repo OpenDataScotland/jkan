@@ -2,7 +2,7 @@
 schema: default
 title: Accountant in Bankruptcy
 description: An executive agency of Scottish Government
-logo: 'https://upload.wikimedia.org/wikipedia/en/9/99/Accountant_in_Bankruptcy_logo.png'
+logo: '/img/org_logos/accountant_in_bankruptcy.png'
 type:
 - Executive agency
 portal_url: ''
