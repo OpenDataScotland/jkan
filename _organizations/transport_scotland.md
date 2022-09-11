@@ -2,7 +2,7 @@
 schema: default
 title: Transport Scotland
 description: An executive agency of Scottish Government
-logo: '/img_org_logos/transport_scotland.png'
+logo: '/img/org_logos/transport_scotland.png'
 type:
   - Executive agency
 portal_url: ''
