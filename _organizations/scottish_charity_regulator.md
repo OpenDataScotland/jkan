@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Charity Regulator
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: '/img/org_logos/scottish_charity_regulator.png'
 type:
 - Other agency
 portal_url: ''

@@ -2,7 +2,7 @@
 schema: default
 title: Registers of Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: '/img/org_logos/ros.png'
 type:
 - Other agency
 portal_url: ''

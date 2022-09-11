@@ -2,7 +2,7 @@
 schema: default
 title: Police Scotland
 description: an agency of the Scottish Government
-logo: ''
+logo: '/img/org_logos/police_scotland.png'
 type:
 - Other agency
 portal_url: ''

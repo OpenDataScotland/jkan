@@ -2,7 +2,7 @@
 schema: default
 title: Revenue Scotland
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: '/img/org_logos/revenue_scotland.png'
 type:
 - Other agency
 portal_url: ''
