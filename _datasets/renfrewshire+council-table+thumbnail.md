@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: '2017-11-28'
+date_created: ''
 date_updated: '2017-11-28'
-license: ''
+license: No licence
 maintainer: Renfrewshire Council
-notes: <p>arcgis API</p>
+notes: ''
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=2a8c3cedfd514d9b9545b3906d7bc4bc
 records: null

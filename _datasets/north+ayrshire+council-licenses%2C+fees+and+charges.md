@@ -3,11 +3,11 @@ category:
 - Business and Economy
 - Law and Licensing
 date_created: ''
-date_updated: '2018-10-31'
-license: These are the Licenses, Fees and Charges from various services across North
-  Ayrshire Council.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>These are the Licenses, Fees and Charges from various services across North
+  Ayrshire Council.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::licenses-fees-and-charges
 records: null

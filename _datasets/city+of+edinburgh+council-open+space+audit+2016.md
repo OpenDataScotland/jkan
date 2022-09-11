@@ -2,15 +2,15 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2022-05-04'
-license: "The Open Space Audit (2016) updates the Council\u2019s first Open Space\
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: "<p>The Open Space Audit (2016) updates the Council\u2019s first Open Space\
   \ Audit, which was published in 2009. It classifies all significant open space within\
   \ the urban areas of Edinburgh and its western settlements. It has been prepared\
   \ by the Council in line with Scottish Planning Policy and Planning Advice Note\
   \ (PAN) 65.<div><br /></div><div>https://www.edinburgh.gov.uk/downloads/file/22617/open-space-audit-2016<br\
-  \ /></div>"
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  \ /></div></p>"
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::open-space-audit-2016
 records: null

@@ -1,12 +1,12 @@
 ---
 category:
 - Education
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2021-03-31'
-license: Number of pupils with additional support needs (ASN) who attained a given
-  number of qualifications by level and stage.
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number of pupils with additional support needs (ASN) who attained a given
+  number of qualifications by level and stage.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/pupil-attainment-asn
 records: null

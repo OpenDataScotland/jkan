@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2017-05-23'
-license: Area of Great Landscape Value
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Area of Great Landscape Value</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::area-of-great-landscape-value
 records: null

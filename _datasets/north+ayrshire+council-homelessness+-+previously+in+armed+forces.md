@@ -3,12 +3,12 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2018-04-16'
-license: This dataset is made up of answers to Question 10c in the HL1 homelessness
-  questionnaire.  The length of time since any member of the household who has ever
-  been a member of the armed services was in them.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset is made up of answers to Question 10c in the HL1 homelessness
+  questionnaire.  The length of time since any member of the household who has ever
+  been a member of the armed services was in them.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-previously-in-armed-forces
 records: null

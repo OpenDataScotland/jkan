@@ -3,16 +3,16 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: Details of name, location, opening times and contact telephone number (where
-  applicable)
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
-notes: <p>Web Scraped</p>
+notes: <p>Details of name, location, opening times and contact telephone number (where
+  applicable)</p>
 organization: Moray Council
 original_dataset_link: http://www.moray.gov.uk/moray_standard/page_110140.html
-records: null
+records: 9
 resources:
-- format: '9.0'
-  name: '9.0'
+- format: CSV
+  name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/RecyclingCentres.csv
 schema: default
 title: Recycling Centres

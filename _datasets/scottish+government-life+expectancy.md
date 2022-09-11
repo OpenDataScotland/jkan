@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2018-03-23T16:46:02Z'
-date_updated: '2022-03-29'
-license: Life expectancy in years, at birth and for age groups
+date_created: ''
+date_updated: '2018-03-23T16:46:02Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Life expectancy in years, at birth and for age groups</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/Life-Expectancy
 records: null

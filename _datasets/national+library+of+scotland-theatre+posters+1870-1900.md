@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: ''
+license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'']'
 maintainer: National Library of Scotland
-notes: <p>Web Scraped</p>
+notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/theatre-posters/
-records: null
+records: 5
 resources:
-- format: '5.0'
-  name: '5.0'
+- format: ZIP
+  name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Theatre-Posters-1870-1900.zip
 schema: default
 title: Theatre Posters 1870-1900

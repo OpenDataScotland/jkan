@@ -3,10 +3,10 @@ category:
 - Education
 - Sport and Leisure
 date_created: ''
-date_updated: '2019-08-29'
-license: Library IT use; Computer Bookings, WiFi Logins.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Library IT use; Computer Bookings, WiFi Logins.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::library-it-use
 records: null

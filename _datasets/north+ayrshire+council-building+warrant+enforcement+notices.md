@@ -2,13 +2,13 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2017-07-02'
-license: "It is an offence for anyone to carry out work to which the building regulations\
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: "<p>It is an offence for anyone to carry out work to which the building regulations\
   \ apply without a building warrant. Where the local authority\u2019s Building Standards\
   \ Service consider it necessary, a 'building warrant enforcement notice' may be\
-  \ served on the relevant person."
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  \ served on the relevant person.</p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::building-warrant-enforcement-notices
 records: null

@@ -2,11 +2,11 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2017-05-25'
-license: Location of dog bins maintained by the North Ayrshire Council Streetscene
-  team
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of dog bins maintained by the North Ayrshire Council Streetscene
+  team</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::dog-bins
 records: null

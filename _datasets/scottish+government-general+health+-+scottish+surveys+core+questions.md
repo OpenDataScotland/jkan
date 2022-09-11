@@ -1,13 +1,13 @@
 ---
 category:
 - Health and Social Care
-date_created: '2017-02-07T16:33:56Z'
-date_updated: '2021-01-19'
-license: 'Self-assessed general health by tenure, household type, age, sex and disability.
-  The Scottish Survey Core Questions is an innovative project drawing together multiple
-  household surveys to provide a large sample for subnational analysis. '
+date_created: ''
+date_updated: '2017-02-07T16:33:56Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Self-assessed general health by tenure, household type, age, sex and disability.
+  The Scottish Survey Core Questions is an innovative project drawing together multiple
+  household surveys to provide a large sample for subnational analysis. </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/general-health-sscq
 records: null

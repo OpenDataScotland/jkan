@@ -2,11 +2,11 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: '2021-06-25'
-license: The locations of CCTV in Glasgow listed by British National Grid coordinates,
-  and street.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>The locations of CCTV in Glasgow listed by British National Grid coordinates,
+  and street.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cctv-1
 records: null

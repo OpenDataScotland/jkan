@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-11-05'
-license: This dataset shows the route of cycle paths within North Ayrshire. This includes
-  National Cycle Network routes and other local routes as well.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset shows the route of cycle paths within North Ayrshire. This
+  includes National Cycle Network routes and other local routes as well.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::cycle-paths
 records: null

@@ -3,10 +3,10 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: ''
-date_updated: '2017-11-28'
-license: Location of Care Homes within North Ayrshire. Residential and day care services.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of Care Homes within North Ayrshire. Residential and day care services.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::care-homes
 records: null

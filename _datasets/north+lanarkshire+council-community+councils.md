@@ -2,10 +2,10 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: '2016-04-25'
-license: Community Council Areas
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Community Council Areas</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::community-councils-1
 records: null

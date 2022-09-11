@@ -3,11 +3,11 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2018-04-16'
-license: This dataset is made up of answers to Question 16a in the HL1 homelessness
-  questionnaire.  The reason for homelessness as given by the main applicant.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset is made up of answers to Question 16a in the HL1 homelessness
+  questionnaire.  The reason for homelessness as given by the main applicant.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-reason-for-becoming-homeless
 records: null

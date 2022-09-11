@@ -2,8 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2021-05-25'
-license: <span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
@@ -16,9 +18,7 @@ license: <span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&q
   national air quality objectives will be achieved throughout the UK by the relevant
   deadlines. If a local authority finds any places where the objectives are not likely
   to be achieved, it must declare an Air Quality Management Area there. This area
-  could be just one or two streets, or it could be much bigger.</span>
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  could be just one or two streets, or it could be much bigger.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::air-quality-management-areas
 records: null

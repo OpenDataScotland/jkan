@@ -2,11 +2,11 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2019-08-22'
-license: This dataset shows the locations within North Ayrshire where you can donate
-  to Foodbanks.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset shows the locations within North Ayrshire where you can donate
+  to Foodbanks.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::foodbank-donation-points
 records: null

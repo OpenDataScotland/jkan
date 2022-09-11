@@ -1,11 +1,11 @@
 ---
 category:
 - Health and Social Care
-date_created: '2017-02-07T16:21:51Z'
-date_updated: '2021-09-03'
-license: Number of cancer registrations by type and gender.
+date_created: ''
+date_updated: '2017-02-07T16:21:51Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>manual extraction</p>
+notes: <p>Number of cancer registrations by type and gender.</p>
 organization: Public Health Scotland
 original_dataset_link: http://statistics.gov.scot/data/cancer-registrations
 records: null

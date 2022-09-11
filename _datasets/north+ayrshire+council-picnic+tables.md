@@ -4,11 +4,11 @@ category:
 - Food and Environment
 - Sport and Leisure
 date_created: ''
-date_updated: '2018-11-01'
-license: Location of picnic tables maintained by the North Ayrshire Council Streetscene
-  team
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of picnic tables maintained by the North Ayrshire Council Streetscene
+  team</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::picnic-tables
 records: null

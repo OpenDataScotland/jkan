@@ -2,12 +2,12 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-10-30'
-license: Traffic Regulation Orders (TROs) impose traffic restrictions such as road
-  closures, introduction or varying of speed limits, prohibition of turns (such as
-  right turns and u-turns) and introduction of waiting or loading restrictions.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Traffic Regulation Orders (TROs) impose traffic restrictions such as road
+  closures, introduction or varying of speed limits, prohibition of turns (such as
+  right turns and u-turns) and introduction of waiting or loading restrictions.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-regulation-orders
 records: null

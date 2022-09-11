@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2022-04-14T13:25:43Z'
-date_updated: '2022-04-14'
-license: ''
+date_created: ''
+date_updated: '2022-04-14T13:25:43Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: ''
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/population-of-settlements-and-localities-2020
 records: null

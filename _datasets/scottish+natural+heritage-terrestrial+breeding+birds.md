@@ -1,11 +1,11 @@
 ---
 category:
 - Food and Environment
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2020-03-25'
-license: Index of abundance of terrestrial breeding birds (1994=100)
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Natural Heritage
-notes: <p>manual extraction</p>
+notes: <p>Index of abundance of terrestrial breeding birds (1994=100)</p>
 organization: Scottish Natural Heritage
 original_dataset_link: http://statistics.gov.scot/data/terrestrial-breeding-birds
 records: null

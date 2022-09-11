@@ -2,14 +2,14 @@
 category:
 - Business and Economy
 - Planning and Development
-date_created: '2017-07-07'
-date_updated: '2017-07-18'
-license: Established Business and Industry Area in the 2015 Local Development Plan
+date_created: ''
+date_updated: '2017-07-07'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
-notes: <p>arcgis API</p>
+notes: <p>Established Business and Industry Area in the 2015 Local Development Plan</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=48dccdf221ba41f3b1d7f8b1d619183b
-records: null
+records: 53
 resources: []
 schema: default
 title: Open Data - Established Business and Industry Area

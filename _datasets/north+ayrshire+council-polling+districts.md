@@ -4,10 +4,11 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: ''
-date_updated: '2017-05-25'
-license: "Boundaries of electoral polling districts (2021) within North Ayrshire\_"
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: "<p>Boundaries of electoral polling districts (2021) within North Ayrshire\_\
+  </p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::polling-districts
 records: null

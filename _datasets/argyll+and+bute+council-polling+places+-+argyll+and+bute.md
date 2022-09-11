@@ -1,0 +1,61 @@
+---
+category:
+- Elections / Politics
+date_created: Polling Places
+date_updated: '2017-01-27T10:14:32.633876'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: Argyll and Bute Council
+notes: <p>A Polling District is a geographical subdivision of an electoral area such
+  as an electoral Ward within which a polling place is designated.\r\n\r\nThe Representation
+  of the People Act 1983 places a duty on LA to divide the local authority area into
+  polling districts based on ward boundaries, and to designate a polling place for
+  each district. LAs also have a duty to keep these polling arrangements under review.
+  The Electoral Administration Act 2006 introduced amendments to the 1983 Act (which
+  in turn has been superseded by The Electoral Administration Act 2013). Now local
+  authorities must conduct a full review (with public consultation) of its polling
+  districts and polling places every four years, however adjustments to the boundaries
+  of polling districts and the designation of polling places within LA wards can be
+  proposed at any time in response to changes in ward boundaries or to the availability
+  of premises that can be reasonably designated as polling places.\r\n\r\nThe Fifth
+  Review of Electoral Arrangements concluded in May 2016 when the LGBCS made recommendations
+  to Scottish Ministers for the number of Councillors and the electoral ward boundaries
+  in each of Scotland's 32 local authorities. The review recommended changes in 30
+  LA areas of which all but 5 were accepted and came into force on 30th Sept 2016.
+  As a result, ward boundaries (and therefore polling districts and possibly polling
+  places) were changed after this date in time for the May 2017 elections.\r\n\r\nThe
+  following fields are now MANDATORY fields for this dataset.\r\n"district_code" -
+  The polling district code linked to the polling place\r\n"UPRN" - The Unique Property
+  Reference Number for the Corporate Address Gazeteer record of the polling place\r\n"polling_place"
+  - The name and/or address of the polling place (based on the Corporate Address Gazeteer
+  record)</p>
+organization: Argyll and Bute Council
+original_dataset_link: ' https://data.spatialhub.scotpackage/polling_places-ab'
+records: null
+resources:
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/99085a7f-eac3-4634-9950-14e01c45abf3/download/kprojects2017006-spatial-hub-uploads-2017pollingplaces.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/29e8d368-50e6-4876-9c1b-a6a835ad7b3b/download/kprojects2017006-spatial-hub-uploads-2017pollingplaceupdated.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/9293e862-d321-4454-825d-4806ac1d5ff5/download/kprojects2017006-spatial-hub-uploads-2017pollingplacesv3.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/830546f8-05a3-4ae1-a7fd-d620d870a026/download/polling_places.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/36ca844d-9c0a-432e-9802-485a71eb4319/download/polling_places_201909.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/f28654f3-b91a-4adc-98c3-a5aa8f2e94d0/download/polling_places.zip
+- format: ZIP
+  name: ZIP
+  url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/68523c51-19b6-4607-934e-ed6b82e44b1b/download/abc_polling_places.zip
+- format: ''
+  name: ''
+  url: https://arcgis.argyll-bute.gov.uk/arcgis/rest/services/Electoral_Boundaries_and_Masks/MapServer/16
+schema: default
+title: Polling Places - Argyll and Bute
+---

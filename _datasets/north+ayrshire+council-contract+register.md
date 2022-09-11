@@ -3,10 +3,10 @@ category:
 - Budget / Finance
 - Business and Economy
 date_created: ''
-date_updated: '2020-11-18'
-license: '{{description}}'
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>{{description}}</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::contract-register
 records: null

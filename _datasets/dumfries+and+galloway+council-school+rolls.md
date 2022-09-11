@@ -1,20 +1,20 @@
 ---
 category:
 - Planning and Development
-date_created: '2018-02-21T11:08:06.136Z'
-date_updated: '2019-01-17'
-license: '"Historical School Rolls in Dumfries and Galloway"'
+date_created: ''
+date_updated: '2018-02-21T11:08:06.136Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
-notes: <p>USMART API</p>
+notes: <p>"Historical School Rolls in Dumfries and Galloway"</p>
 organization: Dumfries and Galloway Council
 original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/e48094b9-b9d6-4f50-8b19-8825f881ddff
 records: null
 resources:
-- format: ''
-  name: ''
+- format: JSON
+  name: JSON
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/091b7162-6da4-4cc2-a0b8-4936cddbd4eb/1/urql
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=41f05d21-058e-4475-b406-e5a6b61edbca
 schema: default
 title: School Rolls

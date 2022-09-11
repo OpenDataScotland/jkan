@@ -2,10 +2,10 @@
 category:
 - Education
 date_created: ''
-date_updated: '2017-05-25'
-license: Location of Early Years Centres within North Ayrshire
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of Early Years Centres within North Ayrshire</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::early-years-centres
 records: null

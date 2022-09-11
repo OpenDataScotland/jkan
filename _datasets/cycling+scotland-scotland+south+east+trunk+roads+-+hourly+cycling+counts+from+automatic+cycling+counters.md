@@ -1,18 +1,18 @@
 ---
 category:
 - Transportation
-date_created: '2022-06-21T11:03:19.018Z'
-date_updated: '2022-09-07'
-license: '"Scotland South East Trunk Roads - Hourly cycling counts from automatic
-  cycling counters"'
+date_created: ''
+date_updated: '2022-06-21T11:03:19.018Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>USMART API</p>
+notes: <p>"Scotland South East Trunk Roads - Hourly cycling counts from automatic
+  cycling counters"</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/4e329609-94e9-43b5-a221-be989390a391
 records: null
 resources:
-- format: ''
-  name: ''
+- format: JSON
+  name: JSON
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/85792890-4026-4282-a146-ff71f9470efc/1/urql
 schema: default
 title: Scotland South East Trunk Roads - Hourly cycling counts from automatic cycling

@@ -2,12 +2,12 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2017-03-21T14:10:09Z'
-date_updated: '2022-08-23'
-license: 'Quarterly time series data on Scottish approvals, starts and completions
-  by sector '
+date_created: ''
+date_updated: '2017-03-21T14:10:09Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Quarterly time series data on Scottish approvals, starts and completions
+  by sector </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/new-build-housing-starts-and-completions
 records: null

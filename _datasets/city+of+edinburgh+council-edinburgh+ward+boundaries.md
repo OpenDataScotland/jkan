@@ -5,10 +5,10 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: ''
-date_updated: '2021-05-27'
-license: Ward boundaries for Edinburgh Council
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p>Ward boundaries for Edinburgh Council</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/dc96624b1db849db926f59806e287d44_24
 records: null

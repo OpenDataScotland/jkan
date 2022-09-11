@@ -3,12 +3,12 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2018-04-16'
-license: This dataset is made up of answers to Question 10d in the HL1 homelessness
-  questionnaire.  The length of time since any member of the household aged under
-  25 who was looked after as a child left local authority care.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset is made up of answers to Question 10d in the HL1 homelessness
+  questionnaire.  The length of time since any member of the household aged under
+  25 who was looked after as a child left local authority care.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-previously-in-local-authority-care
 records: null

@@ -2,10 +2,10 @@
 category:
 - Education
 date_created: ''
-date_updated: '2016-04-25'
-license: Non Denominational Secondary Schools Catchments
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Non Denominational Secondary Schools Catchments</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::non-denominational-secondary-schools-catchments
 records: null

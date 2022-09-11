@@ -3,12 +3,12 @@ category:
 - Budget / Finance
 - Business and Economy
 date_created: ''
-date_updated: '2017-11-13'
-license: This dataset shows Awards and Achievements bids for various teams and projects
-  across the Council and any costs associated with them, if there were any, and the
-  final result of the bid.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset shows Awards and Achievements bids for various teams and projects
+  across the Council and any costs associated with them, if there were any, and the
+  final result of the bid.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::nac-awards-and-achievements
 records: null

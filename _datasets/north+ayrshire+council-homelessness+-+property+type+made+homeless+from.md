@@ -3,14 +3,14 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2018-04-16'
-license: "This dataset is made up of answers to Question 14a of the HL1 homelessness\
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: "<p>This dataset is made up of answers to Question 14a of the HL1 homelessness\
   \ questionnaire.  The type of property from which the person became homeless / threatened\
   \ with homelessness \u2013 not necessarily the most recent address, as applicants\
   \ may have been temporarily staying with friends / family having already become\
-  \ homeless."
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  \ homeless.</p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-property-type-made-homeless-from
 records: null

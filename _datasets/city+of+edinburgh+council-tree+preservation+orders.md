@@ -3,13 +3,13 @@ category:
 - Arts / Culture / History
 - Planning and Development
 date_created: ''
-date_updated: '2022-06-20'
-license: <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Trees,
-  groups of trees, woodlands and areas of trees that have been afforded the statutory
-  protection of a Tree Preservation Order.</span>
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>Trees, groups of trees, woodlands and areas of trees that have
+  been afforded the statutory protection of a Tree Preservation Order.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::tree-preservation-orders
 records: null

@@ -2,14 +2,14 @@
 category:
 - Food and Environment
 - Planning and Development
-date_created: '2019-02-19'
-date_updated: '2020-11-30'
-license: Wildlife Sites (Moray)
+date_created: ''
+date_updated: '2019-02-19'
+license: No licence
 maintainer: Moray Council
-notes: <p>arcgis API</p>
+notes: <p>Wildlife Sites (Moray)</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=b2258a5522394cc69ea34ce8c5f31313
-records: null
+records: 7
 resources: []
 schema: default
 title: Wildlife Sites (Moray)

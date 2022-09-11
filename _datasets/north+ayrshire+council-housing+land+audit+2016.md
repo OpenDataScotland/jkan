@@ -3,17 +3,17 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2017-05-26'
-license: '<span style=''color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica,
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: '<p><span style=''color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica,
   sans-serif; font-size: 12.09px; background-color: rgb(255, 255, 255);''>Scottish
   Planning Policy ( SPP) requires that a five-year ongoing effective land supply is
   available to meet the identified housing land requirements. Planning authorities
   should therefore carry out regular monitoring of housing completions and the progress
   of sites through the planning process. This can be achieved through the preparation
   of a housing land audit, carried out annually by the planning authority in conjunction
-  with housing and infrastructure providers.</span>'
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  with housing and infrastructure providers.</span></p>'
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2016
 records: null

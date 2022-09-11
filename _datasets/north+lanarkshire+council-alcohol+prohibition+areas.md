@@ -2,10 +2,10 @@
 category:
 - Health and Social Care
 date_created: ''
-date_updated: '2017-05-24'
-license: Alcohol Prohibition Areas
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Alcohol Prohibition Areas</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::alcohol-prohibition-areas
 records: null

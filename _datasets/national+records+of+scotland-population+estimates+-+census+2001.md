@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2019-10-07'
-license: Population from Census Day, 29 April 2001 (number of people).
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>manual extraction</p>
+notes: <p>Population from Census Day, 29 April 2001 (number of people).</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/census-population-2001
 records: null

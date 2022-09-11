@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29T02:00:00+02:00'
-date_updated: '2016-02-10'
-license: Number of people claiming Attendance Allowance by age, gender and rate of
-  award
+date_created: ''
+date_updated: '2014-07-29T02:00:00+02:00'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number of people claiming Attendance Allowance by age, gender and rate of
+  award</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/attendance-allowance
 records: null

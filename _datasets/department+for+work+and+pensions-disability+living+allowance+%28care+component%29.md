@@ -1,11 +1,11 @@
 ---
 category:
 - Health and Social Care
-date_created: '2014-07-29T02:00:00+02:00'
-date_updated: '2016-02-09'
-license: Number of Disability Living Allowance claimants by lev of Care Component
+date_created: ''
+date_updated: '2014-07-29T02:00:00+02:00'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Department for Work and Pensions
-notes: <p>manual extraction</p>
+notes: <p>Number of Disability Living Allowance claimants by lev of Care Component</p>
 organization: Department for Work and Pensions
 original_dataset_link: http://statistics.gov.scot/data/disability-living-allowance-component
 records: null

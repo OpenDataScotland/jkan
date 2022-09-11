@@ -3,14 +3,14 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2021-11-24'
-license: <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Housing
-  Land Audit Sites. Annual assessment of the housing land supply. Spatial and non-spatial
-  data derived from planning applications. This is the 2021 Housing Land Audit Schedule
-  data.</span>
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>Housing Land Audit Sites. Annual assessment of the housing land
+  supply. Spatial and non-spatial data derived from planning applications. This is
+  the 2021 Housing Land Audit Schedule data.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/7c51195e83584dfd8f79ca6e123ed668_13
 records: null

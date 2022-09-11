@@ -3,12 +3,12 @@ category:
 - Council and Government
 - Education
 date_created: ''
-date_updated: '2021-07-16'
-license: Data presented here is an extract of data published by the Scottish Government
-  regarding historical school rolls graduated to individual school level. Includes
-  data on all schools in Glasgow.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Data presented here is an extract of data published by the Scottish Government
+  regarding historical school rolls graduated to individual school level. Includes
+  data on all schools in Glasgow.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-roll
 records: null

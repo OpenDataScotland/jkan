@@ -2,22 +2,22 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-11-23'
-license: ''
+date_updated: ''
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
-notes: <p>Web Scraped</p>
+notes: ''
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ''
-  name: ''
+- format: KMZ
+  name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/LDP17_Settlements.kmz
-- format: ''
-  name: ''
+- format: KMZ
+  name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/LDP17_Sites.kmz
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/LDP17_shape.zip
 schema: default
 title: Local Development Plan (LDP) 2017

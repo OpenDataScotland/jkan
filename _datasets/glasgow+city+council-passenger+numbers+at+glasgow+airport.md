@@ -2,12 +2,12 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-06-30'
-license: 'The dataset shows size of Glasgow Airport over the period between 2004 to
-  2018 according to passenger numbers, broken down on a monthly basis. Annual figures
-  for 2015-17 also included. '
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>The dataset shows size of Glasgow Airport over the period between 2004 to
+  2018 according to passenger numbers, broken down on a monthly basis. Annual figures
+  for 2015-17 also included. </p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::passenger-numbers-at-glasgow-airport-1
 records: null

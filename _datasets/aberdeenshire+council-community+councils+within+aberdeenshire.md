@@ -2,16 +2,16 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2022-09-05'
-license: ''
+date_updated: ''
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
-notes: <p>Web Scraped</p>
+notes: ''
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ''
-  name: ''
+- format: KMZ
+  name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_community_councils.kmz
 schema: default
 title: Community councils within Aberdeenshire

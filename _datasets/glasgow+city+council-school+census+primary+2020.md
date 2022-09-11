@@ -3,8 +3,10 @@ category:
 - Business and Economy
 - Education
 date_created: ''
-date_updated: '2021-12-07'
-license: "The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\
   \ a wide variety of information on pupils in all publicly funded schools in Scotland.\
   \ These files provide information at the level of individual schools separated into\
   \ primary, secondary and additional support for learning (ASL) provision.Each file\
@@ -12,9 +14,7 @@ license: "The \u201CPupils in Scotland Census\u201D is undertaken annually and c
   \ deprived areas in Scotland (using the SIMD 2020 ver 2);ethnicity;the proportion\
   \ of pupils for whom English is an additional language.The Pupil in Scotland census\
   \ data is obtained from schools management information systems and is validated\
-  \ by ScotXed."
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+  \ by ScotXed.</p>"
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-census-primary-2020
 records: null

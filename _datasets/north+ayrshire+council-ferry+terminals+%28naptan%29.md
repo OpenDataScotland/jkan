@@ -2,8 +2,10 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-10-30'
-license: "<span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
   \ none; -webkit-tap-highlight-color: transparent; color: rgb(0, 0, 0); font-size:\
   \ 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; font-kerning: none;\
   \ line-height: 20.5042px; font-variant-ligatures: none !important;'><span style='margin:\
@@ -103,9 +105,7 @@ license: "<span style='margin: 0px; padding: 0px; user-select: text; -webkit-use
   \ 20.5042px; font-variant-ligatures: none !important;'></span><span style='margin:\
   \ 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color:\
   \ transparent; color: rgb(0, 0, 0); font-size: 12pt; line-height: 20.5042px; font-family:\
-  \ Calibri, Calibri_MSFontService, sans-serif;'>\_</span>"
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  \ Calibri, Calibri_MSFontService, sans-serif;'>\_</span></p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ferry-terminals-naptan
 records: null

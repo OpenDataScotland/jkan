@@ -2,13 +2,13 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2018-02-02'
-license: Shows all the Housing Stock owned by North Ayrshire Council. It shows the
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: <p>Shows all the Housing Stock owned by North Ayrshire Council. It shows the
   number of beds, the property type, the date acquired and the postcode sector of
   each property. The date acquired showed be used as an indication of property age
-  and is not guaranteed to be fully accurate.
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  and is not guaranteed to be fully accurate.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-stock
 records: null

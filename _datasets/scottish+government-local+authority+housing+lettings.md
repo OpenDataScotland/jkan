@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2018-05-16T15:54:51Z'
-date_updated: '2022-07-22'
-license: Lettings of local authority dwellings, by local authority
+date_created: ''
+date_updated: '2018-05-16T15:54:51Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Lettings of local authority dwellings, by local authority</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-lettings
 records: null

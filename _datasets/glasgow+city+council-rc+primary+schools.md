@@ -2,10 +2,10 @@
 category:
 - Education
 date_created: ''
-date_updated: '2021-06-02'
-license: Schools and catchemnts areas
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Schools and catchemnts areas</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::rc-primary-schools-2
 records: null

@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: '2021-10-08'
-license: Polygons showing sites included in the North Ayrshire Housing Land Supply
-  including data on housing completions on those sites and future programming.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Polygons showing sites included in the North Ayrshire Housing Land Supply
+  including data on housing completions on those sites and future programming.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-data-supply-2020
 records: null

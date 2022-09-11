@@ -3,15 +3,15 @@ category:
 - Housing and Estates
 date_created: ''
 date_updated: ''
-license: Details of name, location and whether Moray Council owned
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
-notes: <p>Web Scraped</p>
+notes: <p>Details of name, location and whether Moray Council owned</p>
 organization: Moray Council
 original_dataset_link: http://www.moray.gov.uk/moray_standard/page_110140.html
-records: null
+records: 80
 resources:
-- format: '80.0'
-  name: '80.0'
+- format: CSV
+  name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/Cemeteries.csv
 schema: default
 title: Cemeteries

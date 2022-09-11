@@ -2,11 +2,11 @@
 category:
 - Education
 date_created: ''
-date_updated: '2018-10-30'
-license: This is the School Clothing Grants paid out by the Council by Datazone in
-  2017/18. Shown as a count in the datazone and also as a score out of 10.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This is the School Clothing Grants paid out by the Council by Datazone in
+  2017/18. Shown as a count in the datazone and also as a score out of 10.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::school-clothing-grants-by-dz-2017-18
 records: null

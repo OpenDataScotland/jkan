@@ -2,8 +2,10 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2022-03-10'
-license: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='max-width:100%;\
   \ display:inherit;'>The Scottish Charity Regulator (OSCR) is a Non-Ministerial Department\
@@ -23,8 +25,6 @@ license: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
   \ ugc noopener noreferrer'>https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download/</a></span><div><br\
   \ /></div></p>"
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::charities-register-oscr
 records: null

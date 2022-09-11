@@ -1,12 +1,12 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-02-21T14:58:19Z'
-date_updated: '2022-08-12'
-license: Number of bed days occupied by hospital inpatients who are ready for discharge,
-  but whose discharge has been delayed.
+date_created: ''
+date_updated: '2019-02-21T14:58:19Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>manual extraction</p>
+notes: <p>Number of bed days occupied by hospital inpatients who are ready for discharge,
+  but whose discharge has been delayed.</p>
 organization: Public Health Scotland
 original_dataset_link: http://statistics.gov.scot/data/delayed-discharges-bed-days
 records: null

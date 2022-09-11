@@ -2,10 +2,10 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: '2017-06-22'
-license: Location of Public and Corporate Wifi sites in North Ayrshire.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of Public and Corporate Wifi sites in North Ayrshire.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::wi-fi-sites
 records: null

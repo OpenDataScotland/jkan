@@ -2,16 +2,16 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-05-25'
-license: <span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
   text-decoration-color:initial; display:inline !important;'>National Cycle Network
-  routes within the Edinburgh Council boundary</span>
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  routes within the Edinburgh Council boundary</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/dcc16cab5e6f46b2891b1d64ae9881f9_40
 records: null

@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2017-12-04'
-license: Boundaries of North Ayrshire allotments.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Boundaries of North Ayrshire allotments.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::allotments
 records: null

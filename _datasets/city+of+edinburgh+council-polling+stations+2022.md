@@ -2,13 +2,13 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: '2022-03-31'
-license: <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>The
-  locations of polling stations used in elections in the Edinburgh Council area. Updated
-  for the May 2022 local elections.</span>
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>The locations of polling stations used in elections in the Edinburgh
+  Council area. Updated for the May 2022 local elections.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::polling-stations-2022
 records: null

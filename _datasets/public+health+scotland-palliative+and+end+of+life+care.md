@@ -1,11 +1,12 @@
 ---
 category:
 - Health and Social Care
-date_created: '2014-07-29T02:00:00+02:00'
-date_updated: '2022-03-10'
-license: The percentage of last 6 months of life spent at home or in a community setting
+date_created: ''
+date_updated: '2014-07-29T02:00:00+02:00'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>manual extraction</p>
+notes: <p>The percentage of last 6 months of life spent at home or in a community
+  setting</p>
 organization: Public Health Scotland
 original_dataset_link: http://statistics.gov.scot/data/end-of-life-care
 records: null

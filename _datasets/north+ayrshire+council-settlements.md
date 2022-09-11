@@ -2,11 +2,11 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2017-09-15'
-license: Boundaries of Settlements within North Ayrshire as set out in the Local Development
-  Plan
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Boundaries of Settlements within North Ayrshire as set out in the Local
+  Development Plan</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::settlements
 records: null

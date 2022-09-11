@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2018-02-12T11:26:33Z'
-date_updated: '2022-07-22'
-license: Local Authority owned housing stock, by age of dwelling
+date_created: ''
+date_updated: '2018-02-12T11:26:33Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Local Authority owned housing stock, by age of dwelling</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-stock-by-age
 records: null

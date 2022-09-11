@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2020-01-28T09:38:24Z'
-date_updated: '2020-06-12'
-license: ''
+date_created: ''
+date_updated: '2020-01-28T09:38:24Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: ''
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation
 records: null

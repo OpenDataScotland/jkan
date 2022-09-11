@@ -2,8 +2,10 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-10-30'
-license: "<span style='margin:0px; padding:0px; color:rgb(0, 0, 0); font-size:11pt;\
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: "<p><span style='margin:0px; padding:0px; color:rgb(0, 0, 0); font-size:11pt;\
   \ font-family:Calibri, Calibri_MSFontService, sans-serif; font-kerning:none; font-variant-ligatures:none\
   \ !important;'><span style='margin:0px; padding:0px; background-color:inherit;'>Traffic\
   \ sensitive roads have restrictions for road works which are applied according to\
@@ -28,9 +30,7 @@ license: "<span style='margin:0px; padding:0px; color:rgb(0, 0, 0); font-size:11
   \ !important;'><span style='margin:0px; padding:0px; background-color:inherit;'>\_\
   Sensitive Side Roads within NAC.</span></span><span style='margin:0px; padding:0px;\
   \ color:rgb(0, 0, 0); font-size:10.5pt; font-family:&quot;Avenir Next&quot;, &quot;Avenir\
-  \ Next_MSFontService&quot;, sans-serif;'>\_</span>"
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  \ Next_MSFontService&quot;, sans-serif;'>\_</span></p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-sensitive-roads
 records: null

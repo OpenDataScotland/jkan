@@ -1,13 +1,13 @@
 ---
 category:
 - Uncategorised
-date_created: '2019-12-18T14:37:43Z'
-date_updated: '2022-08-31'
-license: 'Data underlying the National Performance Framework Indicators. These give
-  a measure of national wellbeing including a range of economic, social and environmental
-  indicators. '
+date_created: ''
+date_updated: '2019-12-18T14:37:43Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Data underlying the National Performance Framework Indicators. These give
+  a measure of national wellbeing including a range of economic, social and environmental
+  indicators. </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/national-performance-framework
 records: null

@@ -2,16 +2,16 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2018-11-23'
-license: ''
+date_updated: ''
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
-notes: <p>Web Scraped</p>
+notes: ''
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/csv/cooling-towers-register.csv
 schema: default
 title: Cooling tower register

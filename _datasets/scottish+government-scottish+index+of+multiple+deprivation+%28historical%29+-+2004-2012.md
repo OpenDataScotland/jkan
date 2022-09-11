@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2020-02-13T15:16:14Z'
-date_updated: '2020-02-13'
-license: Data Zone (2001) level ranks and quantiles for the Scottish Index of Multiple
-  Deprivation (SIMD) overall, and by individual domain for 2004, 2006, 2009 and 2012.
+date_created: ''
+date_updated: '2020-02-13T15:16:14Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Data Zone (2001) level ranks and quantiles for the Scottish Index of Multiple
+  Deprivation (SIMD) overall, and by individual domain for 2004, 2006, 2009 and 2012.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multiple-deprivation-historical-i
 records: null

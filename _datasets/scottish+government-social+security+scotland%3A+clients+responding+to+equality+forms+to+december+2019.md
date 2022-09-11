@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2020-05-11T14:40:59Z'
-date_updated: '2021-05-06'
-license: Number of clients responding to Equality Monitoring and Feedback forms from
-  10th December 2018 to 8th December 2019.
+date_created: ''
+date_updated: '2020-05-11T14:40:59Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number of clients responding to Equality Monitoring and Feedback forms from
+  10th December 2018 to 8th December 2019.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-clients-responding-to-equality-forms-to-december-2019
 records: null

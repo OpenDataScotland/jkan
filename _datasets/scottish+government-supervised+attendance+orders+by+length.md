@@ -1,11 +1,11 @@
 ---
 category:
 - Public Safety
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2021-10-12'
-license: Number of supervised attendance orders commenced by length
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number of supervised attendance orders commenced by length</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/supervised-attendance-orders-by-length
 records: null

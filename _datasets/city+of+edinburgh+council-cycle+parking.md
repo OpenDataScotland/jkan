@@ -2,10 +2,10 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-05-27'
-license: Locations of cycle parking in Edinburgh Council area
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p>Locations of cycle parking in Edinburgh Council area</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/fa9836614f1e4407ab7a8cd90163210d_37
 records: null

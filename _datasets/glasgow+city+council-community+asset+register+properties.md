@@ -4,12 +4,12 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2021-06-24'
-license: 'Current resister of community based assets (buildings and land) owned by
-  Glasgow City Council and associated bodies.  These may include but not be limited
-  to community centres, local halls and play areas. '
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Current resister of community based assets (buildings and land) owned by
+  Glasgow City Council and associated bodies.  These may include but not be limited
+  to community centres, local halls and play areas. </p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::community-asset-register-properties
 records: null

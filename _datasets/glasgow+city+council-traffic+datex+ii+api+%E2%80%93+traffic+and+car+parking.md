@@ -3,13 +3,14 @@ category:
 - Housing and Estates
 - Transportation
 date_created: ''
-date_updated: '2021-04-30'
-license: <p style='box-sizing:border-box; margin-top:0px; margin-bottom:1rem;'></p><p>Access
-  to real time traffic and car parking data City Council using the DATEX II Protocol,
-  including traffic movement, traffic events, and parking volumes at Council run car
-  parks.</p>
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: '<p style=''box-sizing:border-box; margin-top:0px; margin-bottom:1rem;''></p>
+
+  <p>Access to real time traffic and car parking data City Council using the DATEX
+  II Protocol, including traffic movement, traffic events, and parking volumes at
+  Council run car parks.</p>'
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::traffic-datex-ii-api-traffic-and-car-parking
 records: null

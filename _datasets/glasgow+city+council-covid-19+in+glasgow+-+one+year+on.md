@@ -2,10 +2,10 @@
 category:
 - Health and Social Care
 date_created: ''
-date_updated: '2021-04-08'
-license: '{{description}}'
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>{{description}}</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/apps/GlasgowGIS::covid-19-in-glasgow-one-year-on
 records: null

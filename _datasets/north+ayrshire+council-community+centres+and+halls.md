@@ -2,10 +2,10 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2017-11-28'
-license: Location of Community Centres and Halls within North Ayrshire
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of Community Centres and Halls within North Ayrshire</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::community-centres-and-halls
 records: null

@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2021-03-17'
-license: 'Number of births by gender that were registered in a calendar year, or occurred
-  in a mid-year period (1 July to 30 June). '
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>manual extraction</p>
+notes: <p>Number of births by gender that were registered in a calendar year, or occurred
+  in a mid-year period (1 July to 30 June). </p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/births
 records: null

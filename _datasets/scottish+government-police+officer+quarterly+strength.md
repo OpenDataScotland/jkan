@@ -1,12 +1,12 @@
 ---
 category:
 - Public Safety
-date_created: '2016-08-04T13:20:35Z'
-date_updated: '2022-08-09'
-license: 'Number of Full-Time Equivalent (FTE) police officers in Scotland at the
-  end of each respective quarter. '
+date_created: ''
+date_updated: '2016-08-04T13:20:35Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number of Full-Time Equivalent (FTE) police officers in Scotland at the
+  end of each respective quarter. </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/police-officer-quarterly-strength
 records: null

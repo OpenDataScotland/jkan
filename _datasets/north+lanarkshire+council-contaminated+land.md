@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2017-05-24'
-license: Contaminated Land
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Contaminated Land</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::contaminated-land
 records: null

@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-07-12T09:01:36Z'
-date_updated: '2022-08-15'
-license: Feedback statistics covering complaints received by Social Security Scotland.
+date_created: ''
+date_updated: '2019-07-12T09:01:36Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Feedback statistics covering complaints received by Social Security Scotland.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-feedback-complaints
 records: null

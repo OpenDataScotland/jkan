@@ -3,13 +3,13 @@ category:
 - Food and Environment
 - Housing and Estates
 date_created: ''
-date_updated: '2018-01-04'
-license: This dataset shows the boundaries of North Ayrshire allotments and states
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: <p>This dataset shows the boundaries of North Ayrshire allotments and states
   the availability of plots within them. Availability codes are full burial (FB),
   memorial gardens for cremated remains (CR), memorial gardens for babies (B), woodland
-  burial (W).
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  burial (W).</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::cemeteries
 records: null

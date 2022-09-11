@@ -2,8 +2,10 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2018-10-30'
-license: "<span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
   \ none; -webkit-tap-highlight-color: transparent; font-size: 10.5pt; font-family:\
   \ &quot;Avenir Next&quot;, &quot;Avenir Next_MSFontService&quot;, sans-serif; font-kerning:\
   \ none; line-height: 18.3458px; font-variant-ligatures: none !important;'><span\
@@ -90,9 +92,7 @@ license: "<span style='margin: 0px; padding: 0px; user-select: text; -webkit-use
   \ padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color:\
   \ transparent; color: rgb(0, 0, 0); font-size: 10.5pt; line-height: 18.3458px; font-family:\
   \ &quot;Avenir Next&quot;, &quot;Avenir Next_MSFontService&quot;, sans-serif;'>\_\
-  </span>"
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  </span></p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::poverty-alleviating-grants-index-by-dz-2017-18
 records: null

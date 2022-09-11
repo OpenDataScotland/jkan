@@ -2,12 +2,12 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: '2022-03-31'
-license: <span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>The
-  boundaries for each polling station district used in elections.</span>
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>The boundaries for each polling station district used in elections.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/e56a3c00197543caaeb161aeffc9c3ec_28
 records: null

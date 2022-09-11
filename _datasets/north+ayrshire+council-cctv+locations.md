@@ -4,10 +4,10 @@ category:
 - Planning and Development
 - Public Safety
 date_created: ''
-date_updated: '2018-11-01'
-license: Shows the location, type and coverage of North Ayrshire Council CCTV cameras.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Shows the location, type and coverage of North Ayrshire Council CCTV cameras.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::cctv-locations
 records: null

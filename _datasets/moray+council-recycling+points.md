@@ -3,15 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: Details of name and location
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
-notes: <p>Web Scraped</p>
+notes: <p>Details of name and location</p>
 organization: Moray Council
 original_dataset_link: http://www.moray.gov.uk/moray_standard/page_110140.html
-records: null
+records: 23
 resources:
-- format: '23.0'
-  name: '23.0'
+- format: CSV
+  name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/RecyclingPoints.csv
 schema: default
 title: Recycling Points

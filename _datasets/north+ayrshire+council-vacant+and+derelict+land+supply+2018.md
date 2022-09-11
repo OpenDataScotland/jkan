@@ -3,10 +3,10 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: '2020-02-24'
-license: Boundaries of areas of Vacant and Derelict Land within North Ayrshire.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Boundaries of areas of Vacant and Derelict Land within North Ayrshire.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::vacant-and-derelict-land-supply-2018
 records: null

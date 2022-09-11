@@ -2,12 +2,12 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: '2018-06-04'
-license: This dataset shows the number of calls in the council Contact Centre that
-  have been answered, abandoned and redirected. It is shown as an absolute number
-  and as a percentage of the calls for that period.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This dataset shows the number of calls in the council Contact Centre that
+  have been answered, abandoned and redirected. It is shown as an absolute number
+  and as a percentage of the calls for that period.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::contact-centre-call-performance
 records: null

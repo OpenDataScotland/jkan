@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: '2020.0'
-date_updated: ''
-license: ''
+date_created: ''
+date_updated: '2020.0'
+license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'']'
 maintainer: National Library of Scotland
-notes: <p>Web Scraped</p>
+notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/advocates-library-catalogues/
-records: null
+records: 762
 resources:
-- format: '762.0'
-  name: '762.0'
+- format: ZIP
+  name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-advocates.zip
 schema: default
 title: Advocates Library Catalogues

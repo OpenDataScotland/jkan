@@ -4,10 +4,10 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: '2016-04-25'
-license: Sites of Interest for Nature Conservation
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Sites of Interest for Nature Conservation</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::sinc
 records: null

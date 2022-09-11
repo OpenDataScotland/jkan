@@ -2,11 +2,11 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: '2021-08-12'
-license: Graffiti incidences observed and logged by community enforcement patrols
-  and by the public in Glasgow.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Graffiti incidences observed and logged by community enforcement patrols
+  and by the public in Glasgow.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::graffiti-incidences
 records: null

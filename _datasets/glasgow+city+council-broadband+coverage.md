@@ -2,12 +2,12 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2021-09-14'
-license: Coverage data from mobile and fixed telecoms operators, as of May 2019, including
-  coverage by type and extent. Limited data available for Glasgow such asdata zone.
-  Sourced from Ofcom and provided via the Open Government License.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Coverage data from mobile and fixed telecoms operators, as of May 2019,
+  including coverage by type and extent. Limited data available for Glasgow such asdata
+  zone. Sourced from Ofcom and provided via the Open Government License.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::broadband-coverage
 records: null

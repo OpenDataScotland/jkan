@@ -1,12 +1,12 @@
 ---
 category:
 - Uncategorised
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2022-05-10'
-license: The geography Entities (levels such as Council Area - S12) and Instances
-  (areas such as Glasgow City - S12000046)
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>The geography Entities (levels such as Council Area - S12) and Instances
+  (areas such as Glasgow City - S12000046)</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/standard-geography-code-register
 records: null

@@ -2,12 +2,12 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2021-12-13'
-license: Spatial Data layers referenced in City Development Plan Policy and Proposals
-  & Supplementary Guidance Maps. Third party data displayed in the above mentioned
-  maps are not included herein.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Spatial Data layers referenced in City Development Plan Policy and Proposals
+  &amp; Supplementary Guidance Maps. Third party data displayed in the above mentioned
+  maps are not included herein.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::resource-management-waste-transfer-stations-cdp5
 records: null

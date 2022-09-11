@@ -2,12 +2,12 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: '2021-07-19'
-license: Captures the number of CCTV incidents logged by control staff for Glasgow.
-  Operators capture a range of incidents relating to public safety, anti social behaviour
-  or criminality.
+date_updated: ''
+license: No licence
 maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+notes: <p>Captures the number of CCTV incidents logged by control staff for Glasgow.
+  Operators capture a range of incidents relating to public safety, anti social behaviour
+  or criminality.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cctv-incidents-logged-1
 records: null

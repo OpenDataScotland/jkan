@@ -1,11 +1,11 @@
 ---
 category:
 - Food and Environment
-date_created: '2014-07-29T00:00:00Z'
-date_updated: '2022-04-12'
-license: Household waste presented by waste category and method of management
+date_created: ''
+date_updated: '2014-07-29T00:00:00Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Environment Protection Agency
-notes: <p>manual extraction</p>
+notes: <p>Household waste presented by waste category and method of management</p>
 organization: Scottish Environment Protection Agency
 original_dataset_link: http://statistics.gov.scot/data/household-waste
 records: null

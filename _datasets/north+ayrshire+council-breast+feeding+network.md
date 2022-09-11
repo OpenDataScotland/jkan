@@ -2,10 +2,10 @@
 category:
 - Health and Social Care
 date_created: ''
-date_updated: '2020-02-12'
-license: 'Breast feed happily here venues in North Ayrshire. '
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Breast feed happily here venues in North Ayrshire. </p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::breast-feeding-network
 records: null

@@ -1,12 +1,12 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-08-23T15:09:40Z'
-date_updated: '2021-09-03'
-license: The number and percentage of long stay residents by various health characteristics
-  and those requiring nursing care, for different main client groups.
+date_created: ''
+date_updated: '2019-08-23T15:09:40Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>manual extraction</p>
+notes: <p>The number and percentage of long stay residents by various health characteristics
+  and those requiring nursing care, for different main client groups.</p>
 organization: Public Health Scotland
 original_dataset_link: http://statistics.gov.scot/data/care-homes-health-characteristics-of-residents
 records: null

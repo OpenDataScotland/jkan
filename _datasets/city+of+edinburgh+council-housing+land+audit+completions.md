@@ -3,12 +3,12 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2021-11-24'
-license: Housing Land Audit Sites. Annual assessment of the housing land supply. Spatial
-  and non-spatial data derived from planning applications. This is the 2021 Housing
-  Land Audit Completion data.
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p>Housing Land Audit Sites. Annual assessment of the housing land supply.
+  Spatial and non-spatial data derived from planning applications. This is the 2021
+  Housing Land Audit Completion data.</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/c68cf24e74174488b5f042a0b2ac5b49_14
 records: null

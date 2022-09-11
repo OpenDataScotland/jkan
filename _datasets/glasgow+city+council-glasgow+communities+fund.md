@@ -3,14 +3,14 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: '2021-09-06'
-license: "Open to eligible third sector, voluntary and community organisations across\
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: "<p>Open to eligible third sector, voluntary and community organisations across\
   \ Glasgow, the fund, worth more than \xA360million over three years, will support\
   \ services and activities that improve the health, well-being, social and economic\
   \ position of communities and individuals.  The data provide awards made covering\
-  \ the period 2020/21 to 2022/23.  "
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+  \ the period 2020/21 to 2022/23.  </p>"
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::glasgow-communities-fund-3
 records: null

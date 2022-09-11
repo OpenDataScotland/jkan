@@ -2,16 +2,16 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2020-02-13'
-license: LNRs  are  established  in  a  variety   of locations  with  very varied  habitats  and
+date_updated: ''
+license: No licence
+maintainer: North Ayrshire Council
+notes: <p>LNRs  are  established  in  a  variety   of locations  with  very varied  habitats  and
   species.  They must lie wholly  within  the area of jurisdiction of the local authority
   which  declares them to be reserves.  Prior to  such  declaration, the local  authority
   must  own  or lease the site or  obtain  an agreement from the owner.   LNRs  are  generally
   smaller than NNRs  and closer  to centres of population. They  are frequently  provided
   for the enjoyment and education of local people whose involvement in site management
-  is encouraged.
-maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+  is encouraged.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-local-nature-reserves
 records: null

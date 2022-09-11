@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2016-12-12T16:02:33Z'
-date_updated: '2022-05-11'
-license: Number of dwellings by number of rooms within the dwelling
+date_created: ''
+date_updated: '2016-12-12T16:02:33Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>manual extraction</p>
+notes: <p>Number of dwellings by number of rooms within the dwelling</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/dwellings-rooms
 records: null

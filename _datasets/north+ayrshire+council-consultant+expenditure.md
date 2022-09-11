@@ -2,10 +2,10 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2019-09-12'
-license: North Ayrshire Council Consultant Expenditure
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>North Ayrshire Council Consultant Expenditure</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::consultant-expenditure
 records: null

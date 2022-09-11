@@ -2,10 +2,10 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2019-12-04'
-license: '{{description}}'
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>{{description}}</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::non-domestic-rates
 records: null

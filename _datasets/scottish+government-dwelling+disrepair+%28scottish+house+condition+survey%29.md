@@ -2,14 +2,14 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2018-03-28T17:16:51Z'
-date_updated: '2020-11-26'
-license: 'The proportion of households with any (basic) disrepair, disrepair to critical
+date_created: ''
+date_updated: '2018-03-28T17:16:51Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: Scottish Government
+notes: <p>The proportion of households with any (basic) disrepair, disrepair to critical
   elements, urgent disrepair or extensive disrepair to their dwelling, by dwelling
   types,  household characteristics and council area. Derived from the Scottish House
-  Condition Survey (SHCS). '
-maintainer: Scottish Government
-notes: <p>manual extraction</p>
+  Condition Survey (SHCS). </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/dwelling-disrepair-scottish-house-condition-survey
 records: null

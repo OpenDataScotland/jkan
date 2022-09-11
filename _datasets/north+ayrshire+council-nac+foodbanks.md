@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2019-08-20'
-license: This layer shows the location of Foodbanks within North Ayrshire.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>This layer shows the location of Foodbanks within North Ayrshire.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::nac-foodbanks
 records: null

@@ -2,10 +2,10 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2017-04-12'
-license: North Lanarkshire Council
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>North Lanarkshire Council</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/content/nlcmaps::north-lanarkshire-council-gis-open-data
 records: null

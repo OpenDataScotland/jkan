@@ -2,17 +2,17 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2021-05-27'
-license: <span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
   sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal;
   font-weight:400; letter-spacing:normal; text-align:start; text-indent:0px; text-transform:none;
   word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial;
   text-decoration-color:initial; display:inline !important;'>This dataset shows priority
   1 road gritting routes, priority 1 pavement gritting routes and local priority pavement
-  gritting routes.</span>
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  gritting routes.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/ff0c918558bc435e9bb9fc313930a230_9
 records: null

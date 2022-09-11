@@ -4,12 +4,12 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: '2018-02-27'
-license: "<p>Secondary school catchment areas in Highland.\_</p><p>Gemini metadata\
+date_updated: ''
+license: No licence
+maintainer: Highland Council
+notes: "<p>Secondary school catchment areas in Highland.\_</p>\n<p>Gemini metadata\
   \ record is at <a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Be7b26e01-6aa9-4a91-8f7d-7e4f5bc631c1%7D'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Be7b26e01-6aa9-4a91-8f7d-7e4f5bc631c1%7D</a>.</p>"
-maintainer: Highland Council
-notes: <p>DCAT feed</p>
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::secondary-school-catchments
 records: null

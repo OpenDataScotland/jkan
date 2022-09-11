@@ -2,12 +2,12 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2016-12-13T15:19:51Z'
-date_updated: '2022-05-11'
-license: The median number of rooms in dwellings for data zones, council areas and
-  Scotland.
+date_created: ''
+date_updated: '2016-12-13T15:19:51Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>manual extraction</p>
+notes: <p>The median number of rooms in dwellings for data zones, council areas and
+  Scotland.</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/dwellings-median-number-of-rooms
 records: null

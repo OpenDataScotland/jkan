@@ -1,14 +1,14 @@
 ---
 category:
 - Planning and Development
-date_created: '2022-03-22'
+date_created: ''
 date_updated: '2022-03-22'
-license: ''
+license: No licence
 maintainer: South Ayrshire Council
-notes: <p>arcgis API</p>
+notes: ''
 organization: South Ayrshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=1609d57bcd174191bffdeef19541fe1c
-records: null
+records: 4
 resources: []
 schema: default
 title: Significant Protection Area

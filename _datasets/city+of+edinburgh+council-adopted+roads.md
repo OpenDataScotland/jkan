@@ -2,8 +2,10 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2022-05-03'
-license: "<span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&quot;,\
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: "<p><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&quot;,\
   \ &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida Sans&quot;,\
   \ Tahoma, sans-serif; font-size:16px; background-color:rgb(249, 249, 249);'>Adopted\
   \ roads are roads, streets, footpaths and verges that are managed and maintained\
@@ -11,9 +13,7 @@ license: "<span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&quo
   \ the road is built.\_</span><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet\
   \ MS&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida\
   \ Sans&quot;, Tahoma, sans-serif; font-size:16px; background-color:rgb(249, 249,\
-  \ 249);'>Until a road has been adopted it remains private.</span>"
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  \ 249);'>Until a road has been adopted it remains private.</span></p>"
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::adopted-roads-1
 records: null

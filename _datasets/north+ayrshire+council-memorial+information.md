@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: '2019-09-11'
-license: Shows the location of Memorials within North Ayrshire cemeteries and also
-  gives their Section, Layer Number and the Surname of who was buried there.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Shows the location of Memorials within North Ayrshire cemeteries and also
+  gives their Section, Layer Number and the Surname of who was buried there.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::memorial-information
 records: null

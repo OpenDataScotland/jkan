@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: '2020.0'
-date_updated: ''
-license: ''
+date_created: ''
+date_updated: '2020.0'
+license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'']'
 maintainer: National Library of Scotland
-notes: <p>Web Scraped</p>
+notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/british-air-force-lists/
-records: null
+records: 1358
 resources:
-- format: '1358.0'
-  name: '1358.0'
+- format: ZIP
+  name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-airForceLists.zip
 schema: default
 title: British Air Force Lists

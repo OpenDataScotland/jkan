@@ -2,10 +2,10 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2021-05-27'
-license: Special Landscape Areas from the Local Developement Plan for Edinburgh Council
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p>Special Landscape Areas from the Local Developement Plan for Edinburgh Council</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/d5ddbf730de745b6a6494835d598ad98_35
 records: null

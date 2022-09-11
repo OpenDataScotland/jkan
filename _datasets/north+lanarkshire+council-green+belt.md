@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2016-04-25'
-license: Green Belt areas in North Lanarkshire
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Green Belt areas in North Lanarkshire</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::green-belt
 records: null

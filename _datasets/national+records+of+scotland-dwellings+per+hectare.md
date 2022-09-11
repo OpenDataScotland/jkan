@@ -2,11 +2,11 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2017-02-10T14:01:49Z'
-date_updated: '2022-06-23'
-license: Number of dwellings per hectare.
+date_created: ''
+date_updated: '2017-02-10T14:01:49Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
-notes: <p>manual extraction</p>
+notes: <p>Number of dwellings per hectare.</p>
 organization: National Records of Scotland
 original_dataset_link: http://statistics.gov.scot/data/dwellings-hectare
 records: null

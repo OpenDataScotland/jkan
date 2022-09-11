@@ -2,11 +2,11 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2018-11-05'
-license: Boundaries of Town Centres and Retailing within North Ayrshire as set out
-  in the Adopted Local Development Plan 2
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Boundaries of Town Centres and Retailing within North Ayrshire as set out
+  in the Adopted Local Development Plan 2</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-town-centres-and-retailing
 records: null

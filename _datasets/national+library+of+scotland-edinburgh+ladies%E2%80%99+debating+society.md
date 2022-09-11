@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: '2019.0'
-date_updated: ''
-license: ''
+date_created: ''
+date_updated: '2019.0'
+license: 'Custom licence: [''http://rightsstatements.org/vocab/NKC/1.0/'']'
 maintainer: National Library of Scotland
-notes: <p>Web Scraped</p>
+notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/edinburgh-ladies-debating-society/
-records: null
+records: 634
 resources:
-- format: '634.0'
-  name: '634.0'
+- format: ZIP
+  name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-ladiesDebating.zip
 schema: default
 title: "Edinburgh Ladies\u2019 Debating Society"

@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2018-04-11T12:02:40Z'
-date_updated: '2022-05-18'
-license: Number and rate (percent) of VAT/PAYE business survival.
+date_created: ''
+date_updated: '2018-04-11T12:02:40Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Number and rate (percent) of VAT/PAYE business survival.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/business-demography---survival
 records: null

@@ -1,12 +1,12 @@
 ---
 category:
 - Business and Economy
-date_created: '2017-05-17T15:42:10Z'
-date_updated: '2020-08-28'
-license: Geographical analysis of Child Benefit at small area levels. Number of children
-  in a live Child Benefit award as at 31st August.
+date_created: ''
+date_updated: '2017-05-17T15:42:10Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: HM Revenue and Customs
-notes: <p>manual extraction</p>
+notes: <p>Geographical analysis of Child Benefit at small area levels. Number of children
+  in a live Child Benefit award as at 31st August.</p>
 organization: HM Revenue and Customs
 original_dataset_link: http://statistics.gov.scot/data/child-benefit
 records: null

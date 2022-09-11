@@ -3,8 +3,10 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: '2022-01-13'
-license: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><span style='max-width:100%;\
   \ display:inherit;'>All 23 Area Partnerships in Glasgow are allocated an area budget\
@@ -18,8 +20,6 @@ license: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-
   \ invited at any time, with grants under \xA3500 awarded on a regular basis, and\
   \ larger awards decided at Area Partnership meetings (normally four times per year,\
   \ maximum limits apply).</span><div><br /></div></p>"
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
 records: null

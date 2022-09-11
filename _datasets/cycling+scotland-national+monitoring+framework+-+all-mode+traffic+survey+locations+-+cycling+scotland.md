@@ -1,21 +1,21 @@
 ---
 category:
 - Transportation
-date_created: '2019-10-29T14:22:23.676Z'
-date_updated: '2020-04-20'
-license: '"This dataset holds the locations for all of Cycling Scotland''s all-mode
-  traffic counts across Scotland, including the dates the counts were undertaken"'
+date_created: ''
+date_updated: '2019-10-29T14:22:23.676Z'
+license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
-notes: <p>USMART API</p>
+notes: <p>"This dataset holds the locations for all of Cycling Scotland's all-mode
+  traffic counts across Scotland, including the dates the counts were undertaken"</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc
 records: null
 resources:
-- format: ''
-  name: ''
+- format: JSON
+  name: JSON
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9dab7bac-c9ca-4c4f-9daa-d2617b328017/1/urql
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393
 schema: default
 title: National Monitoring Framework - all-mode traffic survey locations - Cycling

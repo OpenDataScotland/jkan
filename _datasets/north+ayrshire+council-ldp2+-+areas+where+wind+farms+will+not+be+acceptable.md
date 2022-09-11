@@ -2,11 +2,11 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2020-02-13'
-license: These are the Areas where wind farms will not be acceptable within North
-  Ayrshire as set out in the Adopted Local Development Plan 2
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>These are the Areas where wind farms will not be acceptable within North
+  Ayrshire as set out in the Adopted Local Development Plan 2</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-areas-where-wind-farms-will-not-be-acceptable
 records: null

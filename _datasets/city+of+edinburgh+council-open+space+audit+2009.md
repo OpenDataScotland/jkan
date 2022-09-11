@@ -2,8 +2,10 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2021-05-25'
-license: "<span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,\
+date_updated: ''
+license: No licence
+maintainer: City of Edinburgh Council
+notes: "<p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,\
   \ &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica\
   \ Neue&quot;, sans-serif; font-size:16px; font-style:normal; font-variant-ligatures:normal;\
   \ font-variant-caps:normal; font-weight:400; letter-spacing:normal; text-align:start;\
@@ -15,9 +17,7 @@ license: "<span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   \ of an open space strategy is a recent requirement of national planning policy,\
   \ requiring the creation of an audit, a strategy and action plans. The implementation\
   \ of the strategy and action plans will be monitored and every five years, from\
-  \ 2015, the strategy will be reviewed and updated.<br /></span>"
-maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+  \ 2015, the strategy will be reviewed and updated.<br /></span></p>"
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::open-space-audit-2009
 records: null

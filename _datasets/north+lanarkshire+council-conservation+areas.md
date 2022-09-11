@@ -3,10 +3,10 @@ category:
 - Arts / Culture / History
 - Planning and Development
 date_created: ''
-date_updated: '2016-04-25'
-license: Areas of Conservation
+date_updated: ''
+license: No licence
 maintainer: North Lanarkshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Areas of Conservation</p>
 organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::conservation-areas-1
 records: null

@@ -2,11 +2,11 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2020-02-13'
-license: Locations of Electric Vehicle Charging Points within, or close to, North
-  Ayrshire.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Locations of Electric Vehicle Charging Points within, or close to, North
+  Ayrshire.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::electric-vehicle-charging-points
 records: null

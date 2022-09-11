@@ -1,12 +1,12 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-03-14T14:28:52Z'
-date_updated: '2020-12-03'
-license: How safe adults in Scotland feel when alone in their home at night, from
-  the Scottish Household Survey (SHS)
+date_created: ''
+date_updated: '2019-03-14T14:28:52Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>How safe adults in Scotland feel when alone in their home at night, from
+  the Scottish Household Survey (SHS)</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/feeling-safe-when-alone-at-home---scottish-household-survey
 records: null

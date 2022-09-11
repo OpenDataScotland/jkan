@@ -2,11 +2,11 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: '2017-06-15'
-license: Location of surveys of severity of Invasive Species. Reporting on Hogweed,
-  Knotweed and Balsam.
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: <p>Location of surveys of severity of Invasive Species. Reporting on Hogweed,
+  Knotweed and Balsam.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::invasive-species-register
 records: null

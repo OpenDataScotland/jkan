@@ -2,12 +2,12 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2021-09-28'
-license: <font face='Avenir Next, Avenir Next'><span style='font-size:18px; background-color:rgb(248,
-  248, 248);'>The shops database is a record of a comprehensive survey of all shops
-  in Edinburgh to provide a long-term perspective on retail change in the city.</span></font>
+date_updated: ''
+license: No licence
 maintainer: City of Edinburgh Council
-notes: <p>DCAT feed</p>
+notes: <p><font face='Avenir Next, Avenir Next'><span style='font-size:18px; background-color:rgb(248,
+  248, 248);'>The shops database is a record of a comprehensive survey of all shops
+  in Edinburgh to provide a long-term perspective on retail change in the city.</span></font></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/0d85c1d2dda442439bd4d68768ab1f5c_43
 records: null

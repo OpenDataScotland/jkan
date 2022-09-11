@@ -1,11 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2021-05-07T08:15:06Z'
-date_updated: '2022-05-09'
-license: ''
+date_created: ''
+date_updated: '2021-05-07T08:15:06Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: ''
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/information-and-communication-technologies-ict-including-related-industries
 records: null

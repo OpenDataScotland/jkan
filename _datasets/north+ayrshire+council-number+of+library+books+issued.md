@@ -2,10 +2,10 @@
 category:
 - Sport and Leisure
 date_created: ''
-date_updated: '2019-08-29'
-license: "Number of library books issued by type, branch, locality and year.\_"
+date_updated: ''
+license: No licence
 maintainer: North Ayrshire Council
-notes: <p>DCAT feed</p>
+notes: "<p>Number of library books issued by type, branch, locality and year.\_</p>"
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::number-of-library-books-issued
 records: null

@@ -3,9 +3,11 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2022-03-31'
-license: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir\
-  \ Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
+  \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
   \ font-size:16px;'>Glasgow City Council's Licensing and Regulatory Committee is\
   \ responsible for administering the House in Multiple Occupation (HMO) Licensing\
   \ scheme for Glasgow under the Housing (Scotland) Act 2006. In terms of the Housing\
@@ -24,13 +26,11 @@ license: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Aveni
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://www.glasgow.gov.uk/index.aspx?articleid=22540'\
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
   \ ugc noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=22540</a><br\
-  \ /></span></div><div><br /></div><div><span style='font-family:&quot;Avenir Next\
-  \ W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica\
-  \ Neue&quot;, sans-serif;'>The data is updated weekly.</span><br /><span style='font-family:&quot;Avenir\
+  \ /></span></div>\n<div><br /></div>\n<div><span style='font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
-  \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+  \ &quot;Helvetica Neue&quot;, sans-serif;'>The data is updated weekly.</span><br\
+  \ /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,\
+  \ &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
 records: null

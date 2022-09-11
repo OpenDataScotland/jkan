@@ -1,14 +1,14 @@
 ---
 category:
 - Elections / Politics
-date_created: '2017-03-13'
-date_updated: '2022-02-28'
-license: Areas depicting polling districts in South Ayrshire
+date_created: ''
+date_updated: '2017-03-13'
+license: No licence
 maintainer: South Ayrshire Council
-notes: <p>arcgis API</p>
+notes: <p>Areas depicting polling districts in South Ayrshire</p>
 organization: South Ayrshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=80572b43c4b24d73ad2c4851aaeb9151
-records: null
+records: 72
 resources: []
 schema: default
 title: Polling Districts 2022

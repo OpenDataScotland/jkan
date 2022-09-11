@@ -1,12 +1,12 @@
 ---
 category:
 - Education
-date_created: '2018-04-24T15:17:15Z'
-date_updated: '2022-06-05'
-license: 'School leaver average total tariff score: grouped into the lowest 20%, middle
-  60% and highest 20% of attainers for each school'
+date_created: ''
+date_updated: '2018-04-24T15:17:15Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: '<p>School leaver average total tariff score: grouped into the lowest 20%,
+  middle 60% and highest 20% of attainers for each school</p>'
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/attainment-for-all
 records: null

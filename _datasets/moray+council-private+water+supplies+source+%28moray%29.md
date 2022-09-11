@@ -1,9 +1,11 @@
 ---
 category:
 - Food and Environment
-date_created: '2020-12-22'
+date_created: ''
 date_updated: '2020-12-22'
-license: Private Water Supplies Source (Moray)Reg 2 (previously Cat A) are supplies
+license: No licence
+maintainer: Moray Council
+notes: <p>Private Water Supplies Source (Moray)Reg 2 (previously Cat A) are supplies
   which are commercial (including private lets) or more than 50 persons Category B
   are non-commercial with less than 50 persons.NOTE:- The location data we hold for
   the private water supplies is not 100% accurate (easting's and northing's can be
@@ -16,12 +18,10 @@ license: Private Water Supplies Source (Moray)Reg 2 (previously Cat A) are suppl
   infrastructure, U or U1 etc = unused supply infrastructure. Sites marked with "Y"
   confirmed are for sites where we have visited site and obtained more accurate locations.
   The list does not include historic private water supplies. The data is provided
-  based on the best information available to the council at the time of writing.
-maintainer: Moray Council
-notes: <p>arcgis API</p>
+  based on the best information available to the council at the time of writing.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=0e11645746e447f2b8dafabe750f24f2
-records: null
+records: 1472
 resources: []
 schema: default
 title: Private Water Supplies Source (Moray)

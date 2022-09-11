@@ -1,17 +1,17 @@
 ---
 category:
 - Uncategorised
-date_created: '2019.0'
-date_updated: ''
-license: ''
+date_created: ''
+date_updated: '2019.0'
+license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'']'
 maintainer: National Library of Scotland
-notes: <p>Web Scraped</p>
+notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/gazetteers-of-scotland/
-records: null
+records: 1214
 resources:
-- format: '1214.0'
-  name: '1214.0'
+- format: ZIP
+  name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-gazetteersOfScotland.zip
 schema: default
 title: Gazetteers of Scotland

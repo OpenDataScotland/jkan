@@ -1,12 +1,12 @@
 ---
 category:
 - Health and Social Care
-date_created: '2022-09-02T09:40:38.815Z'
-date_updated: '2022-09-02'
-license: Average number of contacts between age groups during each wave of the Scottish
-  Contact Survey.
+date_created: ''
+date_updated: '2022-09-02T09:40:38.815Z'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
-notes: <p>manual extraction</p>
+notes: <p>Average number of contacts between age groups during each wave of the Scottish
+  Contact Survey.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/scottish-contact-survey-contact-matrices
 records: null

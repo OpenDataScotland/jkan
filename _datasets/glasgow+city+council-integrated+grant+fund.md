@@ -3,13 +3,13 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: '2021-06-29'
-license: Glasgow City Council's Integrated Grant Fund (IGF) provides grant funding
+date_updated: ''
+license: No licence
+maintainer: Glasgow City Council
+notes: <p>Glasgow City Council's Integrated Grant Fund (IGF) provides grant funding
   to organisations to deliver high quality and much needed services to the citizens
   of Glasgow. This provides a list of Grant awards made covering the period 2018/2019
-  and 2019/2020.
-maintainer: Glasgow City Council
-notes: <p>DCAT feed</p>
+  and 2019/2020.</p>
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::integrated-grant-fund
 records: null

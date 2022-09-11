@@ -2,22 +2,22 @@
 category:
 - Transportation
 date_created: ''
-date_updated: '2022-06-23'
-license: ''
+date_updated: ''
+license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
-notes: <p>Web Scraped</p>
+notes: ''
 organization: Aberdeenshire Council
 original_dataset_link: https://www.aberdeenshire.gov.uk/online/open-data/
 records: null
 resources:
-- format: ''
-  name: ''
+- format: KMZ
+  name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/opendata/kml/WindTurbineApplications.kmz
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://online.aberdeenshire.gov.uk/apps/opendata/csv/WindTurbineApplications.csv
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/WindTurbineApplications.zip
 schema: default
 title: Wind turbine applications within Aberdeenshire
