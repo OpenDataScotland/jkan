@@ -2,7 +2,7 @@
 schema: default
 title: Education Scotland
 description: An executive agency of Scottish Government
-logo: 'https://upload.wikimedia.org/wikipedia/en/a/a9/Education_Scotland_logo.png'
+logo: 'img/org_logos/education_scotland.png'
 type:
 - Executive agency
 portal_url: ''
