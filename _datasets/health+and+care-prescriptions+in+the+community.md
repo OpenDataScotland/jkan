@@ -257,6 +257,9 @@ resources:
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1b4e3200-b6e6-415f-b19a-b9ef927db1ab/download/pitc202205.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/debeadd8-2bbb-4dd3-82de-831531bab2cb/download/pitc202206.csv
 schema: default
 title: Prescriptions in the Community
 ---

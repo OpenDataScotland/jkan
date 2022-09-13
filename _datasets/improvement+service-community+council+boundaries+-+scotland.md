@@ -18,7 +18,7 @@ notes: <p>Community councils are required to be established by local authorities
   may fall within the gaps. These gaps either require amendment at source or approval
   for the IS to change.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/community_council_boundaries-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/community_council_boundaries-is'
 records: null
 resources:
 - format: WFS

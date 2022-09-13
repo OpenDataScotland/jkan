@@ -29,7 +29,7 @@ notes: '<p>This dataset includes data related to the Community Empowerment (Scot
   for more details.\r\n\r\nSG have provided useful guidance of what the register should
   contain and how it should be formatted (pages 21-23). See https://dtascommunityownership.org.uk/sites/default/files/Asset%20Transfer%20RA%20Guidance%20Notes.pdf</p>'
 organization: Angus Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/community_asset_transfer_register-an'
+original_dataset_link: ' https://data.spatialhub.scot/package/community_asset_transfer_register-an'
 records: null
 resources:
 - format: ''

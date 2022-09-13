@@ -20,7 +20,7 @@ notes: <p>Local Authorities have a duty to designate any relevant areas where th
   in our national schema, though many LAs do not currently provide this.\nRevoked
   AQMAs are now held in this dataset with a 'Date revoked' attribute</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/air_quality_management_areas-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/air_quality_management_areas-is'
 records: null
 resources:
 - format: WFS

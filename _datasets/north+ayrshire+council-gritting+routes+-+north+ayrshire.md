@@ -15,7 +15,7 @@ notes: <p>Each local authority creates gritting routes and regimes to keep their
   the Street Gazetteer will enable us to identify these routes more accurately and
   coherently.</p>
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/gritting_routes-na'
+original_dataset_link: ' https://data.spatialhub.scot/package/gritting_routes-na'
 records: null
 resources:
 - format: ''

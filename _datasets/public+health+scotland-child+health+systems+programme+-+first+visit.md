@@ -9,7 +9,7 @@ notes: <p>The Health Visitor First Visit form is generally completed at around 1
   days after the birth of the child. This begins the child's electronic surveillance
   record and gathers basic identification, family and social data.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/dec04153-f595-41ce-9d7e-5ef0c3fe8289'
+original_dataset_link: ' https://find.researchdata.scot/package/dec04153-f595-41ce-9d7e-5ef0c3fe8289'
 records: null
 resources:
 - format: JSON

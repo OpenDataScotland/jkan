@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   - The name and/or address of the polling place (based on the Corporate Address Gazeteer
   record)</p>
 organization: South Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/polling_places-sl'
+original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-sl'
 records: null
 resources:
 - format: QGIS

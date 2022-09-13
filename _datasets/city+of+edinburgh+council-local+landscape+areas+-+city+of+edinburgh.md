@@ -21,7 +21,7 @@ notes: <p>There are many areas where the scenery is highly valued locally and lo
   name and Website URL (for more information) are now mandatory attributes for this
   dataset.</p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_landscape_designation-ce'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_landscape_designation-ce'
 records: null
 resources:
 - format: ''

@@ -7,14 +7,12 @@ date_created: Average Weekly Charges
 date_updated: '2019-04-30T12:54:04.455315'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Health and care
-notes: <p>Trend data from the annual adult Care Home Census, aggregated to council
-  level and Scotland level. This dataset includes statistics on Care Home residents
-  at a snapshot (31 March) 2010-2021 (excluding 2020)  as well as admissions, discharges
-  and deaths during each financial year 2009/2010 to 2020/2021.\r\n\r\nFurther information
-  on the Care Home Census can be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/">annual
-  publication</a>. All publications and supporting material to this topic area can
-  be found on the <a href="https://www.isdscotland.org/Health-Topics/Health-and-Social-Community-Care/Care-Homes/Census/">ISD
-  Scotland Website</a>.</p>
+notes: <p>Data from the annual Care Home Census for Adults in Scotland.  Data are
+  presented at Scotland and at Local Authority level, and cover the period from 2009/10
+  to 2021/22, excluding the year 2019/20 when the Care Home Census was cancelled due
+  to the COVID-19 pandemic.\r\n\r\nFurther information on the Care Home Census can
+  be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/care-home-census-for-adults-in-scotland-statistics-for-2012-2022/">latest
+  publication report and dashboard</a>.\r\n</p>
 organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/package/care-home-census
 records: null

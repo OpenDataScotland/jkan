@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   - The name and/or address of the polling place (based on the Corporate Address Gazeteer
   record)</p>
 organization: Argyll and Bute Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/polling_places-ab'
+original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-ab'
 records: null
 resources:
 - format: ZIP

@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2022.0'
-license: 'Custom licence: [''https://creativecommons.org/licenses/by/4.0/'']'
+license: Creative Commons Attribution 4.0 International
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

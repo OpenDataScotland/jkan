@@ -21,7 +21,7 @@ notes: <p>There are many areas where the scenery is highly valued locally and lo
   name and Website URL (for more information) are now mandatory attributes for this
   dataset.</p>
 organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_landscape_designation-nl'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_landscape_designation-nl'
 records: null
 resources:
 - format: ''

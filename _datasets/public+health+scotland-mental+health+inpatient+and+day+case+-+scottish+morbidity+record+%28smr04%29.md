@@ -9,7 +9,7 @@ notes: <p>The Mental Health Inpatient and Day Case dataset (SMR04) collects epis
   level data on patients who are receiving care at psychiatric hospitals at the point
   of both admission and discharge.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/24de9d1a-1f48-4c10-b8fc-a3bd7449e191'
+original_dataset_link: ' https://find.researchdata.scot/package/24de9d1a-1f48-4c10-b8fc-a3bd7449e191'
 records: null
 resources:
 - format: JSON

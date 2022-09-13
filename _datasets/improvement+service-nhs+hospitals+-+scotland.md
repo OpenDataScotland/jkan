@@ -12,7 +12,7 @@ notes: <p>This dataset of the name, address, location and Unique Property Refere
   this data has been validated by local government custodians, the data will be actively
   maintained and extracted directly from the One Scotland Gazetteer.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/nhs_hospitals-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/nhs_hospitals-is'
 records: null
 resources:
 - format: WFS

@@ -11,7 +11,7 @@ notes: <p>A council\xa0development plan may designate a green belt around a city
   landscape setting and identity of the settlement; and\n- protecting and providing
   access to open space.\n\nThis dataset has been developed as a polygon layer.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/green_belt-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/green_belt-is'
 records: null
 resources:
 - format: WFS

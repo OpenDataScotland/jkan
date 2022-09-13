@@ -9,7 +9,7 @@ notes: <p>Cohort of over 48,000 birth records (pregnancy, labour, birth and care
   in Dundee. Between 1952-1966.  Contains information on the birthing events such
   as birth weight, date, feeding, and socio economic variables such as parent occupation.</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scotpackage/245bffa9-07c3-40b6-916b-161062cdf674'
+original_dataset_link: ' https://find.researchdata.scot/package/245bffa9-07c3-40b6-916b-161062cdf674'
 records: null
 resources:
 - format: JSON

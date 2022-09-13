@@ -7,7 +7,7 @@ license: No licence
 maintainer: National Records Scotland
 notes: <p>2001 Census</p>
 organization: National Records Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/2001-census'
+original_dataset_link: ' https://find.researchdata.scot/package/2001-census'
 records: null
 resources: []
 schema: default

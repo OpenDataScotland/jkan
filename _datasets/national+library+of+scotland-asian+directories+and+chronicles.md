@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2019.0'
-license: 'Custom licence: [''http://rightsstatements.org/vocab/NKC/1.0/'']'
+license: No licence
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

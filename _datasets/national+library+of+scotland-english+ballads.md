@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: 'Custom licence: [''https://rightsstatements.org/page/NoC-NC/1.0/'']'
+license: Non-Commercial Use Only
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

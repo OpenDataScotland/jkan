@@ -9,7 +9,7 @@ notes: <p>The Outpatients (SMR00) dataset collects episode level data from patie
   on new and follow up appointments at outpatient clinics in all specialities (except
   A&amp;E and Genito-Urinary Medicine).</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/04cb9964-54fb-4529-b09b-735c3daa1c7b'
+original_dataset_link: ' https://find.researchdata.scot/package/04cb9964-54fb-4529-b09b-735c3daa1c7b'
 records: null
 resources:
 - format: JSON

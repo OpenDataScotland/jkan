@@ -29,7 +29,7 @@ notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotlan
   should be used in conjunction with the Article 4 Directions dataset also published
   on a Scotland-wide basis.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/conservation_areas-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/conservation_areas-is'
 records: null
 resources:
 - format: WFS

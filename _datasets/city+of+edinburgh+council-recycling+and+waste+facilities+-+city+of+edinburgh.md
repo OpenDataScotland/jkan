@@ -12,7 +12,7 @@ notes: <p>Most councils will keep a record of their recycling and waste manageme
   landfill sites). Both are a point layer (any provided polygons will have a centroid
   created).</p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/recycling_and_waste_facilities-ce'
+original_dataset_link: ' https://data.spatialhub.scot/package/recycling_and_waste_facilities-ce'
 records: null
 resources:
 - format: ''

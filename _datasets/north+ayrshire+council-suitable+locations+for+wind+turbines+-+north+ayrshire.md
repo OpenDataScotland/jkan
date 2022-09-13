@@ -10,7 +10,7 @@ notes: <p>All local authorities must create a spatial framework assessment of la
   land should be categorised as 1, 2 or 3. We are now attempting to pull all of that
   land into a nation polygon dataset.</p>
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/suitable_locations_for_wind_turbines-na'
+original_dataset_link: ' https://data.spatialhub.scot/package/suitable_locations_for_wind_turbines-na'
 records: null
 resources:
 - format: ''

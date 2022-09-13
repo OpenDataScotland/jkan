@@ -3,8 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: '2019.0'
-license: 'Custom licence: [''https://creativecommons.org/publicdomain/mark/1.0/'',
-  ''http://rightsstatements.org/vocab/NKC/1.0/'']'
+license: Public Domain
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

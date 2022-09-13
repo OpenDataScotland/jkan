@@ -10,7 +10,7 @@ notes: <p>Many local authorities collect details of where the renewable energy s
   we would like to collate what local authorities believe to be the definitive sites
   and data.</p>
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/renewable_energy_sites-na'
+original_dataset_link: ' https://data.spatialhub.scot/package/renewable_energy_sites-na'
 records: null
 resources:
 - format: ''

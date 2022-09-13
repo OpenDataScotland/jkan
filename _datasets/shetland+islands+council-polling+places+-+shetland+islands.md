@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   - The name and/or address of the polling place (based on the Corporate Address Gazeteer
   record)</p>
 organization: Shetland Islands Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/polling_places-si'
+original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-si'
 records: null
 resources:
 - format: ZIP

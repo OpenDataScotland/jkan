@@ -10,7 +10,7 @@ notes: <p>The Scottish Intensive Care Society Audit Group (SICSAG) has maintaine
   in Scotland since 1995. Each line relates to an \u2018episode of care\u2019 in critical
   care.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/6f8182d2-2993-400d-829d-b52cdb324bf3'
+original_dataset_link: ' https://find.researchdata.scot/package/6f8182d2-2993-400d-829d-b52cdb324bf3'
 records: null
 resources:
 - format: JSON

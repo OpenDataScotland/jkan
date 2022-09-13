@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   - The name and/or address of the polling place (based on the Corporate Address Gazeteer
   record)</p>
 organization: Perth and Kinross Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/polling_places-pk'
+original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-pk'
 records: null
 resources:
 - format: ZIP

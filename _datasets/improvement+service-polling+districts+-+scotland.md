@@ -18,7 +18,7 @@ notes: <p>A \u2018polling district\u2019 is a geographical subdivision of an ele
   LA wards can be proposed at any time in response to changes in ward boundaries or
   to the availability of premises that can be reasonably designated as polling places.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/polling_districts-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/polling_districts-is'
 records: null
 resources:
 - format: WFS

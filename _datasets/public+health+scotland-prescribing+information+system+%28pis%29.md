@@ -9,7 +9,7 @@ notes: <p>The Prescribing Information System (PIS) is the definitive data source
   all prescribing relating to all medicines and their costs that are prescribed and
   dispensed in the community in Scotland.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/22e3943e-edb5-44a1-9e4e-22b0f7a31767'
+original_dataset_link: ' https://find.researchdata.scot/package/22e3943e-edb5-44a1-9e4e-22b0f7a31767'
 records: null
 resources:
 - format: JSON

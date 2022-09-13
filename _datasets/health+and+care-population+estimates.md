@@ -7,15 +7,14 @@ date_created: Data Zone (2011) Population Estimates
 date_updated: '2018-02-06T17:22:14.190183'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Health and care
-notes: '<p>Population estimates for all geography types in Scotland:\r\n\r\n- Data
-  Zone (2011) from 2001 to 2020\r\n\r\n- Intermediate Zone (2011) from 2001 to 2020\r\n\r\n-
-  Council Area (2011) from 1981 to 2020\r\n\r\n- Health and Social Care Partnership
-  (2016) from 1981 to 2020\r\n\r\n- Health Board (2014)  from 1981 to 2020\r\n\r\nAll
-  resources include Scotland figures for the relevant time period.\r\n\r\nPopulation
-  estimates are broken down by single year ages and by sex, and gives totals for both.\r\n\r\nBased
-  on 2011 census data.\r\n\r\n_Note: Health and Social Care Partnerships may also
-  be referred to as integrated joint boards or integration authorities by other public
-  bodies._</p>'
+notes: '<p>Population estimates for all geography types in Scotland:\r\n<em>Data Zone
+  (2011) from 2011 to 2021\r\n</em>Intermediate Zone (2011) from 2011 to 2021\r\n<em>Council
+  Area (2019) from 1982 to 2021\r\n</em>Health and Social Care Partnership (2019)
+  from 1982 to 2021\r\n*Health Board (2019)  from 1981 to 2021\r\nAll resources include
+  Scotland figures for the relevant time period.\r\nPopulation estimates are broken
+  down by single year ages and by sex, and gives totals for both.\r\nBased on 2011
+  census data.\r\nNote: Health and Social Care Partnerships may also be referred to
+  as integrated joint boards or integration authorities by other public bodies.</p>'
 organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/package/population-estimates
 records: null
@@ -25,7 +24,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c505f490-c201-44bd-abd1-1bd7a64285ee/download/dz2011-pop-est_07092021fm_fix.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_07092021fm.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_09092022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/09ebfefb-33f4-4f6a-8312-2d14e2b02ace/download/ca2019_pop_est_15072022.csv

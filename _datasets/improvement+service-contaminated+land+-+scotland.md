@@ -30,7 +30,7 @@ notes: '<p>Land is legally defined as ''contaminated'' where substances are caus
   SPATIAL DATASET IS ONLY CONFIRMED (AND REMEDIATED) CONTAMINATED LAND AND DOES NOT
   INCLUDE ''POTENTIALLY'' CONTAMINATED LAND.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/contaminated_land-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/contaminated_land-is'
 records: null
 resources:
 - format: WFS

@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: 'Custom licence: [''https://creativecommons.org/share-your-work/public-domain/cc0'']'
+license: Creative Commons CC0
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

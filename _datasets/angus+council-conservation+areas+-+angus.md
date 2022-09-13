@@ -22,7 +22,7 @@ notes: <p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland
   with associated Article 4 Directions, Article 4 Directions associated with a Conservation
   Area, and a small number of discrete Article 4 Direction areas.</p>
 organization: Angus Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/conservation_areas-an'
+original_dataset_link: ' https://data.spatialhub.scot/package/conservation_areas-an'
 records: null
 resources:
 - format: ZIP

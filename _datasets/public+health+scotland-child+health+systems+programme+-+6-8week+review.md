@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>The 6-8 week review form is generally completed at around 6-8 weeks after
   the birth of the child and is often a health visitor and GP combined review.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/f9cf4be7-fbc9-4601-8beb-5d3c3596bf04'
+original_dataset_link: ' https://find.researchdata.scot/package/f9cf4be7-fbc9-4601-8beb-5d3c3596bf04'
 records: null
 resources:
 - format: JSON

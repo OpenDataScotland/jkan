@@ -7,7 +7,7 @@ license: No licence
 maintainer: Health Informatics Centre
 notes: <p>Accident and Emergency episode level data.</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scotpackage/acfbef89-344c-49a5-8079-7344f4316e0f'
+original_dataset_link: ' https://find.researchdata.scot/package/acfbef89-344c-49a5-8079-7344f4316e0f'
 records: null
 resources:
 - format: JSON

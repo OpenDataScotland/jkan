@@ -9,7 +9,7 @@ notes: <p>The data mart links data from (NHS 24, Scottish Ambulance Service, Out
   Hours Primary Care, Emergency Department, Acute, Mental Health and Deaths) to show
   a Continuous Unscheduled Care Pathway (CUP) for records with a valid CHI number.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/a265af2e-40fc-4759-af61-eab293cdad5a'
+original_dataset_link: ' https://find.researchdata.scot/package/a265af2e-40fc-4759-af61-eab293cdad5a'
 records: null
 resources:
 - format: JSON

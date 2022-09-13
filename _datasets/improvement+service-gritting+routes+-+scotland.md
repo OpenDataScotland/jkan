@@ -15,7 +15,7 @@ notes: '<p>Each local authority creates gritting routes and regimes to keep thei
   aren''t currently under the LA gritting route regime.\n\nEventually, the Street
   Gazetteer will enable us to identify these routes more accurately and coherently.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/gritting_routes-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/gritting_routes-is'
 records: null
 resources:
 - format: WFS

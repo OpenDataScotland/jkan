@@ -7,7 +7,7 @@ license: No licence
 maintainer: Public Health Scotland
 notes: <p>All registrations to the National Records of Scotland of deaths</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/e600dae2-a83c-4b7a-8d23-af4ac31ca374'
+original_dataset_link: ' https://find.researchdata.scot/package/e600dae2-a83c-4b7a-8d23-af4ac31ca374'
 records: null
 resources:
 - format: JSON

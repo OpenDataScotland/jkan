@@ -100,7 +100,7 @@ notes: '<p>All GHiGs datasets cover the whole of Scotland and have been derived 
   Survey (greenspace and water body data)\n\u2022 Scottish Government (Scotland\u2019s
   Heat Map)\n\u2022 Energy Saving Trust (Home Analytics)</p>'
 organization: Greenspace Scotland
-original_dataset_link: ' https://data.spatialhub.scotpackage/green_heat_in_greenspaces-ghigs'
+original_dataset_link: ' https://data.spatialhub.scot/package/green_heat_in_greenspaces-ghigs'
 records: null
 resources:
 - format: WFS

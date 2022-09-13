@@ -9,7 +9,7 @@ notes: <p>The Scottish Birth Record (SBR) records baby's neonatal care in Scotla
   readmissions and transfers in one electronic record. SBR is completed for all births
   in Scotland including stillbirths and home births.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/81c53293-ef64-4507-8fcf-2a254dc19936'
+original_dataset_link: ' https://find.researchdata.scot/package/81c53293-ef64-4507-8fcf-2a254dc19936'
 records: null
 resources:
 - format: JSON

@@ -7,7 +7,7 @@ license: No licence
 maintainer: Health Informatics Centre
 notes: <p>NHS Tayside health board bowel screening program.\n\n</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scotpackage/00201dde-1faf-41d3-b282-5c24c0ca3697'
+original_dataset_link: ' https://find.researchdata.scot/package/00201dde-1faf-41d3-b282-5c24c0ca3697'
 records: null
 resources:
 - format: JSON

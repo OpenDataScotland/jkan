@@ -13,7 +13,7 @@ notes: <p>Each Local Authority should have a list of libraries within their Coun
   information on Libraries in Scotland (inc. non-LA libraries) is available from The
   Scottish Library and Information Council (https://scottishlibraries.org/)</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/libraries-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/libraries-is'
 records: null
 resources:
 - format: WFS

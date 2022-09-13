@@ -9,7 +9,7 @@ notes: <p>The Maternity Inpatient and Day Case dataset (SMR02) collects episode 
   data every time a mother goes in for an obstetric event (this can be an antenatal,
   delivery or postnatal episode).</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/d47c809f-3da8-4f8a-b1ee-258d21aad530'
+original_dataset_link: ' https://find.researchdata.scot/package/d47c809f-3da8-4f8a-b1ee-258d21aad530'
 records: null
 resources:
 - format: JSON

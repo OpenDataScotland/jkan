@@ -12,7 +12,7 @@ notes: <p>This dataset of the name, address, location and unique IDs of every ol
   the data will help feed the Care Inspectorate data and be updated on a regular basis
   (most likely quarterly).</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/care_homes_for_older_people-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/care_homes_for_older_people-is'
 records: null
 resources:
 - format: WFS

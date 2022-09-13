@@ -17,7 +17,7 @@ notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation 
   Nature Conservation. We have merged these all into this national dataset.\n\nSeveral
   LAs are still to confirm and digitise their LNCSs.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_nature_conservation_sites-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_nature_conservation_sites-is'
 records: null
 resources:
 - format: WFS

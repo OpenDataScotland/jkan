@@ -9,7 +9,7 @@ notes: <p>Follow-COVID is a study of over 100 patients across multiple regions w
   Scotland over the course of 6 years. \n\nThe study seeks to identify the long term
   consequences and future care needs of COVID-19 survivors.\n</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scotpackage/e50d2b20-ef95-43fe-bbf0-83224d88e480'
+original_dataset_link: ' https://find.researchdata.scot/package/e50d2b20-ef95-43fe-bbf0-83224d88e480'
 records: null
 resources:
 - format: JSON

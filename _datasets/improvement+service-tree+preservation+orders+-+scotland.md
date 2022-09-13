@@ -27,7 +27,7 @@ notes: <p>Whilst TPOs are a legal requirement they may not always be digitised a
   methodology in due course as we know that there is a discrepancy with Registers
   of Scotland's TPO data.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/tree_preservation_orders-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/tree_preservation_orders-is'
 records: null
 resources:
 - format: WFS

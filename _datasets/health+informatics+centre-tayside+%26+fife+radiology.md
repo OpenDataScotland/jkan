@@ -10,7 +10,7 @@ notes: <p>Extracts from local health board Radiology Information System (RIS). -
   booking system information, imaging modality, body part and text based radiology
   report.</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scotpackage/af10ec29-1866-4726-b33f-3948afe182f2'
+original_dataset_link: ' https://find.researchdata.scot/package/af10ec29-1866-4726-b33f-3948afe182f2'
 records: null
 resources:
 - format: JSON

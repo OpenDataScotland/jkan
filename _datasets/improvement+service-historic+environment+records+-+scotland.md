@@ -34,7 +34,7 @@ notes: '<p>HERs (Historic Environment Records) developed out of SMRs (Sites and 
   when using the WFS for this dataset, because of it''s size you should use it with
   a filter.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/historic_environment_records-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/historic_environment_records-is'
 records: null
 resources:
 - format: WFS

@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>NHS Boards provide Primary Care OOH services for patients when their registered
   GP Practice is closed.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/731dc868-3e79-4722-9b79-6bb8dec9435b'
+original_dataset_link: ' https://find.researchdata.scot/package/731dc868-3e79-4722-9b79-6bb8dec9435b'
 records: null
 resources:
 - format: JSON

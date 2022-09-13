@@ -7,7 +7,7 @@ license: No licence
 maintainer: Public Health Scotland
 notes: <p>All Registrations to the National Records of Scotland of stillbirths.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/dca0c95b-ae7d-4163-8c3b-a881f779df02'
+original_dataset_link: ' https://find.researchdata.scot/package/dca0c95b-ae7d-4163-8c3b-a881f779df02'
 records: null
 resources:
 - format: JSON

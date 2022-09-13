@@ -12,7 +12,7 @@ notes: <p>Councils collect various datasets to do with their cycle network. Thes
   parking facilities will be captured in the Street Furniture dataset and should not
   be uploaded here.</p>
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/cycling_network-na'
+original_dataset_link: ' https://data.spatialhub.scot/package/cycling_network-na'
 records: null
 resources:
 - format: ''

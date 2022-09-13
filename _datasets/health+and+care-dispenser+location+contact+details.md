@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 - Planning and Development
-date_created: Dispenser Details January 2022
+date_created: Dispenser Details April 2022
 date_updated: '2019-03-26T09:47:51.138543'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Health and care
@@ -14,6 +14,9 @@ organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/package/dispenser-location-contact-details
 records: null
 resources:
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/9e23f4c2-5d23-4786-9b87-9e64e4fc1f85/download/dispenser_contactdetails_apr2022.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/e63c2b3c-766f-463c-aa2d-91fecf9f5788/download/dispenser_contactdetails_jan2022.csv

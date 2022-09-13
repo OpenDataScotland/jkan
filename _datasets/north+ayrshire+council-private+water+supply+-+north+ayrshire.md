@@ -20,7 +20,7 @@ notes: '<p>The Water Intended for Human Consumption (Private Supplies) (Scotland
   of addresses which are served by the specific PWS source.\r\n\r\n"UPRN" and "address"
   are MANDATORY fields for both these layers in this dataset.</p>'
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/private_water_supply-na'
+original_dataset_link: ' https://data.spatialhub.scot/package/private_water_supply-na'
 records: null
 resources:
 - format: ''

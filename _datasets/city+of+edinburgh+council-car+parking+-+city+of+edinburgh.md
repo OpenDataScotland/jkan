@@ -12,7 +12,7 @@ notes: <p>Most councils will keep a record of their car parks, bays and zones. T
   have been buffered (bays by 2m, car parks by 10m) to create a representative area,
   allowing them to be incorporated in the national dataset</p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/car_parking-ce'
+original_dataset_link: ' https://data.spatialhub.scot/package/car_parking-ce'
 records: null
 resources:
 - format: ''

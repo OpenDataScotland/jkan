@@ -16,7 +16,7 @@ notes: <p>Local government in Scotland comprises 32 unitary local authorities, w
   local authority boundaries, however, the definitive dataset is delineated by Ordnance
   Survey for inclusion in their BoundaryLine product.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_authority_boundaries-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_authority_boundaries-is'
 records: null
 resources:
 - format: WFS

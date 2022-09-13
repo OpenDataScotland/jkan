@@ -8,7 +8,7 @@ maintainer: Improvement Service
 notes: <p>This dataset is an amalgamation of all Scottish Council Asset Registers
   based (partly) on LAs Community Asset Transfer Registers and previous ePIMS submissions.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/council_asset_register-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/council_asset_register-is'
 records: null
 resources:
 - format: WFS

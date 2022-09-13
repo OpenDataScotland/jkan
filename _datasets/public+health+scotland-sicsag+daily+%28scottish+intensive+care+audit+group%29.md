@@ -9,7 +9,7 @@ notes: <p>The Scottish Intensive Care Society Audit Group (SICSAG) has maintaine
   a national database of patients admitted to adult general Intensive Care Units (ICU)
   in Scotland since 1995. Each line relates to a day of stay in critical care.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scotpackage/811a54fb-8b79-442f-8e28-a725a0561a15'
+original_dataset_link: ' https://find.researchdata.scot/package/811a54fb-8b79-442f-8e28-a725a0561a15'
 records: null
 resources:
 - format: JSON

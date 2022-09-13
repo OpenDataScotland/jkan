@@ -32,7 +32,7 @@ notes: '<p>This dataset contains areas classified by their suitability for onsho
   may no longer be in use, and reference should be made to planning advice on renewable
   energy (February 2017) at https://www.gov.scot/publications/renewables-planning-advice-index/</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/wind_turbine_spatial_framework-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/wind_turbine_spatial_framework-is'
 records: null
 resources:
 - format: WFS

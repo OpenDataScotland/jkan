@@ -5,9 +5,11 @@ category:
 - Tourism
 date_created: ArcGIS Hub Dataset
 date_updated: '2022-08-18T11:37:07.141048'
-license: No licence
+license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
-notes: ''
+notes: <p>The location of Public toilets and comfort schemes (free to use public toilets
+  through partnerships with local service providers such as hotels, pubs and public
+  buildings) within the Perth and Kinross area.</p>
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/package/public-toilets-and-comfort-schemes
 records: null

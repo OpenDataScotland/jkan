@@ -19,7 +19,7 @@ notes: <p>There are many areas where the scenery is highly valued locally and lo
   National Scenic Area designation, which identifies those landscapes that are seen
   as nationally important owing to their unsurpassed scenery.\nhttps://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/local-designations/local-landscape-areas</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_landscape_areas-is'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_landscape_areas-is'
 records: null
 resources:
 - format: WFS

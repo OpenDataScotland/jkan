@@ -13,7 +13,7 @@ notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation 
   for local authorities on the establishment and management of LNCS systems in Scotland.
   </p>
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scotpackage/local_nature_conservation_sites-sa'
+original_dataset_link: ' https://data.spatialhub.scot/package/local_nature_conservation_sites-sa'
 records: null
 resources:
 - format: ''
