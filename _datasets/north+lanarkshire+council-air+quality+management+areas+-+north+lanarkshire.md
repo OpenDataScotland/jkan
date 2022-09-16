@@ -10,7 +10,7 @@ notes: <p>This dataset now contains revoked AQMAs.\r\n\r\nSite name, date design
   revocation date (where applicable) type of pollutant and website URL (with more
   information) are now mandatory attributes for this dataset.</p>
 organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scot/package/air_quality_management_areas-nl'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/air_quality_management_areas-nl'
 records: null
 resources:
 - format: ''

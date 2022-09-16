@@ -13,7 +13,7 @@ notes: '<p>This data set is sourced from the NOMIS Website. It shows the Claiman
   Claimant Count by sex and by age\r\n\r\nThe NOMIS website can be accessed by clicking
   here: https://www.nomisweb.co.uk/  \r\nONS Crown Copyright Reserved \t\t\r\n\r\n</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nomis-claimant-count-data
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nomis-claimant-count-data
 records: null
 resources:
 - format: URL

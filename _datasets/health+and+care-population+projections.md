@@ -13,7 +13,7 @@ notes: <p>Population projections for Scotland on a country, NHS health board, he
   information and supporting material to this topic area can be found on the <a href="https://www.isdscotland.org/Products-and-Services/GPD-Support/Population/Projections/">ISD
   Scotland - Population Projections website</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/population-projections
+original_dataset_link: https://www.opendata.nhs.scot/dataset/population-projections
 records: null
 resources:
 - format: CSV

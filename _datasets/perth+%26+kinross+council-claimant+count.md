@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>Adapted from NOMIS, published under the Open Government Licence. This will
   pull data from October 2015 to the most recent month.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/claimant-count
+original_dataset_link: https://data.pkc.gov.uk/dataset/claimant-count
 records: null
 resources:
 - format: CSV

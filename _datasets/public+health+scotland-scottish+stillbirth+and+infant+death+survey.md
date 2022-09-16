@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>The Scottish Stillbirth and Infant Death Survey (SSBIDS) collects additional
   information on stillbirths, neonatal deaths and late fetal deaths.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/e54d35a6-2e7c-422d-a4a5-a7da930b08f2'
+original_dataset_link: ' https://find.researchdata.scot/dataset/e54d35a6-2e7c-422d-a4a5-a7da930b08f2'
 records: null
 resources:
 - format: JSON

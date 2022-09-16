@@ -27,7 +27,7 @@ notes: <p><strong>This dataset grouping details the output from transport monito
   Roadworks Commissioner</a> can give further details on any planned roadworks throughout
   the country.</strong>\r\n\r\n\r\n\r\n\r\n\r\n</p>
 organization: Transport Survey
-original_dataset_link: https://data.stirling.gov.uk/package/journey-times
+original_dataset_link: https://data.stirling.gov.uk/dataset/journey-times
 records: null
 resources:
 - format: CSV

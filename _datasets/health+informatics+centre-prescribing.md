@@ -7,7 +7,7 @@ license: No licence
 maintainer: Health Informatics Centre
 notes: <p>Community-dispensed primary care prescription data.</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scot/package/6d044471-62d2-4190-b315-503f77d33ef2'
+original_dataset_link: ' https://find.researchdata.scot/dataset/6d044471-62d2-4190-b315-503f77d33ef2'
 records: null
 resources:
 - format: JSON

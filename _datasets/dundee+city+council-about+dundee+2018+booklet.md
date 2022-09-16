@@ -20,7 +20,7 @@ notes: <p>About Dundee is a compilation of frequently requested, useful statisti
   2018 by the Information and Research Team. \r\n\r\nThe booklet is also published
   on the Dundee City Council Website; \r\nhttps://www.dundeecity.gov.uk/sites/default/files/publications/about_dundee_2018.pdf\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/about-dundee-2018-booklet
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/about-dundee-2018-booklet
 records: null
 resources:
 - format: PDF

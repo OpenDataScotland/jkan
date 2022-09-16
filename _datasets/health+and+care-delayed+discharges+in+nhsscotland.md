@@ -18,7 +18,7 @@ notes: <p>These data provide monthly information on the number of hospital bed d
   href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/delayed-discharges-in-nhsscotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/delayed-discharges-in-nhsscotland
 records: null
 resources:
 - format: CSV

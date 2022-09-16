@@ -10,7 +10,7 @@ notes: <p>List of Non Domestic Rates Reliefs (excluding personal data) awarded i
   2021/22 details will be published on a quarterly basis in June, September, December
   and March.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/non-domestic-rates-relief-recipients
+original_dataset_link: http://opendata.angus.gov.uk/dataset/non-domestic-rates-relief-recipients
 records: null
 resources:
 - format: XLSX

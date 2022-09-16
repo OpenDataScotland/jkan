@@ -22,7 +22,7 @@ notes: '<p>These strategies are a requirement that has now been added into the T
   be assessed based on site conditions. To be used in conjunction with the published
   supplementary guidance.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/forestry_and_woodland_strategy-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-is'
 records: null
 resources:
 - format: WFS

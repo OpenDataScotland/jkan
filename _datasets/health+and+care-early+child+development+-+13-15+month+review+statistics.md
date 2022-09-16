@@ -18,7 +18,7 @@ notes: <p>The 13-15 month review is an assessment generally carried out by a hea
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/early-child-development-13-15-month-review-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/early-child-development-13-15-month-review-statistics
 records: null
 resources:
 - format: CSV

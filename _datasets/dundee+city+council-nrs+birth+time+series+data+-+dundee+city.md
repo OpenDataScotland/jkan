@@ -12,7 +12,7 @@ notes: '<p>This data set shows Dundee City birth time series data. The data show
   is available on the National Records of Scotland Website and can be accessed by
   clicking on the link below: \r\n\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births/births-time-series-data</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/birth-time-series-data
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/birth-time-series-data
 records: null
 resources:
 - format: CSV

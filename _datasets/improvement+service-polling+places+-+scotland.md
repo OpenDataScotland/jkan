@@ -21,7 +21,7 @@ notes: <p>A \u2018polling place\u2019 is defined as the building or area in whic
   proposed at any time in response to changes in ward boundaries or to the availability
   of premises that can be reasonably designated as polling places.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-is'
 records: null
 resources:
 - format: WFS

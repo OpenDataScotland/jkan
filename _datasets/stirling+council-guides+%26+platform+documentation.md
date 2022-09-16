@@ -8,7 +8,7 @@ maintainer: Stirling Council
 notes: <p><strong>The resources within this area provide users with information and
   guides on various functions and features of this data publishing platform.</strong>\r\n\r\n</p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/20190214-test-user-guide
+original_dataset_link: https://data.stirling.gov.uk/dataset/20190214-test-user-guide
 records: null
 resources:
 - format: PDF

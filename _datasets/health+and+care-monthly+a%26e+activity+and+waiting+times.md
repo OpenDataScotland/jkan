@@ -16,7 +16,7 @@ notes: <p>Key statistics on new and unplanned return attendances at Accident and
   be found on the <a href="http://www.isdscotland.org/Health-Topics/Emergency-Care/">ISD
   Scotland Website</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/monthly-emergency-department-activity-and-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/monthly-emergency-department-activity-and-waiting-times
 records: null
 resources:
 - format: CSV

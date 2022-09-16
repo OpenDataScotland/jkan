@@ -34,7 +34,7 @@ notes: '<p>The Roll of Honour for the <strong>Great War</strong> (later known as
   href="https://www.aberdeencity.gov.uk/services/libraries-and-archives/aberdeen-city-and-aberdeenshire-archives">Aberdeen
   City and Aberdeenshire Archives</a> web pages are listed as resources below.</p>'
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/aberdeen-city-rolls-of-honour
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/aberdeen-city-rolls-of-honour
 records: null
 resources:
 - format: CSV

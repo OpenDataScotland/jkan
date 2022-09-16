@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>Public Health Scotland is responsible for the collection of information
   on Scottish residents when they are diagnosed with malignant (and some benign) tumours.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/ad36dc03-1856-44de-99b0-1af6f312d86b'
+original_dataset_link: ' https://find.researchdata.scot/dataset/ad36dc03-1856-44de-99b0-1af6f312d86b'
 records: null
 resources:
 - format: JSON

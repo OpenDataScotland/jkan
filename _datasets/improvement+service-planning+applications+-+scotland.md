@@ -40,7 +40,7 @@ notes: '<p>''Development management'' is the name given to the process of decidi
   planning data has currently been removed from this dataset. We will find a solution
   to this in due course</em></p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/planning_applications-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications-is'
 records: null
 resources:
 - format: WFS

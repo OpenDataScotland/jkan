@@ -12,7 +12,7 @@ notes: <p>Ward boundaries from 2017 onwards extracted from the OS Boundary Line 
   Order applies only for the purposes of an election to be held on or after 4th May
   2017</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/pkc-wards
+original_dataset_link: https://data.pkc.gov.uk/dataset/pkc-wards
 records: null
 resources:
 - format: HTML

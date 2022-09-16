@@ -12,7 +12,7 @@ notes: <p>Councils collect various datasets to do with their cycle network. Thes
   parking facilities will be captured in the Street Furniture dataset and should not
   be uploaded here.</p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/package/cycling_network-ce'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-ce'
 records: null
 resources:
 - format: ''

@@ -20,7 +20,7 @@ notes: <p>The Scottish Government publishes its School Level Summary Statistics 
   https://www.gov.scot/publications/school-level-summary-statistics/\r\n\t\t\t\t\t\t\t\t\t\t\r\n\xa9
   Crown Copyright\r\n\r\n </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/school-pupil-rolls-and-fte-teachers
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-pupil-rolls-and-fte-teachers
 records: null
 resources:
 - format: CSV

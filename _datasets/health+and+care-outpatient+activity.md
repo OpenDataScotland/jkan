@@ -26,7 +26,7 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications (external website)</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/outpatient-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
 records: null
 resources:
 - format: CSV

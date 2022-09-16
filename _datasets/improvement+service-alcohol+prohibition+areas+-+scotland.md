@@ -15,7 +15,7 @@ notes: <p>Local authorities have the power to make by-laws to prohibit the drink
   Glasgow and Edinburgh have such by-laws. They range from a total ban on drinking
   at all times, to a ban at specified times or on specified days.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/alcohol_prohibition_areas-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-is'
 records: null
 resources:
 - format: WFS

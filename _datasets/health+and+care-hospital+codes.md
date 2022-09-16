@@ -12,7 +12,7 @@ notes: <p>This reference dataset provides a listing of all NHS hospitals across 
   acute hospitals.\r\nThe provided information includes hospital codes and full postal
   addresses.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/hospital-codes
+original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-codes
 records: null
 resources:
 - format: CSV

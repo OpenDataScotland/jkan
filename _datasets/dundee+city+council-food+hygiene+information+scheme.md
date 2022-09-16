@@ -12,7 +12,7 @@ notes: <p>Food hygiene rating or inspection results given to a businesses and da
   on behalf of all local authorities participating in the FSA's national food hygiene
   rating schemes.\r\n\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/food-hygiene-information-scheme
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/food-hygiene-information-scheme
 records: null
 resources:
 - format: XML

@@ -10,7 +10,7 @@ notes: <p><strong>Current civic licences, excluding licensed premises, issued by
   on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
   and permits</a>.</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/civic-licences
+original_dataset_link: https://data.stirling.gov.uk/dataset/civic-licences
 records: null
 resources:
 - format: CSV

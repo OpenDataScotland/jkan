@@ -10,7 +10,7 @@ notes: <p>Reference file for health specialties. \r\n\r\nFile contains codes and
   which will refer to specific groupings of specialties in datasets, this will be
   made clear in the data dictionary.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/specialty-codes
+original_dataset_link: https://www.opendata.nhs.scot/dataset/specialty-codes
 records: null
 resources:
 - format: CSV

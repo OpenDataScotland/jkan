@@ -10,7 +10,7 @@ notes: <p>Estimates of completeness of outpatient, acute, maternity, mental heal
   in recent years.\r\n\r\nMore to this topic are can be found on the <a href="https://www.isdscotland.org/products-and-Services/Data-Support-and-Monitoring/SMR-Completeness/">ISD
   Scotland website</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-morbidity-record-completeness
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-morbidity-record-completeness
 records: null
 resources:
 - format: CSV

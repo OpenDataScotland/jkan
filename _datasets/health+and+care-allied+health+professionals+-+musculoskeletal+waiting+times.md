@@ -18,7 +18,7 @@ notes: <p>Quarterly summary of waiting times and waiting list information for Mu
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/allied-health-professionals-musculoskeletal-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/allied-health-professionals-musculoskeletal-waiting-times
 records: null
 resources:
 - format: CSV

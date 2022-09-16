@@ -11,7 +11,7 @@ notes: <p>This dataset captures any data that pertains to locations of safety eq
   needed. The should be made as OWPAs in your gazetteer.\r\n\r\n"UPRN" and "address"
   are now MANDATORY fields for this dataset.</p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/package/safety_features-ce'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-ce'
 records: null
 resources:
 - format: ''

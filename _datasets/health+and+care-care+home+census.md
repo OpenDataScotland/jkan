@@ -14,7 +14,7 @@ notes: <p>Data from the annual Care Home Census for Adults in Scotland.  Data ar
   be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/care-home-census-for-adults-in-scotland-statistics-for-2012-2022/">latest
   publication report and dashboard</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/care-home-census
+original_dataset_link: https://www.opendata.nhs.scot/dataset/care-home-census
 records: null
 resources:
 - format: CSV

@@ -16,7 +16,7 @@ notes: '<p>Population estimates for all geography types in Scotland:\r\n<em>Data
   census data.\r\nNote: Health and Social Care Partnerships may also be referred to
   as integrated joint boards or integration authorities by other public bodies.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/population-estimates
+original_dataset_link: https://www.opendata.nhs.scot/dataset/population-estimates
 records: null
 resources:
 - format: CSV

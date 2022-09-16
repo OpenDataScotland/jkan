@@ -16,7 +16,7 @@ notes: <p>Drug-related hospital statistics (DRHS) provide an annual update to fi
   date of the next release can be found on our list of [forthcoming publications]
   (https://beta.isdscotland.org/forthcoming-publications/).\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/drug-related-hospital-statistics-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/drug-related-hospital-statistics-scotland
 records: null
 resources:
 - format: CSV

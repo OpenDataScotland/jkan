@@ -12,7 +12,7 @@ notes: <p>This data set shows life expectancy figures at birth for males and fem
   full publication can be accessed by clicking on the link below:\r\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/life-expectancy/life-expectancy-in-scotland/2018-2020\r\n\xa9
   Crown Copyright 2021\r\n\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-life-expectancy
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-life-expectancy
 records: null
 resources:
 - format: CSV

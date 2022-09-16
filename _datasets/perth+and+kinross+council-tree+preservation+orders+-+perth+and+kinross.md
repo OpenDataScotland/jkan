@@ -30,7 +30,7 @@ notes: <p><em>Whilst TPOs are a legal requirement they may not always be digitis
   We may adapt this rationale and methodology in due course as we know that there
   is discrepancy with Registers of Scotland's TPO data.</p>
 organization: Perth and Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/package/tree_preservation_orders-pk'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-pk'
 records: null
 resources:
 - format: ZIP

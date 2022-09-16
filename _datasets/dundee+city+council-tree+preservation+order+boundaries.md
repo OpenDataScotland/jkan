@@ -14,7 +14,7 @@ notes: <p>Where it appears to the Council that particular trees make a special c
   of removal or damage, a Tree Preservation Order may be served on all parties with
   an interest in the tree(s).</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/tree-preservation-order-boundaries
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/tree-preservation-order-boundaries
 records: null
 resources:
 - format: ''

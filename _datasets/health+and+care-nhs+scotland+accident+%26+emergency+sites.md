@@ -9,7 +9,7 @@ notes: <p>This reference dataset provides a listing of all NHS Emergency Departm
   Minor Injury Units and other GP or nurse led departments that carry out Emergency
   Department related activity across Scotland. </p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/nhs-scotland-accident-emergency-sites
+original_dataset_link: https://www.opendata.nhs.scot/dataset/nhs-scotland-accident-emergency-sites
 records: null
 resources:
 - format: CSV

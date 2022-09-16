@@ -31,7 +31,7 @@ notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first iden
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-cardiovascular-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-cardiovascular-activity
 records: null
 resources:
 - format: CSV

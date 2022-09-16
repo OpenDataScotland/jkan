@@ -9,7 +9,7 @@ notes: <p>A survey issued by the Scottish Government to establish the extent &am
   state of vacant &amp; derelict land in Scotland. Local Authorities return data to
   the SG for checking.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/scottishvacantandderelictland2019
+original_dataset_link: https://data.pkc.gov.uk/dataset/scottishvacantandderelictland2019
 records: null
 resources:
 - format: HTML

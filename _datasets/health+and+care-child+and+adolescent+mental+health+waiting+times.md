@@ -26,7 +26,7 @@ notes: '<p>The main function of CAMHS is to develop and deliver services for tho
   target of 26 weeks. The data shows the performances of the board in relation to
   this standard.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/child-and-adolescent-mental-health-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/child-and-adolescent-mental-health-waiting-times
 records: null
 resources:
 - format: CSV

@@ -12,7 +12,7 @@ notes: <p>Dundee City Council's posts public notices through the national <a hre
   requests.\r\n</em> Licencing Notices\r\n<em> Traffic Regulation Orders\r\n</em>
   Planning Applications\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/public-notices
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/public-notices
 records: null
 resources:
 - format: XML

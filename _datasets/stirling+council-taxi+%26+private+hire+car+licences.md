@@ -10,7 +10,7 @@ notes: <p><strong>Details current taxi and private hire car licences issued by S
   on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
   and permits</a>.</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/licencing-taxis-private-hire-cars
+original_dataset_link: https://data.stirling.gov.uk/dataset/licencing-taxis-private-hire-cars
 records: null
 resources:
 - format: CSV

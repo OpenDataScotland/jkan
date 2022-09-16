@@ -8,7 +8,7 @@ maintainer: Leisure and Culture Dundee
 notes: '<p>The following link provides information on leisure and sport activities
   provided by Leisure and Culture Dundee. The website can be accessed here:  http://www.leisureandculturedundee.com/leisure-sport\r\n\r\n\r\n</p>'
 organization: Leisure and Culture Dundee
-original_dataset_link: https://data.dundeecity.gov.uk/package/adult-fitness-classes
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/adult-fitness-classes
 records: null
 resources:
 - format: WEB

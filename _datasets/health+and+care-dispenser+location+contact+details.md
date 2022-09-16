@@ -11,7 +11,7 @@ notes: <p>This dataset contains the location and contact details for all dispens
   can be found on the <a href="https://www.isdscotland.org/Health-Topics/Prescribing-and-Medicines/">ISD
   Scotland - Prescribing and Medicines website</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/dispenser-location-contact-details
+original_dataset_link: https://www.opendata.nhs.scot/dataset/dispenser-location-contact-details
 records: null
 resources:
 - format: CSV

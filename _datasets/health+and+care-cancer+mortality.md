@@ -18,7 +18,7 @@ notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. D
   be found on the <a href="https://www.isdscotland.org/Health-Topics/Cancer/Cancer-Statistics/">ISD
   Scotland Website</a>.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/cancer-mortality
+original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-mortality
 records: null
 resources:
 - format: CSV

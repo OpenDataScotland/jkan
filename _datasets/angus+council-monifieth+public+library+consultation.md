@@ -10,7 +10,7 @@ notes: <p>Responses to questionnaire seeking feedback on the proposal to include
   2021 to 27 September 2021. 179 on-line responses and 20 hardcopy responses to questions
   were received as part of consultation\r\n</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/monifieth-public-library-consultation
+original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-public-library-consultation
 records: null
 resources:
 - format: XLS

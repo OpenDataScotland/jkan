@@ -9,7 +9,7 @@ maintainer: Angus Council
 notes: <p>Location of Angus Council owned and managed sites and properties. Includes
   common good properties.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-sites
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-sites
 records: null
 resources:
 - format: WMS

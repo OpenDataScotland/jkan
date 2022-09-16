@@ -24,7 +24,7 @@ notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a h
   can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications (external website)</a>.\r\n\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/inpatient-and-daycase-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity
 records: null
 resources:
 - format: CSV

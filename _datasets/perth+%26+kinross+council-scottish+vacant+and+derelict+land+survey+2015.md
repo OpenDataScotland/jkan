@@ -10,7 +10,7 @@ notes: <p>An annual survey issued by the Scottish Government to establish the ex
   state of vacant\xa0and derelict land in Scotland. Local Authorities return data
   to the Scottish Government for checking.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/scottish-vacant-and-derelict-land-survey-2015
+original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-vacant-and-derelict-land-survey-2015
 records: null
 resources:
 - format: HTML

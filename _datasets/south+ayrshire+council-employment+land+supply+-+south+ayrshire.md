@@ -12,7 +12,7 @@ notes: <p>Scottish Planning Policy sets out the Scottish Government's policies i
   for businesses with a variety of size and quality requirements. The audit identifies
   the availability and constraints of employment land sites within the local authority.</p>
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/package/employment_land_supply-sa'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_supply-sa'
 records: null
 resources:
 - format: ''

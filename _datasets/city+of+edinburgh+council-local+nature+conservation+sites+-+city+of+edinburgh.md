@@ -13,7 +13,7 @@ notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation 
   for local authorities on the establishment and management of LNCS systems in Scotland.
   </p>
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/package/local_nature_conservation_sites-ce'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conservation_sites-ce'
 records: null
 resources:
 - format: ZIP

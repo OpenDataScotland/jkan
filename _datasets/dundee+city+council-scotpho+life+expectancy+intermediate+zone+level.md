@@ -26,7 +26,7 @@ notes: <p>The Scottish Public Health Observatory (ScotPHO) which is led by Publi
   on the ScotPHO website and can be accessed by using the following link:\r\nhttps://scotland.shinyapps.io/ScotPHO_profiles_tool/\r\n\xa9
   Scottish Public Health Observatory 2022</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/scotpho-life-expectancy-intermediate-zone-level
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/scotpho-life-expectancy-intermediate-zone-level
 records: null
 resources:
 - format: CSV

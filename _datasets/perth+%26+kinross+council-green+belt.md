@@ -9,7 +9,7 @@ maintainer: Perth & Kinross Council
 notes: <p>Perth Green Belt from the 2019 Perth &amp; Kinross Council Adopted Local
   Development Plan</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/green-belt
+original_dataset_link: https://data.pkc.gov.uk/dataset/green-belt
 records: null
 resources:
 - format: HTML

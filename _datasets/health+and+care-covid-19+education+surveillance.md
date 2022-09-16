@@ -27,7 +27,7 @@ notes: <p>This dataset presents information on COVID-19 in children and young pe
   and admissions will also include 18-19 year olds. From 13th of August, information
   on PCR testing and admissions has been extended to include 0-1 year olds._</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-education-surveillance
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance
 records: null
 resources:
 - format: CSV

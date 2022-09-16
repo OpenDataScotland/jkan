@@ -12,7 +12,7 @@ notes: <p><span style='font-family:&quot;Avenir Next&quot;, &quot;Avenir Next&qu
   area. This audit has been prepared from information provided in the Local Development
   Plan and through the monitoring of planning application approvals.</span></p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/employment-land-audit-2020
+original_dataset_link: https://data.pkc.gov.uk/dataset/employment-land-audit-2020
 records: null
 resources:
 - format: HTML

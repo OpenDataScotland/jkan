@@ -16,7 +16,7 @@ notes: <p>OS Open Roads is a digital representation of Great Britain\u2019s Road
   transport on a regional or county level and include all roads which make up the
   SRN.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-open-roads
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-roads
 records: null
 resources:
 - format: HTML

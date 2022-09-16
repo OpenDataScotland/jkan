@@ -30,7 +30,7 @@ notes: <p>The current UK Parliament constituencies were set in 2005.  The majori
   </em><em>Rejected Ballots</em>* (the Numbers of ballot papers rejected for each
   Rejection Reason)</p>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/election-results-general-elections
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/election-results-general-elections
 records: null
 resources:
 - format: CSV

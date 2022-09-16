@@ -15,7 +15,7 @@ notes: <p>This dataset provides annual cervical screening statistics in Scotland
   publication</a>. The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-cervical-screening-programme-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-cervical-screening-programme-statistics
 records: null
 resources:
 - format: CSV

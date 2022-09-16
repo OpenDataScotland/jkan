@@ -13,7 +13,7 @@ notes: <p>These files present information on probable suicides registered in Sco
   on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-suicide-information-database-contact-with-unscheduled-care-services-prior-to-death
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-suicide-information-database-contact-with-unscheduled-care-services-prior-to-death
 records: null
 resources:
 - format: CSV

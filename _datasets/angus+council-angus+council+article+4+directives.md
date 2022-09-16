@@ -10,7 +10,7 @@ notes: <p>Areas where Permitted Development rights under classes 1,7 &amp; 8 of 
   Country Planning (General Permitted Development)(Scotland) Order 1992 have been
   revoked.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-article-4-directives
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-article-4-directives
 records: null
 resources:
 - format: WMS

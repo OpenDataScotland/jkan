@@ -16,7 +16,7 @@ notes: <p>Annual update to information on births in Scottish NHS hospitals. This
   on the <a href="https://beta.isdscotland.org/topics/maternity-and-births/">PHS Data
   &amp; Intelligence Website</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/births-in-scottish-hospitals
+original_dataset_link: https://www.opendata.nhs.scot/dataset/births-in-scottish-hospitals
 records: null
 resources:
 - format: CSV

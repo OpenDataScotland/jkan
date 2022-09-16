@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>By 2011 Intermediate Zones, sorted by accidental and non-accidental fires.
   Derived from statistics.gov.scot under the Open Government Licence v3.0</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/fire-incidents
+original_dataset_link: https://data.pkc.gov.uk/dataset/fire-incidents
 records: null
 resources:
 - format: CSV

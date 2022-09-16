@@ -18,7 +18,7 @@ notes: <p><strong>The datasets within this group contain the <a href="https://ww
   and breakdown of estimates by age groups for each year are available in portable
   document format (PDF).</strong>\r\n\r\n<strong>\xa9 Crown Copyright 2018, 2022</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-settlements-localities-population-estimates
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-settlements-localities-population-estimates
 records: null
 resources:
 - format: CSV

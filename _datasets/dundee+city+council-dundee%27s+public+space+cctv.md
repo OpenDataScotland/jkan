@@ -22,7 +22,7 @@ notes: <p>Dundee City Council's Public Space Camera Surveillance System has been
   and event management. Police Scotland and Dundee City Council's Urban Traffic Control
   Team for traffic and event management will use/have access to the CCTV images. </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/dundee-public-space-cctv
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-public-space-cctv
 records: null
 resources:
 - format: WFS

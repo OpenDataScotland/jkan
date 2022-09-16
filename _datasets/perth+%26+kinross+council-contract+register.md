@@ -11,7 +11,7 @@ notes: <p>This is the current contract register for Perth and Kinross Council, p
   Some Contract notices are licensed under the <a href="" title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open
   Government Licence 3.0</a>.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/contract-register
+original_dataset_link: https://data.pkc.gov.uk/dataset/contract-register
 records: null
 resources:
 - format: HTML

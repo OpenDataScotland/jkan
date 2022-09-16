@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Perth & Kinross Council
 notes: <p>Test using NOMIS API\r\nLicenced under OGL v3.0</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/uk-business-counts-local-units
+original_dataset_link: https://data.pkc.gov.uk/dataset/uk-business-counts-local-units
 records: null
 resources:
 - format: CSV

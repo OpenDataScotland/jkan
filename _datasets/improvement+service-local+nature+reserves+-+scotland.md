@@ -13,7 +13,7 @@ notes: '<p>Local nature reserves are areas of (at least) locally important natur
   we have not been supplied with data by local authorities we are extracting it from
   a previously produced NatureScot national dataset.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/local_nature_reserves-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-is'
 records: null
 resources:
 - format: WFS

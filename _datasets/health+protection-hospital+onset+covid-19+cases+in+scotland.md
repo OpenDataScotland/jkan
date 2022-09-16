@@ -23,7 +23,7 @@ notes: <p>Antimicrobial Resistance and Healthcare Associated Infection (ARHAI) S
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/hospital-onset-covid-19-cases-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-onset-covid-19-cases-in-scotland
 records: null
 resources:
 - format: CSV

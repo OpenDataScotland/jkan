@@ -11,7 +11,7 @@ notes: <p>The Council's Active Travel team conducted a survey of bicycle parking
   If you see a facility missing or would like to update any of the information you
   can do this on OpenStreetMap yourself. </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/bicycle-parking
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/bicycle-parking
 records: null
 resources:
 - format: GEOJSON

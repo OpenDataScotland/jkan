@@ -20,7 +20,7 @@ notes: <p>Information on open consultant vacancies taken at a census point, for 
   website</a>, along with all publications and supporting material related to <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHS
   Scotland Workforce</a>._</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/consultant-vacancies
+original_dataset_link: https://www.opendata.nhs.scot/dataset/consultant-vacancies
 records: null
 resources:
 - format: CSV

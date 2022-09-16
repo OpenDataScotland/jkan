@@ -29,7 +29,7 @@ notes: '<p>This dataset includes data related to the Community Empowerment (Scot
   for more details.\r\n\r\nSG have provided useful guidance of what the register should
   contain and how it should be formatted (pages 21-23). See https://dtascommunityownership.org.uk/sites/default/files/Asset%20Transfer%20RA%20Guidance%20Notes.pdf</p>'
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/package/community_asset_transfer_register-gc'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_transfer_register-gc'
 records: null
 resources:
 - format: CSV

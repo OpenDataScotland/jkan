@@ -12,7 +12,7 @@ notes: <p>The Perth and Kinross Employment Land Audit is prepared annually  to p
   This audit has been prepared from information provided in the Local Development
   Plan and through the monitoring of planning application approvals.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/employment-land-audit-2015
+original_dataset_link: https://data.pkc.gov.uk/dataset/employment-land-audit-2015
 records: null
 resources:
 - format: HTML

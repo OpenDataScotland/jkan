@@ -19,7 +19,7 @@ notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
   name, designation date and website URL (for more information) are now mandatory
   attributes for this dataset.</p>
 organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scot/package/smoke_control_areas-nl'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_areas-nl'
 records: null
 resources:
 - format: ''

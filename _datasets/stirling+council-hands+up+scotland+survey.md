@@ -19,7 +19,7 @@ notes: <p><strong>The </strong><a href="https://www.sustrans.org.uk/our-blog/pro
   Annual Report</strong></a><strong> provides a valuable snapshot of school travel
   in Scotland.</strong>\r\n\r\n\r\n</p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/hands-up-scotland-survey
+original_dataset_link: https://data.stirling.gov.uk/dataset/hands-up-scotland-survey
 records: null
 resources:
 - format: PDF

@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Boundaries for primary school catchment areas excluding Roman Catholic schools.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/primary-school-catchments
+original_dataset_link: https://data.pkc.gov.uk/dataset/primary-school-catchments
 records: null
 resources:
 - format: HTML

@@ -17,7 +17,7 @@ notes: <p>This dataset contains monthly summaries of whole journey waiting times
   list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/18-weeks-referral-to-treatment
+original_dataset_link: https://www.opendata.nhs.scot/dataset/18-weeks-referral-to-treatment
 records: null
 resources:
 - format: CSV

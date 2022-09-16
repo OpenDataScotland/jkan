@@ -51,7 +51,7 @@ notes: <p>Care for women around the time they are giving birth is an essential, 
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-induction-of-labour
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-induction-of-labour
 records: null
 resources:
 - format: CSV

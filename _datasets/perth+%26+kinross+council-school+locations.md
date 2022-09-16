@@ -7,7 +7,7 @@ license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
 notes: <p>Location of Schools operated by Perth and Kinross Council</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/school-locations
+original_dataset_link: https://data.pkc.gov.uk/dataset/school-locations
 records: null
 resources:
 - format: HTML

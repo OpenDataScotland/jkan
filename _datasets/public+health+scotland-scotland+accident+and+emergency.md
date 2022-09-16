@@ -9,7 +9,7 @@ notes: '<p>There are two types of data submitted to the A&amp;E DataMart: episod
   and aggregate level data. All hospitals with Emergency Departments submit episode
   level data containing a detailed record for each patient attendance.</p>'
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/05e6752e-3a0b-4809-aa14-207b4761ef60'
+original_dataset_link: ' https://find.researchdata.scot/dataset/05e6752e-3a0b-4809-aa14-207b4761ef60'
 records: null
 resources:
 - format: JSON

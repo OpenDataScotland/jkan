@@ -13,7 +13,7 @@ notes: <p>This data set contains Dundee City Census Output Area Level Data from 
   Some cell values will be affected, particularly small values at the most detailed
   geographies.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-2011-census-census-output-area-data-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-2011-census-census-output-area-data-dundee-city
 records: null
 resources:
 - format: CSV

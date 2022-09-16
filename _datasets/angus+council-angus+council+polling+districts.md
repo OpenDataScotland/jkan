@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Current and historic polling district boundaries in Angus Council.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-polling-districts
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-polling-districts
 records: null
 resources:
 - format: WMS

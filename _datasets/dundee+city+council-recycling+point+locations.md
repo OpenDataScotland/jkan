@@ -10,7 +10,7 @@ notes: <p>Locations of recycling points and bring sites in Dundee City. Bring si
   in Dundee to recycle. Further details about Dundee City Council's waste and recycling
   schemes can be found on the DCC <a href="https://www.dundeecity.gov.uk/services/bins-recycling">website</a>.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/recycling-facility-locations
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/recycling-facility-locations
 records: null
 resources:
 - format: CSV

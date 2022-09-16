@@ -8,7 +8,7 @@ maintainer: Health Informatics Centre
 notes: <p>Extract from Public Health Scotland Renal register for Tayside and Fife.
   \n</p>
 organization: Health Informatics Centre
-original_dataset_link: ' https://find.researchdata.scot/package/32edd77d-533c-423f-b045-937507f8505d'
+original_dataset_link: ' https://find.researchdata.scot/dataset/32edd77d-533c-423f-b045-937507f8505d'
 records: null
 resources:
 - format: JSON

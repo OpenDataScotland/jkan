@@ -20,7 +20,7 @@ notes: <p>Information on open nursing and midwifery vacancies taken at a census 
   website</a>, along with all publications and supporting material related to <a href="https://turasdata.nes.nhs.scot/workforce-official-statistics/nhsscotland-workforce/">NHS
   Scotland Workforce</a>._</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/nursing-and-midwifery-vacancies
+original_dataset_link: https://www.opendata.nhs.scot/dataset/nursing-and-midwifery-vacancies
 records: null
 resources:
 - format: CSV

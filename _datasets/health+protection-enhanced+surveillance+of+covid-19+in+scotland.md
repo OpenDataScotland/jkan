@@ -27,7 +27,7 @@ notes: '<p>This dataset shows the latest results of the Public Health Scotland (
   dashboard publications from 10th November 2021 onwards. More detail regarding these
   changes can be found in the notes section of the dashboard.__</p>'
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/enhanced-surveillance-of-covid-19-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/enhanced-surveillance-of-covid-19-in-scotland
 records: null
 resources:
 - format: CSV

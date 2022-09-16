@@ -14,7 +14,7 @@ notes: <p>Most councils will keep a record of their car parks, bays and zones (i
   the national polygon layers.\n\nMany partially populated attributes are currently
   published. However, we will look to rationalise this list in future iterations.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/car_parking-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-is'
 records: null
 resources:
 - format: WFS

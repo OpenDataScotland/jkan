@@ -15,7 +15,7 @@ notes: <p>Town centres and other retail centres are defined by local authorities
   and policies. These centres may be defined in local development plans in the first
   instance.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/town_centres-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-is'
 records: null
 resources:
 - format: WFS

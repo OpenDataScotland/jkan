@@ -11,7 +11,7 @@ notes: <p><strong>This group contains datasets sourced from the <a href="https:/
   Projections</a> page on the NRS website.</strong>\r\n\r\n<strong>\xa9 Crown Copyright
   2018, 2020</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-population-projections
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-population-projections
 records: null
 resources:
 - format: CSV

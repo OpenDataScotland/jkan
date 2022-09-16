@@ -18,7 +18,7 @@ notes: <p>Alcohol-related hospital statistics (ARHS) provide an annual update to
   date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/alcohol-related-hospital-statistics-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/alcohol-related-hospital-statistics-scotland
 records: null
 resources:
 - format: CSV

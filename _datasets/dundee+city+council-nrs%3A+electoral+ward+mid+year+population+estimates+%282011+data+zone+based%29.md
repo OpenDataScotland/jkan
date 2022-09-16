@@ -22,7 +22,7 @@ notes: <p>National Records of Scotland publish mid year electoral ward populatio
   Scotland Website and can be accessed by clicking on the link below:\r\n\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/electoral-ward-population-estimates\r\n\r\n\xa9
   Crown Copyright 2022</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-electoral-ward-mid-year-population-estimates-2011-data-zone-based
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-electoral-ward-mid-year-population-estimates-2011-data-zone-based
 records: null
 resources:
 - format: CSV

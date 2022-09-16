@@ -22,7 +22,7 @@ notes: <p>Local authorities are required to report to the Scottish Environmental
   a break-down of waste types for 2011 \u2013 2015 and the trend for Scottish waste
   landfilled since 2005.\r\n\r\nAll data can be exported to Excel if required.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/waste-and-recycling
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/waste-and-recycling
 records: null
 resources:
 - format: ''

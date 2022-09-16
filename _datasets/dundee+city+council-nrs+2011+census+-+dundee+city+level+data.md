@@ -11,7 +11,7 @@ notes: <p>This data set contains Dundee City level data from the 2011 Census. Da
   Tables at various different geographies on their website. This can be accessed by
   clicking on the link below:\r\nhttps://www.scotlandscensus.gov.uk/</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-2011-census-dundee-city-level-data
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-2011-census-dundee-city-level-data
 records: null
 resources:
 - format: CSV

@@ -15,7 +15,7 @@ notes: <p>Catchment areas of all mainstream schools within the Dundee City Counc
   in Primary and Secondary Schools in Dundee</a> or <a href="https://dundeecity.maps.arcgis.com/apps/instant/lookup/index.html?appid=22213dd0961c45d5bb7857e6867a5473">Lookup
   the catchments for an address</a></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/school-catchment-areas
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-catchment-areas
 records: null
 resources:
 - format: WFS

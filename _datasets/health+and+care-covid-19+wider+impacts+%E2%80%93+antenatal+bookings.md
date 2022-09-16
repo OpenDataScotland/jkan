@@ -37,7 +37,7 @@ notes: <p>As an essential service, maternity care including \u2018booking\u2019 
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-antenatal-bookings
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-antenatal-bookings
 records: null
 resources:
 - format: CSV

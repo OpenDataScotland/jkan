@@ -10,7 +10,7 @@ notes: <p>NHS have added codes for non standard geographies that are separate to
   Facilities\r\n\r\n- Strategic Business Units\r\n\r\n- Other non official Residential
   Categories \r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/non-standard-geography-codes-and-labels
+original_dataset_link: https://www.opendata.nhs.scot/dataset/non-standard-geography-codes-and-labels
 records: null
 resources:
 - format: CSV

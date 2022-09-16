@@ -21,7 +21,7 @@ notes: <p>There are many areas where the scenery is highly valued locally and lo
   name and Website URL (for more information) are now mandatory attributes for this
   dataset.</p>
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/package/local_landscape_designation-na'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-na'
 records: null
 resources:
 - format: ''

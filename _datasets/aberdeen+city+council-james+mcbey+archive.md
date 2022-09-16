@@ -24,7 +24,7 @@ notes: <p>James McBey (1883-1959) was a self-taught <strong>printmaker</strong>,
   Gallery Catalogue</a> (please note, all images are \xa9 Aberdeen Art Gallery &amp;
   Museums Collections).  For further information or discussion, please email <a href="mailto:curators@aberdeencity.gov.uk">curators@aberdeencity.gov.uk</a>.</p>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/james-mcbey-archive
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/james-mcbey-archive
 records: null
 resources:
 - format: XLSX

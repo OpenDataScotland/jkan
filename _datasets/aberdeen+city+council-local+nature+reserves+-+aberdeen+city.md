@@ -17,7 +17,7 @@ notes: '<p>Local Nature Reserves are areas of (at least) locally important natur
   date, website URL (for more information) and PA code are all mandatory attributes
   for this dataset now.</p>'
 organization: Aberdeen City Council
-original_dataset_link: ' https://data.spatialhub.scot/package/local_nature_reserves-ac'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-ac'
 records: null
 resources:
 - format: ZIP

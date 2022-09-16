@@ -20,7 +20,7 @@ notes: <table width='100%'><tbody><tr><td></td><td>Broadband Speed</td></tr><tr>
   More information from - https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-update-spring-2018
   </td></tr></tbody></table>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/availability-of-ultrafast-broadband-in-pkc
+original_dataset_link: https://data.pkc.gov.uk/dataset/availability-of-ultrafast-broadband-in-pkc
 records: null
 resources:
 - format: HTML

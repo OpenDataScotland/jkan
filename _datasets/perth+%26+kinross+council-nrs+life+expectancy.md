@@ -12,7 +12,7 @@ notes: <p>For each year since 2010, this dataset shows the National Records of S
   the Life Expectancy in Scotland, 2018-2020 page on the NRS website.\r\n\r\n\xa9
   Crown Copyright 2021</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/nrs-life-expectancy
+original_dataset_link: https://data.pkc.gov.uk/dataset/nrs-life-expectancy
 records: null
 resources:
 - format: CSV

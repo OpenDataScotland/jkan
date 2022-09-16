@@ -21,7 +21,7 @@ notes: <p>Buildings are listed by Historic Scotland for their special architectu
   process</a>.  You can also visit <a href="https://www.historicenvironment.scot/advice-and-support/listing-scheduling-and-designations/listed-buildings/search-for-a-listed-building/">Historic
   Environment Scotland for national data</a> on listed buildings.\r\n\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/listed-buildings
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/listed-buildings
 records: null
 resources:
 - format: CSV

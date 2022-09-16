@@ -17,7 +17,7 @@ notes: <p>Summary of discharges from hospital and deaths in Scotland resulting f
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-heart-disease-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-heart-disease-statistics
 records: null
 resources:
 - format: CSV

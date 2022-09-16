@@ -15,7 +15,7 @@ notes: <p>Local authorities have the power to make by-laws to prohibit the drink
   at all times, to a ban at specified times or on specified days.\r\n\r\n"area_name"
   and "designation_date" are now MANDATORY fields for this dataset.</p>
 organization: Dundee City Council
-original_dataset_link: ' https://data.spatialhub.scot/package/alcohol_prohibition_areas-dc'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-dc'
 records: null
 resources:
 - format: ''

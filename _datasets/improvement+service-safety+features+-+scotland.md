@@ -12,7 +12,7 @@ notes: <p>Many Local Authorities capture locational details of certain safety fe
   have provided them.\n\nIt is likely that this dataset will be superseded and/ or
   conflated into a national emergency services gazetteer as and when that is created.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/safety_features-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-is'
 records: null
 resources:
 - format: WFS

@@ -12,7 +12,7 @@ notes: <p><strong><a href="https://www.legislation.gov.uk/ukpga/1991/40/contents
   dataset lists all PCNs issued and the contravention (reason) for the issue since
   DPE began on 03/05/2017.</strong>\r\n</p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/penalty-charge-notices
+original_dataset_link: https://data.stirling.gov.uk/dataset/penalty-charge-notices
 records: null
 resources:
 - format: CSV

@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>Gas usage data from Perth &amp; Kinross Council owned buildings fitted with
   meters that record automatic readings. Data is for the last 2 years.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/energy-gas
+original_dataset_link: https://data.pkc.gov.uk/dataset/energy-gas
 records: null
 resources:
 - format: CSV

@@ -34,7 +34,7 @@ notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first iden
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-out-of-hours-consultations
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-out-of-hours-consultations
 records: null
 resources:
 - format: CSV

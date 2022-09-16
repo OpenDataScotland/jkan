@@ -13,7 +13,7 @@ notes: <p>The Scottish Drug Misuse Database (SDMD) report provide an annual upda
   area can be found on <a href="https://beta.isdscotland.org/find-publications-and-data/lifestyle-and-behaviours/substance-use/">PHS
   - Substance use</a>. </p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-drug-misuse-database
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-drug-misuse-database
 records: null
 resources:
 - format: CSV

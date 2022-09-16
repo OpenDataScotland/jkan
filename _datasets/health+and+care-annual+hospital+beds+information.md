@@ -20,7 +20,7 @@ notes: <p>In order to provide an effective, safe and efficient service to patien
   Outpatient and Beds files in the September 2021 annual open data release consistent
   with the publication excel tables.__</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/annual-hospital-beds-information
+original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-hospital-beds-information
 records: null
 resources:
 - format: CSV

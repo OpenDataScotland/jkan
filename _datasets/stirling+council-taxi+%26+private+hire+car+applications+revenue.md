@@ -11,7 +11,7 @@ notes: <p><strong>In addition to a breakdown of  the fee revenue received from t
   Stirling Council's website for further information on <a href="https://www.stirling.gov.uk/licensing-legal/licenses-permits-permissions/">licences
   and permits</a>.</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/taxi-private-hire-car-revenue
+original_dataset_link: https://data.stirling.gov.uk/dataset/taxi-private-hire-car-revenue
 records: null
 resources:
 - format: CSV

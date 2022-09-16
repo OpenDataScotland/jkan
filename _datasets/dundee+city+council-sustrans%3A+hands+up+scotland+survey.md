@@ -16,7 +16,7 @@ notes: <p>The <a href="https://www.sustrans.org.uk/scotland/hands-up-scotland-su
   Annual Report, provide a valuable snapshot of school travel in Scotland. The Annual
   Report can be accessed by clicking on the following link:\r\n\r\nhttps://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/sustrans-hands-up-scotland-survey
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/sustrans-hands-up-scotland-survey
 records: null
 resources:
 - format: CSV

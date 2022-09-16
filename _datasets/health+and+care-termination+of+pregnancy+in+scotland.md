@@ -19,7 +19,7 @@ notes: <p>Termination data are derived from the notifications of abortion to the
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/termination-of-pregnancy-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/termination-of-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV

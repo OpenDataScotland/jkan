@@ -17,7 +17,7 @@ notes: '<p>Annual data of new cancer incidence cases in Scotland. Data is presen
   be found on the <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/cancer/">Public
   Health Scotland Data &amp; Intelligence Website</a>.\r\n</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/annual-cancer-incidence
+original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-cancer-incidence
 records: null
 resources:
 - format: CSV

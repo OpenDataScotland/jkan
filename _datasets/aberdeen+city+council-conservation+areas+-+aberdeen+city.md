@@ -22,7 +22,7 @@ notes: <p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland
   with associated Article 4 Directions, Article 4 Directions associated with a Conservation
   Area, and a small number of discrete Article 4 Direction areas.</p>
 organization: Aberdeen City Council
-original_dataset_link: ' https://data.spatialhub.scot/package/conservation_areas-ac'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-ac'
 records: null
 resources:
 - format: ZIP

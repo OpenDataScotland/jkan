@@ -28,7 +28,7 @@ notes: <p><strong>This group details the output from transport monitoring of cyc
   Roadworks Commissioner </strong></a><strong>can give further details on any planned
   roadworks throughout the country.</strong>\r\n</p>
 organization: Transport Survey
-original_dataset_link: https://data.stirling.gov.uk/package/cycle-pedestrian-counts
+original_dataset_link: https://data.stirling.gov.uk/dataset/cycle-pedestrian-counts
 records: null
 resources:
 - format: CSV

@@ -14,7 +14,7 @@ notes: <p>The most detailed open data mapping product available, providing a bac
   sites such as hospitals and schools, and an extensive set of cartographic names
   optimised for digital styling and presentation.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-open-map-local
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-map-local
 records: null
 resources:
 - format: HTML

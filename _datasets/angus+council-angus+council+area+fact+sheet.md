@@ -10,7 +10,7 @@ maintainer: Angus Council
 notes: <p>Sourced from National Records of Scotland website the fact sheet brings
   together up-to-date statistics of the Angus area.\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/stats-at-a-glance/council-area-profiles\r\n</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-area-fact-sheet
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-area-fact-sheet
 records: null
 resources:
 - format: XLS

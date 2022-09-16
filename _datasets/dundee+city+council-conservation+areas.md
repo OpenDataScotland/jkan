@@ -16,7 +16,7 @@ notes: <p>Conservation Areas are areas of special architectural and/or historic 
   alterations to the exterior of a property in a conservation area. Contact the Development
   Quality Team, Planning &amp; Transportation for further details.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/conservation-areas
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/conservation-areas
 records: null
 resources:
 - format: ''

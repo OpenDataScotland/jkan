@@ -9,10 +9,10 @@ notes: <p><strong>Breakdown of individual payments to and credits from suppliers
   goods and/or services to Stirling Council.</strong>\r\n\r\n<strong>Based on the
   content of the relevant quarterly datasets, an annual summary of suppliers whose
   combined value of invoices and credit notes for the financial year totals \xa310,000
-  or more is also available.</strong>     \r\n\r\n<strong><a href="https://www.stirling.gov.uk/council-democracy/information-performance-statistics/annual-accounts/">Stirling\u2019s
+  or more is also available.</strong>     \r\n\r\n<strong><a href="https://stirling.gov.uk/council-democracy/information-performance-statistics/annual-accounts/">Stirling\u2019s
   Annual Accounts</a> are available on the Council\u2019s website.</strong>\r\n</p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/finance-creditors-extract
+original_dataset_link: https://data.stirling.gov.uk/dataset/finance-creditors-extract
 records: null
 resources:
 - format: CSV
@@ -90,6 +90,9 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.stirling.gov.uk/dataset/46f0a374-03f0-408b-a46d-27953b0551f6/resource/d737ca34-62ae-487f-aa9d-319103767d41/download/20220531-stirling-council-creditors-extract-10k-plus-fye-2022.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/46f0a374-03f0-408b-a46d-27953b0551f6/resource/0a3dceda-2ce1-4a81-bac3-ae2b1a1ba78a/download/20220913-stirling-council-creditors-extract-30.06.2022-q1-fye-2023.csv
 schema: default
 title: 'Finance: Creditors'' Extract'
 ---

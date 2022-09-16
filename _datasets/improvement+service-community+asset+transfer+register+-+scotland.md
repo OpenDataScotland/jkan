@@ -27,7 +27,7 @@ notes: '<p>This dataset is an amalgamation of data related to the Community Empo
   have provided useful guidance of what the register should contain and how it should
   be formatted (pages 21-23). https://dtascommunityownership.org.uk/sites/default/files/Asset%20Transfer%20RA%20Guidance%20Notes.pdf</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/community_asset_transfer_register-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_transfer_register-is'
 records: null
 resources:
 - format: WFS

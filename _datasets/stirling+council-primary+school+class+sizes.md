@@ -17,7 +17,7 @@ notes: <p><strong>As part of the annual pupil census, normally carried out in Se
   &amp; Education</strong></a><strong>.</strong>\r\n\r\n<strong>\xa9 Crown Copyright
   2022</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/primary-school-class-sizes
+original_dataset_link: https://data.stirling.gov.uk/dataset/primary-school-class-sizes
 records: null
 resources:
 - format: CSV

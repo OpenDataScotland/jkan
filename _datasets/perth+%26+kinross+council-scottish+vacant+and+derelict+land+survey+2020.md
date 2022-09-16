@@ -10,7 +10,7 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>A survey issued by t
   land in Scotland. Local Authorities return data to the SG for checking.</span></p><p><span>See
   https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2019/08/scottish-vacant-and-derelict-land-survey-guidance-notes/documents/scottish-vacant-and-derelict-land-survey-guidance-notes/scottish-vacant-and-derelict-land-survey-guidance-notes/govscot%3Adocument/Scottish%2BVacant%2Band%2BDerelict%2BLand%2BSurvey%2B2020%2B-%2BAdmin%2B-%2BGuidance.pdf</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/scottish-vacant-and-derelict-land-survey-2020
+original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-vacant-and-derelict-land-survey-2020
 records: null
 resources:
 - format: HTML

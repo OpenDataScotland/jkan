@@ -36,7 +36,7 @@ notes: <p>A Building Standards Register is maintained by local authorities under
   and Aberdeenshire's data has currently been removed from this dataset. We will find
   a solution to this in due course</em></p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/building_standards-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards-is'
 records: null
 resources:
 - format: WFS

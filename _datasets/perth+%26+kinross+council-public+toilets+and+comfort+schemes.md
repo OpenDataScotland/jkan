@@ -11,7 +11,7 @@ notes: <p>The location of Public toilets and comfort schemes (free to use public
   through partnerships with local service providers such as hotels, pubs and public
   buildings) within the Perth and Kinross area.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/public-toilets-and-comfort-schemes
+original_dataset_link: https://data.pkc.gov.uk/dataset/public-toilets-and-comfort-schemes
 records: null
 resources:
 - format: HTML

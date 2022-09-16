@@ -9,7 +9,7 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Attributes about eac
   charging point includes the connection type,  location, chargeable / free, charging
   speed and whether it is available to the public. </span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/electric-vehicle-charging-points
+original_dataset_link: https://data.pkc.gov.uk/dataset/electric-vehicle-charging-points
 records: null
 resources:
 - format: HTML

@@ -9,7 +9,7 @@ notes: <p>This dataset contains COVID-19 Vaccination events in Scotland since De
   2020. This includes information such as eligibility cohort, date of vaccination,
   and vaccination product.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/bcfd3b49-f7f0-489e-bc1b-bcce0bd261f2'
+original_dataset_link: ' https://find.researchdata.scot/dataset/bcfd3b49-f7f0-489e-bc1b-bcce0bd261f2'
 records: null
 resources:
 - format: JSON

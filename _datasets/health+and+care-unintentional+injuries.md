@@ -16,7 +16,7 @@ notes: <p>Summary of admissions to hospital and deaths in Scotland from unintent
   href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/unintentional-injuries
+original_dataset_link: https://www.opendata.nhs.scot/dataset/unintentional-injuries
 records: null
 resources:
 - format: CSV

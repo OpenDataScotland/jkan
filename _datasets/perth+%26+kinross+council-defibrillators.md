@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Defibrillators
   in PKC</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/defibrillators
+original_dataset_link: https://data.pkc.gov.uk/dataset/defibrillators
 records: null
 resources:
 - format: HTML

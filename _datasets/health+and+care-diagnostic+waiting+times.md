@@ -13,7 +13,7 @@ notes: <p>This dataset reports key statistics on diagnostic waiting times as a m
   Scotland Website</a>. A selection of information from this publication is included
   in <a href="http://www.nhsperforms.scot/">NHS Performs</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/diagnostic-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/diagnostic-waiting-times
 records: null
 resources:
 - format: CSV
@@ -22,6 +22,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/df75544f-4ba1-488d-97c7-30ab6258270d/download/diagnostics_scotland_june_2022.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/624e2299-f28f-4e7b-a4f6-a33ef14ac04c/download/diagnostics_by_board_march_2019.csv
+- format: CSV
+  name: CSV
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/d61e6e61-3fa6-4b14-8312-2c76d17094bb/download/diagnostics_scotland_march_2019.csv
 schema: default
 title: Diagnostic Waiting Times
 ---

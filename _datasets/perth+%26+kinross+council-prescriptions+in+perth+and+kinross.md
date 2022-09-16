@@ -9,7 +9,7 @@ notes: <p>Detail on prescriptions in the Perth and Kinross, divided\r\n\r\nAdapt
   from data published by NHS ISD Scotland, licensed under the <a href="" title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open
   Government Licence 3.0</a>.\r\n</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/prescriptions-in-perth-and-kinross
+original_dataset_link: https://data.pkc.gov.uk/dataset/prescriptions-in-perth-and-kinross
 records: null
 resources:
 - format: CSV

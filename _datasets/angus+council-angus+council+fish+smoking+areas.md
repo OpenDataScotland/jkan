@@ -9,7 +9,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Fish Smoking Area in Arbroath for the production of the Arbroath Smokie</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-fish-smoking-areas
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-fish-smoking-areas
 records: null
 resources:
 - format: WMS

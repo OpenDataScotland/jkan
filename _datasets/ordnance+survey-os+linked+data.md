@@ -11,7 +11,7 @@ notes: <p>Linked Data is a growing part of the Web where data is published on th
   products and produces them in machine readable languages and publishes them in this
   easy to use website for all users to enjoy.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-linked-data
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-linked-data
 records: null
 resources:
 - format: HTML

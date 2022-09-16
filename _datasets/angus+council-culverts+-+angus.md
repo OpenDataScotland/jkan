@@ -32,7 +32,7 @@ notes: <p>Scottish legislation (Section 17) of the Flood Risk Management (Scotla
   DATA NEEDS TO BE PROVIDED AS A LINE FORMAT\r\n\r\nUnique feature name is now a mandatory
   attribute for this dataset.</p>
 organization: Angus Council
-original_dataset_link: ' https://data.spatialhub.scot/package/culverts-an'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-an'
 records: null
 resources:
 - format: ''

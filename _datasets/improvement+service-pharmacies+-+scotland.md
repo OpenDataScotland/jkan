@@ -12,7 +12,7 @@ notes: <p>This dataset of the name, address, location and Unique Property Refere
   national payment system. \nThe data has been address matched and cleansed by Geoplace
   before being turned into a spatial (point) dataset for publication.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/pharmacies-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/pharmacies-is'
 records: null
 resources:
 - format: WFS

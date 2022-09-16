@@ -10,7 +10,7 @@ notes: <p>This annual release produced by Public Health Scotland in partnership 
   Practices. Information is presented at General Practice level and geographical hierarchies
   are available.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/nhsscotland-payments-to-general-practice
+original_dataset_link: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice
 records: null
 resources:
 - format: CSV

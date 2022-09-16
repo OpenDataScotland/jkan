@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>A summary of the number and type of inquiries received by Perth and Kinross
   Council from January to June 2018</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/customer-service-enquiries-january-to-june-2018
+original_dataset_link: https://data.pkc.gov.uk/dataset/customer-service-enquiries-january-to-june-2018
 records: null
 resources:
 - format: CSV

@@ -10,7 +10,7 @@ notes: '<p>Every electric vehicle charging session at Dundee City Council owned 
   Charge point ID, Location, Type of Charger.\r\n\r\nMore information about electric
   vehicles in Dundee can be found on the Drive Dundee Electric <a href="https://drivedundeeelectric.co.uk/">website</a>.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/ev-charging-data
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/ev-charging-data
 records: null
 resources:
 - format: CSV

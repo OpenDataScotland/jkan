@@ -11,7 +11,7 @@ notes: '<p style=''font-size:16px;''>A survey issued by the Scottish Government 
 
   <p style=''font-size:16px;''>See https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2019/08/scottish-vacant-and-derelict-land-survey-guidance-notes/documents/scottish-vacant-and-derelict-land-survey-guidance-notes/scottish-vacant-and-derelict-land-survey-guidance-notes/govscot%3Adocument/Scottish%2BVacant%2Band%2BDerelict%2BLand%2BSurvey%2B2020%2B-%2BAdmin%2B-%2BGuidance.pdf</p>'
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/scottish-vacant-and-derelict-land-2021
+original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-vacant-and-derelict-land-2021
 records: null
 resources:
 - format: HTML

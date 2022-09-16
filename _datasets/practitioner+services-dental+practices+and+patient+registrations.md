@@ -12,7 +12,7 @@ notes: <p>This dataset contains address data and practice sizes for all NHS dent
   area can be found on the <a href="https://www.isdscotland.org/Health-Topics/Dental-Care/">ISD
   Scotland - Dental Care website</a>.\r\n</p>
 organization: Practitioner services
-original_dataset_link: https://www.opendata.nhs.scot/package/dental-practices-and-patient-registrations
+original_dataset_link: https://www.opendata.nhs.scot/dataset/dental-practices-and-patient-registrations
 records: null
 resources:
 - format: CSV

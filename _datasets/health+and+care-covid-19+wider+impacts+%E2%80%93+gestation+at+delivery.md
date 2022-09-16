@@ -41,7 +41,7 @@ notes: <p>Care for women and babies around the time they are giving birth/being 
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-gestation-at-delivery
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-gestation-at-delivery
 records: null
 resources:
 - format: CSV

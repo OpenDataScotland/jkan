@@ -9,7 +9,7 @@ notes: <p>Electricity usage data from Perth &amp; Kinross Council owned building
   that have meters where automatic readings are recorded.  Data is for the last  2
   years.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/energy-electricity
+original_dataset_link: https://data.pkc.gov.uk/dataset/energy-electricity
 records: null
 resources:
 - format: CSV

@@ -19,7 +19,7 @@ notes: '<p>An Article 4 Direction is a statement made under The Town and Country
   these. This dataset should be used alongside Conservation Areas when considering
   built environment heritage constraints on development.</p>'
 organization: Dundee City Council
-original_dataset_link: ' https://data.spatialhub.scot/package/article_4_directions-dc'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-dc'
 records: null
 resources:
 - format: ''

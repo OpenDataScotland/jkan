@@ -9,7 +9,7 @@ notes: <p>Many local authorities capture details of the cycle network within the
   jurisdiction. These maybe lanes along roads or segregated paths away from vehicles.
   This dataset attempts to pull these together into a national network.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/cycling_network-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-is'
 records: null
 resources:
 - format: WFS

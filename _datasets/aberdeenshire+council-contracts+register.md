@@ -12,7 +12,7 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: http://online.aberdeenshire.gov.uk/apps/opendata/csv/contractsregister.csv
+  url: https://online.aberdeenshire.gov.uk/apps/opendata/csv/contractsregister.csv
 schema: default
 title: Contracts register
 ---

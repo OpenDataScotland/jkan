@@ -14,7 +14,7 @@ notes: '<p><strong>The dataset within this group contains the <a href="https://w
   Population Estimates Scotland</a> page.</strong>\r\n\r\n<strong>\xa9 Crown Copyright
   2022</strong>\r\n</p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-land-area-and-population-density
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-land-area-and-population-density
 records: null
 resources:
 - format: CSV

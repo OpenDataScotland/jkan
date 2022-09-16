@@ -15,7 +15,7 @@ notes: <p>OS VectorMap District is a simple vector dataset with a nominal scale 
   roads, railways, buildings blocks, vegetation and boundaries) as points, lines,
   polygons, and text.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-vectormap-district1
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-vectormap-district1
 records: null
 resources:
 - format: HTML

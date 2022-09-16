@@ -12,7 +12,7 @@ notes: <p>Of the seven pollutants contained in the Air Quality Standards, curren
   Quality section of the Dundee City Council <a href="https://www.dundeecity.gov.uk/service-area/neighbourhood-services/community-safety-and-protection/air-quality-dundee">website</a>
   for more information on air quality in Dundee. \r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/air-quality
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/air-quality
 records: null
 resources:
 - format: CSV

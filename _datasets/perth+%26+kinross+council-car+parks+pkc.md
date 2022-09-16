@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Location of various car parks in Perth and Kinross.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/car-parks-pkc
+original_dataset_link: https://data.pkc.gov.uk/dataset/car-parks-pkc
 records: null
 resources:
 - format: HTML

@@ -10,7 +10,7 @@ notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 11 0;'><span
   authority area. Attribute information includes site name, road name, locality and
   postcode.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/recycling-centres
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/recycling-centres
 records: null
 resources:
 - format: HTML

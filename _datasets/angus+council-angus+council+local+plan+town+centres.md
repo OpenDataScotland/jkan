@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Town Centre boundaries for the Angus Council Local Development Plan.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-local-plan-town-centres
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-local-plan-town-centres
 records: null
 resources:
 - format: WMS

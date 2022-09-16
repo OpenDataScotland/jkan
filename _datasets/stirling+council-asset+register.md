@@ -17,7 +17,7 @@ notes: '<p><strong>Stirling Council''s activities cover the area bordered by Cla
   data believed to be correct at the date of the last update, 12th February, 2019.</strong>\r\n\r\n<strong>Under
   review as at 30th June, 2022.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/asset-register
+original_dataset_link: https://data.stirling.gov.uk/dataset/asset-register
 records: null
 resources:
 - format: CSV

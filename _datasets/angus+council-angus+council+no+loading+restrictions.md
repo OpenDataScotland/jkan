@@ -8,7 +8,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Angus Council No Loading Restrictions</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-no-loading-restrictions
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-no-loading-restrictions
 records: null
 resources:
 - format: WMS

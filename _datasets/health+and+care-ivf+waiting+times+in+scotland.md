@@ -18,7 +18,7 @@ notes: '<p>Quarterly summary of waiting times and waiting lists for IVF in Scotl
   by Month and Waiting by referring Board by month files to provide additional monthly
   data. The values are expressed in the number of Weeks. </p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/ivf-waiting-times-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/ivf-waiting-times-in-scotland
 records: null
 resources:
 - format: CSV

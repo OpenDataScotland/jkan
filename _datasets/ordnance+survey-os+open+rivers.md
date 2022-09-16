@@ -10,7 +10,7 @@ notes: <p>OS Open Rivers is a two-dimensional topologically connected link and n
   central alignment of the watercourse. Attribution indicates the Flow Direction and
   Name of the watercourse.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-open-rivers
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-rivers
 records: null
 resources:
 - format: HTML

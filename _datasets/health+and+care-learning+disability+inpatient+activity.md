@@ -14,7 +14,7 @@ notes: <p>These files present information on patients with learning disabilities
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/learning-disability-inpatient-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/learning-disability-inpatient-activity
 records: null
 resources:
 - format: CSV

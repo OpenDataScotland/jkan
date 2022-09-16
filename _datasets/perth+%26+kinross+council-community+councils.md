@@ -11,7 +11,7 @@ notes: <p>Community Council boundaries adopted in November 2019. Also includes a
   its area. As the most local tier of elected representation, Community Councils play
   an important role in local democracy.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/community-councils
+original_dataset_link: https://data.pkc.gov.uk/dataset/community-councils
 records: null
 resources:
 - format: HTML

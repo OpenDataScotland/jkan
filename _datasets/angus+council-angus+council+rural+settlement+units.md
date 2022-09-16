@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Angus Council Local Development Plan Rural Settlement Units</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-rural-settlement-units
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-rural-settlement-units
 records: null
 resources:
 - format: WMS

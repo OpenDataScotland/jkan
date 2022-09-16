@@ -16,7 +16,7 @@ notes: <p>This data set contains data on class sizes in primary schools it displ
   by clicking on the following link:\r\n\r\n\r\n https://www.gov.scot/publications/primary-school-class-sizes/  \xa9
   Crown Copyright 2022</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/primary-school-class-sizes
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/primary-school-class-sizes
 records: null
 resources:
 - format: CSV

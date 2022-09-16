@@ -11,7 +11,7 @@ notes: <p>A Tree Preservation Order is a legal title plan &amp; associated descr
   Preservation Order and Trees in Conservation Areas) (Scotland) Regulations 2010.
   \r\n</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/tree-preservation-order
+original_dataset_link: https://data.pkc.gov.uk/dataset/tree-preservation-order
 records: null
 resources:
 - format: HTML

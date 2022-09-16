@@ -34,7 +34,7 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   in the September 2021 annual open data release consistent with the publication excel
   tables.</strong></p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/annual-outpatient-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-activity
 records: null
 resources:
 - format: CSV

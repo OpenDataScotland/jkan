@@ -9,7 +9,7 @@ notes: <p>The 13-15 month review form is completed at around 13-15 months of age
   is carried out by a health visitor. This review started in April 2017 and is offered
   to all children (although implementation of the review across Scotland may vary)</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/e77af7a3-32fa-4a08-8455-4fb489e5b64a'
+original_dataset_link: ' https://find.researchdata.scot/dataset/e77af7a3-32fa-4a08-8455-4fb489e5b64a'
 records: null
 resources:
 - format: JSON

@@ -11,7 +11,7 @@ notes: <div style='text-align:Left;'><div><div><p><span><span>Tubes measure nitr
   dioxide levels at their location. Used to identify any pockets of air pollution
   and provide indication of exposure levels.</span></span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/air-quality-diffusion-tubes2
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/air-quality-diffusion-tubes2
 records: null
 resources:
 - format: HTML

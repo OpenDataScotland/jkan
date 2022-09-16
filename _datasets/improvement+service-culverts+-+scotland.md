@@ -36,7 +36,7 @@ notes: <p>Scottish legislation\xa0(Section 17) of the Flood Risk Management (Sco
   \n\nThe LA "culverts" data as included in the OS MasterMap Water Network Layer is
   also available for LAs to download and use as part of this dataset</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/culverts-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-is'
 records: null
 resources:
 - format: WFS

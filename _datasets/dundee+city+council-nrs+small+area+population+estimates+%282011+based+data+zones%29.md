@@ -20,7 +20,7 @@ notes: <p>This data set contains data zone level mid-year population estimates f
   can be accessed by clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/small-area-population-estimates-2011-data-zone-based/time-series\r\n\r\n\xa9
   Crown Copyright 2022</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/small-area-population-estimates
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/small-area-population-estimates
 records: null
 resources:
 - format: CSV

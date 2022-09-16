@@ -12,7 +12,7 @@ notes: <p>A Polling Place is the building or area in which polling stations are 
   place. Polling Stations are chosen by the Returning Officer under the election rules
   for that particular election.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/polling-districts-and-polling-places
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/polling-districts-and-polling-places
 records: null
 resources:
 - format: WFS

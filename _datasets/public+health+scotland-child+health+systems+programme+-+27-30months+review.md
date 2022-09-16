@@ -10,7 +10,7 @@ notes: <p>The 27-30 month review form is completed at around 27-30 months of age
   to all children (previously only children requiring structured additional/intensive
   support).</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/d2d57b7f-95d8-425f-b2fd-cc9aff05e659'
+original_dataset_link: ' https://find.researchdata.scot/dataset/d2d57b7f-95d8-425f-b2fd-cc9aff05e659'
 records: null
 resources:
 - format: JSON

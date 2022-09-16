@@ -16,7 +16,7 @@ notes: <p>Defined in the Public Bodies (Joint Working) (Scotland) Act 2014 as a 
   Areas are then aggregated to form larger administrative or operational geographies,
   which are also made available if sent from source. \r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/sub-health-and-social-care-partnership-areas
+original_dataset_link: https://www.opendata.nhs.scot/dataset/sub-health-and-social-care-partnership-areas
 records: null
 resources:
 - format: CSV

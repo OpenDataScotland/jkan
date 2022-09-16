@@ -7,7 +7,7 @@ license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
 notes: <p>Location of road gullies in Perth and Kinross</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/gullies
+original_dataset_link: https://data.pkc.gov.uk/dataset/gullies
 records: null
 resources:
 - format: HTML

@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>This dataset contains a subset of information relating to GP contacts in
   Scotland and the reason for the contact.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/8f486c3d-9504-4a0e-8e24-ab96f057fc9e'
+original_dataset_link: ' https://find.researchdata.scot/dataset/8f486c3d-9504-4a0e-8e24-ab96f057fc9e'
 records: null
 resources:
 - format: JSON

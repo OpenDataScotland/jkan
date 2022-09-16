@@ -40,7 +40,7 @@ notes: '<div style=''text-align:left;''><p><span style=''font-size:16px;''>Not t
   unsuitable for the growth and management of trees (based on the Land Capability
   for Forestry Map)</span></p></div>'
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/forest-woodland-strategy-pkc
+original_dataset_link: https://data.pkc.gov.uk/dataset/forest-woodland-strategy-pkc
 records: null
 resources:
 - format: HTML

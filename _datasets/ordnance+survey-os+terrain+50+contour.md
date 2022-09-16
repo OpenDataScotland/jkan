@@ -9,7 +9,7 @@ notes: <p>Ordnance Surveys OS Terrain 50 Contour is a dataset representing the p
   shape of the real world. The dataset includes contours (50metre interval), spot
   heights, and high and low water marks. The product is updated and maintained annually.</p>
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-terrain-50-contour
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-terrain-50-contour
 records: null
 resources:
 - format: ''

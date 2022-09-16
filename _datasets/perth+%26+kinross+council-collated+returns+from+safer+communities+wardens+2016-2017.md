@@ -9,7 +9,7 @@ notes: <p>Collated returns from the Safer Communities team related to the work c
   out by the Community Safety Wardens and Investigators - based in four key areas
   in Perth and Kinross.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/collated-returns-from-safer-communities-wardens-2016-2017
+original_dataset_link: https://data.pkc.gov.uk/dataset/collated-returns-from-safer-communities-wardens-2016-2017
 records: null
 resources:
 - format: CSV

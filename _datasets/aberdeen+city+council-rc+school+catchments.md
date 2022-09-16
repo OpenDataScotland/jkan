@@ -10,7 +10,7 @@ maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Catchment Areas for Denominational
   Primary Schools in Aberdeen</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/rc-school-catchments
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/rc-school-catchments
 records: null
 resources:
 - format: HTML

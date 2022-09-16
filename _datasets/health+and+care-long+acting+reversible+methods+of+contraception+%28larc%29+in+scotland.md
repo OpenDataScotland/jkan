@@ -15,7 +15,7 @@ notes: <p>This dataset gives an annual update on the proportion of women of repr
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/long-acting-reversible-methods-of-contraception-larc-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/long-acting-reversible-methods-of-contraception-larc-in-scotland
 records: null
 resources:
 - format: CSV

@@ -12,7 +12,7 @@ notes: <p>This dataset reports key statistics on Inpatient, Day case and New Out
   can be found on our list of\xa0<a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/stage-of-treatment-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/stage-of-treatment-waiting-times
 records: null
 resources:
 - format: CSV

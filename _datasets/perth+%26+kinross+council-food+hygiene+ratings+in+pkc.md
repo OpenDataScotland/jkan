@@ -9,7 +9,7 @@ maintainer: Perth & Kinross Council
 notes: <p>The XML feed from the Food Standards agency for Perth and Kinross. Licensed
   under OGL 3.0 -\r\n https://www.food.gov.uk/about-us/data-and-policies/aboutsite/termsandconditions/fhrs-data-usage-open-government-licence-and-disclaimer</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/food-standards-scotland-feed
+original_dataset_link: https://data.pkc.gov.uk/dataset/food-standards-scotland-feed
 records: null
 resources:
 - format: XML

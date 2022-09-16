@@ -16,7 +16,7 @@ notes: <p>Scottish councils usually divide towns and country areas into catchmen
   which is located in west Glasgow. This is because it is a Scottish Government-funded
   school. This data will be provided by other data publishers in due course.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/school_catchments-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-is'
 records: null
 resources:
 - format: WFS

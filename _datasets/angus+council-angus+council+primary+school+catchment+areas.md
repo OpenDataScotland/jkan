@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Primary school catchment areas (delineated) in Angus.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-primary-school-catchment-areas
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-primary-school-catchment-areas
 records: null
 resources:
 - format: WMS

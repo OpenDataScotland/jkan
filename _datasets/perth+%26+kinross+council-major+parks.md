@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Location of the 8 major parks with Perth and Kinross</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/major-parks
+original_dataset_link: https://data.pkc.gov.uk/dataset/major-parks
 records: null
 resources:
 - format: HTML

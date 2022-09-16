@@ -14,7 +14,7 @@ notes: <p>These files present information on patients with mental health problem
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/mental-health-inpatient-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/mental-health-inpatient-activity
 records: null
 resources:
 - format: CSV

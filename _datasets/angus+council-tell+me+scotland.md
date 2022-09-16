@@ -9,7 +9,7 @@ maintainer: Angus Council
 notes: <p>Tells people about public notices that are published by Angus Council, eg,
   licensing and planning </p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/tell-me-scotland
+original_dataset_link: http://opendata.angus.gov.uk/dataset/tell-me-scotland
 records: null
 resources: []
 schema: default

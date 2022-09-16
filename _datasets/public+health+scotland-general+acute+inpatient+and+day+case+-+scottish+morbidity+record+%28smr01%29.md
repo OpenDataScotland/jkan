@@ -9,7 +9,7 @@ notes: <p>The General / Acute and Inpatient Day Case dataset (SMR01) collects ep
   level data on hospital inpatient and day case discharges from acute specialities
   from hospitals in Scotland.</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/98cda353-0011-45b2-80ca-4ed24cd084bf'
+original_dataset_link: ' https://find.researchdata.scot/dataset/98cda353-0011-45b2-80ca-4ed24cd084bf'
 records: null
 resources:
 - format: JSON

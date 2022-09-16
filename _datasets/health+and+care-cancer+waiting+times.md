@@ -13,7 +13,7 @@ notes: <p><strong>On the 10th of January an error was corrected for in these dat
   the route of referral from date decision to treat to first cancer treatment. Includes
   data presented by NHS Board and Cancer Type.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/cancer-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-waiting-times
 records: null
 resources:
 - format: CSV

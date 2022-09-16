@@ -17,7 +17,7 @@ notes: <p>These files present information on probable suicides registered in Sco
   Mortality webpage</a>. The next release of the ScotPHO suicide overview publication
   will be summer 2022.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/the-scottish-public-health-observatory-suicide-overview
+original_dataset_link: https://www.opendata.nhs.scot/dataset/the-scottish-public-health-observatory-suicide-overview
 records: null
 resources:
 - format: CSV

@@ -15,7 +15,7 @@ notes: <p><strong>This group contains the data zone level mid-year population es
   there are 121 within the Stirling Council area. </strong>\r\n\r\n<strong>\xa9 Crown
   Copyright 2017, 2018, 2019, 2020, 2021, 2022</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-small-area-population-estimates
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-small-area-population-estimates
 records: null
 resources:
 - format: CSV

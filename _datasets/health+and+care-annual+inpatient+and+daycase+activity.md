@@ -35,7 +35,7 @@ notes: '<p>Inpatients refer to people who are admitted to an available staffed b
   we will be applying column ordering to the Inpatient, Outpatient and Beds files
   in the next annual open data release consistent with the publication excel tables.__</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/annual-inpatient-and-daycase-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-inpatient-and-daycase-activity
 records: null
 resources:
 - format: CSV

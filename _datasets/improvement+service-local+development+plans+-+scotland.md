@@ -61,7 +61,7 @@ notes: '<p>THIS IS A ''PROOF OF CONCEPT'' DATASET AND IS NOT CURRENTLY BEING KEP
   available online. \n\nReference can also be made to Scottish Government policy on
   development plans: \n\nhttps://www.gov.scot/policies/planning-architecture/development-plans/</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/local_development_plans-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-is'
 records: null
 resources:
 - format: WFS

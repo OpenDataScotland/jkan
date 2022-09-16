@@ -14,7 +14,7 @@ notes: <p><strong>The dataset within this group contains the <a href="https://ww
   Time Series Data</a> page on the NRS website.</strong>\r\n\r\n<strong>\xa9 Crown
   Copyright 2022</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-births-time-series-data
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-births-time-series-data
 records: null
 resources:
 - format: CSV

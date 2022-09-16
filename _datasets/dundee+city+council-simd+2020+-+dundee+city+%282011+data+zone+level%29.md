@@ -37,7 +37,7 @@ notes: '<p>The Scottish Index of Multiple Deprivation (SIMD) is the Scottish Gov
   City when the SIMD was released this can be accessed by clicking on the following
   link https://www.dundeecity.gov.uk/sites/default/files/publications/simd2020_version2_briefing.pdf\r\n</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/simd-2020-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/simd-2020-dundee-city
 records: null
 resources:
 - format: CSV

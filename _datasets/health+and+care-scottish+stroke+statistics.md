@@ -15,7 +15,7 @@ notes: <p>Summary of discharges from hospital and deaths in Scotland resulting f
   publication</a>. The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-stroke-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-stroke-statistics
 records: null
 resources:
 - format: CSV

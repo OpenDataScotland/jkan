@@ -9,7 +9,7 @@ maintainer: Angus Council
 notes: <p>Properties that Angus Council owns or occupies or has owned or occupied
   or has some other interest in.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-property
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-property
 records: null
 resources:
 - format: WMS

@@ -14,7 +14,7 @@ notes: '<p>Health Protection Scotland (HPS) provides quarterly statistics and a 
   and relevant documents, including methods and caveats, are available to view at:
   https://www.hps.scot.nhs.uk/data/healthcare-associated-infection-quarterly-epidemiological-commentary/\r\n</p>'
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/quarterly-epidemiological-data-on-healthcare-associated-infections
+original_dataset_link: https://www.opendata.nhs.scot/dataset/quarterly-epidemiological-data-on-healthcare-associated-infections
 records: null
 resources:
 - format: CSV

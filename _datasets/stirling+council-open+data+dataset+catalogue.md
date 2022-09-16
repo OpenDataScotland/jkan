@@ -10,7 +10,7 @@ notes: <p><strong>Stirling Council's Open Data catalogue of datasets published o
   changes are made to platform content.</strong> \r\n\r\n<strong>A printable listing
   of the dataset catalogue is available in portable document format (PDF).</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/open-data-dataset-catalogue
+original_dataset_link: https://data.stirling.gov.uk/dataset/open-data-dataset-catalogue
 records: null
 resources:
 - format: PDF

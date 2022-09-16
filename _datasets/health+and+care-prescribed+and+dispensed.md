@@ -11,7 +11,7 @@ notes: <p>This dataset contains details of items prescribed and subsequently dis
   of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/prescribed-dispensed
+original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed
 records: null
 resources:
 - format: CSV

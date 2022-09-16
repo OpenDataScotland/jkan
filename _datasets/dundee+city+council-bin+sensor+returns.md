@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Dundee City Council
 notes: <p>Data for bins with attached sensors. </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/bin-sensor-returns
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/bin-sensor-returns
 records: null
 resources:
 - format: CSV

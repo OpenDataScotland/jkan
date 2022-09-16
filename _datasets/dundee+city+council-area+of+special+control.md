@@ -9,7 +9,7 @@ maintainer: Dundee City Council
 notes: <p>An Area of Special Control where advertisments are prohibited by a regulation
   made under s182 of Town and Country Planning (Scotland) Act 1997 </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/area-of-special-control
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/area-of-special-control
 records: null
 resources:
 - format: ''

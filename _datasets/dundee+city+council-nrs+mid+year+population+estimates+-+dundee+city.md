@@ -14,7 +14,7 @@ notes: <p>This data set contains Dundee City Mid Year Population Estimates, sour
   clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021\r\n\xa9
   Crown Copyright 2022\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/mid-year-population-estimates
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/mid-year-population-estimates
 records: null
 resources:
 - format: CSV

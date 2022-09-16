@@ -14,7 +14,7 @@ notes: <p>The following data set shows the land area and population density esti
   on the National Records of Scotland website and can be accessed by clicking on the
   link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-land-area-and-population-density-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-land-area-and-population-density-dundee-city
 records: null
 resources:
 - format: CSV

@@ -9,7 +9,7 @@ notes: <p>Responses to on-line questionnaire seeking feedback on the proposals t
   develop Monifieth Learning Campus.  Consultation ran from 23 March 2021 to 21 April
   2021.  No hardcopy responses to questions were received as part of consultation.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/monifieth-learning-campus-survey-responses
+original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-learning-campus-survey-responses
 records: null
 resources:
 - format: XLS

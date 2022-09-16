@@ -10,7 +10,7 @@ notes: <p><font size='3'>Location of polling places to be used for elections in 
   can be more than one polling station in a polling place. Polling Places can change
   over time due to the availability of the buildings.</font></p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/polling-places
+original_dataset_link: https://data.pkc.gov.uk/dataset/polling-places
 records: null
 resources:
 - format: HTML

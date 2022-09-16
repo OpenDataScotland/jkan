@@ -17,7 +17,7 @@ notes: '<p>Scottish Index of Multiple Deprivation (SIMD) splits Scotland into da
   deprived but this doesn''t mean residents are not deprived. SIMD is not a tool for
   saying <strong>how much more</strong> deprived one area is from another.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/scottish-index-of-multiple-deprivation
+original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-index-of-multiple-deprivation
 records: null
 resources:
 - format: CSV

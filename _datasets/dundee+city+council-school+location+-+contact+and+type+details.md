@@ -17,7 +17,7 @@ notes: <p>This data is sourced from the Scottish Government, School Contact Deta
   callers should also seek permission from the local authority before contacting schools
   directly</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/school-location-contact-and-type-details
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-location-contact-and-type-details
 records: null
 resources:
 - format: CSV

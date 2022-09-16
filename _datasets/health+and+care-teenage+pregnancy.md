@@ -19,7 +19,7 @@ notes: <p>This dataset provides an annual update on teenage pregnancy statistics
   can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/teenage-pregnancy
+original_dataset_link: https://www.opendata.nhs.scot/dataset/teenage-pregnancy
 records: null
 resources:
 - format: CSV

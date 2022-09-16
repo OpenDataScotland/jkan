@@ -14,7 +14,7 @@ notes: <p>This dataset contains details of items dispensed in the community at p
   can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/prescriptions-in-the-community
+original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
 - format: CSV

@@ -12,7 +12,7 @@ notes: <p>This dataset contains a lookup file of contact details for General Pra
   publications and supporting material to this topic area can be found on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/Workforce-and-Practice-Populations/">ISD
   Scotland - GP Workforce &amp; Practice Populations website</a>.</p>
 organization: Practitioner services
-original_dataset_link: https://www.opendata.nhs.scot/package/general-practitioner-contact-details
+original_dataset_link: https://www.opendata.nhs.scot/dataset/general-practitioner-contact-details
 records: null
 resources:
 - format: CSV

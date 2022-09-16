@@ -13,7 +13,7 @@ notes: <p>Speed surveys for various sites in Dundee. Surveys are carried out by 
   and\r\n</em> speed distribution in up to 5 mph intervals.\r\n\r\nThis extract provides
   a snapshot of data collected by the division.\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/speed-surveys
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/speed-surveys
 records: null
 resources:
 - format: ZIP

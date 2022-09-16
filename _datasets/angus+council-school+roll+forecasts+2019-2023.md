@@ -28,7 +28,7 @@ notes: <p>School Roll Forecasts\r\nView our 2017 based school roll forecasts for
   forecasts, therefore, can, and often do, change from year to year. They remain the
   best estimate that can be arrived at, using data currently available. \r\n</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/school-roll-forecasts-2019-2023
+original_dataset_link: http://opendata.angus.gov.uk/dataset/school-roll-forecasts-2019-2023
 records: null
 resources:
 - format: CSV

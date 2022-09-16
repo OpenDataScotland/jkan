@@ -26,7 +26,7 @@ notes: '<p>Primary 1 Body Mass Index (BMI) statistics capture important informat
   Boards and local authorities where the coverage exceeds 50%, but is not shown for
   the areas with low coverage. \r\n</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/primary-1-body-mass-index-bmi-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics
 records: null
 resources:
 - format: CSV

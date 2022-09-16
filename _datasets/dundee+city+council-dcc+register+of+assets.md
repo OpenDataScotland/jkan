@@ -13,7 +13,7 @@ notes: '<p>A Register of land and property assets that Dundee City Council owns 
   2015 can be found on the Community Asset Transfer page of the Dundee City Council
   Website and can be accessed by here: https://www.dundeecity.gov.uk/service-area/neighbourhood-services/housing-and-communities/community-empowerment/community-asset-transfer\r\n\r\n\r\n</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/dcc-register-of-assets
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/dcc-register-of-assets
 records: null
 resources:
 - format: CSV

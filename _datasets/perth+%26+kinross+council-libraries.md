@@ -7,7 +7,7 @@ license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
 notes: <p>Location of libraries in Perth and Kinross</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/libraries
+original_dataset_link: https://data.pkc.gov.uk/dataset/libraries
 records: null
 resources:
 - format: HTML

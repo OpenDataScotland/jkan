@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   - The name and/or address of the polling place (based on the Corporate Address Gazeteer
   record)</p>
 organization: Moray Council
-original_dataset_link: ' https://data.spatialhub.scot/package/polling_places-mo'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-mo'
 records: null
 resources:
 - format: ZIP

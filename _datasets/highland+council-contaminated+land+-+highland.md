@@ -30,7 +30,7 @@ notes: '<p>Land is legally defined as ''contaminated'' where substances are caus
   or remediated) and remediation dates (where applicable) are all now mandatory attributes
   for this dataset.</p>'
 organization: Highland Council
-original_dataset_link: ' https://data.spatialhub.scot/package/contaminated_land-hi'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/contaminated_land-hi'
 records: null
 resources:
 - format: ZIP

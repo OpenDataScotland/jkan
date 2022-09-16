@@ -15,7 +15,7 @@ notes: <p><strong>Datasets within this group show the monthly breakdown of the t
   for 2018, 2019 and 2020 can be found under the </strong><a href="https://data.stirling.gov.uk/dataset/waste-management"><strong>Waste
   Management (2018 to 2020, inclusive)</strong></a><strong> group on this platform.</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/waste-services-2021-onwards
+original_dataset_link: https://data.stirling.gov.uk/dataset/waste-services-2021-onwards
 records: null
 resources:
 - format: CSV

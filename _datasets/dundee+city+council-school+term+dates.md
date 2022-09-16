@@ -10,7 +10,7 @@ notes: <p>School term dates for schools within Dundee City for the following aca
   2024/25\r\n\r\nDates include public and school holidays as well as staff in service
   days.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/school-term-dates
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-term-dates
 records: null
 resources:
 - format: PDF

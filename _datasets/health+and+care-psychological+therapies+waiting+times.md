@@ -15,7 +15,7 @@ notes: <p>Psychological therapies refer to a range of interventions, based on ps
   target of 26 weeks. The data shows the performances of the board in relation to
   this standard.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/psychological-therapies-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/psychological-therapies-waiting-times
 records: null
 resources:
 - format: CSV

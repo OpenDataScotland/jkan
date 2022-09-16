@@ -23,7 +23,7 @@ notes: '<p><strong>Under FOISA , the </strong><a href="http://www.legislation.go
   Stirling Council\u2019s website for more details on </strong><a href="https://www.stirling.gov.uk/council-democracy/access-to-information/freedom-of-information/"><strong>Freedom
   of Information</strong></a><strong>.</strong> </p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/foisa-notices-orders
+original_dataset_link: https://data.stirling.gov.uk/dataset/foisa-notices-orders
 records: null
 resources:
 - format: XPS

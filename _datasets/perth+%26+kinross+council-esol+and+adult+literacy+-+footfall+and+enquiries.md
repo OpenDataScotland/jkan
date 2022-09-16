@@ -9,7 +9,7 @@ notes: <p>Collated statistics related to the attendance at English language (ESO
   and adult literacy programmes held at the Learning Curve, based at the AK Bell Library,
   organised by the Perth and Kinross Adult Literacy and Numeracy Partnership.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/learning-curve-footfall
+original_dataset_link: https://data.pkc.gov.uk/dataset/learning-curve-footfall
 records: null
 resources:
 - format: CSV

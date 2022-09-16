@@ -19,7 +19,7 @@ notes: '<p><strong>UPDATE 04/08/2022</strong>: There will be major changes to th
   and all relevant geographies in between.\r\n\r\nInformation from the <a href="http://www.gov.scot/Topics/Statistics/sns/SNSRef/StanGeoCodeRegister">Standard
   Geography Code Register</a>.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/geography-codes-and-labels
+original_dataset_link: https://www.opendata.nhs.scot/dataset/geography-codes-and-labels
 records: null
 resources:
 - format: CSV

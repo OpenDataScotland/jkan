@@ -36,7 +36,7 @@ notes: '<p>The Scottish Index of Multiple Deprivation (SIMD) is the Scottish Gov
   2016 Methodology Booklet: https://www2.gov.scot/Resource/0050/00504766.pdf\r\n\r\nSIMD
   2016 Indicator Overview Booklet: https://www2.gov.scot/Resource/0051/00510862.pdf\r\n\r\n\r\n</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/simd-2016-dundee-city-2011-data-zone-level
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/simd-2016-dundee-city-2011-data-zone-level
 records: null
 resources:
 - format: CSV

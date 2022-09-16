@@ -16,7 +16,7 @@ notes: '<p><strong>Using internal sources and data provided to the </strong><a h
   Council''s website for further information on </strong><a href="https://stirling.gov.uk/learning-education/"><strong>Learning
   &amp; Education</strong></a><strong>.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/school-location-contact-type-details
+original_dataset_link: https://data.stirling.gov.uk/dataset/school-location-contact-type-details
 records: null
 resources:
 - format: CSV

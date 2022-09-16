@@ -19,7 +19,7 @@ notes: <p>Every local authority and National Park authority (access authorities)
   Government guidance is making core paths the priority for rolling out this national
   standardised grading system information, which is set out at https://www.pathsforall.org.uk/resources/resource/the-path-managers-guide-to-grading</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/core_paths-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/core_paths-is'
 records: null
 resources:
 - format: WFS

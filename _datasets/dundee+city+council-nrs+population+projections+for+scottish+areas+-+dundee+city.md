@@ -19,7 +19,7 @@ notes: <p>This data set contains Dundee City population projections. The data is
   website:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/sub-national-population-projections/2018-based\r\n\xa9
   Crown Copyright 2020\t\t\r\n\r\n</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-population-projections-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-population-projections-dundee-city
 records: null
 resources:
 - format: CSV

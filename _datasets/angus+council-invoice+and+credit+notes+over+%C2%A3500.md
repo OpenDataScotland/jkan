@@ -15,7 +15,7 @@ notes: <p>Every six months, we publish a list of all invoices and credit notes o
   care related payments\r\n* Payments to staff\r\n\r\nThese entries have been omitted
   from the report.\r\n\r\n</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/invoice-and-credit-notes-over-f500
+original_dataset_link: http://opendata.angus.gov.uk/dataset/invoice-and-credit-notes-over-f500
 records: null
 resources:
 - format: XLS

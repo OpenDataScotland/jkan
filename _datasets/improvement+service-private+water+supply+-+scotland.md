@@ -18,7 +18,7 @@ notes: '<p>The Water Intended for Human Consumption (Private Supplies) (Scotland
   This is the location of addresses which are served by the specific PWS source.\n\n"UPRN"
   and "address" are MANDATORY fields for both these layers in this dataset.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/private_water_supply-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supply-is'
 records: null
 resources:
 - format: WFS

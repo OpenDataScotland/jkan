@@ -29,7 +29,7 @@ notes: '<p>SGN create 4 separate data layers (by pressure tier) to depict the lo
   and are not shown in the data.  Information with regard to such pipes should be
   obtained from the relevant owners</p>'
 organization: Scotia Gas Network
-original_dataset_link: ' https://data.spatialhub.scot/package/sgn_gas_network-sgn'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/sgn_gas_network-sgn'
 records: null
 resources:
 - format: WFS

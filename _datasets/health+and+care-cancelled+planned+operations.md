@@ -14,7 +14,7 @@ notes: <p>This dataset reports key statistics on the number of planned operation
   Scotland Website</a>. A selection of information from this publication is included
   in <a href="http://www.nhsperforms.scot/">NHS Performs</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/cancelled-planned-operations
+original_dataset_link: https://www.opendata.nhs.scot/dataset/cancelled-planned-operations
 records: null
 resources:
 - format: CSV

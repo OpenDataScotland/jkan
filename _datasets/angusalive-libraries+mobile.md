@@ -7,7 +7,7 @@ license: 'Custom licence: Other (Public Domain)'
 maintainer: ANGUSalive
 notes: <p>Text file of Angus Council's mobile library locations</p>
 organization: ANGUSalive
-original_dataset_link: http://opendata.angus.gov.uk/package/libraries-mobile
+original_dataset_link: http://opendata.angus.gov.uk/dataset/libraries-mobile
 records: null
 resources:
 - format: TXT

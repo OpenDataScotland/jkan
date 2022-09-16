@@ -18,7 +18,7 @@ notes: <p>To provide an effective, safe and efficient service to patients, hospi
   can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications (external website)</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/hospital-beds-information
+original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-beds-information
 records: null
 resources:
 - format: CSV

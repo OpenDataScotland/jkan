@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Street lighting columns PKC open dataset\xa0</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/street-lighting
+original_dataset_link: https://data.pkc.gov.uk/dataset/street-lighting
 records: null
 resources:
 - format: HTML

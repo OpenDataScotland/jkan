@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>Location of council recycling centres and recycling points in Perth and
   Kinross.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/recycling-points-centres
+original_dataset_link: https://data.pkc.gov.uk/dataset/recycling-points-centres
 records: null
 resources:
 - format: HTML

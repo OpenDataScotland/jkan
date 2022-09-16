@@ -9,7 +9,7 @@ notes: '<p>Data taken from cycle counter on the North Inch, alongside <a href="h
   Sports Centre</a>\r\n\r\nCounter installed by <a href="http://www.falco.co.uk/products/live-cycle-counter-data/">Falco</a>.\r\n\r\n(Note:
   position is approximate)</p>'
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/perth-bike-counts
+original_dataset_link: https://data.pkc.gov.uk/dataset/perth-bike-counts
 records: null
 resources:
 - format: CSV

@@ -14,7 +14,7 @@ notes: <p>The dataset within this group contains the National Records of Scotlan
   an extract of that table showing Perth and Kinross Council area only together with
   extracts of previous years estimates.\r\n\r\n\xa9 Crown Copyright 2021</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/nrs-land-area-population-density
+original_dataset_link: https://data.pkc.gov.uk/dataset/nrs-land-area-population-density
 records: null
 resources:
 - format: CSV

@@ -45,7 +45,7 @@ notes: '<p>Confirmed cases of COVID-19 have been identified by a positive SARS-C
   numerator is the number of women with onset of COVID-19 during pregnancy at any
   point during the specified month.\t\t\r\n</p>'
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-positive-cases-in-pregnancy-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-positive-cases-in-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV

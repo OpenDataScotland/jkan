@@ -9,7 +9,7 @@ notes: <p>Release of HSMR at Scotland, NHS Board and Hospital levels for the per
   April 2021 to March 2022. Also includes analyses of crude mortality trends over
   the longer term from July to September 2016 to January to March 2022.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/hospital-standardised-mortality-ratios
+original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-standardised-mortality-ratios
 records: null
 resources:
 - format: CSV

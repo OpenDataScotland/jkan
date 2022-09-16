@@ -19,7 +19,7 @@ notes: <p>This data provides a quarterly update on waiting times for people acce
   on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/drug-and-alcohol-treatment-waiting-times
+original_dataset_link: https://www.opendata.nhs.scot/dataset/drug-and-alcohol-treatment-waiting-times
 records: null
 resources:
 - format: CSV

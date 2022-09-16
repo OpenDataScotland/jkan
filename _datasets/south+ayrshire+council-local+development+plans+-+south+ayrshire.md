@@ -12,7 +12,7 @@ notes: <p>The Local Development Plan dataset is a composition of Local Developme
   plan is that which is published as approved and adopted by the planning authority,
   which may not be in a digital format. </p>
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/package/local_development_plans-sa'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-sa'
 records: null
 resources:
 - format: ''

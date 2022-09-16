@@ -11,7 +11,7 @@ notes: <p>The Scottish Index of Multiple Deprivation 2020 is the Scottish Govern
   education, skills and training, geographic access, crime and housing), combining
   them into a single index.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/scottish-index-of-multiple-deprivation-simd-2020
+original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-index-of-multiple-deprivation-simd-2020
 records: null
 resources:
 - format: CSV

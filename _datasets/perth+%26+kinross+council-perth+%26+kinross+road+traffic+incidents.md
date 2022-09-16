@@ -9,7 +9,7 @@ notes: <p>Filtered from DfT data, derived from data.gov.uk and published under t
   <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
   Government License v3.0</a></p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/perth-kinross-road-incidents-2015
+original_dataset_link: https://data.pkc.gov.uk/dataset/perth-kinross-road-incidents-2015
 records: null
 resources:
 - format: CSV

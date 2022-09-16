@@ -17,7 +17,7 @@ notes: <p><strong>Domestic waste collection datasets are no longer published und
   information on  environmental protection, visit </strong><a href="https://www.sepa.org.uk/"><strong>SEPA's
   website</strong></a><strong>.</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/waste-management
+original_dataset_link: https://data.stirling.gov.uk/dataset/waste-management
 records: null
 resources:
 - format: CSV

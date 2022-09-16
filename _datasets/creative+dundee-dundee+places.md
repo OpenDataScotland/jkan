@@ -14,7 +14,7 @@ notes: <p>As part of an exciting collaboration with Dundee Place Partnership, <a
   happening across the city. The places are shared in this dataset. Read more about
   the research and see other results on Creative Dundee's website. </p>
 organization: Creative Dundee
-original_dataset_link: https://data.dundeecity.gov.uk/package/places-database
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/places-database
 records: null
 resources:
 - format: CSV

@@ -19,7 +19,7 @@ notes: <table width='100%'><tbody><tr><td></td></tr><tr><td></td><td>Availabilit
   provided in this file may be useful in identifying variations in broadband availability.
   More information from - https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-update-spring-2018</td></tr></tbody></table>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/availability-of-superfast-broadband-in-pkc
+original_dataset_link: https://data.pkc.gov.uk/dataset/availability-of-superfast-broadband-in-pkc
 records: null
 resources:
 - format: HTML

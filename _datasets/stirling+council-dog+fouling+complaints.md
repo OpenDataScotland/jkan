@@ -11,7 +11,7 @@ notes: <p><strong>This dataset details complaints received from members of the p
   a dog to fail to remove and dispose appropriately any excrement after the dog has
   fouled in public places. The fine amount for this offence is \xa380.</strong>\r\n\r\n\r\n</p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/safer-communities
+original_dataset_link: https://data.stirling.gov.uk/dataset/safer-communities
 records: null
 resources:
 - format: CSV

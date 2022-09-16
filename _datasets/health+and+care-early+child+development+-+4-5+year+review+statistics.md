@@ -18,7 +18,7 @@ notes: <p>The 4-5 year review is an assessment generally carried out by a health
   of <a href="https://beta.isdscotland.org/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/early-child-development-4-5-year-review-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/early-child-development-4-5-year-review-statistics
 records: null
 resources:
 - format: CSV

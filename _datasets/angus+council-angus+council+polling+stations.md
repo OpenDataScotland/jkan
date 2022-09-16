@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Angus Council
 notes: <p>Location of current Angus Council polling stations.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-council-polling-stations
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-polling-stations
 records: null
 resources:
 - format: WMS

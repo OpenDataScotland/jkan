@@ -20,7 +20,7 @@ notes: <p>This release presents data on quit attempts made with the help of NHS 
   publication</a>. The date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/nhs-smoking-cessation-service-statistics-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/nhs-smoking-cessation-service-statistics-scotland
 records: null
 resources:
 - format: CSV

@@ -14,7 +14,7 @@ notes: '<p>A list of monuments in Dundee. In this context, Dundee City Council d
   We invite people to add to the dataset by <a href="https://survey123.arcgis.com/share/4eff890a79fb4c2d842d5972a7f31815">completing
   our online survey</a>.\r\n\r\n</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/dundee-monuments
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-monuments
 records: null
 resources:
 - format: CSV

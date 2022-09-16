@@ -11,7 +11,7 @@ notes: <p>The NaPTAN database contains all public transport access nodes in Dund
   the UK dataset.  If you are interested in a national copy of the data this is available
   from <a href="https://data.gov.uk/dataset/naptan">data.gov.uk</a>.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/naptan
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/naptan
 records: null
 resources:
 - format: CSV

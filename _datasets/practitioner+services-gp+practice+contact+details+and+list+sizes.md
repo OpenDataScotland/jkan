@@ -12,7 +12,7 @@ notes: <p>This dataset contains information on contact details and list sizes fo
   this topic area can be found on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/Workforce-and-Practice-Populations/">ISD
   Scotland - GP Workforce &amp; Practice Populations website</a>.</p>
 organization: Practitioner services
-original_dataset_link: https://www.opendata.nhs.scot/package/gp-practice-contact-details-and-list-sizes
+original_dataset_link: https://www.opendata.nhs.scot/dataset/gp-practice-contact-details-and-list-sizes
 records: null
 resources:
 - format: CSV

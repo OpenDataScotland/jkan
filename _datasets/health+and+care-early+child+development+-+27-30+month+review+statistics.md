@@ -18,7 +18,7 @@ notes: <p>The 27-30 month review is an assessment generally carried out by a hea
   area can be found on the <a href="http://www.isdscotland.org/Health-Topics/Child-Health/">ISD
   Scotland - Child Health Website</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/27-30-month-review-statistics
+original_dataset_link: https://www.opendata.nhs.scot/dataset/27-30-month-review-statistics
 records: null
 resources:
 - format: CSV

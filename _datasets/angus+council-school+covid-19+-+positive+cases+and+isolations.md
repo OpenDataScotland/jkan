@@ -15,7 +15,7 @@ notes: <p>This weekly data shows the cumulative number of positive Covid-19 case
   confirmed cases in Montrose.\r\n<em>  Cumulative confirmed cases in North Arbroath.\r\n</em>  Cumulative
   confirmed cases in West Arbroath.\r\n</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/school-covid-19-positive-cases
+original_dataset_link: http://opendata.angus.gov.uk/dataset/school-covid-19-positive-cases
 records: null
 resources:
 - format: CSV

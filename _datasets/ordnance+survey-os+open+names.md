@@ -22,7 +22,7 @@ notes: '<p>OS Open Names is a geographic directory that contains basic informati
   (INSPIRE) Geographical Names theme to ensure that it is compliant with European
   open data initiatives.</p>'
 organization: Ordnance Survey
-original_dataset_link: https://data.pkc.gov.uk/package/os-open-names
+original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-names
 records: null
 resources:
 - format: HTML

@@ -14,7 +14,7 @@ notes: <p>PKC designated landscapes within Perth and Kinross which merit special
   were digitised by Land Use Consultants, the Consultants hired to undertake the study
   to identify the LLAs.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/local-landscape-areas
+original_dataset_link: https://data.pkc.gov.uk/dataset/local-landscape-areas
 records: null
 resources:
 - format: HTML

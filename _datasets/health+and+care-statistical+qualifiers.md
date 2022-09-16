@@ -11,7 +11,7 @@ notes: <p>This is a look up file for statistical qualifiers used across all data
   (ONS). Additional Qualifiers have been added to suit the purpose of data across
   this open data website.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/statistical-qualifiers
+original_dataset_link: https://www.opendata.nhs.scot/dataset/statistical-qualifiers
 records: null
 resources:
 - format: CSV

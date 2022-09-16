@@ -16,7 +16,7 @@ notes: <p>The Hands Up Scotland Survey looks at how pupils across the country tr
   published on 24th June 2021 in the 2020 Annual Report, provide a valuable snapshot
   of school travel in Scotland.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/hands-up-scotland-survey
+original_dataset_link: https://data.pkc.gov.uk/dataset/hands-up-scotland-survey
 records: null
 resources:
 - format: CSV

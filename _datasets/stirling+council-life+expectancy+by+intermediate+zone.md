@@ -20,7 +20,7 @@ notes: '<p><strong>For each year since 2014, datasets under this heading, source
   a population of between 500 and 1000 residents, there are 121 within the Stirling
   Council area, accounting for 24 Intermediate Zones.</strong>\r\n</p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/life-expectancy-by-intermediate-zone
+original_dataset_link: https://data.stirling.gov.uk/dataset/life-expectancy-by-intermediate-zone
 records: null
 resources:
 - format: CSV

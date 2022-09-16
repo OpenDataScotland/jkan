@@ -8,7 +8,7 @@ maintainer: Perth & Kinross Council
 notes: <p>A list of the fleet vehicles and mechanical equipment controlled by the
   fleet management team</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/fleetinventory
+original_dataset_link: https://data.pkc.gov.uk/dataset/fleetinventory
 records: null
 resources:
 - format: CSV

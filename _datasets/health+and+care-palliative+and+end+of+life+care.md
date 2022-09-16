@@ -21,7 +21,7 @@ notes: <h1>Percentage of time in the last 6 months of life spent at home or in a
   during the last months of life (using hospital admissions data) and from this estimating
   the time spent at home or in a community setting.</h1>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/palliative-and-end-of-life-care
+original_dataset_link: https://www.opendata.nhs.scot/dataset/palliative-and-end-of-life-care
 records: null
 resources:
 - format: CSV

@@ -13,7 +13,7 @@ notes: <p>Estimates of the number and percentage of dwellings in Perth and Kinro
   comes from the National Records of Scotland (NRS) web pages and is covered by Crown
   Copyright. https://www.nrscotland.gov.uk/copyright-and-disclaimer\r\n</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/household-estimates-by-data-zone
+original_dataset_link: https://data.pkc.gov.uk/dataset/household-estimates-by-data-zone
 records: null
 resources:
 - format: CSV

@@ -11,7 +11,7 @@ notes: <p>This dataset contains information on list sizes for all GP practices i
   topic area can be found on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/Workforce-and-Practice-Populations/">ISD
   Scotland - GP Workforce &amp; Practice Populations website</a>.</p>
 organization: Practitioner services
-original_dataset_link: https://www.opendata.nhs.scot/package/gp-practice-populations
+original_dataset_link: https://www.opendata.nhs.scot/dataset/gp-practice-populations
 records: null
 resources:
 - format: CSV

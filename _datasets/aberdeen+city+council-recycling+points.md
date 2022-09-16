@@ -9,7 +9,7 @@ notes: <div style='text-align:Left;'><div><div><p><span>Point dataset with the l
   of Recycling </span><span>Point</span><span>s in Aberdeen City Council local authority
   area. Attribute information includes site name, road name, locality and postcode.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/recycling-points
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/recycling-points
 records: null
 resources:
 - format: HTML

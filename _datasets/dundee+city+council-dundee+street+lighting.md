@@ -13,7 +13,7 @@ notes: <p>Locations of all street lights in the city that are operated by the pa
   in an API to report faults using the light data this dataset.\r\n\r\n\r\n\r\nWFS
   can be found at:\r\n\r\nhttps://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Streetlighting_Public/WFSServer?service=wfs&amp;request=getcapabilities</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/dundee-street-lighting
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-street-lighting
 records: null
 resources:
 - format: ''

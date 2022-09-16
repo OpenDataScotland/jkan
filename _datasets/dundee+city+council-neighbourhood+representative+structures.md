@@ -14,7 +14,7 @@ notes: <p>Neighbourhood Representative Structures are supported and recognised b
   Structures is available in the Neighbourhood Resource and Development Committee
   report number 752-2002.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/neighbourhood-representative-structures
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/neighbourhood-representative-structures
 records: null
 resources:
 - format: HTML

@@ -21,7 +21,7 @@ notes: <p>This dataset is an amalgamation of licenced SEPA &amp; some Local Auth
   Scottish Water and Scottish Assessors are keen to combine data to create a complete
   and comprehensive view of all Septic Tanks in Scotland.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/septic_tanks-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/septic_tanks-is'
 records: null
 resources:
 - format: WFS

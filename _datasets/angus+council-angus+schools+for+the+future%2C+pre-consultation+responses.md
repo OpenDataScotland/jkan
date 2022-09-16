@@ -9,7 +9,7 @@ notes: <p>All responses to on-line questionnaire seeking feedback on our current
   estate and how we could improve in the future. Those questionnaires that were completed
   in paper format were also uploaded to the on-line questionnaire.</p>
 organization: Angus Council
-original_dataset_link: http://opendata.angus.gov.uk/package/angus-schools-for-the-future-pre-consultation-responses
+original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-schools-for-the-future-pre-consultation-responses
 records: null
 resources:
 - format: CSV

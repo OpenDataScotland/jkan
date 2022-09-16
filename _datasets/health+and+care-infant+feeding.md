@@ -16,7 +16,7 @@ notes: '<p>Infant feeding statistics capture important aspects of nutrition at t
   area can be found on the <a href="http://www.isdscotland.org/Health-Topics/Child-Health/Infant-Feeding/">ISD
   Scotland - Child Health Website</a>.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/infant-feeding
+original_dataset_link: https://www.opendata.nhs.scot/dataset/infant-feeding
 records: null
 resources:
 - format: CSV

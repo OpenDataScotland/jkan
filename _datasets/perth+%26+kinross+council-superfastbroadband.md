@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Superfast Broadband</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/superfastbroadband
+original_dataset_link: https://data.pkc.gov.uk/dataset/superfastbroadband
 records: null
 resources:
 - format: HTML

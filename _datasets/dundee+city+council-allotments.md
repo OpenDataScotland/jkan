@@ -18,7 +18,7 @@ notes: '<p>Allotments are plots of land that are rented by individuals or organi
   cost is different for each plot but a full size plot averages 10 poles and would
   therefore cost about \xa351 per year.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/allotments
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/allotments
 records: null
 resources:
 - format: CSV

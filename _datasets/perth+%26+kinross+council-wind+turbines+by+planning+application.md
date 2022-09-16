@@ -7,7 +7,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Location of wind turbines with relevant planning application information.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/wind-turbines-by-planning-application
+original_dataset_link: https://data.pkc.gov.uk/dataset/wind-turbines-by-planning-application
 records: null
 resources:
 - format: HTML

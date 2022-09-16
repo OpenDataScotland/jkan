@@ -22,7 +22,7 @@ notes: '<p>The Scottish Vacant and Derelict Land Survey is a national data colle
   the easting and northing provided in the survey, to create a circular polygon area
   for a site.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/package/vacant_and_derelict_land-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is'
 records: null
 resources:
 - format: WFS

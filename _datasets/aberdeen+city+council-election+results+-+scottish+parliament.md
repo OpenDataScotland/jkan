@@ -34,7 +34,7 @@ notes: '<p>In Scottish parliamentary elections voters use the <strong>first past
   list results: party name and description, number of votes received, percentage share
   of vote)</p>'
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/package/election-results-scottish-parliament
+original_dataset_link: https://data.aberdeencity.gov.uk/dataset/election-results-scottish-parliament
 records: null
 resources:
 - format: CSV

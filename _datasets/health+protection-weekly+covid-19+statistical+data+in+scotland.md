@@ -33,7 +33,7 @@ notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first iden
   staff and educational settings is presented in a new <a href="https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance">COVID-19
   Education Surveillance dataset</a> going forward.__</p>
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/weekly-covid-19-statistical-data-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/weekly-covid-19-statistical-data-in-scotland
 records: null
 resources:
 - format: CSV

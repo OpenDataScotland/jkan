@@ -12,7 +12,7 @@ notes: '<p>The Scottish Government Urban Rural Classification provides a consist
   and remote areas in Scotland.\r\n\r\nThere are four levels for classification \r\n\r\n<em>
   2-fold \r\n\r\n</em> 3-fold\r\n\r\n<em> 6-fold \r\n\r\n</em> 8-fold</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/urban-rural-classification
+original_dataset_link: https://www.opendata.nhs.scot/dataset/urban-rural-classification
 records: null
 resources:
 - format: CSV

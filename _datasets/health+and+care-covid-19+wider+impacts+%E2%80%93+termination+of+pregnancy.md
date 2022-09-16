@@ -39,7 +39,7 @@ notes: <p>As an essential service, care relating to termination of pregnancy has
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-wider-impacts-termination-of-pregnancy
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impacts-termination-of-pregnancy
 records: null
 resources:
 - format: CSV

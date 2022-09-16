@@ -9,7 +9,7 @@ notes: <p>The Better Business Partnership (BBP) is the trusted trader scheme ope
   in Perth and Kinross. The aim is to help traders comply with the law while improving
   consumer protection through a partnership approach.</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/better-business-partnership
+original_dataset_link: https://data.pkc.gov.uk/dataset/better-business-partnership
 records: null
 resources:
 - format: HTML

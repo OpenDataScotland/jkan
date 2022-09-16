@@ -30,7 +30,7 @@ notes: <p>This dataset presents information on COVID-19 vaccinations delivered t
   Institute webpage</a> and <a href="https://github.com/Public-Health-Scotland/COPS-public">PHS
   github page</a>.\r\n</p>
 organization: Health protection
-original_dataset_link: https://www.opendata.nhs.scot/package/covid-19-vaccinations-in-pregnancy-in-scotland
+original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccinations-in-pregnancy-in-scotland
 records: null
 resources:
 - format: CSV

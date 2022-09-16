@@ -12,7 +12,7 @@ notes: <p>The Dundee Local Development Plan 2019 is the land use planning docume
   policies and proposals covering the principal land use issues in the City, and provides
   the context within which decisions on planning applications will be made. </p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/dundee-local-development-plan-ldp
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-local-development-plan-ldp
 records: null
 resources:
 - format: ''

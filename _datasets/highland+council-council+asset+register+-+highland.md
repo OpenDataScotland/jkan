@@ -10,7 +10,7 @@ notes: <p>This dataset is an amalgamation of all Scottish Council Asset Register
   should follow the One Scotland Gazetteer (OSG) Classification conventions. See https://osg.scot/portal/index.jsp
   for more details.</p>
 organization: Highland Council
-original_dataset_link: ' https://data.spatialhub.scot/package/council_asset_register-hi'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_register-hi'
 records: null
 resources:
 - format: ''

@@ -11,7 +11,7 @@ notes: '<p>There are two methods of standardising: direct and indirect. \r\n\r\n
   the case of indirect standardisation). The choice of standard population is important,
   as it influences the standardised rates or ratios obtained.</p>'
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/standard-populations
+original_dataset_link: https://www.opendata.nhs.scot/dataset/standard-populations
 records: null
 resources:
 - format: CSV

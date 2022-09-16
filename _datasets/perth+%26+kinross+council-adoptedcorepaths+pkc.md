@@ -11,7 +11,7 @@ notes: <DIV STYLE="text-align:Left;font-size:12pt"><P><SPAN>Core Path network ad
   the Scottish Government website from 13/12/2011. The data includes amendments made
   after any consultation process held after the initial network was adopted.</SPAN></P></DIV>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/adoptedcorepaths-pkc
+original_dataset_link: https://data.pkc.gov.uk/dataset/adoptedcorepaths-pkc
 records: null
 resources:
 - format: HTML

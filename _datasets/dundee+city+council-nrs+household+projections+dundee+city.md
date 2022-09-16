@@ -13,7 +13,7 @@ notes: <p>This data set contains Dundee City Household Projections. This is sour
   Website which can be accessed by clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-projections/2018-based-household-projections\r\n\xa9
   Crown Copyright 2020\t</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-household-projections
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-household-projections
 records: null
 resources:
 - format: CSV

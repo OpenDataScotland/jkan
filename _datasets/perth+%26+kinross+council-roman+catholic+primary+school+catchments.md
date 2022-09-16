@@ -9,7 +9,7 @@ license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Boundaries for Roman Catholic primary school catchment areas</p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/package/roman-catholic-primary-school-catchments
+original_dataset_link: https://data.pkc.gov.uk/dataset/roman-catholic-primary-school-catchments
 records: null
 resources:
 - format: HTML

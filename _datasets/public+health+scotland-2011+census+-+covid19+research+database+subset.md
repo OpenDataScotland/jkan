@@ -8,7 +8,7 @@ maintainer: Public Health Scotland
 notes: <p>A subset of 2011 Census variables (and variable breakdowns) in the COVID-19
   Research Database</p>
 organization: Public Health Scotland
-original_dataset_link: ' https://find.researchdata.scot/package/a05aef07-c3fa-4331-905a-6b6f58eac3d5'
+original_dataset_link: ' https://find.researchdata.scot/dataset/a05aef07-c3fa-4331-905a-6b6f58eac3d5'
 records: null
 resources:
 - format: JSON

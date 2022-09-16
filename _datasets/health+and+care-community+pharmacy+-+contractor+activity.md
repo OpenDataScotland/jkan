@@ -13,7 +13,7 @@ notes: <p>Public Health Scotland has released Community Pharmacy activity and di
   of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Health and care
-original_dataset_link: https://www.opendata.nhs.scot/package/community-pharmacy-contractor-activity
+original_dataset_link: https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity
 records: null
 resources:
 - format: CSV

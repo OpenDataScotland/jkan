@@ -13,7 +13,7 @@ notes: <p><strong>For each year since 2010, this dataset shows the <a href="http
   Expectancy in Scotland, 2018-2020</a> page on the NRS website.</strong>\r\n\r\n<strong>\xa9
   Crown Copyright 2021</strong></p>
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/package/nrs-life-expectancy
+original_dataset_link: https://data.stirling.gov.uk/dataset/nrs-life-expectancy
 records: null
 resources:
 - format: CSV
