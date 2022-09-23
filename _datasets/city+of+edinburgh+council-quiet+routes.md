@@ -16,20 +16,20 @@ organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/94858a86b51046b6af1c497b5ef02d90_38
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/38
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/94858a86b51046b6af1c497b5ef02d90_38.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/94858a86b51046b6af1c497b5ef02d90_38.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/94858a86b51046b6af1c497b5ef02d90_38.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/94858a86b51046b6af1c497b5ef02d90_38.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Quiet Routes

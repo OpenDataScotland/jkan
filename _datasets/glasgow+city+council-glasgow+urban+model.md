@@ -11,8 +11,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-urban-model-1
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://gcc-urban-model.ubdc.ac.uk
 schema: default
 title: Glasgow Urban Model

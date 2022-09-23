@@ -10,8 +10,8 @@ organization: North Lanarkshire Council
 original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/content/nlcmaps::north-lanarkshire-council-gis-open-data
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://gisdata-nlcmaps.opendata.arcgis.com
 schema: default
 title: North Lanarkshire Council - GIS Open Data

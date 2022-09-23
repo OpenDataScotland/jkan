@@ -10,8 +10,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::schools-catchments-open
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer
 schema: default
 title: Schools Catchments Open

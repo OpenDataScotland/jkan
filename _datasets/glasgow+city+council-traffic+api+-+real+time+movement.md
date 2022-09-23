@@ -13,8 +13,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::traffic-api-real-time-movement
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=traffic&operation=movement
 schema: default
 title: Traffic API - Real Time Movement

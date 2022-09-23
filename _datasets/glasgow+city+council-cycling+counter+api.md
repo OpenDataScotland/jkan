@@ -12,8 +12,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::cycling-counter-api
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=mobility&operation=get-mobility-measurements
 schema: default
 title: Cycling counter API

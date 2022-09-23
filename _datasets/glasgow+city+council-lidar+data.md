@@ -11,8 +11,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::lidar-data
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/63c46ac1-b10f-4453-968e-b1e95be0e47d
 schema: default
 title: LIDAR data

@@ -24,20 +24,20 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/0a6a965ca73e4ebba98e1bcc3c1454dd/rest/services/OPEN_DATA/Area_Partnership_Grants/MapServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Area Partnership Grants

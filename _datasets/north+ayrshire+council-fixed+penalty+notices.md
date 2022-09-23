@@ -10,14 +10,14 @@ organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::fixed-penalty-notices
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/26
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::fixed-penalty-notices.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::fixed-penalty-notices.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Fixed Penalty Notices

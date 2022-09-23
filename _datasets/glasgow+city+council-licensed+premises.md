@@ -17,20 +17,20 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::licensed-premises
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/rest/services/OPEN_DATA/Licensed_Premises/MapServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Licensed Premises

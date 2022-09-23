@@ -15,8 +15,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::traffic-datex-ii-api-traffic-and-car-parking
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=55c36a318b3a0306f0009483&operation=563cea91aab82f1168298575
 schema: default
 title: "Traffic DATEX II API \u2013 Traffic and car parking"

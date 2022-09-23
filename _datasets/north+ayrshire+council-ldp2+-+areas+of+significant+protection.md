@@ -11,20 +11,20 @@ organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-areas-of-significant-protection
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/35
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-of-significant-protection.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-of-significant-protection.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-of-significant-protection.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-of-significant-protection.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: LDP2 - Areas of significant protection

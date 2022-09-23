@@ -21,20 +21,20 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cordon-count-survey
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/ebde93972b5a478ba252551c574c1a8c/rest/services/OPEN_DATA/Cordon_Count_Survey/MapServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Cordon Count Survey

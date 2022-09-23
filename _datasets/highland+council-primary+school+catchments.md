@@ -15,20 +15,20 @@ organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::primary-school-catchments
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PrimarySchoolCatchments/FeatureServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-school-catchments.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-school-catchments.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-school-catchments.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-school-catchments.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Primary School Catchments

@@ -16,8 +16,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::traffic-api-historical
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=traffic&operation=5b044adda611ad4c9b1c58b2
 schema: default
 title: Traffic API - Historical

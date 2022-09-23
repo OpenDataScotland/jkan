@@ -5,10 +5,10 @@ date_created: Non Domestic Rates Relief Recipients February 2021
 date_updated: '2021-05-07T11:46:39.003388'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>List of Non Domestic Rates Reliefs (excluding personal data) awarded in
-  respect of the Financial Year 2020/21 as at 1st June 2021. From the Financial Year
-  2021/22 details will be published on a quarterly basis in June, September, December
-  and March.</p>
+notes: <p>Lists of Non Domestic Rates Reliefs (excluding personal data) awarded beginning
+  from Financial Year 2020/21 (as at 1st June 2021). From the Financial Year 2021/22
+  details will be published on a quarterly basis in June, September, December and
+  March.</p>
 organization: Angus Council
 original_dataset_link: http://opendata.angus.gov.uk/dataset/non-domestic-rates-relief-recipients
 records: null
@@ -28,6 +28,9 @@ resources:
 - format: XLSX
   name: XLSX
   url: http://opendata.angus.gov.uk/dataset/6ad899f5-569b-4f22-a024-004c9318ede9/resource/6c268c22-494d-4e70-92eb-f2f8ea70f8cf/download/ndr-relief-recipients-june-2022.xlsx
+- format: XLSX
+  name: XLSX
+  url: http://opendata.angus.gov.uk/dataset/6ad899f5-569b-4f22-a024-004c9318ede9/resource/ef085fc7-32e3-4318-a9cf-cee71848a30b/download/ndr-relief-recipients-september-2022.xlsx
 schema: default
 title: Non Domestic Rates Relief Recipients
 ---

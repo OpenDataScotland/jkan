@@ -23,19 +23,19 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/3988df43-3516-4190-93da-16189db7329a/download/open_data_ahp_msk_referrals_with_mats_march2022.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/3988df43-3516-4190-93da-16189db7329a/download/open_data_ahp_msk_referrals_with_mats_june2022.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/6a403c6f-bff1-425e-918e-cd17a134227f/download/open_data_ahp_msk_seen_with_mats_march2022.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/6a403c6f-bff1-425e-918e-cd17a134227f/download/open_data_ahp_msk_seen_with_mats_june2022.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/eff86139-89de-4169-83d5-7b5cec2ed3e9/download/open_data_ahp_msk_waiting_march2022.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/eff86139-89de-4169-83d5-7b5cec2ed3e9/download/open_data_ahp_msk_waiting_june2022.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/7dafee1e-017a-4205-bacd-4512c7cdc3b7/download/open_data_ahp_msk_dna_march2022.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/7dafee1e-017a-4205-bacd-4512c7cdc3b7/download/open_data_ahp_msk_dna_june2022.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/8a430c87-e19f-44dc-9e55-164d570bfc6e/download/open_data_ahp_msk_seen_hscp_march2022.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/8a430c87-e19f-44dc-9e55-164d570bfc6e/download/open_data_ahp_msk_seen_hscp_june2022.csv
 schema: default
 title: Allied Health Professionals - Musculoskeletal Waiting Times
 ---

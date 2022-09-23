@@ -37,20 +37,20 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::housing-association-properties
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/c2bc8c30a5ae4297aadf8933c45532d8/rest/services/OPEN_DATA/Housning_Association_Properties/MapServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Housing Association Properties

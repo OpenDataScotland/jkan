@@ -19,20 +19,20 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-census-asl-2020
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/52383d4cda9e4cc1b77204fe53a99728/rest/services/OPEN_DATA/School_Census_ASL_2020/MapServer/0
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: KML
+  name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: ZIP
+  name: ZIP
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: School Census ASL 2020

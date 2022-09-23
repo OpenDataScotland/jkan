@@ -58,14 +58,14 @@ organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::homelessness-action-taken-by-nac
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/19
-- format: ''
-  name: ''
+- format: GEOJSON
+  name: GEOJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::homelessness-action-taken-by-nac.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ''
-  name: ''
+- format: CSV
+  name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::homelessness-action-taken-by-nac.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Homelessness - Action Taken by NAC

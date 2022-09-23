@@ -28,6 +28,9 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/5d262d5f-ae21-409b-ba46-293e2ec3ef8a/download/nomis_claimant_count_jan2018_jul2022.csv
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/86101b22-0027-49e1-a55f-0259d26dbabe/download/nomis_claimant_count_jan18_aug22.csv
 schema: default
 title: Nomis Claimant Count Data
 ---

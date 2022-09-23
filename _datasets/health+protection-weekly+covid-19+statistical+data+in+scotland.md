@@ -27,7 +27,7 @@ notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first iden
   can be found in the weekly <a href="https://publichealthscotland.scot/publications/covid-19-statistical-report/">COVID-19
   Statistical Report</a>. The date of the next release can be found on our list of
   <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.\r\n\r\nData visualisation is available to view in the <a href="https://publichealthscotland.scot/publications/covid-19-statistical-report/covid-19-statistical-report-23-june-2021/dashboard/">interactive
+  publications</a>.\r\n\r\nData visualisation is available to view in the <a href="https://publichealthscotland.scot/publications/covid-19-statistical-report/">interactive
   dashboard</a> accompanying the COVID-19 Statistical Report. \r\n\r\n__Please note
   information on COVID-19 in children and young people of educational age, education
   staff and educational settings is presented in a new <a href="https://www.opendata.nhs.scot/dataset/covid-19-education-surveillance">COVID-19

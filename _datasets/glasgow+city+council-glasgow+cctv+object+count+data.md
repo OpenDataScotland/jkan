@@ -28,8 +28,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-cctv-object-count-data
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
 schema: default
 title: Glasgow CCTV Object Count Data

@@ -12,8 +12,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/content/GlasgowGIS::open-data-design
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://data.glasgow.gov.uk
 schema: default
 title: Open Data design

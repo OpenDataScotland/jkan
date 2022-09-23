@@ -7,14 +7,15 @@ date_created: Data Zone (2011) Population Estimates
 date_updated: '2018-02-06T17:22:14.190183'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Health and care
-notes: '<p>Population estimates for all geography types in Scotland:\r\n<em>Data Zone
-  (2011) from 2011 to 2021\r\n</em>Intermediate Zone (2011) from 2011 to 2021\r\n<em>Council
-  Area (2019) from 1982 to 2021\r\n</em>Health and Social Care Partnership (2019)
-  from 1982 to 2021\r\n*Health Board (2019)  from 1981 to 2021\r\nAll resources include
-  Scotland figures for the relevant time period.\r\nPopulation estimates are broken
-  down by single year ages and by sex, and gives totals for both.\r\nBased on 2011
-  census data.\r\nNote: Health and Social Care Partnerships may also be referred to
-  as integrated joint boards or integration authorities by other public bodies.</p>'
+notes: '<p>Population estimates for all geography types in Scotland:\r\n\r\n<em> Data
+  Zone (2011) from 2011 to 2021\r\n</em> Intermediate Zone (2011) from 2011 to 2021\r\n<em>
+  Council Area (2019) from 1982 to 2021\r\n</em> Health and Social Care Partnership
+  (2019) from 1982 to 2021\r\n* Health Board (2019)  from 1981 to 2021\r\n\r\nAll
+  resources include Scotland figures for the relevant time period.\r\n\r\nPopulation
+  estimates are broken down by single year ages and by sex, and gives totals for both.\r\nBased
+  on 2011 census data.\r\n\r\nNote: Health and Social Care Partnerships may also be
+  referred to as integrated joint boards or integration authorities by other public
+  bodies.\r\n</p>'
 organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/dataset/population-estimates
 records: null

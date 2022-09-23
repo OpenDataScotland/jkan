@@ -14,8 +14,8 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::urban-model-photo-realistic-detail
 records: null
 resources:
-- format: ''
-  name: ''
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://gcc-urban-model.ubdc.ac.uk/obj_photo_realistic
 schema: default
 title: Urban Model - Photo realistic detail
