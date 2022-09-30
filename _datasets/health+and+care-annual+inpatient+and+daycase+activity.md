@@ -15,25 +15,11 @@ notes: '<p>Inpatients refer to people who are admitted to an available staffed b
   an available staffed bed in a hospital for clinical care, and requires the use of
   a bed (or trolley in lieu of a bed). For the purposes of national data, a day case
   episode refers to a patient who is admitted as a day case and is discharged on the
-  same day as planned.\r\n\r\nFor further information on procedures, see the <a href="https://beta.isdscotland.org/find-publications-and-data/health-services/hospital-care/acute-hospital-activity-and-nhs-beds-information-annual/29-september-2020">Operations/Procedures</a>
+  same day as planned.\r\n\r\nFor further information on procedures, see the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
   section of the Public Health Scotland website.\r\n\r\nFurther information on outpatient
   activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.\r\n\r\n__As part of making our open data output align better with
-  our annual publication tables, we will be adding health board of treatment column
-  and qualifier columns (HB, HBQF) to the \u201cInpatient and Day case\u201d and \u201cOutpatient\u201d
-  files which have a breakdown by Location of Treatment.\r\nThese new columns will
-  be in the position of the location columns and location  and remaining columns will
-  move two columns to the right.<strong>\r\n\r\n__In our next annual open data, we
-  will be adding the specialty grouping column and qualifier column (SpecialtyGrouping,
-  SpecialtyGroupingQF) to the \u201cBeds\u201d, \u201cInpatient and Day case\u201d
-  and \u201cOutpatient\u201d files which have a breakdown by Specialty. These new
-  columns will be in the two positions to the right of theSpecialtyNameQF column and  the
-  remaining columns will move two columns to the right.</strong>\r\n\r\n__As part
-  of making our open data output align better with our annual publication tables,
-  we will be applying column ordering to the Inpatient, Outpatient and Beds files
-  in the next annual open data release consistent with the publication excel tables.__</p>'
+  list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/\r\n</p>'
 organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-inpatient-and-daycase-activity
 records: null
@@ -76,7 +62,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/54613270-bca3-4879-825c-a130c87b7d55/download/inpatient_and_day_case_by_nhs_board_of_treatment_specialty.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2021-locations-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2022-locations-lookup.csv
 schema: default
 title: Annual Inpatient and Daycase Activity
 ---

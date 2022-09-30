@@ -5,7 +5,7 @@ category:
 date_created: Community Council Boundaries
 date_updated: '2016-05-24T14:26:05.218530'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Nan h'Eileanan an Iar
+maintainer: Na h-Eileanan an Iar
 notes: <p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge
   the gap between local authorities and communities and help to make public bodies
@@ -18,7 +18,7 @@ notes: <p>Community councils are required to be established by local authorities
   may fall within the gaps. These gaps either require amendment at source or approval
   for the IS to change.    \r\n\r\n"name", "url" and "status" are now MANDATORY fields
   for this dataset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </p>
-organization: Nan h'Eileanan an Iar
+organization: Na h-Eileanan an Iar
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-es'
 records: null
 resources:
@@ -26,5 +26,5 @@ resources:
   name: ZIP
   url: https://data.spatialhub.scot/dataset/95fa330f-8e54-4cc6-a814-4a48a8a97861/resource/3675c98c-c1e8-4018-b7f9-55143061d698/download/community-councils-2019.zip
 schema: default
-title: Community Council Boundaries - Nan h'Eileanan an Iar
+title: Community Council Boundaries - Na h-Eileanan an Iar
 ---

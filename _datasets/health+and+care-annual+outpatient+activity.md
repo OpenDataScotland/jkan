@@ -20,19 +20,11 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   does not contain residence information. ISD(S)1 also does not record information
   on the deprivation, age or sex of patients.\r\n\r\nA variety of operations are carried
   out in NHSScotland and, increasingly, less complex procedures are undertaken in
-  an outpatient setting. For further information on these procedures, see the <a href="https://beta.isdscotland.org/find-publications-and-data/health-services/hospital-care/acute-hospital-activity-and-nhs-beds-information-annual/29-september-2020">Operations/Procedures</a>
+  an outpatient setting. For further information on these procedures, see the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
   section of the Public Health Scotland website.\r\n\r\nFurther information on hospital
-  activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
+  activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.\r\n\r\n__As part of making our open data output align better with
-  our annual publication tables, we have added health board of treatment column and
-  qualifier columns (HB, HBQF) to the \u201cInpatient and Day case\u201d and \u201cOutpatient\u201d
-  files which have a breakdown by Location of Treatment.<strong>\r\n\r\n__As part
-  of making our open data output align better with our annual publication tables,
-  we have applied new column ordering to the Inpatient, Outpatient and Beds files
-  in the September 2021 annual open data release consistent with the publication excel
-  tables.</strong></p>
+  list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/\r\n</p>
 organization: Health and care
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-activity
 records: null
@@ -75,7 +67,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/882af41a-0983-4987-aee4-ceb57f902ec8/download/outpatient_by_nhs_board_of_treatment_specialty.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2021-locations-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2022-locations-lookup.csv
 schema: default
 title: Annual Outpatient Activity
 ---

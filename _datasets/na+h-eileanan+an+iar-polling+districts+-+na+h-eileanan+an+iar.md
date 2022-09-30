@@ -4,7 +4,7 @@ category:
 date_created: Western Isles Polling Districts June 2017
 date_updated: '2017-01-27T09:28:54.023469'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Nan h'Eileanan an Iar
+maintainer: Na h-Eileanan an Iar
 notes: <p>A Polling District is a geographical subdivision of an electoral area such
   as an electoral Ward within which a polling place is designated.\r\n\r\nThe Representation
   of the People Act 1983 places a duty on LA to divide the local authority area into
@@ -29,7 +29,7 @@ notes: <p>A Polling District is a geographical subdivision of an electoral area 
   related to the polling district, as defined by the LA\r\n"polling_place" - The name
   and/or address of the polling place (based on the Corporate Address Gazeteer record)
   related to the polling district, as defined by the LA</p>
-organization: Nan h'Eileanan an Iar
+organization: Na h-Eileanan an Iar
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-es'
 records: null
 resources:
@@ -43,5 +43,5 @@ resources:
   name: ZIP
   url: https://data.spatialhub.scot/dataset/e70078e2-cce3-4b0e-ac90-bfe24bce8160/resource/6aceff75-1863-44d6-9b68-42e4b10518c0/download/na-h-eileanan-siar-polling-districts-may-2022.zip
 schema: default
-title: Polling Districts - Nan h'Eileanan an Iar
+title: Polling Districts - Na h-Eileanan an Iar
 ---

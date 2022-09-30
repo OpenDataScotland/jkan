@@ -31,7 +31,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/d719af13-5fb3-430f-810e-ab3360961107/download/beds_by_location_of-treatment_specialty.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2021-locations-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2022-locations-lookup.csv
 schema: default
 title: Annual Hospital Beds Information
 ---

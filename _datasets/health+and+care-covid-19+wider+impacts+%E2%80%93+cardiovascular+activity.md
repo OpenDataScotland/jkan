@@ -36,10 +36,10 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4/download/ae_cardio_data_age_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4/download/ae_cardio_data_age_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20220927.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Cardiovascular Activity"
 ---

@@ -46,13 +46,13 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/f00851fb-8798-4612-a891-aab1d7403586/download/gestation_hb_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/f00851fb-8798-4612-a891-aab1d7403586/download/gestation_hb_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/7f789269-1547-4189-a47d-2a641db84e91/download/gestation_age_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/7f789269-1547-4189-a47d-2a641db84e91/download/gestation_age_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20220927.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Gestation at delivery"
 ---

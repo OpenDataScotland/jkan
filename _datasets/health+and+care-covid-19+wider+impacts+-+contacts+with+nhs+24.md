@@ -36,16 +36,16 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/9bac6060-345e-49ac-a87f-bc700be824aa/download/nhs24_hb_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/9bac6060-345e-49ac-a87f-bc700be824aa/download/nhs24_hb_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/bdff7323-da18-4a77-adc4-83bee3c43e83/download/nhs24_hb_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/bdff7323-da18-4a77-adc4-83bee3c43e83/download/nhs24_hb_simd_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/4f542379-dcac-4d0e-b2cf-d3670eea1aaa/download/nhs24_hscp_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/4f542379-dcac-4d0e-b2cf-d3670eea1aaa/download/nhs24_hscp_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/237ea289-7c55-403a-bdda-338b3a26ee4a/download/nhs24_hscp_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/237ea289-7c55-403a-bdda-338b3a26ee4a/download/nhs24_hscp_simd_20220927.csv
 schema: default
 title: COVID-19 Wider Impacts - Contacts with NHS 24
 ---

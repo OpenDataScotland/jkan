@@ -35,22 +35,22 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/f8f3a435-1925-4c5a-b2e8-e58fdacf04bb/download/hospital_admissions_hb_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/f8f3a435-1925-4c5a-b2e8-e58fdacf04bb/download/hospital_admissions_hb_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/746f9bac-77f1-43fe-b69f-5ca2cde2201b/download/hospital_admissions_hb_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/746f9bac-77f1-43fe-b69f-5ca2cde2201b/download/hospital_admissions_hb_simd_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/b8aeb539-fcf8-4f66-aae8-20213508a1b7/download/hospital_admissions_hb_specialty_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/b8aeb539-fcf8-4f66-aae8-20213508a1b7/download/hospital_admissions_hb_specialty_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/aec5cc00-3ad6-41fb-9101-37c66bad29d4/download/hospital_admissions_hscp_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/aec5cc00-3ad6-41fb-9101-37c66bad29d4/download/hospital_admissions_hscp_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/95a324b3-7610-4151-9287-ccd9cb191686/download/hospital_admissions_hscp_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/95a324b3-7610-4151-9287-ccd9cb191686/download/hospital_admissions_hscp_simd_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/02696773-7aaf-48ce-b3d5-479d86fc8334/download/hospital_admissions_hscp_specialty_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/02696773-7aaf-48ce-b3d5-479d86fc8334/download/hospital_admissions_hscp_specialty_20220927.csv
 schema: default
 title: COVID-19 Wider Impacts - Hospital Admissions
 ---

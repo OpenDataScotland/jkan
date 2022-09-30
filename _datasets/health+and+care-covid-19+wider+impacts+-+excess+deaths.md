@@ -38,13 +38,13 @@ records: null
 resources:
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/733aad2d-5420-4966-bc34-386a3475623f/download/deaths_hb_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/733aad2d-5420-4966-bc34-386a3475623f/download/deaths_hb_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/3f8e59f9-6133-46db-b8e6-7efed86a8b7c/download/deaths_hscp_agesex_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/3f8e59f9-6133-46db-b8e6-7efed86a8b7c/download/deaths_hscp_agesex_20220927.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/98648584-4a34-4374-832c-d3f50b6edd80/download/deaths_hb_simd_20220830.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/98648584-4a34-4374-832c-d3f50b6edd80/download/deaths_hb_simd_20220927.csv
 schema: default
 title: COVID-19 Wider Impacts - Excess Deaths
 ---
