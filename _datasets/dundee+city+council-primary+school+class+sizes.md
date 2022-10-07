@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: Primary School Class Sizes - September 2016 Dundee City
-date_updated: '2018-04-23T10:12:22.631528'
+date_created: '2018-04-23'
+date_updated: '2022-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains data on class sizes in primary schools it displays

@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: School Contact Information 2022
-date_updated: '2022-05-26T12:35:01.448151'
+date_created: '2022-05-26'
+date_updated: '2022-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data is sourced from the Scottish Government, School Contact Details

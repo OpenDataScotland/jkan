@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: ''
+date_updated: '2017-03-16'
 license: No licence
 maintainer: Highland Council
 notes: <p>Polling Places in the Highland Council area.</p>

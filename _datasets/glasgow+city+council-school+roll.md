@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: ''
-date_updated: ''
+date_updated: '2021-07-16'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Data presented here is an extract of data published by the Scottish Government

@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-02-02T17:37:06Z'
+date_created: '2017-02-02'
+date_updated: '2020-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Land area in hectares based on aggregating 2001 Data Zone data.</p>

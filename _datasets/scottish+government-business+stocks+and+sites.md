@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-05-22T09:23:35Z'
+date_created: '2018-05-22'
+date_updated: '2022-09-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number and rate (per 10,000 adults) of VAT/PAYE registered stocks and sites

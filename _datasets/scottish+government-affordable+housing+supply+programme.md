@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2017-03-22T09:21:02Z'
+date_created: '2017-03-22'
+date_updated: '2022-08-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Quarterly Scotland figures for the Affordable Housing Supply Programme approvals,

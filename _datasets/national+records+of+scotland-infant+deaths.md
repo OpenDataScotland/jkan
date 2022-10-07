@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2014-07-29T00:00:00Z'
+date_created: '2014-07-29'
+date_updated: '2022-04-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Number of infant deaths (stillbirth, perinatal and those aged under 1 year

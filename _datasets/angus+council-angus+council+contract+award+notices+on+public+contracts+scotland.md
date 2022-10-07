@@ -3,8 +3,8 @@ category:
 - Budget / Finance
 - Business and Economy
 - Elections / Politics
-date_created: Angus Council profile on Public Contract Scotland website
-date_updated: '2016-11-01T14:40:09.661245'
+date_created: '2016-11-01'
+date_updated: '2016-11-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council publishes all contract notices on the Public Contracts Scotland

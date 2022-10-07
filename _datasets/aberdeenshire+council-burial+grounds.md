@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-10'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''

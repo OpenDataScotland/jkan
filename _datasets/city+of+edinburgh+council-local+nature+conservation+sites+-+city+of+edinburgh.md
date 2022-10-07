@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Local nature conservation sites Edinburgh
-date_updated: '2016-05-24T14:25:23.509963'
+date_created: '2016-05-24'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -22,8 +22,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/a2de79a6-309a-452d-a9d4-2c3f3804ad95/resource/6f7109fb-3002-4458-801d-fd5f9f2f230c/download/lncs_jan2019_update.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Local Nature Conservation Sites - City of Edinburgh

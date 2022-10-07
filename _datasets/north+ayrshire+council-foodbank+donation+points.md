@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2019-08-22'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This dataset shows the locations within North Ayrshire where you can donate

@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:05.212875'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>A survey issued by the Scottish Government to establish the extent &amp;
@@ -15,8 +15,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/40e2eb5959c94fb2b3312a0e6f4f7490_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/ScottishVacantDerelictLand2019/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-08-12'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes

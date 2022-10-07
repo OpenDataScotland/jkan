@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-05'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Adopted Core Paths within North Ayrshire as defined in the Core Path Plan

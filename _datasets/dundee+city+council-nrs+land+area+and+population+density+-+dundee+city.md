@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: Mid 2017 - Land Area and Population Density -Dundee City
-date_updated: '2019-02-06T11:29:16.594088'
+date_created: '2019-02-06'
+date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The following data set shows the land area and population density estimate

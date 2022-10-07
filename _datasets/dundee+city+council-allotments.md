@@ -2,8 +2,8 @@
 category:
 - Food and Environment
 - Housing and Estates
-date_created: Allotments CSV
-date_updated: '2018-04-16T12:14:56.763128'
+date_created: '2018-04-16'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Allotments are plots of land that are rented by individuals or organisations

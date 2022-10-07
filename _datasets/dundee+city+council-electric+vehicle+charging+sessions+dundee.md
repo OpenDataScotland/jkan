@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: Charging Sessions Dundee 05/03/18 - 05/06/18
-date_updated: '2017-12-04T09:22:10.230822'
+date_created: '2017-12-04'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Every electric vehicle charging session at Dundee City Council owned charge

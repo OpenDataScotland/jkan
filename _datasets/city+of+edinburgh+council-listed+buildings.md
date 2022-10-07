@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2022-04-26'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p>The Listed Building Dataset comprises the statutory addresses and supplementary

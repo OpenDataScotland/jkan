@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: WMS for 2014 Local Plan Town Centres
-date_updated: '2016-11-28T10:16:07.742171'
+date_created: '2016-11-28'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Town Centre boundaries for the Angus Council Local Development Plan.</p>

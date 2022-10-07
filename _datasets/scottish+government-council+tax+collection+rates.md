@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-08-04T12:26:05Z'
+date_created: '2017-08-04'
+date_updated: '2022-09-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Data on Council Tax amounts billed and collected, up to the end of the most

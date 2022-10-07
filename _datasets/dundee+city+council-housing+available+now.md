@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: Available Now Properties
-date_updated: '2017-08-16T12:35:04.808194'
+date_created: '2017-08-16'
+date_updated: '2022-04-07'
 license: 'Custom licence: Public Sector End User Licence (Scotland)'
 maintainer: Dundee City Council
 notes: <h2>Properties available now from the Common Housing Register\r\n\r\nProperties

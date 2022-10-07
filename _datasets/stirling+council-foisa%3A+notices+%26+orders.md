@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: October 2019 to December 2019 Report (XPS)
-date_updated: '2020-07-02T09:00:08.224416'
+date_created: '2020-07-02'
+date_updated: '2022-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Under FOISA , the </strong><a href="http://www.legislation.gov.uk/asp/2002/13/contents"><strong>Freedom

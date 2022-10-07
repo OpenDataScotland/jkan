@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: SIMD 2016 - Ranks and Domain Ranks - Dundee City (2011 Data Zone Level)
-date_updated: '2019-03-04T13:36:02.725417'
+date_created: '2019-03-04'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>The Scottish Index of Multiple Deprivation (SIMD) is the Scottish Government\u2019s
@@ -45,8 +45,8 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/dataset/317dae57-3c60-4d22-8a0b-b72a9efd2b74/resource/64086498-babd-46f1-a600-b6788ff89d7b/download/simd_2016_indicator_data.csv
-- format: XLS
-  name: XLS
+- format: MS EXCEL
+  name: MS EXCEL
   url: https://data.dundeecity.gov.uk/dataset/317dae57-3c60-4d22-8a0b-b72a9efd2b74/resource/46ad9097-50d6-4064-bc3e-526527aac8d5/download/simd2016_ranks_information.xlsx
 schema: default
 title: SIMD 2016 - Dundee City (2011 Data Zone Level)

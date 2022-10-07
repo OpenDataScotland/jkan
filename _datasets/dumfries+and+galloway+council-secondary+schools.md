@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-17T11:31:23.930Z'
+date_created: '2017-11-17'
+date_updated: '2018-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Secondary Schools in Dumfries and Galloway"</p>

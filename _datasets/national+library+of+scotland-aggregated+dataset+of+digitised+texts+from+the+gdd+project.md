@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2020.0'
+date_created: '2020-01-01'
+date_updated: ''
 license: Creative Commons Attribution 4.0 International
 maintainer: National Library of Scotland
 notes: ''

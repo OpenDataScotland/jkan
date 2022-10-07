@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2017-06-15'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of surveys of severity of Invasive Species. Reporting on Hogweed,

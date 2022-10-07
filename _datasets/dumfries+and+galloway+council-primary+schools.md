@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-21T15:27:30.905Z'
+date_created: '2017-11-21'
+date_updated: '2017-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Primary Schools in Dumfries and Galloway"</p>

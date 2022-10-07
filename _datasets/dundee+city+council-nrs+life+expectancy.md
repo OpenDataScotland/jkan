@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: NRS 2015 - 2017 Life Expectancy in Dundee City
-date_updated: '2019-02-01T15:26:15.856648'
+date_created: '2019-02-01'
+date_updated: '2022-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set shows life expectancy figures at birth for males and females

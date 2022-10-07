@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-12-18T10:27:27Z'
+date_created: '2019-12-18'
+date_updated: '2022-08-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Received applications, authorised applications and issued payments for Funeral

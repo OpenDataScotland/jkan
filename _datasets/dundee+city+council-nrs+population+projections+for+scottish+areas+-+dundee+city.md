@@ -1,9 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Projected Population 2016 to 2041 - Dundee City All Persons (2016 Based
-  Projections)
-date_updated: '2019-01-31T12:16:19.658077'
+date_created: '2019-01-31'
+date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains Dundee City population projections. The data is sourced

@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'Complaints by Nature Time Series Data '
-date_updated: '2018-01-31T10:34:19.073521'
+date_created: '2018-01-31'
+date_updated: '2022-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The percentage of complaints recorded by the Council in each six month period

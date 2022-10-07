@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-09-06'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Access to data on the volume of footfall across Glasgow City Centre, generated

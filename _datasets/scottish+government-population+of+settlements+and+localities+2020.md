@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2022-04-14T13:25:43Z'
+date_created: '2022-04-14'
+date_updated: '2022-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: ''

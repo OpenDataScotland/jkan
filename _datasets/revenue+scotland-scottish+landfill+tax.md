@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-04-10T10:52:22Z'
+date_created: '2019-04-10'
+date_updated: '2022-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Scottish Landfill Tax (SLfT) revenues and contributions to the Scottish

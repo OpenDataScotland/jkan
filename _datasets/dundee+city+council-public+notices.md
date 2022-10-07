@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Transportation
-date_created: Dundee City Council Public Notices RSS Feed
-date_updated: '2017-09-25T11:15:28.373502'
+date_created: '2017-09-25'
+date_updated: '2018-02-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Dundee City Council's posts public notices through the national <a href="https://www.tellmescotland.gov.uk">Tell

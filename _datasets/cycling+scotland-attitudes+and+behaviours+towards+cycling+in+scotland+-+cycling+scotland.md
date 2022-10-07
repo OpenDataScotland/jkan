@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2020-01-23T14:17:31.971Z'
+date_created: '2020-01-23'
+date_updated: '2021-12-21'
 license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"Cycling Scotland undertakes research biennially into the attitudes and

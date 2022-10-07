@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-06-24'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Current resister of community based assets (buildings and land) owned by

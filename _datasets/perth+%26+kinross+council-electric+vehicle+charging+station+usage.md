@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: September 2016 - August 2017
-date_updated: '2017-09-15T13:03:10.781384'
+date_created: '2017-09-15'
+date_updated: '2021-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>Datasets for Perth &amp; Kinross Council's EV charging stations under the

@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2018-07-12T13:05:10.581Z'
+date_created: '2018-07-12'
+date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Contaminated Land Register"</p>

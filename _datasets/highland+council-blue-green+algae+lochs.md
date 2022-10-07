@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2015-05-13'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Blue-Green Algae warning notices for lochs within The Highland Council\

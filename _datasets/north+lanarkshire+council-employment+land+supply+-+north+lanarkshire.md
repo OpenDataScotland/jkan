@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Employment Land Supply (Industrial Land)
-date_updated: '2017-01-27T09:23:21.580652'
+date_created: '2017-01-27'
+date_updated: '2022-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -15,8 +15,8 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_supply-nl'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Employment Land Supply - North Lanarkshire

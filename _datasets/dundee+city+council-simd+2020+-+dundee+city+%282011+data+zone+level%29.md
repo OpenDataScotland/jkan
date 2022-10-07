@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: SIMD 2020 - Indicator Data Dundee City (2011 Data Zone Based)
-date_updated: '2021-04-05T13:58:42.135251'
+date_created: '2021-04-05'
+date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>The Scottish Index of Multiple Deprivation (SIMD) is the Scottish Government\u2019s

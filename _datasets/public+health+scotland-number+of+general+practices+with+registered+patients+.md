@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2017-03-24T11:00:08Z'
+date_created: '2017-03-24'
+date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Data indicates the number of general practices (GP surgeries) by area as

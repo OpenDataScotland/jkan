@@ -1,14 +1,14 @@
 ---
 category:
 - Uncategorised
-date_created: 'Care Homes For Older People '
-date_updated: '2021-06-11T09:19:21.334771'
+date_created: '2021-06-11'
+date_updated: '2022-02-18'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and unique IDs of every older
   person care home in Scotland has initially been supplied by Geoplace. It takes data
   from the Care Inspectorate and matches it to current address records from the One
-  Scotland Gazetteer. \n\nOnce this data has been validated by local government custodians,
+  Scotland Gazetteer.   Once this data has been validated by local government custodians,
   the data will help feed the Care Inspectorate data and be updated on a regular basis
   (most likely quarterly).</p>
 organization: Improvement Service

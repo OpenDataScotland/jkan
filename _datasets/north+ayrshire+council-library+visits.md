@@ -3,7 +3,7 @@ category:
 - Education
 - Sport and Leisure
 date_created: ''
-date_updated: ''
+date_updated: '2019-08-29'
 license: No licence
 maintainer: North Ayrshire Council
 notes: "<p>Number of library visits by year, branch and locality.\_</p>"

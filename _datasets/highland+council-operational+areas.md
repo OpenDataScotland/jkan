@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2019-11-18'
 license: No licence
 maintainer: Highland Council
 notes: "<p>The Highland Council Operational Areas (from 2007).<div><br /></div><div>Gemini\

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-04-04T10:46:24.051Z'
+date_created: '2019-04-04'
+date_updated: '2019-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows the locations of Cycling Scotland's Go Mountrain Bike

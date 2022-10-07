@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-04-29'
 license: No licence
 maintainer: Glasgow City Council
 notes: <div><p>Returns real time and historical bike hire data from nextbike stations

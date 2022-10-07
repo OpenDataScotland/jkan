@@ -2,7 +2,7 @@
 category:
 - Arts / Culture / History
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-01'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of War Memorials maintained by the North Ayrshire Council Streetscene

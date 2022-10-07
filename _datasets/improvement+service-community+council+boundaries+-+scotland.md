@@ -2,15 +2,15 @@
 category:
 - Council and Government
 - Planning and Development
-date_created: 'Community Council Boundaries '
-date_updated: '2021-06-11T09:17:25.582456'
+date_created: '2021-06-11'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge
   the gap between local authorities and communities and help to make public bodies
   aware of the opinions and needs of the communities they represent. Community councils
-  are statutory consultees under various processes, such as for planning applications.\n\nThere
+  are statutory consultees under various processes, such as for planning applications.  There
   are many instances where polygons do not tessellate or snap to local authority boundaries.
   The Spatial Hub processing can correct for some minor gap errors (&lt;5m) but not
   larger ones. Such gaps in the dataset mean that it cannot potentially be used for

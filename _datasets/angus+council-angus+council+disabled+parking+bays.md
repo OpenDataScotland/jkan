@@ -3,8 +3,8 @@ category:
 - Elections / Politics
 - Housing and Estates
 - Transportation
-date_created: WMS for Angus Council Disabled Bays
-date_updated: '2016-11-30T12:33:37.354821'
+date_created: '2016-11-30'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Disabled parking bays in Angus with enforceable restrictions.</p>

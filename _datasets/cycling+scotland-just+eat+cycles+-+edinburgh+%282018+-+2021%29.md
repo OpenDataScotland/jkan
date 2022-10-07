@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2021-01-28T09:02:11.656Z'
+date_created: '2021-01-28'
+date_updated: '2021-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Anonymised trip data from Just Eat Cycles in Edinburgh from its inception

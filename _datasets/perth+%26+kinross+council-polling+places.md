@@ -1,14 +1,14 @@
 ---
 category:
 - Elections / Politics
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:22.212996'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
-notes: <p><font size='3'>Location of polling places to be used for elections in PKC.\xa0A
-  polling place is a building or area in which a polling station is located. There
-  can be more than one polling station in a polling place. Polling Places can change
-  over time due to the availability of the buildings.</font></p>
+notes: "<p><font size='3'>Location of polling places to be used for elections in PKC.\_\
+  A polling place is a building or area in which a polling station is located. There\
+  \ can be more than one polling station in a polling place. Polling Places can change\
+  \ over time due to the availability of the buildings.</font></p>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/polling-places
 records: null
@@ -16,8 +16,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/909e45688aa646199cad8e8616ddef7a_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

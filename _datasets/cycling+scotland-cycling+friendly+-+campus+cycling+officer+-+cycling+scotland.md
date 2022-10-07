@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-10-21T11:39:17.535Z'
+date_created: '2019-10-21'
+date_updated: '2019-10-29'
 license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows all campuses across Scotland with a Campus Cycling Officer

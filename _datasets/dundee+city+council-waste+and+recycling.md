@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Waste Data For Scotland
-date_updated: '2018-05-10T09:14:53.904419'
+date_created: '2018-05-10'
+date_updated: '2018-05-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Local authorities are required to report to the Scottish Environmental Protection
@@ -25,8 +25,8 @@ organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/dataset/waste-and-recycling
 records: null
 resources:
-- format: ''
-  name: ''
+- format: HTML
+  name: HTML
   url: https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/waste-data-for-scotland/
 schema: default
 title: Waste and Recycling

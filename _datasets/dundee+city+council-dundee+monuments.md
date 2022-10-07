@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Dundee Monuments
-date_updated: '2018-02-23T10:05:41.239992'
+date_created: '2018-02-23'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>A list of monuments in Dundee. In this context, Dundee City Council defines

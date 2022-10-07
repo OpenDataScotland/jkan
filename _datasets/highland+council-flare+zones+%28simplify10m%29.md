@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2016-07-15'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Flare Zones within the Highland Council Area. A Flare Zone is an administrative\

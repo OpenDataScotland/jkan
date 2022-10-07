@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-05-27'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p>Special Landscape Areas from the Local Developement Plan for Edinburgh Council</p>

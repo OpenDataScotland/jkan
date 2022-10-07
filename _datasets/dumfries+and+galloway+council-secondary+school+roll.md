@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-16T14:25:40.882Z'
+date_created: '2017-11-16'
+date_updated: '2017-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Number of Pupils in Secondary schools in Dumfries and Galloway"</p>

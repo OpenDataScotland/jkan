@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Licence Applications Revenue Report Data
-date_updated: '2019-12-20T15:45:20.164955'
+date_created: '2019-12-20'
+date_updated: '2022-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>In addition to a breakdown of  the fee revenue received from taxi

@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: ''
+date_updated: '2021-07-19'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Captures the number of CCTV incidents logged by control staff for Glasgow.

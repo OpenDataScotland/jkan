@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: Estimated Life Expectancy at Birth
-date_updated: '2021-10-04T15:04:48.885755'
+date_created: '2021-10-04'
+date_updated: '2022-05-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>For each year since 2010, this dataset shows the <a href="https://www.nrscotland.gov.uk/">National

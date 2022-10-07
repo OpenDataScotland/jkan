@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-08-16T14:45:26Z'
+date_created: '2017-08-16'
+date_updated: '2022-06-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: VisitScotland
 notes: <p>Domestic tourism statistics by region and year. All figures come from the

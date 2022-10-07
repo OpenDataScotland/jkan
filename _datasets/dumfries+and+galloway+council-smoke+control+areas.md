@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2018-07-16T08:52:30.623Z'
+date_created: '2018-07-16'
+date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Smoke Control Areas"</p>

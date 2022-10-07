@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-12-09T09:10:58Z'
+date_created: '2019-12-09'
+date_updated: '2019-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of children in families benefitting from tax credits. The figures

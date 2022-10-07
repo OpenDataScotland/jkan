@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Conservation Areas
-date_updated: '2022-08-08T15:53:28.759667'
+date_created: '2022-08-08'
+date_updated: '2022-08-09'
 license: https://opendatacommons.org/licenses/odbl/
 maintainer: Dundee City Council
 notes: <p>Conservation Areas are areas of special architectural and/or historic interest,
@@ -19,8 +19,8 @@ organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/dataset/conservation-areas
 records: null
 resources:
-- format: ''
-  name: ''
+- format: HTML
+  name: HTML
   url: https://opendata-dundeecity.hub.arcgis.com/datasets/dundeecity::dcc-conservation-areas-2020/about
 schema: default
 title: Conservation Areas

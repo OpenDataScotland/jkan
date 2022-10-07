@@ -1,15 +1,16 @@
 ---
 category:
 - Transportation
-date_created: Stops (XML)
-date_updated: '2017-09-25T12:54:23.295205'
+date_created: '2017-09-25'
+date_updated: '2019-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <p>National Public Transport Access Nodes (NaPTAN) is the national system for
-  identifying access points for public transport. It is updated by local authorities
-  and the data is collated and published by the Department for Transport (DfT).\r\n\r\nThe
-  links provided lead to the up-to-date NaPTAN, filtered to only include points that
-  fall within the Perth &amp; Kinross area.</p>
+notes: '<p>National Public Transport Access Nodes (NaPTAN) is the national system
+  for identifying access points for public transport. It is updated by local authorities
+  and the data is collated and published by the Department for Transport (DfT).</p>
+
+  <p>The links provided lead to the up-to-date NaPTAN, filtered to only include points
+  that fall within the Perth &amp; Kinross area.</p>'
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/naptan-perth-kinross
 records: null

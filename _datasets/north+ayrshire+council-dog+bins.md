@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-25'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of dog bins maintained by the North Ayrshire Council Streetscene

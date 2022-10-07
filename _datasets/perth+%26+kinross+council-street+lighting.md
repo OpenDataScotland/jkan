@@ -1,11 +1,11 @@
 ---
 category:
 - Public Safety
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:54.100043'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
-notes: <p>Street lighting columns PKC open dataset\xa0</p>
+notes: "<p>Street lighting columns PKC open dataset\_</p>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/street-lighting
 records: null
@@ -13,8 +13,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/8f442f69fd9d402c8faa061e911a755b_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Street_Lighting/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

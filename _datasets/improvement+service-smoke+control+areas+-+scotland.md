@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: 'Smoke Control Areas '
-date_updated: '2021-06-11T09:20:30.817982'
+date_created: '2021-06-11'
+date_updated: '2022-08-08'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are Smoke

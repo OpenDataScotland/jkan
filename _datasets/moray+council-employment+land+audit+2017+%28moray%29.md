@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Planning and Development
-date_created: ''
-date_updated: '2017-07-10'
+date_created: '2017-07-10'
+date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
 notes: <p>Employment Land Audit 2017 sites provides am overview of the supply and

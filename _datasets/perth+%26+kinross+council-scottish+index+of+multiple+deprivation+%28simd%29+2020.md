@@ -1,15 +1,15 @@
 ---
 category:
 - Business and Economy
-date_created: SIMD2020 for Perth and Kinross
-date_updated: '2022-07-06T07:53:22.930672'
+date_created: '2022-07-06'
+date_updated: '2022-07-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <p>The Scottish Index of Multiple Deprivation 2020 is the Scottish Government\u2019s
-  official tool for identifying those places in Scotland suffering from deprivation.
-  It incorporates several different aspects of deprivation (employment, income, health,
-  education, skills and training, geographic access, crime and housing), combining
-  them into a single index.</p>
+notes: "<p>The Scottish Index of Multiple Deprivation 2020 is the Scottish Government\u2019\
+  s official tool for identifying those places in Scotland suffering from deprivation.\
+  \ It incorporates several different aspects of deprivation (employment, income,\
+  \ health, education, skills and training, geographic access, crime and housing),\
+  \ combining them into a single index.</p>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-index-of-multiple-deprivation-simd-2020
 records: null

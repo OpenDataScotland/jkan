@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Land & Property - February 2019
-date_updated: '2019-02-06T14:13:22.441209'
+date_created: '2019-02-06'
+date_updated: '2022-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Stirling Council''s activities cover the area bordered by Clackmannanshire

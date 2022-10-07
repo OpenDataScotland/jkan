@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'Council Asset Register '
-date_updated: '2021-06-11T09:20:33.652623'
+date_created: '2021-06-11'
+date_updated: '2022-03-03'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This dataset is an amalgamation of all Scottish Council Asset Registers

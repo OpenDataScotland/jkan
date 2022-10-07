@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-06-30'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>The dataset shows size of Glasgow Airport over the period between 2004 to

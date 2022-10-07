@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: NLC Town Centres
-date_updated: '2016-05-24T14:26:54.499185'
+date_created: '2016-05-24'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -17,8 +17,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/c696de8c-e5ff-456f-b76d-60aa8f488e55/resource/190bd842-14bd-4dfc-adeb-220145e0c242/download/nlc-town-centres.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
 title: Town Centres - North Lanarkshire

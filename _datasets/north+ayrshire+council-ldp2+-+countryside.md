@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-05'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Countryside within North Ayrshire as set out in the Adopted

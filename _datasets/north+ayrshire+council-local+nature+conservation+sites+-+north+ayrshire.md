@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Spatial Hub WFS - LNCS
-date_updated: '2016-05-24T14:26:50.466971'
+date_created: '2016-05-24'
+date_updated: '2022-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -16,11 +16,11 @@ organization: North Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conservation_sites-na'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
 title: Local Nature Conservation Sites - North Ayrshire

@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-11-23T16:08:03Z'
+date_created: '2018-11-23'
+date_updated: '2022-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The average amount of economic output produced per job and per hour worked

@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2018-08-03T18:07:35Z'
+date_created: '2018-08-03'
+date_updated: '2022-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>25 year projection of household size (people per household) for Council

@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Domestic Waste Collections for 2021
-date_updated: '2021-04-09T11:00:20.314513'
+date_created: '2021-04-09'
+date_updated: '2022-09-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Datasets within this group show the monthly breakdown of the tonnage

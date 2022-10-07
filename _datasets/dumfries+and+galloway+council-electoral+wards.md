@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2017-11-23T13:49:58.540Z'
+date_created: '2017-11-23'
+date_updated: '2019-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Local Government electoral wards for Dumfries and Galloway"</p>

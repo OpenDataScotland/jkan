@@ -1,34 +1,55 @@
 ---
 category:
 - Elections / Politics
-date_created: General Election 2019 - Aberdeen North Poll Summary
-date_updated: '2020-02-27T10:58:21.856834'
+date_created: '2020-02-27'
+date_updated: '2020-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
-notes: <p>The current UK Parliament constituencies were set in 2005.  The majority
-  of the Aberdeen City area falls within 2 constituencies:\r\n\r\n- <strong>Aberdeen
-  North</strong>\r\n- <strong>Aberdeen South</strong>\r\n\r\nAberdeen City Council
-  is responsible for organising general election ballots within these constituencies
-  and is therefore able to share the election results (including votes cast per candidate
-  and rejected ballots) as open data.  More information about elections and voting
-  within Aberdeen is available on the <a href="https://www.aberdeencity.gov.uk/services/council-and-democracy">Council
-  and Democracy section of the <strong>Aberdeen City Council</strong> website</a>.\r\n\r\nA
-  large part of the north of Aberdeen City, including Dyce and some parts of Bucksburn,
-  falls within the <strong>Gordon</strong> constituency where general election ballots
-  are administrated by Aberdeenshire Council.  Detailed results for Gordon, and the
-  other constituencies administrated by Aberdeenshire Council can be found on the
-  <a href="https://www.aberdeenshire.gov.uk/council-and-democracy/elections/">elections
-  section of the Aberdeenshire Council website</a>.\r\n\r\nFor more information on
-  UK Parliamentary Constituencies see the <a href="https://www.bcomm-scotland.independent.gov.uk/">Boundary
-  Commission for Scotland website</a>.   \r\n\r\n<strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>______\r\n\r\n\r\nThe
-  <strong>Election Results - General Elections</strong> dataset contains 3 text files
-  for each of the Aberdeen constituencies administrated by Aberdeen City Council,
-  in each General Election.  These files contain:\r\n\r\n<em> </em><em>Poll summary</em><em>
-  (Total electorate for the constituency, Number of ballot papers verified, Percentage
-  poll)\r\n</em> <strong>Votes Cast</strong> (the Number of votes recorded for each
-  candidate with Name of Candidate, Political Party, Total Votes received)\r\n<em>
-  </em><em>Rejected Ballots</em>* (the Numbers of ballot papers rejected for each
-  Rejection Reason)</p>
+notes: '<p>The current UK Parliament constituencies were set in 2005.  The majority
+  of the Aberdeen City area falls within 2 constituencies:</p>
+
+  <ul>
+
+  <li><strong>Aberdeen North</strong></li>
+
+  <li><strong>Aberdeen South</strong></li>
+
+  </ul>
+
+  <p>Aberdeen City Council is responsible for organising general election ballots
+  within these constituencies and is therefore able to share the election results
+  (including votes cast per candidate and rejected ballots) as open data.  More information
+  about elections and voting within Aberdeen is available on the <a href="https://www.aberdeencity.gov.uk/services/council-and-democracy">Council
+  and Democracy section of the <strong>Aberdeen City Council</strong> website</a>.</p>
+
+  <p>A large part of the north of Aberdeen City, including Dyce and some parts of
+  Bucksburn, falls within the <strong>Gordon</strong> constituency where general election
+  ballots are administrated by Aberdeenshire Council.  Detailed results for Gordon,
+  and the other constituencies administrated by Aberdeenshire Council can be found
+  on the <a href="https://www.aberdeenshire.gov.uk/council-and-democracy/elections/">elections
+  section of the Aberdeenshire Council website</a>.</p>
+
+  <p>For more information on UK Parliamentary Constituencies see the <a href="https://www.bcomm-scotland.independent.gov.uk/">Boundary
+  Commission for Scotland website</a>.   </p>
+
+  <hr />
+
+  <p>The <strong>Election Results - General Elections</strong> dataset contains 3
+  text files for each of the Aberdeen constituencies administrated by Aberdeen City
+  Council, in each General Election.  These files contain:</p>
+
+  <ul>
+
+  <li><strong>Poll summary</strong> (Total electorate for the constituency, Number
+  of ballot papers verified, Percentage poll)</li>
+
+  <li><strong>Votes Cast</strong> (the Number of votes recorded for each candidate
+  with Name of Candidate, Political Party, Total Votes received)</li>
+
+  <li><strong>Rejected Ballots</strong> (the Numbers of ballot papers rejected for
+  each Rejection Reason)</li>
+
+  </ul>'
 organization: Aberdeen City Council
 original_dataset_link: https://data.aberdeencity.gov.uk/dataset/election-results-general-elections
 records: null

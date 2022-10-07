@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2022-09-02T09:40:38.815Z'
+date_created: '2022-09-02'
+date_updated: '2022-09-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Average number of contacts between age groups during each wave of the Scottish

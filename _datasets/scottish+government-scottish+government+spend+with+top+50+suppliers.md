@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2020-12-04T07:20:01Z'
+date_created: '2020-12-04'
+date_updated: '2021-07-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>This dataset details the Scottish Government's spend with it's top 50 suppliers,

@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2016-07-07'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Operational Areas within the Environmental Health Section of The Highland\

@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Planning and Development
-date_created: 'Alcohol Prohibition Areas '
-date_updated: '2021-06-11T09:20:25.634026'
+date_created: '2021-06-11'
+date_updated: '2022-08-09'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local authorities have the power to make by-laws to prohibit the drinking

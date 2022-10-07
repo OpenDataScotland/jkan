@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: ''
-date_updated: ''
+date_updated: '2018-04-16'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>The Local Government (Allowance and Expenses) (Scotland) Regulations 2007

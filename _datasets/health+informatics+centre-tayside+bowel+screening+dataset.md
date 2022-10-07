@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: datadictionary.json
-date_updated: '2022-03-24T19:18:01.940437'
+date_created: '2022-03-24'
+date_updated: '2022-04-05'
 license: No licence
 maintainer: Health Informatics Centre
-notes: <p>NHS Tayside health board bowel screening program.\n\n</p>
+notes: <p>NHS Tayside health board bowel screening program.  </p>
 organization: Health Informatics Centre
 original_dataset_link: ' https://find.researchdata.scot/dataset/00201dde-1faf-41d3-b282-5c24c0ca3697'
 records: null

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-05-07'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Real time and historical cycling counts across the city centre using the

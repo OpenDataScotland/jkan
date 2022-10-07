@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
 notes: <div><div style='box-sizing:border-box;'><p>A real time traffic API allowing

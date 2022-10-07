@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Solar Powered Compactor Bin Locations
-date_updated: '2018-08-07T09:12:11.650108'
+date_created: '2018-08-07'
+date_updated: '2019-08-16'
 license: https://opendatacommons.org/licenses/odbl/
 maintainer: Dundee City Council
 notes: <p>Waste generation and number of collections of individual units within Dundee

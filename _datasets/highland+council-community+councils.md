@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-15'
 license: No licence
 maintainer: Highland Council
 notes: '<div><span style=''font-size:medium;''>Community Councils in The Highland

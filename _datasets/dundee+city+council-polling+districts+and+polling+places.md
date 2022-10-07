@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: DCC Polling districts and Polling places
-date_updated: '2022-02-28T14:25:44.001674'
+date_created: '2022-02-28'
+date_updated: '2022-05-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>A Polling Place is the building or area in which polling stations are contained.

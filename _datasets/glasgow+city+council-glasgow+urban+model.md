@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: ''
+date_updated: '2022-01-14'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Glasgow Urban Model is a 3D digital representation of the City Centre and

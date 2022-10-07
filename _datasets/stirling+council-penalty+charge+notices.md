@@ -1,8 +1,8 @@
 ---
 category:
 - Public Safety
-date_created: Penalty Charge Notices April 2018 to March 2019
-date_updated: '2019-02-27T14:38:24.713773'
+date_created: '2019-02-27'
+date_updated: '2022-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong><a href="https://www.legislation.gov.uk/ukpga/1991/40/contents">Decriminalised

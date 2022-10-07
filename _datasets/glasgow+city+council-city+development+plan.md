@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-12-13'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Spatial Data layers referenced in City Development Plan Policy and Proposals

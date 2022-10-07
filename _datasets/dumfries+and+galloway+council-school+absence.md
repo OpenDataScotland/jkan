@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-15T10:44:08.462Z'
+date_created: '2017-11-15'
+date_updated: '2017-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Percentage of Absences by Authorised, Unauthorised and Exclusions"</p>

@@ -1,8 +1,8 @@
 ---
 category:
 - Parks / Recreation
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:59.692210'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Location of the 8 major parks with Perth and Kinross</p>
@@ -13,8 +13,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/eb47b24b436442bd96c520aecc26ae72_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Major_Parks/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

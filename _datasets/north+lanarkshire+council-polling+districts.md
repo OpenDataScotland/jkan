@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: ''
+date_updated: '2017-04-12'
 license: No licence
 maintainer: North Lanarkshire Council
 notes: '<p><span style=''color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;,

@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: ''
+date_updated: '2021-04-30'
 license: No licence
 maintainer: Glasgow City Council
 notes: <div><div style='box-sizing:border-box;'><div><p>Returns details for nextbike

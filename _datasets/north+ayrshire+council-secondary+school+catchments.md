@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-25'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of non denominational secondary school catchment areas within

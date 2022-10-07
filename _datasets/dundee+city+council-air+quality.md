@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Air Quality Monitoring Locations - CSV
-date_updated: '2018-02-12T18:56:30.738413'
+date_created: '2018-02-12'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Of the seven pollutants contained in the Air Quality Standards, currently

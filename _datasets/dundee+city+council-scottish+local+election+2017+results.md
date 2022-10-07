@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: Coldside Ward 2017 Election Results
-date_updated: '2017-12-08T09:56:27.951909'
+date_created: '2017-12-08'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Dundee City Council 2017 Election Results. The preference profile reports

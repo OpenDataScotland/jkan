@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: 15:38:45Z
+date_created: '2022-10-07'
+date_updated: '2020-03-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The number and percentage of people who are employment deprived</p>

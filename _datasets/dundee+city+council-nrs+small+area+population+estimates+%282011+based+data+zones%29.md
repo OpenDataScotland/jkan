@@ -1,9 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: 2017 - All Persons Single Year of Age - Small Area Population Estimates
-  Dundee City Data Zones
-date_updated: '2019-01-29T15:25:43.478163'
+date_created: '2019-01-29'
+date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains data zone level mid-year population estimates for

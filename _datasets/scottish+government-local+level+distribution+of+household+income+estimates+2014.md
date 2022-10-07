@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-05-23T09:13:55Z'
+date_created: '2017-05-23'
+date_updated: '2018-06-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Gross household income distribution estimates at Data Zone level for 2014</p>

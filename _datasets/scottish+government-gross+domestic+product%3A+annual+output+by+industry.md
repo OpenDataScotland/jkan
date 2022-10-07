@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-08-23T09:11:21Z'
+date_created: '2017-08-23'
+date_updated: '2022-08-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The value of goods and services produced annually, reported as an index

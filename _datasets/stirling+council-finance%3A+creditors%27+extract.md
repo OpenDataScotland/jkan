@@ -1,8 +1,8 @@
 ---
 category:
 - Budget / Finance
-date_created: Quarter 1, Financial Year 2017/2018
-date_updated: '2019-07-02T12:53:09.105241'
+date_created: '2019-07-02'
+date_updated: '2022-09-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Breakdown of individual payments to and credits from suppliers providing

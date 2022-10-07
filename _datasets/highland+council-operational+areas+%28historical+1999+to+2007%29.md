@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2015-09-18'
 license: No licence
 maintainer: Highland Council
 notes: "<p>The 8 historical\_Operational Areas from 1999-2007 - ie. Caithness, Sutherland,\

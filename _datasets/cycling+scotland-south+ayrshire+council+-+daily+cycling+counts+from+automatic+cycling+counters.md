@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2022-01-26T20:45:06.777Z'
+date_created: '2022-01-26'
+date_updated: '2022-02-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within South Ayrshire

@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: datadictionary.json
-date_updated: '2021-09-08T09:55:37.912419'
+date_created: '2021-09-08'
+date_updated: '2022-10-07'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>This dataset contains COVID-19 Vaccination events in Scotland since December

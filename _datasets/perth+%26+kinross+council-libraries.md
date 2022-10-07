@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:44.810111'
+date_created: '2022-08-18'
+date_updated: '2022-09-07'
 license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
 notes: <p>Location of libraries in Perth and Kinross</p>
@@ -13,8 +13,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/53ba039182684b8bb366ba846f0d821e_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Libraries/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: 'Register of Assets '
-date_updated: '2022-03-16T10:18:11.707637'
+date_created: '2022-03-16'
+date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>A Register of land and property assets that Dundee City Council owns or

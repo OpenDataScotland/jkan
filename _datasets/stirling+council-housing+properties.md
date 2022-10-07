@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Housing Stock Properties as at June 2018
-date_updated: '2018-05-28T11:45:59.334128'
+date_created: '2018-05-28'
+date_updated: '2022-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Profile of Stirling Council's housing properties and yearly allocations.</strong></p>

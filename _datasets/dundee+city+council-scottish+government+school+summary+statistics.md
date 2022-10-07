@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: '2021 School Summary Statistics - Dundee City '
-date_updated: '2018-04-24T09:59:36.164634'
+date_created: '2018-04-24'
+date_updated: '2022-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Scottish Government publishes its School Level Summary Statistics publication
@@ -32,11 +32,11 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/dataset/b11a1991-abab-4900-a8ab-731239ada4ab/resource/547e2ec5-f273-49c5-af77-60759272dc63/download/2019_school_summary_dundee_data.csv
-- format: .ZIP
-  name: .ZIP
+- format: ZIP
+  name: ZIP
   url: https://data.dundeecity.gov.uk/dataset/b11a1991-abab-4900-a8ab-731239ada4ab/resource/9999b612-6e50-4c9b-9fdf-7bfca6a5b312/download/total-pupils-and-teachers-sept-2005-2018.zip
-- format: XLSX
-  name: XLSX
+- format: MS EXCEL
+  name: MS EXCEL
   url: https://data.dundeecity.gov.uk/dataset/b11a1991-abab-4900-a8ab-731239ada4ab/resource/b8d10c39-8dc8-4415-b795-553d11a0865e/download/total-pupils-and-teachers-sept-2017.xlsx
 schema: default
 title: Scottish Government School Summary Statistics

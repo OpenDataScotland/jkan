@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Local Biodiversity Sites
-date_updated: '2016-05-24T14:27:53.750680'
+date_created: '2016-05-24'
+date_updated: '2022-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West Lothian Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given

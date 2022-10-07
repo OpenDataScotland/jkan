@@ -1,8 +1,8 @@
 ---
 category:
 - Arts / Culture / History
-date_created: Dundee Places
-date_updated: '2017-10-30T16:02:27.315083'
+date_created: '2017-10-30'
+date_updated: '2019-03-19'
 license: Creative Commons Attribution 4.0 International
 maintainer: Creative Dundee
 notes: <p>As part of an exciting collaboration with Dundee Place Partnership, <a href="https://creativedundee.com/">Creative

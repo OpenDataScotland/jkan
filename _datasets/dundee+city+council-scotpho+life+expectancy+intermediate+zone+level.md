@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'ScotPHO - Estimated Life Expectancy at Birth: 2014'
-date_updated: '2022-06-17T15:19:50.449480'
+date_created: '2022-06-17'
+date_updated: '2022-06-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Scottish Public Health Observatory (ScotPHO) which is led by Public

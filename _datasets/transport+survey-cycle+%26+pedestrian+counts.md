@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: January 2020 to December 2020
-date_updated: '2021-04-26T08:01:53.078784'
+date_created: '2021-04-26'
+date_updated: '2022-08-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Survey
 notes: <p><strong>This group details the output from transport monitoring of cyclist
@@ -37,8 +37,8 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/0ab8ea65-2634-405c-8a40-a092973e7429/download/20220211-cycle-pedestrian-counts-jan-2021-to-dec-2021.csv
-- format: JPEG
-  name: JPEG
+- format: Image
+  name: Image
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/b2839a83-e188-4c5e-8983-3be63039cd85/download/20210526-craigs-roundabout-map.jpg
 - format: CSV
   name: CSV

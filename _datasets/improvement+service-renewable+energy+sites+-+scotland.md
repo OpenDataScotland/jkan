@@ -1,13 +1,13 @@
 ---
 category:
 - Uncategorised
-date_created: 'Renewable Energy Sites: Points '
-date_updated: '2021-06-11T09:20:15.071852'
+date_created: '2021-06-11'
+date_updated: '2022-05-11'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>All local authorities will receive planning applications for renewable energy
   sites. Some local authorities have provided us with such data, from which we have
-  selected only approved and/ or operational sites.\n\nWe have also received separate
+  selected only approved and/ or operational sites.  We have also received separate
   files of data showing renwable energy sites - both as point and polygon, and we
   have attempted to merge all of this data together to form a national dataset.</p>
 organization: Improvement Service

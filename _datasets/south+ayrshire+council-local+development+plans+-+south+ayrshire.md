@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Local_Development_Plan
-date_updated: '2017-01-27T09:25:14.447915'
+date_created: '2017-01-27'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -15,8 +15,8 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-sa'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WMSServer?request=GetCapabilities&service=WMS
 schema: default
 title: Local Development Plans - South Ayrshire

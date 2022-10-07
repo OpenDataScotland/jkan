@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-06-19T10:01:24Z'
+date_created: '2018-06-19'
+date_updated: '2022-03-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Mid-year population estimates for built-up areas of Scotland. </p>

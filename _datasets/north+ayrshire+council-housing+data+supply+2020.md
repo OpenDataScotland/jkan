@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: ''
+date_updated: '2021-10-08'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Polygons showing sites included in the North Ayrshire Housing Land Supply

@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: WMS for Angus Council Polling Stations
-date_updated: '2016-11-30T11:34:47.431503'
+date_created: '2016-11-30'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Location of current Angus Council polling stations.</p>

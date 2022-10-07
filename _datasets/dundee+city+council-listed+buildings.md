@@ -1,8 +1,8 @@
 ---
 category:
 - Arts / Culture / History
-date_created: Listed Buildings - CSV
-date_updated: '2018-02-15T10:23:21.113211'
+date_created: '2018-02-15'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Buildings are listed by Historic Scotland for their special architectural

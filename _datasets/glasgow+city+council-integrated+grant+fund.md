@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: ''
+date_updated: '2021-06-29'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Glasgow City Council's Integrated Grant Fund (IGF) provides grant funding

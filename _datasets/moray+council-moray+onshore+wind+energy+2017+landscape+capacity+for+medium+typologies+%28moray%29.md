@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2018-03-29'
+date_created: '2018-03-29'
+date_updated: '2020-12-01'
 license: No licence
 maintainer: Moray Council
 notes: <p>Moray Onshore Wind Energy 2017 Landscape Capacity For Medium Typologies

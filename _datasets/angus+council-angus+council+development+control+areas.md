@@ -2,8 +2,8 @@
 category:
 - Food and Environment
 - Planning and Development
-date_created: WMS for Angus Council Local Plan Development Boundary
-date_updated: '2016-11-28T11:48:21.336917'
+date_created: '2016-11-28'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Development control boundaries in Angus</p>

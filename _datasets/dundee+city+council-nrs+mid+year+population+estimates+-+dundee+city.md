@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: 2017 - Estimates Single Yr of Age and Sex- Dundee City
-date_updated: '2019-01-29T15:40:55.579366'
+date_created: '2019-01-29'
+date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains Dundee City Mid Year Population Estimates, sourced

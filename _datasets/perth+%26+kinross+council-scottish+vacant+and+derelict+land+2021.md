@@ -1,8 +1,8 @@
 ---
 category:
 - Housing and Estates
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:35:55.686334'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: '<p style=''font-size:16px;''>A survey issued by the Scottish Government to
@@ -17,8 +17,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/47bcd12c44834147bca0741cb9501ba8_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Scottish_Vacant_and_Derelict_Land_2021/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

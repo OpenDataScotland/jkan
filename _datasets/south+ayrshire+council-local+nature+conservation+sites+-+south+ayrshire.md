@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Special Areas of Conservation
-date_updated: '2016-05-24T14:27:27.041124'
+date_created: '2016-05-24'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -16,8 +16,8 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conservation_sites-sa'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Nature Conservation Sites - South Ayrshire

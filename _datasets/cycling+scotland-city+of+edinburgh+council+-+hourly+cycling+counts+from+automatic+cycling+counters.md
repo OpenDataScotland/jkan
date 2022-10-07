@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2021-02-23T15:43:12.673Z'
+date_created: '2021-02-23'
+date_updated: '2021-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within City of Edinburgh

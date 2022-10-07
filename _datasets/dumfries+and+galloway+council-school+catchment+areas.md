@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-16T15:14:09.245Z'
+date_created: '2017-11-16'
+date_updated: '2020-12-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Dumfries and Galloway School Catchment area boundaries"</p>

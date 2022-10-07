@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2018-12-18T13:28:31.800Z'
+date_created: '2018-12-18'
+date_updated: '2021-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Schools in Scotland which delivered Bikeability Scotland training in 2017/18.

@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/map-spatial-data/roy-gazetteer/
 records: 0
 resources:
-- format: 'UK/ROY/GAZETTEER/#DOWNLOAD '
-  name: 'UK/ROY/GAZETTEER/#DOWNLOAD '
+- format: URL
+  name: URL
   url: 'https://maps.nls.uk/roy/gazetteer/#download '
 schema: default
 title: Roy Gazetteer

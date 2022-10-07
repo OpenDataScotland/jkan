@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-03-28'
 license: No licence
 maintainer: Highland Council
 notes: '<p>Community Partnerships in Highland Council area (revised March 2017).</p>

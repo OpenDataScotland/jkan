@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ''
-date_updated: '2017-11-29T14:02:26.204Z'
+date_created: '2017-11-29'
+date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Physical Education provision in primary and secondary schools in Dumfries

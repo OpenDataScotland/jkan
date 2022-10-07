@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-12-04'
+date_created: '2017-12-04'
+date_updated: '2018-09-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: "<p>Scottish Index of Multiple Deprivation (SIMD) 2016 indicator data for Renfrewshire.\_\

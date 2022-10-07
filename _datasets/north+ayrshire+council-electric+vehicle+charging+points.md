@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2020-02-13'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Locations of Electric Vehicle Charging Points within, or close to, North

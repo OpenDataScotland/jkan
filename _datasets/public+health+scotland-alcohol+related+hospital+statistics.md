@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2019-04-08T08:26:40Z'
+date_created: '2019-04-08'
+date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The alcohol-related inpatient and day case activity taking place within

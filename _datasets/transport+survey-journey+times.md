@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: Journey Times, January 2019 to December 2019
-date_updated: '2019-09-04T11:44:26.427460'
+date_created: '2019-09-04'
+date_updated: '2022-08-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Survey
 notes: <p><strong>This dataset grouping details the output from transport monitoring

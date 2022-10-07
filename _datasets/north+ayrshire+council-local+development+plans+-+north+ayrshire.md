@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Spatial Hub WFS
-date_updated: '2017-01-27T09:25:11.803347'
+date_created: '2017-01-27'
+date_updated: '2022-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -15,8 +15,8 @@ organization: North Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-na'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Development Plans - North Ayrshire

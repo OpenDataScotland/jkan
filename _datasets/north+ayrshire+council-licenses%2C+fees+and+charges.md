@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Law and Licensing
 date_created: ''
-date_updated: ''
+date_updated: '2018-10-31'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>These are the Licenses, Fees and Charges from various services across North

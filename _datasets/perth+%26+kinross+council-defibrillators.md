@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:57.019198'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Defibrillators
@@ -14,8 +14,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/693571a48faf4520a0a210398e5385b3_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Defibrillators/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

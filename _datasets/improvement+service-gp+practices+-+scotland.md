@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'GP Practices '
-date_updated: '2021-06-11T09:19:30.993030'
+date_created: '2021-06-11'
+date_updated: '2022-02-18'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and unique ID of every registered

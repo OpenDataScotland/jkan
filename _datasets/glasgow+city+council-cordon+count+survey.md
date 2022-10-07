@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-10-07'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Glasgow City Council has undertaken annual surveys since 2007 to evaluate\

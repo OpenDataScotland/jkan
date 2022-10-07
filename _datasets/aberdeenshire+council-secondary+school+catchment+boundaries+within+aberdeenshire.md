@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: ''
-date_updated: ''
+date_updated: '2021-06-01'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''

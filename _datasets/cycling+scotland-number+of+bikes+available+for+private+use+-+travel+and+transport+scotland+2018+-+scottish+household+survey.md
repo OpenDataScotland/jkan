@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-11-26T15:08:45.181Z'
+date_created: '2019-11-26'
+date_updated: '2021-09-14'
 license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"Data from Transport and Travel in Scotland and the Scottish Household Survey

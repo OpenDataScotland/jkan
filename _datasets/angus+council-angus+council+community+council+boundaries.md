@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: WMS for Angus Council Community Councils
-date_updated: '2016-11-28T09:22:22.021462'
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Community Councils within Angus. A Community Council is a voluntary organisation

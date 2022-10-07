@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: Location, Contact & Type Details
-date_updated: '2022-04-21T15:07:22.968577'
+date_created: '2022-04-21'
+date_updated: '2022-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Using internal sources and data provided to the </strong><a href="https://www.gov.scot/"><strong>Scottish

@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Transportation
-date_created: WMS for Angus Council No Loading restrictions
-date_updated: '2016-11-30T14:40:19.295930'
+date_created: '2016-11-30'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council No Loading Restrictions</p>

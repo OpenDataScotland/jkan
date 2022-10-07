@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'Table KS201SC Ethnic Group - Dundee City '
-date_updated: '2019-02-19T16:09:33.536698'
+date_created: '2019-02-19'
+date_updated: '2022-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains Dundee City level data from the 2011 Census. Data

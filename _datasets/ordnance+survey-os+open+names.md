@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: OS Open Data download page
-date_updated: '2017-08-25T17:00:36.599606'
+date_created: '2017-08-25'
+date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Ordnance Survey
 notes: '<p>OS Open Names is a geographic directory that contains basic information

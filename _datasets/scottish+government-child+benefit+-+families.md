@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-12-14T12:02:39Z'
+date_created: '2018-12-14'
+date_updated: '2020-08-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Geographical analysis of families claiming Child Benefit at small area levels.

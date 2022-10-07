@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: '2016 Estimates by Age Groups: Males'
-date_updated: '2021-07-30T14:09:26.875031'
+date_created: '2021-07-30'
+date_updated: '2022-05-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The datasets within this group contain the <a href="https://www.nrscotland.gov.uk/">National

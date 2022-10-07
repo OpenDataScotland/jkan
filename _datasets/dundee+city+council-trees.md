@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Dundee Trees - CSV
-date_updated: '2018-02-15T11:02:07.885377'
+date_created: '2018-02-15'
+date_updated: '2022-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains information and location data of public trees across

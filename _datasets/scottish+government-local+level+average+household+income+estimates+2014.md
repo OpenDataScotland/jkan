@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-05-16T08:43:39Z'
+date_created: '2017-05-16'
+date_updated: '2018-06-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Mean and median gross household income estimates at Data Zone level for

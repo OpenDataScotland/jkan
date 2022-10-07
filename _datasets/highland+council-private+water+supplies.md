@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2016-09-27'
 license: No licence
 maintainer: Highland Council
 notes: <p>This dataset contains the location details of Type A and Type B Private

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2021-08-27T10:45:43.733Z'
+date_created: '2021-08-27'
+date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This data set holds the locations for all of Cycling Scotland's permanent

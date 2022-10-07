@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: WMS for Angus Council Rural Settlement Units
-date_updated: '2016-11-30T11:42:55.223375'
+date_created: '2016-11-30'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council Local Development Plan Rural Settlement Units</p>

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: Cycle Parking
-date_updated: '2017-09-23T16:23:43.310056'
+date_created: '2017-09-23'
+date_updated: '2017-10-25'
 license: https://opendatacommons.org/licenses/odbl/
 maintainer: Dundee City Council
 notes: <p>The Council's Active Travel team conducted a survey of bicycle parking in

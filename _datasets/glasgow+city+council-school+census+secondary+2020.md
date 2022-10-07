@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Education
 date_created: ''
-date_updated: ''
+date_updated: '2021-12-07'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and collates\

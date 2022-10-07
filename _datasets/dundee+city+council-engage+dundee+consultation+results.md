@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: Engage Dundee - Scoring Comparison
-date_updated: '2018-01-31T12:27:53.526620'
+date_created: '2018-01-31'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Place Standard is used to evaluate the quality of a \u201cplace\u201d.

@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: ''
-date_updated: ''
+date_updated: '2016-04-25'
 license: No licence
 maintainer: North Lanarkshire Council
 notes: <p>Denominational Secondary Schools Catchments</p>

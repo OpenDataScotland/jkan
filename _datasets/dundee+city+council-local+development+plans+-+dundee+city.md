@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: LDP layers
-date_updated: '2017-01-27T09:25:06.987516'
+date_created: '2017-01-27'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -15,8 +15,8 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-dc'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: http://dundeecity.maps.arcgis.com/home/item.html?id=6bd0011538594e8e9f422d24b22d7f8c
 schema: default
 title: Local Development Plans - Dundee City

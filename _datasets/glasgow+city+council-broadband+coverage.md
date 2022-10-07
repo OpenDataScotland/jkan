@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2021-09-14'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Coverage data from mobile and fixed telecoms operators, as of May 2019,

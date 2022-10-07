@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2018-04-19'
+date_created: '2018-04-19'
+date_updated: '2020-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Community Councils Divisions 2013 - 2017 (Moray). The purpose of community

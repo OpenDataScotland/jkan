@@ -10,8 +10,8 @@ organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/map-spatial-data/gb1900/
 records: 0
 resources:
-- format: UK/DATA/#TABGB1900
-  name: UK/DATA/#TABGB1900
+- format: URL
+  name: URL
   url: http://www.visionofbritain.org.uk/data/#tabgb1900
 schema: default
 title: GB1900 gazetteer

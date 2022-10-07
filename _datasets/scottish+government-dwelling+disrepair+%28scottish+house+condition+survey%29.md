@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2018-03-28T17:16:51Z'
+date_created: '2018-03-28'
+date_updated: '2020-11-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The proportion of households with any (basic) disrepair, disrepair to critical

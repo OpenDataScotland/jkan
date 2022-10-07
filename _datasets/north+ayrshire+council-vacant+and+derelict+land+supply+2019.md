@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2020-02-24'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of areas of Vacant and Derelict Land within North Ayrshire.</p>

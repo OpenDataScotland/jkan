@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: User Guide Version 2.0
-date_updated: '2019-02-14T15:53:30.361830'
+date_created: '2019-02-14'
+date_updated: '2020-01-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The resources within this area provide users with information and

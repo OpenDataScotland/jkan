@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: Town Centres
-date_updated: '2016-05-24T14:26:22.098919'
+date_created: '2016-05-24'
+date_updated: '2022-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -17,8 +17,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/73d6777b-195d-455d-abff-0d46b2cb52b1/resource/5f303f97-7e0c-417b-9919-8f58e70990d0/download/glasgow_towncentres.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Town Centres - Glasgow City

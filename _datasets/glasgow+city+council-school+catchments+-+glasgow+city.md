@@ -1,18 +1,40 @@
 ---
 category:
 - Education
-date_created: Gaelic Primary catchments
-date_updated: '2016-05-24T14:26:21.736100'
+date_created: '2016-05-24'
+date_updated: '2022-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
-notes: <p>Scottish councils usually divide towns and country areas into catchments
-  and children living in a catchment area will usually go to the same local school.
-  Domestic properties typically have a catchment area for each of their local:\r\n-
-  primary non-denominational (PN), \r\n- secondary non-denominational (SN), \r\n-
-  primary denominational/ Catholic (PD) and \r\n- secondary denominational/ Catholic
-  (SN) schools.\r\n\r\nThis dataset contains four separate layers (representing those
-  above categories), which we deliver together as one single web service or zip folder.  \r\n\r\n"name"
-  and "seed_code" are now MANDATORY fields for this dataset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </p>
+notes: "<p>Scottish councils usually divide towns and country areas into catchments\
+  \ and children living in a catchment area will usually go to the same local school.\
+  \ Domestic properties typically have a catchment area for each of their local:\n\
+  \ - primary non-denominational (PN), \n - secondary non-denominational (SN), \n\
+  \ - primary denominational/ Catholic (PD) and \n - secondary denominational/ Catholic\
+  \ (SN) schools.</p>\n<p>This dataset contains four separate layers (representing\
+  \ those above categories), which we deliver together as one single web service or\
+  \ zip folder.  </p>\n<p>\"name\" and \"seed_code\" are now MANDATORY fields for\
+  \ this dataset.                                                                \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                       </p>"
 organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-gc'
 records: null
@@ -47,20 +69,20 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/0dd3ba82-60af-4fd6-b49c-9f2e81246fe6/resource/f8fc1d13-49c1-453c-8e1e-95b27175f716/download/rcsec.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: School Catchments - Glasgow City

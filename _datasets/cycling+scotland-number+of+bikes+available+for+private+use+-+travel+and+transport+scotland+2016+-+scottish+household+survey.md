@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2018-05-15T10:17:06.963Z'
+date_created: '2018-05-15'
+date_updated: '2019-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from Transport and Travel in Scotland and the Scottish Household Survey

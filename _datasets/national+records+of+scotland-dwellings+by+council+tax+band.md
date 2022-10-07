@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2017-01-25T13:35:52Z'
+date_created: '2017-01-25'
+date_updated: '2022-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Number of dwellings by Council Tax band, and percentage of dwellings in

@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2022-03-31'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\

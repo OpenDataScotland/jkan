@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'Employment Land Supply '
-date_updated: '2021-06-11T09:19:49.420192'
+date_created: '2021-06-11'
+date_updated: '2022-05-24'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in

@@ -1,13 +1,16 @@
 ---
 category:
 - Uncategorised
-date_created: 01/01/17 - 19/08/17
-date_updated: '2017-08-21T15:19:58.518581'
+date_created: '2017-08-21'
+date_updated: '2019-06-25'
 license: 'Custom licence: other-closed'
 maintainer: Perth & Kinross Council
 notes: '<p>Data taken from cycle counter on the North Inch, alongside <a href="https://www.google.co.uk/maps/place/56%C2%B024''10.7%22N+3%C2%B026''02.1%22W/@56.4026754,-3.4344972,18.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d56.402973!4d-3.433914">Bells
-  Sports Centre</a>\r\n\r\nCounter installed by <a href="http://www.falco.co.uk/products/live-cycle-counter-data/">Falco</a>.\r\n\r\n(Note:
-  position is approximate)</p>'
+  Sports Centre</a></p>
+
+  <p>Counter installed by <a href="http://www.falco.co.uk/products/live-cycle-counter-data/">Falco</a>.</p>
+
+  <p>(Note: position is approximate)</p>'
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/perth-bike-counts
 records: null

@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-08-21T12:54:48Z'
+date_created: '2019-08-21'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: '<p>Expenditure for Best Start Grant (BSG) Pregnancy and Baby Payment, Early

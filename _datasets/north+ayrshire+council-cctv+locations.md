@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-01'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Shows the location, type and coverage of North Ayrshire Council CCTV cameras.</p>

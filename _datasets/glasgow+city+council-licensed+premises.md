@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: ''
-date_updated: ''
+date_updated: '2021-08-06'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They are

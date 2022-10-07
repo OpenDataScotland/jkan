@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2019-09-24T08:34:54Z'
+date_created: '2019-09-24'
+date_updated: '2022-09-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Indicators of population health and related risk factors from the Scottish

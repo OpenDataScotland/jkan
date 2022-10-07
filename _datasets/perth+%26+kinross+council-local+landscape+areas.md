@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:06.599950'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>PKC designated landscapes within Perth and Kinross which merit special attention,
@@ -20,8 +20,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/6248c7f5bac94006888f68f7d8457ea2_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Local_Landscape_Areas/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

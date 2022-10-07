@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: SIMD 2020 Domains Methodology
-date_updated: '2021-04-30T16:27:42.613643'
+date_created: '2021-04-30'
+date_updated: '2022-08-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><a href="https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/"><strong>The

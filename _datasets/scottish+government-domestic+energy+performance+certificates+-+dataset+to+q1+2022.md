@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2018-05-01T13:34:11Z'
+date_created: '2018-05-01'
+date_updated: '2022-08-08'
 license: No licence
 maintainer: Scottish Government
 notes: '<p>Management Information: environmental data on the Domestic Energy Performance

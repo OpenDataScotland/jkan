@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Streetlighting
-date_updated: '2022-08-23T16:27:46.577764'
+date_created: '2022-08-23'
+date_updated: '2022-08-23'
 license: Creative Commons Attribution 4.0 International
 maintainer: Dundee City Council
 notes: <p>Locations of all street lights in the city that are operated by the partnership\r\n\r\nThe
@@ -16,8 +16,8 @@ organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-street-lighting
 records: null
 resources:
-- format: ''
-  name: ''
+- format: HTML
+  name: HTML
   url: https://opendata-dundeecity.hub.arcgis.com/maps/aed5fe29dbca4e388d887e495089676e/about
 schema: default
 title: Dundee Street Lighting

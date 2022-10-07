@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-24'
 license: No licence
 maintainer: North Lanarkshire Council
 notes: <p>Alcohol Prohibition Areas</p>

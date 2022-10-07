@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-09-15'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Settlements within North Ayrshire as set out in the Local

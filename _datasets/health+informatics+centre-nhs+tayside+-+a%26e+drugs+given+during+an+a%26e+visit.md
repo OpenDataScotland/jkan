@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: datadictionary.json
-date_updated: '2022-03-24T19:18:00.485204'
+date_created: '2022-03-24'
+date_updated: '2022-04-05'
 license: No licence
 maintainer: Health Informatics Centre
 notes: <p>Accident and Emergency episode level data.</p>

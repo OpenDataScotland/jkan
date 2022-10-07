@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: CustomerServiceEnquiriesQ1Q2_2018
-date_updated: '2018-10-23T16:04:23.132882'
+date_created: '2018-10-23'
+date_updated: '2020-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>A summary of the number and type of inquiries received by Perth and Kinross

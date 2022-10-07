@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Product description
-date_updated: '2017-08-25T17:01:09.517762'
+date_created: '2017-08-25'
+date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Ordnance Survey
 notes: <p>OS Open Rivers is a two-dimensional topologically connected link and node

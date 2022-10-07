@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2021-04-29T12:31:13Z'
+date_created: '2021-04-29'
+date_updated: '2021-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Application outcome for clients responding to Equality Monitoring and Feedback

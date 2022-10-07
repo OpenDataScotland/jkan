@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2020-04-23T10:13:59Z'
+date_created: '2020-04-23'
+date_updated: '2022-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The data provide past data around COVID-19 for the daily updates provided

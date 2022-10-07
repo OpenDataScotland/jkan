@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-09-08'
 license: No licence
 maintainer: Highland Council
 notes: '<p>Primary School Catchments in Highland. </p>

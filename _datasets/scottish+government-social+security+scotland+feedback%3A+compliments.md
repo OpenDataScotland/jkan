@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-07-12T09:16:02Z'
+date_created: '2019-07-12'
+date_updated: '2022-08-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Feedback statistics covering compliments received by Social Security Scotland.</p>

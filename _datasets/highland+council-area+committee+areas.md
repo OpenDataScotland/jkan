@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2018-01-16'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Area Committee areas in The Highland Council area.<div><br /></div><div>Gemini\

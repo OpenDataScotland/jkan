@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Local Nature Conservation Sites
-date_updated: '2016-05-24T14:25:29.400132'
+date_created: '2016-05-24'
+date_updated: '2022-10-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -19,9 +19,12 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/815b1f9d-438b-470b-ac8e-9ab998cc1828/download/clacks-lncs.zip
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/0719da48-db28-4332-a0b4-4bea5440e91b/download/spatialhublncs.gpkg
+- format: No file type
+  name: No file type
+  url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/32dd0cff-f4b7-45e5-99be-f46666dbcce2/download/clacks_lncs.gpkg
 schema: default
 title: Local Nature Conservation Sites - Clackmannanshire
 ---

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2022-05-19T08:56:37.739Z'
+date_created: '2022-05-19'
+date_updated: '2022-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: "<p>\"This dataset contains the locations of Bikehangars\xAE in Edinburgh and\

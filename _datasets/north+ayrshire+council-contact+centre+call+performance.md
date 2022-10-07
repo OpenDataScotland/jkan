@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: ''
+date_updated: '2018-06-04'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This dataset shows the number of calls in the council Contact Centre that

@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-25'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>The vacant and derelict land survey is undertaken annually to establish

@@ -2,8 +2,8 @@
 category:
 - Planning and Development
 - Transportation
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:02.496227'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <DIV STYLE="text-align:Left;font-size:12pt"><P><SPAN>Core Path network adopted
@@ -17,8 +17,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/eb4ef60d344f4531ba2c628686e6cb15_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/AdoptedCorePaths_PKC/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

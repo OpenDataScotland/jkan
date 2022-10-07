@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-06-04T10:17:30Z'
+date_created: '2018-06-04'
+date_updated: '2022-05-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of awards made by Local Authorities for Discretionary Housing Payments.</p>

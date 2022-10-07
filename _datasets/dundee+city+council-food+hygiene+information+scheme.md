@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Dundee Food Hygiene Ratings (XML)
-date_updated: '2017-11-29T19:05:42.701390'
+date_created: '2017-11-29'
+date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Food hygiene rating or inspection results given to a businesses and date

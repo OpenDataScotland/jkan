@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: OGC Web Feature Service
-date_updated: '2017-10-14T06:00:20.017645'
+date_created: '2017-10-14'
+date_updated: '2022-03-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Catchment areas of all mainstream schools within the Dundee City Council

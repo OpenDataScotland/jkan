@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: ''
+date_updated: '2021-10-07'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>LIDAR data is extremely accurate 3D data generated from sensors on the ground

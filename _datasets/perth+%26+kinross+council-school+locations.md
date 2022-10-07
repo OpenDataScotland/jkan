@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:41.848978'
+date_created: '2022-08-18'
+date_updated: '2022-09-07'
 license: Creative Commons Attribution 4.0 International
 maintainer: Perth & Kinross Council
 notes: <p>Location of Schools operated by Perth and Kinross Council</p>
@@ -13,8 +13,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/fd4b1bd170a44bb1982b62da06ce60a8_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/schools/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

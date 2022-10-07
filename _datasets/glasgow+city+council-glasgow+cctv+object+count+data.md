@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: ''
+date_updated: '2022-03-14'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Object Count data collected from over 40 CCTV cameras owned by Glasgow\

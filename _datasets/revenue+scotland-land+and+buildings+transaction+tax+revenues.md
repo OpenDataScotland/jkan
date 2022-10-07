@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2018-03-22T18:08:54Z'
+date_created: '2018-03-22'
+date_updated: '2022-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Land and Buildings Transaction Tax revenues by month of submission, type

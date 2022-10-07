@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: 'Stirling Council SAPE Mid-2016: Males'
-date_updated: '2021-08-05T08:22:51.292165'
+date_created: '2021-08-05'
+date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>This group contains the data zone level mid-year population estimates

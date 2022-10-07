@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2018-10-30'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Structures including Bridges and Culverts that are within North Ayrshire</p>

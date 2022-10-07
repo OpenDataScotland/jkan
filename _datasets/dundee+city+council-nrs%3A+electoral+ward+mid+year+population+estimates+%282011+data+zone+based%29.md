@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 'NRS: 2020 Mid Year Electoral Ward Population Estimates - Dundee City'
-date_updated: '2021-08-30T16:13:45.232042'
+date_created: '2021-08-30'
+date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>National Records of Scotland publish mid year electoral ward population

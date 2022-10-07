@@ -1,8 +1,8 @@
 ---
 category:
 - Public Safety
-date_created: Dundee City Council Public Space CCTV WFS
-date_updated: '2022-02-16T11:01:15.042755'
+date_created: '2022-02-16'
+date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Dundee City Council's Public Space Camera Surveillance System has been operational

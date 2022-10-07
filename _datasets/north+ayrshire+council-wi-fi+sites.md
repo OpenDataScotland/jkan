@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: ''
+date_updated: '2017-06-22'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of Public and Corporate Wifi sites in North Ayrshire.</p>

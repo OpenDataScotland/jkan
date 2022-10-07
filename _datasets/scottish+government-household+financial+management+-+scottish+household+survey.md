@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2018-01-29T16:02:15Z'
+date_created: '2018-01-29'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>How households in Scotland manage financially, from the Scottish Household

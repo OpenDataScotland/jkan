@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2018-02-27'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Secondary school catchment areas in Highland.\_</p>\n<p>Gemini metadata\

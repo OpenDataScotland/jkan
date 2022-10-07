@@ -1,11 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: 2016 Counts by Intermediate Zone
-date_updated: '2017-09-19T13:50:24.893838'
+date_created: '2017-09-19'
+date_updated: '2019-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <p>Test using NOMIS API\r\nLicenced under OGL v3.0</p>
+notes: "<p>Test using NOMIS API\n Licenced under OGL v3.0</p>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/uk-business-counts-local-units
 records: null

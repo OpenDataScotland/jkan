@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: ArcGIS Hub Dataset
-date_updated: '2020-07-20T11:06:39.491139'
+date_created: '2020-07-20'
+date_updated: '2020-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Point dataset with the locations
@@ -15,8 +15,8 @@ resources:
 - format: HTML
   name: HTML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/906780e466904ae397d7162e6c0663b6_0
-- format: ESRI REST
-  name: ESRI REST
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Recycling_Points/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

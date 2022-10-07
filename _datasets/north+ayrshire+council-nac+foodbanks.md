@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2019-08-20'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This layer shows the location of Foodbanks within North Ayrshire.</p>

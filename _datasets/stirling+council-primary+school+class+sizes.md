@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: 'Primary School Class Sizes: September 2016'
-date_updated: '2022-04-28T07:51:16.163989'
+date_created: '2022-04-28'
+date_updated: '2022-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>As part of the annual pupil census, normally carried out in September,

@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2020-02-06'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of Waste Management Facilities within North Ayrshire as set out

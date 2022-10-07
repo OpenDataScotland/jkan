@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2018-03-12T15:32:46Z'
+date_created: '2018-03-12'
+date_updated: '2022-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Total number of applications on waiting lists and transfer lists for a local

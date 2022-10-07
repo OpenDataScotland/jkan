@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Public Litter Bin Locations
-date_updated: '2018-06-06T11:11:25.935195'
+date_created: '2018-06-06'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Locations of all public bins within Dundee City. The public bin network

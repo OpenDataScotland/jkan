@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2018-05-16T17:13:42Z'
+date_created: '2018-05-16'
+date_updated: '2021-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Percentage of adults who agree with various statements about local authority

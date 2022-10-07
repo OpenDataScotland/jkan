@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2019-05-22T11:18:29Z'
+date_created: '2019-05-22'
+date_updated: '2020-09-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Care Inspectorate
 notes: <p>Number and rate (per 10,000 people) of services registered to provide early

@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Transportation
-date_created: WMS for Angus Council No Waiting Restrictions
-date_updated: '2016-11-30T14:44:55.949896'
+date_created: '2016-11-30'
+date_updated: '2016-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council No Waiting Restrictions</p>

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2022-06-21T11:33:52.834Z'
+date_created: '2022-06-21'
+date_updated: '2022-09-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Scotland North East Trunk Roads - Hourly cycling counts from automatic

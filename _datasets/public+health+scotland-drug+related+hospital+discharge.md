@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2016-11-10T12:24:13Z'
+date_created: '2016-11-10'
+date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Number and European Age-sex Standardised Rates (EASRs) of general acute

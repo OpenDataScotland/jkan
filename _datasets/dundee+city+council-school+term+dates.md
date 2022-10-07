@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: School Term Dates - 2020/21
-date_updated: '2018-05-16T11:05:49.370846'
+date_created: '2018-05-16'
+date_updated: '2021-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>School term dates for schools within Dundee City for the following academic

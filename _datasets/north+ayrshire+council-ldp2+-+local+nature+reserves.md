@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2020-02-13'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>LNRs  are  established  in  a  variety   of locations  with  very varied  habitats  and

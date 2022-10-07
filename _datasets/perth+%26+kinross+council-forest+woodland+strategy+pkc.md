@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:07.803423'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: '<div style=''text-align:left;''><p><span style=''font-size:16px;''>Not to
@@ -46,8 +46,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/08e7f3bd7ed24bd1a978e91fa080442e_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Forest_Woodland_Strategy_PKC/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

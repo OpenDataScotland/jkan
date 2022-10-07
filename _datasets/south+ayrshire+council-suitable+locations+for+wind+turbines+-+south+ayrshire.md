@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Areas of potential for wind farm development
-date_updated: '2019-03-15T10:10:20.027123'
+date_created: '2019-03-15'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>All local authorities must create a spatial framework assessment of land

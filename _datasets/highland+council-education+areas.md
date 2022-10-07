@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2019-10-29'
 license: No licence
 maintainer: Highland Council
 notes: <p>Education Areas in The Highland Council area.<div><br /></div><div>Gemini

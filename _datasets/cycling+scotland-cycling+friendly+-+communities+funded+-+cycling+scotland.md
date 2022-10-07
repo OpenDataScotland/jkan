@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-10-21T11:53:05.320Z'
+date_created: '2019-10-21'
+date_updated: '2019-11-08'
 license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows communities across Scotland that have received funding

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2022-02-28T09:57:37.696Z'
+date_created: '2022-02-28'
+date_updated: '2022-08-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Anonymised data from Next Bike rental trips in Stirling from 2018 to 30th

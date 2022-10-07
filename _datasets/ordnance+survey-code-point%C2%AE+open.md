@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: Product information
-date_updated: '2017-08-25T17:04:21.681364'
+date_created: '2017-08-25'
+date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Ordnance Survey
 notes: <p>Code-Point Open is a dataset that contains postcode units, each of which

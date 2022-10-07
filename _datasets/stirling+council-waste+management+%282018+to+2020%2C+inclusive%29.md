@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Domestic Waste Collections for 2018
-date_updated: '2019-02-11T13:34:27.455933'
+date_created: '2019-02-11'
+date_updated: '2022-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Domestic waste collection datasets are no longer published under

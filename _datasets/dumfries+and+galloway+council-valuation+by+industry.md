@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2018-01-23T14:13:15.167Z'
+date_created: '2018-01-23'
+date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"The Number of Non-Domestic Properties by Category Code and Total Rateable

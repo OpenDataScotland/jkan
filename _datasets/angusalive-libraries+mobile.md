@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Libraries Mobile
-date_updated: ''
+date_created: ''
+date_updated: '2016-08-08'
 license: 'Custom licence: Other (Public Domain)'
 maintainer: ANGUSalive
 notes: <p>Text file of Angus Council's mobile library locations</p>

@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Public Safety
 date_created: ''
-date_updated: ''
+date_updated: '2021-07-01'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Captures the number of Fixed Penalty Notices (FPNs) issues for littering

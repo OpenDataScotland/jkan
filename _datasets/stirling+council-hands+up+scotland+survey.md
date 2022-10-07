@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: 'Analysis by Travel Mode: 2020 (PDF)'
-date_updated: '2021-08-30T17:43:17.741087'
+date_created: '2021-08-30'
+date_updated: '2022-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The </strong><a href="https://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey/"><strong>Hands

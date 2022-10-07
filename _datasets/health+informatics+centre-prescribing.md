@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: datadictionary.json
-date_updated: '2022-03-24T19:18:05.573358'
+date_created: '2022-03-24'
+date_updated: '2022-04-05'
 license: No licence
 maintainer: Health Informatics Centre
 notes: <p>Community-dispensed primary care prescription data.</p>

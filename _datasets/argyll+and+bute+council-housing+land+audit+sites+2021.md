@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: ''
+date_created: '2022-06-10'
 date_updated: '2022-06-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council

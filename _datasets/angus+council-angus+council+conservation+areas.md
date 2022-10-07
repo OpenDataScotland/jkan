@@ -3,8 +3,8 @@ category:
 - Arts / Culture / History
 - Food and Environment
 - Planning and Development
-date_created: WMS for Angus Council Conservation Areas
-date_updated: '2016-11-28T10:29:42.451956'
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Conservation areas are areas of special architectural or historic interest.

@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2021-09-14T09:55:07Z'
+date_created: '2021-09-14'
+date_updated: '2021-09-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Mid-year population estimates.</p>

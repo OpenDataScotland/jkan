@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Planning and Development
-date_created: 'Local Authority Boundaries '
-date_updated: '2021-06-11T09:22:04.712030'
+date_created: '2021-06-11'
+date_updated: '2022-02-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local government in Scotland comprises 32 unitary local authorities, which

@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2019.0'
+date_created: '2019-01-01'
+date_updated: ''
 license: No licence
 maintainer: National Library of Scotland
 notes: ''

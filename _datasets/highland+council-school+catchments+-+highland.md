@@ -1,18 +1,40 @@
 ---
 category:
 - Education
-date_created: Primary School Catchments - Highland (Dec 2016)
-date_updated: '2016-05-24T14:26:26.711170'
+date_created: '2016-05-24'
+date_updated: '2022-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
-notes: <p>Scottish councils usually divide towns and country areas into catchments
-  and children living in a catchment area will usually go to the same local school.
-  Domestic properties typically have a catchment area for each of their local:\r\n-
-  primary non-denominational (PN), \r\n- secondary non-denominational (SN), \r\n-
-  primary denominational/ Catholic (PD) and \r\n- secondary denominational/ Catholic
-  (SN) schools.\r\n\r\nThis dataset contains four separate layers (representing those
-  above categories), which we deliver together as one single web service or zip folder.  \r\n\r\n"name"
-  and "seed_code" are now MANDATORY fields for this dataset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </p>
+notes: "<p>Scottish councils usually divide towns and country areas into catchments\
+  \ and children living in a catchment area will usually go to the same local school.\
+  \ Domestic properties typically have a catchment area for each of their local:\n\
+  \ - primary non-denominational (PN), \n - secondary non-denominational (SN), \n\
+  \ - primary denominational/ Catholic (PD) and \n - secondary denominational/ Catholic\
+  \ (SN) schools.</p>\n<p>This dataset contains four separate layers (representing\
+  \ those above categories), which we deliver together as one single web service or\
+  \ zip folder.  </p>\n<p>\"name\" and \"seed_code\" are now MANDATORY fields for\
+  \ this dataset.                                                                \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                                                                              \
+  \                       </p>"
 organization: Highland Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-hi'
 records: null
@@ -20,11 +42,11 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/d3fd8ab0-6727-4831-a3b1-80fd6c4024b5/resource/3d17e6a9-697c-4efe-af04-ac143ceeb6b9/download/primaryschoolcatchments-highland-dec2016.zip
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://dservices1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/services/PrimarySchoolCatchments/WFSServer?service=wfs&request=getcapabilities
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://dservices1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/services/SecondarySchoolCatchments/WFSServer?service=wfs&request=getcapabilities
 - format: ZIP
   name: ZIP
@@ -53,11 +75,11 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/d3fd8ab0-6727-4831-a3b1-80fd6c4024b5/resource/7b0d50da-782b-46b9-b833-40b5757a9106/download/highlandsecondaryschoolcatchmentssep2021.zip
-- format: ''
-  name: ''
+- format: REST
+  name: REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PrimarySchoolCatchments/FeatureServer/0/query?outFields=*&where=1%3D1
-- format: ''
-  name: ''
+- format: REST
+  name: REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/SecondarySchoolCatchments/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: School Catchments - Highland

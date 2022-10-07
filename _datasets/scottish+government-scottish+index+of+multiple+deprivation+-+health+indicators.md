@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2019-10-09T10:26:50Z'
+date_created: '2019-10-09'
+date_updated: '2020-03-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August

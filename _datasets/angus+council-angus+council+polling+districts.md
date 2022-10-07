@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: WMS for Angus Council's Polling Districts
-date_updated: '2016-11-28T10:12:32.708734'
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Current and historic polling district boundaries in Angus Council.</p>

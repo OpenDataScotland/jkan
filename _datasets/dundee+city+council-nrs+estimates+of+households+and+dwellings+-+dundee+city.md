@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Estimated Number of Dwellings September 2001 to 2017- Dundee City
-date_updated: '2019-01-31T15:31:20.747655'
+date_created: '2019-01-31'
+date_updated: '2022-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains Dundee City Estimates of Household and Dwellings.

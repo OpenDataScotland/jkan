@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-11-09T15:16:41Z'
+date_created: '2017-11-09'
+date_updated: '2019-10-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Population projections for Scotland and Scottish Areas, based on 2016 population

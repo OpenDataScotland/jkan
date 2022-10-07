@@ -2,8 +2,8 @@
 category:
 - Planning and Development
 - Tourism
-date_created: ''
-date_updated: '2017-07-07'
+date_created: '2017-07-07'
+date_updated: '2017-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Valued Tourist Area Vulnerable to Change of Use in the 2015 Local Development

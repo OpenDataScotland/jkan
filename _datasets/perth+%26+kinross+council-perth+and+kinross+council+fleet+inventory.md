@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Fleet and Mechanical Equipment Inventory
-date_updated: '2018-06-14T14:39:37.025760'
+date_created: '2018-06-14'
+date_updated: '2020-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>A list of the fleet vehicles and mechanical equipment controlled by the

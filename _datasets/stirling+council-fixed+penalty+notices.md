@@ -1,8 +1,8 @@
 ---
 category:
 - Public Safety
-date_created: Fixed Penalty Notices April 2017 to March 2018
-date_updated: '2019-02-26T09:59:59.740374'
+date_created: '2019-02-26'
+date_updated: '2022-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Fixed Penalty Notices (FPN) are issued by Stirling Council's Enforcement
@@ -37,6 +37,9 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/eeef1785-3e3b-428a-aaa0-25ce3c3a3390/download/20220406-fixed-penalty-notices-01.04.2021-to-31.03.2022.csv
+- format: CSV
+  name: CSV
+  url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/daa0ac82-5ca0-4094-84c5-3eea20d38b01/download/20221003-fixed-penalty-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Fixed Penalty Notices
 ---

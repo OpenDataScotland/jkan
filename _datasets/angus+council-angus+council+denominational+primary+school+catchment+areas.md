@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: WMS for Denominational Primary School Catchment Areas
-date_updated: '2016-11-30T11:25:35.239490'
+date_created: '2016-11-30'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council Denominational Primary School Catchment Areas</p>

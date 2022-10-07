@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2017-03-01T10:21:43Z'
+date_created: '2017-03-01'
+date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Number, and percent, of low birthweight (less than 2500g) babies (single

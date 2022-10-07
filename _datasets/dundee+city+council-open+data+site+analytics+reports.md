@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Google Analytics Report 01/10/2017-14/06/2018
-date_updated: '2018-05-11T12:54:43.745235'
+date_created: '2018-05-11'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Performance data for the Dundee City Open Data Portal (data.dundeecity.gov.uk).</p>

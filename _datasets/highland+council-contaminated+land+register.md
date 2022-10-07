@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2020-08-11'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Land indentified as Contaminated Land as per Part IIA Environmental Protection\

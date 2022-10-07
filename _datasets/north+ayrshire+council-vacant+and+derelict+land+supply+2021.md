@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2022-01-21'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p><span style='font-family:&quot;Avenir Next&quot;, &quot;Avenir Next&quot;;

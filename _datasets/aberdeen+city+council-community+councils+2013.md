@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ArcGIS Hub Dataset
-date_updated: '2020-08-03T13:00:04.915753'
+date_created: '2020-08-03'
+date_updated: '2020-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Community Councils are bodies
@@ -18,8 +18,8 @@ resources:
 - format: HTML
   name: HTML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/6e95f7ad530a47559a104d7563ac1f09_0
-- format: ESRI REST
-  name: ESRI REST
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Community_Councils_2013/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

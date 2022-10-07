@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2017-11-20T09:37:03.626Z'
+date_created: '2017-11-20'
+date_updated: '2019-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Location of Salt Bins throughout Dumfries and Galloway"</p>

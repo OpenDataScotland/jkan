@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2017-08-03T15:44:16Z'
+date_created: '2017-08-03'
+date_updated: '2022-07-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Deprivation by drug use behaviour, age, and gender</p>

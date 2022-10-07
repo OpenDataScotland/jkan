@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: 01/07/17 - 19/07/17
-date_updated: '2017-08-23T10:12:38.402032'
+date_created: '2017-08-23'
+date_updated: '2019-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>A snapshot of Pullar House's energy usage by kW/h over July 2017.</p>

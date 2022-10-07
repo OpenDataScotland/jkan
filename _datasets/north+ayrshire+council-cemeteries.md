@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Housing and Estates
 date_created: ''
-date_updated: ''
+date_updated: '2018-01-04'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This dataset shows the boundaries of North Ayrshire allotments and states

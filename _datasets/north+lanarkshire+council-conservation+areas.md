@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2016-04-25'
 license: No licence
 maintainer: North Lanarkshire Council
 notes: <p>Areas of Conservation</p>

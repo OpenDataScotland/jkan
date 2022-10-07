@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Glasgow City Development Plan (CDP)
-date_updated: '2017-01-27T09:25:10.002307'
+date_created: '2017-01-27'
+date_updated: '2022-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -18,8 +18,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/8270b8d0-1b8c-4693-9a8e-02bc150efb6a/resource/eed73eae-5c73-4d12-967c-7fb45b93f498/download/cpd.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Development Plans - Glasgow City

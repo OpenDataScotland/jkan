@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-11-01T15:40:06.940Z'
+date_created: '2019-11-01'
+date_updated: '2021-01-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This dataset is for the Big Count which happens across Scotland twice a

@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2018-01-23T14:16:42.175Z'
+date_created: '2018-01-23'
+date_updated: '2018-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Number of Properties by Council Tax Band in each D&amp;G, plus All-Scotland

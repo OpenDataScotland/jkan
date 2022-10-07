@@ -1,12 +1,11 @@
 ---
 category:
 - Uncategorised
-date_created: datadictionary.json
-date_updated: '2022-03-24T19:17:59.799142'
+date_created: '2022-03-24'
+date_updated: '2022-04-05'
 license: No licence
 maintainer: Health Informatics Centre
-notes: <p>Extract from Public Health Scotland Renal register for Tayside and Fife.
-  \n</p>
+notes: <p>Extract from Public Health Scotland Renal register for Tayside and Fife.  </p>
 organization: Health Informatics Centre
 original_dataset_link: ' https://find.researchdata.scot/dataset/32edd77d-533c-423f-b045-937507f8505d'
 records: null

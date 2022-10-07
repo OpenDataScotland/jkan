@@ -1,8 +1,8 @@
 ---
 category:
 - Elections / Politics
-date_created: Mid-year Land Area & Population Density Estimates
-date_updated: '2021-07-23T14:20:01.926307'
+date_created: '2021-07-23'
+date_updated: '2022-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>The dataset within this group contains the <a href="https://www.nrscotland.gov.uk/">National

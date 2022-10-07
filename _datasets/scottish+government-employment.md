@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2014-07-29T00:00:00Z'
+date_created: '2014-07-29'
+date_updated: '2022-02-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Employment level and rate by age and gender.</p>

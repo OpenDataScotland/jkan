@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2018-08-17'
+date_created: '2018-08-17'
+date_updated: '2019-04-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: "<p>A dataset showing the fixtures and results of football\_games played by\

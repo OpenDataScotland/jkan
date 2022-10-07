@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: Dundee Local Development Plan (LDP)
-date_updated: '2022-08-08T13:40:41.185370'
+date_created: '2022-08-08'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Dundee Local Development Plan 2019 is the land use planning document
@@ -15,8 +15,8 @@ organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/dataset/dundee-local-development-plan-ldp
 records: null
 resources:
-- format: ''
-  name: ''
+- format: HTML
+  name: HTML
   url: https://opendata-dundeecity.hub.arcgis.com/maps/ldp2019-feature-layers/about
 schema: default
 title: Dundee Local Development Plan (LDP)

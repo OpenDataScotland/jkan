@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: ''
+date_updated: '2021-09-06'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Open to eligible third sector, voluntary and community organisations across\

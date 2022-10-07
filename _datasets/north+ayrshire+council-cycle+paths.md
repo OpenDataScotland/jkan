@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-05'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This dataset shows the route of cycle paths within North Ayrshire. This

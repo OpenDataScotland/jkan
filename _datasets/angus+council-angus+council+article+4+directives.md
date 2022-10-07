@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: WMS for Angus Council Article 4 Directives
-date_updated: '2016-11-28T14:23:50.221923'
+date_created: '2016-11-28'
+date_updated: '2016-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Areas where Permitted Development rights under classes 1,7 &amp; 8 of Town

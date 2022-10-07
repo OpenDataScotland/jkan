@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Suitable Locations For Wind Turbines
-date_updated: '2019-03-15T10:10:15.345973'
+date_created: '2019-03-15'
+date_updated: '2022-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <p>All local authorities must create a spatial framework assessment of land
@@ -16,8 +16,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/74c05f86-cdd3-4506-8e34-6148d02115b3/resource/1bd3e15f-cef1-4ddf-8f5e-1a85cbc43c85/download/suitable-locations-for-wind-turbines.zip
-- format: ''
-  name: ''
+- format: REST
+  name: REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Suitable_Locations_for_Wind_Turbines/FeatureServer
 schema: default
 title: Suitable Locations for Wind Turbines - Aberdeen City

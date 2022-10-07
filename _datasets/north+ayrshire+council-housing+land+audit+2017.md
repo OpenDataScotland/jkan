@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2018-03-02'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Scottish Planning Policy ( SPP) requires that a five-year ongoing effective

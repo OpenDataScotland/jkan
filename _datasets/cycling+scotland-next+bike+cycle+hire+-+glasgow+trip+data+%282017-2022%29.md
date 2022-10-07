@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2022-02-28T11:04:46.846Z'
+date_created: '2022-02-28'
+date_updated: '2022-09-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Anonymised trip data from nextbike cycle hire in Glasgow from 15th September

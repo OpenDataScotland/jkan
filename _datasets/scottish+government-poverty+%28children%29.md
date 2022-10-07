@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: ''
-date_updated: '2021-05-12T12:53:36Z'
+date_created: '2021-05-12'
+date_updated: '2022-03-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Official Statistics of the number and proportions of children in poverty.

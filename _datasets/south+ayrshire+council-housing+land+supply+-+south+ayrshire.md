@@ -2,8 +2,8 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: South Ayrshire Housing Land Supply
-date_updated: '2016-05-24T14:27:24.591433'
+date_created: '2016-05-24'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -15,8 +15,8 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_supply-sa'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: CSV
   name: CSV

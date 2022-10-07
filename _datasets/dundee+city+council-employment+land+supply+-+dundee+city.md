@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: General, principal and specialist economic dev areas
-date_updated: '2017-01-27T09:23:15.958126'
+date_created: '2017-01-27'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -15,8 +15,8 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_supply-dc'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://inspire.dundeecity.gov.uk/geoserver/ldp/wfs?
 - format: CSV
   name: CSV

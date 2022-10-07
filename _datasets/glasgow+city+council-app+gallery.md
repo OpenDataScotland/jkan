@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: ''
+date_updated: '2022-02-03'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Our open data is about more than the numbers \u2013 it relates to real\

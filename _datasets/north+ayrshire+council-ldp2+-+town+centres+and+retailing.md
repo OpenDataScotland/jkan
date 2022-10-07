@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2018-11-05'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Town Centres and Retailing within North Ayrshire as set out

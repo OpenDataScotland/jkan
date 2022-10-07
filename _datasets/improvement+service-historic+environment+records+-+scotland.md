@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: 'Historic Environment Records: Events '
-date_updated: '2021-06-11T09:20:48.158614'
+date_created: '2021-06-11'
+date_updated: '2022-08-01'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>HERs (Historic Environment Records) developed out of SMRs (Sites and Monuments
@@ -12,27 +12,26 @@ notes: '<p>HERs (Historic Environment Records) developed out of SMRs (Sites and 
   wide range of information about the historic environment which has been reflected
   in the change of name from SMR to HER. Today they provide a unique information resource,
   forming the basis for sustainable conservation and playing an important role in
-  informing public understanding and enjoyment of the local historic environment.\nThe
-  historic environment includes all aspects of our surroundings that have been built,
-  formed or influenced by human activities from earliest to most recent times. A Historic
-  Environment Record stores and provides access to systematically organised information
-  about these surroundings in a given area. It is maintained and updated for public
-  benefit in accordance with national and international standards and guidance. An
-  HER makes information accessible to all in order to:\n- advance knowledge and understanding
-  of the historic environment;\n- inform its care and conservation;\n- inform public
-  policies and decision-making on land-use planning and management;\n- contribute
-  to environmental improvement and economic regeneration;\n- contribute to education
-  and social inclusion;\n- encourage participation in the exploration, appreciation
-  and enjoyment of the historic environment.\n\nLocal authorities and most National
-  Park authorities maintain records of the archaeological, built and natural environment.
-  However, many services group together to form archaeological services to collate
-  their standardised records. Specialist staff are employed to curate these records
-  and also to provide specialist advice for land-use planning and public information
-  services.\n\nThis dataset has two distinct data layers: \n- Historic Environment
-  Sites (including Known Site Extents and Areas of Archaeological Interest)\n- Historic
-  Environment Events (also known as interventions)\n\nWe strongly recommend that,
-  when using the WFS for this dataset, because of it''s size you should use it with
-  a filter.</p>'
+  informing public understanding and enjoyment of the local historic environment.
+  The historic environment includes all aspects of our surroundings that have been
+  built, formed or influenced by human activities from earliest to most recent times.
+  A Historic Environment Record stores and provides access to systematically organised
+  information about these surroundings in a given area. It is maintained and updated
+  for public benefit in accordance with national and international standards and guidance.
+  An HER makes information accessible to all in order to: - advance knowledge and
+  understanding of the historic environment; - inform its care and conservation; -
+  inform public policies and decision-making on land-use planning and management;
+  - contribute to environmental improvement and economic regeneration; - contribute
+  to education and social inclusion; - encourage participation in the exploration,
+  appreciation and enjoyment of the historic environment.  Local authorities and most
+  National Park authorities maintain records of the archaeological, built and natural
+  environment. However, many services group together to form archaeological services
+  to collate their standardised records. Specialist staff are employed to curate these
+  records and also to provide specialist advice for land-use planning and public information
+  services.  This dataset has two distinct data layers:  - Historic Environment Sites
+  (including Known Site Extents and Areas of Archaeological Interest) - Historic Environment
+  Events (also known as interventions)  We strongly recommend that, when using the
+  WFS for this dataset, because of it''s size you should use it with a filter.</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/historic_environment_records-is'
 records: null

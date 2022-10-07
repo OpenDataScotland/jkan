@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Business and Economy
 date_created: ''
-date_updated: ''
+date_updated: '2017-11-13'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>This dataset shows Awards and Achievements bids for various teams and projects

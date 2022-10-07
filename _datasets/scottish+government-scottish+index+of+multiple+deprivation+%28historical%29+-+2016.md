@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2020-02-13T15:16:14Z'
+date_created: '2020-02-13'
+date_updated: '2020-02-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Data Zone level ranks and quantiles for the 2016 Scottish Index of Multiple

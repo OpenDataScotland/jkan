@@ -2,11 +2,11 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: Angus Conservation Areas 2016
-date_updated: '2017-01-27T09:17:56.798745'
+date_created: '2017-01-27'
+date_updated: '2022-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: <p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
+notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
   Act 1997 a local authority may determine which parts of its area are of special
   architectural or historic interest and may designate these as Conservation Areas.
   The public will normally be consulted on any proposal to designate conservation
@@ -16,11 +16,13 @@ notes: <p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland
   They can cover historic land, battlefields, public parks, designed landscapes or
   railways but most contain groups of buildings extending over areas of a village,
   town or city. Further planning controls on development can be made by way of an
-  Article 4 Direction, which may or may not be associated with a Conservation Area.\r\n\r\nWe
-  can capture Article 4 Directions separately - go to the upload for that data.\r\n\r\nHowever,
-  the final published data layer will contain Conservation Areas, Conservation Areas
-  with associated Article 4 Directions, Article 4 Directions associated with a Conservation
-  Area, and a small number of discrete Article 4 Direction areas.</p>
+  Article 4 Direction, which may or may not be associated with a Conservation Area.</p>
+
+  <p>We can capture Article 4 Directions separately - go to the upload for that data.</p>
+
+  <p>However, the final published data layer will contain Conservation Areas, Conservation
+  Areas with associated Article 4 Directions, Article 4 Directions associated with
+  a Conservation Area, and a small number of discrete Article 4 Direction areas.</p>'
 organization: Angus Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-an'
 records: null
@@ -28,8 +30,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/c4c39722-1ddb-4ae8-8804-4c0b93320600/resource/aba92111-232c-43c4-a9ea-47159644f8f4/download/angusconservationareas.zip
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Conservation Areas - Angus

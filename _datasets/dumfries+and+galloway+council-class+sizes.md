@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-11-29T11:05:07.274Z'
+date_created: '2017-11-29'
+date_updated: '2018-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: <p>"Primary school class sizes as at September 2016"</p>

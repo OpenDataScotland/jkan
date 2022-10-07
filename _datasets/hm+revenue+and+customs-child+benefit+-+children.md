@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2017-05-17T15:42:10Z'
+date_created: '2017-05-17'
+date_updated: '2020-08-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: HM Revenue and Customs
 notes: <p>Geographical analysis of Child Benefit at small area levels. Number of children

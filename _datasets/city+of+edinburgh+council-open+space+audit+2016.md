@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2022-05-04'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: "<p>The Open Space Audit (2016) updates the Council\u2019s first Open Space\

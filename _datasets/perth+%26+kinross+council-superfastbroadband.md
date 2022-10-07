@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:30.129234'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Superfast Broadband</p>

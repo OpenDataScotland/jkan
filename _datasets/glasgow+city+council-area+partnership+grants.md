@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Council and Government
 date_created: ''
-date_updated: ''
+date_updated: '2022-01-13'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir\

@@ -4,8 +4,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2017-09-12'
+date_created: '2017-09-12'
+date_updated: '2017-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: <p>Community Councils within Renfrewshire. Community Councils play an active

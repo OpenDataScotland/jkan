@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: ''
+date_updated: '2017-10-19'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>In the event of a Health and Safety incident arising out of, or in connection

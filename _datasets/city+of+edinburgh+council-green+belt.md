@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-05-25'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,

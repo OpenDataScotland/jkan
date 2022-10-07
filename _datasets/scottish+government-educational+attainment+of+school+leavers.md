@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ''
-date_updated: '2018-11-05T10:46:25Z'
+date_created: '2018-11-05'
+date_updated: '2022-08-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: "<p>The score is based on school leavers\u2019 highest level of qualification,\

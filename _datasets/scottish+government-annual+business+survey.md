@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: ''
-date_updated: '2017-03-17T15:01:23Z'
+date_created: '2017-03-17'
+date_updated: '2022-06-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Financial and employment data by broad industry by year. Annual Business

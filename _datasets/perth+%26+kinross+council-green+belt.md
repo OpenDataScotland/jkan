@@ -2,8 +2,8 @@
 category:
 - Food and Environment
 - Planning and Development
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:37:25.326264'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Perth Green Belt from the 2019 Perth &amp; Kinross Council Adopted Local
@@ -15,8 +15,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/dee9de7efe6d460489782d361b668d7b_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Green_Belt/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

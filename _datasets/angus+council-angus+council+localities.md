@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: WMS for Angus Council Localities
-date_updated: '2016-11-28T12:24:55.913048'
+date_created: '2016-11-28'
+date_updated: '2016-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Localities used in the Corporate Address Gazetteer for the generation of

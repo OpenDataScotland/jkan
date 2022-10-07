@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2018-05-15T09:39:01.252Z'
+date_created: '2018-05-15'
+date_updated: '2019-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from Reported Road Casualties Scotland showing annual traffic volumes

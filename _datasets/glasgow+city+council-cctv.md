@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: ''
-date_updated: ''
+date_updated: '2021-06-25'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>The locations of CCTV in Glasgow listed by British National Grid coordinates,

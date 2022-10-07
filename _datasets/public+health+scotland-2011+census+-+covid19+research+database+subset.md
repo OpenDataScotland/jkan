@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: datadictionary.json
-date_updated: '2021-09-08T09:55:17.903889'
+date_created: '2021-09-08'
+date_updated: '2022-10-07'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>A subset of 2011 Census variables (and variable breakdowns) in the COVID-19

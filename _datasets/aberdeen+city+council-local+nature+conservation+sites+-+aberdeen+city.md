@@ -2,8 +2,8 @@
 category:
 - Arts / Culture / History
 - Planning and Development
-date_created: LNCSs for Aberdeen City
-date_updated: '2016-05-24T14:08:35.805282'
+date_created: '2016-05-24'
+date_updated: '2022-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -22,8 +22,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/a3a4577e-937e-4bfb-a473-03907a694db4/resource/dadb6110-4195-4fc0-841d-668d7f545ef0/download/lncs.zip
-- format: ''
-  name: ''
+- format: REST
+  name: REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Local_Nature_Conservation_Sites/FeatureServer
 schema: default
 title: Local Nature Conservation Sites - Aberdeen City

@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-10-17T15:06:31.003Z'
+date_created: '2019-10-17'
+date_updated: '2019-11-26'
 license: Creative Commons Attribution 4.0 International
 maintainer: Cycling Scotland
 notes: <p>"This data highlights all university and college campuses across Scotland

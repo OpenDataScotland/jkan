@@ -1,8 +1,8 @@
 ---
 category:
 - Uncategorised
-date_created: Dataset Catalogue Listing (PDF)
-date_updated: '2021-10-28T16:06:18.262594'
+date_created: '2021-10-28'
+date_updated: '2022-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Stirling Council's Open Data catalogue of datasets published on

@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-07-02'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>The Building Standards Register is list of applications designed to meet

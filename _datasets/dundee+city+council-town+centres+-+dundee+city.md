@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: Town Centres
-date_updated: '2016-05-24T14:25:38.938595'
+date_created: '2016-05-24'
+date_updated: '2022-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -14,8 +14,8 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-dc'
 records: null
 resources:
-- format: ''
-  name: ''
+- format: No file type
+  name: No file type
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 schema: default
 title: Town Centres - Dundee City

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2022-02-23'
 license: No licence
 maintainer: Highland Council
 notes: "<p>Locations of bridge height restrictions over roads adopted by The Highland\

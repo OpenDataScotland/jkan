@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2018-10-02'
 license: No licence
 maintainer: Highland Council
 notes: '<p>Core paths are a system of paths, track and other routes identified by

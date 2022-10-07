@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Education
 - Planning and Development
-date_created: ArcGIS Hub Dataset
-date_updated: '2020-07-20T11:06:22.943001'
+date_created: '2020-07-20'
+date_updated: '2020-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 14 0;'><span><span>Defined
@@ -21,8 +21,8 @@ resources:
 - format: HTML
   name: HTML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0
-- format: ESRI REST
-  name: ESRI REST
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Academy_School_Catchments/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2020-12-22'
 license: 'Custom licence: Open Government'
 maintainer: Aberdeenshire Council
 notes: ''

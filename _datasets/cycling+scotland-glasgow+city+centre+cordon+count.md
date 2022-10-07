@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2019-05-13T14:44:51.982Z'
+date_created: '2019-05-13'
+date_updated: '2019-10-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Cycle data from 2018 City Centre Cordon survey"</p>

@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2021-05-27'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p>Ward boundaries for Edinburgh Council</p>

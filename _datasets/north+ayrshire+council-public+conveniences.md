@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: ''
-date_updated: ''
+date_updated: '2017-11-28'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Location of NAC run Public Conveniences within North Ayrshire</p>

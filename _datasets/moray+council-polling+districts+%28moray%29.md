@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2017-04-10'
+date_created: '2017-04-10'
+date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
 notes: "<p>Moray Council Polling District Boundaries.  Polygon data showing the polling\

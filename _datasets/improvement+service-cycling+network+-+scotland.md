@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: 'Cycling Network '
-date_updated: '2021-06-11T09:20:28.167615'
+date_created: '2021-06-11'
+date_updated: '2022-08-01'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Many local authorities capture details of the cycle network within their

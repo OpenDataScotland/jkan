@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Food and Environment
 - Planning and Development
-date_created: ''
-date_updated: '2018-02-22'
+date_created: '2018-02-22'
+date_updated: '2020-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Conservation Areas are areas of special architectural of historic interest\

@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2017-08-08'
+date_created: '2017-08-08'
+date_updated: '2020-11-30'
 license: No licence
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development

@@ -1,16 +1,16 @@
 ---
 category:
 - Business and Economy
-date_created: EstimatedLifeExpectancyatBirthPKC.csv
-date_updated: '2021-12-10T13:42:53.513284'
+date_created: '2021-12-10'
+date_updated: '2021-12-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <p>For each year since 2010, this dataset shows the National Records of Scotland
-  (NRS) estimated life expectancy figures at birth for females and males within the
-  Perth and Kinross Council area.\r\n\r\nNRS publishes life expectancy estimates on
-  an annual basis. The most recent data, released in September 2021, are sourced from
-  the Life Expectancy in Scotland, 2018-2020 page on the NRS website.\r\n\r\n\xa9
-  Crown Copyright 2021</p>
+notes: "<p>For each year since 2010, this dataset shows the National Records of Scotland\
+  \ (NRS) estimated life expectancy figures at birth for females and males within\
+  \ the Perth and Kinross Council area.</p>\n<p>NRS publishes life expectancy estimates\
+  \ on an annual basis. The most recent data, released in September 2021, are sourced\
+  \ from the Life Expectancy in Scotland, 2018-2020 page on the NRS website.</p>\n\
+  <p>\xA9 Crown Copyright 2021</p>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/dataset/nrs-life-expectancy
 records: null

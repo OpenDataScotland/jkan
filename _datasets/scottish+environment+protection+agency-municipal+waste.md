@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: ''
-date_updated: '2014-07-29T02:00:00+02:00'
+date_created: '2014-07-29'
+date_updated: '2016-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Environment Protection Agency
 notes: <p>Municipal Waste (tonnes) and arising per capita (kgs)</p>

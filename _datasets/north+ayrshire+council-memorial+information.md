@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: ''
+date_updated: '2019-09-11'
 license: No licence
 maintainer: North Ayrshire Council
 notes: <p>Shows the location of Memorials within North Ayrshire cemeteries and also

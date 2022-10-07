@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: ''
+date_updated: '2017-05-26'
 license: No licence
 maintainer: North Ayrshire Council
 notes: '<p><span style=''color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica,

@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: Recycling Points CSV
-date_updated: '2018-03-23T11:31:43.703206'
+date_created: '2018-03-23'
+date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Locations of recycling points and bring sites in Dundee City. Bring sites

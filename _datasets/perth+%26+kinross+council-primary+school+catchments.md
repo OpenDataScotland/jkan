@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ArcGIS Hub Dataset
-date_updated: '2022-08-18T11:36:31.818883'
+date_created: '2022-08-18'
+date_updated: '2022-08-18'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <p>Boundaries for primary school catchment areas excluding Roman Catholic schools.</p>
@@ -13,8 +13,8 @@ resources:
 - format: HTML
   name: HTML
   url: https://opendata-pkc.opendata.arcgis.com/maps/af3563afd1634f1e8622887390387fed_0
-- format: ARCGIS GEOSERVICES REST API
-  name: ARCGIS GEOSERVICES REST API
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Primary_School_Catchments/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

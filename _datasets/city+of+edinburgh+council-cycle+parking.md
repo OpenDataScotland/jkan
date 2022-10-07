@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: ''
-date_updated: ''
+date_updated: '2021-05-27'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p>Locations of cycle parking in Edinburgh Council area</p>

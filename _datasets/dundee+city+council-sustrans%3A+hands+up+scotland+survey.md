@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: 2020 - Responses by school type - Scotland and Dundee City
-date_updated: '2021-11-05T09:53:04.635166'
+date_created: '2021-11-05'
+date_updated: '2022-06-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The <a href="https://www.sustrans.org.uk/scotland/hands-up-scotland-survey">Hands

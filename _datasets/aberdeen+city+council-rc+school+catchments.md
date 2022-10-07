@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Education
 - Planning and Development
-date_created: ArcGIS Hub Dataset
-date_updated: '2020-08-03T12:49:52.798482'
+date_created: '2020-08-03'
+date_updated: '2020-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Catchment Areas for Denominational
@@ -16,8 +16,8 @@ resources:
 - format: HTML
   name: HTML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/d8810b5c84744d0896761a2a8d286744_0
-- format: ESRI REST
-  name: ESRI REST
+- format: ARCGIS GEOSERVICE
+  name: ARCGIS GEOSERVICE
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/RC_School_Catchments/FeatureServer/0
 - format: GEOJSON
   name: GEOJSON

@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: ''
-date_updated: '2018-04-24T15:17:15Z'
+date_created: '2018-04-24'
+date_updated: '2022-06-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Reference information on schools and other types of educational establishments.</p>

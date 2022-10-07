@@ -1,14 +1,15 @@
 ---
 category:
 - Uncategorised
-date_created: CAR
-date_updated: '2017-01-27T09:21:44.880279'
+date_created: '2017-01-27'
+date_updated: '2022-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
-notes: <p>This dataset is an amalgamation of all Scottish Council Asset Registers.\r\n\r\n"UPRN",
-  "address" and "type" are now MANDATORY fields for this dataset. The "type" field
-  should follow the One Scotland Gazetteer (OSG) Classification conventions. See https://osg.scot/portal/index.jsp
-  for more details.</p>
+notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registers.</p>
+
+  <p>"UPRN", "address" and "type" are now MANDATORY fields for this dataset. The "type"
+  field should follow the One Scotland Gazetteer (OSG) Classification conventions.
+  See https://osg.scot/portal/index.jsp for more details.</p>'
 organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_register-gc'
 records: null
@@ -19,8 +20,8 @@ resources:
 - format: ZIP
   name: ZIP
   url: https://data.spatialhub.scot/dataset/4549d297-b891-41f8-9988-6336af43c591/resource/3cd9aa61-d2ae-4532-8628-7d16c9558225/download/community_asset_register_properties.zip
-- format: ''
-  name: ''
+- format: WFS
+  name: WFS
   url: https://utility.arcgis.com/usrsvcs/servers/8feb8ec7d3d4468fb957e37043a3deee/services/OPEN_DATA/Community_asset_register_properties/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Council Asset Register - Glasgow City

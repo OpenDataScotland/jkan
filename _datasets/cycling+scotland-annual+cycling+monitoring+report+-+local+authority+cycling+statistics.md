@@ -1,8 +1,8 @@
 ---
 category:
 - Transportation
-date_created: ''
-date_updated: '2021-05-13T13:35:32.999Z'
+date_created: '2021-05-13'
+date_updated: '2021-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"The Local section of the Annual Cycling Monitoring Report examines all
