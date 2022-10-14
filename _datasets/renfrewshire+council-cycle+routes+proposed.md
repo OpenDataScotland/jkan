@@ -14,7 +14,7 @@ notes: "<p>Layer is published on maps.renfrewshire.gov.uk directly from corporat
   (6)GIS_Content.SDE.Cycling_Network_2016\_(7)GIS_Content.SDE.BMX_SkateParks\_(8)</p>"
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=c4da80dc344046a29b32ed23b8b769ef
-records: 19
+records: null
 resources: []
 schema: default
 title: Cycle Routes Proposed

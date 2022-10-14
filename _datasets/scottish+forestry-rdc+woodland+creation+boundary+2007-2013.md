@@ -4,7 +4,7 @@ category:
 date_created: '2019-10-30'
 date_updated: '2020-01-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish.Forestry
+maintainer: Scottish Forestry
 notes: "<p>Woodland Creation formed part of the Scottish Rural Development Programme\
   \ (SRDP) 2007 - 2013. This SRDP was a programme of economic, environmental and social\
   \ measures, utilising some \u20AC680m of European Agricultural Fund for Rural Development\
@@ -23,7 +23,7 @@ notes: "<p>Woodland Creation formed part of the Scottish Rural Development Progr
   \ on specific options within a case can be found in the Woodland Creation Options\
   \ - RDC dataset.  For more detailed information please see the metadata record on\
   \ Scotland's SpatialData.gov.scot Metadata Portal.  </p>"
-organization: Scottish.Forestry
+organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=707a5ee0736047e18a320a3e86a3e291
 records: 1809
 resources: []

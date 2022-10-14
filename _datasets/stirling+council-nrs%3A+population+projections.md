@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2020-08-26'
-date_updated: '2022-07-08'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>This group contains datasets sourced from the <a href="https://www.nrscotland.gov.uk/">National
@@ -33,5 +33,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/3c7114cb-efe2-4ff2-8041-728f1d33fb5c/resource/fc750a15-15b6-4fd0-821f-04d855127ab2/download/20220707-stirling-council-nrs-population-projections-2018-all-persons.csv
 schema: default
-title: NRS Population Projections
+title: 'NRS: Population Projections'
 ---

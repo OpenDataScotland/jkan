@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-07-23'
-date_updated: '2022-07-18'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>The dataset within this group contains the <a href="https://www.nrscotland.gov.uk/">National
@@ -21,5 +21,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/ed73debc-c99f-442e-b69a-4a288235bf2f/resource/8d8e7c94-701e-4f38-9346-f5b0bf25d121/download/20220718-stirling-nrs-land-area-population-density-estimates-2000-to-2021.csv
 schema: default
-title: NRS Land Area & Population Density
+title: 'NRS: Land Area & Population Density'
 ---

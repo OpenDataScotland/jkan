@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-07-28'
-date_updated: '2022-09-13'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The dataset within this group contains the <a href="https://www.nrscotland.gov.uk/">National
@@ -21,5 +21,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/68bea085-165e-4d09-a2a0-aeac64e596a1/resource/aababce8-6227-4bee-803b-d535c69fd6ff/download/20220712-stirling-council-nrs-birth-time-series-data-1991-to-2021.csv
 schema: default
-title: NRS Births Time Series Data
+title: 'NRS: Births Time Series Data'
 ---

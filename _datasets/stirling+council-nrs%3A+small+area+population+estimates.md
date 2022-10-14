@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-08-05'
-date_updated: '2022-09-05'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>This group contains the data zone level mid-year population estimates
@@ -73,5 +73,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/f292f707-4914-4bdf-a9ca-b2f28a7e3a7d/download/20220905-stirling-council-sape-mid-2021-all-persons.csv
 schema: default
-title: NRS Small Area Population Estimates
+title: 'NRS: Small Area Population Estimates'
 ---

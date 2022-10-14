@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-09-24'
-date_updated: '2022-09-29'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Inpatients refer to people who are admitted to an available staffed bed
@@ -38,7 +38,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/c1fa6e29-7005-4f5f-a5f3-5277f0bbaf04/download/inpatient_and_day_case_by_location_of_treatment_simd.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/fd11b8ef-6ca8-4298-9c55-4ecf097eeb07/download/inpatient_and_day_case_by_location_of_treatment_simd.csv
+  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/fd11b8ef-6ca8-4298-9c55-4ecf097eeb07/download/inpatient_and_day_case_by_location_of_treatment_age_sex.csv
 - format: CSV
   name: CSV
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/0b1007b1-ce39-434a-807a-2d7555f9ef27/download/inpatient_and_day_case_by_location_of_treatment_specialty.csv

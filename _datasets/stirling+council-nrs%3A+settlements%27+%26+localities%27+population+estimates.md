@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2021-07-30'
-date_updated: '2022-05-12'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The datasets within this group contain the <a href="https://www.nrscotland.gov.uk/">National
@@ -70,5 +70,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/55cf3115-e969-4f87-ac88-3c4f95705e4a/resource/fdb87f88-9f6b-4b2c-9e85-0613759ffe29/download/20220511-stirling-nrs-localities-population-estimates-2020-all.csv
 schema: default
-title: NRS Settlements' & Localities' Population Estimates
+title: 'NRS: Settlements'' & Localities'' Population Estimates'
 ---

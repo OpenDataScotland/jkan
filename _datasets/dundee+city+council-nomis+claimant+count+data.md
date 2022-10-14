@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2022-03-15'
-date_updated: '2022-09-22'
+date_updated: '2022-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>This data set is sourced from the NOMIS Website. It shows the Claimant
@@ -31,6 +31,9 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/86101b22-0027-49e1-a55f-0259d26dbabe/download/nomis_claimant_count_jan18_aug22.csv
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/b8194aa8-16cc-4778-8768-5593a1523658/download/nomis_claimant_count_jan18_sept22.csv
 schema: default
 title: Nomis Claimant Count Data
 ---

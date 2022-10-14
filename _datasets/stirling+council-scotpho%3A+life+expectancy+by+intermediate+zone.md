@@ -2,14 +2,14 @@
 category:
 - Elections / Politics
 date_created: '2022-05-25'
-date_updated: '2022-06-06'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>For each year since 2014, datasets under this heading, sourced
-  from <a href="https://www.scotpho.org.uk/">Public Health Information for Scotland
-  (ScotPHO)</a>, show, for all Intermediate Zones within the Stirling Council area,
-  the estimated life expectancy at birth for females and males expressed as a five-year
-  average.</strong>\r\n\r\n<strong>Defined by the </strong><a href="https://www.scotlandscensus.gov.uk/variables-classification/sns-data-zone-2011#:~:text=The%20data%20zone%20geography%20covers,around%20500%20to%201%2C000%20residents."><strong>Scottish
+  from <a href="https://www.scotpho.org.uk/">Scottish Public Health Observatory (ScotPHO)</a>,
+  show, for all Intermediate Zones within the Stirling Council area, the estimated
+  life expectancy at birth for females and males expressed as a five-year average.</strong>\r\n\r\n<strong>Defined
+  by the </strong><a href="https://www.scotlandscensus.gov.uk/variables-classification/sns-data-zone-2011#:~:text=The%20data%20zone%20geography%20covers,around%20500%20to%201%2C000%20residents."><strong>Scottish
   Neighbourhood Statistics (SNS) Data Zone 2011</strong></a><strong> geography, Intermediate
   Zones are similar to Data Zones. The key difference is their size: Intermediate
   Zones have a population of around 4,000 and are built from Data Zones. Intermediate
@@ -18,9 +18,10 @@ notes: '<p><strong>For each year since 2014, datasets under this heading, source
   Zones, therefore, mean that data published are likely to require less rigorous disclosure
   control.</strong>\r\n\r\n<strong>Of the 6,976 Data Zones in Scotland, each covering
   a population of between 500 and 1000 residents, there are 121 within the Stirling
-  Council area, accounting for 24 Intermediate Zones.</strong>\r\n</p>'
+  Council area, accounting for 24 Intermediate Zones.</strong>\r\n\r\n<strong>\xa9
+  Scottish Public Health Observatory, 2022</strong>\r\n</p>'
 organization: Stirling Council
-original_dataset_link: https://data.stirling.gov.uk/dataset/life-expectancy-by-intermediate-zone
+original_dataset_link: https://data.stirling.gov.uk/dataset/scotpho-life-expectancy-by-intermediate-zone
 records: null
 resources:
 - format: CSV
@@ -39,5 +40,5 @@ resources:
   name: CSV
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/0508fb93-75b1-46cf-ae1a-5a951525500a/download/20220602-stirling-life-expectancy-by-intermediate-zone-2018.csv
 schema: default
-title: Life Expectancy by Intermediate Zone
+title: 'ScotPHO: Life Expectancy by Intermediate Zone'
 ---

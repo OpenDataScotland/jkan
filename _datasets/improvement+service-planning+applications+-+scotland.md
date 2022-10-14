@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2021-06-11'
-date_updated: '2022-10-04'
+date_updated: '2022-10-12'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>'Development management' is the name given to the process of deciding planning\

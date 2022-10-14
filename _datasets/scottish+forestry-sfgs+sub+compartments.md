@@ -4,7 +4,7 @@ category:
 date_created: '2019-11-18'
 date_updated: '2020-01-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish.Forestry
+maintainer: Scottish Forestry
 notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation and\
   \ management of woods and forests to provide economic, environmental and social\
   \ benefits.\_ This dataset identifies sub-compartment areas from SFGS.  Following\
@@ -68,7 +68,7 @@ notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation a
   \ plantingObj_Code: \_ SFGS Objective code (see above for full descriptions)  For\
   \ more detailed information please see the metadata record on Scotland's SpatialData.gov.scot\
   \ Metadata Portal.  </p>"
-organization: Scottish.Forestry
+organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=7d8771e248204bd2b35cafdd12637c11
 records: 21430
 resources: []

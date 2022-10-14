@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-09-24'
-date_updated: '2022-09-29'
+date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Patients who require the medical opinion of a specialist clinician may be
@@ -20,9 +20,8 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   does not contain residence information. ISD(S)1 also does not record information
   on the deprivation, age or sex of patients.\r\n\r\nA variety of operations are carried
   out in NHSScotland and, increasingly, less complex procedures are undertaken in
-  an outpatient setting. For further information on these procedures, see the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
-  section of the Public Health Scotland website.\r\n\r\nFurther information on hospital
-  activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
+  an outpatient setting.\r\n\r\nFurther information on hospital activity can be found
+  in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
   list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/\r\n</p>
 organization: Public Health Scotland

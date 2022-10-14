@@ -4,7 +4,7 @@ category:
 date_created: '2019-12-10'
 date_updated: '2022-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish.Forestry
+maintainer: Scottish Forestry
 notes: "<p>This is a non-spatial table.  It contains data on Scottish Forestry Grant\
   \ Scheme (SFGS) Management Plans that can be related to the SFGS Management Plans\
   \ spatial dataset on the SCHEME_NO field (Scheme Number).\_ The spatial dataset\
@@ -16,7 +16,7 @@ notes: "<p>This is a non-spatial table.  It contains data on Scottish Forestry G
   \ datasets.  SFGS encouraged the creation and management of woods and forests to\
   \ provide economic, environmental and social benefits.  For more detailed information\
   \ please see the metadata record on Scotland's SpatialData.gov.scot Metadata Portal.</p>"
-organization: Scottish.Forestry
+organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=64579ec719614e41a830501d1f3fd158
 records: 1713
 resources: []

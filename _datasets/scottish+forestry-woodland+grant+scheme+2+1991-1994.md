@@ -4,7 +4,7 @@ category:
 date_created: '2019-10-30'
 date_updated: '2020-01-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish.Forestry
+maintainer: Scottish Forestry
 notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to create\
   \ and manage woodlands on sites all over Great Britain. The Forestry Commission\
   \ paid grants for establishing and looking after woodlands and forests.    To qualify\
@@ -15,7 +15,7 @@ notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to cre
   \ basis until the end of 2012. No further changes will be made after this time.\
   \    For more detailed information please see the metadata record on Scotland's\
   \ SpatialData.gov.scot Metadata Portal.</p>"
-organization: Scottish.Forestry
+organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=0611e771fd014c809b4d02de194400fc
 records: 9611
 resources: []

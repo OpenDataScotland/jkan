@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-02-27'
-date_updated: '2021-10-26'
+date_updated: '2022-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Summary of admissions to hospital and deaths in Scotland from unintentional
@@ -24,7 +24,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/b0135993-3d8a-4f3b-afcf-e01f4d52137c/resource/aee43295-2a13-48f6-bf05-92769ca7c6cf/download/ui_admissions_2021.csv
 - format: CSV
   name: CSV
-  url: https://www.opendata.nhs.scot/dataset/b0135993-3d8a-4f3b-afcf-e01f4d52137c/resource/89807e07-fc5f-4b5e-a077-e4cf59491139/download/ui_deaths_2021.csv
+  url: https://www.opendata.nhs.scot/dataset/b0135993-3d8a-4f3b-afcf-e01f4d52137c/resource/89807e07-fc5f-4b5e-a077-e4cf59491139/download/ui_deaths_-2022-.csv
 schema: default
 title: Unintentional Injuries
 ---
