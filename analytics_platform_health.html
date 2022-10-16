@@ -104,6 +104,19 @@ permalink: /analytics/platform-health/
     </tbody>
 </table>
 
+<h3>Dataset organizations with no record</h3>
+
+{% assign dataset_orgs_list = site.datasets | map: "organization" | uniq %}
+{% assign orgs_list = site.organizations | map: "title" %}
+
+<ul>
+{% for dataset_org in dataset_orgs_list %}
+    {% unless orgs_list contains dataset_org %}
+        <li>{{ dataset_org }}</li>
+    {% endunless %}
+{% endfor %}
+</ul>
+
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
 <script>
     $('table').DataTable( {
