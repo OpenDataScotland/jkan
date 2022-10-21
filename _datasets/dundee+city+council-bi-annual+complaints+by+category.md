@@ -9,7 +9,7 @@ notes: <p>The percentage of complaints recorded by the Council in each six month
   in each of the categories included in the model Complaint Handling Procedure in
   Local Authorities.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/bi-annual-complaints-by-category
+original_dataset_link: https://data.dundeecity.gov.uk/package/bi-annual-complaints-by-category
 records: null
 resources:
 - format: CSV

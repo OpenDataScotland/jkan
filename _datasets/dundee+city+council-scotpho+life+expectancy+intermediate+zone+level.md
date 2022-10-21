@@ -5,28 +5,29 @@ date_created: '2022-06-17'
 date_updated: '2022-06-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>The Scottish Public Health Observatory (ScotPHO) which is led by Public
-  Health Scotland produce estimated life expectancy figures at birth for females and
-  males expressed as a five-year average for each Intermediate Zone in Scotland. The
-  ScotPHO website contains a range of health statistics and can be accessed by clicking
-  on the following link:\r\n\r\nhttps://www.scotpho.org.uk/\r\n\r\nThe Scottish Government
-  define an Intermediate Zone as a statistical geography that sits between Data Zones
-  and council areas. Intermediate Zones are often used for the dissemination of statistics
-  that are not suitable for release at Data Zone level because of the sensitive nature
-  of the statistic, or for reasons of reliability. Intermediate Zones were designed
-  to meet constraints on population thresholds (2,500 - 6,000 household residents),
-  to nest within council areas, and to be built up from aggregates of Data Zones.
-  Intermediate Zones also represent a relatively stable geography that can be used
-  to analyse change over time, with changes only occurring after a Census. The data
-  in this data set is based on the 2011 Intermediate zones which splits the whole
-  of Scotland into 1,279 Intermediate Zones of which 31 are within Dundee City.\r\n\r\nThis
-  dataset is sourced from the ScotPHO website and contains the 5-year average life
-  expectancy estimates for females and males at birth for each of the Intermediate
-  Zones in Dundee City. Life Expectancy data for other areas within Scotland are available
-  on the ScotPHO website and can be accessed by using the following link:\r\nhttps://scotland.shinyapps.io/ScotPHO_profiles_tool/\r\n\xa9
-  Scottish Public Health Observatory 2022</p>
+notes: "<p>The Scottish Public Health Observatory (ScotPHO) which is led by Public\
+  \ Health Scotland produce estimated life expectancy figures at birth for females\
+  \ and males expressed as a five-year average for each Intermediate Zone in Scotland.\
+  \ The ScotPHO website contains a range of health statistics and can be accessed\
+  \ by clicking on the following link:</p>\n<p>https://www.scotpho.org.uk/</p>\n<p>The\
+  \ Scottish Government define an Intermediate Zone as a statistical geography that\
+  \ sits between Data Zones and council areas. Intermediate Zones are often used for\
+  \ the dissemination of statistics that are not suitable for release at Data Zone\
+  \ level because of the sensitive nature of the statistic, or for reasons of reliability.\
+  \ Intermediate Zones were designed to meet constraints on population thresholds\
+  \ (2,500 - 6,000 household residents), to nest within council areas, and to be built\
+  \ up from aggregates of Data Zones. Intermediate Zones also represent a relatively\
+  \ stable geography that can be used to analyse change over time, with changes only\
+  \ occurring after a Census. The data in this data set is based on the 2011 Intermediate\
+  \ zones which splits the whole of Scotland into 1,279 Intermediate Zones of which\
+  \ 31 are within Dundee City.</p>\n<p>This dataset is sourced from the ScotPHO website\
+  \ and contains the 5-year average life expectancy estimates for females and males\
+  \ at birth for each of the Intermediate Zones in Dundee City. Life Expectancy data\
+  \ for other areas within Scotland are available on the ScotPHO website and can be\
+  \ accessed by using the following link:\n https://scotland.shinyapps.io/ScotPHO_profiles_tool/\n\
+  \ \xA9 Scottish Public Health Observatory 2022</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/scotpho-life-expectancy-intermediate-zone-level
+original_dataset_link: https://data.dundeecity.gov.uk/package/scotpho-life-expectancy-intermediate-zone-level
 records: null
 resources:
 - format: CSV

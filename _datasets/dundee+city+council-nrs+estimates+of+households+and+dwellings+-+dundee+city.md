@@ -5,15 +5,15 @@ date_created: '2019-01-31'
 date_updated: '2022-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City Estimates of Household and Dwellings.
-  This data is sourced from National Records of Scotland Estimates of Households and
-  Dwellings in Scotland. National Records of Scotland publish this data set on their
-  website on an annual basis. \r\n\r\nThe most recent publication is the NRS Estimates
-  of Households and Dwellings in Scotland 2021 \xa9 Crown Copyright 2022 which was
-  published by NRS on 23rd June 2022\r\n\r\nThe full data set is available on the
-  National Records of Scotland website:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-estimates/2021</p>
+notes: "<p>This data set contains Dundee City Estimates of Household and Dwellings.\
+  \ This data is sourced from National Records of Scotland Estimates of Households\
+  \ and Dwellings in Scotland. National Records of Scotland publish this data set\
+  \ on their website on an annual basis. </p>\n<p>The most recent publication is the\
+  \ NRS Estimates of Households and Dwellings in Scotland 2021 \xA9 Crown Copyright\
+  \ 2022 which was published by NRS on 23rd June 2022</p>\n<p>The full data set is\
+  \ available on the National Records of Scotland website:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-estimates/2021</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-estimates-of-households-and-dwellings
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-estimates-of-households-and-dwellings
 records: null
 resources:
 - format: CSV

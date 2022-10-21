@@ -5,24 +5,24 @@ date_created: '2021-08-30'
 date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>National Records of Scotland publish mid year electoral ward population
-  estimates on an annual basis.\r\nThe mid year population estimates for the electoral
-  wards are based on the data zone based population estimates. NRS have used a best
-  fit methodology to assign each data zone to a particular electoral ward. \r\n\r\nNRS
-  have published a methodology paper on their website which explains in detail how
-  the electoral ward based population estimates were created as well as supplying
-  links to further information. The document states that electoral ward population
-  estimates are based on small area population estimates which are used to assign
-  the 2011 data zones to a particular electoral ward. 2011 data zones do not fit exactly
-  into electoral ward boundaries and are allocated on a "best fit" basis. Where a
-  data zone crosses the boundary of two or more electoral wards it is allocated to
-  the one that contains the population-weighted centroid of the data zone.\r\n\r\nThe
-  most recent electoral ward population estimates for the period 2001-2021 as well
-  as the publication methodology document is available on the National Records of
-  Scotland Website and can be accessed by clicking on the link below:\r\n\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/electoral-ward-population-estimates\r\n\r\n\xa9
-  Crown Copyright 2022</p>
+notes: "<p>National Records of Scotland publish mid year electoral ward population\
+  \ estimates on an annual basis.\n The mid year population estimates for the electoral\
+  \ wards are based on the data zone based population estimates. NRS have used a best\
+  \ fit methodology to assign each data zone to a particular electoral ward. </p>\n\
+  <p>NRS have published a methodology paper on their website which explains in detail\
+  \ how the electoral ward based population estimates were created as well as supplying\
+  \ links to further information. The document states that electoral ward population\
+  \ estimates are based on small area population estimates which are used to assign\
+  \ the 2011 data zones to a particular electoral ward. 2011 data zones do not fit\
+  \ exactly into electoral ward boundaries and are allocated on a \"best fit\" basis.\
+  \ Where a data zone crosses the boundary of two or more electoral wards it is allocated\
+  \ to the one that contains the population-weighted centroid of the data zone.</p>\n\
+  <p>The most recent electoral ward population estimates for the period 2001-2021\
+  \ as well as the publication methodology document is available on the National Records\
+  \ of Scotland Website and can be accessed by clicking on the link below:</p>\n<p>https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/electoral-ward-population-estimates</p>\n\
+  <p>\xA9 Crown Copyright 2022</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-electoral-ward-mid-year-population-estimates-2011-data-zone-based
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-electoral-ward-mid-year-population-estimates-2011-data-zone-based
 records: null
 resources:
 - format: CSV

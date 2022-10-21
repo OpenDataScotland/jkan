@@ -5,13 +5,13 @@ date_created: '2019-02-19'
 date_updated: '2022-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City level data from the 2011 Census. Data
-  is supplied by Scottish Census 2011 which is run by National Records of Scotland.\r\nCrown
-  copyright 2013\r\n\r\nNational Records of Scotland have published the 2011 Census
-  Tables at various different geographies on their website. This can be accessed by
-  clicking on the link below:\r\nhttps://www.scotlandscensus.gov.uk/</p>
+notes: "<p>This data set contains Dundee City level data from the 2011 Census. Data\
+  \ is supplied by Scottish Census 2011 which is run by National Records of Scotland.\n\
+  \ Crown copyright 2013</p>\n<p>National Records of Scotland have published the 2011\
+  \ Census Tables at various different geographies on their website. This can be accessed\
+  \ by clicking on the link below:\n https://www.scotlandscensus.gov.uk/</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-2011-census-dundee-city-level-data
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-2011-census-dundee-city-level-data
 records: null
 resources:
 - format: CSV

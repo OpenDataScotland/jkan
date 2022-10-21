@@ -6,16 +6,17 @@ date_created: '2017-11-29'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>These files provide detailed road safety data about the circumstances of
+notes: '<p>These files provide detailed road safety data about the circumstances of
   personal injury road accidents in Dundee City. The data relates only to personal
   injury accidents on public roads in Dundee City that are reported to the police
-  and documented using the STATS19 accident reporting form. \r\n\r\nThese datasets
-  pertain only to Dundee City. STATS19 data for the whole of Great Britain is released
-  under an Open Government License by the Department for Transport and can be found
-  on the <a href="https://data.gov.uk/dataset/road-accidents-safety-data">UK government
-  data portal</a>.</p>
+  and documented using the STATS19 accident reporting form. </p>
+
+  <p>These datasets pertain only to Dundee City. STATS19 data for the whole of Great
+  Britain is released under an Open Government License by the Department for Transport
+  and can be found on the <a href="https://data.gov.uk/dataset/road-accidents-safety-data">UK
+  government data portal</a>.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/road-safety-data
+original_dataset_link: https://data.dundeecity.gov.uk/package/road-safety-data
 records: null
 resources:
 - format: CSV

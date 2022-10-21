@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-07-04'
-date_updated: '2022-09-20'
+date_updated: '2022-10-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset reports key statistics on diagnostic waiting times as a monthly

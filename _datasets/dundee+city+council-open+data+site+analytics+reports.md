@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Dundee City Council
 notes: <p>Performance data for the Dundee City Open Data Portal (data.dundeecity.gov.uk).</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/open-data-site-analytics-reports
+original_dataset_link: https://data.dundeecity.gov.uk/package/open-data-site-analytics-reports
 records: null
 resources:
 - format: CSV

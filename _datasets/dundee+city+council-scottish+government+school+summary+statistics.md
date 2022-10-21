@@ -5,22 +5,22 @@ date_created: '2018-04-24'
 date_updated: '2022-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>The Scottish Government publishes its School Level Summary Statistics publication
-  on an annual basis. This publication contains statistics on pupils, school characteristics
-  and teacher numbers for each publicly funded school in Scotland. \r\n\r\nUp until
-  2018 this publication was known as "School Contact details" as it contained School
-  addresses as well as school level statistics. From 2019 it has been updated to incorporate
-  statistics on free school meal registrations and pupil numbers by stage.\r\n\r\nThe
-  data contained in this publication is from annual pupil and teacher census conducted
-  in September each year. It contains supplementary data of the Summary Statistics
-  for Schools in Scotland compendium released by the Scottish Government. \r\n\r\nThis
-  data set contains data from the Scottish Government School Summary Statistics Publication
-  \xa9 Crown Copyright filtered for Dundee City. The full publication is available
-  on the Scottish Government website and can be accessed by clicking on the link below
-  https://www.gov.scot/publications/school-level-summary-statistics/\r\n\t\t\t\t\t\t\t\t\t\t\r\n\xa9
-  Crown Copyright\r\n\r\n </p>
+notes: "<p>The Scottish Government publishes its School Level Summary Statistics publication\
+  \ on an annual basis. This publication contains statistics on pupils, school characteristics\
+  \ and teacher numbers for each publicly funded school in Scotland. </p>\n<p>Up until\
+  \ 2018 this publication was known as \"School Contact details\" as it contained\
+  \ School addresses as well as school level statistics. From 2019 it has been updated\
+  \ to incorporate statistics on free school meal registrations and pupil numbers\
+  \ by stage.</p>\n<p>The data contained in this publication is from annual pupil\
+  \ and teacher census conducted in September each year. It contains supplementary\
+  \ data of the Summary Statistics for Schools in Scotland compendium released by\
+  \ the Scottish Government. </p>\n<p>This data set contains data from the Scottish\
+  \ Government School Summary Statistics Publication \xA9 Crown Copyright filtered\
+  \ for Dundee City. The full publication is available on the Scottish Government\
+  \ website and can be accessed by clicking on the link below https://www.gov.scot/publications/school-level-summary-statistics/</p>\n\
+  <p>\xA9 Crown Copyright</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-pupil-rolls-and-fte-teachers
+original_dataset_link: https://data.dundeecity.gov.uk/package/school-pupil-rolls-and-fte-teachers
 records: null
 resources:
 - format: CSV

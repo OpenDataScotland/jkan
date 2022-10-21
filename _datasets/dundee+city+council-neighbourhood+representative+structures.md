@@ -5,16 +5,19 @@ date_created: '2017-10-12'
 date_updated: '2017-10-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>Neighbourhood Representative Structures are supported and recognised by
+notes: '<p>Neighbourhood Representative Structures are supported and recognised by
   Dundee City Council in a similar way to Community Councils, and both have a right
   to consultation on matters relating to their neighbourhood. This dataset shows the
-  active neighbourhood representation that the Council consults with across the City.\r\n\r\nFor
-  Community Council boundaries only see the related Community Council Wards dataset.
-  \r\n\r\nBackground on the formation and recognition of Neighbourhood Representative
-  Structures is available in the Neighbourhood Resource and Development Committee
-  report number 752-2002.</p>
+  active neighbourhood representation that the Council consults with across the City.</p>
+
+  <p>For Community Council boundaries only see the related Community Council Wards
+  dataset. </p>
+
+  <p>Background on the formation and recognition of Neighbourhood Representative Structures
+  is available in the Neighbourhood Resource and Development Committee report number
+  752-2002.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/neighbourhood-representative-structures
+original_dataset_link: https://data.dundeecity.gov.uk/package/neighbourhood-representative-structures
 records: null
 resources:
 - format: HTML

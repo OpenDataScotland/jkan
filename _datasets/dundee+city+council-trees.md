@@ -8,7 +8,7 @@ maintainer: Dundee City Council
 notes: <p>This data set contains information and location data of public trees across
   Dundee City.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/trees
+original_dataset_link: https://data.dundeecity.gov.uk/package/trees
 records: null
 resources:
 - format: CSV

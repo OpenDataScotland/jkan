@@ -5,12 +5,12 @@ category:
 date_created: '2018-01-23'
 date_updated: '2019-03-19'
 license: Creative Commons Attribution 4.0 International
-maintainer: Tayside Contracts
+maintainer: Dundee City Council
 notes: <p>School meals catered by <a href="https://www.tayside-contracts.co.uk/school-catering">Tayside
   Contracts</a> across Dundee, Perth and Kinross, and Angus. Menus change annually,
   running from April - March.</p>
-organization: Tayside Contracts
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-meals
+organization: Dundee City Council
+original_dataset_link: https://data.dundeecity.gov.uk/package/school-meals
 records: null
 resources:
 - format: MS EXCEL

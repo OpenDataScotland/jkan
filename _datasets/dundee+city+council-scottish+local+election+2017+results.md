@@ -9,7 +9,7 @@ notes: <p>Dundee City Council 2017 Election Results. The preference profile repo
   for each ward are listed in CSV format. Prior to accessing the reports you should
   read the separate Guidance document.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/scottish-local-election-2017-results
+original_dataset_link: https://data.dundeecity.gov.uk/package/scottish-local-election-2017-results
 records: null
 resources:
 - format: CSV

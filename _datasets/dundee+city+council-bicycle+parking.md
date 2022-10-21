@@ -5,13 +5,15 @@ date_created: '2017-09-23'
 date_updated: '2017-10-25'
 license: https://opendatacommons.org/licenses/odbl/
 maintainer: Dundee City Council
-notes: <p>The Council's Active Travel team conducted a survey of bicycle parking in
-  2015, with the results used to add or update cycle parking in <a href="https://www.openstreetmap.org">OpenStreetMap</a>.
-  \r\n\r\nThis dataset is an extract of the current cycle parking in OpenStreetMap.
-  If you see a facility missing or would like to update any of the information you
-  can do this on OpenStreetMap yourself. </p>
+notes: '<p>The Council''s Active Travel team conducted a survey of bicycle parking
+  in 2015, with the results used to add or update cycle parking in <a href="https://www.openstreetmap.org">OpenStreetMap</a>.
+  </p>
+
+  <p>This dataset is an extract of the current cycle parking in OpenStreetMap. If
+  you see a facility missing or would like to update any of the information you can
+  do this on OpenStreetMap yourself. </p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/bicycle-parking
+original_dataset_link: https://data.dundeecity.gov.uk/package/bicycle-parking
 records: null
 resources:
 - format: GEOJSON

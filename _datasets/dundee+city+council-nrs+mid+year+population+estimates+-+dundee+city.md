@@ -5,16 +5,16 @@ date_created: '2019-01-29'
 date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City Mid Year Population Estimates, sourced
-  from National Records of Scotland. National Records of Scotland publish mid year
-  population estimates on an annual basis.\r\nThe most recent population estimates
-  are the 2021 Mid Year Population Estimates which were published on 13th July 2022.\r\nThe
-  full National Records of Scotland 2021 Mid Year Population Estimates publication
-  is available on the National Records of Scotland Website and can be accessed by
-  clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021\r\n\xa9
-  Crown Copyright 2022\r\n</p>
+notes: "<p>This data set contains Dundee City Mid Year Population Estimates, sourced\
+  \ from National Records of Scotland. National Records of Scotland publish mid year\
+  \ population estimates on an annual basis.\n The most recent population estimates\
+  \ are the 2021 Mid Year Population Estimates which were published on 13th July 2022.\n\
+  \ The full National Records of Scotland 2021 Mid Year Population Estimates publication\
+  \ is available on the National Records of Scotland Website and can be accessed by\
+  \ clicking on the link below:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021\n\
+  \ \xA9 Crown Copyright 2022</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/mid-year-population-estimates
+original_dataset_link: https://data.dundeecity.gov.uk/package/mid-year-population-estimates
 records: null
 resources:
 - format: CSV

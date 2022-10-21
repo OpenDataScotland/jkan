@@ -5,18 +5,19 @@ date_created: '2021-11-05'
 date_updated: '2022-06-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>The <a href="https://www.sustrans.org.uk/scotland/hands-up-scotland-survey">Hands
-  Up Scotland Survey</a> looks at how pupils across Scotland travel to school. The
-  project is funded by Transport Scotland and is a joint survey between Sustrans and
-  all 32 Scottish local authorities. Each September, schools across Scotland complete
-  the survey in class by asking their pupils \u2018How do you normally travel to school?\u2019.
-  Council staff distribute the survey to schools and return pupil responses to the
-  Sustrans\u2019 Research and Monitoring Unit for overall collation, analysis and
-  reporting.\r\n\r\nThe most recent results, published on 26th May 2022 in the 2021
-  Annual Report, provide a valuable snapshot of school travel in Scotland. The Annual
-  Report can be accessed by clicking on the following link:\r\n\r\nhttps://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey\r\n</p>
+notes: "<p>The <a href=\"https://www.sustrans.org.uk/scotland/hands-up-scotland-survey\"\
+  >Hands Up Scotland Survey</a> looks at how pupils across Scotland travel to school.\
+  \ The project is funded by Transport Scotland and is a joint survey between Sustrans\
+  \ and all 32 Scottish local authorities. Each September, schools across Scotland\
+  \ complete the survey in class by asking their pupils \u2018How do you normally\
+  \ travel to school?\u2019. Council staff distribute the survey to schools and return\
+  \ pupil responses to the Sustrans\u2019 Research and Monitoring Unit for overall\
+  \ collation, analysis and reporting.</p>\n<p>The most recent results, published\
+  \ on 26th May 2022 in the 2021 Annual Report, provide a valuable snapshot of school\
+  \ travel in Scotland. The Annual Report can be accessed by clicking on the following\
+  \ link:</p>\n<p>https://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/sustrans-hands-up-scotland-survey
+original_dataset_link: https://data.dundeecity.gov.uk/package/sustrans-hands-up-scotland-survey
 records: null
 resources:
 - format: CSV

@@ -5,14 +5,15 @@ date_created: '2022-02-28'
 date_updated: '2022-05-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>A Polling Place is the building or area in which polling stations are contained.
+notes: '<p>A Polling Place is the building or area in which polling stations are contained.
   Local Authorities designate polling places by virtue of Section 18B of The Representation
-  of the People Act 1983 and are reviewed every 5 years along with the Polling Districts.\r\n\r\nA
-  polling station is the room or area within the polling place where voting takes
+  of the People Act 1983 and are reviewed every 5 years along with the Polling Districts.</p>
+
+  <p>A polling station is the room or area within the polling place where voting takes
   place. Polling Stations are chosen by the Returning Officer under the election rules
-  for that particular election.</p>
+  for that particular election.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/polling-districts-and-polling-places
+original_dataset_link: https://data.dundeecity.gov.uk/package/polling-districts-and-polling-places
 records: null
 resources:
 - format: WFS
