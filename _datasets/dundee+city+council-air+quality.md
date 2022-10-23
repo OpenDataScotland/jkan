@@ -5,14 +5,24 @@ date_created: '2018-02-12'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>Of the seven pollutants contained in the Air Quality Standards, currently
-  only two of these are routinely monitored in Dundee. These are:\r\n\r\n<em> Nitrogen
-  dioxide (NO2), and\r\n</em> Particulate Matter (PM10)\r\n\r\nAir quality monitored
-  using continuous automatic analysers and/or diffusion tubes. \r\n\r\nVisit the Air
-  Quality section of the Dundee City Council <a href="https://www.dundeecity.gov.uk/service-area/neighbourhood-services/community-safety-and-protection/air-quality-dundee">website</a>
-  for more information on air quality in Dundee. \r\n</p>
+notes: '<p>Of the seven pollutants contained in the Air Quality Standards, currently
+  only two of these are routinely monitored in Dundee. These are:</p>
+
+  <ul>
+
+  <li>Nitrogen dioxide (NO2), and</li>
+
+  <li>Particulate Matter (PM10)</li>
+
+  </ul>
+
+  <p>Air quality monitored using continuous automatic analysers and/or diffusion tubes.
+  </p>
+
+  <p>Visit the Air Quality section of the Dundee City Council <a href="https://www.dundeecity.gov.uk/service-area/neighbourhood-services/community-safety-and-protection/air-quality-dundee">website</a>
+  for more information on air quality in Dundee. </p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/air-quality
+original_dataset_link: https://data.dundeecity.gov.uk/package/air-quality
 records: null
 resources:
 - format: CSV

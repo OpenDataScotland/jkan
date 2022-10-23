@@ -5,20 +5,20 @@ date_created: '2019-01-31'
 date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City population projections. The data is sourced
-  from National Records of Scotland Sub National Population Projections - Population
-  Projections for Scottish Areas publication. \r\n\r\nThe most recent publication
-  is the Population Projections for Scottish Areas (2018 based) which was published
-  by National Records of Scotland in March 2020.\r\n\r\nThe data set contains population
-  projections for the period 2018 to 2043. Although National Records of Scotland have
-  published population projections up to 2043 they have generally only commented on
-  the period 2018-2028 in their analysis. Projections up to 2043 have limitations
-  in their use due to the level of uncertainty with projecting this far ahead. \r\n\r\nThe
-  full National Records of Scotland publication can be accessed through the following
-  website:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/sub-national-population-projections/2018-based\r\n\xa9
-  Crown Copyright 2020\t\t\r\n\r\n</p>
+notes: "<p>This data set contains Dundee City population projections. The data is\
+  \ sourced from National Records of Scotland Sub National Population Projections\
+  \ - Population Projections for Scottish Areas publication. </p>\n<p>The most recent\
+  \ publication is the Population Projections for Scottish Areas (2018 based) which\
+  \ was published by National Records of Scotland in March 2020.</p>\n<p>The data\
+  \ set contains population projections for the period 2018 to 2043. Although National\
+  \ Records of Scotland have published population projections up to 2043 they have\
+  \ generally only commented on the period 2018-2028 in their analysis. Projections\
+  \ up to 2043 have limitations in their use due to the level of uncertainty with\
+  \ projecting this far ahead. </p>\n<p>The full National Records of Scotland publication\
+  \ can be accessed through the following website:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-projections/sub-national-population-projections/2018-based\n\
+  \ \xA9 Crown Copyright 2020     </p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-population-projections-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-population-projections-dundee-city
 records: null
 resources:
 - format: CSV

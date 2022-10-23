@@ -7,10 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Dundee City Council
 notes: '<p>Every electric vehicle charging session at Dundee City Council owned charge
   points. Data includes: Start and finish date/time, Kwh (amount of electricity) used,
-  Charge point ID, Location, Type of Charger.\r\n\r\nMore information about electric
-  vehicles in Dundee can be found on the Drive Dundee Electric <a href="https://drivedundeeelectric.co.uk/">website</a>.</p>'
+  Charge point ID, Location, Type of Charger.</p>
+
+  <p>More information about electric vehicles in Dundee can be found on the Drive
+  Dundee Electric <a href="https://drivedundeeelectric.co.uk/">website</a>.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/ev-charging-data
+original_dataset_link: https://data.dundeecity.gov.uk/package/ev-charging-data
 records: null
 resources:
 - format: CSV

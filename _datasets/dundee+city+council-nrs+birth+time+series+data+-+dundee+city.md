@@ -5,14 +5,14 @@ date_created: '2019-01-31'
 date_updated: '2022-07-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: '<p>This data set shows Dundee City birth time series data. The data shows
-  the total number of births, the number of male births and the number of female births.\r\n\r\nThe
-  data is sourced from National Records of Scotland - Birth Time Series Data which
-  has been filtered for Dundee City \xa9 Crown Copyright 2022\r\n\r\nThe full publication
-  is available on the National Records of Scotland Website and can be accessed by
-  clicking on the link below: \r\n\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births/births-time-series-data</p>'
+notes: "<p>This data set shows Dundee City birth time series data. The data shows\
+  \ the total number of births, the number of male births and the number of female\
+  \ births.</p>\n<p>The data is sourced from National Records of Scotland - Birth\
+  \ Time Series Data which has been filtered for Dundee City \xA9 Crown Copyright\
+  \ 2022</p>\n<p>The full publication is available on the National Records of Scotland\
+  \ Website and can be accessed by clicking on the link below: </p>\n<p>https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births/births-time-series-data</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/birth-time-series-data
+original_dataset_link: https://data.dundeecity.gov.uk/package/birth-time-series-data
 records: null
 resources:
 - format: CSV

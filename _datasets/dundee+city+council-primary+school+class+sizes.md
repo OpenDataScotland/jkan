@@ -5,18 +5,19 @@ date_created: '2018-04-23'
 date_updated: '2022-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains data on class sizes in primary schools it displays
-  the number of pupils in each class in September of the given year. The data is sourced
-  from the Scottish Government Annual Pupil Census \xa9 Crown Copyright 2021 which
-  is conducted in publicly funded schools in Scotland. Data has been filtered from
-  the national data set to display schools within Dundee City only. Class size data
-  is not collected for secondary school as class size varies widely across subjects.\r\n\r\nThe
-  Scottish Government publish the Pupil Census on an annual basis on their website.
-  The full data set is available on the Scottish Government website and can be accessed
-  by clicking on the following link:\r\n\r\n\r\n https://www.gov.scot/publications/primary-school-class-sizes/  \xa9
-  Crown Copyright 2022</p>
+notes: "<p>This data set contains data on class sizes in primary schools it displays\
+  \ the number of pupils in each class in September of the given year. The data is\
+  \ sourced from the Scottish Government Annual Pupil Census \xA9 Crown Copyright\
+  \ 2021 which is conducted in publicly funded schools in Scotland. Data has been\
+  \ filtered from the national data set to display schools within Dundee City only.\
+  \ Class size data is not collected for secondary school as class size varies widely\
+  \ across subjects.</p>\n<p>The Scottish Government publish the Pupil Census on an\
+  \ annual basis on their website. The full data set is available on the Scottish\
+  \ Government website and can be accessed by clicking on the following link:</p>\n\
+  <p>https://www.gov.scot/publications/primary-school-class-sizes/  \xA9 Crown Copyright\
+  \ 2022</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/primary-school-class-sizes
+original_dataset_link: https://data.dundeecity.gov.uk/package/primary-school-class-sizes
 records: null
 resources:
 - format: CSV

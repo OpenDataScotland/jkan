@@ -13,7 +13,7 @@ records: null
 resources:
 - format: JSON
   name: JSON
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d6e52799-7a05-45fe-85b1-bf46bf5cec81
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1cdbb64b-1bf6-47e0-b290-2a114cbf1056/2/urql
 - format: CSV
   name: CSV
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6acaa210-5ddc-4b63-a846-175708a42254

@@ -5,15 +5,16 @@ date_created: '2019-03-04'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City Census Output Area Level Data from the
+notes: '<p>This data set contains Dundee City Census Output Area Level Data from the
   2011 Census. At Census Output Area level Dundee City has 1344 Output Areas. Data
   is supplied by Scottish Census 2011 which is run by National Records of Scotland.
-  Crown copyright 2013 \r\n\r\nIn order to protect against disclosure of personal
-  information, some records have been swapped between different geographic areas.
-  Some cell values will be affected, particularly small values at the most detailed
-  geographies.</p>
+  Crown copyright 2013 </p>
+
+  <p>In order to protect against disclosure of personal information, some records
+  have been swapped between different geographic areas. Some cell values will be affected,
+  particularly small values at the most detailed geographies.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-2011-census-census-output-area-data-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-2011-census-census-output-area-data-dundee-city
 records: null
 resources:
 - format: CSV

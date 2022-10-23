@@ -5,15 +5,15 @@ date_created: '2019-02-04'
 date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains Dundee City Household Projections. This is sourced
-  from National Records of Scotland, Household Projects for Scotland Publication.
-  \r\n\r\nThe most recent publication is National Records of Scotland, Household Projects
-  for Scotland (2018 based) (Principal Projections) which was published in September
-  2020.\r\n\r\nThe full publication is available on the National Records of Scotland
-  Website which can be accessed by clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-projections/2018-based-household-projections\r\n\xa9
-  Crown Copyright 2020\t</p>
+notes: "<p>This data set contains Dundee City Household Projections. This is sourced\
+  \ from National Records of Scotland, Household Projects for Scotland Publication.\
+  \ </p>\n<p>The most recent publication is National Records of Scotland, Household\
+  \ Projects for Scotland (2018 based) (Principal Projections) which was published\
+  \ in September 2020.</p>\n<p>The full publication is available on the National Records\
+  \ of Scotland Website which can be accessed by clicking on the link below:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-projections/2018-based-household-projections\n\
+  \ \xA9 Crown Copyright 2020 </p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-household-projections
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-household-projections
 records: null
 resources:
 - format: CSV

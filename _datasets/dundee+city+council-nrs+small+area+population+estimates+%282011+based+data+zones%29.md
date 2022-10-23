@@ -5,21 +5,21 @@ date_created: '2019-01-29'
 date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set contains data zone level mid-year population estimates for
-  Dundee City, sourced from the National Records of Scotland Small Area Population
-  Estimates Scotland Publications.\xa9 Crown Copyright 2022\r\n\r\nAt Data Zone level
-  Scotland can be split into 6,976 data zones, 188 Data Zones are within the Dundee
-  City Boundary.\r\nThe following data sets show population estimates for each of
-  Dundee's 188 Data Zones for All Persons, Males and Females. \r\n\r\nNational Records
-  of Scotland publish Small Area Population Estimates on an annual basis. The most
-  recent publication is the Mid 2021 Small Area Population Estimates which were published
-  in September 2022. You can access the full NRS publication by clicking on the link
-  below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/small-area-population-estimates-2011-data-zone-based/mid-2021\r\n\r\nDetailed
-  Time Series data is also published on the National Records of Scotland Website and
-  can be accessed by clicking on the link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/small-area-population-estimates-2011-data-zone-based/time-series\r\n\r\n\xa9
-  Crown Copyright 2022</p>
+notes: "<p>This data set contains data zone level mid-year population estimates for\
+  \ Dundee City, sourced from the National Records of Scotland Small Area Population\
+  \ Estimates Scotland Publications.\xA9 Crown Copyright 2022</p>\n<p>At Data Zone\
+  \ level Scotland can be split into 6,976 data zones, 188 Data Zones are within the\
+  \ Dundee City Boundary.\n The following data sets show population estimates for\
+  \ each of Dundee's 188 Data Zones for All Persons, Males and Females. </p>\n<p>National\
+  \ Records of Scotland publish Small Area Population Estimates on an annual basis.\
+  \ The most recent publication is the Mid 2021 Small Area Population Estimates which\
+  \ were published in September 2022. You can access the full NRS publication by clicking\
+  \ on the link below:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/small-area-population-estimates-2011-data-zone-based/mid-2021</p>\n\
+  <p>Detailed Time Series data is also published on the National Records of Scotland\
+  \ Website and can be accessed by clicking on the link below:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/small-area-population-estimates-2011-data-zone-based/time-series</p>\n\
+  <p>\xA9 Crown Copyright 2022</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/small-area-population-estimates
+original_dataset_link: https://data.dundeecity.gov.uk/package/small-area-population-estimates
 records: null
 resources:
 - format: CSV

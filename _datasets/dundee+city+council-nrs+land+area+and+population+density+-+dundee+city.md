@@ -5,16 +5,16 @@ date_created: '2019-02-06'
 date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>The following data set shows the land area and population density estimate
-  for Dundee City. The data is sourced from National Records of Scotland (NRS) Mid
-  Year Population Estimates.\r\n\r\nNRS publish mid year population estimates on an
-  annual basis. The most recent estimates are the 2021 Mid year population estimates
-  which were published on 13th July 2022 \xa9 Crown Copyright 2022\r\n\r\nThe full
-  2021 National Records of Scotland Mid-Year Population Estimate publication is available
-  on the National Records of Scotland website and can be accessed by clicking on the
-  link below:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021\r\n</p>
+notes: "<p>The following data set shows the land area and population density estimate\
+  \ for Dundee City. The data is sourced from National Records of Scotland (NRS) Mid\
+  \ Year Population Estimates.</p>\n<p>NRS publish mid year population estimates on\
+  \ an annual basis. The most recent estimates are the 2021 Mid year population estimates\
+  \ which were published on 13th July 2022 \xA9 Crown Copyright 2022</p>\n<p>The full\
+  \ 2021 National Records of Scotland Mid-Year Population Estimate publication is\
+  \ available on the National Records of Scotland website and can be accessed by clicking\
+  \ on the link below:\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/mid-2021</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-land-area-and-population-density-dundee-city
+original_dataset_link: https://data.dundeecity.gov.uk/package/nrs-land-area-and-population-density-dundee-city
 records: null
 resources:
 - format: CSV

@@ -5,12 +5,26 @@ date_created: '2018-05-16'
 date_updated: '2021-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>School term dates for schools within Dundee City for the following academic
-  years:\r\n\r\n<em> 2020/21\r\n</em> 2021/22\r\n<em> 2022/23\r\n</em> 2023/24\r\n*
-  2024/25\r\n\r\nDates include public and school holidays as well as staff in service
-  days.</p>
+notes: '<p>School term dates for schools within Dundee City for the following academic
+  years:</p>
+
+  <ul>
+
+  <li>2020/21</li>
+
+  <li>2021/22</li>
+
+  <li>2022/23</li>
+
+  <li>2023/24</li>
+
+  <li>2024/25</li>
+
+  </ul>
+
+  <p>Dates include public and school holidays as well as staff in service days.</p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/dataset/school-term-dates
+original_dataset_link: https://data.dundeecity.gov.uk/package/school-term-dates
 records: null
 resources:
 - format: PDF
