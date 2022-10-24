@@ -29,7 +29,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_suppl
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Housing Land Supply '
   url: https://geo.spatialhub.scot/geoserver/sh_hls/wfs?service=wfs&typeName=sh_hls:pub_hls
 schema: default
 title: Housing Land Supply - Scotland

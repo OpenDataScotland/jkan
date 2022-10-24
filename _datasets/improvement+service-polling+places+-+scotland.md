@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Polling Places '
   url: https://geo.spatialhub.scot/geoserver/sh_polpl/wfs?service=wfs&typeName=sh_polpl:pub_polpl
 schema: default
 title: Polling Places - Scotland

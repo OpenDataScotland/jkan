@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2022-08-23'
 date_updated: '2022-08-23'
-license: Creative Commons Attribution 4.0 International
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Dundee City Council
 notes: '<p>Locations of all street lights in the city that are operated by the partnership</p>
 

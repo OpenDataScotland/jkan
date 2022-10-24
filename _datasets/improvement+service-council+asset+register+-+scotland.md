@@ -12,7 +12,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_regi
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Council Asset Register '
   url: https://geo.spatialhub.scot/geoserver/sh_car/wfs?service=wfs&typeName=sh_car:pub_car
 schema: default
 title: Council Asset Register - Scotland

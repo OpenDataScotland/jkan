@@ -15,10 +15,10 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/taxi-private-hire-ca
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Licence Applications Revenue Report Data
   url: https://data.stirling.gov.uk/dataset/b6d6b7a5-7f74-42c0-8fce-54f17536f135/resource/674f515f-ba02-42f9-b41c-4090e8873982/download/20210323-taxi-private-hire-car-applications-data.csv
 - format: PDF
-  name: PDF
+  name: 'Licence Applications Revenue Report '
   url: https://data.stirling.gov.uk/dataset/b6d6b7a5-7f74-42c0-8fce-54f17536f135/resource/f5d81a1e-01ad-40d2-aa53-fa87a9c49359/download/20210323-taxi-private-hire-car-applications-2015-to-2019.pdf
 schema: default
 title: Taxi & Private Hire Car Applications Revenue

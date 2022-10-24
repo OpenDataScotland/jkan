@@ -34,13 +34,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-gc'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling stations
   url: https://data.spatialhub.scot/dataset/041250da-f24d-4ccb-b63e-44ac9f737cdc/resource/f994ede6-0c41-46af-a8d9-2e5c47103734/download/pollingstationsgcc.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Locations Nov 2019 V2
   url: https://data.spatialhub.scot/dataset/041250da-f24d-4ccb-b63e-44ac9f737cdc/resource/b47ab57e-8d3c-445a-ae18-d3ed349dd2a6/download/polling_locations.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Locations
   url: https://data.spatialhub.scot/dataset/041250da-f24d-4ccb-b63e-44ac9f737cdc/resource/f8c69f46-aef4-4ecd-bc1b-50799243b9e5/download/polling_locations.zip
 schema: default
 title: Polling Places - Glasgow City

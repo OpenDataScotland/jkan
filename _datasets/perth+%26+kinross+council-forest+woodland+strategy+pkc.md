@@ -44,13 +44,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/forest-woodland-strategy-
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: https://opendata-pkc.opendata.arcgis.com/maps/08e7f3bd7ed24bd1a978e91fa080442e_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: ArcGIS GeoService
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Forest_Woodland_Strategy_PKC/FeatureServer/0
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: https://opendata-pkc.opendata.arcgis.com/datasets/08e7f3bd7ed24bd1a978e91fa080442e_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
@@ -59,7 +59,7 @@ resources:
   name: KML
   url: https://opendata-pkc.opendata.arcgis.com/datasets/08e7f3bd7ed24bd1a978e91fa080442e_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: https://opendata-pkc.opendata.arcgis.com/datasets/08e7f3bd7ed24bd1a978e91fa080442e_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Forest Woodland Strategy PKC

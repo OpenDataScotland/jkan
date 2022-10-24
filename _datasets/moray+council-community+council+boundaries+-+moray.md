@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Community Councils
   url: https://mapping.moray.gov.uk/arcgis/services/OpenData/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Council Boundaries - Moray

@@ -37,7 +37,7 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/school-covid-19-posi
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: CSV Covid cases Angus schools
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=services%3Aedn_schoolscovidcases2&outputFormat=csv
 schema: default
 title: School Covid-19 - Positive Cases and Isolations

@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_de
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: South Ayrshire Local Landscape Designations
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Landscape Areas - South Ayrshire

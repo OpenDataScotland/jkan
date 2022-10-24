@@ -21,22 +21,22 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/primary-school-class
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2016'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/67e3927a-36ee-4172-87f7-c9a2c5ba18d0/download/20220428-stirling-council-primary-school-class-sizes-september-2016.csv
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2017'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/18243706-e93e-4b6e-990e-7062e4640553/download/20220428-stirling-council-primary-school-class-sizes-september-2017.csv
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2018'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/a95511ce-44c6-4cdd-b818-d2a6fdde437c/download/20220428-stirling-council-primary-school-class-sizes-september-2018.csv
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2019'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/67f14a73-55fe-4c8c-9d93-4e2715670e55/download/20220428-stirling-council-primary-school-class-sizes-september-2019.csv
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2020'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/2fae95f4-542d-4904-b974-fad160ee77e1/download/20220428-stirling-council-primary-school-class-sizes-september-2020.csv
 - format: CSV
-  name: CSV
+  name: 'Primary School Class Sizes: September 2021'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/4dc8e478-a1c6-4171-b4e3-53f57aac9315/download/20220428-stirling-council-primary-school-class-sizes-september-2021.csv
 schema: default
 title: Primary School Class Sizes

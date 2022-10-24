@@ -14,13 +14,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/polling-places
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: https://opendata-pkc.opendata.arcgis.com/maps/909e45688aa646199cad8e8616ddef7a_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: ArcGIS GeoService
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer/0
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.geojson?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
 - format: CSV
   name: CSV
@@ -29,7 +29,7 @@ resources:
   name: KML
   url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.kml?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: https://opendata-pkc.opendata.arcgis.com/datasets/909e45688aa646199cad8e8616ddef7a_0.zip?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
 schema: default
 title: Polling places

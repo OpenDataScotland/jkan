@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2019-07-19'
 date_updated: '2019-07-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Renfrewshire Council
 notes: "<p>Map showing location of heritage buildings and monuments in Renfrewshire\
   \ with links to detailed descriptions on\_https://paisley.is</p>"

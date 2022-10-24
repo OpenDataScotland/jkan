@@ -1,9 +1,9 @@
 ---
 category:
 - Business and Economy
-date_created: '2022-10-21'
+date_created: '2022-10-24'
 date_updated: '2019-10-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>The number and percentage of people claiming relevant benefits. This dataset
   contains the indicators that were used to calculate the income domain of the 2016

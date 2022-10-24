@@ -35,19 +35,19 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/f1fd4364-28cc-4f19-a87e-a7728e95437e/resource/ec0ab663-cef8-4b8b-a291-5fe8f957b69f/download/kprojects2017006-spatial-hub-uploads-2017pollingdistricts.zip
 - format: ZIP
-  name: ZIP
+  name: Argyll and Bute Polling Districts
   url: https://data.spatialhub.scot/dataset/f1fd4364-28cc-4f19-a87e-a7728e95437e/resource/e3e827ae-b167-4a14-a7c7-3b18af254354/download/kprojects2017006-spatial-hub-uploads-2017pollingdistrictsv2.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/f1fd4364-28cc-4f19-a87e-a7728e95437e/resource/4d1f3331-d78a-4f81-8463-16e4be53ca07/download/polling_district.zip
 - format: ZIP
-  name: ZIP
+  name: Polling districts
   url: https://data.spatialhub.scot/dataset/f1fd4364-28cc-4f19-a87e-a7728e95437e/resource/e457a319-0559-4e9a-bfd3-3445a19916e8/download/abc_polling_district.zip
 - format: WFS
-  name: WFS
+  name: Polling districts
   url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Districts - Argyll and Bute

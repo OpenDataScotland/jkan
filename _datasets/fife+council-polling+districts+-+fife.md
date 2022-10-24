@@ -35,22 +35,22 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling Districts
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
 - format: ZIP
-  name: ZIP
+  name: Fife Polling Districts (updated)
   url: https://data.spatialhub.scot/dataset/d0779a0f-0f50-401a-bc24-41d0310f9451/resource/bb01682f-4454-454d-9929-ea6917fceb7d/download/fc_polling_districts_2017.zip
 - format: WFS
-  name: WFS
+  name: Polling Districts
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Polling_Districts_March21_WFS/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Polling Places March 21v2
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Polling_Districts_March21_WFS2/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Polling Districts
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?
 - format: WFS
-  name: WFS
+  name: Fife Council Polling Districts
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Fife_Council_Polling_Districts_WFS/WFSServer?service=wfs&request=getcapabilities
 schema: default
 title: Polling Districts - Fife

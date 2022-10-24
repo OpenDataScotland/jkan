@@ -56,7 +56,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-an'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Cilvert Register and drainage lines
   url: https://data.angus.gov.uk/geoserver/inspire/ows
 schema: default
 title: Culverts - Angus

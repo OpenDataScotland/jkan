@@ -27,7 +27,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-i
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Street Furniture '
   url: https://geo.spatialhub.scot/geoserver/sh_stfnt/wfs?service=wfs&typeName=sh_stfnt:pub_stfnt
 schema: default
 title: Street Furniture - Scotland

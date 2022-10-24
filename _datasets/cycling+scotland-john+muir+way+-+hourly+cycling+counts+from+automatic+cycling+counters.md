@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/dfa2e487-eeda-460a-aaf3-03f4b73893b4/1/urql
 schema: default
 title: John Muir Way - Hourly cycling counts from automatic cycling counters

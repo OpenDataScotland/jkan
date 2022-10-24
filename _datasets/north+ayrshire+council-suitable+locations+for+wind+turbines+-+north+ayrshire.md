@@ -14,13 +14,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/suitable_locations
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Suitable Locations For Wind Turbines
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: WFS
-  name: WFS
+  name: Group 1
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 - format: WFS
-  name: WFS
+  name: Group 2
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
 title: Suitable Locations for Wind Turbines - North Ayrshire

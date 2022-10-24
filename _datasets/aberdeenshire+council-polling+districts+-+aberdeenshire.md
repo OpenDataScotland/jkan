@@ -35,22 +35,22 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/d77d2d17-b2c8-48bf-90e2-16b8d16c6174/download/abshirepollingdistricts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/093745f6-0bfd-4519-be46-12d6a63691c6/download/polling_districts_2018_09.zip
 - format: KMZ
-  name: KMZ
+  name: Polling Districts - Dec 2019 UK General Election
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/212a5a54-9add-4b76-9c1b-b87ea8740fd9/download/polling_districts_ge2019.kmz
 - format: KMZ
-  name: KMZ
+  name: Aberdeenshire Polling Districts
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/6dae1ccd-76d7-41aa-a5d8-946cf7594d65/download/abshire-polling-districts-2020-06.kmz
 - format: KMZ
-  name: KMZ
+  name: Polling Districts in Aberdeenshire at May 2021 SPE
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/d2d0c869-45a1-4743-b1f1-384a312632ad/download/abdnshire-polling-districts-2021-04-01.kmz
 - format: ZIP
-  name: ZIP
+  name: Polling Districts (5 May 2022 - SLE)
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/a59e1a66-e09b-44a7-af20-0823f0fb593b/download/pollingdistricts2022.zip
 schema: default
 title: Polling Districts - Aberdeenshire

@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Conservation Areas
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Conservation Areas - North Ayrshire

@@ -28,10 +28,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Adopted Core Paths
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: No file type
-  name: No file type
+  name: Core paths
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
 title: Paths And Core Paths - North Ayrshire

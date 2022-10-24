@@ -28,10 +28,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Core Paths
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities%0Ahttp://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 - format: No file type
-  name: No file type
+  name: Dundee Core Paths
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 schema: default
 title: Paths And Core Paths - Dundee City

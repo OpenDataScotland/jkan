@@ -39,37 +39,37 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/aberdeen-city-ro
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: WWI Roll of Honour - text file
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/9f66bf1e-c2bf-4fdf-89d9-05c8c85954c6/download/rollww1_opendata_v1.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: WWI Roll of Honour - spreadsheet
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/80a6d0c8-9fb7-47dc-b04f-ec0e576495c6/download/rollww1_opendata_v1.xlsx
 - format: CSV
-  name: CSV
+  name: WWII Part 1 - HM Forces & Merchant Navy -  Roll of Honour - text file
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/2e8539e9-4a26-4b1d-a4f0-4b51a0939bb0/download/rollwwiiparti_hmf_merch_opendata_v1.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: WWII Part 1 - HM Forces & Merchant Navy -  Roll of Honour - spreadsheet
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/a8ccd079-652e-4149-8541-19050bcaa63c/download/rollwwiiparti_hmf_merch_opendata_v1.xlsx
 - format: CSV
-  name: CSV
+  name: WWII Part 2 - Civil Defence & Civilians -  Roll of Honour - text file
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/87300c10-4d12-4814-9211-3567c070adb2/download/rollwwiipartii_civ_opendata_v1.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: WWII Part 2 - Civil Defence & Civilians -  Roll of Honour - spreadsheet
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/1084f006-8fd0-4244-84ed-cc17bfa25de5/download/rollwwiipartii_civ_opendata_v1.xlsx
 - format: CSV
-  name: CSV
+  name: Post 1945 Roll of Honour - text file
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/22d1ab57-b2a7-40d6-8a5c-d3b0945300a4/download/rollpost1945_opendata_v1.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: Post 1945 Roll of Honour - spreadsheet
   url: https://data.aberdeencity.gov.uk/dataset/81e8f43a-939a-4eff-b79a-03bddb2c5e75/resource/3003a76b-fa7c-4532-98e9-ce4663794029/download/rollpost1945_opendata_v1.xlsx
 - format: HTML
-  name: HTML
+  name: Aberdeen City and Aberdeenshire Archives
   url: https://www.aberdeencity.gov.uk/services/libraries-and-archives/aberdeen-city-and-aberdeenshire-archives
 - format: HTML
-  name: HTML
+  name: Aberdeen Art Gallery & Museums website
   url: http://www.aagm.co.uk/
 - format: HTML
-  name: HTML
+  name: Local and Family History
   url: https://www.aberdeencity.gov.uk/services/libraries-and-archives/local-and-family-history
 schema: default
 title: Aberdeen City Rolls of Honour

@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/7aa487cd-3cd5-405b-850e-1e2ac317816c/1/urql
 schema: default
 title: City of Edinburgh Council - Daily cycling counts from automatic cycling counters

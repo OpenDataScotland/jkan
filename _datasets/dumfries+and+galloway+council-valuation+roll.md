@@ -12,10 +12,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: vr_subject_total.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=bcd1bd61-af38-4ffb-8a49-35e8e18a0372
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/4bbaa7b5-9da9-4614-9b4b-ff566f330217/1/urql
 schema: default
 title: Valuation Roll

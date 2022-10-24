@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2017-09-12'
 date_updated: '2017-10-09'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Renfrewshire Council
 notes: <p>Community Councils within Renfrewshire. Community Councils play an active
   role in expressing the views and concerns of local people within their area on a

@@ -20,10 +20,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-roads
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Product description
   url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
 - format: HTML
-  name: HTML
+  name: Download OS Open Roads
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPROAD
 - format: ATOM FEED
   name: ATOM FEED

@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 date_created: '2017-04-13'
 date_updated: '2021-09-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Public Health Scotland
 notes: <p>Individuals presenting for initial assessment (for new drug treatment episode)
   at specialist drug treatment services, and for whom a SMR25a form was submitted

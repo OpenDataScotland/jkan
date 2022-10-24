@@ -14,10 +14,10 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/open-data-dataset-ca
 records: null
 resources:
 - format: PDF
-  name: PDF
+  name: Dataset Catalogue Listing (PDF)
   url: https://data.stirling.gov.uk/dataset/37182a9f-96a2-44f4-8f23-1fb7a7395787/resource/33425621-983c-4cf4-9bd5-cf9d34918ef7/download/20221013-stirling-council-open-data-dataset-catalogue-as-at-13.10.2022.pdf
 - format: CSV
-  name: CSV
+  name: Dataset Catalogue
   url: https://data.stirling.gov.uk/dataset/37182a9f-96a2-44f4-8f23-1fb7a7395787/resource/47f987f8-d05f-4238-beae-bcd28559bf2b/download/20221013-stirling-council-open-data-dataset-catalogue-as-at-13.10.2022.csv
 schema: default
 title: Open Data Dataset Catalogue

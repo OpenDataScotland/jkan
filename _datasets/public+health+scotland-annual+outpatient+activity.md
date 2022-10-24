@@ -29,43 +29,43 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-a
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Activity By Council Area, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/d6647352-74de-40ef-8fa6-dba60450ded8/download/outpatient_by_council_area_age_sex.csv
 - format: CSV
-  name: CSV
+  name: Activity by Council Area and Deprivation
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/420150dd-3b76-4a06-9b5d-9cb70a59903b/download/outpatient_by_council_area_simd.csv
 - format: CSV
-  name: CSV
+  name: Activity By Council Area and Specialty
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/11e45926-daaf-4af8-85fc-a51366c54fe9/download/outpatient_by_council_area_specialty.csv
 - format: CSV
-  name: CSV
+  name: Activity by Location of Treatment, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/c1df867d-bbfa-464b-9ac4-3658c57e777d/download/outpatient_by_location_of_treatment_age_sex.csv
 - format: CSV
-  name: CSV
+  name: Activity by Location of Treatment and Deprivation
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/5c163686-7120-4b0f-bfbb-b901a9277476/download/outpatient_by_location_of_treatment_simd.csv
 - format: CSV
-  name: CSV
+  name: Activity by Location of Treatment and Specialty
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/4e72be27-bec3-41ca-a0df-24417909d143/download/outpatient_by_location_of_treatment_specialty.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Residence, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/16b2e685-7860-4973-bab4-e0c753233e6c/download/outpatient_by_nhs_board_of_residence_age_sex.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Residence and Deprivation
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/24b4e928-17d4-482d-9544-a6726acc84c4/download/outpatient_by_nhs_board_of_residence_simd.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Residence and Specialty
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/1abb3f58-bf37-4a6c-80fd-32c0580087f9/download/outpatient_by_nhs_board_of_residence_specialty.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Treatment, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e7267846-4164-440f-bfdc-12a283e5d8a0/download/outpatient_by_nhs_board_of_treatment_age_sex.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Treatment and Deprivation
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/77b64e48-7725-4cd1-84e1-d44637bb98f8/download/outpatient_by_nhs_board_of_treatment_simd.csv
 - format: CSV
-  name: CSV
+  name: Activity by Health Board of Treatment and Specialty
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/882af41a-0983-4987-aee4-ceb57f902ec8/download/outpatient_by_nhs_board_of_treatment_specialty.csv
 - format: CSV
-  name: CSV
+  name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2022-locations-lookup.csv
 schema: default
 title: Annual Outpatient Activity

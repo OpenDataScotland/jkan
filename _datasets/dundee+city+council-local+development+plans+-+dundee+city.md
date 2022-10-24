@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: LDP layers
   url: http://dundeecity.maps.arcgis.com/home/item.html?id=6bd0011538594e8e9f422d24b22d7f8c
 schema: default
 title: Local Development Plans - Dundee City

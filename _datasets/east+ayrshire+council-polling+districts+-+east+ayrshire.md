@@ -35,16 +35,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/5ebd0bfe-d383-412c-b3e9-ddecac27fc99/resource/5e499c19-8ce3-4a2a-ab19-9d0f26392201/download/eapoll3.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/5ebd0bfe-d383-412c-b3e9-ddecac27fc99/resource/ececfea0-a0f2-4f81-8ef1-da65a64987d2/download/eapoll3.zip
 - format: ZIP
-  name: ZIP
+  name: East Ayrshire Polling Districts
   url: https://data.spatialhub.scot/dataset/5ebd0bfe-d383-412c-b3e9-ddecac27fc99/resource/4ff95358-4a80-4408-a1c0-6475fd4db9c8/download/eapoll3.zip
 - format: ZIP
-  name: ZIP
+  name: East Ayrshire Polling Districts
   url: https://data.spatialhub.scot/dataset/5ebd0bfe-d383-412c-b3e9-ddecac27fc99/resource/fc0b35b3-d038-4d00-b2e1-6c38d492bd7c/download/eapoll3.zip
 schema: default
 title: Polling Districts - East Ayrshire

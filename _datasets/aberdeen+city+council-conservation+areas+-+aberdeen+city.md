@@ -28,19 +28,19 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Abderdeen city conservation areas 2016
   url: https://data.spatialhub.scot/dataset/d096d876-4eb1-43df-a500-eebdafadc173/resource/9754f2e6-60f1-44a0-960d-b4725d316233/download/conservationareasis.zip
 - format: ZIP
-  name: ZIP
+  name: Conservation Areas
   url: https://data.spatialhub.scot/dataset/d096d876-4eb1-43df-a500-eebdafadc173/resource/41f1de69-1447-4ca7-9d73-655a53a6de72/download/conservation_areas.zip
 - format: ZIP
-  name: ZIP
+  name: Conservation Areas
   url: https://data.spatialhub.scot/dataset/d096d876-4eb1-43df-a500-eebdafadc173/resource/639e7762-6400-4c97-9be9-e74f06af3e73/download/conservation_areas.zip
 - format: ZIP
-  name: ZIP
+  name: Aberdeen City Conservation Areas
   url: https://data.spatialhub.scot/dataset/d096d876-4eb1-43df-a500-eebdafadc173/resource/6c0f33e4-b8d4-4f5e-a1ee-f078c836bb5e/download/conservation_areas.zip
 - format: REST
-  name: REST
+  name: Conservation Areas
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Conservation_Areas/FeatureServer
 schema: default
 title: Conservation Areas - Aberdeen City

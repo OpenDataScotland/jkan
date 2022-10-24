@@ -18,40 +18,40 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/mental-health-inpat
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Age and Sex
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/83b38aa6-73c0-4489-b344-11081e7aa0ed/download/mental-health-inpatient-activity-age-sex.csv
 - format: CSV
-  name: CSV
+  name: Deprivation
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/ff797b7c-94cb-4efa-83dd-58e378cb7d8d/download/mental-health-inpatient-activity-deprivation.csv
 - format: CSV
-  name: CSV
+  name: Length of Stay
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/13b0a4ec-76a5-4a5d-8118-63c48d465948/download/mental-health-inpatient-activity-length-of-stay.csv
 - format: CSV
-  name: CSV
+  name: Diagnosis
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/c6d26491-2268-46e5-8d56-a08fd466aba0/download/mental-health-inpatient-activity-diagnosis-trend.csv
 - format: CSV
-  name: CSV
+  name: Hospital Trend
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/7b9b76e3-a3a5-43cc-bea1-a32ab080e9ec/download/mental-health-inpatient-activity-hospital-trend.csv
 - format: CSV
-  name: CSV
+  name: Health Board Trend
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/7e99efb9-2d73-46e1-bdce-59b00ed20a0f/download/mental-health-inpatient-activity-health-board-trend.csv
 - format: CSV
-  name: CSV
+  name: Scotland Trend
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/ba979207-fbd0-4f96-b855-ac7540e03b23/download/mental-health-inpatient-activity-scotland-trend.csv
 - format: CSV
-  name: CSV
+  name: Cross Boundary Flow
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/07fc742d-e729-440c-8569-eeca91c80578/download/mental-health-inpatient-activity-cross-boundary-flow.csv
 - format: CSV
-  name: CSV
+  name: Council Area Discharge and Patient Rates
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/3ef139c6-988b-4728-bb1d-c910ff513d1d/download/mental-health-inpatient-activity-geography.csv
 - format: CSV
-  name: CSV
+  name: Readmissions
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/2b2355a8-16d4-402b-a535-11b54729b93e/download/mental-health-inpatient-activity-readmissions.csv
 - format: CSV
-  name: CSV
+  name: Relative Index of Inequality
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/b2669513-3ab1-481e-b0f1-35de5da8b161/download/mental-health-inpatient-activity-rii.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: ICD10-Codes
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/530cb70a-f747-4b3b-b75a-06353ae78e8d/download/icd10-lookup.xlsx
 schema: default
 title: Mental Health Inpatient Activity

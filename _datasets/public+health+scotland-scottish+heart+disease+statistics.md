@@ -21,16 +21,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-heart-dise
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Heart Disease Activity By Health Board
   url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/748e2065-b447-4b75-99bd-f17f26f3eaef/download/hd_activitybyhbr.csv
 - format: CSV
-  name: CSV
+  name: Heart Disease Activity By Council Area
   url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/5379a655-d677-46cf-814d-bc0574ac59e4/download/hd_activitybyca.csv
 - format: CSV
-  name: CSV
+  name: Heart Disease Mortality By Health Board
   url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/dc0512a8-eb49-43b9-84f1-17ef95365d57/download/hd_mortalitybyhbr.csv
 - format: CSV
-  name: CSV
+  name: Heart Disease Mortality By Council Area
   url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/fc7b42f1-4de6-48dd-b640-613fb0aa427d/download/hd_mortalitybyca.csv
 schema: default
 title: Scottish Heart Disease Statistics

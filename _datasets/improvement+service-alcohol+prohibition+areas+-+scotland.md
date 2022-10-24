@@ -19,7 +19,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Alcohol Prohibition Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_apa/wfs?service=wfs&typeName=sh_apa:pub_apa
 schema: default
 title: Alcohol Prohibition Areas - Scotland

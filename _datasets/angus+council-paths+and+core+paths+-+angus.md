@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Angus Community Core Paths
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Paths And Core Paths - Angus

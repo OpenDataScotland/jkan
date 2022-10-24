@@ -35,10 +35,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Inverclyde polling districts
   url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/950b7900-5d26-412f-9330-1923064e0564/download/polling-districts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling districts 2018
   url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/f7bca41f-a460-4c29-ae7d-3d54c6cf5cc5/download/current-polling-districts.zip
 schema: default
 title: Polling Districts - Inverclyde

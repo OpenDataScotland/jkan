@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-11-20'
 date_updated: '2022-05-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Forestry
 notes: "<p>Management Plans provided a simpler alternative to Forest Plans for woodlands\
   \ under 100 hectares. They are required as part of the eligibility criteria for\

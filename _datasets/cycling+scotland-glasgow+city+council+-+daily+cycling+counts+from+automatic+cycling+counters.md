@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/657f6f93-932b-4851-ae21-830b321c185d/1/urql
 schema: default
 title: Glasgow City Council - Daily cycling counts from automatic cycling counters

@@ -23,7 +23,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Polling Districts '
   url: https://geo.spatialhub.scot/geoserver/sh_poldi/wfs?service=wfs&typeName=sh_poldi:pub_poldi
 schema: default
 title: Polling Districts - Scotland

@@ -15,10 +15,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/code-point-open1
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Product information
   url: https://www.ordnancesurvey.co.uk/business-government/products/code-point-open
 - format: HTML
-  name: HTML
+  name: Download
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#CODEPO
 schema: default
 title: "Code-Point\xAE Open"

@@ -13,13 +13,16 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: Number of bikes available for private use - Travel and Transport Scotland
+    2017 - Scottish Household Survey.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fad11ec0-7797-44e6-abe2-d0bcaef81024
 - format: CSV
-  name: CSV
+  name: Number of bikes available for private use - Travel and Transport Scotland
+    2017 - Scottish Household Survey.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3e3273b3-c653-44e3-b6ef-645d3decdf60
 - format: XML
-  name: XML
+  name: Number of bikes available for private use - Travel and Transport Scotland
+    2017 - Scottish Household Survey.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=58185fbd-906d-486f-9e9d-e0ac31a5ea2d
 schema: default
 title: Number of bikes available for private use - Travel and Transport Scotland 2017

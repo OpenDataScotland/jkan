@@ -11,7 +11,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: PDF
-  name: PDF
+  name: 2018_Cycling Cordon Plan_ISSUE.pdf
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/ebe31a3b-6295-4338-bcd6-a466ac521501/2018_Cycling%20Cordon%20Plan_ISSUE.pdf
 schema: default
 title: Glasgow City Centre Cordon Count

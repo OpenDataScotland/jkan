@@ -25,10 +25,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/3261b95d-8170-42d9-b956-b5e2a55aca73/resource/b8eca230-4cc8-458c-831a-a92239763c6c/download/community-council-boundaries.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/3261b95d-8170-42d9-b956-b5e2a55aca73/resource/6cec2847-5eb9-433b-9330-7325fd0b518d/download/community-council-boundaries.zip
 schema: default
 title: Community Council Boundaries - East Lothian

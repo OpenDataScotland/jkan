@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries 2019
   url: https://data.spatialhub.scot/dataset/fcb21ef1-be71-4da2-b239-1c3b37d269bc/resource/452a0d86-8c4a-4c05-b7c4-20b3ba0102aa/download/clackmannanshire_community_councils.zip
 schema: default
 title: Community Council Boundaries - Clackmannanshire

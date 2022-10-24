@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2020-01-23'
 date_updated: '2021-12-21'
-license: Creative Commons Attribution 4.0 International
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"Cycling Scotland undertakes research biennially into the attitudes and
   behaviours of people towards cycling. This dataset has the results in pdf format
@@ -13,7 +13,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: PDF
-  name: PDF
+  name: AttitudesBehaviours_results_2021_CyclingScotland_USMaster.pdf.pdf
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5bb69fcd-128a-46c7-8320-20f6232549f7
 schema: default
 title: Attitudes and behaviours towards cycling in Scotland - Cycling Scotland

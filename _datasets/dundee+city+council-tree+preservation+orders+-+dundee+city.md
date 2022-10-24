@@ -39,10 +39,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Tree Treservation Orders
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 - format: WFS
-  name: WFS
+  name: Tree Preservation Orders
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/TPO_open_data/WFSServer?service=wfs&request=getcapabilities
 schema: default
 title: Tree Preservation Orders - Dundee City

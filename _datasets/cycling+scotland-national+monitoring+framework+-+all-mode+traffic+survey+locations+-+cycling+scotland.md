@@ -13,10 +13,10 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b7c2f32e-599b-4c60-b298-38ae1257ae7e/1/urql
 - format: CSV
-  name: CSV
+  name: NMF_TrafficSurveyLocations_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e9a35cef-fa69-4c96-aeba-59c79ea73a2a
 schema: default
 title: National Monitoring Framework - all-mode Traffic Survey locations - Cycling

@@ -34,10 +34,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ml'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/7a712937-1a73-4aa6-8ffc-0abeb3373179/resource/dfcba15b-f0d9-40fa-b39b-cac1df68bec3/download/pollingplaces.zip
 - format: No file type
-  name: No file type
+  name: Midlothian Polling Places Updated November 2019
   url: https://dservices5.arcgis.com/CT2Zj7xubqvzu3yJ/arcgis/services/Midlothian_Polling_Places_for_2019_General_Election/WFSServer?service=wfs&request=getcapabilities?
 schema: default
 title: Polling Places - Midlothian

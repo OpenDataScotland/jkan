@@ -16,7 +16,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/nrs-life-expectancy
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: EstimatedLifeExpectancyatBirthPKC.csv
   url: https://data.pkc.gov.uk/dataset/b5d48668-d96f-445d-a6de-5566df2810f2/resource/770894e3-402c-42a6-9ad9-0cb67fe9bea8/download/estimatedlifeexpectancyatbirthpkc.csv
 schema: default
 title: NRS Life Expectancy

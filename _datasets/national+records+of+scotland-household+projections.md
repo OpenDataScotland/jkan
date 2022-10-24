@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2018-08-03'
 date_updated: '2022-08-24'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: National Records of Scotland
 notes: <p>25 year projection of households for Council Areas, Health Board Areas,
   and National Parks. The data is broken down by the household reference person age

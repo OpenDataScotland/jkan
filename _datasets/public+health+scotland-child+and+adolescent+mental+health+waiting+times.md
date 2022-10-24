@@ -30,19 +30,19 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/child-and-adolescen
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Adjusted Patients Seen
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/7a2fe10d-1339-41c1-a2f2-a469644fd619/download/camhs-adjusted-patients-seen.csv
 - format: CSV
-  name: CSV
+  name: Adjusted Patients Waiting
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/d43cae98-a620-4f24-a02f-a6451c297478/download/camhs-adjusted-patients-waiting.csv
 - format: CSV
-  name: CSV
+  name: Referrals
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/d31d8e7c-fbcb-4e4b-a6a1-3b9c4f3b14a0/download/camhs-referrals.csv
 - format: CSV
-  name: CSV
+  name: Did Not Attends
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/f85546db-2375-4c5b-8faf-4d76526ce655/download/camhs-didnotattends.csv
 - format: CSV
-  name: CSV
+  name: Open Cases
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/ad3d9814-d47d-4e99-a8ab-dc5f01bf7bb3/download/camhs-opencases.csv
 schema: default
 title: Child and Adolescent Mental Health Waiting Times

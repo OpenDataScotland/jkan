@@ -34,7 +34,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-an'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: law_pollingplaces
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Polling Places - Angus

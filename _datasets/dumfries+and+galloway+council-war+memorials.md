@@ -11,10 +11,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/49940e83-2d78-45c3-ab67-c1254be8599d/1/urql
 - format: CSV
-  name: CSV
+  name: War_Memorials.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=ed75f3c8-f6bf-42dc-9540-c18467f4597b
 schema: default
 title: War Memorials

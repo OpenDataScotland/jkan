@@ -11,10 +11,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: GEOJSON
-  name: GEOJSON
+  name: Polling_districts.geojson
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=78ba2d5f-a0ef-41fd-8d9b-8ea4ec22c182
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/df4ef60a-7ca3-43b8-b433-afd3815f2d04/1/urql
 schema: default
 title: Polling Districts 2017

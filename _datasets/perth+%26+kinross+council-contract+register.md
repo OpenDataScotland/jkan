@@ -16,7 +16,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/contract-register
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Link to current register
   url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00372
 schema: default
 title: Contract Register

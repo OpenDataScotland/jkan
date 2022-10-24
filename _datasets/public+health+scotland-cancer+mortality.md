@@ -22,28 +22,28 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-mortality
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Mortality at Scotland Level
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/ba8d7049-ec05-4291-9333-57ca49ce7697/download/opendata_mort9520_scotland.csv
 - format: CSV
-  name: CSV
+  name: Mortality by Cancer Network Region
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/9574c0f8-c780-49d8-810a-46fa76567fb3/download/opendata_mort9520_region.csv
 - format: CSV
-  name: CSV
+  name: Mortality by Health Board
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/57f0983f-864e-4dbd-b3dc-ea8f16de83a4/download/opendata_mort9520_hb.csv
 - format: CSV
-  name: CSV
+  name: Mortality by Council Area
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/eebc8f38-7297-4bdc-a417-69ce3e2e6d44/download/opendata_mort9520_ca.csv
 - format: CSV
-  name: CSV
+  name: 5-Year Summary of Mortality in Scotland
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/000c92ab-1484-48b5-8e3d-cd42d03abe14/download/opendata_mort1620comb_scotland.csv
 - format: CSV
-  name: CSV
+  name: 5-Year Summary of Mortality by Cancer Network Region
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/828106bf-288c-48ce-b20f-35040cafee5d/download/opendata_mort1620comb_region.csv
 - format: CSV
-  name: CSV
+  name: 5-Year Summary of Mortality by Health Board
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/f0446372-e55a-441e-ae71-0b21a1cdda2c/download/opendata_mort1620comb_hb.csv
 - format: CSV
-  name: CSV
+  name: 5-Year Summary of Mortality by Council Area
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/e7617772-9a43-402f-adf3-e6106edd9b2f/download/opendata_mort1620comb_ca.csv
 schema: default
 title: Cancer Mortality

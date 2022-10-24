@@ -24,28 +24,28 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/allied-health-profe
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Vacancies December 2019
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/a2638e43-e928-4781-9065-55a56417ab8c/download/ahp_vacancy_dec19.csv
 - format: CSV
-  name: CSV
+  name: Vacancies September 2019
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/bf3fb085-3406-4110-a232-29ee76aac6cf/download/ahp_vacancy_sep19.csv
 - format: CSV
-  name: CSV
+  name: Vacancies June 2019
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/6ae073da-60ff-4fb5-af46-41d08d407d0e/download/ahp_vacancy_jun19.csv
 - format: CSV
-  name: CSV
+  name: Vacancies March 2019
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/3021ad0c-3fd7-4b0a-bad0-373b8de5c7e9/download/ahp_vacancy_mar19.csv
 - format: CSV
-  name: CSV
+  name: Vacancies December 2018
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/a21aad8d-bbf9-43ad-adec-6fe615484dbf/download/ahp_vacancy_dec18.csv
 - format: CSV
-  name: CSV
+  name: Vacancies September 2018
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/f31d8ca1-c815-482b-8541-ac185c97a1ad/download/ahp_vacancy_sep18rev.csv
 - format: CSV
-  name: CSV
+  name: Vacancies June 2018
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/faf91998-4229-4617-8f65-62c6a1e8b9a9/download/ahp_vacancy_jun18rev.csv
 - format: CSV
-  name: CSV
+  name: Vacancies March 2018
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/53a23519-59b6-4fde-b9aa-631ecc3dc279/download/allied-health-professional-vacancy_mar18.csv
 schema: default
 title: Allied Health Professional Vacancies

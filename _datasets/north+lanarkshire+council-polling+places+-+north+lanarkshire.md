@@ -34,7 +34,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-nl'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Places - North Lanarkshire

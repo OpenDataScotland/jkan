@@ -68,31 +68,31 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/election-results
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - Constituency - Aberdeen Central
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/658734cf-c435-4bb4-aba0-4501538d6bf3/download/scotparl2016-constituency-abcrl.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - Constituency - Aberdeen Donside
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/6552bda4-4d20-4152-8532-b62076983ebd/download/scotparl2016-constituency-abdon.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - Constituency - Aberdeen South and North Kincardine
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/4d68c886-73ef-4edc-854d-8b8cc5ba7835/download/scotparl2016-constituency-absnk.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - North East Scotland Region Votes Cast
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/47a5df6f-581d-4bd3-9927-05ccb6131b0f/download/scotparl2016-ne-scotland-region.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - NE List - Aberdeen Donside
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/e24b27b5-3571-40fe-b150-175c908205f1/download/scotparl2016-ne-list-abdonside.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - NE List - Aberdeen Central
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/dbe29b1e-881b-4a21-b5d0-8ec617796663/download/scotparl2016-ne-list-abcentral.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - NE List - Aberdeen South and North Kincardine
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/f5a6e78f-9a1b-43c4-b26a-d59686912912/download/scotparl2016-ne-list-abs-and-nk.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - Total Valid Votes
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/5a02e51b-ebb1-4c3d-bbfc-5b75df8bdfd7/download/scotparl2016-total-valid-votes.csv
 - format: CSV
-  name: CSV
+  name: Scottish Parliament 2016 - NE List - Results
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/c714713a-4514-44b7-a396-f0d773295ef8/download/scotparl2016-ne-list-results.csv
 schema: default
 title: Election Results - Scottish Parliament

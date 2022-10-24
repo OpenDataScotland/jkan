@@ -37,10 +37,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/historic_environme
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Historic Environment Records: Events '
   url: https://geo.spatialhub.scot/geoserver/sh_her/wfs?service=wfs&typeName=sh_her:pub_herev
 - format: WFS
-  name: WFS
+  name: 'Historic Environment Records: Sites '
   url: https://geo.spatialhub.scot/geoserver/sh_her/wfs?service=wfs&typeName=sh_her:pub_herst
 schema: default
 title: Historic Environment Records - Scotland

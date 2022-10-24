@@ -22,7 +22,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-na
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Gritting Routes
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Gritting Routes - North Ayrshire

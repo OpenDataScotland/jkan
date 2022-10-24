@@ -25,25 +25,25 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Councils
   url: https://data.spatialhub.scot/dataset/2d35adc0-efcf-4381-961b-e1fcb0d6eda2/resource/e9840e97-fde3-44f1-bf4f-63f531fd6388/download/ccouncil_proposed_nov2010.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/2d35adc0-efcf-4381-961b-e1fcb0d6eda2/resource/3f6ed64d-99de-4156-b0ba-ecea87b39c42/download/pkc_ccouncil_nov2019.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/2d35adc0-efcf-4381-961b-e1fcb0d6eda2/resource/d1d04086-db29-45d2-86ae-a178a2e92584/download/ccouncil_jan2020.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/2d35adc0-efcf-4381-961b-e1fcb0d6eda2/resource/16787052-d652-4ece-b7e7-753fd5ba6c38/download/pkc_ccouncil_jun2021.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/2d35adc0-efcf-4381-961b-e1fcb0d6eda2/resource/3860abbe-8cf8-4cc8-9a98-6d3768f9b7ae/download/community_council_areas.zip
 - format: REST
-  name: REST
+  name: Community Council Boundaries
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer
 - format: REST
-  name: REST
+  name: Community Council Boundaries
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Community_Councils/FeatureServer
 schema: default
 title: Community Council Boundaries - Perth and Kinross

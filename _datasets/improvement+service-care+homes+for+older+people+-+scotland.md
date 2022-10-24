@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/care_homes_for_old
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Care Homes For Older People '
   url: https://geo.spatialhub.scot/geoserver/sh_chep/wfs?service=wfs&typeName=sh_chep:pub_chep
 schema: default
 title: Care Homes for Older People - Scotland

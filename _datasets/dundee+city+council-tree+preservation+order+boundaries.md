@@ -7,7 +7,7 @@ category:
 - Planning and Development
 date_created: '2022-08-08'
 date_updated: '2022-08-09'
-license: Creative Commons Attribution 4.0 International
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Dundee City Council
 notes: <p>Where it appears to the Council that particular trees make a special contribution
   to the landscape or townscape or that any such tree or group of trees is under threat

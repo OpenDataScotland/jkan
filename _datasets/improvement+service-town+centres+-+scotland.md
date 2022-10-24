@@ -19,7 +19,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Town Centres '
   url: https://geo.spatialhub.scot/geoserver/sh_townc/wfs?service=wfs&typeName=sh_townc:pub_townc
 schema: default
 title: Town Centres - Scotland

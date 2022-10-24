@@ -20,7 +20,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Alcohol Prohib Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
 schema: default
 title: Alcohol Prohibition Areas - North Lanarkshire

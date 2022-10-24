@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2018-03-22'
 date_updated: '2022-10-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Revenue Scotland
 notes: <p>Land and Buildings Transaction Tax revenues by month of submission, type
   of transaction, type of property and total consideration. Additional Dwelling Supplement

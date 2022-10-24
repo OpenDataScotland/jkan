@@ -12,13 +12,13 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: Go Mountain Bike - Centre Locations - Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=989cccbd-1e21-4aa3-8071-5556c0aa720e
 - format: CSV
-  name: CSV
+  name: Go Mountain Bike - Centre Locations - Cycling Scotland.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8fa7d5eb-ed2e-4020-9d6b-e56bb9e9e5fe
 - format: XML
-  name: XML
+  name: Go Mountain Bike - Centre Locations - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=efa338b1-2fe2-4f65-a08c-21400237de94
 schema: default
 title: Go Mountain Bike - Centre Locations - Cycling Scotland

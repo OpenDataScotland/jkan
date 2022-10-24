@@ -37,100 +37,100 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/weekly-covid-19-sta
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Daily and Cumulative Cases
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/6f0f189f-0f4a-4939-84dc-0f41cce5435c/download/daily_cumulative_cases.csv
 - format: CSV
-  name: CSV
+  name: Cumulative Cases By Age and Sex
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/44b9bfac-ec14-403e-8609-3576d438df8c/download/cumulative_cases_age_sex.csv
 - format: CSV
-  name: CSV
+  name: Cumulative Cases by Deprivation
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/307f6666-eb35-4587-b2d3-697eb69368be/download/cumulative_cases_simd.csv
 - format: CSV
-  name: CSV
+  name: Daily COVID-19 Hospital Admissions
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/0451bc49-0eaf-49a0-aa76-7f4539e5a615/download/daily_covid_admissions.csv
 - format: CSV
-  name: CSV
+  name: Weekly Admissions by Age
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/80f673db-a9b5-4024-8049-c9ee27642904/download/admissions_ageband_week.csv
 - format: CSV
-  name: CSV
+  name: Cumulative COVID-19 Hospital Admissions By Age, Sex
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/bd8a865f-10e6-47d2-a461-8633c61693fe/download/cuml_covid_admissions_agesex.csv
 - format: CSV
-  name: CSV
+  name: Cumulative COVID-19 Hospital Admissions By Deprivation
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/bef9fce8-62b7-4d34-b54d-4581bfbb64f9/download/cuml_covid_admissions_simd.csv
 - format: CSV
-  name: CSV
+  name: Daily ICU Admissions for new COVID-19 Patients
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/93d0c3f8-b61f-48d5-977c-b8d95bfb2511/download/daily_icu_admissions.csv
 - format: CSV
-  name: CSV
+  name: Cumulative Admissions to ICU
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/ba562513-9800-4200-bbf7-2aa02a582816/download/total_icu_admissions.csv
 - format: CSV
-  name: CSV
+  name: Daily NHS24 COVID-19 Calls
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/4c730064-b9eb-4e8f-bc1f-6c363e7f5be1/download/daily_nhs24_calls.csv
 - format: CSV
-  name: CSV
+  name: NHS24 Community Outcomes
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/4fb9f076-1645-4f92-b0df-1b3f10c3a4a5/download/daily_nhs24_outcomes.csv
 - format: CSV
-  name: CSV
+  name: NHS24 Self Help Guides
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/e57568a7-aa37-4580-868b-ab6e5c5e46b1/download/daily_nhs24_selfhelp.csv
 - format: CSV
-  name: CSV
+  name: NHS Inform Hits
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/5ffc66d6-a3b4-4743-a4e7-0f17d18daaab/download/daily_nhsinform_hits.csv
 - format: CSV
-  name: CSV
+  name: Daily Consultations by Contact Type
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/80c0fc18-b5b7-42f6-913e-eaeea0741153/download/daily_assessments_type.csv
 - format: CSV
-  name: CSV
+  name: Daily SAS Incidents
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/2abe61e4-945b-445b-96bd-0b78abc4f307/download/daily_sas_incidents.csv
 - format: CSV
-  name: CSV
+  name: Cumulative Suspected COVID-19 SAS Incidents By Age
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/fd8af5fd-fd1a-4b3a-9b5c-b3ca34ecca0e/download/cuml_sas_age.csv
 - format: CSV
-  name: CSV
+  name: Cumulative Suspected COVID-19 SAS Incidents By Deprivation
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/60ce35b3-aff9-4601-8c29-c92ea43d78c2/download/cuml_sas_simd.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing By Health Board
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/9c264edf-1c24-40aa-b2f9-573a3efb5d17/download/contact_traceing_hb.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing Cases
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/d9c20540-5154-40e7-b421-5a553cc76d9e/download/contact_tracing_cases.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing Time Performance
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/1f39e39a-1281-4978-a50f-5e2f65f0d9db/download/contact_tracing_tp.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing in Education and Childcare
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/d9657439-21f6-4c07-945f-46159fec6690/download/contact_tracing_education_20210331.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing - Contacts Testing Positive
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/0dca907b-90f7-49d4-9f8d-2b52b1f21580/download/contact_tracing_positives.csv
 - format: CSV
-  name: CSV
+  name: Settings and Events
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/0cf9750d-d8e8-4365-b0c6-ad0bae5f85fe/download/settings.csv
 - format: CSV
-  name: CSV
+  name: Ethnicity
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/5d735e7f-36c5-4729-bf4f-cc694ae3d7eb/download/ethnicity_20211222.csv
 - format: CSV
-  name: CSV
+  name: Health Care Workers in Long Stay Care of the Elderly
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/9c11836c-1d4a-4f5c-ac7f-7cc8dd12d4d2/download/hcw_elderly.csv
 - format: CSV
-  name: CSV
+  name: Health Care Workers in Specialist Cancer Wards
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/43f8b30a-3772-4657-9bb9-43cc5631dc8b/download/hcw_cancer.csv
 - format: CSV
-  name: CSV
+  name: Health Care Workers in Psychiatry
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/78116685-0a1a-4374-a634-5e98dac4aaf0/download/hcw_psych.csv
 - format: CSV
-  name: CSV
+  name: Test Positivity for Ages 60 and over
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/0624f88b-792b-4f10-88f5-0b88ec8ead74/download/test_pos_60plus_19012021.csv
 - format: CSV
-  name: CSV
+  name: Cases in Care Homes
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/178a4df4-84d4-4f5d-82c6-657b5714bdfd/download/care_homes.csv
 - format: CSV
-  name: CSV
+  name: Community Testing By Test Site
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/b10c1705-eb04-4288-905a-2ed42a6b2140/download/community_testing_site.csv
 - format: CSV
-  name: CSV
+  name: Community Testing by Test Type and Site Type
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/1e9ffec2-b1b8-4674-b49a-f9ec34cfbf74/download/community_testing_scot.csv
 - format: CSV
-  name: CSV
+  name: Community Testing By Health Board
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/53688d25-856e-4f89-916d-ed274ea4a3ff/download/community_testing_hb.csv
 schema: default
 title: Weekly COVID-19 Statistical Data in Scotland

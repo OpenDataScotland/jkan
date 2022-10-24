@@ -39,16 +39,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/f5c01628-70dd-455e-8f45-aa43adda53ba/download/treepreservationorders.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/b30efff3-5528-4508-ba7d-8af7c5e14c0c/download/treepreservationorders.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/cd0e99a9-cfee-4e9f-b24e-03cb57f1cdb7/download/tree_preservation_order.zip
 - format: REST
-  name: REST
+  name: Tree Preservation Order
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Tree_Preservation_Order/FeatureServer
 schema: default
 title: Tree Preservation Orders - Perth and Kinross

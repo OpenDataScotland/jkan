@@ -16,13 +16,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_su
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: See Business and Industry layer
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS?
 - format: ZIP
-  name: ZIP
+  name: Employment land supply
   url: https://data.spatialhub.scot/dataset/fd0249d2-a204-42c7-957c-b3a045cc528d/resource/c9fb5c3a-1273-42d4-9a66-80175bf380a6/download/nayrshire_els.zip
 - format: WFS
-  name: WFS
+  name: Employment land supply
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Employment Land Supply - North Ayrshire

@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2020-08-27'
 date_updated: '2022-07-13'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Mid-year population estimates. Higher geographies are aggregated from 2011
   Data Zones.</p>

@@ -34,22 +34,22 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-dg'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Stations
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/1bf08f83-f281-49f0-b297-bd85b4f723bd/download/pollingstations201754171.zip
 - format: ZIP
-  name: ZIP
+  name: Polling palces 2017
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/e6a45866-3916-46be-98e0-966b0a6176ef/download/pollingstations2017point.zip
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/9169f46c-1f54-4082-8ec9-deff61ba11c7/download/polling_stations.geojson
 - format: No file type
-  name: No file type
+  name: Polling Stations
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/50ed8065-39bb-40c9-a098-db41a92960a3/download/polling_stations_221119.geojson
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/a44a9ea2-72d3-44cf-ad11-e10c933ec24e/download/polling_places_dgc_010421.geojson
 - format: ZIP
-  name: ZIP
+  name: Polling Stations
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/3e4066de-53dd-4bc7-906a-29da81147659/download/dgc_polling_places.zip
 schema: default
 title: Polling Places - Dumfries and Galloway

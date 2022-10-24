@@ -17,10 +17,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conse
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - LNCS
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: No file type
-  name: No file type
+  name: Local Nature Conservation Sites
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
 title: Local Nature Conservation Sites - North Ayrshire

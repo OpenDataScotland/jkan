@@ -30,46 +30,46 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/primary-1-body-mass
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Data Quality at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/458dd759-5c38-4784-865f-ec11d354c88a/download/od_p1bmi_coverage_board.csv
 - format: CSV
-  name: CSV
+  name: Data Quality at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/20f0458d-ced3-459e-b30d-e2554824129d/download/od_p1bmi_coverage_ca.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/2cb9d907-7149-4bbd-904a-174f15344585/download/od_p1bmi_hb_epi.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/e9f8d10c-9c06-4e77-a0f5-70ff14af25a4/download/od_p1bmi_ca_epi.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI by Gender at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/670e4c0d-ab1e-4006-a0f2-6bc3fad8dbe3/download/od_p1bmi_hb_gender_epi.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI by Gender at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/ed4ac7d2-a764-4f84-bd6b-b30a099e2d81/download/od_p1bmi_ca_gender_epi.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI by Deprivation at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/9cd92597-2d52-4e5c-aee4-01555763aebe/download/od_p1bmi_hb_simd_epi.csv
 - format: CSV
-  name: CSV
+  name: Epidemiological BMI by Deprivation at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/5b3b5fb8-5460-44dd-9784-4a62eedfa383/download/od_p1bmi_ca_simd_epi.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/cf96eac5-cd52-4d86-a8b4-b42cd5eb9546/download/od_p1bmi_hb_clin.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/4a3daa0f-1580-4a59-ac9e-64d9a31a4429/download/od_p1bmi_ca_clin.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI by Gender at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/34733628-196b-4ebd-ab25-3c3303308a69/download/od_p1bmi_hb_gender_clin.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI by Gender at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/ab955010-cb9e-4002-86e2-a175ac183ba8/download/od_p1bmi_ca_gender_clin.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI by Deprivation at Health Board Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/fae8ec3c-4ced-4126-b8bd-4f5ed192437c/download/od_p1bmi_hb_simd_clin.csv
 - format: CSV
-  name: CSV
+  name: Clinical BMI by Deprivation at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/442bb8f8-7e64-494a-bda2-6f31fa29c2b4/download/od_p1bmi_ca_simd_clin.csv
 schema: default
 title: Primary 1 Body Mass Index (BMI) Statistics

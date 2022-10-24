@@ -20,7 +20,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-nl'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: North Lanarkshire Libraries
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Libraries - North Lanarkshire

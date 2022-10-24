@@ -15,16 +15,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/standard-population
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: European Standard Population
   url: https://www.opendata.nhs.scot/dataset/4dd86111-7326-48c4-8763-8cc4aa190c3e/resource/edee9731-daf7-4e0d-b525-e4c1469b8f69/download/european_standard_population.csv
 - format: CSV
-  name: CSV
+  name: European Standard Population by Sex
   url: https://www.opendata.nhs.scot/dataset/4dd86111-7326-48c4-8763-8cc4aa190c3e/resource/29ce4cda-a831-40f4-af24-636196e05c1a/download/european_standard_population_by_sex.csv
 - format: CSV
-  name: CSV
+  name: World Standard Population
   url: https://www.opendata.nhs.scot/dataset/4dd86111-7326-48c4-8763-8cc4aa190c3e/resource/e27533df-a1c1-4a3c-b042-c59763751fba/download/world_standard_population.csv
 - format: CSV
-  name: CSV
+  name: World Standard Population by Sex
   url: https://www.opendata.nhs.scot/dataset/4dd86111-7326-48c4-8763-8cc4aa190c3e/resource/2f493d21-fd39-48f9-ad6a-9b2c95b32e30/download/world_standard_population_by_sex.csv
 schema: default
 title: Standard Populations

@@ -31,13 +31,13 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/enhanced-surveillan
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Seroprevalence by Health Board
   url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/9f483ac0-08d9-40d0-92d9-af6c9a6e81e3/download/serology_hb.csv
 - format: CSV
-  name: CSV
+  name: Seroprevalence by Age
   url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/dbdea476-f80f-407b-afc5-f9cf4856055f/download/serology_age.csv
 - format: CSV
-  name: CSV
+  name: Seroprevalence by Sex
   url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/4936110e-642f-4a77-87dd-5f8bc6fb36b3/download/serology_sex.csv
 schema: default
 title: Enhanced Surveillance of COVID-19 in Scotland

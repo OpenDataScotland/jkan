@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_de
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Area of Great Landscape Value
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
 title: Local Landscape Areas - North Lanarkshire

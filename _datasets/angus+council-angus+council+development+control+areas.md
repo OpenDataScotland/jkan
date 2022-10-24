@@ -12,13 +12,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-develo
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Local Plan Development Boundary
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_ldp14_development_boundary/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Development Boundaries
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_ldp14_development_boundary&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Development Boundaries
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ldp14_development_boundary&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Development Control Areas

@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-is
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Safety Features '
   url: https://geo.spatialhub.scot/geoserver/sh_styf/wfs?service=wfs&typeName=sh_styf:pub_styf
 schema: default
 title: Safety Features - Scotland

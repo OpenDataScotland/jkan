@@ -13,7 +13,7 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/nhs-scotland-accide
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Accident & Emergency Sites
   url: https://www.opendata.nhs.scot/dataset/a877470a-06a9-492f-b9e8-992f758894d0/resource/1a4e3f48-3d9b-4769-80e9-3ef6d27852fe/download/hospital_site_list.csv
 schema: default
 title: NHS Scotland Accident & Emergency Sites

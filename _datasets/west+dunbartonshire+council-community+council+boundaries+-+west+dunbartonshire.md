@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/75080a8e-57d9-42d3-a51e-ede51e4c6434/resource/e397af1a-9330-4f4a-9b7a-b524789c064c/download/cc.zip
 schema: default
 title: Community Council Boundaries - West Dunbartonshire

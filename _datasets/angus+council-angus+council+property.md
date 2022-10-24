@@ -13,16 +13,16 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-proper
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Property
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:ppt_councilproperties/wms?service=wms&request=getmap
 - format: KML
-  name: KML
+  name: KML for Angus Council Properties
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:ppt_councilproperties&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Angus Council Properties
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilproperties&outputFormat=application%2Fjson&srsName=EPSG:3857
 - format: CSV
-  name: CSV
+  name: CSV download for Angus Council Properties
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilproperties&outputFormat=csv
 schema: default
 title: Angus Council Property

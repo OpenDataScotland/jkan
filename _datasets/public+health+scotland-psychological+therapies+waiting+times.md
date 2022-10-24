@@ -19,13 +19,13 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/psychological-thera
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Adjusted Patients Seen
   url: https://www.opendata.nhs.scot/dataset/0d36e992-ad75-4ff1-b692-094f3d873ad7/resource/ca3f8e44-9a84-43d6-819c-a880b23bd278/download/pt-adjusted-patients-seen.csv
 - format: CSV
-  name: CSV
+  name: Adjusted Patients Waiting
   url: https://www.opendata.nhs.scot/dataset/0d36e992-ad75-4ff1-b692-094f3d873ad7/resource/585b3f5c-e32c-45ee-8fed-96187330ac83/download/pt-adjusted-patients-waiting.csv
 - format: CSV
-  name: CSV
+  name: Referrals
   url: https://www.opendata.nhs.scot/dataset/0d36e992-ad75-4ff1-b692-094f3d873ad7/resource/cfc4b998-c3d6-418f-91e6-a17806de94e0/download/pt-referrals.csv
 schema: default
 title: Psychological Therapies Waiting Times

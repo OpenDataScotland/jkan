@@ -34,10 +34,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-wd'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: polling_places
   url: https://data.spatialhub.scot/dataset/daa66749-4b89-467b-8454-e95dbc7cb6ef/resource/c590d3a6-99a6-48c0-802f-957d882a1c84/download/pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: WDC Polling Places
   url: https://data.spatialhub.scot/dataset/daa66749-4b89-467b-8454-e95dbc7cb6ef/resource/7c3d5996-b8aa-4031-a4ce-1d4a31d98983/download/wdc-polling-places.zip
 schema: default
 title: Polling Places - West Dunbartonshire

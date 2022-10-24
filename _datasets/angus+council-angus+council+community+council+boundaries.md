@@ -13,13 +13,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-commun
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Community Councils
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:chx_commcouncils/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Community Council Boundaries
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:chx_commcouncils&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Community Council Boundaries
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:chx_commcouncils&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Community Council Boundaries

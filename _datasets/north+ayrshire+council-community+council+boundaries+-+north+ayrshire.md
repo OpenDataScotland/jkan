@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Community Councils
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
 title: Community Council Boundaries - North Ayrshire

@@ -16,13 +16,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_su
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Employment_Land_Supply
   url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: REST
-  name: REST
+  name: Employment land supply
   url: https://gis.south-ayrshire.gov.uk/arcgis/rest/services/Inspire/OpenData/MapServer/31/query?outFields=*&where=1%3D1
 - format: ZIP
-  name: ZIP
+  name: Employment land supply
   url: https://data.spatialhub.scot/dataset/e1845a11-ba35-4631-9b15-33ed37c16b19/resource/ec788457-a42d-4406-88c9-254ba410089e/download/south_ayrshire_json_dump.zip
 schema: default
 title: Employment Land Supply - South Ayrshire

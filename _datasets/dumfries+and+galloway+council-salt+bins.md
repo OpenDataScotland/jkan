@@ -11,13 +11,13 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: Salt Bins.json
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=49bbcb0f-9c56-4308-a970-3e27da4d4489
 - format: XML
-  name: XML
+  name: Salt Bins.xml
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=0ab0deb1-b686-47b6-b18c-1a40280ae76d
 - format: CSV
-  name: CSV
+  name: Salt Bins.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=54428067-660c-4e13-af89-b65cdfbd9ee6
 schema: default
 title: Salt Bins

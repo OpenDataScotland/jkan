@@ -11,10 +11,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/8570ed0d-97fb-454c-bd53-bb2579356bf1/1/urql
 - format: CSV
-  name: CSV
+  name: Secondary School Roll.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=63a62370-2ba6-4fc8-8811-cfb513ba8fc3
 schema: default
 title: Secondary School Roll

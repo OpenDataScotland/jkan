@@ -34,34 +34,34 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-pk'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/fb0f55a5-4f9d-4211-ac88-7b0df9cf87d2/download/pollingplaces2016dec.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/97ce3150-8ce9-4f11-a51f-0a3896d34405/download/pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/1e406a5d-31bd-456c-9adf-01bcd38c583b/download/polling_places_2019_mar.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/bf53b2b5-3786-4249-b9ab-9870bc2e2f94/download/polling_places_2019_jul.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Place
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/bfe64b5b-2242-4a90-8949-e8852f237839/download/polling_places_2019_aug20.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/a9b6b554-13f5-4799-a98e-a9bf21c08c7f/download/polling_places.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/2d8ba216-63ce-4a0f-8938-d0ba0370cf64/download/polling_places.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/c6d27a90-6363-4cdd-801f-aa1b205193dd/resource/3f7d383f-8faf-4aea-aaa7-8fd153f1dcc9/download/polling_places.zip
 - format: REST
-  name: REST
+  name: Polling Places
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer
 - format: REST
-  name: REST
+  name: Polling Places
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_places/FeatureServer
 schema: default
 title: Polling Places - Perth and Kinross

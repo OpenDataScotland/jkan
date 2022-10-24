@@ -17,7 +17,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_wast
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Waste Transfer Stations
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Recycling And Waste Facilities - Glasgow City

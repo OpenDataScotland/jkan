@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2021-06-11'
-date_updated: '2022-10-20'
+date_updated: '2022-10-21'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>These strategies are a requirement that has now been added into the Town
@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodl
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Forestry and Woodland Strategies '
   url: https://geo.spatialhub.scot/geoserver/sh_fws/wfs?service=wfs&typeName=sh_fws:pub_fws
 schema: default
 title: Forestry and Woodland Strategy - Scotland

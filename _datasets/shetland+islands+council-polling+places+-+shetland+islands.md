@@ -34,7 +34,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-si'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Shetland Polling Stations
   url: https://data.spatialhub.scot/dataset/83891cdb-b848-485c-aa93-de82daf680d4/resource/78a3c685-b24f-4b21-9276-38eb91cc374d/download/pollingstations_point.zip
 schema: default
 title: Polling Places - Shetland Islands

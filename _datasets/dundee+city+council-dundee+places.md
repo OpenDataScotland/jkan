@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 date_created: '2017-10-30'
 date_updated: '2019-03-19'
-license: Creative Commons Attribution 4.0 International
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Dundee City Council
 notes: "<p>As part of an exciting collaboration with Dundee Place Partnership, <a\
   \ href=\"https://creativedundee.com/\">Creative Dundee</a> has been doing some research\

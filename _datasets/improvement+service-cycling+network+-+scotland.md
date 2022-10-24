@@ -13,7 +13,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-is
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Cycling Network '
   url: https://geo.spatialhub.scot/geoserver/sh_cycnt/wfs?service=wfs&typeName=sh_cycnt:pub_cycnt
 schema: default
 title: Cycling Network - Scotland

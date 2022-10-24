@@ -17,10 +17,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Libraries '
   url: https://geo.spatialhub.scot/geoserver/sh_lib/wfs?service=wfs&typeName=sh_lib:pub_lib
 - format: WFS
-  name: WFS
+  name: 'Libraries Mobile '
   url: https://geo.spatialhub.scot/geoserver/sh_lib/wfs?service=wfs&typeName=sh_lib:pub_libmob
 schema: default
 title: Libraries - Scotland

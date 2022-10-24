@@ -27,7 +27,7 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-onset-covi
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Hospital Onset COVID-19
   url: https://www.opendata.nhs.scot/dataset/d67b13ef-73a4-482d-b5df-d39d777540fd/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec/download/2022-10-13_hospitalonsetcovid_opendata.csv
 schema: default
 title: Hospital Onset COVID-19 Cases in Scotland

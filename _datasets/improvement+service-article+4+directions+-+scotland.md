@@ -22,7 +22,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directio
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Article 4 Directions '
   url: https://geo.spatialhub.scot/geoserver/sh_a4d/wfs?service=wfs&typeName=sh_a4d:pub_a4d
 schema: default
 title: Article 4 Directions - Scotland

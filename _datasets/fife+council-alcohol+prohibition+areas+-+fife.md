@@ -20,10 +20,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Alcoholic Ban Public Areas
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=fife:ALCOHOLIC_BAN_PUBLIC_AREA&SRSNAME=EPSG:27700
 - format: WFS
-  name: WFS
+  name: Alcohol Prohibition Areas
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Alcohol_Free_Zones_Public/WFSServer?service=wfs&request=getcapabilities
 schema: default
 title: Alcohol Prohibition Areas - Fife

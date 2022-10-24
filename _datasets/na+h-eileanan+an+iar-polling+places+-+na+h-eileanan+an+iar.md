@@ -34,19 +34,19 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-es'
 records: null
 resources:
 - format: 7-Zip compressed file
-  name: 7-Zip compressed file
+  name: 'Polling Places '
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/caa1fb8c-8de7-41b2-b582-dee1e8db658e/download/outer-hebrides-polling-places-mar2017.7z
 - format: 7-Zip compressed file
-  name: 7-Zip compressed file
+  name: Polling Places June 2017
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/c24d51f4-1510-447b-9f14-6ad645358220/download/outer-hebrides-polling-places-mar2017.7z
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/efd12f43-3218-4758-8582-737874b06618/download/eilean-siar-polling-places-sep-2019.zip
 - format: ZIP
-  name: ZIP
+  name: Revised Eilean Siar Polling Places Nov 2019
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/a7bfab15-d5ad-4470-82c4-2719165f24ad/download/revised-polling-datasets-nov-2019-election.zip
 - format: ZIP
-  name: ZIP
+  name: 2022 Polling Places
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/fffcb9ff-503c-4780-8708-f0867262d01d/download/na-h-eileanan-siar-polling-places-may-2022.zip
 schema: default
 title: Polling Places - Na h-Eileanan an Iar

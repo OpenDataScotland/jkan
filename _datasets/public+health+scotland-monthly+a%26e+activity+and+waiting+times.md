@@ -20,7 +20,7 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/monthly-emergency-d
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Monthly A&E Activity and Waiting Times
   url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202207.csv
 schema: default
 title: Monthly A&E Activity and Waiting Times

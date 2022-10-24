@@ -34,10 +34,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-sa'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling_Places
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/f4dce6ea-77ab-407e-ae85-f818c38cb049/resource/a6dc316a-e042-4ec9-b30d-beb6730a7eda/download/polling_places_2022.zip
 schema: default
 title: Polling Places - South Ayrshire

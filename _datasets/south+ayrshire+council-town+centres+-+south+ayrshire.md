@@ -15,10 +15,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-sa'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Town Centres
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
-  name: ZIP
+  name: Local Development Plan Retail Core Retail Periphery
   url: https://data.spatialhub.scot/dataset/233b2292-70b1-4da2-9f2f-4dd59c8b4d77/resource/92aea5a4-e972-485d-bd7d-2d828504a0a5/download/local-development-plan-retail-core-retail-periphery.zip
 schema: default
 title: Town Centres - South Ayrshire

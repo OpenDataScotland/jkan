@@ -35,13 +35,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/f9fd0e4e-33a4-4ba1-aec1-d8dedf2b3a30/resource/139db613-b1bb-488d-bc67-37a94b147913/download/bound_polling_districts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts - June 2017
   url: https://data.spatialhub.scot/dataset/f9fd0e4e-33a4-4ba1-aec1-d8dedf2b3a30/resource/89071d78-de9a-4326-8a9c-7ead81ae758a/download/boundpollingdistrictsjune2017.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts December 2019
   url: https://data.spatialhub.scot/dataset/f9fd0e4e-33a4-4ba1-aec1-d8dedf2b3a30/resource/9c97d8f1-9dda-48e8-a128-987a8f6fc48f/download/polling_dist.shp.zip
 schema: default
 title: Polling Districts - Scottish Borders

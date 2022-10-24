@@ -13,13 +13,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-sites
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Sites
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:ppt_councilsites/wms?service=WMS&version=1.1.0&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Angus Council Sites
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:ppt_councilsites&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Angus Council Sites
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilsites&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Sites

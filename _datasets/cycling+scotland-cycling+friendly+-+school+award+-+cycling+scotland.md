@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-10-18'
 date_updated: '2019-10-30'
-license: Creative Commons Attribution 4.0 International
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"This data highlights all primary and secondary schools across Scotland
   that have received a Cycling Friendly School Award"</p>
@@ -12,10 +12,10 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/13028f91-1f7b-4997-a377-55940b35db51/3/urql
 - format: CSV
-  name: CSV
+  name: CyclingFriendly_Schools_Awards_2019_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9d7823fd-27b9-4088-9dc5-377d52139fee
 schema: default
 title: Cycling Friendly - School Award - Cycling Scotland

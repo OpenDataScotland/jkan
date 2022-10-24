@@ -27,7 +27,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-c
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Cycle Parking, Grit Bins, CCTV locations
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Street Furniture - City of Edinburgh

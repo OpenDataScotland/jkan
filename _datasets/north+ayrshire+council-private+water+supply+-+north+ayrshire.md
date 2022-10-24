@@ -24,7 +24,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supp
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Private Water Supply
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
 title: Private Water Supply - North Ayrshire

@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/d7e5da9d-e676-4e5d-8959-b5a0a59ba18c/1/urql
 schema: default
 title: Aberdeenshire Council - Daily cycling counts from automatic cycling counters

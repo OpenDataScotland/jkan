@@ -14,7 +14,7 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/specialty-codes
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Specialty Codes
   url: https://www.opendata.nhs.scot/dataset/688c7ea0-4845-4b03-9df0-4149c72cb7f0/resource/6f2e3da0-b1b5-46cc-ac04-78495daedfa3/download/specialty-reference.csv
 schema: default
 title: Specialty Codes

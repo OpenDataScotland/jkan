@@ -41,13 +41,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Culvert (Lines) '
   url: https://geo.spatialhub.scot/geoserver/sh_clvt/wfs?service=wfs&typeName=sh_clvt:pub_clvtlin
 - format: WFS
-  name: WFS
+  name: 'Culvert: OS MM Water Layer (Lines) '
   url: https://geo.spatialhub.scot/geoserver/sh_clvt/wfs?service=wfs&typeName=sh_clvt:pub_clvtos
 - format: WFS
-  name: WFS
+  name: 'Culvert (Points) '
   url: https://geo.spatialhub.scot/geoserver/sh_clvt/wfs?service=wfs&typeName=sh_clvt:pub_clvtpnt
 schema: default
 title: Culverts - Scotland

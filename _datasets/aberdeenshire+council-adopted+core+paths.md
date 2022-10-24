@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: ''
 date_updated: '2021-01-13'
-license: 'Custom licence: Open Government'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council

@@ -15,10 +15,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_regi
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Amended NAC CAR
   url: https://data.spatialhub.scot/dataset/21afb85e-6b48-41b3-902b-f430b107bb1b/resource/ea95c986-150b-4d6f-b909-2e12b6233005/download/councilassetregister-na.csv
 - format: No file type
-  name: No file type
+  name: 'Council Asset Register '
   url: https://navgisapp04.north-ayrshire.gov.uk:6443/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
 title: Council Asset Register - North Ayrshire

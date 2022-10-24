@@ -17,10 +17,10 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-waiting-time
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Cancer Wait Time - 31 Day Standard
   url: https://www.opendata.nhs.scot/dataset/11c61a02-205b-43f6-9297-243679103617/resource/58527343-a930-4058-bf9e-3c6e5cb04010/download/cwt_31_day_standard.csv
 - format: CSV
-  name: CSV
+  name: Cancer Wait Time - 62 Day Standard
   url: https://www.opendata.nhs.scot/dataset/11c61a02-205b-43f6-9297-243679103617/resource/23b3bbf7-7a37-4f86-974b-6360d6748e08/download/cwt_62_day_standard.csv
 schema: default
 title: Cancer Waiting Times

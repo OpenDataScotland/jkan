@@ -17,10 +17,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_wast
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Recycling
   url: https://data.spatialhub.scot/dataset/9e424179-2352-43f1-bd43-a1f52f18e946/resource/02ff4565-1859-40ff-ac33-b4aa7725a1dd/download/recycling.zip
 - format: WFS
-  name: WFS
+  name: Recycling point locations
   url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?service=WFS&version=1.1.0&request=getCapabilities
 schema: default
 title: Recycling And Waste Facilities - Dundee City

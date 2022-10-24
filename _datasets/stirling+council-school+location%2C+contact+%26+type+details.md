@@ -20,10 +20,10 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/school-location-cont
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Location, Contact & Type Details
   url: https://data.stirling.gov.uk/dataset/17334cfa-aced-4c10-9a38-9fe47597c7dc/resource/1dc725ea-81bb-45ae-bcb0-eadbb749a0dc/download/20220711-stirling-council-primary-secondary-school-contacts.csv
 - format: PDF
-  name: PDF
+  name: School Contact Details
   url: https://data.stirling.gov.uk/dataset/17334cfa-aced-4c10-9a38-9fe47597c7dc/resource/a6eb04db-8451-45f4-9e04-2242e6866f66/download/20220711-stirling-council-primary-secondary-school-contacts.pdf
 schema: default
 title: School Location, Contact & Type Details

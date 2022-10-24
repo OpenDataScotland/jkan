@@ -16,10 +16,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_suppl
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Housing Land Audit
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 - format: CSV
-  name: CSV
+  name: Housing Land Audit 2020 Table
   url: https://data.spatialhub.scot/dataset/84864e42-24f2-4bfd-80eb-4e85f9cb9b58/resource/26938861-044e-421a-90e9-2bcbbd236a9b/download/hla_dc_2020.csv
 schema: default
 title: Housing Land Supply - Dundee City

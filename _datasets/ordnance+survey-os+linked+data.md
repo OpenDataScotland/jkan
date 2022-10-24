@@ -15,7 +15,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-linked-data
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: OS open data products as linked data
   url: http://data.ordnancesurvey.co.uk/
 schema: default
 title: OS Linked Data

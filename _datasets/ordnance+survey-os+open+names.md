@@ -26,16 +26,16 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-names
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: OS Open Data download page
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME
 - format: HTML
-  name: HTML
+  name: OS Open Names product description
   url: http://os.uk/business-and-government/products/os-open-names.html
 - format: ATOM FEED
-  name: ATOM FEED
+  name: OS Open Names Atom feed
   url: http://os.uk/xml/atom/OSOpenNames.xml
 - format: ZIP
-  name: ZIP
+  name: OS OpenNames in ETRS-89 > 330 Mb zip
   url: http://os.uk/xml/datasets/OSOpenNamesETRS-89.zip
 schema: default
 title: OS Open Names

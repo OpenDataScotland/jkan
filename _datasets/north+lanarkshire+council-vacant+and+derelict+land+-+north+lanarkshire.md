@@ -44,7 +44,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelic
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Vacant and Derelict Land
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Vacant And Derelict Land - North Lanarkshire

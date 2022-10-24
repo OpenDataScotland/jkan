@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2019-09-25'
 date_updated: '2020-11-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Moray Council
 notes: <p>Scottish Parliament Constituency 2010 (OS Boundary Line Open Data)</p>
 organization: Moray Council

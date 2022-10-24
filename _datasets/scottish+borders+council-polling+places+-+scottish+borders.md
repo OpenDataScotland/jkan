@@ -34,13 +34,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-sb'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/b149c7fb-1c8d-4841-899f-0d508659c121/resource/f34f89c8-babf-4d13-999b-d84e3e345577/download/sbc_polling_places.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places - June 2017
   url: https://data.spatialhub.scot/dataset/b149c7fb-1c8d-4841-899f-0d508659c121/resource/978de4b3-0d00-4c88-9246-979dc40cb5d8/download/sbcpollingplacesjune2017.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places Dec 2019
   url: https://data.spatialhub.scot/dataset/b149c7fb-1c8d-4841-899f-0d508659c121/resource/60afad1b-b148-4e92-a880-d5705cfc6d79/download/polling_places.zip
 schema: default
 title: Polling Places - Scottish Borders

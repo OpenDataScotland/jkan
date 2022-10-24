@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f37ce11c-745a-4fae-8b3c-47eaa2905900/1/urql
 schema: default
 title: Perth and Kinross - Hourly cycling counts from automatic cycling counters

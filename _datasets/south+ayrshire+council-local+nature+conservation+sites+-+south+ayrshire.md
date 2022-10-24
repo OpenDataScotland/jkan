@@ -17,7 +17,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conse
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Special Areas of Conservation
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Nature Conservation Sites - South Ayrshire

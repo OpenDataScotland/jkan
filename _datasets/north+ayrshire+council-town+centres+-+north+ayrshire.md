@@ -15,7 +15,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-na'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Town Centres
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Town Centres - North Ayrshire

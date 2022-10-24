@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2018-11-05'
 date_updated: '2022-08-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: "<p>The score is based on school leavers\u2019 highest level of qualification,\
   \ averaged across all leavers within a data zone. </p>"

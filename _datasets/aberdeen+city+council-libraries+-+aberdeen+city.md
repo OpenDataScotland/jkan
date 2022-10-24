@@ -20,13 +20,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-ac'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Libraries
   url: https://data.spatialhub.scot/dataset/1d7d82ba-692c-42cc-8a48-f7ca9f5b870e/resource/855ac92f-b77a-4da0-acac-595d0417562c/download/acclibraries.zip
 - format: ZIP
-  name: ZIP
+  name: Aberdeen City Libraries
   url: https://data.spatialhub.scot/dataset/1d7d82ba-692c-42cc-8a48-f7ca9f5b870e/resource/1c091618-e6a4-4f8a-ae55-e1a1688908a0/download/libraries.zip
 - format: REST
-  name: REST
+  name: Libraries
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Libraries/FeatureServer
 schema: default
 title: Libraries - Aberdeen City

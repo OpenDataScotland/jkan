@@ -21,7 +21,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conse
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Local Nature Conservation Sites '
   url: https://geo.spatialhub.scot/geoserver/sh_lnatcs/wfs?service=wfs&typeName=sh_lnatcs:pub_lnatcs
 schema: default
 title: Local Nature Conservation Sites - Scotland

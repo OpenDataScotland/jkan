@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Local_Development_Plan
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WMSServer?request=GetCapabilities&service=WMS
 schema: default
 title: Local Development Plans - South Ayrshire

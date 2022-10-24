@@ -20,10 +20,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Prohibited Drinking Areas
   url: https://data.spatialhub.scot/dataset/a0483f33-fa61-44bf-a4f5-a399dffbef72/resource/6d1b714c-cb27-4cc5-b36a-847ca955b9ee/download/probibiteddrinkingareas.zip
 - format: WFS
-  name: WFS
+  name: WFS for alcohol prohibition areas
   url: https://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services%3Aprohibited_drinking_areas&outputFormat=application%2Fjson
 schema: default
 title: Alcohol Prohibition Areas - Angus

@@ -39,7 +39,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Tree Treservation Orders
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Tree Preservation Orders - City of Edinburgh

@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Community Council Wards
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities%0Ahttp://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 schema: default
 title: Community Council Boundaries - Dundee City

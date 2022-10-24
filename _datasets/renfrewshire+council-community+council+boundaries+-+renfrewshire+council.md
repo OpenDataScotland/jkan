@@ -25,10 +25,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Renfrewshire Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/8f6f22e8-5ed4-48fa-9f93-b975eaaa0121/resource/9d87eba8-b5d8-4cbd-8adc-2bf2d64781fe/download/rfcommunitycouncils22062018.zip
 - format: REST
-  name: REST
+  name: Community Council boundaries
   url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/rest/services/Community_Councils_Update/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Community Council Boundaries - Renfrewshire Council

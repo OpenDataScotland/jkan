@@ -28,13 +28,13 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/george-washingto
 records: null
 resources:
 - format: MS EXCEL
-  name: MS EXCEL
+  name: GeorgeWashingtonWilsonArchive-Spreadsheet.xlsx
   url: https://data.aberdeencity.gov.uk/dataset/ff66d1cf-8b72-40df-be7f-6330536aea91/resource/992291f7-7cb0-43ab-bf7b-d266240bdc88/download/georgewashingtonwilsonarchive-spreadsheet.xlsx
 - format: CSV
-  name: CSV
+  name: GeorgeWashingtonWilsonArchive-CSV.csv
   url: https://data.aberdeencity.gov.uk/dataset/ff66d1cf-8b72-40df-be7f-6330536aea91/resource/a4de5363-fc23-43e7-8ac0-f8c894ed4b40/download/georgewashingtonwilsonarchive-csv.csv
 - format: HTML
-  name: HTML
+  name: Images of the George Washington Wilson Collection
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=George+Washington+Wilson+and+Company&Title=&chat=
 schema: default
 title: George Washington Wilson Archive

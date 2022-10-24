@@ -14,13 +14,13 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/recycling-centre
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/5dbd92e1aba9467b8de058d0347a5b04_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri Rest API
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Recycling_Centres/FeatureServer/0
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/5dbd92e1aba9467b8de058d0347a5b04_0.geojson?outSR={"latestWkid":27700,"wkid":27700}
 - format: CSV
   name: CSV
@@ -29,7 +29,7 @@ resources:
   name: KML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/5dbd92e1aba9467b8de058d0347a5b04_0.kml?outSR={"latestWkid":27700,"wkid":27700}
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/5dbd92e1aba9467b8de058d0347a5b04_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
 title: Recycling Centres

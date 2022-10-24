@@ -23,22 +23,22 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/safer-communities-fi
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2017 to March 2018
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/37aebb09-0062-40c3-b8f1-585a1171c818/download/20210510-fixed-penalty-notices-01.04.2017-to-31.03.2018.csv
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2018 to March 2019
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/02f44c4f-e2ed-4500-8ebd-c72149855907/download/20210510-fixed-penalty-notices-01.04.2018-to-31.03.2019.csv
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2019 to March 2020
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/ac72f922-3373-4bc7-8966-ff6d7d0ce242/download/20210510-fixed-penalty-notices-01.04.2019-to-31.03.2020.csv
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2020 to March 2021
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/ed61d4ce-ef71-4cee-82d5-5f8da3ff63d4/download/20210510-fixed-penalty-notices-01.04.2020-to-31.03.2021.csv
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2021 to March 2022
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/eeef1785-3e3b-428a-aaa0-25ce3c3a3390/download/20220406-fixed-penalty-notices-01.04.2021-to-31.03.2022.csv
 - format: CSV
-  name: CSV
+  name: Fixed Penalty Notices April 2022 to March 2023
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/daa0ac82-5ca0-4094-84c5-3eea20d38b01/download/20221003-fixed-penalty-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Fixed Penalty Notices

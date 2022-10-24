@@ -12,7 +12,7 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/20190214-test-user-g
 records: null
 resources:
 - format: PDF
-  name: PDF
+  name: User Guide Version 2.0
   url: https://data.stirling.gov.uk/dataset/54b51ae1-ee39-4d4c-b5e3-6c451896a44b/resource/34ef4067-b535-4a8c-9529-04f57c963a59/download/20190926-open-data-user-guide-v2.1-.pdf
 schema: default
 title: Guides & Platform Documentation

@@ -25,10 +25,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Aberdeen Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/e6194b2e-c537-470a-8d7b-6a082630dfdf/resource/8f27b2d0-d526-4e45-ae7b-8094e758543f/download/community_councils_2018.zip
 - format: REST
-  name: REST
+  name: Community Council Boundaries
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Community_Councils_2018/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Community Council Boundaries - Aberdeen City

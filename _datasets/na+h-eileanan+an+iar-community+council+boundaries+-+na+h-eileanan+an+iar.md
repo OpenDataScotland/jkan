@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/95fa330f-8e54-4cc6-a814-4a48a8a97861/resource/3675c98c-c1e8-4018-b7f9-55143061d698/download/community-councils-2019.zip
 schema: default
 title: Community Council Boundaries - Na h-Eileanan an Iar

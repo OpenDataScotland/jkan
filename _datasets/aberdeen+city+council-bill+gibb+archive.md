@@ -33,13 +33,13 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/bill-gibb-archiv
 records: null
 resources:
 - format: MS EXCEL
-  name: MS EXCEL
+  name: Bill Gibb Archive - Spreadsheet.xlsx
   url: https://data.aberdeencity.gov.uk/dataset/29273a68-76b2-41fb-b577-c9724640660a/resource/21007d09-0b63-4a2a-94b3-f9ef5d2c0d54/download/bill-gibb-archive-spreadsheet.xlsx
 - format: CSV
-  name: CSV
+  name: Bill Gibb Archive - Text File.csv
   url: https://data.aberdeencity.gov.uk/dataset/29273a68-76b2-41fb-b577-c9724640660a/resource/98c6c167-cda5-4353-86a3-98c683093218/download/bill-gibb-archive-text-file.csv
 - format: HTML
-  name: HTML
+  name: Images of the Bill Gibb Collection
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=Gibb+Bill&Title=&chat=
 schema: default
 title: Bill Gibb Archive

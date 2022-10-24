@@ -24,7 +24,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_area
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Smoke Control Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Smoke Control Areas - North Lanarkshire

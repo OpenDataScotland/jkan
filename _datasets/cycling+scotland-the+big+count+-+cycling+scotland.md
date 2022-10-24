@@ -13,10 +13,10 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4ecae34e-9382-404e-8728-a97df2f36b73/1/urql
 - format: PDF
-  name: PDF
+  name: Cycling Friendly Employer handbook - Cycling Scotland.pdf
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/0927d3a0-29af-433a-b7f8-059e02abd507/Cycling%20Friendly%20Employer%20handbook%20-%20Cycling%20Scotland.pdf
 schema: default
 title: The Big Count - Cycling Scotland

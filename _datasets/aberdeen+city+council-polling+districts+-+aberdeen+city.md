@@ -35,13 +35,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Aberdeen Polling District Boundaries
   url: https://data.spatialhub.scot/dataset/d93106ad-e182-4f15-b2e1-ce78c63fea13/resource/0f9d82e7-fb43-4c9b-a3ff-1326871b690c/download/accpollingbdries.zip
 - format: ZIP
-  name: ZIP
+  name: Aberdeen Polling District Boundaries
   url: https://data.spatialhub.scot/dataset/d93106ad-e182-4f15-b2e1-ce78c63fea13/resource/d0654422-11fb-4632-920d-615680b900be/download/pollingdists20172.zip
 - format: ZIP
-  name: ZIP
+  name: Aberdeen Polling Districts
   url: https://data.spatialhub.scot/dataset/d93106ad-e182-4f15-b2e1-ce78c63fea13/resource/59c3051a-fd66-4fce-b9c7-f99854c2fa2f/download/pollingdists20172.zip
 schema: default
 title: Polling Districts - Aberdeen City

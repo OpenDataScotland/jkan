@@ -45,13 +45,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applicati
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Planning Applications: Weekly Lists (Points)'
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappweekpnt
 - format: WFS
-  name: WFS
+  name: 'Planning Applications: Weekly Lists (Polygons)'
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappweekpol
 - format: WFS
-  name: WFS
+  name: 'Planning Applications: Calendar Year (Polygon)'
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyear
 schema: default
 title: Planning Applications - Scotland

@@ -12,13 +12,13 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/80324843-fa22-4e40-92b4-4a97f0b0be2c/2/urql
 - format: XML
-  name: XML
+  name: Just Eat Cycles - Edinburgh (2018 - 2021).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5872e566-d5ac-4059-a38b-e2ae4a228fae
 - format: CSV
-  name: CSV
+  name: Just_Eat_Cycles_2020-08.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8a61a46-1ebd-45f0-9892-da341631260c
 schema: default
 title: Just Eat Cycles - Edinburgh (2018 - 2021)

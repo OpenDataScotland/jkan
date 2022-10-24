@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Core Paths
   url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/4b0e37e2-ab21-49dc-8614-ab7501ab65fc/download/core-paths.zip
 schema: default
 title: Paths And Core Paths - East Lothian

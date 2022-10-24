@@ -19,16 +19,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-stroke-sta
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Stroke Activity By Health Board
   url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/47656572-e196-40c8-83e8-08b0b223b2e6/download/stroke_activitybyhbr.csv
 - format: CSV
-  name: CSV
+  name: Stroke Activity By Council Area
   url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/b80202b1-0ad8-4f40-a326-f9966872c4eb/download/stroke_activitybyca.csv
 - format: CSV
-  name: CSV
+  name: Stroke Mortality By Health Board
   url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/19c01b59-6cf7-42a9-876a-b07b9b92d6eb/download/stroke_mortalitybyhbr.csv
 - format: CSV
-  name: CSV
+  name: Stroke Mortality By Council Area
   url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/285b4cbd-1e87-49fe-9e24-73d2da8166ae/download/stroke_mortalitybyca.csv
 schema: default
 title: Scottish Stroke Statistics

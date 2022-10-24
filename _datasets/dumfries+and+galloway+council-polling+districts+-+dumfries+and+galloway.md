@@ -35,7 +35,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/adc96bcc-5ab6-491a-81f2-967352457ce1/download/pollingdistricts201755161.zip
 schema: default
 title: Polling Districts - Dumfries and Galloway

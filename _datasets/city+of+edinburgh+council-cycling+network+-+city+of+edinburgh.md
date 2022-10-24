@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-ce
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Cycle Lanes and Paths
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Cycling Network - City of Edinburgh

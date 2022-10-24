@@ -17,7 +17,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/household-estimates-by-da
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: HouseholdEstimatesDatazonePKC.csv
   url: https://data.pkc.gov.uk/dataset/63613cde-0390-4765-8c2b-f26a187dd9c5/resource/9d297274-5596-4a2f-a38b-26a09a7bac03/download/householdestimatesdatazonepkc.csv
 schema: default
 title: Household estimates by data zone

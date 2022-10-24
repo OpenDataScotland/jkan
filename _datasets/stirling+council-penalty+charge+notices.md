@@ -16,19 +16,19 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/penalty-charge-notic
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Penalty Charge Notices April 2018 to March 2019
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/4b8ca28d-25dc-4f90-a460-3a4ae6871712/download/20220406-parking-control-notices-01.04.2018-to-31.03.2019.csv
 - format: CSV
-  name: CSV
+  name: Penalty Charge Notices April 2019 to March 2020
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/192d01ab-42f7-4d25-bff3-124844a95b97/download/20220406-parking-control-notices-01.04.2019-to-31.03.2020.csv
 - format: CSV
-  name: CSV
+  name: Penalty Charge Notices April 2020 to March 2021
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/3c9bd3f3-344f-4221-8f50-543b3b502bbd/download/20220406-penalty-charge-notices-01.04.2020-to-31.03.2021.csv
 - format: CSV
-  name: CSV
+  name: Penalty Charge Notices April 2021 to March 2022
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/07bae006-78d2-4ff7-8f1c-39861a29e744/download/20220406-penalty-charge-notices-01.04.2021-to-31.03.2022.csv
 - format: CSV
-  name: CSV
+  name: Penalty Charge Notices May 2017 to March 2018
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/973707a2-d08c-4e38-a36e-4bad5f091491/download/20220406-parking-control-notices-03.05.2017-to-31.03.2018.csv
 schema: default
 title: Penalty Charge Notices

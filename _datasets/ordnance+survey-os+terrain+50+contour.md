@@ -13,10 +13,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-terrain-50-contour
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Product information
   url: http://os.uk/business-and-government/products/terrain-50.html
 - format: HTML
-  name: HTML
+  name: Download link
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50
 schema: default
 title: OS Terrain 50 Contour

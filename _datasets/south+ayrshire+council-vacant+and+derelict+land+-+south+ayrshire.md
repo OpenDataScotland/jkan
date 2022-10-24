@@ -44,13 +44,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelic
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Vacant and derelict land
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
-  name: ZIP
+  name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/8f975f5c-38de-4cf0-a584-60d4cb9a7ec1/resource/9e9b258d-6856-46de-94bd-b85691e2e758/download/20200929_vdl_by_la_sa.zip
 - format: ZIP
-  name: ZIP
+  name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/8f975f5c-38de-4cf0-a584-60d4cb9a7ec1/resource/9f89a429-aba1-45a6-b4fb-388fb72260ba/download/southayrshire_2020.zip
 schema: default
 title: Vacant And Derelict Land - South Ayrshire

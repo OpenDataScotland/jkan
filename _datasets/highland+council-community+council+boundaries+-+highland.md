@@ -25,16 +25,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Highland Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/740d1b20-c0e3-4593-b1d2-a5328a417272/resource/be6bfa34-7a63-41e8-9f00-7af65533bee9/download/highland-community_councils.zip
 - format: ZIP
-  name: ZIP
+  name: Community Councils Highland
   url: https://data.spatialhub.scot/dataset/740d1b20-c0e3-4593-b1d2-a5328a417272/resource/39b59edb-6d22-4624-972b-5016efdc5ad9/download/communitycouncils_highland.zip
 - format: ZIP
-  name: ZIP
+  name: Community Councils Highland
   url: https://data.spatialhub.scot/dataset/740d1b20-c0e3-4593-b1d2-a5328a417272/resource/ff637ee0-1e7b-4137-8a8f-8af83ce1ea4c/download/communitycouncils20200624.zip
 - format: REST
-  name: REST
+  name: Community Council boundaries
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Community Council Boundaries - Highland

@@ -34,10 +34,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-mo'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling stations
   url: https://data.spatialhub.scot/dataset/de394182-5c6c-40a0-894f-f7ff9001266e/resource/a30743d9-77bf-459b-8c31-7e2eae338bd9/download/pollingmoraymay2017.zip
 - format: WFS
-  name: WFS
+  name: Polling Places
   url: https://mapping.moray.gov.uk/arcgis/services/INSPIRE/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Places - Moray

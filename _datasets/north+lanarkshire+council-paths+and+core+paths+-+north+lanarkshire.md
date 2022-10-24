@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Core path network
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
 title: Paths And Core Paths - North Lanarkshire

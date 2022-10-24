@@ -24,7 +24,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/air_quality_manage
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Air Quality Management Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_aqma/wfs?service=wfs&typeName=sh_aqma:pub_aqma
 schema: default
 title: Air Quality Management Areas - Scotland

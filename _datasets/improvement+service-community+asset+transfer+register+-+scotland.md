@@ -31,7 +31,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_tr
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Community Asset Transfer Register '
   url: https://geo.spatialhub.scot/geoserver/sh_catr/wfs?service=wfs&typeName=sh_catr:pub_catr
 schema: default
 title: Community Asset Transfer Register - Scotland

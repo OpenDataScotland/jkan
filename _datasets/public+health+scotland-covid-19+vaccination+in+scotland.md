@@ -63,43 +63,43 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccinatio
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Daily Trend of All Vaccinations Delivered in Scotland
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/db27a16d-52e1-45e4-bd97-d13831548393/download/all_delivered_vacc_scot_20220914.csv
 - format: CSV
-  name: CSV
+  name: 'Daily Trend of Total Vaccinations in Scotland '
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/42f17a3c-a4db-4965-ba68-3dffe6bca13a/download/daily_vacc_scot_20220914.csv
 - format: CSV
-  name: CSV
+  name: Daily Trend of Vaccinations by Age Group and Sex
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/9b99e278-b8d8-47df-8d7a-a8cf98519ac1/download/daily_vacc_age_sex_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Health Board Dec 2020 \u2013 June 2021"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/758f72d6-7371-4eee-9e6b-0b0798470d7e/download/daily_vacc_hb_2021_part_1_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Health Board July 2021 \u2013 Dec 2021"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/09f5073d-2b7a-4c95-9fb3-d59c9da3fbd4/download/daily_vacc_hb_2021_part_2_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Health Board Jan 2022 \u2013 June 2022"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/8f7b64b1-eb53-43e9-b888-45af0bc25505/download/daily_vacc_hb_2022_part_1_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Health Board July 2022 \u2013 Dec 2022"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/789bc61c-1385-4bbe-a040-9a7ab495f2fd/download/daily_vacc_hb_2022_part_2_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Council Area Dec 2020 \u2013 June 2021"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d5ffffc0-f6f3-4b76-8f38-71ccfd7747a4/download/daily_vacc_la_2021_part_1_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Council Area July 2021 \u2013 Dec 2021"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/70e10191-6607-4f67-8132-ce14f57cbb28/download/daily_vacc_la_2021_part_2_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Council Area Jan 2022 \u2013 June 2022"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/03323275-7985-41b9-b657-7d3be9ca9b19/download/daily_vacc_la_2022_part_1_20220914.csv
 - format: CSV
-  name: CSV
+  name: "Daily Trend of Vaccinations by Council Area July 2022 \u2013 Dec 2022"
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/64d24cf5-c33b-4035-8e1f-58902dac624a/download/daily_vacc_la_2022_part_2_20220914.csv
 - format: CSV
-  name: CSV
+  name: Daily Trend of Vaccinations by JCVI Prioirity Group
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/d442b584-fe34-4c8d-acd0-3de9ac568eaf/download/daily_vacc_jcvi_20220914.csv
 - format: CSV
-  name: CSV
+  name: JCVI Priority Group Definitions
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/29e8ab8e-065a-4f92-ab70-4371d757633b/download/jcvi-table_20220201.xlsx
 schema: default
 title: COVID-19 Vaccination in Scotland

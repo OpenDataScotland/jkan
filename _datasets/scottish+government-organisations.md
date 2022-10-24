@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2017-04-12'
 date_updated: '2019-05-22'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>A dataset with all of the organisations involved in creating and publishing
   statistics on this site.</p>

@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2022-10-20'
+date_updated: '2022-10-21'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>THIS IS A 'PROOF OF CONCEPT' DATASET AND IS NOT CURRENTLY BEING KEPT UP\
@@ -66,13 +66,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Local Development Plans: Lines '
   url: https://geo.spatialhub.scot/geoserver/sh_ldp/wfs?service=wfs&typeName=sh_ldp:pub_ldplin
 - format: WFS
-  name: WFS
+  name: 'Local Development Plans: Points '
   url: https://geo.spatialhub.scot/geoserver/sh_ldp/wfs?service=wfs&typeName=sh_ldp:pub_ldppnt
 - format: WFS
-  name: WFS
+  name: 'Local Development Plans: Polygons '
   url: https://geo.spatialhub.scot/geoserver/sh_ldp/wfs?service=wfs&typeName=sh_ldp:pub_ldppol
 schema: default
 title: Local Development Plans - Scotland

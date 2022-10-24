@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Shetland Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/ea788464-0b57-4e06-bc66-5a0f21af158d/resource/94365e3d-54d8-427b-872d-f5d2f2a86116/download/communitycouncils2019_region.communityc.zip
 schema: default
 title: Community Council Boundaries - Shetland Islands

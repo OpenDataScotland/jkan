@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_suppl
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Housing Land Supply
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Housing Land Supply - North Lanarkshire

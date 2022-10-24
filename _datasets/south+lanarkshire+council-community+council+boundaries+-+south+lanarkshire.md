@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Councils
   url: https://data.spatialhub.scot/dataset/a1910f23-09e8-417f-bc7e-7203c025be05/resource/58bdf401-40a8-46a4-9c87-90ead78b6859/download/sl_cc_region.shp.zip
 schema: default
 title: Community Council Boundaries - South Lanarkshire

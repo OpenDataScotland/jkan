@@ -35,10 +35,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/90729a9c-5e4c-4d2a-a96d-4c7a0e61ae6c/resource/a24e47e9-3837-4bd9-ab32-91f5cc598bcd/download/pollingdistrictmoraymay2017.zip
 - format: WFS
-  name: WFS
+  name: Polling Districts
   url: https://mapping.moray.gov.uk/arcgis/services/INSPIRE/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Districts - Moray

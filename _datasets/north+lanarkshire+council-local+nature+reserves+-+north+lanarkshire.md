@@ -21,7 +21,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reser
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Local Nature Reserves
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
 title: Local Nature Reserves - North Lanarkshire

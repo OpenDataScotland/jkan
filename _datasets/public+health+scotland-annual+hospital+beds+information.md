@@ -24,13 +24,13 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-hospital-bed
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Beds by Health Board of Treatment and Specialty
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/5d55964b-8e45-4c49-bfdd-9ea3e1fb962d/download/beds_by_nhs_board-of-treatment_specialty.csv
 - format: CSV
-  name: CSV
+  name: Beds by Location of Treatment and Specialty
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/d719af13-5fb3-430f-810e-ab3360961107/download/beds_by_location_of-treatment_specialty.csv
 - format: CSV
-  name: CSV
+  name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2022-locations-lookup.csv
 schema: default
 title: Annual Hospital Beds Information

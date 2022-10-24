@@ -14,7 +14,7 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-contra
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Angus Council profile on Public Contract Scotland website
   url: http://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00236
 schema: default
 title: Angus Council Contract Award Notices on Public Contracts Scotland

@@ -17,7 +17,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reser
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Local Nature Reserves '
   url: https://geo.spatialhub.scot/geoserver/sh_lnatr/wfs?service=wfs&typeName=sh_lnatr:pub_lnatr
 schema: default
 title: Local Nature Reserves - Scotland

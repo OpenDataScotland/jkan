@@ -34,13 +34,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-wl'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/9ed462fe-15e5-497c-ac25-88319707055c/resource/1c5ef3e8-4303-46c3-a510-b39a1c5faefd/download/pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/9ed462fe-15e5-497c-ac25-88319707055c/resource/a82905a0-055e-4095-9bad-94dab38b0940/download/wl_pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/9ed462fe-15e5-497c-ac25-88319707055c/resource/ca18e6e2-5273-4a1a-9925-8445d07b8c60/download/pollingplaces.zip
 schema: default
 title: Polling Places - West Lothian

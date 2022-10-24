@@ -16,13 +16,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/employment-land-audit-201
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: https://opendata-pkc.opendata.arcgis.com/maps/768f340c5b3d43ce98e94b2aa64a6fc4_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: ArcGIS GeoService
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Employment_Land_Audit_2015/FeatureServer/0
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
@@ -31,7 +31,7 @@ resources:
   name: KML
   url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: https://opendata-pkc.opendata.arcgis.com/datasets/768f340c5b3d43ce98e94b2aa64a6fc4_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Employment Land Audit 2015

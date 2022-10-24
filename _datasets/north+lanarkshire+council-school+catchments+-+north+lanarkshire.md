@@ -40,16 +40,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Denominational Primary School Catchments
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: WFS
-  name: WFS
+  name: Non Denominational Primary School Catchments
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: WFS
-  name: WFS
+  name: Denominational Secondary School Catchments
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: WFS
-  name: WFS
+  name: Non Denominational Secondary School Catchments
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: School Catchments - North Lanarkshire

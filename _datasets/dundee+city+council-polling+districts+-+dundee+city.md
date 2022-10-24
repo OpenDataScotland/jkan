@@ -35,7 +35,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Polling Districts
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Districts_and_Polling_Stations/WFSServer?service=wfs&request=getcapabilities
 schema: default
 title: Polling Districts - Dundee City

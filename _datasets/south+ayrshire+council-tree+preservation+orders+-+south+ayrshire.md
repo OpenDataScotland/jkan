@@ -39,10 +39,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Tree Preservation Orders
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
 - format: 7-Zip compressed file
-  name: 7-Zip compressed file
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/617735cb-5e5e-44f9-bfcd-ba15a693e2b6/resource/41d90da2-92a6-4ce7-ad78-1bf566c3d973/download/2020-02-13-na_ldp-tree-preservation-orders.7z
 schema: default
 title: Tree Preservation Orders - South Ayrshire

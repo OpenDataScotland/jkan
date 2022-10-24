@@ -34,22 +34,22 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-as'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Aberdeenshire Polling Places
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/86700844-a067-422f-8d2a-ee41d5445d39/download/abshirepollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/a4720ff5-4acd-47ab-9164-407ec29042c7/download/polling-places_2018_09.zip
 - format: KMZ
-  name: KMZ
+  name: Polling Places GE2019
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/52dea31b-f557-4279-8b14-98e7580a5355/download/polling_places_ge2019_2.kmz
 - format: KMZ
-  name: KMZ
+  name: Aberdeenshire Polling Places
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/dfe52d94-ea9e-4315-b3fc-3b768ead4079/download/abshire-polling-places-2020-06.kmz
 - format: KMZ
-  name: KMZ
+  name: Polling Places in Aberdeenshire at May 2021 SPE
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/cbccdbb4-b0fa-42e0-bad7-71686d5f4bd0/download/abdnshire-polling-places-2021-04-01.kmz
 - format: ZIP
-  name: ZIP
+  name: Polling Places (5 May 2022 - SLE)
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/ddc60fbe-b3ce-49a3-8895-e28f8cb5c35a/download/pollingplaces2022.zip
 schema: default
 title: Polling Places - Aberdeenshire

@@ -25,10 +25,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Councils
   url: https://data.spatialhub.scot/dataset/8936776d-c12d-43c6-af1f-d3a66224f844/resource/350578b2-96c3-48a0-ba68-49e4ece0751d/download/communitycouncil.zip
 - format: WFS
-  name: WFS
+  name: Community Council boundaries
   url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Council Boundaries - Argyll and Bute

@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fca80b83-4188-48da-bb54-fec0ba07be2b/1/urql
 schema: default
 title: Scotland South West Trunk Roads - Hourly cycling counts from automatic cycling

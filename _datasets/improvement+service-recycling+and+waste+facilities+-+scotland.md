@@ -15,7 +15,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_wast
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Recycling and Waste Facilities '
   url: https://geo.spatialhub.scot/geoserver/sh_rcywst/wfs?service=wfs&typeName=sh_rcywst:pub_rcywst
 schema: default
 title: Recycling and Waste Facilities - Scotland

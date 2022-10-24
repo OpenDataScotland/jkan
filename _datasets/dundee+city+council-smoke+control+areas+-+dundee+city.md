@@ -24,7 +24,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_area
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Dundee Smoke Control Areas
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 schema: default
 title: Smoke Control Areas - Dundee City

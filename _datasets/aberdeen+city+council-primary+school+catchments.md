@@ -14,13 +14,13 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/primary-school-c
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/f606a1b1b5b746aea68955d5d8458e6e_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri Rest API
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Primary_School_Catchments/FeatureServer/0
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/f606a1b1b5b746aea68955d5d8458e6e_0.geojson?outSR={"latestWkid":27700,"wkid":27700}
 - format: CSV
   name: CSV
@@ -29,7 +29,7 @@ resources:
   name: KML
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/f606a1b1b5b746aea68955d5d8458e6e_0.kml?outSR={"latestWkid":27700,"wkid":27700}
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/f606a1b1b5b746aea68955d5d8458e6e_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
 title: Primary School Catchments

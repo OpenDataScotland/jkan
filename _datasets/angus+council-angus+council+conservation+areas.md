@@ -15,13 +15,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-conser
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Conservation Areas
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_conservationareas/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Conservation Areas
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_conservationareas&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Conservation Areas
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_conservationareas&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Conservation Areas

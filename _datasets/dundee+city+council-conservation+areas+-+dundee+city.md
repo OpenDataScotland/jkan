@@ -28,10 +28,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Dundeed Conservation Areas 2016
   url: https://data.spatialhub.scot/dataset/5cf123e5-a983-4758-bc13-d5360e4bfdba/resource/3af3395d-07c0-4775-980e-d3dfdff6f631/download/conservationareas.zip
 - format: No file type
-  name: No file type
+  name: Conservationa Areas
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 schema: default
 title: Conservation Areas - Dundee City

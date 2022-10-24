@@ -11,7 +11,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/ultrafastbroadband
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: https://opendata-pkc.opendata.arcgis.com/content/2873739f9e3743298dc5a3a4f03b2260
 schema: default
 title: UltrafastBroadband

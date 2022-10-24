@@ -40,16 +40,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impa
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: SAS Incidents By Health Board, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/d1d2d098-193f-489c-940a-a828fdcfc357/download/sas_hb_agesex_20221005.csv
 - format: CSV
-  name: CSV
+  name: SAS Incidents By Health Board and Deprivation
   url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/12e52d78-bff5-4fde-8085-f1b03667a8e5/download/sas_hb_simd_20221005.csv
 - format: CSV
-  name: CSV
+  name: SAS Incidents By HSCP, Age and Sex
   url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/0a3992c3-a712-4adf-b3b3-928850cc65ff/download/sas_hscp_agesex_20221005.csv
 - format: CSV
-  name: CSV
+  name: SAS Incidents By HSCP and Deprivation
   url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/1329dfdb-0dd7-428b-9afb-b8fb3e438518/download/sas_hscp_simd_20221005.csv
 schema: default
 title: COVID-19 Wider Impacts - Scottish Ambulance Services

@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: North Lanarkshire Conservation Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Conservation Areas - North Lanarkshire

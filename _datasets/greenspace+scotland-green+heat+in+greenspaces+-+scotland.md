@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2021-06-16'
-date_updated: '2022-02-02'
+date_updated: '2022-10-24'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Greenspace Scotland
 notes: "<p>All GHiGs datasets cover the whole of Scotland and have been derived by\
@@ -106,49 +106,49 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_heat_in_gree
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN High Viability '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-high
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN High Viability (Public Buildings only)  '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-high-pb
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN Highest Viability '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-highest
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN Highest Viability (Public Buildings only) '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-highest-pb
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN Viable '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-viable
 - format: WFS
-  name: WFS
+  name: 'GHiGs DHN Viable (Public Buildings only)  '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-dhn-viable-pb
 - format: WFS
-  name: WFS
+  name: 'GHiGs Energy from Waste Sites '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-efw
 - format: WFS
-  name: WFS
+  name: 'GHiGs Greenspaces '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-green
 - format: WFS
-  name: WFS
+  name: 'GHiGs Public Buildings '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-pb
 - format: WFS
-  name: WFS
+  name: 'GHiGs Static Water Bodies '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-swb
 - format: WFS
-  name: WFS
+  name: 'GHiGs Public Buildings with heat demand >50 MWh/year '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-pb-gt50000
 - format: WFS
-  name: WFS
+  name: 'GHiGs Public Buildings near Greenspaces '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-pb-nr-gs
 - format: WFS
-  name: WFS
+  name: 'GHiGs Strategic Greenspaces '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-s-green
 - format: WFS
-  name: WFS
+  name: 'GHiGs Settlements '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-stlmnt
 - format: WFS
-  name: WFS
+  name: 'GHiGs Settlements by Local Authority '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-stlmnt-la
 schema: default
 title: Green Heat in Greenspaces - Scotland

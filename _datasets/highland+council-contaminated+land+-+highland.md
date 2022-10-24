@@ -43,13 +43,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/contaminated_land-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Contaminated land
   url: https://data.spatialhub.scot/dataset/75948e38-b595-4a9e-b04d-61360e0e9d55/resource/8ca4b2a8-8a3f-44fe-81f1-0d9deaafde45/download/contaminated_land_highland.zip
 - format: ZIP
-  name: ZIP
+  name: Updated contaminated land
   url: https://data.spatialhub.scot/dataset/75948e38-b595-4a9e-b04d-61360e0e9d55/resource/045659ea-488a-44b8-9764-053d6b61cc69/download/update-29.07.2020.zip
 - format: REST
-  name: REST
+  name: Contaminated Land Register
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/Contaminated_Land_Register/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Contaminated Land - Highland

@@ -34,13 +34,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-re'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling Places - Refrewshire
   url: http://dservices2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/services/Polling_Scheme/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Polling places
   url: https://maps.renfrewshire.gov.uk/arcgis/services/SpatialHub/RFW_Elections_And_Voting/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 - format: WFS
-  name: WFS
+  name: Polling Places
   url: https://maps.renfrewshire.gov.uk/arcgis/services/Contentmaps/ELECTIONS_AND_VOTING/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
 title: Polling Places - Renfrewshire Council

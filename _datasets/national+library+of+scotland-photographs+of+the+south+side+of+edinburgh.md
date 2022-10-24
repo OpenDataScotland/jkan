@@ -3,9 +3,15 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: Public Domain
+license: https://creativecommons.org/publicdomain/mark/1.0/
 maintainer: National Library of Scotland
-notes: ''
+notes: "<p>This dataset represents the complete descriptive metadata for the Photographs\
+  \ of the South Side of Edinburgh, a\_digitised collection of black-and-white photographs\
+  \ taken in 1929\_by Alfred Henry Rushbrook on behalf of the City of Edinburgh Improvement\
+  \ Trust. The images show tenements and shops around St Leonards before buildings\
+  \ were pulled down for slum clearance. The precise address of a building is given\
+  \ where known. View the collection on the image gallery: Photographs of the South\
+  \ Side of Edinburgh</p>"
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/photographs-south-side-edinburgh/
 records: 3

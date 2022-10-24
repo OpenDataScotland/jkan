@@ -39,7 +39,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - TPOs
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Tree Preservation Orders - North Ayrshire

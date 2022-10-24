@@ -22,22 +22,24 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/delayed-discharges-
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Delayed Discharge Bed Days by Health Board
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/fd354e4b-6211-48ba-8e4f-8356a5ed4215/download/2022-08_delayed-discharge-beddays-health-board.csv
 - format: CSV
-  name: CSV
+  name: Delayed Discharge Bed Days by Council Area
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/513d2d71-cf73-458e-8b44-4fa9bccbf50a/download/2022-08_delayed-discharge-beddays-council-area.csv
 - format: CSV
-  name: CSV
+  name: Census Delays by Health Board
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/49ca8a39-7f01-4e2b-acd6-205bc9827852/download/2022-08_delayed-discharge-census-health-board.csv
 - format: CSV
-  name: CSV
+  name: Census Delays by Council Area
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/0924cb38-25e6-431f-b144-7e30ab4a1a0b/download/2022-08_delayed-discharge-census-council-area.csv
 - format: CSV
-  name: CSV
+  name: "Delayed Discharge Bed Days by Health Board \u2013 April 2012 \u2013 June\
+    \ 2016"
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/b7276489-6c88-455c-8429-033317f44914/download/2016-06_delayed-discharge-beddays-health-board.csv
 - format: CSV
-  name: CSV
+  name: "Delayed Discharge Bed Days by Council Area \u2013 April 2012 \u2013 June\
+    \ 2016"
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/2a07d2e2-fa0b-4bf7-8a49-36db4ca5f35e/download/2016-06_delayed-discharge-beddays-council-area.csv
 schema: default
 title: Delayed Discharges in NHSScotland

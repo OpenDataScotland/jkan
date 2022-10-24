@@ -25,16 +25,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Fife Community Council Boundaries
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
 - format: REST
-  name: REST
+  name: Fife's Community Council Boundaries
   url: https://services1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/rest/services/CommunityCouncilAreas_Mar2021/FeatureServer
 - format: ZIP
-  name: ZIP
+  name: Fife's updated CC boundaries
   url: https://data.spatialhub.scot/dataset/f2a5d12a-07eb-4cb8-859a-63dbcb29e6cb/resource/c450fc20-a9fa-4814-a701-12ebed9a2c8e/download/fife-cc.zip
 - format: ZIP
-  name: ZIP
+  name: Community Council Areas in Fife
   url: https://data.spatialhub.scot/dataset/f2a5d12a-07eb-4cb8-859a-63dbcb29e6cb/resource/4f8d1c3b-d552-4dfa-afbc-917debc6dde1/download/fife_community_councils.zip
 schema: default
 title: Community Council Boundaries - Fife

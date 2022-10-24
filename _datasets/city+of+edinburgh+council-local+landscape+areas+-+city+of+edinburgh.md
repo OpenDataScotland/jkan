@@ -26,13 +26,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_de
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Areas of outstanding Landscape Quality
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: No file type
-  name: No file type
+  name: Areas of Great Landscape Value
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: No file type
-  name: No file type
+  name: Special Landscape Area
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Landscape Areas - City of Edinburgh

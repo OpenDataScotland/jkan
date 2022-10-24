@@ -16,13 +16,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-ce'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Controlled Parking Zones
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 - format: ZIP
-  name: ZIP
+  name: Parking zones
   url: https://data.spatialhub.scot/dataset/1c00a05a-0d6a-4b72-b8e7-13f014a655fe/resource/54d98675-4cd2-4366-8c9e-5b8420050761/download/car-parking.zip
 - format: WFS
-  name: WFS
+  name: Waiting and loading markings
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Car Parking - City of Edinburgh

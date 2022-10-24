@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Midlothian Council Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/2024392b-14f5-4a09-aab4-0fa976ede3f2/resource/7fbfe97c-55a5-449b-bd65-00a009ef7850/download/commcouncil.zip
 schema: default
 title: Community Council Boundaries - Midlothian

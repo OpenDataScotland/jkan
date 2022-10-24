@@ -44,13 +44,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelic
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
-  name: ZIP
+  name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/5cff3865-da21-4bb3-8275-6a2ba288740a/resource/42a0742e-74b3-4be2-9889-8f400a0ae90e/download/20200929_vdl_by_la_na.zip
 - format: ZIP
-  name: ZIP
+  name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/5cff3865-da21-4bb3-8275-6a2ba288740a/resource/3503a4c9-75dd-4a50-a462-5c70106be863/download/northayrshire_2020.zip
 schema: default
 title: Vacant And Derelict Land - North Ayrshire

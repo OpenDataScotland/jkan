@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directio
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Conservation Areas and Article 4 directions
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
 schema: default
 title: Article 4 Directions - South Ayrshire

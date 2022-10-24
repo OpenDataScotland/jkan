@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-an'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Various parking related layers
   url: https://data.angus.gov.uk/geoserver/services/ows?Service=WFS
 schema: default
 title: Car Parking - Angus

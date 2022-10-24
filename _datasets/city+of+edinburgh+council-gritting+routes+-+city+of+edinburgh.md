@@ -22,7 +22,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-ce
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Gritting routes
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Gritting Routes - City of Edinburgh

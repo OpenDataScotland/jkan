@@ -3,7 +3,7 @@ category:
 - Public Safety
 date_created: '2016-11-30'
 date_updated: '2020-10-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Confidence across six policing functions by tenure, household type, sex
   and disability. The Scottish Survey Core Questions is an innovative project drawing

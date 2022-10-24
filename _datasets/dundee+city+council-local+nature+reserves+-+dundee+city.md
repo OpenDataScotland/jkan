@@ -21,10 +21,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reser
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Local Nature Reserves
   url: http://inspire.dundeecity.gov.uk/geoserver/ldp/wfs?service=WFS&version=2.0.0&request=getCapabilities
 - format: WFS
-  name: WFS
+  name: Local Nature Reserves
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/LDP2019_WFS/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
 title: Local Nature Reserves - Dundee City

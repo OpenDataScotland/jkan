@@ -37,7 +37,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-ce'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Green belt
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Green Belt - City of Edinburgh

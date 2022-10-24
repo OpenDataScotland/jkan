@@ -12,13 +12,13 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1cdbb64b-1bf6-47e0-b290-2a114cbf1056/2/urql
 - format: CSV
-  name: CSV
+  name: "Location of Bikehangars\xAE in Scotland (Cyclehoop).csv"
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6acaa210-5ddc-4b63-a846-175708a42254
 - format: XML
-  name: XML
+  name: "Location of Bikehangars\xAE in Scotland (Cyclehoop).xml"
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b3e5300b-896b-458c-a328-522d664b8d30
 schema: default
 title: "Location of Bikehangars\xAE in Scotland (Cyclehoop)"

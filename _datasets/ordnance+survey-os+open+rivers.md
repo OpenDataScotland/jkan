@@ -14,10 +14,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-open-rivers
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Product description
   url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-rivers
 - format: HTML
-  name: HTML
+  name: Download
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPRVRS
 - format: ATOM FEED
   name: ATOM FEED

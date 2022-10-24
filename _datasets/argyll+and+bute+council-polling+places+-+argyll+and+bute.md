@@ -34,28 +34,28 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ab'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/99085a7f-eac3-4634-9950-14e01c45abf3/download/kprojects2017006-spatial-hub-uploads-2017pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/29e8d368-50e6-4876-9c1b-a6a835ad7b3b/download/kprojects2017006-spatial-hub-uploads-2017pollingplaceupdated.zip
 - format: ZIP
-  name: ZIP
+  name: Argyll and Bute Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/9293e862-d321-4454-825d-4806ac1d5ff5/download/kprojects2017006-spatial-hub-uploads-2017pollingplacesv3.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/830546f8-05a3-4ae1-a7fd-d620d870a026/download/polling_places.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/36ca844d-9c0a-432e-9802-485a71eb4319/download/polling_places_201909.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/f28654f3-b91a-4adc-98c3-a5aa8f2e94d0/download/polling_places.zip
 - format: ZIP
-  name: ZIP
+  name: Polling places
   url: https://data.spatialhub.scot/dataset/2ee7a623-8830-47d3-9b6a-557b0101e41c/resource/68523c51-19b6-4607-934e-ed6b82e44b1b/download/abc_polling_places.zip
 - format: REST
-  name: REST
+  name: Polling Places
   url: https://arcgis.argyll-bute.gov.uk/arcgis/rest/services/Electoral_Boundaries_and_Masks/MapServer/16
 schema: default
 title: Polling Places - Argyll and Bute

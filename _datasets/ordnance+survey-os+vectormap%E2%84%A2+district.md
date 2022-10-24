@@ -19,13 +19,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/os-vectormap-district1
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Vectormap district product information
   url: http://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html
 - format: HTML
-  name: HTML
+  name: OS OpenData orders
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html
 - format: ATOM FEED
-  name: ATOM FEED
+  name: Atom feed
   url: http://www.ordnancesurvey.co.uk/oswebsite/xml/atom/VMD.xml
 schema: default
 title: "OS VectorMap\u2122 District"

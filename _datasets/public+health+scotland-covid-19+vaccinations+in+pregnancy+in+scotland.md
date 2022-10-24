@@ -34,25 +34,25 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-vaccinatio
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Vaccinations in Pregnancy by Week
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8fca2670-52bb-4ea9-a16d-cb8324a3affb/download/vacc_week_20210930.csv
 - format: CSV
-  name: CSV
+  name: Vaccinations in Pregnancy by Gestation
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/9841abc3-8e29-4cf9-a1a9-81c94c1d5774/download/vacc_gest_20210930.csv
 - format: CSV
-  name: CSV
+  name: Vaccinations in Pregnancy by Type of Vaccine
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/d8e07786-c596-46ea-b9ad-5ddb012c3692/download/vacc_product_20210930.csv
 - format: CSV
-  name: CSV
+  name: Vaccine Uptake by Age
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/70c434ed-917b-47bb-a40c-7d8236ea688e/download/uptake_age_20210930.csv
 - format: CSV
-  name: CSV
+  name: Vaccine Uptake by Deprivation
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8a1ebc79-1338-4149-9d57-0aba2b459ed0/download/uptake_simd_20210930.csv
 - format: CSV
-  name: CSV
+  name: 'Coverage by delivery '
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/4af31ede-1a40-4bbc-b258-c3f0229e7b04/download/coverage_delivery_20210930.csv
 - format: CSV
-  name: CSV
+  name: Vaccine Uptake by Health Board
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8ca8ddf9-f77f-45e7-acae-bb919a1259f3/download/uptake_hb_20210930.csv
 schema: default
 title: COVID-19 Vaccinations in Pregnancy in Scotland

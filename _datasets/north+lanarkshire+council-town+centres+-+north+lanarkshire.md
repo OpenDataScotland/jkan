@@ -15,10 +15,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-nl'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: NLC Town Centres
   url: https://data.spatialhub.scot/dataset/c696de8c-e5ff-456f-b76d-60aa8f488e55/resource/190bd842-14bd-4dfc-adeb-220145e0c242/download/nlc-town-centres.zip
 - format: WFS
-  name: WFS
+  name: Town Centres
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
 title: Town Centres - North Lanarkshire

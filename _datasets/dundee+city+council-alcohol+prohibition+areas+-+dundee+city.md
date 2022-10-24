@@ -20,13 +20,13 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Alcohol Prohibition Areas - Dundee
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 - format: No file type
-  name: No file type
+  name: Alcohol Prohibition Areas - Dundee
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 - format: No file type
-  name: No file type
+  name: Alcohol Prohibition Areas - Dundee
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 schema: default
 title: Alcohol Prohibition Areas - Dundee City

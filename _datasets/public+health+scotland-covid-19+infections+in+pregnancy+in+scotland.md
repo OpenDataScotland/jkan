@@ -49,25 +49,25 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-positive-c
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Positive COVID-19 Cases in Pregnancy by Week
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/0a883f85-97bf-474a-8daa-158128f79743/download/cases_week_20211005.csv
 - format: CSV
-  name: CSV
+  name: Positive COVID-19 Cases in Pregnancy By Gestation
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/b7f26274-113c-47ab-8a14-73763b39a894/download/case_gest_20211005.csv
 - format: CSV
-  name: CSV
+  name: Positive COVID-19 Cases in Pregnancy By Vaccination Status
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/76c63f4f-769e-4780-963e-6bb179207d4b/download/case_vacc_stat_20211005.csv
 - format: CSV
-  name: CSV
+  name: Rate of Positive COVID-19 Cases in Pregnancy
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/78762e59-14b8-42d6-be12-83dc279c675b/download/case_rate_20211005.csv
 - format: CSV
-  name: CSV
+  name: Number and Rate of Positive COVID-19 Cases in Pregnancy By Age
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/5960ae17-7931-4f6c-a6ba-a9d5c12c18ca/download/case_rate_age_20211005.csv
 - format: CSV
-  name: CSV
+  name: 'Number and Rate of Positive COVID-19 Cases in Pregnancy By Deprivation '
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/72bc7a85-d0aa-4629-b3b5-83dedd3885a8/download/case_rate_simd_20211006.csv
 - format: CSV
-  name: CSV
+  name: Number and Rate of Positive COVID-19 Cases in Pregnancy By Health Board
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/2dca5eb6-8d9f-4931-b72b-1bdd1366febc/download/case_rate_hb_20211006.csv
 schema: default
 title: COVID-19 Infections in Pregnancy in Scotland

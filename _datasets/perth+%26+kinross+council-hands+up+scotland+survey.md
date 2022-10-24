@@ -20,10 +20,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/hands-up-scotland-survey
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Analysis by Travel Mode Perth and Kinross
   url: https://data.pkc.gov.uk/dataset/b7473a77-cd94-459a-92d8-7e0710e303e7/resource/4771a517-2049-4dc3-93bc-fe08075f6472/download/analysis-by-travel-mode-perth-and-kinross.csv
 - format: CSV
-  name: CSV
+  name: Responses by school type Perth and Kinross plus National.csv
   url: https://data.pkc.gov.uk/dataset/b7473a77-cd94-459a-92d8-7e0710e303e7/resource/971e7bd6-13df-4beb-872b-d73717172893/download/responses-by-school-type-perth-and-kinross-plus-national.csv
 schema: default
 title: Hands Up Scotland Survey

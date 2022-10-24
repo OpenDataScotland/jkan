@@ -19,16 +19,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-cervical-s
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Cervical Screening Uptake
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/7191190e-2ebd-47e4-bbca-a1eb3182408a/download/open-data-cervical-screening-uptake-201617-202021.csv
 - format: CSV
-  name: CSV
+  name: Workload Statistics
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/f79671d8-e271-4e63-9d63-4fed6c63cb50/download/open-data-workload-statistics-201213-202021.csv
 - format: CSV
-  name: CSV
+  name: Cervical Screening Uptake 1997/98 - 2015/16
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/86493971-19a8-4c47-876e-cbbe7c978210/download/open-data-cervical-screening-uptake-199798-201516.csv
 - format: CSV
-  name: CSV
+  name: Workload Statistics 2007/08 - 2011/12
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/bfa18049-4397-4169-b84f-0466cd6401f7/download/open-data-workload-statistics-200708-201112.csv
 schema: default
 title: Scottish Cervical Screening Programme Statistics

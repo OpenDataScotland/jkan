@@ -14,7 +14,7 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-public-lib
 records: null
 resources:
 - format: MS EXCEL
-  name: MS EXCEL
+  name: 'Monifieth Public Library Consultation '
   url: http://opendata.angus.gov.uk/dataset/1d49f9cb-b983-468e-add4-6820f5e0f664/resource/9cdf66b5-7b71-49d2-bfcd-d8819cfb6f0d/download/monifieth-public-library-consultation-open-data.xlsx
 schema: default
 title: Monifieth Public Library Consultation

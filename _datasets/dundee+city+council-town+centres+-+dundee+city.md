@@ -15,7 +15,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-dc'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Town Centres
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 schema: default
 title: Town Centres - Dundee City

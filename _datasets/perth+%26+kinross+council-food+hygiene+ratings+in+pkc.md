@@ -13,7 +13,7 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/food-standards-scotland-f
 records: null
 resources:
 - format: XML
-  name: XML
+  name: Perth and Kinross - Food Hygiene Data
   url: http://ratings.food.gov.uk/OpenDataFiles/FHRS786en-GB.xml
 schema: default
 title: Food Hygiene Ratings in PKC

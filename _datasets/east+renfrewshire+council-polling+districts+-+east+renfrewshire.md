@@ -35,16 +35,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: East Renfrewshire Polling Districts - 2017
   url: https://data.spatialhub.scot/dataset/9123d4e8-12dc-4475-b5f1-b1fac75634f5/resource/f4f0c8fb-3af2-4db7-a3bb-5b1003a1b309/download/er-polling-districts-2017.zip
 - format: ZIP
-  name: ZIP
+  name: East Ren Polling Districts 2019
   url: https://data.spatialhub.scot/dataset/9123d4e8-12dc-4475-b5f1-b1fac75634f5/resource/24bd853d-7997-454f-9d46-f2c5397a15d7/download/east_renfrewshire_polling_districts_november_2019.zip
 - format: ZIP
-  name: ZIP
+  name: East Renfrewshire Polling Districts - 2019
   url: https://data.spatialhub.scot/dataset/9123d4e8-12dc-4475-b5f1-b1fac75634f5/resource/48d3eab3-09e1-4da7-9ecd-610e908ba202/download/east_renfrewshire_polling_districts_2019.zip
 - format: ZIP
-  name: ZIP
+  name: ERC Polling Districts - 2021
   url: https://data.spatialhub.scot/dataset/9123d4e8-12dc-4475-b5f1-b1fac75634f5/resource/c56656b7-4425-48b8-8f8e-b17defb927f5/download/erc-polling-districts.zip
 schema: default
 title: Polling Districts - East Renfrewshire

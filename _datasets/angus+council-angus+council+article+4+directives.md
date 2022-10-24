@@ -14,13 +14,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-articl
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Article 4 Directives
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_art4dir/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Article 4 Directions
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_art4dir&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Article 4 Directions
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_art4dir&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Article 4 Directives

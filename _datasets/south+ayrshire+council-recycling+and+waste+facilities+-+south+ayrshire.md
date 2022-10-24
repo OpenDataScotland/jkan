@@ -17,7 +17,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_wast
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Historic landfill sites
   url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
 schema: default
 title: Recycling And Waste Facilities - South Ayrshire

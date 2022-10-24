@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-12-10'
 date_updated: '2022-07-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Forestry
 notes: "<p>This is a non-spatial table.  It contains data on Scottish Forestry Grant\
   \ Scheme (SFGS) Management Plans that can be related to the SFGS Management Plans\

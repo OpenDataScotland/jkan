@@ -34,16 +34,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-hi'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/4470f4c9-b0ee-4f73-a40f-7e427ca65b0f/resource/352df361-7556-4825-86c5-7d1832b0f43f/download/pollingplaces.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places in Highland Nov 2019
   url: https://data.spatialhub.scot/dataset/4470f4c9-b0ee-4f73-a40f-7e427ca65b0f/resource/6b5bce17-010a-4e43-943d-202b00bdaf90/download/polling_places_highland.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/4470f4c9-b0ee-4f73-a40f-7e427ca65b0f/resource/fe386e79-e086-4733-94b6-1ed08541113d/download/polling_places_highland_26nov2019.zip
 - format: REST
-  name: REST
+  name: Polling Places
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PollingPlaces/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Polling Places - Highland

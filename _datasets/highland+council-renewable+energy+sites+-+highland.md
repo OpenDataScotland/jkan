@@ -14,7 +14,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/renewable_energy_s
 records: null
 resources:
 - format: MS EXCEL
-  name: MS EXCEL
+  name: Renewable Energy Sites Points
   url: https://data.spatialhub.scot/dataset/0c903180-1778-4507-a486-9b07a1757f13/resource/88af8062-8394-42b8-8a9b-204311156fcf/download/download_turbines_2022v1.xlsx
 schema: default
 title: Renewable Energy Sites - Highland

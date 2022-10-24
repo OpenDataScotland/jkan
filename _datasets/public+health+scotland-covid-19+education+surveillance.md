@@ -31,28 +31,28 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-education-
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Cases among Children
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/7caee5e0-d1bf-46fa-87e0-bfd7197b315e/download/cases_among_children_data.csv
 - format: CSV
-  name: CSV
+  name: Tests among Children
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/ee094a26-d085-4cc5-ac6c-f3930a7c71c7/download/tests_among_children_data.csv
 - format: CSV
-  name: CSV
+  name: Hospital Admissions
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/2b631540-1bcf-4d3a-9244-131e1a650051/download/admissions_data.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing in Educational Settings
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/0c9428bc-76d0-4420-b05a-9849c1e68372/download/cms_educational_setting_data.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing in Education and Childcare
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/bf847bab-16fc-4646-8b36-f311a18ff10a/download/cms_occupational_sector_data.csv
 - format: CSV
-  name: CSV
+  name: Contact Tracing - Completeness
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/866f1e8a-ddca-40f7-9437-6959b97e1e97/download/cms_completeness_data.csv
 - format: CSV
-  name: CSV
+  name: Rates by Age Group
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/d0ae885c-cfbe-4ca2-9bfd-0e385092e003/download/rates_by_age_group.csv
 - format: CSV
-  name: CSV
+  name: Cases in registered school pupils
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/b4b602e6-8142-4055-8894-54a23c655f0b/download/schools_data_0_1_2.csv
 schema: default
 title: COVID-19 Education Surveillance

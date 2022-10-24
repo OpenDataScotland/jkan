@@ -3,7 +3,7 @@ category:
 - Education
 date_created: ''
 date_updated: '2018-02-14'
-license: 'Custom licence: Open Government'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
 organization: Aberdeenshire Council

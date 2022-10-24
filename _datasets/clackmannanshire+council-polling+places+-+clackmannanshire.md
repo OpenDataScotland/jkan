@@ -34,16 +34,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-cl'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/b57d1266-2522-4467-82d0-e231ae257bec/download/polling-places.gpkg
 - format: ZIP
-  name: ZIP
+  name: Clacks Polling Places
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/94bcbc90-57e7-466a-8aac-b9ee05fd0e06/download/polling-places.zip
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/23442a12-b469-432b-9fd8-467ef94ca8e4/download/spatialhubpollingplaces.gpkg
 - format: No file type
-  name: No file type
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/5d38dcd0-dbe5-44f0-8132-6f2867b8e189/download/clacks_pollingplaces.gpkg
 schema: default
 title: Polling Places - Clackmannanshire

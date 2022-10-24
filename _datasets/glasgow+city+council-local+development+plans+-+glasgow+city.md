@@ -16,10 +16,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Glasgow City Development Plan (CDP)
   url: https://data.spatialhub.scot/dataset/8270b8d0-1b8c-4693-9a8e-02bc150efb6a/resource/eed73eae-5c73-4d12-967c-7fb45b93f498/download/cpd.zip
 - format: WFS
-  name: WFS
+  name: City Development Plan Layers
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Development Plans - Glasgow City

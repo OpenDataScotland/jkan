@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2014-07-29'
 date_updated: '2016-02-10'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Number of people claiming Attendance Allowance by age, gender and rate of
   award</p>

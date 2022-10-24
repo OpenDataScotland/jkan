@@ -15,7 +15,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Green Belts '
   url: https://geo.spatialhub.scot/geoserver/sh_grnblt/wfs?service=wfs&typeName=sh_grnblt:pub_grnblt
 schema: default
 title: Green Belt - Scotland

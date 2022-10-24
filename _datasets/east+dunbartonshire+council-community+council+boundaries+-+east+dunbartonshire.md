@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: East Dunbarthonshire Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/98073b67-ddc3-482c-adfa-8e1a41dbbc28/resource/f95f1c4e-be34-43a5-975c-397c2ce1cd0f/download/community-council-boundaries.zip
 schema: default
 title: Community Council Boundaries - East Dunbartonshire

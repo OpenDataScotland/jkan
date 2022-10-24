@@ -22,10 +22,10 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-beds-infor
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Beds by Board of Treatment and Specialty
   url: https://www.opendata.nhs.scot/dataset/554b0e7a-ccac-4bb6-82db-1a8b306fcb36/resource/f272bb7d-5320-4491-84c1-614a2c064007/download/beds_by_nhs_board_of_treatment_and_specialty.csv
 - format: CSV
-  name: CSV
+  name: Publication Notes
   url: https://www.opendata.nhs.scot/dataset/554b0e7a-ccac-4bb6-82db-1a8b306fcb36/resource/25bdc37b-4a77-4ff8-9b3a-edaba6e1c613/download/notes.csv
 schema: default
 title: Beds Information in Scotland

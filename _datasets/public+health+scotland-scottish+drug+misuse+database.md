@@ -17,16 +17,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-drug-misus
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: SDMD By Health Board and Demographics
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/e096573f-b828-4e8d-abf2-84f94345a751/download/demographics_sdmd_healthboard.csv
 - format: CSV
-  name: CSV
+  name: SDMD By Council Area and Demographics
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/72cb44e7-0b8f-48a8-b653-eb124be4baca/download/demographics_sdmd_council.csv
 - format: CSV
-  name: CSV
+  name: SDMD By Health Board and Treatment Group
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/aebb18ee-40c3-4520-9521-d0800e749567/download/treatment_group_sdmd_healthboard.csv
 - format: CSV
-  name: CSV
+  name: SDMD By Council Area and Treatment Group
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/d5ffbfe1-12d1-4d58-8a49-a32b8c3356a5/download/treatment_group_sdmd_council.csv
 schema: default
 title: Scottish Drug Misuse Database

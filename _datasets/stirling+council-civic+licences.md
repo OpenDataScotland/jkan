@@ -14,7 +14,7 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/civic-licences
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Current Civic Licences
   url: https://data.stirling.gov.uk/dataset/e6f17324-3397-49a5-9c3f-72ae586d0027/resource/2268be0e-aefc-455b-a642-7d3d58719eba/download/20221003-stirling-council-civic-licences-as-at-03.10.2022.csv
 schema: default
 title: Civic Licences

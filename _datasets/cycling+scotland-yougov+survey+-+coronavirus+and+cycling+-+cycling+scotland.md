@@ -14,7 +14,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: MS EXCEL
-  name: MS EXCEL
+  name: Results for Cycling Scotland (Cornavirus and Cycling) 20 22.5.2020.xlsx
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e94ed0c1-f963-4e21-afc4-75ac1badb18b
 schema: default
 title: YouGov survey - Coronavirus and cycling - Cycling Scotland

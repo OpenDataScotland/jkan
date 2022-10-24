@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2019-04-23'
 date_updated: '2022-08-25'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: '<p>Covering the period 1998-2018, these tables provide a complete picture
   of the flows of products in the Scottish onshore economy for a given year. </p>

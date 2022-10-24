@@ -15,10 +15,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-gc'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Town Centres
   url: https://data.spatialhub.scot/dataset/73d6777b-195d-455d-abff-0d46b2cb52b1/resource/5f303f97-7e0c-417b-9919-8f58e70990d0/download/glasgow_towncentres.zip
 - format: WFS
-  name: WFS
+  name: Network of centres
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Town Centres - Glasgow City

@@ -3,7 +3,7 @@ category:
 - Public Safety
 date_created: '2021-09-13'
 date_updated: '2021-12-06'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Number of incidents of domestic abuse recorded and rates per 10,000 population.</p>
 organization: Scottish Government

@@ -15,10 +15,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_regi
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Angus Council owned sites
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 - format: No file type
-  name: No file type
+  name: Properties owned by Angus Council
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Council Asset Register - Angus

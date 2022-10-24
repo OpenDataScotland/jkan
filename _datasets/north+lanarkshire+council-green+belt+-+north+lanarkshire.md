@@ -37,7 +37,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-nl'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Green Belt
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Green Belt - North Lanarkshire

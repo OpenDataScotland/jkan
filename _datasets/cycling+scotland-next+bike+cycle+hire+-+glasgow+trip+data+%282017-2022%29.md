@@ -12,13 +12,13 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=bf321937-a6eb-4ff7-908d-2a2fc459c8ce
 - format: JSON
-  name: JSON
+  name: Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=42785e38-d42a-48da-a318-1eb378e7fb0b
 - format: XML
-  name: XML
+  name: Next Bike Cycle Hire - Glasgow Trip Data (2017-2022).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3f64ce49-f421-4692-9577-2f06428ca1c1
 schema: default
 title: Next Bike Cycle Hire - Glasgow Trip Data (2017-2022)

@@ -18,16 +18,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Car Parking: Car Parks (points) '
   url: https://geo.spatialhub.scot/geoserver/sh_crpk/wfs?service=wfs&typeName=sh_crpk:pub_crpkcppnt
 - format: WFS
-  name: WFS
+  name: 'Car Parking: Car Parks (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_crpk/wfs?service=wfs&typeName=sh_crpk:pub_crpkcppol
 - format: WFS
-  name: WFS
+  name: 'Car Parking: Parking Bays (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_crpk/wfs?service=wfs&typeName=sh_crpk:pub_crpkpbpol
 - format: WFS
-  name: WFS
+  name: 'Car Parking: Parking Zones '
   url: https://geo.spatialhub.scot/geoserver/sh_crpk/wfs?service=wfs&typeName=sh_crpk:pub_crpkpz
 schema: default
 title: Car Parking - Scotland

@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Angus Community Council Boundaries
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Community Council Boundaries - Angus

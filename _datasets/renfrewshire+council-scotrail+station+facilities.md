@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2018-05-11'
 date_updated: '2018-05-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Renfrewshire Council
 notes: "<p>Extract of data taken from the\_Disabled Person Protection Policy. Data\
   \ details the access for wheelchairs or disabled people when using rails stations.\_\

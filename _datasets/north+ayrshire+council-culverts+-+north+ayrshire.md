@@ -56,7 +56,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-na'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Culverts
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS?
 schema: default
 title: Culverts - North Ayrshire

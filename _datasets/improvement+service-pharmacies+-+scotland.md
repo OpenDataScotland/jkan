@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/pharmacies-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Pharmacies '
   url: https://geo.spatialhub.scot/geoserver/sh_pharm/wfs?service=wfs&typeName=sh_pharm:pub_pharm
 schema: default
 title: Pharmacies - Scotland

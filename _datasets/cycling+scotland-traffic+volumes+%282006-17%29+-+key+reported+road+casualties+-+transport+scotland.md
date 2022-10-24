@@ -12,13 +12,13 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38a45d25-229c-4b9d-bb85-dc39cde90a21
 - format: CSV
-  name: CSV
+  name: Traffic volumes 2006 - 2017 (in million vehicle kilometres).csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b7830c94-e9d0-4719-86c7-23650c752050
 - format: XML
-  name: XML
+  name: Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e80be9f4-251a-4ae0-b8e8-c776393e1df0
 schema: default
 title: Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland

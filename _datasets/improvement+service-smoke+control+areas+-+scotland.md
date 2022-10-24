@@ -20,7 +20,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_area
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Smoke Control Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_sca/wfs?service=wfs&typeName=sh_sca:pub_sca
 schema: default
 title: Smoke Control Areas - Scotland

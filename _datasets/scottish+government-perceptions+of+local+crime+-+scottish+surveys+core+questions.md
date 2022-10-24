@@ -3,7 +3,7 @@ category:
 - Public Safety
 date_created: '2016-11-30'
 date_updated: '2021-03-16'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Perceptions of the local crime rate by tenure, household type, sex and disability.
   The Scottish Survey Core Questions is an innovative project drawing together multiple

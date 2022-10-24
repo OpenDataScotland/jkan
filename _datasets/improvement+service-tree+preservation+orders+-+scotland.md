@@ -31,10 +31,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Tree Preservation Orders: Points '
   url: https://geo.spatialhub.scot/geoserver/sh_tpo/wfs?service=wfs&typeName=sh_tpo:pub_tpopnt
 - format: WFS
-  name: WFS
+  name: 'Tree Preservation Orders: Polygons '
   url: https://geo.spatialhub.scot/geoserver/sh_tpo/wfs?service=wfs&typeName=sh_tpo:pub_tpopol
 schema: default
 title: Tree Preservation Orders - Scotland

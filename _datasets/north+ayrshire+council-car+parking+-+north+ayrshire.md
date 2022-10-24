@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-na'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Car Parks
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
 title: Car Parking - North Ayrshire

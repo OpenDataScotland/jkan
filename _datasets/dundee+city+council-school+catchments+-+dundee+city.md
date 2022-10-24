@@ -40,16 +40,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Non-denom primary catchments
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Denom primary catchments
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Non-denom secondary catchments
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
 - format: WFS
-  name: WFS
+  name: Denom secondary catchments
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
 schema: default
 title: School Catchments - Dundee City

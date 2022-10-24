@@ -28,19 +28,19 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Core Paths
   url: https://data.spatialhub.scot/dataset/d3b0b4e7-425d-48a2-b2be-b3a6e73fc8ff/resource/faaad279-812c-4ff6-aac1-a21e8af523a1/download/core_paths.shp
 - format: ZIP
-  name: ZIP
+  name: Highland Council Core Paths
   url: https://data.spatialhub.scot/dataset/d3b0b4e7-425d-48a2-b2be-b3a6e73fc8ff/resource/349ddc0b-0b3b-449c-9aa2-b9ec13784776/download/core_paths.zip
 - format: ZIP
-  name: ZIP
+  name: 'The Highland Council Core Paths '
   url: https://data.spatialhub.scot/dataset/d3b0b4e7-425d-48a2-b2be-b3a6e73fc8ff/resource/d0c883a9-c153-435a-999f-47ebd71319a5/download/highland-core-paths-zipped.zip
 - format: QGIS Shapefile
-  name: QGIS Shapefile
+  name: Core Paths Highland
   url: https://data.spatialhub.scot/dataset/d3b0b4e7-425d-48a2-b2be-b3a6e73fc8ff/resource/9b49d4ca-8200-4f1a-a32e-f45e0000e6aa/download/core_paths.shp
 - format: REST
-  name: REST
+  name: Core Paths
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Paths And Core Paths - Highland

@@ -40,7 +40,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_tr
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Community Asset Transfer Register
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Community Asset Transfer Register - Angus

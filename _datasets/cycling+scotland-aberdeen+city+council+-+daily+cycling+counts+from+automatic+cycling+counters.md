@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2021-09-25'
 date_updated: '2021-11-16'
-license: https://opendatacommons.org/licenses/odbl/
+license: 'Custom licence: http://opendatacommons.org/licenses/odbl/1-0/'
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within Aberdeen City
   Council's network."</p>
@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/d0717679-21fb-4274-a9d3-f973cfb5b7ff/1/urql
 schema: default
 title: Aberdeen City Council - Daily cycling counts from automatic cycling counters

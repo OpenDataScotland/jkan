@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2021-06-17'
-date_updated: '2022-10-20'
+date_updated: '2022-10-21'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>This dataset contains areas classified by their suitability for onshore
@@ -36,7 +36,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/wind_turbine_spati
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Wind Turbine Spatial Framework '
   url: https://geo.spatialhub.scot/geoserver/sh_wtsf/wfs?service=wfs&typeName=sh_wtsf:pub_wtsf
 schema: default
 title: Wind Turbine Spatial Framework - Scotland

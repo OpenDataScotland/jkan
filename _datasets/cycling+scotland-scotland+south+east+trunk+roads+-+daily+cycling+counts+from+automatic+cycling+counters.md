@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/14c49f20-0a69-4196-b39a-832a8e28ad7b/1/urql
 schema: default
 title: Scotland South East Trunk Roads - Daily cycling counts from automatic cycling

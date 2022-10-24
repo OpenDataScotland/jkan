@@ -21,13 +21,13 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/waste-management
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Domestic Waste Collections for 2018
   url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/1dc20298-7291-4937-ad19-6e66566b8d6c/download/20190322-waste-management-january-to-december-2018.csv
 - format: CSV
-  name: CSV
+  name: Domestic Waste Collections for 2019
   url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/d5fa214b-1cd3-4b4d-9624-f91e302ba1d2/download/20200116-waste-management-january-to-december-2019.csv
 - format: CSV
-  name: CSV
+  name: Domestic Waste Collections for 2020
   url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/22683cc9-d7fc-4a87-8001-c9dc4e4e4a62/download/20210115-waste-management-january-to-december-2020.csv
 schema: default
 title: Waste Management (2018 to 2020, inclusive)

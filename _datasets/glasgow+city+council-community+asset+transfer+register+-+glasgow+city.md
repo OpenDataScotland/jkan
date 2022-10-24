@@ -40,16 +40,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_tr
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Glasgow Community_Asset_Register
   url: https://data.spatialhub.scot/dataset/856db48f-5912-43c3-a331-25d883d2ad1b/resource/b476c865-ea21-4ed5-b008-9dabde5c691e/download/glasgow-community_asset_register_v1_2.csv
 - format: CSV
-  name: CSV
+  name: CATR July 2021
   url: https://data.spatialhub.scot/dataset/856db48f-5912-43c3-a331-25d883d2ad1b/resource/ec5ed39d-2d92-4265-bb48-917068ddf602/download/community_asset_register_v1_3.csv
 - format: ZIP
-  name: ZIP
+  name: CAR
   url: https://data.spatialhub.scot/dataset/856db48f-5912-43c3-a331-25d883d2ad1b/resource/dfc7da89-c9b1-478b-b425-8795442202f7/download/community_asset_register_properties.zip
 - format: WFS
-  name: WFS
+  name: Community Asset Register
   url: https://utility.arcgis.com/usrsvcs/servers/8feb8ec7d3d4468fb957e37043a3deee/services/OPEN_DATA/Community_asset_register_properties/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Asset Transfer Register - Glasgow City

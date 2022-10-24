@@ -25,19 +25,19 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/scotpho-life-expecta
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: 'Estimated Life Expectancy at Birth: 2014'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/b5744af3-eab3-4890-8084-a3972c658e66/download/20220602-stirling-life-expectancy-by-intermediate-zone-2014.csv
 - format: CSV
-  name: CSV
+  name: 'Estimated Life Expectancy at Birth: 2015'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/0443cbe0-de32-4dc7-a567-52a0318c4550/download/20220602-stirling-life-expectancy-by-intermediate-zone-2015.csv
 - format: CSV
-  name: CSV
+  name: 'Estimated Life Expectancy at Birth: 2016'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/636ae298-275e-4d88-9ef9-3d3dc2e8bf0d/download/20220602-stirling-life-expectancy-by-intermediate-zone-2016.csv
 - format: CSV
-  name: CSV
+  name: 'Estimated Life Expectancy at Birth: 2017'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/9d968468-24f3-4212-b40a-82d3bacc3c09/download/20220602-stirling-life-expectancy-by-intermediate-zone-2017.csv
 - format: CSV
-  name: CSV
+  name: 'Estimated Life Expectancy at Birth: 2018'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/0508fb93-75b1-46cf-ae1a-5a951525500a/download/20220602-stirling-life-expectancy-by-intermediate-zone-2018.csv
 schema: default
 title: 'ScotPHO: Life Expectancy by Intermediate Zone'

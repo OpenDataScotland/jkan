@@ -20,16 +20,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'School Catchments: Primary denominational (PD) '
   url: https://geo.spatialhub.scot/geoserver/sh_schl/wfs?service=wfs&typeName=sh_schl:pub_schlpd
 - format: WFS
-  name: WFS
+  name: 'School Catchments: Primary non-denominational (PN) '
   url: https://geo.spatialhub.scot/geoserver/sh_schl/wfs?service=wfs&typeName=sh_schl:pub_schlpn
 - format: WFS
-  name: WFS
+  name: 'School Catchments: Secondary denominational (SD) '
   url: https://geo.spatialhub.scot/geoserver/sh_schl/wfs?service=wfs&typeName=sh_schl:pub_schlsd
 - format: WFS
-  name: WFS
+  name: 'School Catchments: Secondary non-denominational (SN) '
   url: https://geo.spatialhub.scot/geoserver/sh_schl/wfs?service=wfs&typeName=sh_schl:pub_schlsn
 schema: default
 title: School Catchments - Scotland

@@ -22,10 +22,10 @@ original_dataset_link: https://data.aberdeencity.gov.uk/dataset/cemeteries
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: CemeteryLocations_CSV.csv
   url: https://data.aberdeencity.gov.uk/dataset/ebced524-379a-4282-893d-e3bff180ddd8/resource/eb210854-f99e-450f-863d-b0c6a332a174/download/cemeterylocations_csv.csv
 - format: MS EXCEL
-  name: MS EXCEL
+  name: CemeteryLocations_spreadsheet.xlsx
   url: https://data.aberdeencity.gov.uk/dataset/ebced524-379a-4282-893d-e3bff180ddd8/resource/3ed677ce-c456-4df5-b4f5-1ee30fce5921/download/cemeterylocations_spreadsheet.xlsx
 schema: default
 title: Cemeteries and Burial Grounds

@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelic
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Vacant and Derelict Land '
   url: https://geo.spatialhub.scot/geoserver/sh_vdl/wfs?service=wfs&typeName=sh_vdl:pub_vdl
 schema: default
 title: Vacant and Derelict Land - Scotland

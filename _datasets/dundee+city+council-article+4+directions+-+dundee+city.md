@@ -26,7 +26,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directio
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Article 4 directions
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 schema: default
 title: Article 4 Directions - Dundee City

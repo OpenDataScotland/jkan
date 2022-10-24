@@ -16,10 +16,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-na
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Proposed cycle path
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS?
 - format: No file type
-  name: No file type
+  name: Spatial Hub WFS - Cycle Routes
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Cycling Network - North Ayrshire

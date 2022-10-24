@@ -40,10 +40,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: School Catchments
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
-  name: ZIP
+  name: Edinburgh School Catchments
   url: https://data.spatialhub.scot/dataset/90e092d9-7d13-4694-9cef-0b59b33a393a/resource/57485782-a90f-4674-a7fd-365975a95f38/download/edinburgh-school-catchments-20190131.zip
 schema: default
 title: School Catchments - City of Edinburgh

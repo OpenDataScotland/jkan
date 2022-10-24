@@ -11,13 +11,13 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: Class Sizes.json
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=74a0bbbf-55f8-4ccf-83f9-388b93b219e9
 - format: CSV
-  name: CSV
+  name: Class Sizes.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e42a8889-9106-41ee-9d0c-cb22e81fe69d
 - format: XML
-  name: XML
+  name: Class Sizes.xml
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=b3f0b67b-7d62-4f94-a99b-e12105d36483
 schema: default
 title: Class Sizes

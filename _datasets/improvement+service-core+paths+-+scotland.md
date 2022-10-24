@@ -23,7 +23,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/core_paths-is'
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Core Paths '
   url: https://geo.spatialhub.scot/geoserver/sh_cpth/wfs?service=wfs&typeName=sh_cpth:pub_cpth
 schema: default
 title: Core Paths - Scotland

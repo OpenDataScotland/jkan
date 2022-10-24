@@ -22,7 +22,7 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/cemetery-records
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: 'Burial Records: October 2022'
   url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/20221003-stirling-council-burial-records-as-at-01.10.2022.csv
 schema: default
 title: Cemeteries

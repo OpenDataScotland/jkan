@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-04-18'
 date_updated: '2019-04-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Renfrewshire Council
 notes: "<p>Babies' first forenames by Council area, 2018 based on the records for\
   \ all the births which were registered in that year -\_filtered for Renfrewshire.\_\

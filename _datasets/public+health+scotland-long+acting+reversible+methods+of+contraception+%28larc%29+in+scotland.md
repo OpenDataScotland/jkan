@@ -19,13 +19,13 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/long-acting-reversi
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: LARC By Age Group
   url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/a2e1e94c-9e39-480e-9644-c6d380ae9dea/download/larc_by_agegroup_2022.csv
 - format: CSV
-  name: CSV
+  name: LARC By Health Board
   url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/b351cf55-fdd4-424e-a413-956612756e84/download/larc_by_hb_2022.csv
 - format: CSV
-  name: CSV
+  name: LARC By Deprivation
   url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/bec034bb-d3c4-41dc-9449-436780d3f71f/download/larc_by_deprivation_2022.csv
 schema: default
 title: Long Acting Reversible Methods of Contraception (LARC) in Scotland

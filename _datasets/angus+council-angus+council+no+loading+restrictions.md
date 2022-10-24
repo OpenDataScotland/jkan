@@ -12,13 +12,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-no-loa
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council No Loading restrictions
   url: http://data.angus.gov.uk/geoserver/services/services:no_loading/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Angus Council No Loading restrictions
   url: http://data.angus.gov.uk/geoserver/services/wms/kml?layers=services:no_loading&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Angus Council No Loading Restrictions
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services:no_loading&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council No Loading Restrictions

@@ -13,13 +13,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-winter
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council Winter Gritting Routes
   url: http://data.angus.gov.uk/geoserver/inspire/inspire:rds_grittingroutes/wms?service=WMS&request=GetMap
 - format: KML
-  name: KML
+  name: KML for Angus Council Winter Gritting Routes
   url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:rds_grittingroutes&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Angus Council Winter Gritting Routes
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:rds_grittingroutes&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council Winter Gritting Routes

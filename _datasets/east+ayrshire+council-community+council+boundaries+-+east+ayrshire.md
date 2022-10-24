@@ -25,10 +25,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/d6301087-4ebb-46d2-ba97-c4c89634a7e0/resource/d37319b6-4c60-466e-8de4-48c6ab395ee3/download/community-council-boundaries.zip
 - format: No file type
-  name: No file type
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/d6301087-4ebb-46d2-ba97-c4c89634a7e0/resource/89ab6574-6f06-4ff6-b967-5409348a315c/download/commc.zip
 schema: default
 title: Community Council Boundaries - East Ayrshire

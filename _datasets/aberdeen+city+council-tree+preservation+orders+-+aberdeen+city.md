@@ -39,31 +39,31 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders (Polygons)
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/d7af135f-834d-498a-805e-98a09c8f1f71/download/acctpopoly.zip
 - format: ZIP
-  name: ZIP
+  name: 'ACC Tree Preservation Orders '
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/826429e0-b83c-4138-b23d-37c8be8637c9/download/acctpo1217.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/dbcea4fe-0b0c-4b00-9174-1322ec059859/download/tree_preservation_orders.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/1cd69bec-2f69-4bcd-afdd-c04e5994ca4e/download/tpos.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/fbc42f98-f2ff-49ed-abdc-ac8da9dfd763/download/tree_preservation_orders.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/787f5c2e-b880-485d-9054-d97e9eb56d32/download/tpos.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/04d5204b-db9c-4ccd-a540-63936b844250/download/tpos.zip
 - format: ZIP
-  name: ZIP
+  name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/8e24ad15-3118-47a6-b2d7-ddf92ea56511/download/tpo.zip
 - format: REST
-  name: REST
+  name: Tree Preservation Orders
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Tree_Preservation_Orders/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Tree Preservation Orders - Aberdeen City

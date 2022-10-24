@@ -22,7 +22,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Community Council Boundaries '
   url: https://geo.spatialhub.scot/geoserver/sh_commcnc/wfs?service=wfs&typeName=sh_commcnc:pub_commcnc
 schema: default
 title: Community Council Boundaries - Scotland

@@ -28,10 +28,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Angus Conservation Areas 2016
   url: https://data.spatialhub.scot/dataset/c4c39722-1ddb-4ae8-8804-4c0b93320600/resource/aba92111-232c-43c4-a9ea-47159644f8f4/download/angusconservationareas.zip
 - format: No file type
-  name: No file type
+  name: Conservation Areas in Angus Council
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
 title: Conservation Areas - Angus

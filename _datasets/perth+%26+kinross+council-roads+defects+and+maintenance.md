@@ -15,10 +15,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/roads-defects
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Roads defects open data 2018-19 financial year.csv
   url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/5425064c-da6e-471b-9ead-f9d8b2cd143e/download/roads-defects-open-data-2018-19-financial-year.csv
 - format: PDF
-  name: PDF
+  name: Road Safety Inspection and Defect Categorisation Policy
   url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/f899908c-77ff-4a64-aed8-c1b712c5deca/download/road-defects-policy-doc-pkc.pdf
 schema: default
 title: Roads defects and maintenance

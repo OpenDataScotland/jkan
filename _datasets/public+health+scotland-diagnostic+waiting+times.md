@@ -17,16 +17,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/diagnostic-waiting-
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Waiting Times by Health Board
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/10dfe6f3-32de-4039-84c2-7e7794a06b31/download/diagnostics_by_board_june_2022.csv
 - format: CSV
-  name: CSV
+  name: Waiting Times at Scotland Level
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/df75544f-4ba1-488d-97c7-30ab6258270d/download/diagnostics_scotland_june_2022.csv
 - format: CSV
-  name: CSV
+  name: '2007 - 2019: Waiting Times by Health Board '
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/624e2299-f28f-4e7b-a4f6-a33ef14ac04c/download/diagnostics_by_board_march_2019.csv
 - format: CSV
-  name: CSV
+  name: '2007 - 2019: Waiting Times At Scotland Level'
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/d61e6e61-3fa6-4b14-8312-2c76d17094bb/download/diagnostics_scotland_march_2019.csv
 schema: default
 title: Diagnostic Waiting Times

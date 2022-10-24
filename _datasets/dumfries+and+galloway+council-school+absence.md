@@ -11,10 +11,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: authorised_unauthorised_Exclusion_AbsenceRates.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=3dcfc9aa-b1eb-41f7-8385-1ccfa420e303
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/343e83eb-7841-4eb5-a73a-61047ee6d823/1/urql
 schema: default
 title: School Absence

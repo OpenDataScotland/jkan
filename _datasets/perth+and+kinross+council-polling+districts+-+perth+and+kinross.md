@@ -35,37 +35,37 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Parliamentary Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/6bc50005-4790-44d8-8d91-7931ddcb2abf/download/ppd2016dec.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/4266eafb-92fd-4190-9398-7b34691cd771/download/pkcppd2016dec.zip
 - format: ZIP
-  name: ZIP
+  name: Parliamentary Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/1b6e6dfe-f5b1-47d2-8c47-3f331d606e70/download/parliamentarypollingdistricts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/15a54c16-d24c-467b-9b0e-e8360c8fedc5/download/ppd_2019_jul.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/4e056a65-b43a-449d-94d7-3bf9a4c299ab/download/ppd_2019_aug20.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/b97cad3e-dfff-484b-8963-fd22e5b57945/download/polling_districts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/91cb6984-b922-475b-86dc-9f686e5e074e/download/parliamentary_polling_districts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Places
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/d2b97933-784c-4749-8b51-b8cbbaa37711/download/parliamentary_polling_districts.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/ac85444f-b472-4230-ad4a-bd965902ea39/download/polling_districts.zip
 - format: REST
-  name: REST
+  name: Polling Districts
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer
 - format: REST
-  name: REST
+  name: Polling Districts
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer
 schema: default
 title: Polling Districts - Perth and Kinross

@@ -12,13 +12,13 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-no-wai
 records: null
 resources:
 - format: WMS
-  name: WMS
+  name: WMS for Angus Council No Waiting Restrictions
   url: http://data.angus.gov.uk/geoserver/services/services:no_waiting/wms?
 - format: KML
-  name: KML
+  name: KML for Angus Council No Waiting Restrictions
   url: http://data.angus.gov.uk/geoserver/services/wms/kml?layers=services:no_waiting&mode=download
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON for Angus Council No Waiting Restrictions
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services:no_waiting&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
 title: Angus Council No Waiting Restrictions

@@ -22,10 +22,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supp
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Private Water Supply Properties '
   url: https://geo.spatialhub.scot/geoserver/sh_pws/wfs?service=wfs&typeName=sh_pws:pub_pwsp
 - format: WFS
-  name: WFS
+  name: 'Private Water Supply Sources '
   url: https://geo.spatialhub.scot/geoserver/sh_pws/wfs?service=wfs&typeName=sh_pws:pub_pwss
 schema: default
 title: Private Water Supply - Scotland

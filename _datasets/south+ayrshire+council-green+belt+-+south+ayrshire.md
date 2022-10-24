@@ -37,7 +37,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-sa'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Green Belt
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Green Belt - South Ayrshire

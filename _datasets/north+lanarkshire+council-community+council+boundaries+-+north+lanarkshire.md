@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: N. Lanarkshire community councils
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
 schema: default
 title: Community Council Boundaries - North Lanarkshire

@@ -28,7 +28,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Conservation Areas
   url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
 schema: default
 title: Conservation Areas - South Ayrshire

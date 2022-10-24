@@ -25,7 +25,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/54c176fc-9c7b-44ac-80a7-a940ba279123/resource/b773f636-e767-46e2-a7c6-eb2a2c32d840/download/inverclyde-community-councils.zip
 schema: default
 title: Community Council Boundaries - Inverclyde

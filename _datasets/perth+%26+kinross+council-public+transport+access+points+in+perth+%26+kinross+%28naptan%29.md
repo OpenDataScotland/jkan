@@ -16,10 +16,10 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/naptan-perth-kinross
 records: null
 resources:
 - format: XML
-  name: XML
+  name: Stops (XML)
   url: http://naptan.app.dft.gov.uk/DataRequest/Naptan.ashx?format=xml&LA=648
 - format: CSV
-  name: CSV
+  name: NaptanStopsPerth.csv
   url: https://data.pkc.gov.uk/dataset/0f2bb8dd-7255-4224-8bbd-9cfe3732d1d6/resource/0ab9c888-6c26-48f6-8941-7c174b73ff76/download/naptanstopsperth.csv
 schema: default
 title: Public transport access points in Perth & Kinross (NaPTAN)

@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_su
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Employment Land Supply '
   url: https://geo.spatialhub.scot/geoserver/sh_els/wfs?service=wfs&typeName=sh_els:pub_els
 schema: default
 title: Employment Land Supply - Scotland

@@ -41,13 +41,13 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/covid-19-wider-impa
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Antenatal bookings by Health Board
   url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd/download/ante_booking_hb_week_20221005.csv
 - format: CSV
-  name: CSV
+  name: Antenatal bookings by Age
   url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/ee22b73d-296d-441d-85f8-4068581efd38/download/ante_booking_age_20221005.csv
 - format: CSV
-  name: CSV
+  name: Antenatal bookings by Deprivation
   url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20221005.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Antenatal Bookings"

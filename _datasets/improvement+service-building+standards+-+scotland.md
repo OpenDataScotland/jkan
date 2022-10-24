@@ -41,16 +41,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: 'Building Standards: Weekly Lists (Points)'
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanweekpnt
 - format: WFS
-  name: WFS
+  name: 'Building Standards: Weekly Lists (Polygons)'
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanweekpol
 - format: WFS
-  name: WFS
+  name: 'Building Standards: Archive (points) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanyearpnt
 - format: WFS
-  name: WFS
+  name: 'Building Standards: Archive (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanyearpol
 schema: default
 title: Building Standards - Scotland

@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_su
 records: null
 resources:
 - format: WFS
-  name: WFS
+  name: Employment Land Supply (Industrial Land)
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Employment Land Supply - North Lanarkshire

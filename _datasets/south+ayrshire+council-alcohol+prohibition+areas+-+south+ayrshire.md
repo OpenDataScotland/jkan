@@ -20,7 +20,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Alcohol_Prohibition_Areas
   url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Alcohol Prohibition Areas - South Ayrshire

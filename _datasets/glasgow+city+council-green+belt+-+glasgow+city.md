@@ -37,10 +37,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-gc'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Green Belt 2016
   url: https://data.spatialhub.scot/dataset/e20fab41-3536-4625-b8ed-7f02c06c051d/resource/90eccdfc-421f-42d6-a291-a5ac94272ab5/download/glasgow_greenbelt.zip
 - format: WFS
-  name: WFS
+  name: Green belt and green network
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Green Belt - Glasgow City

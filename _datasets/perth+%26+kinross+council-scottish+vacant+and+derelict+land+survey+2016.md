@@ -14,13 +14,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/scottish-vacant-and-derel
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: ArcGIS Hub Dataset
   url: https://opendata-pkc.opendata.arcgis.com/maps/b83c58ff1c5e4286990e8643212c146b_1
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: ArcGIS GeoService
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Scottish_Vacant_and_Derelict_Land_2016/FeatureServer/1
 - format: GEOJSON
-  name: GEOJSON
+  name: GeoJSON
   url: https://opendata-pkc.opendata.arcgis.com/datasets/b83c58ff1c5e4286990e8643212c146b_1.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
@@ -29,7 +29,7 @@ resources:
   name: KML
   url: https://opendata-pkc.opendata.arcgis.com/datasets/b83c58ff1c5e4286990e8643212c146b_1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
-  name: ZIP
+  name: Shapefile
   url: https://opendata-pkc.opendata.arcgis.com/datasets/b83c58ff1c5e4286990e8643212c146b_1.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Scottish Vacant and Derelict Land Survey 2016

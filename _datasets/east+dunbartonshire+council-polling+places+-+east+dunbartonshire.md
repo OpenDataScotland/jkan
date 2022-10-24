@@ -34,7 +34,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ed'
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Polling Places - WFS
   url: https://maps.eastdunbarton.gov.uk/arcgis/services/EDC_Map/Polling_and_Political_Info/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Places - East Dunbartonshire

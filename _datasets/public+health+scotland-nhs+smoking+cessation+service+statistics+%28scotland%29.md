@@ -24,16 +24,16 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/nhs-smoking-cessati
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Smoking Cessation by Gender and Age
   url: https://www.opendata.nhs.scot/dataset/cff63b00-5c99-4efd-9ff7-83c4a1a95fe9/resource/a020dc7b-750d-4170-9472-9901a514912b/download/smoking_cessation_gender_age_oct20_with_historic.csv
 - format: CSV
-  name: CSV
+  name: Smoking Cessation by Health Board
   url: https://www.opendata.nhs.scot/dataset/cff63b00-5c99-4efd-9ff7-83c4a1a95fe9/resource/ab8f845a-fd24-4046-b2e6-2381782251fb/download/smoking_cessation_hb_treatment_oct20_with_historic.csv
 - format: CSV
-  name: CSV
+  name: Smoking Cessation by Council Area
   url: https://www.opendata.nhs.scot/dataset/cff63b00-5c99-4efd-9ff7-83c4a1a95fe9/resource/6cc0ab97-992d-4292-9d94-cc5e675d58a1/download/smoking_cessation_council_area_oct20_with_historic.csv
 - format: CSV
-  name: CSV
+  name: Smoking Cessation by Deprivation
   url: https://www.opendata.nhs.scot/dataset/cff63b00-5c99-4efd-9ff7-83c4a1a95fe9/resource/25e85a15-c1c4-4cef-9c87-b777beaa3323/download/smoking_cessation_simd_quintile_oct20_with_historic.csv
 schema: default
 title: NHS Smoking Cessation Service Statistics (Scotland)

@@ -13,13 +13,13 @@ original_dataset_link: https://data.pkc.gov.uk/dataset/ev-charging-data
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: September 2016 - August 2017
   url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/d0bc0302-90e5-4f8c-bc2e-b54e648b88b6/download/electricvehiclechargecorrected.csv
 - format: CSV
-  name: CSV
+  name: September 2017-August 2018
   url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/f5f95c50-2ca1-436d-bd6e-1c5f8317ac9b/download/sept17toaug18standardisedcorrected.csv
 - format: CSV
-  name: CSV
+  name: September 2018-August 2019
   url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/845fe22f-19f4-499b-b8bc-8812a763e660/download/sept18toaug19standardisedcorrected.csv
 schema: default
 title: Electric Vehicle Charging Station Usage

@@ -20,22 +20,22 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/drug-and-alcohol-tr
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: 'Number of Referrals '
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/c16b6f2a-fc4d-4542-bb39-a0861b880b9e/download/numberofreferrals-30-06-2022.csv
 - format: CSV
-  name: CSV
+  name: Source of Referrals
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/bcf2e0c0-0f0d-46be-b58d-1de8b4210844/download/sourceofreferrals-30-06-2022.csv
 - format: CSV
-  name: CSV
+  name: Completed Waits
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/6a76fafd-e45c-43c5-96e6-c4f01bd33e96/download/completedwaits-30-06-2022.csv
 - format: CSV
-  name: CSV
+  name: Ongoing Waits
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/abf54d64-88de-47d8-9c31-49a959abc164/download/ongoingwaits-30-06-2022.csv
 - format: CSV
-  name: CSV
+  name: Demographic Data
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/0502ec31-f26d-47ee-83f5-3c2715276d8e/download/demographicsdata-30-06-2022.csv
 - format: CSV
-  name: CSV
+  name: 'Treatment Types '
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/e754eb67-db9e-4193-94f8-fc44172db68e/download/treatmenttypesdata-30-06-2022.csv
 schema: default
 title: Drug and Alcohol Treatment Waiting Times

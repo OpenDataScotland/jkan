@@ -13,10 +13,10 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-schools-for-th
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: Header file of questions
   url: http://opendata.angus.gov.uk/dataset/725edfdf-c400-4a7b-bbc0-d0dc21884fd2/resource/ef1c624d-0d35-4e39-bc3e-aee24e363522/download/questionnaire_header.csv
 - format: CSV
-  name: CSV
+  name: CSV file of on-line survey responses
   url: http://opendata.angus.gov.uk/dataset/725edfdf-c400-4a7b-bbc0-d0dc21884fd2/resource/5054b71e-84c5-439c-a5dc-1d3dae0abc7f/download/all_individual_responses_redacted.csv
 schema: default
 title: Angus Schools for the Future, Pre-consultation Responses

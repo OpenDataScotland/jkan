@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2019-08-23'
 date_updated: '2022-03-01'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Share of businesses involved in innovation activities since 2010-2012</p>
 organization: Scottish Government

@@ -34,10 +34,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ac'
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Polling Stations in Aberdeen City
   url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/f2128c94-fca0-40e5-aa99-6e4fdbdd5c55/download/pollingstns20172.zip
 - format: ZIP
-  name: ZIP
+  name: Polling Stations in Aberdeen City
   url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/9aa4b84a-fcfe-4f91-ba5d-74d28919c2a7/download/pollingstns20172.zip
 schema: default
 title: Polling Places - Aberdeen City

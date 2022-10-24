@@ -12,10 +12,10 @@ original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-det
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: ct_band.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=07ca781c-21a0-4ee6-937f-b4048c6fd0d1
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/219fbf9a-4471-4997-8ea9-95c55c063442/1/urql
 schema: default
 title: Council Tax

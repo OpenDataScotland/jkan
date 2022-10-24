@@ -12,7 +12,7 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: JSON
+  name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/8d4d35a1-5205-4fc0-a29a-6d6d0a779354/1/urql
 schema: default
 title: Aberdeen City Council - Hourly cycling counts from automatic cycling counters

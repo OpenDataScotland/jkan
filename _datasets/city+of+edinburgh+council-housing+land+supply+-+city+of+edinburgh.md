@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_suppl
 records: null
 resources:
 - format: No file type
-  name: No file type
+  name: Housing land supply Edinburgh
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Housing Land Supply - City of Edinburgh

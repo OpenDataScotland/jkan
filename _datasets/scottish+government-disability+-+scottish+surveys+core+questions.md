@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 date_created: '2017-02-07'
 date_updated: '2021-01-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: '<p>Percentage of adults reporting a limiting long term physical or mental
   health problem, by age, gender, household type, and type of housing tenure.

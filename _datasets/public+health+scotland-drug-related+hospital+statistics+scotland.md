@@ -20,10 +20,10 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/drug-related-hospit
 records: null
 resources:
 - format: CSV
-  name: CSV
+  name: DRHS By Health Board
   url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/cdd2e229-9955-4d2a-8c9f-d9bc091a602d/download/open-datadrug_related_hospital_stays_healthboard.csv
 - format: CSV
-  name: CSV
+  name: DRHS By Council Area
   url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/46f9d70b-8517-4af3-b65e-dbcd13dfa388/download/open-datadrug_related_hospital_stays_council.csv
 schema: default
 title: Drug-Related Hospital Statistics Scotland

@@ -28,10 +28,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas
 records: null
 resources:
 - format: ZIP
-  name: ZIP
+  name: Edinburgh Designated Conservation Areas 2016
   url: https://data.spatialhub.scot/dataset/4cc139b8-25a0-484c-afc7-5549b71b2174/resource/61960e23-e083-49c3-b366-60c68af1010e/download/conara.zip
 - format: No file type
-  name: No file type
+  name: Conservation Areas
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
 title: Conservation Areas - City of Edinburgh
