@@ -1,8 +1,9 @@
 ---
 category:
-- Uncategorised
+- Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-10-20'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>'Development management' is the name given to the process of deciding planning\
@@ -37,9 +38,9 @@ notes: "<p>'Development management' is the name given to the process of deciding
   \ Service can be filtered using appropriate software such as a desktop GIS.  This\
   \ data is collected and published weekly (for weekly lists) and this metadata record\
   \ is updated weekly.  We strongly recommend that, when using the WFS for this dataset,\
-  \ because of it's size you should use it with a filter.  <em>Moray and Aberdeenshire's\
-  \ planning data has currently been removed from this dataset. We will find a solution\
-  \ to this in due course</em></p>"
+  \ because of it's size you should use it with a filter.  <em>Moray's planning data\
+  \ has currently been removed from this dataset. We will find a solution to this\
+  \ in due course</em></p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications-is'
 records: null

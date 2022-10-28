@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-08-09'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of

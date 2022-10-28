@@ -1,8 +1,9 @@
 ---
 category:
 - Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-07-29'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>Land is legally defined as 'contaminated' where substances are causing\

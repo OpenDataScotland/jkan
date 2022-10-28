@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-08-09'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local authorities have the power to make by-laws to prohibit the drinking

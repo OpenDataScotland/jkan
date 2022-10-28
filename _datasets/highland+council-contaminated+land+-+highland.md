@@ -1,10 +1,9 @@
 ---
 category:
-- Business and Economy
 - Food and Environment
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-07-04'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Land is legally defined as ''contaminated'' where substances are causing

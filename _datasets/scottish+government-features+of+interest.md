@@ -2,12 +2,11 @@
 category:
 - Uncategorised
 date_created: '2018-03-26'
-date_updated: '2022-09-28'
+date_updated: '2022-10-27'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>A reference dataset containing relationships between geographic features,
-  along with their geometries. This dataset helps drive the PublishMyData Atlas feature.
-  </p>
+  along with their geometries. This dataset helps drive the PublishMyData Atlas feature.  </p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/foi
 records: null

@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2018-07-23'
-date_updated: '2022-07-07'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p>This dataset captures any data that pertains to locations of safety equipment

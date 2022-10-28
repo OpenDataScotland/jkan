@@ -1,8 +1,11 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-08-08'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are Smoke

@@ -1,8 +1,10 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Education
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-02-18'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>Scottish councils usually divide towns and country areas into catchments

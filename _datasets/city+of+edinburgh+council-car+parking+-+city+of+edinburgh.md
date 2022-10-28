@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-07-07'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\

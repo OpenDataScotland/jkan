@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-12-18'
-date_updated: '2022-09-28'
+date_updated: '2022-10-25'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Data underlying the National Performance Framework Indicators. These give

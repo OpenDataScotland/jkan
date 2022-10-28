@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2021-06-11'
-date_updated: '2022-08-23'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Many Local Authorities capture locational details of certain safety features

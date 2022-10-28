@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2021-06-11'
-date_updated: '2022-10-20'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Building Standards Register is maintained by local authorities under\
@@ -33,9 +33,8 @@ notes: "<p>A Building Standards Register is maintained by local authorities unde
   mapping data online and is not complete across Scotland.  This data is collected\
   \ and published weekly (for weekly lists) and this metadata record is updated weekly.\
   \  We strongly recommend that, when using the WFS for this dataset, because of it's\
-  \ size you should use it with a filter.  <em>Moray and Aberdeenshire's data has\
-  \ currently been removed from this dataset. We will find a solution to this in due\
-  \ course</em></p>"
+  \ size you should use it with a filter.  <em>Moray's data has currently been removed\
+  \ from this dataset. We will find a solution to this in due course</em></p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards-is'
 records: null

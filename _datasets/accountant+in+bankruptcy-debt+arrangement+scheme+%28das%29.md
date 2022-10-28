@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2016-11-14'
-date_updated: '2021-11-04'
+date_updated: '2022-10-26'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Accountant in Bankruptcy
 notes: <p>The number of Debt Arrangement Scheme (DAS) Debt Payment Programmes approved.

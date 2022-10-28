@@ -1,8 +1,11 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-07-25'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the

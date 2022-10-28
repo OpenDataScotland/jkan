@@ -1,8 +1,11 @@
 ---
 category:
-- Uncategorised
+- Business and Economy
+- Council and Government
+- Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-08-03'
+date_updated: '2022-10-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>The Scottish Vacant and Derelict Land Survey is a national data collection

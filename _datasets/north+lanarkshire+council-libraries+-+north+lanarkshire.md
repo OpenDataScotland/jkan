@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2017-11-13'
-date_updated: '2022-07-04'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council

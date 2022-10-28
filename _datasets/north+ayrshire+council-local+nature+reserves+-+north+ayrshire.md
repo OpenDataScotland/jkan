@@ -1,10 +1,9 @@
 ---
 category:
-- Arts / Culture / History
 - Food and Environment
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-07-04'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\

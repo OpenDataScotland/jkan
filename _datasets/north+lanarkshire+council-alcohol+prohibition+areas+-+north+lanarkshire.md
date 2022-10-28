@@ -1,8 +1,9 @@
 ---
 category:
-- Health and Social Care
+- Council and Government
+- Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-08-09'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking

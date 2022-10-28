@@ -1,8 +1,9 @@
 ---
 category:
-- Uncategorised
+- Food and Environment
+- Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-08-11'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
