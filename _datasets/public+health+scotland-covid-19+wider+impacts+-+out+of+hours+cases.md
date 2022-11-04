@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-25'
-date_updated: '2022-10-06'
+date_updated: '2022-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified
@@ -39,16 +39,16 @@ records: null
 resources:
 - format: CSV
   name: OOH Cases By Health Board, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/ac710637-e7ae-4911-9638-10d9770b2324/download/ooh_hb_agesex_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/ac710637-e7ae-4911-9638-10d9770b2324/download/ooh_hb_agesex_20221102.csv
 - format: CSV
   name: OOH Cases By Health Board and Deprivation
-  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/c7ab7666-294b-434d-9b5b-321e5bdcf0bd/download/ooh_hb_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/c7ab7666-294b-434d-9b5b-321e5bdcf0bd/download/ooh_hb_simd_20221102.csv
 - format: CSV
   name: OOH Cases By HSCP, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/f98ca631-fffb-4633-a831-ab9e37b5a45f/download/ooh_hscp_agesex_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/f98ca631-fffb-4633-a831-ab9e37b5a45f/download/ooh_hscp_agesex_20221102.csv
 - format: CSV
   name: OOH Cases By HSCP and Deprivation
-  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/18366029-91a3-487d-82f0-0df8acd8267b/download/ooh_hscp_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/18366029-91a3-487d-82f0-0df8acd8267b/download/ooh_hscp_simd_20221102.csv
 schema: default
 title: COVID-19 Wider Impacts - Out of Hours Cases
 ---

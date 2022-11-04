@@ -2,10 +2,11 @@
 category:
 - Business and Economy
 date_created: '2021-09-14'
-date_updated: '2021-09-30'
+date_updated: '2022-11-03'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
-notes: <p>Mid-year population estimates.</p>
+notes: <p>Mid-year population estimates for 2011 Data Zones and other geographies
+  from 2001 to 2021.</p>
 organization: Scottish Government
 original_dataset_link: http://statistics.gov.scot/data/population-estimates-detailed-current-geographic-boundaries
 records: null

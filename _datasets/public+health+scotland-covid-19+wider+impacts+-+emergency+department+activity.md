@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-25'
-date_updated: '2022-10-06'
+date_updated: '2022-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified
@@ -37,16 +37,16 @@ records: null
 resources:
 - format: CSV
   name: A&E Activity by Health Board, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/388fd86c-dc0b-4655-b4b1-f13644bfd8d2/download/a_and_e_hb_agesex_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/388fd86c-dc0b-4655-b4b1-f13644bfd8d2/download/a_and_e_hb_agesex_20221102.csv
 - format: CSV
   name: A&E Activity by Health Board and Deprivation
-  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/ec70ded6-9f45-4348-aaa9-b1b40ddae6a4/download/a_and_e_hb_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/ec70ded6-9f45-4348-aaa9-b1b40ddae6a4/download/a_and_e_hb_simd_20221102.csv
 - format: CSV
   name: A&E Activity by HSCP, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/a5677672-cc57-4b36-a884-84d6befd570f/download/a_and_e_hscp_agesex_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/a5677672-cc57-4b36-a884-84d6befd570f/download/a_and_e_hscp_agesex_20221102.csv
 - format: CSV
   name: A&E Activity by HSCP and Deprivation
-  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/39da7e8d-0ecf-41b7-aef1-cd898ba8b4fa/download/a_and_e_hscp_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/39da7e8d-0ecf-41b7-aef1-cd898ba8b4fa/download/a_and_e_hscp_simd_20221102.csv
 schema: default
 title: COVID-19 Wider Impacts - Emergency Department Activity
 ---

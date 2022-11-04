@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-10-06'
+date_updated: '2022-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women around the time they are giving birth is an essential, time
@@ -56,13 +56,13 @@ records: null
 resources:
 - format: CSV
   name: Inductions by Health Board
-  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/28dad521-50d5-4009-a665-e80236ac0b8b/download/induction_labour_hb_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/28dad521-50d5-4009-a665-e80236ac0b8b/download/induction_labour_hb_20221102.csv
 - format: CSV
   name: Inductions by Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/fed73bc2-39aa-4626-bc7c-ae91aba06a1a/download/induction_labour_age_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/fed73bc2-39aa-4626-bc7c-ae91aba06a1a/download/induction_labour_age_20221102.csv
 - format: CSV
   name: Inductions by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/617dc550-6960-4164-b6c6-a78ebbf76a6c/download/induction_labour_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/617dc550-6960-4164-b6c6-a78ebbf76a6c/download/induction_labour_simd_20221102.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Induction of Labour"
 ---

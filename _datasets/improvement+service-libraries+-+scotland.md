@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2021-06-11'
-date_updated: '2022-10-27'
+date_updated: '2022-10-31'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Each Local Authority should have a list of libraries within their Council

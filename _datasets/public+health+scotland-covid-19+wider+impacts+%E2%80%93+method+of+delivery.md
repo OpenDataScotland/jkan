@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-10-06'
+date_updated: '2022-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women around the time they are giving birth is an essential, time
@@ -50,13 +50,13 @@ records: null
 resources:
 - format: CSV
   name: Method of Delivery by Health Board
-  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/7996d72a-b8a1-4236-b66b-42e3c828a547/download/method_delivery_hb_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/7996d72a-b8a1-4236-b66b-42e3c828a547/download/method_delivery_hb_20221102.csv
 - format: CSV
   name: Method of Delivery by Age
-  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/5f91ec4d-d96e-40c9-b69a-7e087e5e6414/download/method_delivery_age_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/5f91ec4d-d96e-40c9-b69a-7e087e5e6414/download/method_delivery_age_20221102.csv
 - format: CSV
   name: Method of Delivery by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/d1bd0441-c451-4aec-beaf-8506f704efec/download/method_delivery_simd_20221005.csv
+  url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/d1bd0441-c451-4aec-beaf-8506f704efec/download/method_delivery_simd_20221102.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Method of Delivery"
 ---

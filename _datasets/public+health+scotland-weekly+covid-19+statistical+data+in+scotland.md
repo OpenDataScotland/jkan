@@ -2,20 +2,22 @@
 category:
 - Health and Social Care
 date_created: '2020-05-05'
-date_updated: '2022-09-21'
+date_updated: '2022-11-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified
-  in Wuhan, China. Clinical presentation may range from mild-to-moderate illness to
-  pneumonia or severe acute respiratory infection. This dataset provides information
-  on demographic characteristics (age, sex, deprivation) of confirmed novel coronavirus
-  (COVID-19) cases, as well as trend data regarding the wider impact of the virus
-  on the healthcare system. Data includes information on primary care out of hours
-  consultations, respiratory calls made to NHS24, contact with COVID-19 Hubs and Assessment
-  Centres, incidents received by Scottish Ambulance Services (SAS), as well as COVID-19
-  related hospital admissions and admissions to ICU (Intensive Care Unit). Further
-  data on the wider impact of the COVID-19 response, focusing on hospital admissions,
-  unscheduled care and volume of calls to NHS24, is available on the <a href="https://scotland.shinyapps.io/phs-covid-wider-impact/">COVID-19
+notes: <p><strong>This open data publication has moved to <a href="https://www.opendata.nhs.scot/dataset/covid-19-in-scotland">COVID-19
+  Statistical Data in Scotland</a></strong> (from 02/11/2022)\r\n\r\nNovel coronavirus
+  (COVID-19) is a new strain of coronavirus first identified in Wuhan, China. Clinical
+  presentation may range from mild-to-moderate illness to pneumonia or severe acute
+  respiratory infection. This dataset provides information on demographic characteristics
+  (age, sex, deprivation) of confirmed novel coronavirus (COVID-19) cases, as well
+  as trend data regarding the wider impact of the virus on the healthcare system.
+  Data includes information on primary care out of hours consultations, respiratory
+  calls made to NHS24, contact with COVID-19 Hubs and Assessment Centres, incidents
+  received by Scottish Ambulance Services (SAS), as well as COVID-19 related hospital
+  admissions and admissions to ICU (Intensive Care Unit). Further data on the wider
+  impact of the COVID-19 response, focusing on hospital admissions, unscheduled care
+  and volume of calls to NHS24, is available on the <a href="https://scotland.shinyapps.io/phs-covid-wider-impact/">COVID-19
   Wider Impact Dashboard</a>.\r\n\r\nThere is a large amount of data being regularly
   published regarding COVID-19 (for example, <a href="https://www.gov.scot/coronavirus-covid-19/">Coronavirus
   in Scotland \u2013 Scottish Government</a> and <a href="https://www.nrscotland.gov.uk/covid19stats">Deaths
