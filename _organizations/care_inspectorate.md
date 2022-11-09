@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.careinspectorate.com/
 twitter_handle: 
 wikidata_org_qid: Q5038855
-wdtk_id: 
+wdtk_id: care_inspectorate
 ---
