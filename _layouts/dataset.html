@@ -75,8 +75,16 @@ layout: default
 
         {% if page.resources %}
         <h2>Preview resources</h2>
-        <div id="resource-preview-wrapper" class="ag-theme-alpine" style="height: 500px">
+        <div id="resource-preview-wrapper">
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist" id="resource-preview-tabs">
 
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content" id="resource-preview-tabs-content">
+
+          </div>
         </div>
         {% endif %}
 
@@ -126,9 +134,8 @@ layout: default
   <script src="https://cdn.jsdelivr.net/npm/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
   <!-- Include the core CSS, this is needed by the grid -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-grid.css" />
-     <!-- Include the theme CSS, only need to import the theme you are going to use -->
-   <link rel="stylesheet"
-     href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-theme-alpine.css"/>
+  <!-- Include the theme CSS, only need to import the theme you are going to use -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-theme-alpine.css" />
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js" integrity="sha512-SGWgwwRA8xZgEoKiex3UubkSkV1zSE1BS6O4pXcaxcNtUlQsOmOmhVnDwIvqGRfEmuz83tIGL13cXMZn6upPyg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script>
@@ -136,17 +143,48 @@ layout: default
 
     if (resources) {
 
-      var firstCsv = resources.filter(x => x.format == "CSV")[0];
+      var csv_files = resources.filter(x => x.format == "CSV");
 
+      for (let i = 0; i < csv_files.length; i++) {
+        var csv_file = csv_files[i];
+        var tab = createTab(csv_file.name, i === 0);
+
+        csvToOutput(csv_file.url, tab);
+
+      }
+    }
+
+    function createTab(tabName, isActive){
+      var tabUUID = createUUID(); 
+
+      $("#resource-preview-tabs").append(`<li role="presentation" ${isActive ? 'class="active"' : ''}><a href="#${tabUUID}" aria-controls="${tabUUID}" role="tab" data-toggle="tab">${tabName}</a></li>`)
+      $("#resource-preview-tabs-content").append(`<div role="tabpanel" style="height:500px" class="tab-pane ${isActive ? "active" : ""}" id="${tabUUID}"></div>`)
+
+      return tabUUID;
+    }
+
+    function createUUID() {
+      return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, c =>
+        (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+      )
+    }
+
+    function csvToOutput(csvUrl, tabId) {
+
+      var gridId = `csv-${tabId}`;
+
+      // Create CSV DOM
+      $(`#${tabId}`).append(`<div id="${gridId}" class="ag-theme-alpine" style="height:100%"></div>`)
+      
       // Fetch data from server
-      fetch(firstCsv.url)
+      // TODO: Some CSVs really big and take a while to load. Can we do a pre-flight HEAD request and not load large files unless the user specifically asks for them
+      // Also, even for semi-large files, we might want some sort of loading spinner  
+      fetch(csvUrl)
         .then(response => response.text())
         .then(data => {
-          var csvData = Papa.parse(data, {header: true});
+          var csvData = Papa.parse(data, { header: true });
 
-          var columnDefs = Object.keys(csvData.data[0]).map(x => {return { field:x }})
-
-          debugger;
+          var columnDefs = Object.keys(csvData.data[0]).map(x => { return { field: x } })
 
           // Grid Options are properties passed to the grid
           const gridOptions = {
@@ -158,15 +196,10 @@ layout: default
 
             rowSelection: 'multiple', // allow rows to be selected
             animateRows: true, // have rows animate to new positions when sorted
-
-            // example event handler
-            onCellClicked: params => {
-              console.log('cell was clicked', params)
-            }
           };
 
           // get div to host the grid
-          const eGridDiv = document.getElementById("resource-preview-wrapper");
+          const eGridDiv = document.getElementById(gridId );
           // new grid instance, passing in the hosting DIV and Grid Options
           new agGrid.Grid(eGridDiv, gridOptions);
 
@@ -174,4 +207,5 @@ layout: default
           gridOptions.api.setRowData(csvData.data);
         });
     }
+
   </script>
