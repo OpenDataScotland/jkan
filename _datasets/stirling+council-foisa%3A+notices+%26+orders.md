@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2020-07-02'
-date_updated: '2022-10-12'
+date_updated: '2022-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Under FOISA , the </strong><a href="http://www.legislation.gov.uk/asp/2002/13/contents"><strong>Freedom
@@ -127,13 +127,13 @@ resources:
   url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/002b60bb-833d-4b87-8443-60c78b41c2ba/download/20220704-stirling-council-foisa-notices-orders-apr-2022-to-jun-2022.csv
 - format: XPS
   name: July 2022 to September 2022 (XPS)
-  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/23705201-6fad-4cf3-8fb1-60cca81fde25/download/20221012-stirling-council-foisa-notices-orders-jun-2022-to-sep-2022.xps
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/23705201-6fad-4cf3-8fb1-60cca81fde25/download/20221012-stirling-council-foisa-notices-orders-jul-2022-to-sep-2022.xps
 - format: PDF
   name: July 2022 to September 2022 (PDF)
-  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/01778e15-04b2-41a6-a010-53add95d2d5d/download/20221012-stirling-council-foisa-notices-orders-jun-2022-to-sep-2022.pdf
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/01778e15-04b2-41a6-a010-53add95d2d5d/download/20221012-stirling-council-foisa-notices-orders-jul-2022-to-sep-2022.pdf
 - format: CSV
-  name: June 2022 to September 2022
-  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/450359ee-a5bf-464f-8ffa-c546dbb3605f/download/20221012-stirling-council-foisa-notices-orders-jun-2022-to-sep-2022.csv
+  name: July 2022 to September 2022
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/450359ee-a5bf-464f-8ffa-c546dbb3605f/download/20221012-stirling-council-foisa-notices-orders-jul-2022-to-sep-2022.csv
 schema: default
 title: 'FOISA: Notices & Orders'
 ---

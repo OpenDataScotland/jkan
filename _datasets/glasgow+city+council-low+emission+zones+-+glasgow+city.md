@@ -1,8 +1,10 @@
 ---
 category:
-- Uncategorised
+- Business and Economy
+- Food and Environment
+- Transportation
 date_created: '2022-09-29'
-date_updated: '2022-10-07'
+date_updated: '2022-11-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Low Emissions Zone Boundary for Glasgow City Council. A Low Emission Zone

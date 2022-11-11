@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-03-12'
-date_updated: '2022-11-01'
+date_updated: '2022-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These data provide monthly information on the number of hospital bed days
