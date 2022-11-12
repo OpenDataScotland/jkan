@@ -190,3 +190,7 @@ body {
 .view-code-link {
   margin: 1em;
 }
+
+#site-wide-alert * {
+  color: #fff !important;      
+}

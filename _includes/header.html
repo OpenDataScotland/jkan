@@ -17,32 +17,32 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% for link in site.navigation %}
-          {% if link.sub-pages | size > 0 %}
-          {% assign active-sub-page = link.sub-pages where_exp: "item", "page.url != '/' and item.url contains page.url" %}
-          {% assign active-count = active-sub-page size %}
-          {% if active-count > 0 %}
-          <li class="dropdown active">
+        {% if link.sub-pages | size > 0 %}
+        {% assign active-sub-page = link.sub-pages where_exp: "item", "page.url != '/' and item.url contains page.url" %}
+        {% assign active-count = active-sub-page size %}
+        {% if active-count > 0 %}
+        <li class="dropdown active">
           {% else %}
-          <li class="dropdown">
-          {% endif %}          
-            <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-              {{ link.title }} <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-               {% for sub-link in link.sub-pages %}
-                  {% if page.url == sub-link.url %}
-                    <li class="active"><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
-                  {% else %}
-                    <li><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
-                  {% endif %}                 
-               {% endfor %}
-            </ul>
-          </li>   
-          {% elsif page.url contains link.url %}  
-            <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
-          {% else %}
-            <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} </a></li>
+        <li class="dropdown">
           {% endif %}
+          <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            {{ link.title }} <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            {% for sub-link in link.sub-pages %}
+            {% if page.url == sub-link.url %}
+            <li class="active"><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
+            {% else %}
+            <li><a href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
+        {% elsif page.url contains link.url %}
+        <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
+        {% else %}
+        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} </a></li>
+        {% endif %}
         {% endfor %}
       </ul>
 
@@ -63,4 +63,14 @@
     </div>
 
   </div>
+
+  <!-- START Site-wide alert -->
+  <div id="site-wide-alert" class="container-fluid bg-primary">
+    <div class="container">
+      <div style="padding: 0.5em">
+        <span><strong>SODU 2022 statement: </strong><a href="https://codethecity.org/2022/11/09/statement-from-sodu2022/" target="_blank" >Read it here</a></span>
+      </div>
+    </div>
+  </div>
+  <!-- END Site-wide alert -->
 </nav>
