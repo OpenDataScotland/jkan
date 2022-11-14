@@ -10,7 +10,7 @@ full_width: true
 {% assign COLOUR_LOW = "background-color:rgba(255, 123, 103, 1)" %}
 {% assign COLOUR_MEDIUM = "background-color:rgba(255, 191, 177, 1)" %}
 {% assign COLOUR_HIGH = "background-color:rgba(255, 255, 255, 1)" %}
-{% assign HEADER = "writing-mode: sideways-lr;" %}
+{% assign HEADER = "writing-mode: vertical-lr; transform: rotate(180deg);" %}
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css"/>
 
@@ -23,7 +23,7 @@ full_width: true
         <tr>
             <th>Council</th>
             {% for category in categories %}
-            <th style="{{HEADER}}">{{category.name }}</th>
+            <th><span style="{{HEADER}}">{{category.name }}</span></th>
             {% endfor %}
             <th>Total</th>
         </tr>
