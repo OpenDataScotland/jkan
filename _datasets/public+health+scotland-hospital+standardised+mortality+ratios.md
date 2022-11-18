@@ -2,12 +2,12 @@
 category:
 - Health and Social Care
 date_created: '2021-08-09'
-date_updated: '2022-11-08'
+date_updated: '2022-11-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Release of HSMR at Scotland, NHS Board and Hospital levels for the period
-  April 2021 to March 2022. Also includes analyses of crude mortality trends over
-  the longer term from July to September 2016 to January to March 2022.\r\n</p>
+  July 2021 to June 2022. Also includes analyses of crude mortality trends over the
+  longer term from July to September 2016 to April to June 2022.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-standardised-mortality-ratios
 records: null

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-01-13'
-date_updated: '2022-11-09'
+date_updated: '2022-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><em>From 24 March 2022, Public Health Scotland (PHS) began reporting the

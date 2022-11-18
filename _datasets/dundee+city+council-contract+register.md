@@ -9,14 +9,14 @@ notes: <p>Current contract register, containing details of contract opportunitie
   with Dundee City Council. Link to Public Contracts Scotland, the electronic national
   contracts advertising portal.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/package/contract-register
+original_dataset_link: https://data.dundeecity.gov.uk/dataset/contract-register
 records: null
 resources:
 - format: HTML
-  name: HTML
+  name: Link to Current Contract Register
   url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00220
-- format: No file type
-  name: No file type
+- format: RDFA
+  name: Link to Procurement Page on Dundee City Council Website
   url: https://www.dundeecity.gov.uk/service-area/corporate-services/corporate-finance/procurement
 schema: default
 title: Contract Register

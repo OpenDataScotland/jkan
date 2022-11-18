@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2020-11-30'
+date_updated: '2022-11-15'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan Rural Group Sites have been set out within many of
@@ -17,5 +17,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=673187f103714c21
 records: 200
 resources: []
 schema: default
-title: Local Devevlopment Plan 2020 Rural Group Sites (Moray)
+title: Local Development Plan 2020 Rural Group Sites (Moray)
 ---

@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2020-11-30'
+date_updated: '2022-11-15'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Settlement Boundaries are used for the distribution
@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=98fd19de341d4263
 records: 33
 resources: []
 schema: default
-title: Local Devevlopment Plan 2020 Settlement Boundary (Moray)
+title: Local Development Plan 2020 Settlement Boundary (Moray)
 ---

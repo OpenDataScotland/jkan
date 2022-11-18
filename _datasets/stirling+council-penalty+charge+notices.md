@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: '2019-02-27'
-date_updated: '2022-07-19'
+date_updated: '2022-11-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong><a href="https://www.legislation.gov.uk/ukpga/1991/40/contents">Decriminalised
@@ -16,20 +16,23 @@ original_dataset_link: https://data.stirling.gov.uk/dataset/penalty-charge-notic
 records: null
 resources:
 - format: CSV
-  name: Penalty Charge Notices April 2018 to March 2019
+  name: 'Penalty Charge Notices: April 2018 to March 2019'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/4b8ca28d-25dc-4f90-a460-3a4ae6871712/download/20220406-parking-control-notices-01.04.2018-to-31.03.2019.csv
 - format: CSV
-  name: Penalty Charge Notices April 2019 to March 2020
+  name: 'Penalty Charge Notices: April 2019 to March 2020'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/192d01ab-42f7-4d25-bff3-124844a95b97/download/20220406-parking-control-notices-01.04.2019-to-31.03.2020.csv
 - format: CSV
-  name: Penalty Charge Notices April 2020 to March 2021
+  name: 'Penalty Charge Notices: April 2020 to March 2021'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/3c9bd3f3-344f-4221-8f50-543b3b502bbd/download/20220406-penalty-charge-notices-01.04.2020-to-31.03.2021.csv
 - format: CSV
-  name: Penalty Charge Notices April 2021 to March 2022
+  name: 'Penalty Charge Notices: April 2021 to March 2022'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/07bae006-78d2-4ff7-8f1c-39861a29e744/download/20220406-penalty-charge-notices-01.04.2021-to-31.03.2022.csv
 - format: CSV
-  name: Penalty Charge Notices May 2017 to March 2018
+  name: 'Penalty Charge Notices: May 2017 to March 2018'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/973707a2-d08c-4e38-a36e-4bad5f091491/download/20220406-parking-control-notices-03.05.2017-to-31.03.2018.csv
+- format: CSV
+  name: 'Penalty Charge Notices: April 2022 to March 2023'
+  url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/debe6bcf-0114-497a-85b8-af1b25704efb/download/20221117-penalty-charge-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Penalty Charge Notices
 ---

@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-11-20'
-date_updated: '2022-05-20'
+date_updated: '2022-11-14'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Forestry
 notes: "<p>This dataset identifies Forest Plans approved during Rural Development\
@@ -22,7 +22,7 @@ notes: "<p>This dataset identifies Forest Plans approved during Rural Developmen
   \ SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cc090aae9b7f4d65888f9f401e2bca8e
-records: 2301
+records: 2238
 resources: []
 schema: default
 title: RDC Forest Plans

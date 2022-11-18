@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-10-31'
-date_updated: '2022-11-08'
+date_updated: '2022-11-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>This group contains profiles of licensed vehicles registered within

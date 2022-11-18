@@ -5,7 +5,7 @@ date_created: ''
 date_updated: '2022-11-04'
 license: No licence
 maintainer: Highland Council
-notes: "<p>Settlement Development Areas in The Highland Council Local Development\
+notes: "<p>Settlement Development Areas in the adopted Highland Council Local Development\
   \ Plans. This does not cover the Badenoch &amp; Strathspey area for which the Cairngorm\
   \ National Park is the Planning Authority.<div><span style='font-family:&quot;Avenir\
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
