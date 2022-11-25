@@ -12,13 +12,12 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: National Monitoring Framework - all-mode traffic survey results September
-    2021 - Cycling Scotland.json
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e0cb9563-d672-4dad-aaae-4aebbd06060d
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fb61ca7d-ac26-486d-9948-48acebdc6a1d/5/urql
 - format: CSV
   name: National Monitoring Framework - all-mode traffic survey results September
-    2021 - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f
+    2021 - Cycling Scotland (2).csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=51a4c9f3-68fb-443b-b67e-666bc21fefaf
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results September
     2021 - Cycling Scotland.xml

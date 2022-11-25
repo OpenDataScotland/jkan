@@ -12,8 +12,9 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/20f490ba-edef-4843-822a-cd3e2670916f/2/urql
+  name: National Monitoring Framework - all-mode traffic survey results September
+    2018 - Cycling Scotland.json
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=25417b84-16a4-4ca1-ae0e-13b6000cbbe2
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results September
     2018 - Cycling Scotland.xml

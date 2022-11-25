@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-10-23'
-date_updated: '2022-11-02'
+date_updated: '2022-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within Aberdeenshire

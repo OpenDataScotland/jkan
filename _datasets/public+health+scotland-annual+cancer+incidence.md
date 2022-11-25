@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-02-06'
-date_updated: '2022-04-12'
+date_updated: '2022-11-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Annual data of new cancer incidence cases in Scotland. Data is presented

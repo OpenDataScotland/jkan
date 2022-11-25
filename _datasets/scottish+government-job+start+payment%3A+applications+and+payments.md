@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2021-09-23'
-date_updated: '2022-08-23'
+date_updated: '2022-11-24'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Job Start Payment is a new benefit that helps young people in Scotland,

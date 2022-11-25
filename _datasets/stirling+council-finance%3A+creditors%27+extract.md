@@ -2,7 +2,7 @@
 category:
 - Budget / Finance
 date_created: '2019-07-02'
-date_updated: '2022-09-13'
+date_updated: '2022-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Breakdown of individual payments to and credits from suppliers providing
@@ -93,6 +93,9 @@ resources:
 - format: CSV
   name: Quarter 1, Financial Year 2022/2023
   url: https://data.stirling.gov.uk/dataset/46f0a374-03f0-408b-a46d-27953b0551f6/resource/0a3dceda-2ce1-4a81-bac3-ae2b1a1ba78a/download/20220913-stirling-council-creditors-extract-30.06.2022-q1-fye-2023.csv
+- format: CSV
+  name: Quarter 2, Financial Year 2022/2023
+  url: https://data.stirling.gov.uk/dataset/46f0a374-03f0-408b-a46d-27953b0551f6/resource/c7247676-1314-4aca-a475-12f1a83f683d/download/20221122-stirling-council-creditors-extract-30.09.2022-q2-fye-2023.csv
 schema: default
 title: 'Finance: Creditors'' Extract'
 ---

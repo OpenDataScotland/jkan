@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2022-11-17'
+date_updated: '2022-11-24'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>A subset of 2011 Census variables (and variable breakdowns) in the COVID-19

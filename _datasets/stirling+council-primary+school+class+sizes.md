@@ -2,20 +2,18 @@
 category:
 - Education
 date_created: '2022-04-28'
-date_updated: '2022-05-03'
+date_updated: '2022-11-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>As part of the annual pupil census, normally carried out in September,
   the Scottish Government collects and publishes data on class sizes from every local
   authority primary school across the country. Due to the wide variation in pupil
   numbers across subjects, similar data are not available for secondary schools.</strong>\r\n\r\n<strong>This
-  group contains the datasets for the Stirling Council area, sourced from the </strong><a
-  href="https://www.gov.scot/publications/primary-school-class-sizes/"><strong>primary
-  school class sizes</strong></a><strong>\u2019 data on the </strong><a href="https://www.gov.scot/"><strong>Scottish
-  Government</strong></a><strong>\u2019s website.</strong>\r\n\r\n<strong>Visit Stirling
-  Council's website for further information on </strong><a href="https://stirling.gov.uk/learning-education/"><strong>Learning
-  &amp; Education</strong></a><strong>.</strong>\r\n\r\n<strong>\xa9 Crown Copyright
-  2022</strong></p>
+  group contains the datasets for the Stirling Council area, sourced from the <a href="https://www.gov.scot/publications/primary-school-class-sizes/">primary
+  school class sizes</a>\u2019 data on the <a href="https://www.gov.scot/">Scottish
+  Government</a>\u2019s website.</strong>\r\n\r\n<strong>Visit Stirling Council's
+  website for further information on <a href="https://www.stirling.gov.uk/schools-and-learning/">Schools
+  &amp; Learning</a>.</strong>\r\n\r\n<strong>\xa9 Crown Copyright 2022</strong></p>
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/primary-school-class-sizes
 records: null

@@ -11,12 +11,12 @@ organization: Dumfries and Galloway Council
 original_dataset_link: https://usmart.io/org/dumgal/discovery/discovery-view-detail/8c6e6e6c-8f11-4eab-a401-1318b477ffad
 records: null
 resources:
-- format: CSV
-  name: ct_band.csv
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=07ca781c-21a0-4ee6-937f-b4048c6fd0d1
 - format: JSON
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/219fbf9a-4471-4997-8ea9-95c55c063442/1/urql
+- format: CSV
+  name: ct_band.csv
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=07ca781c-21a0-4ee6-937f-b4048c6fd0d1
 schema: default
 title: Council Tax
 ---

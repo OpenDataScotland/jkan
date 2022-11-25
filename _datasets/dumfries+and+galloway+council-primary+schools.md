@@ -12,13 +12,13 @@ records: null
 resources:
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/d1d37cf0-246c-4f67-bcc2-4ab9fbc351ae/1/urql
-- format: CSV
-  name: Primary Schools.csv
-  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eeff79f-6e79-4e91-984a-5cc347b2eaf4
+  url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/2f25fb6c-04d2-478d-8148-2027deac6dbb/1/urql
 - format: XML
   name: Primary Schools.xml
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d6c7780e-7d08-4f74-a2f1-a8fb3ac3ddb4
+- format: CSV
+  name: Primary Schools.csv
+  url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eeff79f-6e79-4e91-984a-5cc347b2eaf4
 schema: default
 title: Primary Schools
 ---
