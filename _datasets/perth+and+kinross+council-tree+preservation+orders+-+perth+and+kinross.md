@@ -1,52 +1,35 @@
 ---
 category:
-- Food and Environment
-- Planning and Development
+- Uncategorised
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
   accurately. Users of this data should not assume this data is totally accurate and
   should consult the specific local authority for more detail before making any decisions</em></p>
 
-  <p>A TPO is made by the Local Authority, under Section 160 of the Town and Country
-  Planning (Scotland) Act 1997, and within the procedures set out in the Town and
-  Country Planning (Tree Preservation Order and Trees in Conservation Areas) (Scotland)
-  Regulations 1975-1984. They are made to protect individual trees, groups of trees
-  or woodlands which have particular amenity value, make a significant contribution
-  to the landscape or townscape or because there may be a potential threat to the
-  trees. Deciding which trees qualify to become protected the local authority must
-  ensure that the trees contribute to the amenity and attractiveness of an area and
-  be under threat in some way. Either individual specimens or groups can be protected
-  in a single Order. There are no guidelines on which species of tree can be included
-  in an Order.</p>
-
-  <p>The process starts with a Provisional Order, this is served on the owner of the
-  land and comes into effect immediately. Once confirmed, the TPO will remain indefinitely
-  and are recorded in the Land Register of Scotland. They then become legal burdens
-  on the land occupied by present and future owners so that when the land is sold
-  on, the title passes on with the TPO.</p>
-
-  <p>Some local authorities capture polygons of tree preservation areas. Others will
-  identify actual trees as point TPOs. Several LAs capture both. We have initially
-  created two separate layers - point and polygon, to represent TPOs. This may show
-  duplication where a point falls within a polygon. We may adapt this rationale and
-  methodology in due course as we know that there is discrepancy with Registers of
-  Scotland''s TPO data.</p>'
+  <p>A legal title plan &amp; associated description protecting a tree or trees within
+  a defined area from development. The dataset is created under the provisions as
+  listed within The Town and Country Planning (Tree Preservation Order and Trees in
+  Conservation Areas) (Scotland) Regulations 2010. Spatial and attribute data is maintained
+  in ArcMap shapefile with extra attributes in a spreadsheet (including link to TPO
+  PDF). Planning technicians ensure that data is updated regularly once new information
+  about a TPO is provided, a new TPO is registered or a TPO has been removed. The
+  conservation officers or senior management advise and direct planning technicians
+  to create a draft TPO location plan which is then sent to the paralegal team. The
+  paralegals then carry out their duties in confirming and registering the TPO and
+  informing any interested party. The planning technician then updates the spatial
+  data in ArcMap which, once finalised, is then sent to GIS staff to update into Location
+  Centre. The data will be of interest to staff within PKC who are interested in identifying
+  or collecting TPO data for their own professional purposes e.g. Development Management
+  (planning application, LDP , supplementary guidance) and Greenspace (maintenance
+  and retention of natural assets). The dataset is available for general public use,
+  stakeholders or any interested party outside the Council to identify TPOs.</p>'
 organization: Perth and Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-pk'
 records: null
 resources:
-- format: ZIP
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/f5c01628-70dd-455e-8f45-aa43adda53ba/download/treepreservationorders.zip
-- format: ZIP
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/b30efff3-5528-4508-ba7d-8af7c5e14c0c/download/treepreservationorders.zip
-- format: ZIP
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/420bf4b3-1b7c-4fd9-a3bf-b2e604fae001/resource/cd0e99a9-cfee-4e9f-b24e-03cb57f1cdb7/download/tree_preservation_order.zip
 - format: REST
   name: Tree Preservation Order
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Tree_Preservation_Order/FeatureServer

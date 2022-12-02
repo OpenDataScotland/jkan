@@ -13,8 +13,8 @@ records: null
 resources:
 - format: CSV
   name: National Monitoring Framework - all-mode traffic survey results 2017 to 2022
-    - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f5a0eaf1-deab-46bf-8776-42ad3beb9b46
+    v2.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=204bd226-0886-4f1c-93cd-dfcf6182d57d
 - format: JSON
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/12da6df6-7b38-4907-8f00-76a6c260b197/17/urql

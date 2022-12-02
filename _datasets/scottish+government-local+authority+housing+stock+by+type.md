@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-11-22'
-date_updated: '2022-07-22'
+date_updated: '2022-11-30'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Scottish Government
 notes: <p>Local Authority owned housing stock, by type of dwelling</p>

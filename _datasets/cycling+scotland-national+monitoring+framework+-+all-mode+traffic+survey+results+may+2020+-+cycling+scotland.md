@@ -11,15 +11,16 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: CSV
-  name: NMF_TS_May2020_CSV.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=a238bc4b-b71b-4c9b-b3e9-f3d96455309d
-- format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c8363aa0-5cff-40ba-b60a-893455bc1e0b/3/urql
+  name: National Monitoring Framework - all-mode traffic survey results May 2020 -
+    Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=84290449-061c-417c-bbd5-f9405736abc4
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results May 2020 -
     Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b00b0df0-fbdf-47aa-833d-1eea8e7bef50
+- format: JSON
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c8363aa0-5cff-40ba-b60a-893455bc1e0b/3/urql
 schema: default
 title: National Monitoring Framework - all-mode traffic survey results May 2020 -
   Cycling Scotland

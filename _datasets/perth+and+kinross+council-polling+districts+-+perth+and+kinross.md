@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth and Kinross Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -35,9 +35,6 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: Parliamentary Polling Districts
-  url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/6bc50005-4790-44d8-8d91-7931ddcb2abf/download/ppd2016dec.zip
-- format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/4266eafb-92fd-4190-9398-7b34691cd771/download/pkcppd2016dec.zip
 - format: ZIP
@@ -61,9 +58,6 @@ resources:
 - format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/893051a6-a521-450f-a027-2e1e3485e132/resource/ac85444f-b472-4230-ad4a-bd965902ea39/download/polling_districts.zip
-- format: REST
-  name: Polling Districts
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer
 - format: REST
   name: Polling Districts
   url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer

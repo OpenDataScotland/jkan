@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2017-10-14'
-date_updated: '2022-03-09'
+date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Catchment areas of all mainstream schools within the Dundee City Council
@@ -21,6 +21,9 @@ resources:
 - format: WFS
   name: OGC Web Feature Service
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
+- format: URL
+  name: ArcGIS Online feature service, API and downloads
+  url: https://opendata-dundeecity.hub.arcgis.com/maps/aea4bac6704b4735ac8309294479404e/about
 schema: default
 title: School Catchment Areas
 ---

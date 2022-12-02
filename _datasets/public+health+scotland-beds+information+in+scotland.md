@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2022-10-13'
+date_updated: '2022-12-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>To provide an effective, safe and efficient service to patients, hospitals
@@ -10,13 +10,7 @@ notes: <p>To provide an effective, safe and efficient service to patients, hospi
   the total number of beds has been reducing in line with evolving models of healthcare
   provision which aim to reduce the frequency and duration of hospital admissions
   and improve the integration of health and social care services. This strategy aims
-  to improve outcomes for patients and reduce the likelihood of future hospital admissions.\r\n\r\nAll
-  publications and supporting material to this topic area can be found on the <a href="https://beta.isdscotland.org/topics/hospital-care/">Public
-  Health Scotland website (external website)</a>. \r\n\r\nFurther information on hospital
-  activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/">recent
-  quarterly publication (external website)</a>.\r\n\r\nThe date of the next release
-  can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications (external website)</a>.\r\n</p>
+  to improve outcomes for patients and reduce the likelihood of future hospital admissions.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-beds-information
 records: null
