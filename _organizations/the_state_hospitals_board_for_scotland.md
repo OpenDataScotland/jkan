@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.tsh.scot.nhs.uk/Index.htm
 twitter_handle: 
 wikidata_org_qid: Q108838059
-wdtk_id: 
+wdtk_id: state_hospitals_board_for_scotland
 ---
