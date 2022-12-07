@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837002
-wdtk_id: 
+wdtk_id: glasgow_city_integration_joint_board
 ---
