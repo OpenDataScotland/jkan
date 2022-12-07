@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108836999
-wdtk_id: 
+wdtk_id: edinburgh_health_and_social_care_partnership
 ---
