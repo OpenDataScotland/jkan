@@ -9,5 +9,5 @@ portal_url: ''
 org_url: http://www.audit-scotland.gov.uk/about/ac
 twitter_handle: 
 wikidata_org_qid: Q4672804
-wdtk_id: 
+wdtk_id: accounts_commission_for_scotland
 ---
