@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://education.gov.scot/
 twitter_handle: educationscot
 wikidata_org_qid: Q5340921
-wdtk_id: 
+wdtk_id: education_scotland
 ---
