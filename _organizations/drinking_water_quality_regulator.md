@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://dwqr.scot/
 twitter_handle: 
 wikidata_org_qid: Q108836857
-wdtk_id: 
+wdtk_id: dwqr
 ---
