@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-06-23'
-date_updated: '2022-11-02'
+date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified
@@ -36,10 +36,10 @@ records: null
 resources:
 - format: CSV
   name: A&E Cardiovascular Activity By Age
-  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4/download/ae_cardio_data_age_20221102.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/205363a9-af6f-4eb6-8284-dc2e4b4607e4/download/ae_cardio_data_age_20221207.csv
 - format: CSV
   name: A&E Cardiovascular Activity By Deprivation
-  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20221102.csv
+  url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20221207.csv
 schema: default
 title: "COVID-19 Wider Impacts \u2013 Cardiovascular Activity"
 ---

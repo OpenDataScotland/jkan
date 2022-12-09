@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-30'
-date_updated: '2022-10-27'
+date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -27,7 +27,7 @@ records: null
 resources:
 - format: No file type
   name: Conservation Areas and Article 4 directions
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Article 4 Directions - South Ayrshire
 ---

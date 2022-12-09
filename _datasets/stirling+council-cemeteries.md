@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-02-04'
-date_updated: '2022-11-03'
+date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Extract of electronic burial records for cemeteries managed and
@@ -15,15 +15,15 @@ notes: <p><strong>Extract of electronic burial records for cemeteries managed an
   Service</strong></a><strong>.</strong>\r\n\r\n<a href="https://www.nrscotland.gov.uk/"><strong>National
   Records of Scotland</strong></a> <strong>and</strong> <a href="https://www.scotlandspeople.gov.uk/"><strong>Scotland\u2019s
   People</strong></a> <strong>provide useful information for those wishing to research
-  their family tree.</strong>\r\n\r\n<strong>Next update available from Wednesday,
-  7th December, 2022.</strong>\r\n</p>
+  their family tree.</strong>\r\n\r\n<strong>Next update available from Monday, 9th
+  January, 2023.</strong>\r\n</p>
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/cemetery-records
 records: null
 resources:
 - format: CSV
-  name: 'Burial Records: November 2022'
-  url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/20221103-stirling-council-burial-records-as-at-01.11.2022.csv
+  name: 'Burial Records: December 2022'
+  url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/20221207-stirling-council-burial-records-as-at-01.12.2022.csv
 schema: default
 title: Cemeteries
 ---

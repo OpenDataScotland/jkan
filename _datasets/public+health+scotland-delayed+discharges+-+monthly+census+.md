@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2017-05-19'
-date_updated: '2022-11-03'
+date_updated: '2022-12-08'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: Public Health Scotland
 notes: <p>Number of delays by length of delay and reason for delay at the monthly

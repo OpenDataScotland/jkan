@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -40,7 +40,7 @@ records: null
 resources:
 - format: No file type
   name: Tree Preservation Orders
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
+  url: http://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?
 - format: 7-Zip compressed file
   name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/617735cb-5e5e-44f9-bfcd-ba15a693e2b6/resource/41d90da2-92a6-4ce7-ad78-1bf566c3d973/download/2020-02-13-na_ldp-tree-preservation-orders.7z

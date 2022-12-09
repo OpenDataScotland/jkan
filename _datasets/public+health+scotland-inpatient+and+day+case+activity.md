@@ -48,7 +48,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/083ee176-4729-474b-958a-328954b72a5a/download/inpatient_and_daycase_cross_boundary_flow.csv
 - format: CSV
   name: Publication Notes
-  url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/a15a1878-3203-4506-90ac-586bd672545d/download/notes.csv
+  url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/a15a1878-3203-4506-90ac-586bd672545d/download/notes_fix.xlsx
 schema: default
 title: Inpatient and Day Case Activity
 ---

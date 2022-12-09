@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2020-04-08'
-date_updated: '2022-12-01'
+date_updated: '2022-12-08'
 license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 maintainer: National Records of Scotland
 notes: <p>The weekly, and year to date, provisional number of deaths associated with

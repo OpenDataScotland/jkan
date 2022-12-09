@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-01-13'
-date_updated: '2022-11-30'
+date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>This dataset is no longer updated, find vaccination data <a href="https://www.opendata.nhs.scot/dataset/flu-covid-vaccinations">here</a></strong>\r\n\r\n_From
