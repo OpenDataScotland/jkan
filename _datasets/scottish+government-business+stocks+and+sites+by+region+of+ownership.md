@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2019-02-08'
 date_updated: '2022-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of VAT/PAYE registered stocks and sites operating in Scotland by
   region of ownership</p>

@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2019-07-31'
 date_updated: '2019-07-31'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: '<p>Spatial Framework for Wind Turbines over 50 metres: Supplementary Guidance
   to Local Development Plan 2015. Adopted December 2016</p>'

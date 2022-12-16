@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-04-26'
-date_updated: '2022-12-08'
+date_updated: '2022-12-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within East Dunbartonshire

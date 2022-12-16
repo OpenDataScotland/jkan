@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2018-05-16'
 date_updated: '2021-10-08'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Percentage of adults who agree with various statements about local authority
   services and performance, from the Scottish Household Survey (SHS)</p>

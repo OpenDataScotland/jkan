@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-12-07'
+date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women around the time they are giving birth is an essential, time
@@ -58,5 +58,5 @@ resources:
   name: Method of Delivery by Deprivation
   url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/d1bd0441-c451-4aec-beaf-8506f704efec/download/method_delivery_simd_20221207.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Method of Delivery"
+title: COVID-19 Wider Impacts - Method of Delivery
 ---

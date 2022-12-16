@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-12-07'
+date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women and babies around the time they are giving birth/being born
@@ -54,5 +54,5 @@ resources:
   name: Gestation Data by Deprivation
   url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20221207.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Gestation at delivery"
+title: COVID-19 Wider Impacts - Gestation at Delivery
 ---

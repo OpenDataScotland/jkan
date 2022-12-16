@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2017-08-23'
 date_updated: '2022-12-05'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The value of goods and services produced quarterly</p>
 organization: Scottish Government

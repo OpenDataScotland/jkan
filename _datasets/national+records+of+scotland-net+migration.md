@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2018-09-07'
 date_updated: '2022-07-13'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Net migration by age, sex, council area and year.</p>
 organization: National Records of Scotland

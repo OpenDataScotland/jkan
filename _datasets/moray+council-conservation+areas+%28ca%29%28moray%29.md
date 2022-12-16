@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2018-02-22'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Conservation Areas are areas of special architectural of historic interest\
   \ where it is desirable to preserve or enhance the character or appearance of the\

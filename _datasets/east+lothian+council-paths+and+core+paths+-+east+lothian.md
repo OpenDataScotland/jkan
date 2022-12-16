@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2022-12-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Lothian Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -28,7 +28,7 @@ records: null
 resources:
 - format: ZIP
   name: Core Paths
-  url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/4b0e37e2-ab21-49dc-8614-ab7501ab65fc/download/core-paths.zip
+  url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/ad3a7522-14ae-4778-a4bc-105d55c21606/download/core-paths-2015-2022-12-16-11-15-57.zip
 schema: default
 title: Paths And Core Paths - East Lothian
 ---

@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2017-03-31'
 date_updated: '2019-11-22'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: HM Revenue and Customs
 notes: <p>The number and percentage of children living in families in receipt of Child
   Tax Credit (CTC) whose reported income is less than 60 per cent of the median income

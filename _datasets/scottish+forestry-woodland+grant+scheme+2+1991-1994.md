@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-10-30'
 date_updated: '2020-01-24'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to create\
   \ and manage woodlands on sites all over Great Britain. The Forestry Commission\

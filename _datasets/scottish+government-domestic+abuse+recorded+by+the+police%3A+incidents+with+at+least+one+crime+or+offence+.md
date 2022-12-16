@@ -3,7 +3,7 @@ category:
 - Public Safety
 date_created: '2021-09-09'
 date_updated: '2022-12-08'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Proportion of incidents of domestic abuse which include the recording of
   at least one crime or offence.</p>

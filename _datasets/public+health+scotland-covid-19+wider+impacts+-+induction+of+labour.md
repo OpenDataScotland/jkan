@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-12-07'
+date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women around the time they are giving birth is an essential, time
@@ -64,5 +64,5 @@ resources:
   name: Inductions by Deprivation
   url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/617dc550-6960-4164-b6c6-a78ebbf76a6c/download/induction_labour_simd_20221207.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Induction of Labour"
+title: COVID-19 Wider Impacts - Induction of Labour
 ---

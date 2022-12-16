@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2020-05-11'
 date_updated: '2021-05-06'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Application outcome for clients responding to Equality Monitoring and Feedback
   forms when making applications to Social Security Scotland from 10th December 2018

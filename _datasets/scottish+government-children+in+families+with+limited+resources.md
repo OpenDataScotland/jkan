@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2017-11-28'
 date_updated: '2019-06-26'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Percent of children in families that have both low income and cannot afford
   three or more out of a list of 22 basic necessities.</p>

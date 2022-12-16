@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2018-09-05'
 date_updated: '2022-07-13'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Migration to and from Scotland by single year of age, sex and year.</p>
 organization: National Records of Scotland

@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2018-11-05'
 date_updated: '2022-11-21'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The score is a weighted average of the highest level of qualification achieved
   by school leavers, for all leavers within a data zone and intermediate zone, over

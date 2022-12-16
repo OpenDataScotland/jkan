@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2019-07-23'
 date_updated: '2019-07-23'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/
 maintainer: Renfrewshire Council
 notes: <p>Detailed statistics on what mode of transport people usually use to get
   to work and education, as well as the percentage of total journeys which people

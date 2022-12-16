@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-12-07'
+date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>As an essential service, care relating to termination of pregnancy has been
@@ -52,5 +52,5 @@ resources:
   name: Terminations by Deprivation
   url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/085c1c13-29ea-4ce3-8a46-798a011970b3/download/terminations_preg_simd_20221207.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Termination of Pregnancy"
+title: COVID-19 Wider Impacts - Termination of Pregnancy
 ---

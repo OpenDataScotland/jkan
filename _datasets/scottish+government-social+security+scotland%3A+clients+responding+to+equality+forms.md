@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2021-04-29'
 date_updated: '2021-09-22'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of clients responding to Equality Monitoring and Feedback forms since
   9th December 2019.</p>

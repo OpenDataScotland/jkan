@@ -2,8 +2,8 @@
 category:
 - Transportation
 date_created: '2021-09-25'
-date_updated: '2022-12-08'
-license: 'Custom licence: http://opendatacommons.org/licenses/odbl/1-0/'
+date_updated: '2022-12-16'
+license: https://opendatacommons.org/licenses/odbl/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within Aberdeen City
   Council's network."</p>

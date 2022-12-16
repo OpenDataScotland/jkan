@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2018-04-24'
 date_updated: '2022-06-05'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: '<p>School leaver average total tariff score: grouped into the lowest 20%,
   middle 60% and highest 20% of attainers for each school</p>'

@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-11-20'
 date_updated: '2022-11-14'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>This dataset identifies Forest Plans approved during Rural Development\
   \ Contracts \u2013Rural Priorities 2007-2013. \_Forest Plans aim to deliver long-term\

@@ -3,7 +3,7 @@ category:
 - Tourism
 date_created: '2019-07-19'
 date_updated: '2019-07-23'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: <p>Scottish Annual Business Survey 2017, Sustainable Tourism (June 2019 release)-
   filtered for Renfrewshire</p>

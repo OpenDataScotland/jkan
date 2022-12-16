@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2020-02-13'
 date_updated: '2020-02-13'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Data Zone level ranks and quantiles for the 2016 Scottish Index of Multiple
   Deprivation (SIMD) overall, and by individual domain</p>

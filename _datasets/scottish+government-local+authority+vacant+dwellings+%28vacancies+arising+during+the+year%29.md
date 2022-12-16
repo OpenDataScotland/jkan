@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2018-07-20'
 date_updated: '2022-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of Local Authority dwellings falling vacant during the year and which
   are available for reletting (whether or not relet)</p>

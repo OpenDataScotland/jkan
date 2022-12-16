@@ -11,11 +11,11 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: MS EXCEL
-  name: 468-469 George Street Q1.xls
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c2f910a3-010c-4f8f-80cb-f0ca4201f329
+  name: 421 Glasgow Bridge Q1.xls
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=17b44111-140c-45af-a00a-c9686ca90cea
 - format: PDF
-  name: Automatic Cycle Counter Locations City Centre Cordon.pdf
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/e6b0978b-db1a-44f3-9f44-88a75181b7bf/Automatic%20Cycle%20Counter%20Locations%20City%20Centre%20Cordon.pdf
+  name: Automatic Cycle Counter Locations Outwith City Centre.pdf
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/0c4ab05f-2384-4847-892a-329c66ef37c4/Automatic%20Cycle%20Counter%20Locations%20Outwith%20City%20Centre.pdf
 schema: default
 title: City Centre Cordon - Automatic Cycle Counts - Quarter 1 2019
 ---

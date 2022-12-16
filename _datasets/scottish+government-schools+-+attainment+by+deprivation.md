@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2018-04-24'
 date_updated: '2022-06-05'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The average total tariff score, and percentage of school leavers by Scottish
   Index of Multiple Deprivation (SIMD) Quintile                  </p>

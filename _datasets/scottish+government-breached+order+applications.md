@@ -3,7 +3,7 @@ category:
 - Public Safety
 date_created: '2014-07-29'
 date_updated: '2021-10-12'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of breaches applications for social work orders by order type.</p>
 organization: Scottish Government

@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2017-03-17'
 date_updated: '2022-10-17'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Financial and employment data by broad industry by year. Annual Business
   Survey (ABS) provides data mainly on the Production (including Manufacturing), Construction

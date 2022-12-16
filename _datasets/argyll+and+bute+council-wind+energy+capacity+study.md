@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2019-07-31'
 date_updated: '2019-07-31'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>The council, together with Scottish Natural Heritage have commissioned\
   \ Consultant Landscape Architects to update the Argyll and Bute Landscape Wind Energy\

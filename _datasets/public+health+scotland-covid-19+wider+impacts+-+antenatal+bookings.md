@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2022-12-07'
+date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>As an essential service, maternity care including \u2018booking\u2019 has
@@ -50,5 +50,5 @@ resources:
   name: Antenatal bookings by Deprivation
   url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20221207.csv
 schema: default
-title: "COVID-19 Wider Impacts \u2013 Antenatal Bookings"
+title: COVID-19 Wider Impacts - Antenatal Bookings
 ---

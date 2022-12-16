@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2017-10-27'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Primary School Catchments 01/01/2016 - 13/08/2017 (Moray) (non denominational)In\
   \  Moray, the education authority discharges its duty to secure adequate  and efficient\

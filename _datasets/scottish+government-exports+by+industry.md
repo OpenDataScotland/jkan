@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2018-04-19'
 date_updated: '2021-10-25'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Scottish international exports and Scottish exports to the rest of the UK
   broken down by industry sector.</p>

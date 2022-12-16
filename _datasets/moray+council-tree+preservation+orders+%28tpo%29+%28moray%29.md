@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2018-02-16'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Tree Preservation Orders (TPO's) are served on potentially vulnerable trees
   which are of significant amenity value to the community as a whole, or trees of

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-05'
-date_updated: '2022-12-07'
+date_updated: '2022-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>This open data publication has moved to <a href="https://www.opendata.nhs.scot/dataset/covid-19-in-scotland">COVID-19

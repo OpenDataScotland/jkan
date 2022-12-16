@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2019-11-18'
 date_updated: '2020-01-24'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation and\
   \ management of woods and forests to provide economic, environmental and social\

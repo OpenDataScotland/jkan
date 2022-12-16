@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2017-05-12'
 date_updated: '2021-11-25'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Mid-year population estimates. Higher geographies are aggregated from 2001
   Data Zones.</p>

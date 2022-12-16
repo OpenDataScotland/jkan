@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2021-09-23'
 date_updated: '2022-11-24'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Job Start Payment is a new benefit that helps young people in Scotland,
   aged 16 to 24, who are receiving certain benefits, with the costs of starting a

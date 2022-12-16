@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2014-07-29'
 date_updated: '2022-03-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Office for National Statistics
 notes: <p>Number and percentage of people in full time and part time employment (aged
   16+)</p>

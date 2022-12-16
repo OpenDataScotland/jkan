@@ -3,7 +3,7 @@ category:
 - Business and Economy
 date_created: '2022-12-07'
 date_updated: '2022-12-07'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: '<p>Supporting tables for the exploration of attitudes to family formation
   and ideal family size in Scotland. Insights in family planning and resettlement

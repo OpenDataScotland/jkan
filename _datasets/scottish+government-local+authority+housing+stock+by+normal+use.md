@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2017-11-29'
 date_updated: '2022-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
 organization: Scottish Government

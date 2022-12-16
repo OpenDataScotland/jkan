@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 date_created: '2019-03-14'
 date_updated: '2020-12-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>How safe adults in Scotland feel when walking alone in their neighbourhood
   after dark, from the Scottish Household Survey (SHS)</p>
