@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2021-04-09'
-date_updated: '2022-09-07'
+date_updated: '2022-12-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Datasets within this group show the monthly breakdown of the tonnage
@@ -11,8 +11,10 @@ notes: <p><strong>Datasets within this group show the monthly breakdown of the t
   an annual basis.</strong>\r\n\r\n<a href="https://stirling.gov.uk/bins-waste-recycling/"><strong>Bins
   &amp; Recycling</strong></a> <strong>provides details of Stirling Council's Waste
   Services.</strong>\r\n\r\n<strong>For information on environmental protection, visit
-  </strong><a href="https://www.sepa.org.uk/"><strong>SEPA's website</strong></a><strong>.</strong>\r\n\r\n<strong>Datasets
-  for 2018, 2019 and 2020 can be found under the </strong><a href="https://data.stirling.gov.uk/dataset/waste-management"><strong>Waste
+  </strong><a href="https://www.sepa.org.uk/"><strong>SEPA's website</strong></a><strong>.</strong>\r\n\r\n<strong>Data
+  for quarter 1st October, 2022, to 31st October, 2022, inclusive, will be available
+  from week commencing 23rd January, 2023.</strong>\r\n\r\n<strong>Datasets for 2018,
+  2019 and 2020 can be found under the </strong><a href="https://data.stirling.gov.uk/dataset/waste-management"><strong>Waste
   Management (2018 to 2020, inclusive)</strong></a><strong> group on this platform.</strong></p>
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/waste-services-2021-onwards
@@ -29,7 +31,7 @@ resources:
   url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/22285ab0-0401-4774-b8ac-caf0d6fd0bbd/download/20210409-collections-summary-data.csv
 - format: CSV
   name: Domestic Waste Collections for 2022
-  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/f0a75f47-bae7-429b-85b1-3669cc1288b5/download/20220907-stirling-domestic-waste-collections-jan-2022-to-dec-2022.csv
+  url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/f0a75f47-bae7-429b-85b1-3669cc1288b5/download/20221219-stirling-domestic-waste-collections-jan-2022-to-dec-2022.csv
 - format: PDF
   name: Collections' Summary Report 2
   url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/e1aa9bb6-d605-418d-a1b0-8d82d7140b44/download/20220520-stirling-waste-services-collections-summary-from-27.09.2021-v.2.pdf

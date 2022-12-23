@@ -6,7 +6,7 @@ date_created: ''
 date_updated: '2016-07-15'
 license: No licence
 maintainer: Highland Council
-notes: "<p>Flare Zones within the Highland Council Area. A Flare Zone is an administrative\
+notes: "<p>Flare Zones within The Highland Council Area. A Flare Zone is an administrative\
   \ area referred to within the operations for Environmental Health. Flare is the\
   \ Information Management System used within the Environmental Health Function of\
   \ The Highland Council - this database is also known as CIVICA APP. Please note\

@@ -14,8 +14,9 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/514720b2-97bc-4578-8445-a1b99140c732/3/urql
+  name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18
+    - Cycling Scotland.json
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=52ac5039-7ff4-44f0-8e41-708c0e2eb1de
 - format: XML
   name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2017/18
     - Cycling Scotland.xml

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-05-05'
-date_updated: '2022-12-14'
+date_updated: '2022-12-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>This open data publication has moved to <a href="https://www.opendata.nhs.scot/dataset/covid-19-in-scotland">COVID-19
@@ -135,5 +135,5 @@ resources:
   name: Community Testing By Health Board
   url: https://www.opendata.nhs.scot/dataset/524b42b4-5c4e-4492-ba32-39dc43116710/resource/53688d25-856e-4f89-916d-ed274ea4a3ff/download/community_testing_hb.csv
 schema: default
-title: Weekly COVID-19 Statistical Data in Scotland
+title: ARCHIVED - Weekly COVID-19 Statistical Data in Scotland
 ---
