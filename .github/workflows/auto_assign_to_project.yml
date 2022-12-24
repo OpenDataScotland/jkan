@@ -11,5 +11,4 @@ on:
 jobs:
   auto_assign:
     uses: opendatascotland/.github/.github/workflows/auto_assign_to_project.yml@main
-    secrets:
-      AUTO_ASSIGN_TOKEN: ${{ secrets.AUTO_ASSIGN_TOKEN }}
+    secrets: inherit
