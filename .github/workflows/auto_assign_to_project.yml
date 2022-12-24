@@ -1,9 +1,6 @@
 # NOTE: If changing this workflow, consider the impact on the same one in other repos and the global workflow in the .github repo
 name: Issue auto-assigner
 
-env:
-  GITHUB_TOKEN: '${{ secrets.AUTO_ASSIGN_TOKEN }}'
-
 on:
   issues:
     types: [opened]
