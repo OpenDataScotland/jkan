@@ -1,5 +1,6 @@
 ---
 category:
+- Law and Licensing
 - Public Safety
 - Transportation
 date_created: '2017-11-29'

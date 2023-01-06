@@ -1,7 +1,10 @@
 ---
 category:
 - Arts / Culture / History
+- Council and Government
+- Housing and Estates
 - Planning and Development
+- Transportation
 date_created: '2022-08-08'
 date_updated: '2022-08-09'
 license: https://opendatacommons.org/licenses/odbl/

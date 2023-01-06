@@ -1,6 +1,8 @@
 ---
 category:
+- Council and Government
 - Food and Environment
+- Health and Social Care
 - Housing and Estates
 date_created: '2018-04-16'
 date_updated: '2019-03-19'

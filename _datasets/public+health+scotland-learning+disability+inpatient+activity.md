@@ -1,5 +1,6 @@
 ---
 category:
+- Business and Economy
 - Health and Social Care
 date_created: '2020-02-12'
 date_updated: '2021-12-02'

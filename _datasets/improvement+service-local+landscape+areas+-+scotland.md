@@ -1,7 +1,7 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
-- Planning and Development
 date_created: '2021-06-17'
 date_updated: '2022-11-09'
 license: 'Custom licence: Other (Not Open)'

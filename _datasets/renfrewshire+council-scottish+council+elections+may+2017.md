@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Elections / Politics
 date_created: '2018-01-09'
 date_updated: '2018-05-09'

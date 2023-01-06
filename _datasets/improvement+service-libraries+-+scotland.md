@@ -1,6 +1,10 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Education
+- Elections / Politics
+- Planning and Development
+- Sport and Leisure
 date_created: '2021-06-11'
 date_updated: '2022-10-31'
 license: 'Custom licence: Other (Not Open)'

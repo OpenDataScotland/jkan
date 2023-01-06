@@ -1,6 +1,8 @@
 ---
 category:
+- Business and Economy
 - Health and Social Care
+- Public Safety
 date_created: '2021-03-16'
 date_updated: '2022-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

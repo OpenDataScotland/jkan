@@ -1,5 +1,7 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Elections / Politics
 - Health and Social Care
 - Planning and Development

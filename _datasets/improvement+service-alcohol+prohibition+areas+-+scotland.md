@@ -1,7 +1,7 @@
 ---
 category:
-- Council and Government
-- Planning and Development
+- Elections / Politics
+- Health and Social Care
 date_created: '2021-06-11'
 date_updated: '2022-11-09'
 license: 'Custom licence: Other (Not Open)'

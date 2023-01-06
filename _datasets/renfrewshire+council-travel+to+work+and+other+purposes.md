@@ -1,5 +1,7 @@
 ---
 category:
+- Arts / Culture / History
+- Education
 - Transportation
 date_created: '2019-07-23'
 date_updated: '2019-07-23'

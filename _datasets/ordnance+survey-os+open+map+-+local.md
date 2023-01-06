@@ -1,9 +1,9 @@
 ---
 category:
+- Education
+- Health and Social Care
 - Housing and Estates
-- Parks / Recreation
 - Planning and Development
-- Transportation
 date_created: '2017-08-25'
 date_updated: '2020-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

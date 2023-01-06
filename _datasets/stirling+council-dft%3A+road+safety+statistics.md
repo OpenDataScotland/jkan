@@ -1,5 +1,9 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
+- Law and Licensing
+- Planning and Development
 - Public Safety
 - Transportation
 date_created: '2022-10-20'

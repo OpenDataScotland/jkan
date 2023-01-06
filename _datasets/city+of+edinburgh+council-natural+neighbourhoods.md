@@ -1,6 +1,8 @@
 ---
 category:
+- Business and Economy
 - Council and Government
+- Housing and Estates
 - Planning and Development
 date_created: ''
 date_updated: '2021-05-27'

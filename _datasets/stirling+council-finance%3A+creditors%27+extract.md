@@ -1,6 +1,9 @@
 ---
 category:
 - Budget / Finance
+- Business and Economy
+- Council and Government
+- Elections / Politics
 date_created: '2019-07-02'
 date_updated: '2022-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

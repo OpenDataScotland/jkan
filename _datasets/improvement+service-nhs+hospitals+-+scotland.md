@@ -1,6 +1,10 @@
 ---
 category:
+- Arts / Culture / History
+- Elections / Politics
 - Health and Social Care
+- Housing and Estates
+- Planning and Development
 date_created: '2021-06-11'
 date_updated: '2022-10-31'
 license: 'Custom licence: Other (Not Open)'

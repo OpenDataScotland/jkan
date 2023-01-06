@@ -1,7 +1,9 @@
 ---
 category:
-- Business and Economy
-- Food and Environment
+- Budget / Finance
+- Council and Government
+- Elections / Politics
+- Law and Licensing
 date_created: '2021-06-11'
 date_updated: '2022-10-31'
 license: 'Custom licence: Other (Not Open)'

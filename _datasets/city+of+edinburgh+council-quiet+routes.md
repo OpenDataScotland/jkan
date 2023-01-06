@@ -1,5 +1,8 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
+- Planning and Development
 - Transportation
 date_created: ''
 date_updated: '2021-05-25'

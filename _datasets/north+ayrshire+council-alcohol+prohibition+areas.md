@@ -1,7 +1,7 @@
 ---
 category:
 - Council and Government
-- Food and Environment
+- Health and Social Care
 - Planning and Development
 date_created: ''
 date_updated: '2017-05-25'

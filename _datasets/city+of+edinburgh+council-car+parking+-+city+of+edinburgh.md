@@ -1,5 +1,9 @@
 ---
 category:
+- Council and Government
+- Housing and Estates
+- Parks / Recreation
+- Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
 date_updated: '2022-10-27'

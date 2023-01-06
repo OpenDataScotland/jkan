@@ -1,5 +1,7 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Planning and Development
 date_created: ''
 date_updated: '2018-11-05'

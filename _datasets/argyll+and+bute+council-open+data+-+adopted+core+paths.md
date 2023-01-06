@@ -1,6 +1,9 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Planning and Development
 - Transportation
 date_created: '2017-07-07'
 date_updated: '2017-07-18'

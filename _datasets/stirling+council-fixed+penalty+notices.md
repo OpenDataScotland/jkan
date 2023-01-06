@@ -1,6 +1,8 @@
 ---
 category:
-- Public Safety
+- Council and Government
+- Food and Environment
+- Law and Licensing
 date_created: '2019-02-26'
 date_updated: '2022-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

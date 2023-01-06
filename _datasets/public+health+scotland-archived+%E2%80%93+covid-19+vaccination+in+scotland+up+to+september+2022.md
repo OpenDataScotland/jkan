@@ -1,8 +1,11 @@
 ---
 category:
+- Business and Economy
+- Elections / Politics
 - Health and Social Care
+- Public Safety
 date_created: '2021-01-13'
-date_updated: '2022-12-07'
+date_updated: '2023-01-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>This dataset is no longer updated, find vaccination data <a href="https://www.opendata.nhs.scot/dataset/flu-covid-vaccinations">here</a></strong>\r\n\r\n_From
@@ -102,5 +105,5 @@ resources:
   name: JCVI Priority Group Definitions
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/29e8ab8e-065a-4f92-ab70-4371d757633b/download/jcvi-table_20220201.xlsx
 schema: default
-title: COVID-19 Vaccination in Scotland
+title: "ARCHIVED \u2013 COVID-19 Vaccination in Scotland up to September 2022"
 ---

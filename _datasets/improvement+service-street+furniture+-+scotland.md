@@ -1,5 +1,9 @@
 ---
 category:
+- Council and Government
+- Food and Environment
+- Housing and Estates
+- Public Safety
 - Transportation
 date_created: '2021-06-11'
 date_updated: '2022-11-08'

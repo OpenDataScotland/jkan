@@ -1,6 +1,9 @@
 ---
 category:
-- Food and Environment
+- Business and Economy
+- Council and Government
+- Housing and Estates
+- Planning and Development
 date_created: '2020-12-22'
 date_updated: '2020-12-22'
 license: No licence

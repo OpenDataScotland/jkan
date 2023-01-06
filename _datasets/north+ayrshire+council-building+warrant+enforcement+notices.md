@@ -1,6 +1,7 @@
 ---
 category:
-- Planning and Development
+- Elections / Politics
+- Law and Licensing
 date_created: ''
 date_updated: '2017-07-02'
 license: No licence

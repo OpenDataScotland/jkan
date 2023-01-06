@@ -1,7 +1,7 @@
 ---
 category:
-- Business and Economy
-- Housing and Estates
+- Council and Government
+- Elections / Politics
 - Planning and Development
 date_created: '2017-01-04'
 date_updated: '2017-01-12'

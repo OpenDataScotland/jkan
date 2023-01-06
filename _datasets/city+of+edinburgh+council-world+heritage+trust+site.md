@@ -1,6 +1,8 @@
 ---
 category:
+- Arts / Culture / History
 - Planning and Development
+- Sport and Leisure
 date_created: ''
 date_updated: '2021-05-27'
 license: No licence

@@ -1,5 +1,9 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
+- Law and Licensing
+- Planning and Development
 - Transportation
 date_created: '2022-10-31'
 date_updated: '2022-11-17'

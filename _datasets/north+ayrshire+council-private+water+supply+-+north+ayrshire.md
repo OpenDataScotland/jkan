@@ -1,7 +1,10 @@
 ---
 category:
-- Business and Economy
-- Food and Environment
+- Council and Government
+- Health and Social Care
+- Law and Licensing
+- Planning and Development
+- Public Safety
 date_created: '2018-05-29'
 date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,7 +1,10 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
 - Planning and Development
+- Sport and Leisure
+- Transportation
 date_created: '2016-05-24'
 date_updated: '2022-11-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

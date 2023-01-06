@@ -2,6 +2,7 @@
 category:
 - Council and Government
 - Education
+- Elections / Politics
 - Planning and Development
 date_created: ''
 date_updated: '2018-05-22'

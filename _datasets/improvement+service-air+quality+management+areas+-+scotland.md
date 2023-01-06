@@ -1,9 +1,7 @@
 ---
 category:
-- Business and Economy
-- Council and Government
+- Elections / Politics
 - Food and Environment
-- Planning and Development
 date_created: '2021-06-11'
 date_updated: '2022-11-04'
 license: 'Custom licence: Other (Not Open)'

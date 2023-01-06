@@ -1,5 +1,7 @@
 ---
 category:
+- Budget / Finance
+- Council and Government
 - Education
 date_created: '2018-04-23'
 date_updated: '2022-07-22'

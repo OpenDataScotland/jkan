@@ -1,6 +1,9 @@
 ---
 category:
-- Uncategorised
+- Food and Environment
+- Housing and Estates
+- Planning and Development
+- Sport and Leisure
 date_created: '2022-11-29'
 date_updated: '2022-12-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

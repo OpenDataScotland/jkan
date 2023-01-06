@@ -1,6 +1,10 @@
 ---
 category:
+- Budget / Finance
+- Business and Economy
 - Education
+- Elections / Politics
+- Planning and Development
 date_created: '2022-05-26'
 date_updated: '2022-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

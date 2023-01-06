@@ -1,6 +1,8 @@
 ---
 category:
+- Housing and Estates
 - Planning and Development
+- Sport and Leisure
 date_created: '2019-07-19'
 date_updated: '2019-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,11 @@
 ---
 category:
+- Business and Economy
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Planning and Development
 date_created: '2021-06-16'
 date_updated: '2022-11-02'
 license: 'Custom licence: Other (Not Open)'

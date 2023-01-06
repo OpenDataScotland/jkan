@@ -1,7 +1,9 @@
 ---
 category:
-- Food and Environment
+- Business and Economy
+- Housing and Estates
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-12-13'
 date_updated: '2020-11-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,5 +1,6 @@
 ---
 category:
+- Elections / Politics
 - Health and Social Care
 date_created: '2017-03-24'
 date_updated: '2021-09-03'

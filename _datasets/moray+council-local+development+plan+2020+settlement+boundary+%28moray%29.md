@@ -1,5 +1,9 @@
 ---
 category:
+- Business and Economy
+- Council and Government
+- Food and Environment
+- Housing and Estates
 - Planning and Development
 date_created: '2020-07-23'
 date_updated: '2022-11-15'

@@ -1,7 +1,6 @@
 ---
 category:
 - Health and Social Care
-- Planning and Development
 date_created: '2019-03-26'
 date_updated: '2022-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

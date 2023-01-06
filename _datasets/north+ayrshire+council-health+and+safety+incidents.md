@@ -1,6 +1,8 @@
 ---
 category:
 - Business and Economy
+- Health and Social Care
+- Public Safety
 date_created: ''
 date_updated: '2017-10-19'
 license: No licence

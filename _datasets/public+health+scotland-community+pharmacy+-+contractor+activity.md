@@ -1,6 +1,5 @@
 ---
 category:
-- Budget / Finance
 - Health and Social Care
 date_created: '2017-09-13'
 date_updated: '2022-12-20'

@@ -1,6 +1,8 @@
 ---
 category:
-- Food and Environment
+- Council and Government
+- Parks / Recreation
+- Sport and Leisure
 date_created: ''
 date_updated: '2018-02-15'
 license: No licence

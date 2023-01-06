@@ -1,6 +1,6 @@
 ---
 category:
-- Planning and Development
+- Education
 date_created: '2018-02-21'
 date_updated: '2019-01-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

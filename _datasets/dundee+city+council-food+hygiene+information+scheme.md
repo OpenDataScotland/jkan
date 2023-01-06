@@ -1,6 +1,9 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Food and Environment
+- Tourism
 date_created: '2017-11-29'
 date_updated: '2022-04-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

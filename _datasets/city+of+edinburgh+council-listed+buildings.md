@@ -1,6 +1,8 @@
 ---
 category:
 - Arts / Culture / History
+- Food and Environment
+- Housing and Estates
 - Planning and Development
 date_created: ''
 date_updated: '2022-04-26'

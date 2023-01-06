@@ -1,6 +1,6 @@
 ---
 category:
-- Business and Economy
+- Budget / Finance
 date_created: '2016-11-14'
 date_updated: '2022-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,5 @@
 ---
 category:
-- Council and Government
 - Health and Social Care
 date_created: ''
 date_updated: '2017-11-28'

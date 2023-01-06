@@ -1,5 +1,6 @@
 ---
 category:
+- Law and Licensing
 - Public Safety
 date_created: '2016-08-04'
 date_updated: '2022-11-03'

@@ -1,7 +1,6 @@
 ---
 category:
 - Education
-- Sport and Leisure
 date_created: ''
 date_updated: '2019-08-29'
 license: No licence

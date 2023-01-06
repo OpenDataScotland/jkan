@@ -1,9 +1,7 @@
 ---
 category:
-- Arts / Culture / History
+- Council and Government
 - Food and Environment
-- Housing and Estates
-- Parks / Recreation
 - Planning and Development
 date_created: '2022-08-08'
 date_updated: '2022-08-09'

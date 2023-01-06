@@ -1,7 +1,13 @@
 ---
 category:
+- Arts / Culture / History
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2021-06-11'
 date_updated: '2022-11-02'
 license: 'Custom licence: Other (Not Open)'

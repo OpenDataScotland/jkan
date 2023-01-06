@@ -1,5 +1,7 @@
 ---
 category:
+- Education
+- Elections / Politics
 - Transportation
 date_created: '2021-05-13'
 date_updated: '2021-08-13'

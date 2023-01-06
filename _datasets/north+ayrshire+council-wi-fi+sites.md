@@ -1,6 +1,6 @@
 ---
 category:
-- Business and Economy
+- Planning and Development
 date_created: ''
 date_updated: '2017-06-22'
 license: No licence

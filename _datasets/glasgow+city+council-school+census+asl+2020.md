@@ -1,6 +1,8 @@
 ---
 category:
+- Budget / Finance
 - Business and Economy
+- Council and Government
 - Education
 date_created: ''
 date_updated: '2021-12-07'

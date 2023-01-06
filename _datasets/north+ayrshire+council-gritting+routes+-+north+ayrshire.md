@@ -1,5 +1,7 @@
 ---
 category:
+- Arts / Culture / History
+- Elections / Politics
 - Transportation
 date_created: '2017-11-13'
 date_updated: '2022-10-27'

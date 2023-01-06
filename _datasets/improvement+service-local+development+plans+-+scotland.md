@@ -1,7 +1,13 @@
 ---
 category:
+- Arts / Culture / History
+- Business and Economy
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
+- Transportation
 date_created: '2021-06-11'
 date_updated: '2022-10-31'
 license: 'Custom licence: Other (Not Open)'

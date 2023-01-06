@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Council and Government
 date_created: '2018-01-31'
 date_updated: '2022-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

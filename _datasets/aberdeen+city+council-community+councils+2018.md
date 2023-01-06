@@ -2,6 +2,7 @@
 category:
 - Council and Government
 - Elections / Politics
+- Law and Licensing
 - Planning and Development
 date_created: '2020-08-03'
 date_updated: '2020-09-22'

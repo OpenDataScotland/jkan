@@ -1,5 +1,6 @@
 ---
 category:
+- Budget / Finance
 - Transportation
 date_created: '2019-10-21'
 date_updated: '2019-11-08'

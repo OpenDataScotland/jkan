@@ -1,6 +1,7 @@
 ---
 category:
-- Housing and Estates
+- Council and Government
+- Law and Licensing
 - Transportation
 date_created: ''
 date_updated: '2021-05-27'

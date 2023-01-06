@@ -1,6 +1,7 @@
 ---
 category:
 - Budget / Finance
+- Business and Economy
 - Council and Government
 date_created: ''
 date_updated: '2022-01-13'

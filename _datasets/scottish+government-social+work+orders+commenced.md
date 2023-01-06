@@ -1,6 +1,7 @@
 ---
 category:
-- Public Safety
+- Elections / Politics
+- Health and Social Care
 date_created: '2017-02-21'
 date_updated: '2022-01-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

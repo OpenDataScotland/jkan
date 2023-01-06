@@ -1,7 +1,6 @@
 ---
 category:
-- Budget / Finance
-- Business and Economy
+- Uncategorised
 date_created: ''
 date_updated: '2020-11-18'
 license: No licence

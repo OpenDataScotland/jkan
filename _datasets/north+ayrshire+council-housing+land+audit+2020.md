@@ -1,6 +1,8 @@
 ---
 category:
-- Uncategorised
+- Food and Environment
+- Housing and Estates
+- Planning and Development
 date_created: ''
 date_updated: '2021-05-24'
 license: No licence

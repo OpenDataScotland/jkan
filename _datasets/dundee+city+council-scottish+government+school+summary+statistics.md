@@ -1,6 +1,9 @@
 ---
 category:
+- Budget / Finance
+- Council and Government
 - Education
+- Planning and Development
 date_created: '2018-04-24'
 date_updated: '2022-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

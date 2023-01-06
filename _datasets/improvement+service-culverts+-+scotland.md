@@ -1,5 +1,9 @@
 ---
 category:
+- Elections / Politics
+- Food and Environment
+- Law and Licensing
+- Planning and Development
 - Transportation
 date_created: '2021-06-11'
 date_updated: '2022-11-08'

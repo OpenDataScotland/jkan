@@ -1,8 +1,10 @@
 ---
 category:
+- Budget / Finance
 - Business and Economy
 - Council and Government
 - Elections / Politics
+- Law and Licensing
 date_created: ''
 date_updated: '2018-04-16'
 license: No licence

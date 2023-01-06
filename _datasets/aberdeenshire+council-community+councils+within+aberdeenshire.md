@@ -1,6 +1,7 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
 date_created: ''
 date_updated: '2022-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

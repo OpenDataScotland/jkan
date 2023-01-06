@@ -1,6 +1,10 @@
 ---
 category:
+- Council and Government
+- Law and Licensing
+- Planning and Development
 - Public Safety
+- Transportation
 date_created: '2022-02-16'
 date_updated: '2022-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

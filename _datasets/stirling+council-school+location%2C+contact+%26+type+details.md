@@ -1,6 +1,9 @@
 ---
 category:
+- Council and Government
 - Education
+- Elections / Politics
+- Planning and Development
 date_created: '2022-04-21'
 date_updated: '2022-11-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

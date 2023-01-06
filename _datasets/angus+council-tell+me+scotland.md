@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Law and Licensing
 - Planning and Development
 date_created: '2016-12-07'

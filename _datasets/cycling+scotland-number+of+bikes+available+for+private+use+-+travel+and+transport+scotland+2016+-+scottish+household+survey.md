@@ -1,5 +1,6 @@
 ---
 category:
+- Elections / Politics
 - Transportation
 date_created: '2018-05-15'
 date_updated: '2019-12-20'

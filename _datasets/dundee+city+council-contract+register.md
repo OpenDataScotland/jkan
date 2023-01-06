@@ -1,6 +1,8 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
+- Business and Economy
+- Council and Government
 date_created: '2018-01-25'
 date_updated: '2022-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

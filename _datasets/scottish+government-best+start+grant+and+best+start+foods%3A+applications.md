@@ -1,6 +1,8 @@
 ---
 category:
-- Business and Economy
+- Budget / Finance
+- Education
+- Health and Social Care
 date_created: '2019-05-31'
 date_updated: '2022-10-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

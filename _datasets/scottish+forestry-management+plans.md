@@ -1,6 +1,10 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
+- Business and Economy
+- Council and Government
+- Housing and Estates
+- Parks / Recreation
 date_created: '2019-11-20'
 date_updated: '2022-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

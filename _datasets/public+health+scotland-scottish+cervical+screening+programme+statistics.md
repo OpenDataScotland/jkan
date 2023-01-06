@@ -1,5 +1,7 @@
 ---
 category:
+- Budget / Finance
+- Business and Economy
 - Health and Social Care
 date_created: '2020-05-28'
 date_updated: '2021-10-05'

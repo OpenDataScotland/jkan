@@ -1,7 +1,13 @@
 ---
 category:
+- Arts / Culture / History
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-01-27'
 date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

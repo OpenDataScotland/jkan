@@ -1,6 +1,9 @@
 ---
 category:
-- Budget / Finance
+- Business and Economy
+- Council and Government
+- Health and Social Care
+- Transportation
 date_created: '2020-03-04'
 date_updated: '2022-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

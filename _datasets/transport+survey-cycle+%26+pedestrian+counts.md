@@ -1,5 +1,7 @@
 ---
 category:
+- Council and Government
+- Food and Environment
 - Transportation
 date_created: '2021-04-26'
 date_updated: '2022-11-23'

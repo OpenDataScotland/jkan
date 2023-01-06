@@ -1,6 +1,7 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Planning and Development
 date_created: ''
 date_updated: '2022-11-04'
 license: No licence

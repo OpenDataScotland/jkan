@@ -1,6 +1,9 @@
 ---
 category:
-- Uncategorised
+- Business and Economy
+- Council and Government
+- Food and Environment
+- Health and Social Care
 date_created: '2022-06-17'
 date_updated: '2022-06-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,7 @@
 ---
 category:
 - Business and Economy
+- Law and Licensing
 date_created: '2022-08-18'
 date_updated: '2022-09-07'
 license: https://creativecommons.org/licenses/by/4.0/

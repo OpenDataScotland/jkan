@@ -1,6 +1,10 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Housing and Estates
+- Parks / Recreation
+- Sport and Leisure
+- Transportation
 date_created: '2017-11-13'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

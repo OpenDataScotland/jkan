@@ -1,6 +1,7 @@
 ---
 category:
-- Food and Environment
+- Law and Licensing
+- Public Safety
 - Transportation
 date_created: ''
 date_updated: '2021-12-17'

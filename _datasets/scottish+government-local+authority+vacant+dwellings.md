@@ -1,5 +1,6 @@
 ---
 category:
+- Elections / Politics
 - Housing and Estates
 - Planning and Development
 date_created: '2018-07-20'

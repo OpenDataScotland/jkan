@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Elections / Politics
 - Health and Social Care
 - Planning and Development

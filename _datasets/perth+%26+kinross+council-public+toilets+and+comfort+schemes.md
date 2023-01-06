@@ -2,6 +2,8 @@
 category:
 - Food and Environment
 - Health and Social Care
+- Housing and Estates
+- Planning and Development
 - Tourism
 date_created: '2022-08-18'
 date_updated: '2022-09-12'

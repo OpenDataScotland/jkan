@@ -1,6 +1,5 @@
 ---
 category:
-- Elections / Politics
 - Health and Social Care
 - Planning and Development
 date_created: '2019-01-22'

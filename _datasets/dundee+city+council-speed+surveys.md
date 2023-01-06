@@ -1,6 +1,5 @@
 ---
 category:
-- Public Safety
 - Transportation
 date_created: '2018-03-12'
 date_updated: '2018-04-12'

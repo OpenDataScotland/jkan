@@ -1,7 +1,7 @@
 ---
 category:
-- Arts / Culture / History
-- Planning and Development
+- Food and Environment
+- Sport and Leisure
 date_created: ''
 date_updated: '2022-06-20'
 license: No licence

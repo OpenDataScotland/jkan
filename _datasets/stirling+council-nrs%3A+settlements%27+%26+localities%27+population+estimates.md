@@ -1,6 +1,10 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Elections / Politics
+- Planning and Development
+- Sport and Leisure
 date_created: '2021-07-30'
 date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

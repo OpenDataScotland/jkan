@@ -1,6 +1,7 @@
 ---
 category:
 - Parks / Recreation
+- Sport and Leisure
 date_created: '2022-08-18'
 date_updated: '2022-08-18'
 license: No licence

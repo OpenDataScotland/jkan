@@ -1,6 +1,8 @@
 ---
 category:
+- Business and Economy
 - Housing and Estates
+- Law and Licensing
 - Planning and Development
 date_created: '2017-08-16'
 date_updated: '2022-04-07'

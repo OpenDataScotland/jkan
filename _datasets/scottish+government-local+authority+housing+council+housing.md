@@ -1,5 +1,7 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Housing and Estates
 - Planning and Development
 date_created: '2014-07-29'

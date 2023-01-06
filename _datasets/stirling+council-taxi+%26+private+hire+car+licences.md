@@ -1,6 +1,9 @@
 ---
 category:
-- Uncategorised
+- Business and Economy
+- Council and Government
+- Law and Licensing
+- Transportation
 date_created: '2019-09-25'
 date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

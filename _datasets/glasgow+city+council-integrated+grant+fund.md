@@ -1,6 +1,5 @@
 ---
 category:
-- Budget / Finance
 - Council and Government
 date_created: ''
 date_updated: '2021-06-29'

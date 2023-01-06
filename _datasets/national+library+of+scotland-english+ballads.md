@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Arts / Culture / History
 date_created: ''
 date_updated: ''
 license: https://rightsstatements.org/page/NoC-NC/1.0/

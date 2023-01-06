@@ -1,6 +1,7 @@
 ---
 category:
-- Food and Environment
+- Arts / Culture / History
+- Council and Government
 - Planning and Development
 date_created: ''
 date_updated: '2018-11-05'

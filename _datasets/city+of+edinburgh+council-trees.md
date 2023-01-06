@@ -1,7 +1,6 @@
 ---
 category:
-- Parks / Recreation
-- Sport and Leisure
+- Council and Government
 date_created: ''
 date_updated: '2021-05-25'
 license: No licence

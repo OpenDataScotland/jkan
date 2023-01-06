@@ -1,6 +1,11 @@
 ---
 category:
+- Council and Government
+- Food and Environment
+- Housing and Estates
+- Law and Licensing
 - Planning and Development
+- Sport and Leisure
 date_created: '2019-07-31'
 date_updated: '2019-07-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

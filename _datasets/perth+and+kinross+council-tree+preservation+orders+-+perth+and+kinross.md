@@ -1,6 +1,11 @@
 ---
 category:
-- Uncategorised
+- Arts / Culture / History
+- Council and Government
+- Elections / Politics
+- Food and Environment
+- Law and Licensing
+- Planning and Development
 date_created: '2017-01-27'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

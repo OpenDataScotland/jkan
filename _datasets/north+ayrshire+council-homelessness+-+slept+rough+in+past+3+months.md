@@ -1,7 +1,10 @@
 ---
 category:
+- Food and Environment
 - Housing and Estates
-- Planning and Development
+- Parks / Recreation
+- Sport and Leisure
+- Transportation
 date_created: ''
 date_updated: '2018-04-16'
 license: No licence

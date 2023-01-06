@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Elections / Politics
 - Planning and Development
 date_created: ''

@@ -1,5 +1,7 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Food and Environment
 - Planning and Development
 date_created: '2021-06-11'

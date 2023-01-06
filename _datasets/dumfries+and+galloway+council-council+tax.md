@@ -1,6 +1,8 @@
 ---
 category:
-- Planning and Development
+- Budget / Finance
+- Council and Government
+- Housing and Estates
 date_created: '2018-01-23'
 date_updated: '2018-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

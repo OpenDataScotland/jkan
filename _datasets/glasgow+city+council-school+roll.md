@@ -1,6 +1,5 @@
 ---
 category:
-- Council and Government
 - Education
 date_created: ''
 date_updated: '2021-07-16'

@@ -1,6 +1,7 @@
 ---
 category:
-- Housing and Estates
+- Council and Government
+- Elections / Politics
 - Planning and Development
 date_created: '2017-07-13'
 date_updated: '2022-06-23'

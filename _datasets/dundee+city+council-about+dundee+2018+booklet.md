@@ -1,7 +1,7 @@
 ---
 category:
-- Business and Economy
-- Health and Social Care
+- Council and Government
+- Planning and Development
 date_created: '2019-03-04'
 date_updated: '2019-03-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

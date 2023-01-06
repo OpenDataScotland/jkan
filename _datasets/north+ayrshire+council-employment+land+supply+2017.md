@@ -1,5 +1,8 @@
 ---
 category:
+- Business and Economy
+- Elections / Politics
+- Food and Environment
 - Planning and Development
 date_created: ''
 date_updated: '2018-03-02'

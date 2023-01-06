@@ -1,6 +1,8 @@
 ---
 category:
 - Council and Government
+- Law and Licensing
+- Planning and Development
 - Transportation
 date_created: '2017-09-25'
 date_updated: '2018-02-16'

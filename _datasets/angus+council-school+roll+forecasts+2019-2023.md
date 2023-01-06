@@ -1,6 +1,10 @@
 ---
 category:
+- Business and Economy
 - Education
+- Food and Environment
+- Housing and Estates
+- Planning and Development
 date_created: '2018-10-01'
 date_updated: '2018-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,5 +1,8 @@
 ---
 category:
+- Business and Economy
+- Council and Government
+- Elections / Politics
 - Housing and Estates
 - Planning and Development
 date_created: ''

@@ -1,6 +1,10 @@
 ---
 category:
+- Arts / Culture / History
+- Business and Economy
+- Education
 - Food and Environment
+- Planning and Development
 date_created: '2021-06-11'
 date_updated: '2022-11-10'
 license: 'Custom licence: Other (Not Open)'

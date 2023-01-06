@@ -1,6 +1,12 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Elections / Politics
+- Food and Environment
+- Housing and Estates
+- Planning and Development
+- Public Safety
 date_created: '2020-07-02'
 date_updated: '2022-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

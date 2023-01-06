@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Food and Environment
 date_created: '2018-03-23'
 date_updated: '2019-03-19'

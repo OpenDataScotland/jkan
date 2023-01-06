@@ -1,5 +1,7 @@
 ---
 category:
+- Budget / Finance
+- Council and Government
 - Education
 - Transportation
 date_created: '2021-09-24'

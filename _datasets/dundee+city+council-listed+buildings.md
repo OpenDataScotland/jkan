@@ -1,6 +1,9 @@
 ---
 category:
-- Arts / Culture / History
+- Council and Government
+- Food and Environment
+- Housing and Estates
+- Planning and Development
 date_created: '2018-02-15'
 date_updated: '2019-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
