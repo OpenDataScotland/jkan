@@ -7,7 +7,7 @@ license: No licence
 maintainer: North Lanarkshire Council
 notes: <p>Tree Preservation Order 2018</p>
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::tree-preservation-order-2018
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::tree-preservation-order
 records: null
 resources:
 - format: ARCGIS GEOSERVICE
@@ -15,16 +15,16 @@ resources:
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/19
 - format: GEOJSON
   name: GEOJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Tree Preservation Order
 ---

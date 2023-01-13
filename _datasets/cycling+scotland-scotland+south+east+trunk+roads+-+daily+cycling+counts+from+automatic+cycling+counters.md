@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2023-01-05'
+date_updated: '2023-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Scotland South East Trunk Roads - Daily cycling counts from automatic cycling

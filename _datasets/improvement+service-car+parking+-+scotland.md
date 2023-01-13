@@ -7,12 +7,12 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
+date_updated: '2023-01-09'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>Most councils will keep a record of their car parks, bays and zones (including
   parking-related TROs (Traffic Regulation Orders). Therefore we have tried to compile
-  these into consistent national layers.  Currently, we publish five layers: - Car
+  these into consistent national layers.  Currently, we publish four layers: - Car
   Parks - a polygon layer - Car Parks - a point layer - Parking Bays - a polygon layer
   - Parking Zones - a polygon layer  Any supplied line records (usually TROs) have
   been buffered by 2m to create a representative area and incorporate them into the

@@ -15,14 +15,14 @@ resources:
   name: National Monitoring Framework - all-mode traffic survey results September
     2021 - Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e0cb9563-d672-4dad-aaae-4aebbd06060d
+- format: CSV
+  name: National Monitoring Framework - all-mode traffic survey results September
+    2021 - Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results September
     2021 - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8dbd8bf-91e7-4ae7-9d0d-38f1e0ef63e1
-- format: CSV
-  name: National Monitoring Framework - all-mode traffic survey results September
-    2021 - Cycling Scotland (2).csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=51a4c9f3-68fb-443b-b67e-666bc21fefaf
 schema: default
 title: National Monitoring Framework - all-mode traffic survey results September 2021
   - Cycling Scotland

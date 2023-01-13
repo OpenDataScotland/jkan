@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2022-12-20'
+date_updated: '2023-01-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items dispensed in the community at prescribing
@@ -269,6 +269,9 @@ resources:
 - format: CSV
   name: Prescribing Data September 2022
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9d0a518d-9d9c-4bcb-afd8-51f6abb7edf1/download/pitc202209.csv
+- format: CSV
+  name: Prescribing Data October 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/bd7bc2cf-4de5-4711-bd5a-9e3b77305453/download/pitc202210.csv
 schema: default
 title: Prescriptions in the Community
 ---
