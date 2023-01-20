@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Public Safety
 date_created: '2021-06-11'
-date_updated: '2022-11-08'
+date_updated: '2023-01-20'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are Smoke

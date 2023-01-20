@@ -14,7 +14,7 @@ records: null
 resources:
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/4/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/7/urql
 - format: CSV
   name: National Monitoring Framework - Automatic cycling counter locations - Cycling
     Scotland.csv

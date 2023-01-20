@@ -8,7 +8,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2022-08-16'
-date_updated: '2022-10-13'
+date_updated: '2023-01-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Sourced from <a href="https://scotland.shinyapps.io/ScotPHO_profiles_tool/">Scottish

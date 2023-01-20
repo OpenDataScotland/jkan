@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2021-06-11'
-date_updated: '2022-11-04'
+date_updated: '2023-01-20'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the

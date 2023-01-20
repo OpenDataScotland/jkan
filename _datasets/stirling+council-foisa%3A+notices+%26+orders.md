@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2020-07-02'
-date_updated: '2022-11-08'
+date_updated: '2023-01-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Under FOISA , the </strong><a href="http://www.legislation.gov.uk/asp/2002/13/contents"><strong>Freedom
@@ -140,6 +140,15 @@ resources:
 - format: CSV
   name: July 2022 to September 2022
   url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/450359ee-a5bf-464f-8ffa-c546dbb3605f/download/20221012-stirling-council-foisa-notices-orders-jul-2022-to-sep-2022.csv
+- format: XPS
+  name: October 2022 to December 2022 (XPS)
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/d1ee5d60-1cdd-43ef-85e8-90637508b034/download/20230116-stirling-council-foisa-notices-orders-oct-2022-to-dec-2022.xps
+- format: PDF
+  name: October 2022 to December 2022 (PDF)
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/0f663e9d-0d48-4f1d-8fea-1b65b3393b11/download/20230116-stirling-council-foisa-notices-orders-oct-2022-to-dec-2022.pdf
+- format: CSV
+  name: October 2022 to December 2022
+  url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/1544b603-156d-427c-b02b-aa126a70ac64/download/20230116-stirling-council-foisa-notices-orders-oct-2022-to-dec-2022.csv
 schema: default
 title: 'FOISA: Notices & Orders'
 ---

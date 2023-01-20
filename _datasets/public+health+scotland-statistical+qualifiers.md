@@ -11,11 +11,11 @@ notes: <p>This is a look up file for statistical qualifiers used across all data
   (ONS). Additional Qualifiers have been added to suit the purpose of data across
   this open data website.</p>
 organization: Public Health Scotland
-original_dataset_link: https://www.opendata.nhs.scot/dataset/statistical-qualifiers
+original_dataset_link: https://www.opendata.nhs.scot/package/statistical-qualifiers
 records: null
 resources:
 - format: CSV
-  name: Statistical Qualifier Lookup
+  name: CSV
   url: https://www.opendata.nhs.scot/dataset/2b6f00ec-fee3-4828-9303-89f31b436d2a/resource/b80f9af0-b115-4245-b591-fb22775226c4/download/statisticalqualifiers24052019.csv
 schema: default
 title: Statistical Qualifiers
