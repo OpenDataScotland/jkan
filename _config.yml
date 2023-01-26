@@ -1,5 +1,7 @@
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
+
 url: "https://opendata.scot"
 
 title: Open Data Scotland
