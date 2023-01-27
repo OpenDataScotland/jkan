@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Scottish Qualifications Authority
+title: Scottish Qualifications Authority (SQA)
 description: Non-departmental public body. Part of Scottish Government
 logo: ''
 type:
