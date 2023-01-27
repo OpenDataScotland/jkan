@@ -4,7 +4,7 @@ category:
 - Education
 - Health and Social Care
 date_created: '2019-05-31'
-date_updated: '2022-10-26'
+date_updated: '2023-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Received applications and authorised applications (awards) for Best Start

@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: ''
-date_updated: '2022-02-09'
+date_updated: '2023-01-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''

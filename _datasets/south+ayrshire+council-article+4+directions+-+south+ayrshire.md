@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-30'
-date_updated: '2022-12-07'
+date_updated: '2023-01-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -29,7 +29,7 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-sa'
 records: null
 resources:
-- format: No file type
+- format: WFS
   name: Conservation Areas and Article 4 directions
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default

@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2018-05-01'
-date_updated: '2022-11-04'
+date_updated: '2023-01-26'
 license: No licence
 maintainer: Scottish Government
 notes: '<p>Management Information: environmental data on the Domestic Energy Performance

@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2021-10-28'
-date_updated: '2022-11-17'
+date_updated: '2023-01-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Stirling Council's Open Data catalogue of datasets published on

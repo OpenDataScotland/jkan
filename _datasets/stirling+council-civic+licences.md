@@ -4,13 +4,14 @@ category:
 - Council and Government
 - Law and Licensing
 date_created: '2019-12-03'
-date_updated: '2023-01-09'
+date_updated: '2023-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <p><strong>Current civic licences, excluding licensed premises, issued by Stirling
-  Council.</strong>\r\n\r\n<strong>Visit Stirling Council's website for further information
-  on <a href="https://www.stirling.gov.uk/business-and-licences/licences-permits-and-permissions/">licences,
-  permits and permissions</a>.</strong></p>
+notes: '<p><strong>Current civic licences, excluding licensed premises, issued by
+  Stirling Council.</strong>\r\n\r\n<strong>Visit Stirling Council''s website for
+  further information on <a href="https://www.stirling.gov.uk/business-and-licences/licences-permits-and-permissions/">licences,
+  permits and permissions</a>.</strong>\r\n\r\n<strong>Next update scheduled for:
+  Tuesday, 7th February, 2023.</strong></p>'
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/civic-licences
 records: null

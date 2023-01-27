@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -39,6 +39,9 @@ resources:
 - format: No file type
   name: Conservationa Areas
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
+- format: REST
+  name: Conservation Areas
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/DCC_Conservation_Areas_2020/FeatureServer/1/query?outFields=*&where=1%3D1
 schema: default
 title: Conservation Areas - Dundee City
 ---
