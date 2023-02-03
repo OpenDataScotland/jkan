@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-12-02'
-date_updated: '2023-01-23'
+date_updated: '2023-02-02'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>Sites designated as part of the areas housing land supply</p>

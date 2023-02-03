@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Law and Licensing
 date_created: '2019-02-26'
-date_updated: '2022-10-03'
+date_updated: '2023-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Fixed Penalty Notices (FPN) are issued by Stirling Council's Enforcement
@@ -41,7 +41,7 @@ resources:
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/eeef1785-3e3b-428a-aaa0-25ce3c3a3390/download/20220406-fixed-penalty-notices-01.04.2021-to-31.03.2022.csv
 - format: CSV
   name: Fixed Penalty Notices April 2022 to March 2023
-  url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/daa0ac82-5ca0-4094-84c5-3eea20d38b01/download/20221003-fixed-penalty-notices-01.04.2022-to-31.03.2023.csv
+  url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/daa0ac82-5ca0-4094-84c5-3eea20d38b01/download/20230127-stirling-council-fixed-penalty-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Fixed Penalty Notices
 ---

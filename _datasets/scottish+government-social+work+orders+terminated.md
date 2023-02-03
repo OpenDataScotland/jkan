@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2017-03-23'
-date_updated: '2022-01-31'
+date_updated: '2023-01-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of social work orders completed/terminated in each local authority

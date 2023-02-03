@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Food and Environment
 date_created: '2021-10-12'
-date_updated: '2023-01-23'
+date_updated: '2023-02-02'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>Marketable sites and locations for businesses allocated in development plans</p>

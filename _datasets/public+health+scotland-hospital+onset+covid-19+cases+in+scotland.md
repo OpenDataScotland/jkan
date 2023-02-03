@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-12-03'
-date_updated: '2023-01-25'
+date_updated: '2023-02-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Antimicrobial Resistance and Healthcare Associated Infection (ARHAI) Scotland,
@@ -29,7 +29,7 @@ records: null
 resources:
 - format: CSV
   name: Hospital Onset COVID-19
-  url: https://www.opendata.nhs.scot/dataset/d67b13ef-73a4-482d-b5df-d39d777540fd/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec/download/hospitalonsetcovid_opendata.csv
+  url: https://www.opendata.nhs.scot/dataset/d67b13ef-73a4-482d-b5df-d39d777540fd/resource/5acbccb1-e9d6-4ab2-a7ac-f3e4d378e7ec/download/2023-01-26_hospitalonsetcovid_opendata.csv
 schema: default
 title: Hospital Onset COVID-19 Cases in Scotland
 ---

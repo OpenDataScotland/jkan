@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-02-22'
-date_updated: '2022-10-03'
+date_updated: '2023-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>This dataset details complaints received from members of the public
@@ -31,7 +31,7 @@ resources:
   url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/940afe35-7c79-4f06-b763-eb156f5f7078/download/20220406-dog-fouling-notices-01.04.2021-to-31.03.2022-v1.0.csv
 - format: CSV
   name: Dog Fouling Complaints April 2022 to March 2023
-  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/c4406ec1-b200-49be-bd4a-12f3b964659e/download/20221003-stirling-council-dog-fouling-notices-01.04.2022-to-31.03.2023.csv
+  url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/c4406ec1-b200-49be-bd4a-12f3b964659e/download/20230127-stirling-council-dog-fouling-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Dog Fouling Complaints
 ---

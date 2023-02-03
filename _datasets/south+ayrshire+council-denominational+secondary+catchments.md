@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2015-10-30'
-date_updated: '2023-01-23'
+date_updated: '2023-02-02'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>Areas depicting catchment zones for denominational secondary schools</p>

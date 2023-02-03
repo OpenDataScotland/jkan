@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-12-07'
-date_updated: '2022-11-02'
+date_updated: '2023-01-31'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning

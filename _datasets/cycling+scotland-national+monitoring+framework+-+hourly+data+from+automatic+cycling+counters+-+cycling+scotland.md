@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2020-04-03'
-date_updated: '2023-01-27'
+date_updated: '2023-02-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This dataset gives the hourly cycling count breakdown for all of Cycling

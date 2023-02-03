@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-01-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West Lothian Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -37,6 +37,9 @@ resources:
 - format: ZIP
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/33609934-c9a0-4801-a982-062327540f68/resource/4934e15e-60b8-470d-9dcc-18d1f68b65c0/download/documents.zip
+- format: ZIP
+  name: Community Council Boundaries
+  url: https://data.spatialhub.scot/dataset/33609934-c9a0-4801-a982-062327540f68/resource/46abf8a8-f01e-4f46-b87e-f2aca6ebee1c/download/communitycouncil.zip
 schema: default
 title: Community Council Boundaries - West Lothian
 ---

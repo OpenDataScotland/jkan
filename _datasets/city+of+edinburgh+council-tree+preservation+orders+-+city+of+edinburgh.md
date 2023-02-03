@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-02-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -45,6 +45,9 @@ resources:
 - format: No file type
   name: Tree Treservation Orders
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
+- format: REST
+  name: TPOs
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Planning/Planning/MapServer/7
 schema: default
 title: Tree Preservation Orders - City of Edinburgh
 ---

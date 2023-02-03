@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2017-03-13'
-date_updated: '2023-01-23'
+date_updated: '2023-02-02'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>Areas depicting polling districts in South Ayrshire</p>

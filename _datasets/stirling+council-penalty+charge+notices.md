@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2019-02-27'
-date_updated: '2022-11-17'
+date_updated: '2023-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong><a href="https://www.legislation.gov.uk/ukpga/1991/40/contents">Decriminalised
@@ -33,7 +33,7 @@ resources:
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/973707a2-d08c-4e38-a36e-4bad5f091491/download/20220406-parking-control-notices-03.05.2017-to-31.03.2018.csv
 - format: CSV
   name: 'Penalty Charge Notices: April 2022 to March 2023'
-  url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/debe6bcf-0114-497a-85b8-af1b25704efb/download/20221117-penalty-charge-notices-01.04.2022-to-31.03.2023.csv
+  url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/debe6bcf-0114-497a-85b8-af1b25704efb/download/20230127-stirling-council-penalty-charge-notices-01.04.2022-to-31.03.2023.csv
 schema: default
 title: Penalty Charge Notices
 ---

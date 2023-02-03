@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-01-09'
+date_updated: '2023-01-31'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>'Development management' is the name given to the process of deciding planning\
@@ -54,8 +54,11 @@ resources:
   name: 'Planning Applications: Weekly Lists (Polygons)'
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappweekpol
 - format: WFS
+  name: 'Planning Applications: Calendar Year (Point)'
+  url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyearpnt
+- format: WFS
   name: 'Planning Applications: Calendar Year (Polygon)'
-  url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyear
+  url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyearpol
 schema: default
 title: Planning Applications - Scotland
 ---

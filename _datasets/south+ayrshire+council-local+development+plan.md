@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-03-21'
-date_updated: '2023-01-23'
+date_updated: '2023-02-02'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>The LDP is a strategic land use plan that sets out strategic spatial priorities

@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2022-11-09'
+date_updated: '2023-02-01'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>Local nature reserves are areas of (at least) locally important natural
