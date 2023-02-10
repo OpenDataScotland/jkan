@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2021-03-16'
-date_updated: '2022-12-15'
+date_updated: '2023-02-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Care for women and babies around the time they are giving birth/being born
@@ -48,13 +48,13 @@ records: null
 resources:
 - format: CSV
   name: Gestation Data by Health Board
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/f00851fb-8798-4612-a891-aab1d7403586/download/gestation_hb_20221207.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/f00851fb-8798-4612-a891-aab1d7403586/download/gestation_hb_20230203.csv
 - format: CSV
   name: Gestation Data by Age
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/7f789269-1547-4189-a47d-2a641db84e91/download/gestation_age_20221207.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/7f789269-1547-4189-a47d-2a641db84e91/download/gestation_age_20230203.csv
 - format: CSV
   name: Gestation Data by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20221207.csv
+  url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20230203.csv
 schema: default
 title: COVID-19 Wider Impacts - Gestation at Delivery
 ---

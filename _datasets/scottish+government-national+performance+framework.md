@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2019-12-18'
-date_updated: '2022-12-19'
+date_updated: '2023-02-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Data underlying the National Performance Framework Indicators. These give

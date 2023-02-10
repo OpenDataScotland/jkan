@@ -2,10 +2,10 @@
 category:
 - Health and Social Care
 date_created: '2018-07-06'
-date_updated: '2022-12-13'
+date_updated: '2023-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>On the 10th of January an error was corrected for in these data.
+notes: <p><strong>On the 9th of February an error was corrected for in these data.
   If you have downloaded these data previously to that date then please discard that
   file and use the updated version.</strong>\r\n\r\nCancer Waiting Times statistics
   for the 62 day standard for patients urgently referred with a suspicion of cancer

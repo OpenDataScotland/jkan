@@ -14,13 +14,13 @@ resources:
   name: National Monitoring Framework - all-mode traffic survey results May 2019 -
     Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=cd8d4580-827e-473a-ac43-b1bff21e4802
-- format: CSV
-  name: NMF_TS_May_2019.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=db36ee3c-89ea-45bd-9c36-a5baea139830
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results May 2019 -
     Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31cc3c72-9b5c-444f-a5fb-2d509a2571b8
+- format: CSV
+  name: NMF_TS_May_2019.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=db36ee3c-89ea-45bd-9c36-a5baea139830
 schema: default
 title: National Monitoring Framework - all-mode traffic survey results May 2019 -
   Cycling Scotland

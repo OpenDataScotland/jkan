@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2022-08-08'
+date_updated: '2023-06-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''
@@ -14,7 +14,7 @@ records: null
 resources:
 - format: KMZ
   name: KMZ
-  url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/HousingLandAudit2022.kmz
+  url: http://publications.aberdeenshire.gov.uk/dataset/5f628e3e-d8df-4db1-89cb-cbf17976600e/resource/32728977-ff10-450d-ab40-95cde915fe88/download/housinglandaudit2023.kmz
 schema: default
 title: Housing Land Audit
 ---

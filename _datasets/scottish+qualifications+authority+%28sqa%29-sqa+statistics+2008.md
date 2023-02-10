@@ -64,9 +64,6 @@ resources:
 - format: MS EXCEL
   name: Scottish Vocational Qualifications (Outwith Scotland)
   url: https://www.sqa.org.uk/sqa/files_ccc/StatsTable_OS_VQ08_web.xls
-- format: HTML
-  name: Annual Statistical Digest 2008
-  url: https://www.sqa.org.uk/sqa/35599.html
 - format: MS EXCEL
   name: Pre-Appeals National Qualification Results 2008
   url: https://www.sqa.org.uk/sqa/files_ccc/Pre-AppealsNationalQualificationResults2008.xls

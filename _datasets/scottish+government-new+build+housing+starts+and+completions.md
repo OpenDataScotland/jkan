@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-03-21'
-date_updated: '2022-08-23'
+date_updated: '2023-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Quarterly time series data on Scottish approvals, starts and completions
