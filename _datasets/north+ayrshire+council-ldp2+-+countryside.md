@@ -1,9 +1,7 @@
 ---
 category:
-- Business and Economy
 - Council and Government
 - Planning and Development
-- Sport and Leisure
 date_created: ''
 date_updated: '2018-11-05'
 license: No licence

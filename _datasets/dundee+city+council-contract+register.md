@@ -1,6 +1,5 @@
 ---
 category:
-- Budget / Finance
 - Business and Economy
 - Council and Government
 date_created: '2018-01-25'

@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Council and Government
 - Planning and Development
 date_created: ''

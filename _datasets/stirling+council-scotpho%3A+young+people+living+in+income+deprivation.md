@@ -3,7 +3,6 @@ category:
 - Business and Economy
 - Council and Government
 - Elections / Politics
-- Food and Environment
 - Health and Social Care
 - Housing and Estates
 - Planning and Development

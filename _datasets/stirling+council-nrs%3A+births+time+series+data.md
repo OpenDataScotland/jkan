@@ -3,6 +3,7 @@ category:
 - Arts / Culture / History
 - Council and Government
 - Elections / Politics
+- Health and Social Care
 - Planning and Development
 date_created: '2021-07-28'
 date_updated: '2022-10-13'

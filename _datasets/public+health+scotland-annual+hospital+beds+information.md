@@ -1,7 +1,6 @@
 ---
 category:
 - Health and Social Care
-- Public Safety
 date_created: '2020-09-24'
 date_updated: '2022-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

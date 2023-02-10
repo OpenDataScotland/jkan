@@ -1,7 +1,6 @@
 ---
 category:
 - Budget / Finance
-- Business and Economy
 - Council and Government
 - Food and Environment
 date_created: '2019-11-20'

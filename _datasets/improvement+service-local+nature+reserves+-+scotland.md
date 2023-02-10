@@ -1,6 +1,5 @@
 ---
 category:
-- Food and Environment
 - Sport and Leisure
 date_created: '2021-06-11'
 date_updated: '2023-02-01'

@@ -1,6 +1,5 @@
 ---
 category:
-- Business and Economy
 - Housing and Estates
 - Parks / Recreation
 date_created: '2015-10-30'

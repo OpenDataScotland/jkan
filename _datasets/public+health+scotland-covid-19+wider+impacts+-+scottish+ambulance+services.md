@@ -1,7 +1,6 @@
 ---
 category:
 - Business and Economy
-- Food and Environment
 - Health and Social Care
 date_created: '2020-05-25'
 date_updated: '2023-02-03'

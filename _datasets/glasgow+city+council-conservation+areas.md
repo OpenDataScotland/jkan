@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Planning and Development
 date_created: ''
 date_updated: '2021-11-12'

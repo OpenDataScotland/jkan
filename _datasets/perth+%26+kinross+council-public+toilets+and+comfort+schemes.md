@@ -1,7 +1,6 @@
 ---
 category:
 - Food and Environment
-- Health and Social Care
 - Housing and Estates
 - Planning and Development
 - Tourism

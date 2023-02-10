@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Council and Government
 - Elections / Politics
 - Food and Environment

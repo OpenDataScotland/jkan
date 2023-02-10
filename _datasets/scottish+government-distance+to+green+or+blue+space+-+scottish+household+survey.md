@@ -1,6 +1,5 @@
 ---
 category:
-- Food and Environment
 - Transportation
 date_created: '2019-03-09'
 date_updated: '2021-10-08'

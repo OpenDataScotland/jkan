@@ -1,6 +1,5 @@
 ---
 category:
-- Food and Environment
 - Public Safety
 date_created: '2021-06-11'
 date_updated: '2023-01-20'

@@ -2,7 +2,6 @@
 category:
 - Council and Government
 - Elections / Politics
-- Food and Environment
 - Planning and Development
 date_created: ''
 date_updated: '2015-05-13'

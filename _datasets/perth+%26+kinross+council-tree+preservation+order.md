@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Food and Environment
 - Law and Licensing
 - Planning and Development

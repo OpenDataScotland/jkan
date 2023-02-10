@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Council and Government
 - Food and Environment
 - Parks / Recreation

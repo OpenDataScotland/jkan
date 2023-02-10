@@ -1,8 +1,10 @@
 ---
 category:
 - Business and Economy
+- Council and Government
 - Education
 - Food and Environment
+- Health and Social Care
 - Housing and Estates
 - Planning and Development
 date_created: '2018-10-01'

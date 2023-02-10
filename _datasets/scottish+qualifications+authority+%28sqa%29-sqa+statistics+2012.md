@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Education
 date_created: '2013-03-01'
 date_updated: ''
 license: 'Custom licence: unknown'

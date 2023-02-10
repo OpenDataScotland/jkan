@@ -1,6 +1,5 @@
 ---
 category:
-- Budget / Finance
 - Business and Economy
 - Education
 - Food and Environment

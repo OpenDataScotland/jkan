@@ -3,7 +3,6 @@ category:
 - Business and Economy
 - Education
 - Elections / Politics
-- Food and Environment
 date_created: ''
 date_updated: '2020-02-13'
 license: No licence

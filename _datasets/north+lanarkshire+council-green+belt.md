@@ -1,6 +1,5 @@
 ---
 category:
-- Food and Environment
 - Planning and Development
 date_created: ''
 date_updated: '2016-04-25'

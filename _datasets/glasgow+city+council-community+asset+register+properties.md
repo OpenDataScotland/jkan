@@ -3,7 +3,9 @@ category:
 - Council and Government
 - Food and Environment
 - Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: ''
 date_updated: '2021-06-24'
 license: No licence

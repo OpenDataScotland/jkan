@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Food and Environment
 - Housing and Estates
 - Planning and Development

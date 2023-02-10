@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Elections / Politics
 - Food and Environment
 - Law and Licensing

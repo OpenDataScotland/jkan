@@ -1,6 +1,5 @@
 ---
 category:
-- Business and Economy
 - Council and Government
 - Housing and Estates
 - Parks / Recreation

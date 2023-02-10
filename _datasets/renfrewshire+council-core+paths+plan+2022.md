@@ -1,10 +1,8 @@
 ---
 category:
-- Business and Economy
 - Education
 - Food and Environment
 - Planning and Development
-- Sport and Leisure
 - Transportation
 date_created: '2022-11-07'
 date_updated: '2022-11-07'

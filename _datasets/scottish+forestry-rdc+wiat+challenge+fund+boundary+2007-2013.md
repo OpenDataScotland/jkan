@@ -1,6 +1,5 @@
 ---
 category:
-- Business and Economy
 - Parks / Recreation
 - Sport and Leisure
 - Transportation

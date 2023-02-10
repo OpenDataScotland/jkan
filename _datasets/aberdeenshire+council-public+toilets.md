@@ -1,7 +1,6 @@
 ---
 category:
 - Food and Environment
-- Health and Social Care
 - Tourism
 date_created: ''
 date_updated: '2018-11-10'

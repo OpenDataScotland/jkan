@@ -4,7 +4,6 @@ category:
 - Business and Economy
 - Council and Government
 - Elections / Politics
-- Food and Environment
 - Planning and Development
 - Public Safety
 - Transportation
