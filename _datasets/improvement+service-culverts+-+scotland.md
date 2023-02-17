@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-01-31'
+date_updated: '2023-02-10'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>Scottish legislation\_(Section 17) of the Flood Risk Management (Scotland)\
@@ -35,11 +35,11 @@ notes: "<p>Scottish legislation\_(Section 17) of the Flood Risk Management (Scot
   \ in Scotland) have approved\_for this dataset to be managed by the Spatial Hub\
   \ and any amended data can be\_uploaded (and potentially downloaded)\_before being\
   \ shared with OSMA members and the OS.  We have initially created a point and line\
-  \ data layer representing the data we have been sent by some LAs. However, we really\
-  \ need line data in order for it to be merged into the OS MasterMap Water Network\
-  \ Layer data in due course.   The LA \"culverts\" data as included in the OS MasterMap\
-  \ Water Network Layer is also available for LAs to download and use as part of this\
-  \ dataset</p>"
+  \ data layer for the data we have been sent by some LAs ( the line format is obviously\
+  \ a more detailed and accurate depiction of the feature). This is the best available\
+  \ information at the time of submission and dimensions and routes may well be different\
+  \ in reality.  The LA \"culverts\" as included in the OS MasterMap Water Network\
+  \ Layer is also available as a standalone layer.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-is'
 records: null

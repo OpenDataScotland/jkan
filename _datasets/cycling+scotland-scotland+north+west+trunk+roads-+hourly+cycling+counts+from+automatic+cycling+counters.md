@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2023-02-10'
+date_updated: '2023-02-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Scotland North West Trunk Roads - Hourly cycling counts from automatic

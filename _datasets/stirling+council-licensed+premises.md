@@ -18,7 +18,7 @@ notes: '<p><strong>Details of licensed premises approved to sell alcohol within 
   licensed establishments and the breakdown of applications received during the current
   and previous four financial years are available to view in portable document format
   (PDF).</strong>\r\n\r\n<strong>Visit Stirling Council''s website for further information
-  on <a href="https://www.stirling.gov.uk/business-and-licences/licences-permits-and-permissions/">licences,
+  on <a href="https://www.stirling.gov.uk/business-and-licences/licences-permits-and-permissions/">Licences,
   permits and permissions</a>.</strong>\r\n\r\n<strong>Next update scheduled for:
   Wednesday, 1st March, 2023.</strong></p>'
 organization: Stirling Council

@@ -2,7 +2,7 @@
 category:
 - Budget / Finance
 date_created: '2019-12-18'
-date_updated: '2022-11-22'
+date_updated: '2023-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Received applications, authorised applications and issued payments for Funeral
