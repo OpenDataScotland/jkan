@@ -8,7 +8,7 @@ category:
 date_created: '2017-11-13'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council
   area. These may be static i.e. located in one building all of the time, or mobile
   i.e. they are in vehicles that attend a set location on a specific day at a certain
@@ -19,7 +19,7 @@ notes: '<p>Each Local Authority should have a list of libraries within their Cou
   from The Scottish Library and Information Council (https://scottishlibraries.org/)</p>
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-pk'
 records: null
 resources:

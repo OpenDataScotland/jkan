@@ -4,7 +4,7 @@ category:
 date_created: '2016-05-24'
 date_updated: '2022-12-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
   \ heritage, designated and managed by local authorities to give people better opportunities\
   \ to learn about and enjoy nature close to where they live. They are found across\
@@ -14,7 +14,7 @@ notes: "<p>Local Nature Reserves are areas of (at least) locally important natur
   \ it from a previously produced NatureScot national dataset.</p>\n<p>Site name,\
   \ designation date, website URL (for more information) and PA code are all mandatory\
   \ attributes for this dataset now.</p>"
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-pk'
 records: null
 resources:

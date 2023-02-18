@@ -7,7 +7,7 @@ category:
 date_created: '2016-05-31'
 date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: "<p>A council development plan may designate a green belt around a city or\
   \ town to support the spatial strategy by:\n - directing development to the most\
   \ appropriate locations and supporting regeneration;\n - protecting and enhancing\
@@ -34,7 +34,7 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                                              \
   \                                                  </p>"
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-pk'
 records: null
 resources:

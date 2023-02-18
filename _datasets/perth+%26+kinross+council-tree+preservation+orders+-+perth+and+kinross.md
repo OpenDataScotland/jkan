@@ -8,7 +8,7 @@ category:
 date_created: '2017-01-27'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
   accurately. Users of this data should not assume this data is totally accurate and
   should consult the specific local authority for more detail before making any decisions</em></p>
@@ -30,7 +30,7 @@ notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digiti
   (planning application, LDP , supplementary guidance) and Greenspace (maintenance
   and retention of natural assets). The dataset is available for general public use,
   stakeholders or any interested party outside the Council to identify TPOs.</p>'
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-pk'
 records: null
 resources:
