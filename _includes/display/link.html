@@ -1,4 +1,10 @@
 <tr>
     <th>{{ field.label }}</th>
-    <td><a href="{{ value }}" target="_blank">{{ value }}</a></td>
+    <td>
+        {% if field.html_id %}
+            <a href="{{ value }}" target="_blank" id="{{field.html_id}}">{{ value }}</a>
+        {% else %}
+            <a href="{{ value }}" target="_blank">{{ value }}</a>
+        {% endif %}
+    </td>
 </tr>

@@ -39,6 +39,7 @@ dataset_fields:
   - field_name: original_dataset_link
     label: Original dataset link
     display_template: display/link.html
+    html_id: original-dataset-link
     datajson: original_dataset_link    
     
 
