@@ -6,7 +6,7 @@ category:
 date_created: '2016-05-24'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: '<p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge
   the gap between local authorities and communities and help to make public bodies
@@ -21,7 +21,7 @@ notes: '<p>Community councils are required to be established by local authoritie
   or approval for the IS to change.    </p>
 
   <p>"name", "url" and "status" are now MANDATORY fields for this dataset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </p>'
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-pk'
 records: null
 resources:

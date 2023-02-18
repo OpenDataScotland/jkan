@@ -7,7 +7,7 @@ category:
 date_created: '2019-12-11'
 date_updated: '2022-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Perth and Kinross Council
+maintainer: Perth & Kinross Council
 notes: "<p>These Stragegies are a requirment that has now been added into Town and\
   \ country Planning (Scotland) Act. http://www.legislation.gov.uk/asp/2019/13/part/4/crossheading/forestry-and-woodland-strategy/enacted\n\
   \ Most councils already have a FWS and these are normally accompanied by spatial\
@@ -19,7 +19,7 @@ notes: "<p>These Stragegies are a requirment that has now been added into Town a
   \ Sensitive, Unsuitable.\n Some of the councils have produced a few layers of data\
   \ for their FWS which might apply specifically to woodland planting types, e.g.\
   \ a seperate FWS layer for native woodlands or for productive woodlands.</p>"
-organization: Perth and Kinross Council
+organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-pk'
 records: null
 resources:
