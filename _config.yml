@@ -51,6 +51,8 @@ navigation:
         url: /about/
       - title: What is Open Data?
         url: /whatisod/
+      - title: State of Open Con '23
+        url: /soocon23/
       - title: Site Analytics
         url: /about/siteanalytics/
   - title: Resources
