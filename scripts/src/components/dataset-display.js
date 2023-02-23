@@ -1,5 +1,6 @@
 import $ from 'jquery'
 import tmpDatasetMixedContentModal from '../templates/dataset-mixed-content-modal'
+import copy from 'copy-to-clipboard';
 
 import { queryByHook } from '../util'
 
@@ -28,7 +29,7 @@ export default class {
         e.preventDefault();
 
         // Grab the original dataset link
-        const originalDatasetUrl = $('#original-dataset-link').href;
+        const originalDatasetUrl = $('#original-dataset-link').attr('href');
 
         // Generate a modal and append it to the page body
         const modalMarkup = tmpDatasetMixedContentModal(currentLink, originalDatasetUrl);
@@ -40,6 +41,10 @@ export default class {
           $(this).data('bs.modal', null);
           $(this).remove();
         });
+        $('#mixed-content-warning-clipboard').on('click',function () {
+          copy(currentLink);
+          $(this).html('<i class="fa fa-clipboard"></i> Copied!');
+        })
       }
     })
   }
