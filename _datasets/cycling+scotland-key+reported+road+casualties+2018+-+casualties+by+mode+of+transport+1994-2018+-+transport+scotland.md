@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2018-05-15'
-date_updated: '2019-11-26'
+date_updated: '2023-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A range of data from Key Reported Road Casualties Scotland 2018."</p>

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2023-02-16'
+date_updated: '2023-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Scotland North West Trunk Roads - Hourly cycling counts from automatic
@@ -15,6 +15,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/8867c761-7506-41d1-8df7-d26b3f7657a5/1/urql
 schema: default
-title: Scotland North West Trunk Roads- Hourly cycling counts from automatic cycling
+title: Scotland North West Trunk Roads - Hourly cycling counts from automatic cycling
   counters
 ---

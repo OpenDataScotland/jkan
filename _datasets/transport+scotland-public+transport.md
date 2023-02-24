@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2014-07-29'
-date_updated: '2022-10-27'
+date_updated: '2023-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Scotland
 notes: '<p>Number of bus passenger journeys and bus vehicle kilometres on all services,

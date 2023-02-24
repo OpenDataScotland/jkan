@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Transportation
 date_created: '2018-05-11'
-date_updated: '2019-12-16'
+date_updated: '2023-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from Transport and Travel in Scotland relating to cycling frequency
