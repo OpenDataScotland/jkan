@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2016-12-05'
-date_updated: '2022-07-20'
+date_updated: '2023-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The percentage of 13 and 15 year olds who have ever drunk alcohol.</p>

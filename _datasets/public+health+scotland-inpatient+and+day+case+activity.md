@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-05'
-date_updated: '2022-12-02'
+date_updated: '2023-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a hospital
@@ -45,7 +45,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/083ee176-4729-474b-958a-328954b72a5a/download/inpatient_and_daycase_cross_boundary_flow.csv
 - format: CSV
   name: Publication Notes
-  url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/a15a1878-3203-4506-90ac-586bd672545d/download/notes_fix.xlsx
+  url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/a15a1878-3203-4506-90ac-586bd672545d/download/notes.csv
 schema: default
 title: Inpatient and Day Case Activity
 ---

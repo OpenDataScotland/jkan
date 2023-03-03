@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-02-06'
-date_updated: '2022-06-30'
+date_updated: '2023-02-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Stirling Council''s activities cover the area bordered by Clackmannanshire
@@ -17,8 +17,7 @@ notes: '<p><strong>Stirling Council''s activities cover the area bordered by Cla
   href="https://www.ros.gov.uk/"><strong>Registers of Scotland</strong></a> <strong>can
   provide details on individual properties throughout the country..</strong>\r\n\r\n<strong>Please
   pass any comments or queries to <a href="mailto: surveyandinfo@stirling.gov.uk">surveyandinfo@stirling.gov.uk</a>.</strong>\r\n\r\n<strong>All
-  data believed to be correct at the date of the last update, 12th February, 2019.</strong>\r\n\r\n<strong>Under
-  review as at 30th June, 2022.</strong></p>'
+  data believed to be correct at the date of the last update, 12th February, 2019.</strong>\r\n</p>'
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/asset-register
 records: null

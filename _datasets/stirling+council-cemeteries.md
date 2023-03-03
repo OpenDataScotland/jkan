@@ -7,7 +7,7 @@ category:
 - Law and Licensing
 - Sport and Leisure
 date_created: '2019-02-04'
-date_updated: '2023-02-02'
+date_updated: '2023-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>Extract of electronic burial records for cemeteries managed and
@@ -22,14 +22,14 @@ notes: <p><strong>Extract of electronic burial records for cemeteries managed an
   <strong>and</strong> <a href="https://www.scotlandspeople.gov.uk/"><strong>Scotland\u2019s
   People</strong></a> <strong>provide useful information for those wishing to research
   their family tree.</strong>\r\n\r\n<strong>Next update available from Thursday,
-  2nd March, 2023.</strong>\r\n</p>
+  2nd April, 2023.</strong>\r\n</p>
 organization: Stirling Council
 original_dataset_link: https://data.stirling.gov.uk/dataset/cemetery-records
 records: null
 resources:
 - format: CSV
-  name: 'Burial Records: February 2023'
-  url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/20230202-stirling-council-burial-records-as-at-01.02.2023.csv
+  name: 'Burial Records: March 2023'
+  url: https://data.stirling.gov.uk/dataset/42afa6e2-db91-4940-b7bd-50ab8b4dd2c1/resource/e2c373ba-86b8-404c-8ff7-4d91cd9acb59/download/20230302-stirling-council-burial-records-as-at-01.03.2023.csv
 schema: default
 title: Cemeteries
 ---

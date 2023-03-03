@@ -10,7 +10,7 @@ notes: <p>Tree Preservation Orders (TPO's) are served on potentially vulnerable 
   significant biodiversity value.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=17aa00fec3f248aa8c92bd3c12355996
-records: 87
+records: 91
 resources: []
 schema: default
 title: Tree Preservation Orders (TPO) (Moray)

@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2022-11-29'
-date_updated: '2023-02-09'
+date_updated: '2023-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>A programme inviting people in Dundee communities to meet others and enjoy
@@ -30,7 +30,7 @@ records: null
 resources:
 - format: PDF
   name: Dundee's Open Doors Location PDF
-  url: https://data.dundeecity.gov.uk/dataset/c0c7c38b-97b0-4fe5-b51a-994b79bd4a7d/resource/b802ede0-5b98-4763-b704-8f63c06800a6/download/open_doors_locations_090223.pdf
+  url: https://data.dundeecity.gov.uk/dataset/c0c7c38b-97b0-4fe5-b51a-994b79bd4a7d/resource/b802ede0-5b98-4763-b704-8f63c06800a6/download/open_doors_locations_010323.pdf
 - format: URL
   name: Dundee's Open Doors Interactive Map
   url: https://storymaps.arcgis.com/stories/ddf901a89522437a9e5c3e1c0ccf2c7e
