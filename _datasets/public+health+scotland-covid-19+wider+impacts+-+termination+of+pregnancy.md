@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2021-03-16'
-date_updated: '2023-02-03'
+date_updated: '2023-03-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>As an essential service, care relating to termination of pregnancy has been
@@ -46,13 +46,13 @@ records: null
 resources:
 - format: CSV
   name: Terminations by Health Board
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/5a00501e-b78a-40d6-b3e1-d77508866b9c/download/terminations_preg_hb_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/5a00501e-b78a-40d6-b3e1-d77508866b9c/download/terminations_preg_hb_20230307.csv
 - format: CSV
   name: Terminations by Age
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/f2276117-8605-48b2-ae6f-68f3fb2d6b92/download/terminations_preg_age_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/f2276117-8605-48b2-ae6f-68f3fb2d6b92/download/terminations_preg_age_20230307.csv
 - format: CSV
   name: Terminations by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/085c1c13-29ea-4ce3-8a46-798a011970b3/download/terminations_preg_simd_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/085c1c13-29ea-4ce3-8a46-798a011970b3/download/terminations_preg_simd_20230307.csv
 schema: default
 title: COVID-19 Wider Impacts - Termination of Pregnancy
 ---

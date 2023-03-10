@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2022-10-27'
+date_updated: '2023-03-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -20,6 +20,9 @@ resources:
 - format: No file type
   name: Spatial Hub WFS
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: Waste Management Facilities
+  url: https://data.spatialhub.scot/dataset/78eda121-4674-458e-a02d-0c84bfff4110/resource/c6ce2fdc-89f5-4da6-a43c-ee66bdc789a0/download/na-waste-management-facilities.zip
 schema: default
 title: Recycling And Waste Facilities - North Ayrshire
 ---

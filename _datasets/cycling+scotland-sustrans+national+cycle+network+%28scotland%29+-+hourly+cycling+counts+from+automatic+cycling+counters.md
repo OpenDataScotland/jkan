@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-11-26'
-date_updated: '2023-03-03'
+date_updated: '2023-03-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Hourly cycling counts from automatic cycling counters on the National Cycle

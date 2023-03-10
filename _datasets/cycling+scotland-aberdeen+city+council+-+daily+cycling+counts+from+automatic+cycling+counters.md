@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-09-25'
-date_updated: '2023-03-03'
+date_updated: '2023-03-10'
 license: https://opendatacommons.org/licenses/odbl/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within Aberdeen City

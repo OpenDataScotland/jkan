@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Education
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
+date_updated: '2023-03-09'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>Scottish councils usually divide towns and country areas into catchments
@@ -14,9 +14,8 @@ notes: '<p>Scottish councils usually divide towns and country areas into catchme
   Catholic (PD) and  - secondary denominational/ Catholic (SN) schools.  This dataset
   contains four separate layers (representing those above categories), which we deliver
   together as one single web service or zip folder.  These data layers do not contain
-  the catchment areas for Jordanhill primary and secondary school catchments which
-  is located in west Glasgow. This is because it is a Scottish Government-funded school.
-  This data will be provided by other data publishers in due course.</p>'
+  the catchment areas for Jordanhill primary and secondary school which is located
+  in west Glasgow. This is because it is a Scottish Government-funded school.</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-is'
 records: null

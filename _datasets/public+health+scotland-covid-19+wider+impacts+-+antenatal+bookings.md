@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-03-16'
-date_updated: '2023-02-03'
+date_updated: '2023-03-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>As an essential service, maternity care including \u2018booking\u2019 has
@@ -42,13 +42,13 @@ records: null
 resources:
 - format: CSV
   name: Antenatal bookings by Health Board
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd/download/ante_booking_hb_week_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/9c18196f-56a5-4847-b7d8-12a8b8d234fd/download/ante_booking_hb_week_20230307.csv
 - format: CSV
   name: Antenatal bookings by Age
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/ee22b73d-296d-441d-85f8-4068581efd38/download/ante_booking_age_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/ee22b73d-296d-441d-85f8-4068581efd38/download/ante_booking_age_20230307.csv
 - format: CSV
   name: Antenatal bookings by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20230203.csv
+  url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20230307.csv
 schema: default
 title: COVID-19 Wider Impacts - Antenatal Bookings
 ---
