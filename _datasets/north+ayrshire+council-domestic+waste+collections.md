@@ -49,12 +49,12 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/16
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::domestic-waste-collections.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::domestic-waste-collections.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GEOJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::domestic-waste-collections.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Domestic Waste Collections
 ---

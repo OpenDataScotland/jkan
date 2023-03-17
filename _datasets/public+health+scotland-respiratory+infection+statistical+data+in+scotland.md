@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2022-11-10'
-date_updated: '2023-03-09'
+date_updated: '2023-03-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Summary epidemiological information on seasonal influenza and other seasonal

@@ -17,18 +17,18 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: ARCGIS GEOSERVICE
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PlayAreas/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GEOJSON
+  url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: ZIP
   url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Play Areas
 ---

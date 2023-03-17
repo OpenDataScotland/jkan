@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-01-14'
-date_updated: '2023-03-01'
+date_updated: '2023-03-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This annual release produced by Public Health Scotland in partnership with

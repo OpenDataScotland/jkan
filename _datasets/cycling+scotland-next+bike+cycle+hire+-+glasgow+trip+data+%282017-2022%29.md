@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-02-28'
-date_updated: '2022-09-07'
+date_updated: '2023-03-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Anonymised trip data from nextbike cycle hire in Glasgow from 15th September
-  2017 to 30th June 2022."</p>
+notes: <p>"Anonymised trip data from Next Bike cycle hire in Glasgow from 15th September
+  2017 to February 2023."</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/558cb4f5-d119-4b95-9347-ee130946d86f
 records: null
