@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2020-03-06'
-date_updated: '2022-12-20'
+date_updated: '2023-03-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Applications received and authorised, and total value of payments for Young

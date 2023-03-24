@@ -5,7 +5,7 @@ category:
 - Education
 - Transportation
 date_created: '2021-08-30'
-date_updated: '2022-11-17'
+date_updated: '2023-03-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><strong>The </strong><a href="https://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey/"><strong>Hands
@@ -27,28 +27,28 @@ records: null
 resources:
 - format: PDF
   name: 'Analysis by Travel Mode: 2020 (PDF)'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/afd01555-f023-427a-a2b8-4d28e4d0cf51/download/20210903-huss-2020-analysis-by-travel-mode.pdf
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/afd01555-f023-427a-a2b8-4d28e4d0cf51/download/20230322-stirling-huss-analysis-by-travel-mode-2020.pdf
 - format: CSV
   name: 'Analysis by Travel Mode: 2020'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/4788788b-e360-4cc7-afd5-160d34e41044/download/20210903-huss-2020-analysis-by-travel-mode.csv
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/4788788b-e360-4cc7-afd5-160d34e41044/download/20230322-stirling-huss-analysis-by-travel-mode-2020.csv
 - format: PDF
   name: 'Responses by School Type: 2020 (PDF)'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/88ab2a21-ad70-4f6f-84a6-e007e7778a5e/download/20210903-huss-2020-responses-by-school-type.pdf
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/88ab2a21-ad70-4f6f-84a6-e007e7778a5e/download/20230322-stirling-huss-responses-by-school-type-2020.pdf
 - format: CSV
   name: 'Responses by School Type: 2020'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/1a8f6e84-0647-4055-bf7e-68fdda16b16b/download/20210903-huss-2020-responses-by-school-type.csv
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/1a8f6e84-0647-4055-bf7e-68fdda16b16b/download/20230322-stirling-huss-responses-by-school-type-2020.csv
 - format: PDF
   name: 'Analysis by Travel Mode: 2021 (PDF)'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/bbee16e6-acdb-4c97-83e4-f9e5c20e3dc4/download/20210606-stirling-huss-analysis-by-travel-mode-2021.pdf
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/bbee16e6-acdb-4c97-83e4-f9e5c20e3dc4/download/20230322-stirling-huss-analysis-by-travel-mode-2021.pdf
 - format: CSV
   name: 'Analysis by Travel Mode: 2021'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/f81a0575-b772-44e3-896e-758afd64fed4/download/20210606-stirling-huss-analysis-by-travel-mode-2021.csv
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/f81a0575-b772-44e3-896e-758afd64fed4/download/20230322-stirling-huss-analysis-by-travel-mode-2021.csv
 - format: PDF
   name: 'Responses by School Type: 2021 (PDF)'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/0eacf31a-db8b-4593-8593-09fd0eab4c38/download/20220606-stirling-huss-responses-by-school-type-2021.pdf
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/0eacf31a-db8b-4593-8593-09fd0eab4c38/download/20230322-stirling-huss-responses-by-school-type-2021.pdf
 - format: CSV
   name: 'Responses by School Type: 2021'
-  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/d3dae78a-d0d3-47ba-a114-3b779d3df478/download/20220606-stirling-huss-responses-by-school-type-2021.csv
+  url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/d3dae78a-d0d3-47ba-a114-3b779d3df478/download/20230322-stirling-huss-responses-by-school-type-2021.csv
 schema: default
 title: Hands Up Scotland Survey
 ---

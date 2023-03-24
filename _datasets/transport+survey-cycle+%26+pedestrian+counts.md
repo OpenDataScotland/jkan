@@ -25,10 +25,10 @@ notes: <p><strong>This group details the output from transport monitoring of cyc
   three sites around Craig\u2019s Roundabout. These were installed to allow the figures
   generated from them to be combined with those from the Kerse Road Bridge to provide
   origin-destination data for the network of pathways going through the roundabout.</strong>\r\n\r\n<a
-  href="https://trafficscotland.org/"><strong>Traffic Scotland </strong></a> <strong>can
-  provide updates on any road closures and the </strong><a href="https://www.roadworksscotland.org/"><strong>Scottish
-  Roadworks Commissioner </strong></a><strong>can give further details on any planned
-  roadworks throughout the country.</strong>\r\n</p>
+  href="https://trafficscotland.org/">**Traffic Scotland **</a> <strong>can provide
+  updates on any road closures and the </strong><a href="https://www.roadworksscotland.org/">**Scottish
+  Roadworks Commissioner **</a><strong>can give further details on any planned roadworks
+  throughout the country.</strong>\r\n</p>
 organization: Transport Survey
 original_dataset_link: https://data.stirling.gov.uk/dataset/cycle-pedestrian-counts
 records: null

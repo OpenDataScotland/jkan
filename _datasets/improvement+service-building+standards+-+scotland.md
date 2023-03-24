@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-03-16'
+date_updated: '2023-03-22'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Building Standards Register is maintained by local authorities under\
