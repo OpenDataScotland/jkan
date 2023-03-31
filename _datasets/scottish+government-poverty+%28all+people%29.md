@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2021-05-12'
-date_updated: '2022-03-04'
+date_updated: '2023-03-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Official Statistics of the number and proportions of people in poverty.

@@ -3,34 +3,36 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: '2022-08-18'
-date_updated: '2022-08-18'
+date_created: '2023-03-29'
+date_updated: '2023-03-29'
 license: No licence
 maintainer: Perth & Kinross Council
-notes: "<p>Parliamentary polling district boundaries are used\_to manage elections.\
-  \ They are sub-divisions of the 2017 electoral ward boundaries.</p>"
+notes: <div style='text-align:Left;font-size:12pt'><p><span>Parliamentary polling
+  district boundaries are used internally to manage elections. They are sub-divisions
+  of the 2017 Electoral Ward boundaries. Adjustments may occur over time to reflect
+  new house building or in order to fit in with other electoral administrative boundaries.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/polling-districts
+original_dataset_link: https://data.pkc.gov.uk/dataset/polling-districts1
 records: null
 resources:
 - format: HTML
   name: ArcGIS Hub Dataset
-  url: https://opendata-pkc.opendata.arcgis.com/maps/6dac129ea3cb492b961186e316e09690_0
+  url: https://open-data-perth-kinross.hub.arcgis.com/maps/7244675fdab14e6db45296ff40ecd5e5_4
 - format: ARCGIS GEOSERVICE
   name: ArcGIS GeoService
-  url: https://services.arcgis.com/pfFDYSlYcp7mabvZ/arcgis/rest/services/Polling_districts/FeatureServer/0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/6dac129ea3cb492b961186e316e09690_0.geojson?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Polling_Districts/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/6dac129ea3cb492b961186e316e09690_0.csv?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
-- format: KML
-  name: KML
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/6dac129ea3cb492b961186e316e09690_0.kml?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
+  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_4.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_4.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: Shapefile
-  url: https://opendata-pkc.opendata.arcgis.com/datasets/6dac129ea3cb492b961186e316e09690_0.zip?outSR=%7B%22latestWkid%22%3A3395%2C%22wkid%22%3A3395%7D
+  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_4.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Polling districts
+title: Polling Districts
 ---
