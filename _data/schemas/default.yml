@@ -102,6 +102,7 @@ organization_fields:
       - Static
       - Pure
       - DSpace
+      - Bespoke
 
 category_fields:
   - field_name: name
