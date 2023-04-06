@@ -1,17 +1,39 @@
 import $ from 'jquery'
 import { setContent } from '../util';
 
-export default class {
+export default class PopularDatasets {
     constructor(opts) {
         const datasets = opts.datasets;
 
-        this.getPopularDatasets().then(popularDatasets => this.setPopularDatasets(popularDatasets, datasets));
+        this.getPopularDatasets(datasets);
     }
 
-    getPopularDatasets() {
-        return fetch("https://plausible.io/api/stats/opendata.scot/pages?period=7d&date=2023-04-05&filters={%22page%22:%22/datasets/**%22}")
-            .then(response => response.json())
-            .then(data => { return data });
+    getPopularDatasetsViaCloudflare(currentClass, datasets) {
+        $.ajax({
+            url: 'https://popular-datasets.opendatascotland.workers.dev',
+            dataType: 'json',
+            success: function (data) {
+                currentClass.setPopularDatasets(data, datasets);
+            },
+            error: function (data) {
+                console.debug("Error:", data);
+            }
+        });
+    }
+
+    getPopularDatasets(datasets) {
+        var currentClass = this;        
+        $.ajax({
+            url: 'https://plausible.io/api/stats/opendata.scot/pages?period=7d&date=2023-04-05&filters={%22page%22:%22/datasets/**%22}',
+            dataType: 'json',
+            success: function (data) {
+                currentClass.setPopularDatasets(data, datasets);                
+            },
+            error: function (data) {
+                console.debug("Error:", data);
+                currentClass.getPopularDatasetsViaCloudflare(currentClass, datasets);
+            }
+        });
     }
 
     setPopularDatasets(popularDatasets, datasets) {
@@ -35,7 +57,7 @@ export default class {
             .slice(0, 5);
 
         const top5AsElements = top5.map(dataset => {
-            var listElement = document.createElement("a");            
+            var listElement = document.createElement("a");
             listElement.className = "list-group-item";
             listElement.href = dataset.datasetUrl;
             listElement.innerHTML = `<span class="badge">${dataset.datasetVisits}</span>${dataset.datasetOrg} - ${dataset.datasetName}`
@@ -43,8 +65,6 @@ export default class {
             return listElement;
         })
 
-        setContent($("#popular-datasets"),top5AsElements)
-
+        setContent($("#popular-datasets"), top5AsElements)
     }
 }
-
