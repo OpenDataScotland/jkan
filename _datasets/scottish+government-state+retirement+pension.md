@@ -1,8 +1,8 @@
 ---
 category:
 - Budget / Finance
-date_created: '2014-07-29'
-date_updated: '2016-02-03'
+date_created: ''
+date_updated: '2023-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of State Pension claimants by age and gender.</p>

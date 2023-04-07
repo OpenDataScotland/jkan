@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: '2017-05-19'
-date_updated: '2023-03-08'
+date_created: ''
+date_updated: '2023-04-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Number of delays by length of delay and reason for delay at the monthly

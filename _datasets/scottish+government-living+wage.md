@@ -1,7 +1,7 @@
 ---
 category:
 - Elections / Politics
-date_created: '2019-02-28'
+date_created: ''
 date_updated: '2022-02-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

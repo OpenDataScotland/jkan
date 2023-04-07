@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2018-05-01'
+date_created: ''
 date_updated: '2023-03-10'
 license: No licence
 maintainer: Scottish Government

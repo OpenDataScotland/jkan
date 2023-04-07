@@ -1,7 +1,7 @@
 ---
 category:
 - Business and Economy
-date_created: '2020-01-28'
+date_created: ''
 date_updated: '2020-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government

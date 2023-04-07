@@ -1,8 +1,8 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29'
-date_updated: '2017-05-25'
+date_created: ''
+date_updated: '2023-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of home care clients by care type or disability. Number and rate

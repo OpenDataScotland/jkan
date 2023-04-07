@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: '2018-09-07'
+date_created: ''
 date_updated: '2022-07-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland

@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-03-30'
+date_updated: '2023-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -13,7 +13,7 @@ notes: <p>Local authorities are required to conduct an annual survey of the hous
   releases within the Local Development Plan process. A five-year effective housing
   land supply is required at all times.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </p>
 organization: Dundee City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_supply_dundee_city-dc'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_supply-dc'
 records: null
 resources:
 - format: No file type

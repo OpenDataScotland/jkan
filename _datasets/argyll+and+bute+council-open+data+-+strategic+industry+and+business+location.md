@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Planning and Development
 date_created: '2017-07-07'
-date_updated: '2017-07-18'
+date_updated: '2023-04-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Strategic Industry and Business Location in the 2015 Local Development Plan</p>

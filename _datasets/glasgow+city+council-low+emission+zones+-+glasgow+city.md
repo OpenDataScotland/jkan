@@ -1,17 +1,16 @@
 ---
 category:
 - Business and Economy
-- Council and Government
 - Food and Environment
 date_created: '2022-09-29'
-date_updated: '2023-03-21'
+date_updated: '2023-04-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
-notes: <p>Low Emissions Zone Boundary for Glasgow City Council. A Low Emission Zone
-  is an area where a person may not drive a vehicle which does not meet a specified
-  emission standard. LEZs are intended to reduce pollution levels and improve air
-  quality in areas where standards are not being met. LEZs are based on a penalty
-  notice approach to effectively ban non-compliant vehicles.</p>
+notes: <p>Low Emissions Zone Boundary. A Low Emission Zone is an area where a person
+  may not drive a vehicle which does not meet a specified emission standard. LEZs
+  are intended to reduce pollution levels and improve air quality in areas where standards
+  are not being met. LEZs are based on a penalty notice approach to effectively ban
+  non-compliant vehicles.</p>
 organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/low_emission_zones-gc'
 records: null
