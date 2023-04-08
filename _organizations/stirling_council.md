@@ -12,5 +12,5 @@ gss_code: S12000030
 wikidata_org_qid: Q99229589
 wikidata_portal_qid: Q109851950
 wdtk_id: stirling_council
-portal_type: CKAN
+portal_type: ArcGIS
 ---
