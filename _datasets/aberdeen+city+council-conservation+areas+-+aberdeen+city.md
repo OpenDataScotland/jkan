@@ -48,5 +48,5 @@ resources:
   name: Conservation Areas
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Conservation_Areas/FeatureServer
 schema: default
-title: Conservation areas - aberdeen city
+title: Conservation Areas - Aberdeen City
 ---

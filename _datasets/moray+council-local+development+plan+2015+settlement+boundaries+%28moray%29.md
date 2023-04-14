@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=5c51907e5088428e
 records: 33
 resources: []
 schema: default
-title: Local development plan 2015 settlement boundaries (moray)
+title: Local Development Plan 2015 Settlement Boundaries (Moray)
 ---

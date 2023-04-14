@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/622cf772615d4b4eba10f5d36d877260_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Special landscape areas
+title: Special Landscape Areas
 ---

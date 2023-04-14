@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/127ececb-bc70-46de-a637-e159b89c6d19/1/urql
 schema: default
-title: Stirling - daily cycling counts from automatic cycling counters
+title: Stirling - Daily cycling counts from automatic cycling counters
 ---

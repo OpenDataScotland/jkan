@@ -19,5 +19,5 @@ resources:
   name: Local Nature Conervation Sites
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?service=WFS&request=GetFeature&typeName=fife:LOCAL_NATURE_CONSERV_SITES
 schema: default
-title: Local nature conservation sites - fife
+title: Local Nature Conservation Sites - Fife
 ---

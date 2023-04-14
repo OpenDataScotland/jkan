@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Community council boundaries
+title: Community Council Boundaries
 ---

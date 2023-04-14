@@ -42,5 +42,5 @@ resources:
   name: Flu - eligible uptake
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ae1cd4fd-5658-47b5-8e0a-2274627682d5/download/weekly_flu_vacc_eligible_uptake_hb_20230406.csv
 schema: default
-title: Flu & covid vaccinations
+title: Flu & COVID vaccinations
 ---

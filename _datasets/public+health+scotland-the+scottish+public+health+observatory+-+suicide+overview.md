@@ -29,5 +29,5 @@ resources:
   name: Suicide Statistics By Deprivation
   url: https://www.opendata.nhs.scot/dataset/8276a06b-af53-47cb-9588-a28aad393220/resource/f4e70964-38c9-44f6-aaba-08e38f8dbb2f/download/scotpho_2020_suicide_simd_overview_v2.csv
 schema: default
-title: The scottish public health observatory - suicide overview
+title: The Scottish Public Health Observatory - Suicide Overview
 ---

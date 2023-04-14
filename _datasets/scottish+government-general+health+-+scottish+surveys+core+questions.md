@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/general-health-sscq
 records: null
 resources: []
 schema: default
-title: General health - scottish surveys core questions
+title: General Health - Scottish Surveys Core Questions
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=3beec65098004c05
 records: 1
 resources: []
 schema: default
-title: Local development plan 2020 pressurised and sensitive areas (moray)
+title: Local Development Plan 2020 Pressurised and Sensitive Areas (Moray)
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-innovation
 records: null
 resources: []
 schema: default
-title: Business innovation
+title: Business Innovation
 ---

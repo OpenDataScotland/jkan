@@ -50,5 +50,5 @@ resources:
   name: Pre-Appeals National Course Results 2003
   url: https://www.sqa.org.uk/files_ccc/SQAPre-AppealNationalCourseResults2003.xls
 schema: default
-title: Sqa statistics 2003
+title: SQA Statistics 2003
 ---

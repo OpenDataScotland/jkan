@@ -37,5 +37,5 @@ resources:
   name: 'Community Asset Transfer Register '
   url: https://geo.spatialhub.scot/geoserver/sh_catr/wfs?service=wfs&typeName=sh_catr:pub_catr
 schema: default
-title: Community asset transfer register - scotland
+title: Community Asset Transfer Register - Scotland
 ---

@@ -18,5 +18,5 @@ resources:
   name: Statistical Qualifier Lookup
   url: https://www.opendata.nhs.scot/dataset/2b6f00ec-fee3-4828-9303-89f31b436d2a/resource/b80f9af0-b115-4245-b591-fb22775226c4/download/statisticalqualifiers24052019.csv
 schema: default
-title: Statistical qualifiers
+title: Statistical Qualifiers
 ---

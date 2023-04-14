@@ -29,5 +29,5 @@ resources:
   name: Community Council Wards
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities%0Ahttp://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 schema: default
-title: Community council boundaries - dundee city
+title: Community Council Boundaries - Dundee City
 ---

@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=6b49d2cc9ce44026
 records: 97
 resources: []
 schema: default
-title: Open data - polling places
+title: Open Data - Polling Places
 ---

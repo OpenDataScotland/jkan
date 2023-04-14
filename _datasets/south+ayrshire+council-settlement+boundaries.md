@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2fee7037164841e4
 records: 30
 resources: []
 schema: default
-title: Settlement boundaries
+title: Settlement Boundaries
 ---

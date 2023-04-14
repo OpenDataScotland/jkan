@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Forth-Bridge-Illustrations-1886-1887.zip
 schema: default
-title: Forth bridge illustrations, 1886-1887
+title: Forth Bridge illustrations, 1886-1887
 ---

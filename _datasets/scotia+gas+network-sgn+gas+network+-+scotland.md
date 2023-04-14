@@ -46,5 +46,5 @@ resources:
   name: 'Scotia Gas Networks: MP Pipes '
   url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnmp
 schema: default
-title: Sgn gas network - scotland
+title: SGN Gas Network - Scotland
 ---

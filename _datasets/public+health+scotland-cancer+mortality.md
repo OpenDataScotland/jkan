@@ -46,5 +46,5 @@ resources:
   name: 5-Year Summary of Mortality by Council Area
   url: https://www.opendata.nhs.scot/dataset/eac9e673-09e2-4385-9879-c238f65468fd/resource/e7617772-9a43-402f-adf3-e6106edd9b2f/download/opendata_mort1620comb_ca.csv
 schema: default
-title: Cancer mortality
+title: Cancer Mortality
 ---

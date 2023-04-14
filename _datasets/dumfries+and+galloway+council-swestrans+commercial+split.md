@@ -17,5 +17,5 @@ resources:
   name: SWestrans Commercial split 2018.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=ac89c2de-4a8d-4bfc-b574-e4c28412bcf1
 schema: default
-title: Swestrans commercial split
+title: SWestrans Commercial Split
 ---

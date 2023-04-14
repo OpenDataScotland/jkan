@@ -29,5 +29,5 @@ resources:
   name: Community Councils
   url: https://mapping.moray.gov.uk/arcgis/services/OpenData/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Community council boundaries - moray
+title: Community Council Boundaries - Moray
 ---

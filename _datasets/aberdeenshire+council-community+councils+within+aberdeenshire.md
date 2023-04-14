@@ -15,5 +15,5 @@ resources:
   name: KMZ
   url: http://publications.aberdeenshire.gov.uk/dataset/547fa35e-fb95-49e8-a0a2-281541dbc8a9/resource/a2d0dfbb-5f40-46ed-9a49-8aa45fabf1d6/download/communitycouncilsdata08032023.kmz
 schema: default
-title: Community councils within aberdeenshire
+title: Community councils within Aberdeenshire
 ---

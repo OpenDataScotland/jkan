@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/c4426ec2-fbf0-45b2-9f68-0477527257a0/resource/a05aef07-c3fa-4331-905a-6b6f58eac3d5/download/datadictionary.json
 schema: default
-title: 2011 census - covid19 research database subset
+title: 2011 Census - COVID19 Research Database Subset
 ---

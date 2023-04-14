@@ -18,5 +18,5 @@ resources:
   name: Polling_Stations_NOV19 .csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=9eec9885-204c-4b53-b7e3-feebad7ad8aa
 schema: default
-title: Polling stations
+title: Polling Stations
 ---

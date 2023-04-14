@@ -36,5 +36,5 @@ resources:
   name: Spatial Hub WFS - Conservation Areas
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Conservation areas - north ayrshire
+title: Conservation Areas - North Ayrshire
 ---

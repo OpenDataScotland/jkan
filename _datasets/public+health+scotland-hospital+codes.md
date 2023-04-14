@@ -18,5 +18,5 @@ resources:
   name: Current NHS Hospitals in Scotland
   url: https://www.opendata.nhs.scot/dataset/cbd1802e-0e04-4282-88eb-d7bdcfb120f0/resource/c698f450-eeed-41a0-88f7-c1e40a568acc/download/current-hospital_flagged20211216.csv
 schema: default
-title: Hospital codes
+title: Hospital Codes
 ---

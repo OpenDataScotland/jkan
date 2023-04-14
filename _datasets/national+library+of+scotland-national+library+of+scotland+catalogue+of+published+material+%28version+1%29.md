@@ -17,5 +17,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-catalogue-published-material.zip
 schema: default
-title: National library of scotland catalogue of published material (version 1)
+title: National Library of Scotland catalogue of published material (version 1)
 ---

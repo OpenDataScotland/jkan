@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/811a54fb-8b79-442f-8e28-a725a0561a15/resource/811a54fb-8b79-442f-8e28-a725a0561a15/download/datadictionary.json
 schema: default
-title: Sicsag daily (scottish intensive care audit group)
+title: SICSAG Daily (Scottish Intensive Care Audit Group)
 ---

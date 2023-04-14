@@ -33,5 +33,5 @@ resources:
   name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2022-locations-lookup.csv
 schema: default
-title: Annual hospital beds information
+title: Annual Hospital Beds Information
 ---

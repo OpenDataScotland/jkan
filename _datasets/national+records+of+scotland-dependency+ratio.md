@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-estimates-depe
 records: null
 resources: []
 schema: default
-title: Dependency ratio
+title: Dependency Ratio
 ---

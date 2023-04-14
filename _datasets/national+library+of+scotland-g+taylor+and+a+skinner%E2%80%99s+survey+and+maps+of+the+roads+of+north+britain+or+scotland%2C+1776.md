@@ -14,6 +14,6 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Taylor-and-Skinner-Road-Maps-North-Britain.zip
 schema: default
-title: "G taylor and a skinner\u2019s survey and maps of the roads of north britain\
-  \ or scotland, 1776"
+title: "G Taylor and A Skinner\u2019s Survey and Maps of the roads of North Britain\
+  \ or Scotland, 1776"
 ---

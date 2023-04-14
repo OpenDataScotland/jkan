@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-work-staffing
 records: null
 resources: []
 schema: default
-title: Social work staffing
+title: Social Work Staffing
 ---

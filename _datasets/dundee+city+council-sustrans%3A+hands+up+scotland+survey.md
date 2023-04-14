@@ -35,5 +35,5 @@ resources:
   name: 2021 - Analysis by Travel Mode - Dundee City
   url: https://data.dundeecity.gov.uk/dataset/c17e34d4-42fa-43f8-8833-bc4158b7cd22/resource/46443e96-1f76-4499-b9cc-83752d492309/download/2021_analysis_by_travel_mode.csv
 schema: default
-title: 'Sustrans: hands up scotland survey'
+title: 'Sustrans: Hands Up Scotland Survey'
 ---

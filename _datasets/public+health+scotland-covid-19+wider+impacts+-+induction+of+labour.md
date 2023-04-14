@@ -65,5 +65,5 @@ resources:
   name: Inductions by Deprivation
   url: https://www.opendata.nhs.scot/dataset/e4317e5c-5e51-4714-8c7b-3d90399c47d3/resource/617dc550-6960-4164-b6c6-a78ebbf76a6c/download/induction_labour_simd_20230405.csv
 schema: default
-title: Covid-19 wider impacts - induction of labour
+title: COVID-19 Wider Impacts - Induction of Labour
 ---

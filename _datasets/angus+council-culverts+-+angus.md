@@ -63,5 +63,5 @@ resources:
   name: Cilvert Register and drainage lines
   url: https://data.angus.gov.uk/geoserver/inspire/ows
 schema: default
-title: Culverts - angus
+title: Culverts - Angus
 ---

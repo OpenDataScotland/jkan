@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/national-islands-plan-sur
 records: null
 resources: []
 schema: default
-title: National islands plan survey
+title: National Islands Plan Survey
 ---

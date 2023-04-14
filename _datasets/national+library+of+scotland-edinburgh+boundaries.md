@@ -15,5 +15,5 @@ resources:
   name: HTML
   url: https://maps.nls.uk/geo/boundaries/edinburgh/download.html
 schema: default
-title: Edinburgh boundaries
+title: Edinburgh Boundaries
 ---

@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/5b5deab2-2a83-4eef-83a8-13853beee94c/resource/dca0c95b-ae7d-4163-8c3b-a881f779df02/download/datadictionary.json
 schema: default
-title: National records of scotland (nrs) - stillbirth data
+title: National Records of Scotland (NRS) - Stillbirth Data
 ---

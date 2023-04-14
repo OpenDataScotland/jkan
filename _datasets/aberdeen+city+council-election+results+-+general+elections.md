@@ -92,5 +92,5 @@ resources:
   name: General Election 2017 - Aberdeen South Rejected Ballots
   url: https://data.aberdeencity.gov.uk/dataset/977607dd-8203-4147-8396-c11c0e346f60/resource/f24cdce6-7cfb-4f02-a942-5a394a0ab579/download/ge2017-absouth-rejected-ballots.csv
 schema: default
-title: Election results - general elections
+title: Election Results - General Elections
 ---

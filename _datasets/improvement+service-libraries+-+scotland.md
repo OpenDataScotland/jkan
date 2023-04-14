@@ -27,5 +27,5 @@ resources:
   name: 'Libraries Mobile '
   url: https://geo.spatialhub.scot/geoserver/sh_lib/wfs?service=wfs&typeName=sh_lib:pub_libmob
 schema: default
-title: Libraries - scotland
+title: Libraries - Scotland
 ---

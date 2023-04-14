@@ -44,5 +44,5 @@ resources:
   name: Midlothian Polling Districts Updated November 2019
   url: https://dservices5.arcgis.com/CT2Zj7xubqvzu3yJ/arcgis/services/Midlothian_Polling_Districts/WFSServer?service=wfs&request=getcapabilities?
 schema: default
-title: Polling districts - midlothian
+title: Polling Districts - Midlothian
 ---

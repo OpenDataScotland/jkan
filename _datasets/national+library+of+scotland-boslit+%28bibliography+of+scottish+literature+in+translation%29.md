@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/BOSLIT.zip
 schema: default
-title: Boslit (bibliography of scottish literature in translation)
+title: BOSLIT (Bibliography of Scottish Literature in Translation)
 ---

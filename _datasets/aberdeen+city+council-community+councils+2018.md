@@ -35,5 +35,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/8495099e41234f03ba6679f1236f2749_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Community councils 2018
+title: Community Councils 2018
 ---

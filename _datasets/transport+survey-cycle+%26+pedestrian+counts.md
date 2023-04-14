@@ -55,5 +55,5 @@ resources:
   name: 'January 2022 to December 2022 '
   url: https://data.stirling.gov.uk/dataset/51e50021-ac94-4475-8390-4261bc540665/resource/0ba6a880-f5d5-4a5c-8a36-aef1d7e2376b/download/20230213-cycle-pedestrian-counts-jan-2022-to-dec-2022.csv
 schema: default
-title: Cycle & pedestrian counts
+title: Cycle & Pedestrian Counts
 ---

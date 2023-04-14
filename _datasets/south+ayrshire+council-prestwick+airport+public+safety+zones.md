@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=5934cd9303934b9b
 records: 4
 resources: []
 schema: default
-title: Prestwick airport public safety zones
+title: Prestwick Airport Public Safety Zones
 ---

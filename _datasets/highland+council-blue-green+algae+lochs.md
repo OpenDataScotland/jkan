@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/19957b55e2594d6a8e17662af358cfc4_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Blue-green algae lochs
+title: Blue-Green Algae Lochs
 ---

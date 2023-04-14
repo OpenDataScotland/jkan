@@ -11,5 +11,5 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Stirling council open data policy (november 2015)
+title: Stirling Council Open Data Policy (November 2015)
 ---

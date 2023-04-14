@@ -34,5 +34,5 @@ resources:
   name: Mid 2021 Land Area and Population Density - Dundee City
   url: https://data.dundeecity.gov.uk/dataset/b4956528-414c-406f-9987-16aac95d3519/resource/535ad582-68e7-4985-826c-ba2c51ad3dc1/download/2021_population_land_density-dundeecity.csv
 schema: default
-title: Nrs land area and population density - dundee city
+title: NRS Land Area and Population Density - Dundee City
 ---

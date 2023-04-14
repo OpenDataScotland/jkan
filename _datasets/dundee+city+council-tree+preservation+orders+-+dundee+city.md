@@ -48,5 +48,5 @@ resources:
   name: TPO boundary
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/TPO_edits_view/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Tree preservation orders - dundee city
+title: Tree Preservation Orders - Dundee City
 ---

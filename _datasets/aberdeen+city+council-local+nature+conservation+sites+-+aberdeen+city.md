@@ -25,5 +25,5 @@ resources:
   name: Local Nature Conservation Sites
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Local_Nature_Conservation_Sites/FeatureServer
 schema: default
-title: Local nature conservation sites - aberdeen city
+title: Local Nature Conservation Sites - Aberdeen City
 ---

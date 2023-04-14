@@ -39,5 +39,5 @@ resources:
   name: OS OpenNames in ETRS-89 > 330 Mb zip
   url: http://os.uk/xml/datasets/OSOpenNamesETRS-89.zip
 schema: default
-title: Os open names
+title: OS Open Names
 ---

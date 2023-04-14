@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/vacant-derelict-land
 records: null
 resources: []
 schema: default
-title: Derelict and urban vacant land
+title: Derelict and Urban Vacant Land
 ---

@@ -49,5 +49,5 @@ resources:
     City
   url: https://data.dundeecity.gov.uk/dataset/a9124ebc-d67e-43f5-ae40-22a421d449d5/resource/584ac7e3-c710-4a4c-95b9-901797039f05/download/dundee_persons_single_yr_age.csv
 schema: default
-title: Nrs population projections for scottish areas - dundee city
+title: NRS Population Projections for Scottish Areas - Dundee City
 ---

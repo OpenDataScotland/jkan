@@ -26,5 +26,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=83cd364a20be4155
 records: 755
 resources: []
 schema: default
-title: Sfgs forest plans
+title: SFGS Forest Plans
 ---

@@ -30,5 +30,5 @@ resources:
   name: Sites of Special Landscape Importance
   url: https://data.spatialhub.scot/dataset/5f6fffd0-4138-4312-a97b-f19463bd09b5/resource/b5501323-9153-4ce3-8ade-00cdd4fd9346/download/sitesspeciallanscapeimportance.zip
 schema: default
-title: Local landscape areas - glasgow city
+title: Local Landscape Areas - Glasgow City
 ---

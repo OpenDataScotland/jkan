@@ -38,5 +38,5 @@ resources:
   name: Tree Preservation Order
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Tree_Preservation_Order/FeatureServer/6/query?outFields=*&where=1%3D1
 schema: default
-title: Tree preservation orders - perth and kinross
+title: Tree Preservation Orders - Perth and Kinross
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e060c11e0790471f
 records: 89
 resources: []
 schema: default
-title: Local development plan 2020 rural group boundary (moray)
+title: Local Development Plan 2020 Rural Group Boundary (Moray)
 ---

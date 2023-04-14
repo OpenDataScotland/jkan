@@ -56,5 +56,5 @@ resources:
   name: Secondary school catchments
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Secondary_School_Catchments/FeatureServer/6/query?outFields=*&where=1%3D1
 schema: default
-title: School catchments - perth and kinross
+title: School Catchments - Perth and Kinross
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/drinking-behaviour-among-
 records: null
 resources: []
 schema: default
-title: Drinking behaviour among young people (salsus)
+title: Drinking behaviour among young people (SALSUS)
 ---

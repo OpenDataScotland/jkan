@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/literacy-and-numeracy
 records: null
 resources: []
 schema: default
-title: Schools - literacy and numeracy
+title: Schools - Literacy and Numeracy
 ---

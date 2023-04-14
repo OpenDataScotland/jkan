@@ -17,5 +17,5 @@ resources:
   name: recycling.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=e2ae5d65-fac4-41f1-8e86-4bdf5796195b
 schema: default
-title: Recycling centres
+title: Recycling Centres
 ---

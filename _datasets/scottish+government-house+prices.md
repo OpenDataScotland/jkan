@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/house-sales-prices
 records: null
 resources: []
 schema: default
-title: House prices
+title: House Prices
 ---

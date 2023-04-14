@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/renewable-electricity
 records: null
 resources: []
 schema: default
-title: Renewable electricity 2000 - 2020
+title: Renewable Electricity 2000 - 2020
 ---

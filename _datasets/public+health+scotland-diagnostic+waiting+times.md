@@ -29,5 +29,5 @@ resources:
   name: '2007 - 2019: Waiting Times At Scotland Level'
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/d61e6e61-3fa6-4b14-8312-2c76d17094bb/download/diagnostics_scotland_march_2019.csv
 schema: default
-title: Diagnostic waiting times
+title: Diagnostic Waiting Times
 ---

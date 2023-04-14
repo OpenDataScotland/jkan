@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/39055449-c074-4b58-adb2-b1c0d2441c4d/resource/39055449-c074-4b58-adb2-b1c0d2441c4d/download/datadictionary.json
 schema: default
-title: Nhs tayside and fife immunology
+title: NHS Tayside and Fife Immunology
 ---

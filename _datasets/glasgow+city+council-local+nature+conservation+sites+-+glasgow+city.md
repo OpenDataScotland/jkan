@@ -19,5 +19,5 @@ resources:
   name: Sites of Importance for Nature Conservation
   url: https://data.spatialhub.scot/dataset/628de1aa-31b5-405b-b170-0249679cb09b/resource/602e5100-cc1c-450f-abb2-f9602a8396c2/download/sitesimportancenatureconservation.zip
 schema: default
-title: Local nature conservation sites - glasgow city
+title: Local Nature Conservation Sites - Glasgow City
 ---

@@ -30,5 +30,5 @@ resources:
   name: Available Now Properties
   url: https://mapsonline.dundeecity.gov.uk/dcc_gis_root/DCC_GIS_Config/App_Config/AvailHousing/availhousing_csv.ashx
 schema: default
-title: Housing available now
+title: Housing Available Now
 ---

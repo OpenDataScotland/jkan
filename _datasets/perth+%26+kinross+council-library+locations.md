@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/a622023e8f63489c8dc05b1aefa5bd46_27.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Library locations
+title: Library Locations
 ---

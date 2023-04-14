@@ -17,5 +17,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/7631a55f-a450-4658-ae08-a1c3ddc626f7/1/urql
 schema: default
-title: Secondary schools
+title: Secondary Schools
 ---

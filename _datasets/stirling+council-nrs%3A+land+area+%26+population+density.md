@@ -25,5 +25,5 @@ resources:
   name: Mid-year Land Area & Population Density Estimates
   url: https://data.stirling.gov.uk/dataset/ed73debc-c99f-442e-b69a-4a288235bf2f/resource/8d8e7c94-701e-4f38-9346-f5b0bf25d121/download/20220718-stirling-nrs-land-area-population-density-estimates-2000-to-2021.csv
 schema: default
-title: 'Nrs: land area & population density'
+title: 'NRS: Land Area & Population Density'
 ---

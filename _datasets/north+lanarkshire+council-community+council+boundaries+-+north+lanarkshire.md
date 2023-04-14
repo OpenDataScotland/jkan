@@ -29,5 +29,5 @@ resources:
   name: N. Lanarkshire community councils
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
 schema: default
-title: Community council boundaries - north lanarkshire
+title: Community Council Boundaries - North Lanarkshire
 ---

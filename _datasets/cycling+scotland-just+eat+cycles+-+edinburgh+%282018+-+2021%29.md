@@ -21,5 +21,5 @@ resources:
   name: Just Eat Cycles - Edinburgh (2018 - 2021).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5872e566-d5ac-4059-a38b-e2ae4a228fae
 schema: default
-title: Just eat cycles - edinburgh (2018 - 2021)
+title: Just Eat Cycles - Edinburgh (2018 - 2021)
 ---

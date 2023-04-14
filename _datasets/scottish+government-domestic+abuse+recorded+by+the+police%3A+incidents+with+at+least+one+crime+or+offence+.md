@@ -13,6 +13,6 @@ original_dataset_link: http://statistics.gov.scot/data/domestic-abuse-recorded-b
 records: null
 resources: []
 schema: default
-title: 'Domestic abuse recorded by the police: incidents with at least one crime or
-  offence '
+title: 'Domestic Abuse Recorded by the Police: Incidents with at least one Crime or
+  Offence '
 ---

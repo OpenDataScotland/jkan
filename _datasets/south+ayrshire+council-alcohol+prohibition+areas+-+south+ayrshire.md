@@ -24,5 +24,5 @@ resources:
   name: Alcohol_Prohibition_Areas
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Alcohol prohibition areas - south ayrshire
+title: Alcohol Prohibition Areas - South Ayrshire
 ---

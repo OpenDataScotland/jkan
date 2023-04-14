@@ -46,5 +46,5 @@ resources:
   name: Polling Places
   url: https://maps.renfrewshire.gov.uk/arcgis/services/Contentmaps/ELECTIONS_AND_VOTING/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
-title: Polling places - renfrewshire council
+title: Polling Places - Renfrewshire Council
 ---

@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-rollsOfHonour.zip
 schema: default
-title: Rolls of honour
+title: Rolls of Honour
 ---

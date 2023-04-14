@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/tourism-day-visits---tran
 records: null
 resources: []
 schema: default
-title: Tourism day visits - transport
+title: Tourism Day Visits - Transport
 ---

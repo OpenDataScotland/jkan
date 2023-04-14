@@ -21,5 +21,5 @@ resources:
   name: GeoJSON for Rural Settlement Units
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ruralsettlementunits&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council rural settlement units
+title: Angus Council Rural Settlement Units
 ---

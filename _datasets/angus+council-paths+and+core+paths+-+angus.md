@@ -33,5 +33,5 @@ resources:
   name: Angus Community Core Paths
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Paths and core paths - angus
+title: Paths And Core Paths - Angus
 ---

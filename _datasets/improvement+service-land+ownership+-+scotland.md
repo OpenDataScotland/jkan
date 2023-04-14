@@ -24,5 +24,5 @@ resources:
   name: 'Land Ownership '
   url: https://geo.spatialhub.scot/geoserver/sh_lndown/wfs?service=wfs&typeName=sh_lndown:pub_lndown
 schema: default
-title: Land ownership - scotland
+title: Land Ownership - Scotland
 ---

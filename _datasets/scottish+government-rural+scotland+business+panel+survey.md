@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/rural-scotland-business-p
 records: null
 resources: []
 schema: default
-title: Rural scotland business panel survey
+title: Rural Scotland Business Panel Survey
 ---

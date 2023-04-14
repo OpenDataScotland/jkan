@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/children-in-families-with
 records: null
 resources: []
 schema: default
-title: Children in families with limited resources
+title: Children in Families with Limited Resources
 ---

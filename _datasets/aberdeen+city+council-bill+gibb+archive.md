@@ -43,5 +43,5 @@ resources:
   name: Images of the Bill Gibb Collection
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=Gibb+Bill&Title=&chat=
 schema: default
-title: Bill gibb archive
+title: Bill Gibb Archive
 ---

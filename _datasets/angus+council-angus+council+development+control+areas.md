@@ -21,5 +21,5 @@ resources:
   name: GeoJSON for Development Boundaries
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ldp14_development_boundary&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council development control areas
+title: Angus Council Development Control Areas
 ---

@@ -59,5 +59,5 @@ resources:
   name: Pre Appeals National Qualification Results 2005 - Female Candidates
   url: https://www.sqa.org.uk/files_ccc/PreAppealNQResults_Female_2005.xls
 schema: default
-title: Sqa statistics 2005
+title: SQA Statistics 2005
 ---

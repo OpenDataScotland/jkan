@@ -27,5 +27,5 @@ resources:
   name: Length of Residence (All People) COA - Table QS803SC
   url: https://data.dundeecity.gov.uk/dataset/84a7b3fd-0372-4d78-a4eb-63b2b899ed9d/resource/ce061b47-c565-4f11-89c2-2435d81122f1/download/scotlands_census2011_tblqs803sc_lengthresidence.csv
 schema: default
-title: Nrs 2011 census - census output area data - dundee city
+title: NRS 2011 Census - Census Output Area Data - Dundee City
 ---

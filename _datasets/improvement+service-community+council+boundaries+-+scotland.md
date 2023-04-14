@@ -26,5 +26,5 @@ resources:
   name: 'Community Council Boundaries '
   url: https://geo.spatialhub.scot/geoserver/sh_commcnc/wfs?service=wfs&typeName=sh_commcnc:pub_commcnc
 schema: default
-title: Community council boundaries - scotland
+title: Community Council Boundaries - Scotland
 ---

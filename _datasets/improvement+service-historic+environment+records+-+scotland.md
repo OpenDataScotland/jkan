@@ -47,5 +47,5 @@ resources:
   name: 'Historic Environment Records: Sites '
   url: https://geo.spatialhub.scot/geoserver/sh_her/wfs?service=wfs&typeName=sh_her:pub_herst
 schema: default
-title: Historic environment records - scotland
+title: Historic Environment Records - Scotland
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-
 records: null
 resources: []
 schema: default
-title: 'Social security scotland: clients equalities with application outcome'
+title: 'Social Security Scotland: clients equalities with application outcome'
 ---

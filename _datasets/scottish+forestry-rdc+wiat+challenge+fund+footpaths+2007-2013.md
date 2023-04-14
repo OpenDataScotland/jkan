@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=84aea7e48956419d
 records: 62
 resources: []
 schema: default
-title: Rdc wiat challenge fund footpaths 2007-2013
+title: RDC WIAT Challenge Fund Footpaths 2007-2013
 ---

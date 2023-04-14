@@ -19,5 +19,5 @@ resources:
   name: 'GP Practices '
   url: https://geo.spatialhub.scot/geoserver/sh_gpprac/wfs?service=wfs&typeName=sh_gpprac:pub_gpprac
 schema: default
-title: Gp practices - scotland
+title: GP Practices - Scotland
 ---

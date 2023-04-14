@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=bd878bfec39f4a65
 records: 60
 resources: []
 schema: default
-title: Polling districts (moray)
+title: Polling Districts (Moray)
 ---

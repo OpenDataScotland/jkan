@@ -15,5 +15,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/207bc8d3-ef23-406b-91c8-adc12e5a9dae/1/urql
 schema: default
-title: Traffic count by mode of transport - department for transport traffic counts
+title: Traffic count by mode of transport - Department for Transport Traffic Counts
 ---

@@ -46,5 +46,5 @@ resources:
   name: Review by Looked after Children
   url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/930e3f6f-7232-4bbb-be43-c33d876d5c6d/download/open27msclac.csv
 schema: default
-title: Early child development - 27-30 month review statistics
+title: Early Child Development - 27-30 Month Review Statistics
 ---

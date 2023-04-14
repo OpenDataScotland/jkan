@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2cb0962dfcd4418a
 records: 83
 resources: []
 schema: default
-title: Historic school rolls 1996 to 2018
+title: Historic School Rolls 1996 to 2018
 ---

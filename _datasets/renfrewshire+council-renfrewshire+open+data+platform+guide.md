@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e72a2b2e62bb431d
 records: null
 resources: []
 schema: default
-title: Renfrewshire open data platform guide
+title: Renfrewshire Open Data Platform Guide
 ---

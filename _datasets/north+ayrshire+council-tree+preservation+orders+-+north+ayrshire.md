@@ -45,5 +45,5 @@ resources:
   name: Spatial Hub WFS - TPOs
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Tree preservation orders - north ayrshire
+title: Tree Preservation Orders - North Ayrshire
 ---

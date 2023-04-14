@@ -36,5 +36,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/791282bed8274d5799578a1b1459542c_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Settlement development areas
+title: Settlement Development Areas
 ---

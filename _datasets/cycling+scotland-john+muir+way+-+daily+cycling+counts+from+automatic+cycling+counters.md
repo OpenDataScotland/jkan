@@ -15,5 +15,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4709d578-f2b6-4584-b8e2-4512c5936f65/1/urql
 schema: default
-title: John muir way - daily cycling counts from automatic cycling counters
+title: John Muir Way - Daily cycling counts from automatic cycling counters
 ---

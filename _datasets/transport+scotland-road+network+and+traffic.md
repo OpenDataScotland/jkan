@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/road-network-traffic
 records: null
 resources: []
 schema: default
-title: Road network and traffic
+title: Road Network and Traffic
 ---

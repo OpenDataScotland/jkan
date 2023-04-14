@@ -28,5 +28,5 @@ resources:
   name: Employment land supply
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Employment land supply - north ayrshire
+title: Employment Land Supply - North Ayrshire
 ---

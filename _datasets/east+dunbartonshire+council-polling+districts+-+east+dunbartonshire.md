@@ -41,5 +41,5 @@ resources:
   name: Polling Districts - WFS
   url: https://maps.eastdunbarton.gov.uk/arcgis/services/EDC_Map/Polling_and_Political_Info/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling districts - east dunbartonshire
+title: Polling Districts - East Dunbartonshire
 ---

@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/cca8ff71-fc4e-4544-9345-e87f6c0b3f2d/resource/1fc57971-5af5-499e-a500-4ffbb087f0c4/download/datadictionary.json
 schema: default
-title: Rapid (hospital stay level data)
+title: RAPID (Hospital Stay Level Data)
 ---

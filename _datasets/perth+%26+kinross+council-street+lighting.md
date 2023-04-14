@@ -30,5 +30,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/fb92ae2c48cd440cb58ab3f7430d9627_27.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Street lighting
+title: Street Lighting
 ---

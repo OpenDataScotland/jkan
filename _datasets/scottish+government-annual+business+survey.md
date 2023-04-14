@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/annual-business-survey
 records: null
 resources: []
 schema: default
-title: Annual business survey
+title: Annual Business Survey
 ---

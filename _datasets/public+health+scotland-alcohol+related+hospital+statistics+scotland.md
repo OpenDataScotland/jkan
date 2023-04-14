@@ -34,5 +34,5 @@ resources:
   name: ICD-10 Codes
   url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/5e6e7c94-4786-4299-bedb-29f7cfbd26ea/download/icd10.csv
 schema: default
-title: Alcohol related hospital statistics scotland
+title: Alcohol Related Hospital Statistics Scotland
 ---

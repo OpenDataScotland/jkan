@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1bd85abb1ff749c6
 records: 1
 resources: []
 schema: default
-title: Local development plan 2015 coastal protection zone (cpz) (moray)
+title: Local Development Plan 2015 Coastal Protection Zone (CPZ) (Moray)
 ---

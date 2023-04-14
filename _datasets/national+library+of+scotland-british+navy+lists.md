@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-navyLists.zip
 schema: default
-title: British navy lists
+title: British Navy Lists
 ---

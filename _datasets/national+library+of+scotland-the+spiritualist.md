@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-spiritualistNewspaper.zip
 schema: default
-title: The spiritualist
+title: The Spiritualist
 ---

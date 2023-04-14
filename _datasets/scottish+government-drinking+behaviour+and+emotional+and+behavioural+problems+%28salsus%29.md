@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/drinking-behaviour-and-em
 records: null
 resources: []
 schema: default
-title: Drinking behaviour and emotional and behavioural problems (salsus)
+title: Drinking behaviour and emotional and behavioural problems (SALSUS)
 ---

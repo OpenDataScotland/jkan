@@ -179,5 +179,5 @@ resources:
   name: Pre-release Access List
   url: https://www.sqa.org.uk/sqa/files_ccc/attainment-statistics-(august)-2021-pre-releaselist-education-authority.pdf
 schema: default
-title: Sqa statistics 2021
+title: SQA Statistics 2021
 ---

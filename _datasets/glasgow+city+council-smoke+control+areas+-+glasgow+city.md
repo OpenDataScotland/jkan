@@ -26,5 +26,5 @@ resources:
   name: Glasgow Smoke Control Area (Council Boundary)
   url: https://data.spatialhub.scot/dataset/5e9fdedb-d35e-4923-9dc2-edc9141ac078/resource/c5e046da-6096-453f-8906-9dd3436c6423/download/glasgow-smoke-control-area.zip
 schema: default
-title: Smoke control areas - glasgow city
+title: Smoke Control Areas - Glasgow City
 ---

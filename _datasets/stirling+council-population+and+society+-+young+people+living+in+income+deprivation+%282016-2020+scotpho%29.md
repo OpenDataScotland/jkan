@@ -45,5 +45,5 @@ records: null
 resources: []
 schema: default
 title: Population and society - young people living in income deprivation (2016-2020
-  scotpho)
+  ScotPHO)
 ---

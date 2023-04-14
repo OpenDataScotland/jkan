@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/community-belonging---shs
 records: null
 resources: []
 schema: default
-title: Community belonging - scottish household survey
+title: Community belonging - Scottish Household Survey
 ---

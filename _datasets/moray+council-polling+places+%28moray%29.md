@@ -17,5 +17,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=65e731a73f384fad
 records: 60
 resources: []
 schema: default
-title: Polling places (moray)
+title: Polling Places (Moray)
 ---

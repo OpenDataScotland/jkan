@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/job-related-training
 records: null
 resources: []
 schema: default
-title: Job related training
+title: Job Related Training
 ---

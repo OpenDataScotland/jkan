@@ -17,5 +17,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/eee15509-f23a-441e-b5be-ee76bd2ba649/resource/bcfd3b49-f7f0-489e-bc1b-bcce0bd261f2/download/datadictionary.json
 schema: default
-title: Scottish covid-19 vaccination data
+title: Scottish Covid-19 Vaccination Data
 ---

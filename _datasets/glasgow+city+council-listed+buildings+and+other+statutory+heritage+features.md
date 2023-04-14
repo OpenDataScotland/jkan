@@ -28,5 +28,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::listed-buildings-and-other-statutory-heritage-features-1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Listed buildings and other statutory heritage features
+title: Listed Buildings and Other Statutory Heritage Features
 ---

@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=377c680516184856
 records: 5
 resources: []
 schema: default
-title: Ldp2 town centre boundaries
+title: LDP2 Town Centre Boundaries
 ---

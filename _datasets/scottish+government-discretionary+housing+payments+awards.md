@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/discretionary-housing-pay
 records: null
 resources: []
 schema: default
-title: Discretionary housing payments awards
+title: Discretionary Housing Payments Awards
 ---

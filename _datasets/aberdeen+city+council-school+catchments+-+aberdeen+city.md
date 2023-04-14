@@ -74,5 +74,5 @@ resources:
   name: Denominational (RC) Catchment Areas
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/ArcGIS/rest/services/RC_School_Catchments/FeatureServer/59/query?outFields=*&where=1%3D1
 schema: default
-title: School catchments - aberdeen city
+title: School Catchments - Aberdeen City
 ---

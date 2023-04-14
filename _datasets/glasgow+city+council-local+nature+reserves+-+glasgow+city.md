@@ -22,5 +22,5 @@ resources:
   name: Local Nature Reserves
   url: https://data.spatialhub.scot/dataset/2c86eef7-2c09-47d9-b073-7f28d9e26441/resource/ddd58c7c-42be-4d1f-a167-0c2d1194001a/download/localnaturereserves.zip
 schema: default
-title: Local nature reserves - glasgow city
+title: Local Nature Reserves - Glasgow City
 ---

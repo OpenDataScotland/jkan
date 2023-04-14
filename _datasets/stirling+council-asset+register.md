@@ -26,5 +26,5 @@ resources:
   name: Land & Property - February 2019
   url: https://data.stirling.gov.uk/dataset/5eb94d01-0635-4a89-8504-9ec04f600cb8/resource/81650170-e849-4d5c-94f8-d67b8adccd53/download/20190313-land-and-property-asset-register-12.02.2019.csv
 schema: default
-title: Asset register
+title: Asset Register
 ---

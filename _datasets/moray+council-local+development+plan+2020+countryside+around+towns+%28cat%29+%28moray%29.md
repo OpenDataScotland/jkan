@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=9739369e0233450b
 records: 5
 resources: []
 schema: default
-title: Local development plan 2020 countryside around towns (cat) (moray)
+title: Local Development Plan 2020 Countryside Around Towns (CAT) (Moray)
 ---

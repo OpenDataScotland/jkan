@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-estimates-youn
 records: null
 resources: []
 schema: default
-title: 'Population estimates: young and old '
+title: 'Population Estimates: Young and Old '
 ---

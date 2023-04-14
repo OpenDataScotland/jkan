@@ -36,5 +36,5 @@ resources:
   name: Conservation Areas
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Conservation areas - south ayrshire
+title: Conservation Areas - South Ayrshire
 ---

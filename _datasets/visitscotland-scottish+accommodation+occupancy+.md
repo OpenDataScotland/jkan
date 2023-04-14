@@ -16,5 +16,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-accommodation-oc
 records: null
 resources: []
 schema: default
-title: 'Scottish accommodation occupancy '
+title: 'Scottish Accommodation Occupancy '
 ---

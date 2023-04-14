@@ -55,5 +55,5 @@ resources:
   name: Cases in registered school pupils
   url: https://www.opendata.nhs.scot/dataset/6158eec0-90b6-43db-8903-901ad2fb1a02/resource/b4b602e6-8142-4055-8894-54a23c655f0b/download/schools_data_0_1_2.csv
 schema: default
-title: Covid-19 education surveillance
+title: COVID-19 Education Surveillance
 ---

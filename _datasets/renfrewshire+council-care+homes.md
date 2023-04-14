@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=0310460f85374ba3
 records: 33
 resources: []
 schema: default
-title: Care homes
+title: Care Homes
 ---

@@ -18,5 +18,5 @@ resources:
   name: CyclingFriendly_Communities_Awards_2019_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7453274b-382f-4aee-a852-ecb911395aea
 schema: default
-title: Cycling friendly - communities award - cycling scotland
+title: Cycling Friendly - Communities Award - Cycling Scotland
 ---

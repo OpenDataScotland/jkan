@@ -24,5 +24,5 @@ resources:
   name: Dundee City Council Public Notices
   url: https://www.tellmescotland.gov.uk/notices/dundee-city/all/
 schema: default
-title: Public notices
+title: Public Notices
 ---

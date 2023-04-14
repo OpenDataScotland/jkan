@@ -12,6 +12,6 @@ original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-
 records: null
 resources: []
 schema: default
-title: 'Social security scotland: clients responding to equality forms to december
+title: 'Social Security Scotland: clients responding to equality forms to December
   2019'
 ---

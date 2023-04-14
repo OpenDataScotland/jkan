@@ -23,6 +23,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/47d3e7ab-dd89-479d-9bcf-bfad1ee65ef5/1/urql
 schema: default
-title: Cycling uk - bike mechanics in scotland participating in the scotland cycle
-  repair scheme 2020/21
+title: Cycling UK - Bike mechanics in Scotland participating in the Scotland Cycle
+  Repair Scheme 2020/21
 ---

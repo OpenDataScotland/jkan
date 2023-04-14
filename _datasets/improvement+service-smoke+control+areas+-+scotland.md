@@ -25,5 +25,5 @@ resources:
   name: 'Smoke Control Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_sca/wfs?service=wfs&typeName=sh_sca:pub_sca
 schema: default
-title: Smoke control areas - scotland
+title: Smoke Control Areas - Scotland
 ---

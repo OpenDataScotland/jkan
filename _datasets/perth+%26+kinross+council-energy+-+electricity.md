@@ -18,5 +18,5 @@ resources:
   name: EnergyElectricityPKC
   url: https://data.pkc.gov.uk/dataset/3d8d3d43-35fc-4da1-b52b-0daf6c9c6f72/resource/ed1fd7df-69c5-41a3-b52f-ca111a308d34/download/energyelectricity.csv
 schema: default
-title: Energy - electricity
+title: Energy - Electricity
 ---

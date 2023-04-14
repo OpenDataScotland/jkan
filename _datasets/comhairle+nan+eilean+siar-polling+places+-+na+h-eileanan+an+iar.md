@@ -52,5 +52,5 @@ resources:
   name: 2022 Polling Places
   url: https://data.spatialhub.scot/dataset/e6320f21-681c-40a3-8fb1-074339710da2/resource/fffcb9ff-503c-4780-8708-f0867262d01d/download/na-h-eileanan-siar-polling-places-may-2022.zip
 schema: default
-title: Polling places - na h-eileanan an iar
+title: Polling Places - Na h-Eileanan an Iar
 ---

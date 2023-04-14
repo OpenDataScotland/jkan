@@ -23,5 +23,5 @@ resources:
   name: Various parking related layers
   url: https://data.angus.gov.uk/geoserver/services/ows?Service=WFS
 schema: default
-title: Car parking - angus
+title: Car Parking - Angus
 ---

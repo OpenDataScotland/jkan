@@ -132,5 +132,5 @@ resources:
   name: Pre-release Access List
   url: https://www.sqa.org.uk/sqa/files_ccc/attainment-statistics-(august)-2020-pre-releaselist-centre-type.pdf
 schema: default
-title: Sqa statistics 2020
+title: SQA Statistics 2020
 ---

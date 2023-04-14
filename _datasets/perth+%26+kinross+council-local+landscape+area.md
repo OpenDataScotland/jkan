@@ -37,5 +37,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/ad8faa0552d34922bbfead81b2e6439a_28.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Local landscape area
+title: Local Landscape Area
 ---

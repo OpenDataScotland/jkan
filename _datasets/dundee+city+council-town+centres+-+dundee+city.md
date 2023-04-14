@@ -18,5 +18,5 @@ resources:
   name: Town Centres
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
 schema: default
-title: Town centres - dundee city
+title: Town Centres - Dundee City
 ---

@@ -14,5 +14,5 @@ resources:
   name: URL
   url: http://www.visionofbritain.org.uk/data/#tabgb1900
 schema: default
-title: Gb1900 gazetteer
+title: GB1900 gazetteer
 ---

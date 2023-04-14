@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-in-flood-risk-a
 records: null
 resources: []
 schema: default
-title: Dwellings in flood risk areas
+title: Dwellings In Flood Risk Areas
 ---

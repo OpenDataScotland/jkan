@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e4828a4acfb846b9
 records: 5
 resources: []
 schema: default
-title: Alcohol prohibition areas (moray)
+title: Alcohol Prohibition Areas (Moray)
 ---

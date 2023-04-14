@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/delayed-discharges-monthl
 records: null
 resources: []
 schema: default
-title: 'Delayed discharges - monthly census '
+title: 'Delayed Discharges - Monthly Census '
 ---

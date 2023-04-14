@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish index of multiple deprivation 2020
+title: Scottish Index of Multiple Deprivation 2020
 ---

@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ae1505477b404eee
 records: 20783
 resources: []
 schema: default
-title: Open data - woodland and forestry strategy
+title: Open Data - Woodland and Forestry Strategy
 ---

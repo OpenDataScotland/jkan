@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1a29736b06fd4233
 records: 12
 resources: []
 schema: default
-title: Sustainable tourism
+title: Sustainable Tourism
 ---

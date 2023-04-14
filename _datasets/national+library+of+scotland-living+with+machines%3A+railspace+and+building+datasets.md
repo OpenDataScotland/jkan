@@ -14,5 +14,5 @@ resources:
   name: '7147906'
   url: https://doi.org/10.5281/zenodo.7147906
 schema: default
-title: 'Living with machines: railspace and building datasets'
+title: 'Living with Machines: railspace and building datasets'
 ---

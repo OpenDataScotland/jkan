@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/10ffac16-d0c2-4d53-ab6a-69a38e283223/resource/10ffac16-d0c2-4d53-ab6a-69a38e283223/download/datadictionary.json
 schema: default
-title: Nhs tayside and fife biochemistry
+title: NHS Tayside and Fife Biochemistry
 ---

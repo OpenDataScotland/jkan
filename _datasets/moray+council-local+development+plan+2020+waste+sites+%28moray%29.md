@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=60a64be6443046ce
 records: 4
 resources: []
 schema: default
-title: Local development plan 2020 waste sites (moray)
+title: Local Development Plan 2020 Waste Sites (Moray)
 ---

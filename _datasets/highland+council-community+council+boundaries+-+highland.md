@@ -38,5 +38,5 @@ resources:
   name: Community Council boundaries
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Community council boundaries - highland
+title: Community Council Boundaries - Highland
 ---

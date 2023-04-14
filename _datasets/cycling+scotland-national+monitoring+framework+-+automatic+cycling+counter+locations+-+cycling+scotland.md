@@ -23,6 +23,6 @@ resources:
   name: NMF- ACC locations - Cycling Scotland_Cycling Scotland_NMF_ACC_Locations_2022v2.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=cc598ecf-22dd-4b45-a719-743c5c1d0e64
 schema: default
-title: National monitoring framework - automatic cycling counter locations - cycling
-  scotland
+title: National Monitoring Framework - Automatic cycling counter locations - Cycling
+  Scotland
 ---

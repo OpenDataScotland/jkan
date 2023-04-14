@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/number-of-care-homes
 records: null
 resources: []
 schema: default
-title: 'Care homes: number of homes'
+title: 'Care Homes: Number of Homes'
 ---

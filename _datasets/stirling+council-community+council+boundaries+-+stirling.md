@@ -29,5 +29,5 @@ resources:
   name: Community Council boundaries
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Community_Councils_Stirling/FeatureServer/2/query?outFields=*&where=1%3D1
 schema: default
-title: Community council boundaries - stirling
+title: Community Council Boundaries - Stirling
 ---

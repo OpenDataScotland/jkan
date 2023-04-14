@@ -36,5 +36,5 @@ resources:
   name: OGC Web Feature Service
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=wfs&request=getCapabilities
 schema: default
-title: Neighbourhood representative structures
+title: Neighbourhood Representative Structures
 ---

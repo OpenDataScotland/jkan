@@ -48,5 +48,5 @@ resources:
   name: Journey Times, January 2022 to December 2022
   url: https://data.stirling.gov.uk/dataset/6ce872f4-2f71-4676-a032-9547f94782d7/resource/8feb7b39-9426-4167-b4b2-7487b83f99d1/download/20220824-stirling-council-journey-times-jan-2022-to-dec-2022.csv
 schema: default
-title: Journey times
+title: Journey Times
 ---

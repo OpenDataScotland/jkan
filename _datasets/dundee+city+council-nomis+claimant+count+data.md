@@ -50,5 +50,5 @@ resources:
   name: Nomis Claimant Count January 2018 - February 2023
   url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/50fb1e8b-f035-443c-aa86-d1838e3d89db/download/nomis_claimant_count_jan18_feb23.csv
 schema: default
-title: Nomis claimant count data
+title: Nomis Claimant Count Data
 ---

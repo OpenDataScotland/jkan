@@ -14,5 +14,5 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/tell-me-scotland
 records: null
 resources: []
 schema: default
-title: Tell me scotland
+title: Tell Me Scotland
 ---

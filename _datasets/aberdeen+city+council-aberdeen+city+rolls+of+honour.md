@@ -76,5 +76,5 @@ resources:
   name: Local and Family History
   url: https://www.aberdeencity.gov.uk/services/libraries-and-archives/local-and-family-history
 schema: default
-title: Aberdeen city rolls of honour
+title: Aberdeen City Rolls of Honour
 ---

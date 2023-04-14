@@ -42,5 +42,5 @@ resources:
   name: Green Belt
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp2_green_belt/FeatureServer/5/query?outFields=*&where=1%3D1
 schema: default
-title: Green belt - stirling
+title: Green Belt - Stirling
 ---

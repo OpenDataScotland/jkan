@@ -22,5 +22,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=3af52ce7fed049c7
 records: 806
 resources: []
 schema: default
-title: Planning wind turbine locations (moray)
+title: Planning Wind Turbine Locations (Moray)
 ---

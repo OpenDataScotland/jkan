@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=cbe302f1424f4cfe
 records: null
 resources: []
 schema: default
-title: Castlesemple
+title: CastleSemple
 ---

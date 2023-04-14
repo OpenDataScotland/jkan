@@ -29,5 +29,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-armyLists.zip
 schema: default
-title: British army lists
+title: British Army Lists
 ---

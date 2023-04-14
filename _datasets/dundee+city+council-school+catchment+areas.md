@@ -27,5 +27,5 @@ resources:
   name: ArcGIS Online feature service, API and downloads
   url: https://opendata-dundeecity.hub.arcgis.com/maps/aea4bac6704b4735ac8309294479404e/about
 schema: default
-title: School catchment areas
+title: School Catchment Areas
 ---

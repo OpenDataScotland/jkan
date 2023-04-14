@@ -33,5 +33,5 @@ resources:
   name: Libraries
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Libraries/FeatureServer
 schema: default
-title: Libraries - aberdeen city
+title: Libraries - Aberdeen City
 ---

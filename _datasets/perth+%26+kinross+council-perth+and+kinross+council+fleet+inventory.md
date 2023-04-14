@@ -15,5 +15,5 @@ resources:
   name: Fleet and Mechanical Equipment Inventory
   url: https://data.pkc.gov.uk/dataset/6eea3afa-d54c-48ba-993d-b4a6a988c549/resource/0931bcf2-4ef0-42ec-94d0-52f95e8eec54/download/fleetinventoryopendata.csv
 schema: default
-title: Perth and kinross council fleet inventory
+title: Perth and Kinross Council Fleet Inventory
 ---

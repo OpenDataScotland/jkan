@@ -30,5 +30,5 @@ resources:
   name: Libraries
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/libraries%20-%20libraries%20(updated%202023)/FeatureServer
 schema: default
-title: Libraries - stirling
+title: Libraries - Stirling
 ---

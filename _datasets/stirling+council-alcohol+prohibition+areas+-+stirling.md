@@ -24,5 +24,5 @@ resources:
   name: Alcohol Prohibition Areas (2020)
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/regulation_and_environmental_health_alcohol_prohibition_areas_2020/FeatureServer/9/query?outFields=*&where=1%3D1
 schema: default
-title: Alcohol prohibition areas - stirling
+title: Alcohol Prohibition Areas - Stirling
 ---

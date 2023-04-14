@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/drug-related-discharge
 records: null
 resources: []
 schema: default
-title: Drug related hospital discharge
+title: Drug Related Hospital Discharge
 ---

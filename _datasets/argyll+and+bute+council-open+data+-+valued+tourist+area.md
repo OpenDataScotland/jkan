@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1c12d89cd7414cc9
 records: 14
 resources: []
 schema: default
-title: Open data - valued tourist area
+title: Open Data - Valued Tourist Area
 ---

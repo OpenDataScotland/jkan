@@ -29,5 +29,5 @@ resources:
   name: Community Councils
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Community council boundaries - south ayrshire
+title: Community Council Boundaries - South Ayrshire
 ---

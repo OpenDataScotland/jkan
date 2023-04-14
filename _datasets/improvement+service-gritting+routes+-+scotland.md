@@ -27,5 +27,5 @@ resources:
   name: 'Gritting Routes: Paths '
   url: https://geo.spatialhub.scot/geoserver/sh_grtrt/wfs?service=wfs&typeName=sh_grtrt:pub_grtrtpth
 schema: default
-title: Gritting routes - scotland
+title: Gritting Routes - Scotland
 ---

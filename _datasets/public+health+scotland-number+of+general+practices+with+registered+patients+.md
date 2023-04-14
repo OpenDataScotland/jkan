@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/number-of-general-practic
 records: null
 resources: []
 schema: default
-title: 'Number of general practices with registered patients '
+title: 'Number of General Practices with Registered Patients '
 ---

@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/ef3fbf5f-a87c-4f63-8d87-4a5f18fb4301/resource/731dc868-3e79-4722-9b79-6bb8dec9435b/download/datadictionary.json
 schema: default
-title: Gp out of hours
+title: GP Out of Hours
 ---

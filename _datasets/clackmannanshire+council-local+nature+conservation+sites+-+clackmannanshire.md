@@ -25,5 +25,5 @@ resources:
   name: Clackmannanshire LNCS 2021 (October)
   url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/32dd0cff-f4b7-45e5-99be-f46666dbcce2/download/clacks_lncs.gpkg
 schema: default
-title: Local nature conservation sites - clackmannanshire
+title: Local Nature Conservation Sites - Clackmannanshire
 ---

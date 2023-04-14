@@ -24,5 +24,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=0611e771fd014c80
 records: 9611
 resources: []
 schema: default
-title: Woodland grant scheme 2 1991-1994
+title: Woodland Grant Scheme 2 1991-1994
 ---

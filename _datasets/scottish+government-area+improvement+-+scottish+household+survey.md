@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/area-improvement---shs
 records: null
 resources: []
 schema: default
-title: Area improvement - scottish household survey
+title: Area improvement - Scottish Household Survey
 ---

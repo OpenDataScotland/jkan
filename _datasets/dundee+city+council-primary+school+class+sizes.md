@@ -40,5 +40,5 @@ resources:
   name: Primary School Class Sizes - September 2021 Dundee City
   url: https://data.dundeecity.gov.uk/dataset/8404637f-dca8-40a9-a496-40a8af9720a5/resource/672d7151-0442-43b5-be5a-59906bd24a3d/download/scot_govt_primary_class_2021.csv
 schema: default
-title: Primary school class sizes
+title: Primary School Class Sizes
 ---

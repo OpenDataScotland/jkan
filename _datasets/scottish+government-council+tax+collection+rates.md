@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/council-tax-collection-ra
 records: null
 resources: []
 schema: default
-title: Council tax collection rates
+title: Council Tax Collection Rates
 ---

@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-council-tax
 records: null
 resources: []
 schema: default
-title: Dwellings by council tax band
+title: Dwellings by Council Tax Band
 ---

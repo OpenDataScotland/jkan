@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/delayed-discharges-bed-da
 records: null
 resources: []
 schema: default
-title: Delayed discharges - monthly bed days occupied
+title: Delayed Discharges - Monthly Bed Days Occupied
 ---

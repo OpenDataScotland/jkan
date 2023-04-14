@@ -22,5 +22,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=551baee4d4784e58
 records: 374
 resources: []
 schema: default
-title: Wind energy capacity study
+title: Wind Energy Capacity Study
 ---

@@ -21,5 +21,5 @@ resources:
   name: Go Mountain Bike - Centre Locations - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=efa338b1-2fe2-4f65-a08c-21400237de94
 schema: default
-title: Go mountain bike - centre locations - cycling scotland
+title: Go Mountain Bike - Centre Locations - Cycling Scotland
 ---

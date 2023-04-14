@@ -36,5 +36,5 @@ resources:
   name: Dundee Core Paths
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 schema: default
-title: Paths and core paths - dundee city
+title: Paths And Core Paths - Dundee City
 ---

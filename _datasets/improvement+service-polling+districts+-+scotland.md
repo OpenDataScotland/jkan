@@ -28,5 +28,5 @@ resources:
   name: 'Polling Districts '
   url: https://geo.spatialhub.scot/geoserver/sh_poldi/wfs?service=wfs&typeName=sh_poldi:pub_poldi
 schema: default
-title: Polling districts - scotland
+title: Polling Districts - Scotland
 ---

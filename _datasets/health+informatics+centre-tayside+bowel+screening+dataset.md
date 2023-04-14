@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/00201dde-1faf-41d3-b282-5c24c0ca3697/resource/00201dde-1faf-41d3-b282-5c24c0ca3697/download/datadictionary.json
 schema: default
-title: Tayside bowel screening dataset
+title: Tayside Bowel Screening Dataset
 ---

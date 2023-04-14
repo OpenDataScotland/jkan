@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/tourism-day-visits---demo
 records: null
 resources: []
 schema: default
-title: Tourism day visits - demographics
+title: Tourism Day Visits - Demographics
 ---

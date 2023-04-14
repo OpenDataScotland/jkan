@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/funeral-support-payment-a
 records: null
 resources: []
 schema: default
-title: 'Funeral support payment: applications and payments'
+title: 'Funeral Support Payment: Applications and Payments'
 ---

@@ -29,5 +29,5 @@ resources:
   name: Stroke Mortality By Council Area
   url: https://www.opendata.nhs.scot/dataset/f5dcf382-e6ca-49f6-b807-4f9cc29555bc/resource/285b4cbd-1e87-49fe-9e24-73d2da8166ae/download/stroke_mortalitybyca.csv
 schema: default
-title: Scottish stroke statistics
+title: Scottish Stroke Statistics
 ---

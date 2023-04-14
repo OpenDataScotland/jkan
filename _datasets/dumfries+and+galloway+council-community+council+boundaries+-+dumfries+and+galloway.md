@@ -29,5 +29,5 @@ resources:
   name: DG Community Councils
   url: https://data.spatialhub.scot/dataset/6e7f0bfa-8c5d-4c0a-86e0-33122d74ea01/resource/2c56dc1d-f0f4-41bb-a1f5-310dc6df435a/download/dg_community_councils12843921_polygon.zip
 schema: default
-title: Community council boundaries - dumfries and galloway
+title: Community Council Boundaries - Dumfries and Galloway
 ---

@@ -21,5 +21,5 @@ resources:
   name: Network of centres
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Town centres - glasgow city
+title: Town Centres - Glasgow City
 ---

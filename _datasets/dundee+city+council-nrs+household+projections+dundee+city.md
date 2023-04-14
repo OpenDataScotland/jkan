@@ -35,5 +35,5 @@ resources:
   name: Projections by household composition 2018-2043
   url: https://data.dundeecity.gov.uk/dataset/37ad8327-3140-46ce-a7d1-57ab2e651642/resource/0a836d5d-c5c9-483e-87d2-93cfc51171c1/download/dundee_household_projections_composition.csv
 schema: default
-title: Nrs household projections dundee city
+title: NRS Household Projections Dundee City
 ---

@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/healthy-life-expectancy
 records: null
 resources: []
 schema: default
-title: Healthy life expectancy
+title: Healthy Life Expectancy
 ---

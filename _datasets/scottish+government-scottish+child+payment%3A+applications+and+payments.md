@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-child-payment-ap
 records: null
 resources: []
 schema: default
-title: 'Scottish child payment: applications and payments'
+title: 'Scottish Child Payment: Applications and Payments'
 ---

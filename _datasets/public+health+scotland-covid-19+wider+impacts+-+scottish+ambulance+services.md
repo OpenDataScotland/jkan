@@ -53,5 +53,5 @@ resources:
   name: SAS Incidents By HSCP and Deprivation
   url: https://www.opendata.nhs.scot/dataset/43e244a6-35cb-4841-a622-34b6436ba743/resource/1329dfdb-0dd7-428b-9afb-b8fb3e438518/download/sas_hscp_simd_20230405.csv
 schema: default
-title: Covid-19 wider impacts - scottish ambulance services
+title: COVID-19 Wider Impacts - Scottish Ambulance Services
 ---

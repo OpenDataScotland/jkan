@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/community-payback-orders-
 records: null
 resources: []
 schema: default
-title: 'Community payback orders: commenced'
+title: 'Community Payback Orders: Commenced'
 ---

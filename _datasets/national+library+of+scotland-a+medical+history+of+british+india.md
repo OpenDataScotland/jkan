@@ -21,5 +21,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-indiaPapers.zip
 schema: default
-title: A medical history of british india
+title: A Medical History of British India
 ---

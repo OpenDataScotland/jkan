@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-welfare-fund-app
 records: null
 resources: []
 schema: default
-title: Scottish welfare fund applications
+title: Scottish Welfare Fund Applications
 ---

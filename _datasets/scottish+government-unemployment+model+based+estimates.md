@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/unemployment-model-based-
 records: null
 resources: []
 schema: default
-title: Unemployment model based estimates
+title: Unemployment Model Based Estimates
 ---

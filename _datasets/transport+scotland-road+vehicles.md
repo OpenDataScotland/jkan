@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/road-vehicles
 records: null
 resources: []
 schema: default
-title: Road vehicles
+title: Road Vehicles
 ---

@@ -29,5 +29,5 @@ resources:
   name: School Contact Details
   url: https://data.stirling.gov.uk/dataset/17334cfa-aced-4c10-9a38-9fe47597c7dc/resource/a6eb04db-8451-45f4-9e04-2242e6866f66/download/20221119-stirling-council-primary-secondary-school-contacts.pdf
 schema: default
-title: School location, contact & type details
+title: School Location, Contact & Type Details
 ---

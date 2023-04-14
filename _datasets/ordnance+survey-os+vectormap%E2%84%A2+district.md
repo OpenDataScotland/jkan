@@ -30,5 +30,5 @@ resources:
   name: Atom feed
   url: http://www.ordnancesurvey.co.uk/oswebsite/xml/atom/VMD.xml
 schema: default
-title: "Os vectormap\u2122 district"
+title: "OS VectorMap\u2122 District"
 ---

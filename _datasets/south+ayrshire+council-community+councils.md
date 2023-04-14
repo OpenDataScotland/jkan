@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2210e29ba21043ac
 records: 30
 resources: []
 schema: default
-title: Community councils
+title: Community Councils
 ---

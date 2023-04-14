@@ -22,5 +22,5 @@ resources:
   name: Local Nature Reserve
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?service=WFS&request=GetFeature&typeName=fife:LOCAL_NATURE_RESERVE
 schema: default
-title: Local nature reserves - fife
+title: Local Nature Reserves - Fife
 ---

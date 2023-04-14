@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites
 records: null
 resources: []
 schema: default
-title: Business stocks and sites by region of ownership
+title: Business Stocks and Sites by Region of Ownership
 ---

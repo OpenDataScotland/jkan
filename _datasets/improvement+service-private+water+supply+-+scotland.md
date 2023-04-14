@@ -41,5 +41,5 @@ resources:
   name: 'Private Water Supply Sources '
   url: https://geo.spatialhub.scot/geoserver/sh_pws/wfs?service=wfs&typeName=sh_pws:pub_pwss
 schema: default
-title: Private water supply - scotland
+title: Private Water Supply - Scotland
 ---

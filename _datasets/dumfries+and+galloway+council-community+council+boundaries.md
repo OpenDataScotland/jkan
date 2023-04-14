@@ -19,5 +19,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/cd71ccc9-9e96-473b-b542-063aa16acfc1/1/urql
 schema: default
-title: Community council boundaries
+title: Community Council Boundaries
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=b5e4b39bcca2452b
 records: 1
 resources: []
 schema: default
-title: Referendum on the uk's membership of the eu june 2016
+title: Referendum on the UK's membership of the EU June 2016
 ---

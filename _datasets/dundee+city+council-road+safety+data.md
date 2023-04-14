@@ -47,5 +47,5 @@ resources:
   name: Road Safety Data - Casualties 2005-2014
   url: https://data.dundeecity.gov.uk/dataset/592cec6c-3628-43f8-a804-57144668e12f/resource/25d1b68c-62d7-4c4b-ab88-2199cbb6abff/download/road-safety-data-casualties-2005-2014-.csv
 schema: default
-title: Road safety data
+title: Road Safety Data
 ---

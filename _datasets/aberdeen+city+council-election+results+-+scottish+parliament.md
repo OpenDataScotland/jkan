@@ -96,5 +96,5 @@ resources:
   name: Scottish Parliament 2016 - NE List - Results
   url: https://data.aberdeencity.gov.uk/dataset/778d3ccd-22ae-4676-afc6-4c82ffda2cc3/resource/c714713a-4514-44b7-a396-f0d773295ef8/download/scotparl2016-ne-list-results.csv
 schema: default
-title: Election results - scottish parliament
+title: Election Results - Scottish Parliament
 ---

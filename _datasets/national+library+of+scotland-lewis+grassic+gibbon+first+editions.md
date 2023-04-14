@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-gibbon.zip
 schema: default
-title: Lewis grassic gibbon first editions
+title: Lewis Grassic Gibbon First Editions
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/labour-productivity-annua
 records: null
 resources: []
 schema: default
-title: 'Labour productivity: annual'
+title: 'Labour Productivity: Annual'
 ---

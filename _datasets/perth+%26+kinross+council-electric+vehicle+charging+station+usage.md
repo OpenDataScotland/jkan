@@ -23,5 +23,5 @@ resources:
   name: September 2018-August 2019
   url: https://data.pkc.gov.uk/dataset/a3402e38-e9a5-4917-a23b-cbd18971754d/resource/845fe22f-19f4-499b-b8bc-8812a763e660/download/sept18toaug19standardisedcorrected.csv
 schema: default
-title: Electric vehicle charging station usage
+title: Electric Vehicle Charging Station Usage
 ---

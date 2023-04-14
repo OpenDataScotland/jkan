@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ca1f14248a5448f9
 records: 33
 resources: []
 schema: default
-title: Employment land audit 2018 (moray)
+title: Employment Land Audit 2018 (Moray)
 ---

@@ -41,5 +41,5 @@ resources:
   name: Polling Districts 2022
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/Stirling_Council_Polling_Districts_2022/FeatureServer
 schema: default
-title: Polling districts - stirling
+title: Polling Districts - Stirling
 ---

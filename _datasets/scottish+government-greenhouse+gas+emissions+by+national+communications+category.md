@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/greenhouse-gas-emissions-
 records: null
 resources: []
 schema: default
-title: Greenhouse gas emissions by national communications category
+title: Greenhouse Gas Emissions by National Communications Category
 ---

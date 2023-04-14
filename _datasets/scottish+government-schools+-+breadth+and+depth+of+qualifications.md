@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/breadth-and-depth
 records: null
 resources: []
 schema: default
-title: Schools - breadth and depth of qualifications
+title: Schools - Breadth and Depth of Qualifications
 ---

@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/English-Ballads.zip
 schema: default
-title: English ballads
+title: English Ballads
 ---

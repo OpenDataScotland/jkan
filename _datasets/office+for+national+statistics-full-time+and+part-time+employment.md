@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/full-time-employment
 records: null
 resources: []
 schema: default
-title: Full-time and part-time employment
+title: Full-Time and Part-Time Employment
 ---

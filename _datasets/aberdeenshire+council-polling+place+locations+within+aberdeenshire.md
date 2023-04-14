@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_polling_places.kmz
 schema: default
-title: Polling place locations within aberdeenshire
+title: Polling place locations within Aberdeenshire
 ---

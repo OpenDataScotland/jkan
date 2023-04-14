@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a4f0ac4f0fed458c
 records: null
 resources: []
 schema: default
-title: Heritage buildings and monuments
+title: Heritage Buildings and Monuments
 ---

@@ -19,5 +19,5 @@ resources:
   name: Local Nature Conservation Sites
   url: https://data.spatialhub.scot/dataset/940e31ce-b349-42c8-bc60-8772aadee648/resource/7bd82304-813c-4467-aa6e-521b9f83a598/download/local-nature-conservation-sites.zip
 schema: default
-title: Local nature conservation sites - east lothian
+title: Local Nature Conservation Sites - East Lothian
 ---

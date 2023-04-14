@@ -22,5 +22,5 @@ resources:
   name: 'Care Homes For Older People '
   url: https://geo.spatialhub.scot/geoserver/sh_chep/wfs?service=wfs&typeName=sh_chep:pub_chep
 schema: default
-title: Care homes for older people - scotland
+title: Care Homes for Older People - Scotland
 ---

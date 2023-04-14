@@ -47,5 +47,5 @@ resources:
   name: Polling districts
   url: https://data.spatialhub.scot/dataset/69afce95-bd22-4935-819c-28ba874044fb/resource/b12bcffe-b193-46f6-8722-dd21cc68d6e0/download/polling_districts.zip
 schema: default
-title: Polling districts - glasgow city
+title: Polling Districts - Glasgow City
 ---

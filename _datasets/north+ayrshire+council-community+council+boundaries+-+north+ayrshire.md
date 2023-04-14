@@ -29,5 +29,5 @@ resources:
   name: Spatial Hub WFS - Community Councils
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
-title: Community council boundaries - north ayrshire
+title: Community Council Boundaries - North Ayrshire
 ---

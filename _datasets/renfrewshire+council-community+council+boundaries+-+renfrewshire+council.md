@@ -32,5 +32,5 @@ resources:
   name: Community Council boundaries
   url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/rest/services/Community_Councils_Update/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Community council boundaries - renfrewshire council
+title: Community Council Boundaries - Renfrewshire Council
 ---

@@ -20,5 +20,5 @@ resources:
   name: Public Litter Bin Locations
   url: https://data.dundeecity.gov.uk/dataset/12f17406-5c0b-458e-8734-e8c9dbe540be/resource/7033338f-370f-4a9d-b7ad-360b4289377d/download/public-litter-bin-locations-all-bins.csv
 schema: default
-title: Public litter bins
+title: Public Litter Bins
 ---

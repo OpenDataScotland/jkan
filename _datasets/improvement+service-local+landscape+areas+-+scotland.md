@@ -27,5 +27,5 @@ resources:
   name: 'Local Landscape Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_llandd/wfs?service=wfs&typeName=sh_llandd:pub_llandd
 schema: default
-title: Local landscape areas - scotland
+title: Local Landscape Areas - Scotland
 ---

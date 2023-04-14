@@ -21,5 +21,5 @@ resources:
   name: Fire Hydrants
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS?
 schema: default
-title: Safety features - north ayrshire
+title: Safety Features - North Ayrshire
 ---

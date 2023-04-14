@@ -22,5 +22,5 @@ resources:
   name: GeoJSON for Polling Districts
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:law_pollingdistricts&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council polling districts
+title: Angus Council Polling Districts
 ---

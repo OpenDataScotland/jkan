@@ -25,5 +25,5 @@ resources:
   name: 'Local Nature Conservation Sites '
   url: https://geo.spatialhub.scot/geoserver/sh_lnatcs/wfs?service=wfs&typeName=sh_lnatcs:pub_lnatcs
 schema: default
-title: Local nature conservation sites - scotland
+title: Local Nature Conservation Sites - Scotland
 ---

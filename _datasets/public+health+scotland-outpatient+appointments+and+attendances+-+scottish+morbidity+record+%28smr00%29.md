@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/dada485d-2dbd-4e17-ade6-94512210e909/resource/04cb9964-54fb-4529-b09b-735c3daa1c7b/download/datadictionary.json
 schema: default
-title: Outpatient appointments and attendances - scottish morbidity record (smr00)
+title: Outpatient Appointments and Attendances - Scottish Morbidity Record (SMR00)
 ---

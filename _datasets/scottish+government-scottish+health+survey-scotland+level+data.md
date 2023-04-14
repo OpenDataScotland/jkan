@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-health-survey-sc
 records: null
 resources: []
 schema: default
-title: Scottish health survey-scotland level data
+title: Scottish Health Survey-Scotland level data
 ---

@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=d05f7337b41e48b4
 records: 158
 resources: []
 schema: default
-title: Open data - local nature conservation site
+title: Open Data - Local Nature Conservation Site
 ---

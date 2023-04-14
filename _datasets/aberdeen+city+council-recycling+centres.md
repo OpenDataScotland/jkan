@@ -35,5 +35,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/5dbd92e1aba9467b8de058d0347a5b04_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Recycling centres
+title: Recycling Centres
 ---

@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-moving-image-archive.zip
 schema: default
-title: Moving image archive
+title: Moving Image Archive
 ---

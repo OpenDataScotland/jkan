@@ -47,5 +47,5 @@ resources:
   name: Community Councils
   url: https://data.spatialhub.scot/dataset/fd4c1b90-1623-4512-a7cf-790d8a882e79/resource/a99df7ac-4634-4f70-a471-b008e5891c7a/download/communitycouncils_shire.zip
 schema: default
-title: Community council boundaries - aberdeenshire
+title: Community Council Boundaries - Aberdeenshire
 ---

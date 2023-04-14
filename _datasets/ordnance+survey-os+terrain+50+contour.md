@@ -19,5 +19,5 @@ resources:
   name: Download link
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#TERR50
 schema: default
-title: Os terrain 50 contour
+title: OS Terrain 50 Contour
 ---

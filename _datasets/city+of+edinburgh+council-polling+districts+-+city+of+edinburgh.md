@@ -41,5 +41,5 @@ resources:
   name: Polling_districts_boundaries
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Polling districts - city of edinburgh
+title: Polling Districts - City of Edinburgh
 ---

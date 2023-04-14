@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=7db5160f51bb4215
 records: 169
 resources: []
 schema: default
-title: Local development plan 2020 transportation improvements (tsp) (moray)
+title: Local Development Plan 2020 Transportation Improvements (TSP) (Moray)
 ---

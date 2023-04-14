@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f37ce11c-745a-4fae-8b3c-47eaa2905900/1/urql
 schema: default
-title: Perth and kinross council - hourly cycling counts from automatic cycling counters
+title: Perth and Kinross Council - Hourly cycling counts from automatic cycling counters
 ---

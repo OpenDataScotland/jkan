@@ -71,5 +71,5 @@ resources:
   name: '2021- All Persons Single Year of Age Small Area Mid Year Population Estimates '
   url: https://data.dundeecity.gov.uk/dataset/9a478c65-cbf1-4e1e-a50a-b0222c0fd776/resource/5a81cbc9-7c22-43fa-a91e-762fe52312cf/download/allpersons_2021_dz_estimates_dundeecity.csv
 schema: default
-title: Nrs small area population estimates (2011 based data zones)
+title: NRS Small Area Population Estimates (2011 Based Data Zones)
 ---

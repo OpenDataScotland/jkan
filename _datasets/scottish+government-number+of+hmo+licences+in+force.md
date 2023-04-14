@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/hmo-licences
 records: null
 resources: []
 schema: default
-title: Number of hmo licences in force
+title: Number of HMO Licences in Force
 ---

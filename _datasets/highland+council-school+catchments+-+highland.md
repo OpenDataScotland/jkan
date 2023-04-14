@@ -83,5 +83,5 @@ resources:
   name: Secondary school catchments
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/SecondarySchoolCatchments/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: School catchments - highland
+title: School Catchments - Highland
 ---

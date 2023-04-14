@@ -66,5 +66,5 @@ resources:
   name: Dental Practices September 2018
   url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/faae473f-3748-4f99-8ec9-0d827749f60b/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-september-2018-v2.csv
 schema: default
-title: Dental practices and patient registrations
+title: Dental Practices and Patient Registrations
 ---

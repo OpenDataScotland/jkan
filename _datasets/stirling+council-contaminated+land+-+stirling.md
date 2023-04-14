@@ -48,5 +48,5 @@ resources:
   name: Contaminated Land
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Environmental_Contaminated_Land/FeatureServer/1/query?outFields=*&where=1%3D1
 schema: default
-title: Contaminated land - stirling
+title: Contaminated Land - Stirling
 ---

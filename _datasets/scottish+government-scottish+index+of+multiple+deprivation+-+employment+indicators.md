@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish index of multiple deprivation - employment indicators
+title: Scottish Index of Multiple Deprivation - Employment Indicators
 ---

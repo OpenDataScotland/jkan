@@ -40,5 +40,5 @@ resources:
   name: Polling places
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Districts_and_Polling_Stations/WFSServer?service=wfs&request=getcapabilities
 schema: default
-title: Polling places - dundee city
+title: Polling Places - Dundee City
 ---

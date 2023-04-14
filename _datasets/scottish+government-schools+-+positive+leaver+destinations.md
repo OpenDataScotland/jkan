@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/positive-destinations
 records: null
 resources: []
 schema: default
-title: Schools - positive leaver destinations
+title: Schools - Positive Leaver Destinations
 ---

@@ -16,5 +16,5 @@ original_dataset_link: http://statistics.gov.scot/data/land-and-buildings-transa
 records: null
 resources: []
 schema: default
-title: Land and buildings transaction tax notifiable transactions
+title: Land and Buildings Transaction Tax Notifiable Transactions
 ---

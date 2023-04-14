@@ -20,5 +20,5 @@ resources:
   name: Link to Procurement Page on Dundee City Council Website
   url: https://www.dundeecity.gov.uk/service-area/corporate-services/corporate-finance/procurement
 schema: default
-title: Contract register
+title: Contract Register
 ---

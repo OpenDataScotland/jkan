@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish index of multiple deprivation - broadband access indicator
+title: Scottish Index of Multiple Deprivation - Broadband Access Indicator
 ---

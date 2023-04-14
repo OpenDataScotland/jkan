@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/alcohol-related-discharge
 records: null
 resources: []
 schema: default
-title: Alcohol related hospital discharges
+title: Alcohol Related Hospital Discharges
 ---

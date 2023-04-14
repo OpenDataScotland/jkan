@@ -46,5 +46,5 @@ resources:
   name: 'Review by Looked after Children '
   url: https://www.opendata.nhs.scot/dataset/7c5b29b9-7230-43e7-8b90-b5302c687620/resource/fbbccd2d-15ec-4b3a-a960-0704b5f3995c/download/open13msclac.csv
 schema: default
-title: Early child development - 13-15 month review statistics
+title: Early Child Development - 13-15 month review statistics
 ---

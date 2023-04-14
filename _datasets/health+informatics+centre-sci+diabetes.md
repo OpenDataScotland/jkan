@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/e179bd5b-0153-46d4-9e1b-4febd3f1153f/resource/e179bd5b-0153-46d4-9e1b-4febd3f1153f/download/datadictionary.json
 schema: default
-title: Sci diabetes
+title: SCI Diabetes
 ---

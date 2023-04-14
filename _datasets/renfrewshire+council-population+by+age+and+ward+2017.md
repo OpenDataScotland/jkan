@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8e6a60c35291492c
 records: 12
 resources: []
 schema: default
-title: Population by age and ward 2017
+title: Population by Age and Ward 2017
 ---

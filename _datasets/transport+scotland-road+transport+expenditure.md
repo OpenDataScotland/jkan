@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/road-transport-expenditur
 records: null
 resources: []
 schema: default
-title: Road transport expenditure
+title: Road Transport Expenditure
 ---

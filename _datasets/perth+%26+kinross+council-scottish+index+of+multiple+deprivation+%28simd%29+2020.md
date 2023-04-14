@@ -24,5 +24,5 @@ resources:
   name: SIMD2020 for Perth and Kinross
   url: https://data.pkc.gov.uk/dataset/7901441c-1759-40e0-b067-d66f76daaad2/resource/cb9f7eb8-b4e0-4f2e-8db0-171697fbbcc3/download/simd_2020v2_perthandkinrossextractdeciles.csv
 schema: default
-title: Scottish index of multiple deprivation (simd) 2020
+title: Scottish Index of Multiple Deprivation (SIMD) 2020
 ---

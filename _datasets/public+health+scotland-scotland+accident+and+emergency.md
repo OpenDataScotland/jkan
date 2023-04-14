@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/142f3390-95eb-49be-bc8c-1a752a7d308e/resource/05e6752e-3a0b-4809-aa14-207b4761ef60/download/datadictionary.json
 schema: default
-title: Scotland accident and emergency
+title: Scotland Accident and Emergency
 ---

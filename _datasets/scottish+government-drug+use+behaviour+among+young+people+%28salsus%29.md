@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/drug-use-behaviour-among-
 records: null
 resources: []
 schema: default
-title: Drug use behaviour among young people (salsus)
+title: Drug use behaviour among young people (SALSUS)
 ---

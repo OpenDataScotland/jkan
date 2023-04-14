@@ -46,5 +46,5 @@ resources:
   name: Open Cases
   url: https://www.opendata.nhs.scot/dataset/f9bab568-501e-49d3-a0a4-0b9a7578b0de/resource/ad3d9814-d47d-4e99-a8ab-dc5f01bf7bb3/download/camhs-opencases.csv
 schema: default
-title: Child and adolescent mental health waiting times
+title: Child and Adolescent Mental Health Waiting Times
 ---

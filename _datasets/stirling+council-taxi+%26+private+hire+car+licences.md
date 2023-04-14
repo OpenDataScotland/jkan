@@ -21,5 +21,5 @@ resources:
   name: Taxi & Private Hire Car Licences
   url: https://data.stirling.gov.uk/dataset/507c945f-2d44-401a-bd42-af5a58359514/resource/96feb11c-54b7-4db3-afe3-a8681324f1b0/download/20230309-stirling-council-taxi-private-hire-car-licences-as-at-06.03.2023.csv
 schema: default
-title: Taxi & private hire car licences
+title: Taxi & Private Hire Car Licences
 ---

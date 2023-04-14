@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/3cc60b9a-8654-417d-bc1a-b72a7462a980/resource/dec04153-f595-41ce-9d7e-5ef0c3fe8289/download/datadictionary.json
 schema: default
-title: Child health systems programme - first visit
+title: Child Health Systems Programme - First Visit
 ---

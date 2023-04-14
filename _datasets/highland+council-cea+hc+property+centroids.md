@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/4438ec7b7ddb4574af4b765d22302c16_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Cea hc property centroids
+title: CEA HC Property Centroids
 ---

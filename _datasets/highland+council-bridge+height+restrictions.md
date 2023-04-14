@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/a8ab0322f9a042e588745dfed90189b4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Bridge height restrictions
+title: Bridge Height Restrictions
 ---

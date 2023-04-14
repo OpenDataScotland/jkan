@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e64ef903744442a5
 records: 1
 resources: []
 schema: default
-title: Galloway forest park
+title: Galloway Forest Park
 ---

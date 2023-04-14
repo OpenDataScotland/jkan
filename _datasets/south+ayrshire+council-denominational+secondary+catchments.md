@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=88a6db9db81349e8
 records: 2
 resources: []
 schema: default
-title: Denominational secondary catchments
+title: Denominational Secondary Catchments
 ---

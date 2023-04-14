@@ -19,5 +19,5 @@ resources:
   name: Tree Preservation Order Boundaries
   url: https://opendata-dundeecity.hub.arcgis.com/datasets/dundeecity::tpo-boundary/about
 schema: default
-title: Tree preservation order boundaries
+title: Tree Preservation Order Boundaries
 ---

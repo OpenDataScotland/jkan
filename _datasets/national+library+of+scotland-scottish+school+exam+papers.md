@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-scottishSchoolExams.zip
 schema: default
-title: Scottish school exam papers
+title: Scottish School Exam Papers
 ---

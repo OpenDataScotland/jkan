@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/c762c71a-7366-44ba-8828-90f473295f44/1/urql
 schema: default
-title: The highland council - daily cycling counts from automatic cycling counters
+title: The Highland Council - Daily cycling counts from automatic cycling counters
 ---

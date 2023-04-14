@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/pupil-attainment
 records: null
 resources: []
 schema: default
-title: Pupil attainment
+title: Pupil Attainment
 ---

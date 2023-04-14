@@ -18,5 +18,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/245bffa9-07c3-40b6-916b-161062cdf674/resource/245bffa9-07c3-40b6-916b-161062cdf674/download/datadictionary.json
 schema: default
-title: Walker study data
+title: Walker Study Data
 ---

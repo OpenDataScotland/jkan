@@ -41,5 +41,5 @@ resources:
   name: Air Quality Management Areas
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Air_Quality_Management_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Air quality management areas - aberdeen city
+title: Air Quality Management Areas - Aberdeen City
 ---

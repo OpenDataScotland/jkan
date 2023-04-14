@@ -103,5 +103,5 @@ resources:
   name: Quarter 3, Financial Year 2022/2023
   url: https://data.stirling.gov.uk/dataset/46f0a374-03f0-408b-a46d-27953b0551f6/resource/b2143823-cd5c-4e25-85ce-e37e6cbc1898/download/20230208-stirking-council-creditors-extract-31.12.2023-q3-fye-2023.csv
 schema: default
-title: 'Finance: creditors'' extract'
+title: 'Finance: Creditors'' Extract'
 ---

@@ -23,5 +23,5 @@ resources:
   name: Data by Calendar Years
   url: https://www.opendata.nhs.scot/dataset/110c4981-bbcc-4dcb-b558-5230ffd92e81/resource/96cf4b14-68fe-4dd9-a64c-57db91dbf103/download/calendaryr.csv
 schema: default
-title: Scottish morbidity record completeness
+title: Scottish Morbidity Record Completeness
 ---

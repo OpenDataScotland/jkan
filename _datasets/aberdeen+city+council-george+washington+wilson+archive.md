@@ -37,5 +37,5 @@ resources:
   name: Images of the George Washington Wilson Collection
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=George+Washington+Wilson+and+Company&Title=&chat=
 schema: default
-title: George washington wilson archive
+title: George Washington Wilson Archive
 ---

@@ -40,5 +40,5 @@ resources:
   name: Spatial Hub WFS - Polling Places
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling places - north ayrshire
+title: Polling Places - North Ayrshire
 ---

@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=c35b2527a3d14876
 records: 3
 resources: []
 schema: default
-title: Moray onshore wind energy 2017 scenic approaches (moray)
+title: Moray Onshore Wind Energy 2017 Scenic Approaches (Moray)
 ---

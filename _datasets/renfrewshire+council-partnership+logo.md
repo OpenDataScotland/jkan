@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=192cef37b4264092
 records: null
 resources: []
 schema: default
-title: Partnership logo
+title: Partnership Logo
 ---

@@ -20,5 +20,5 @@ resources:
   name: Primary Schools.xml
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=d6c7780e-7d08-4f74-a2f1-a8fb3ac3ddb4
 schema: default
-title: Primary schools
+title: Primary Schools
 ---

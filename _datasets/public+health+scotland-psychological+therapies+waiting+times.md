@@ -28,5 +28,5 @@ resources:
   name: Referrals
   url: https://www.opendata.nhs.scot/dataset/0d36e992-ad75-4ff1-b692-094f3d873ad7/resource/cfc4b998-c3d6-418f-91e6-a17806de94e0/download/pt-referrals.csv
 schema: default
-title: Psychological therapies waiting times
+title: Psychological Therapies Waiting Times
 ---

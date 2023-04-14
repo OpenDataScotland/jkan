@@ -27,5 +27,5 @@ resources:
   name: Spatial Hub WFS - Gritting Routes
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Gritting routes - north ayrshire
+title: Gritting Routes - North Ayrshire
 ---

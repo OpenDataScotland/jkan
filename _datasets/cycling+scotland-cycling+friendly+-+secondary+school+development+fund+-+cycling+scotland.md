@@ -19,5 +19,5 @@ resources:
   name: CyclingFriendly_Schools_DevelopmentFund_2019_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1662f845-427f-4b6e-b59f-d6eb353c742b
 schema: default
-title: Cycling friendly - secondary school development fund - cycling scotland
+title: Cycling Friendly - Secondary School Development Fund - Cycling Scotland
 ---

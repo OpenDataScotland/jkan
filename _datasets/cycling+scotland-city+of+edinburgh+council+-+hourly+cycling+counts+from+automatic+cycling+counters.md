@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b8af3f88-75c5-4470-bcf3-0be9c051b9ef/1/urql
 schema: default
-title: City of edinburgh council - hourly cycling counts from automatic cycling counters
+title: City of Edinburgh Council - Hourly cycling counts from automatic cycling counters
 ---

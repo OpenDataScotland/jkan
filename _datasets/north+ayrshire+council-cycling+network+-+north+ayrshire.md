@@ -24,5 +24,5 @@ resources:
   name: Spatial Hub WFS - Cycle Routes
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Cycling network - north ayrshire
+title: Cycling Network - North Ayrshire
 ---

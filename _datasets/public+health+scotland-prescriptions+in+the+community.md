@@ -279,5 +279,5 @@ resources:
   name: Prescribing Data October 2015
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5/download/pitc201510.csv
 schema: default
-title: Prescriptions in the community
+title: Prescriptions in the Community
 ---

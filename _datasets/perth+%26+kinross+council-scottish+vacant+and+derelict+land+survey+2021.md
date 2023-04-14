@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/ed607304a7184729bf41322eba3afe2f_6.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Scottish vacant and derelict land survey 2021
+title: Scottish Vacant and Derelict Land Survey 2021
 ---

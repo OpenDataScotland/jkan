@@ -18,5 +18,5 @@ resources:
   name: Spatial Hub WFS - Town Centres
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Town centres - north ayrshire
+title: Town Centres - North Ayrshire
 ---

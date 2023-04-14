@@ -26,5 +26,5 @@ resources:
   name: Dundee Smoke Control Areas
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 schema: default
-title: Smoke control areas - dundee city
+title: Smoke Control Areas - Dundee City
 ---

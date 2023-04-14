@@ -65,5 +65,5 @@ resources:
   name: Polling Districts
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Polling_Districts/FeatureServer/4/query?outFields=*&where=1%3D1
 schema: default
-title: Polling districts - perth and kinross
+title: Polling Districts - Perth and Kinross
 ---

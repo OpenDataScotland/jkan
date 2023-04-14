@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/33d30786-3d9e-4513-b2d1-9a67a96c831d/1/urql
 schema: default
-title: South lanarkshire council - hourly cycling counts from automatic cycling counters
+title: South Lanarkshire Council - Hourly cycling counts from automatic cycling counters
 ---

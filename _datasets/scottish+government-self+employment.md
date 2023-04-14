@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/self-employment
 records: null
 resources: []
 schema: default
-title: Self employment
+title: Self Employment
 ---

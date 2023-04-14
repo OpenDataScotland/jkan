@@ -17,5 +17,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=5ccecdc001ad421e
 records: 38
 resources: []
 schema: default
-title: Fire - type of incident 2017/18
+title: Fire - Type of Incident 2017/18
 ---

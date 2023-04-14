@@ -16,5 +16,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_polling_districts.kmz
 schema: default
-title: Polling district boundaries within aberdeenshire
+title: Polling district boundaries within Aberdeenshire
 ---

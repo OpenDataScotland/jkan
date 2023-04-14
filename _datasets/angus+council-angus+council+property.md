@@ -26,5 +26,5 @@ resources:
   name: CSV download for Angus Council Properties
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilproperties&outputFormat=csv
 schema: default
-title: Angus council property
+title: Angus Council Property
 ---

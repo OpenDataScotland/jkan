@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-welfare-fund-exp
 records: null
 resources: []
 schema: default
-title: Scottish welfare fund expenditure
+title: Scottish Welfare Fund Expenditure
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/crime-clear-up-rates
 records: null
 resources: []
 schema: default
-title: Crime clear up rates
+title: Crime Clear up Rates
 ---

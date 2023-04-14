@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-of-settlements
 records: null
 resources: []
 schema: default
-title: Population of settlements and localities 2020
+title: Population of Settlements and Localities 2020
 ---

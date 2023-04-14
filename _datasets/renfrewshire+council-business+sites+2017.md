@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=efc491c10f6e42c9
 records: 38
 resources: []
 schema: default
-title: Business sites 2017
+title: Business Sites 2017
 ---

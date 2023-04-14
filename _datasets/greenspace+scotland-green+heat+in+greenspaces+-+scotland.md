@@ -156,5 +156,5 @@ resources:
   name: 'GHiGs Settlements by Local Authority '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-stlmnt-la
 schema: default
-title: Green heat in greenspaces - scotland
+title: Green Heat in Greenspaces - Scotland
 ---

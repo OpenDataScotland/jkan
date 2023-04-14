@@ -30,5 +30,5 @@ resources:
   name: Scotland Projections
   url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/7a9e74c9-8746-488b-8fba-0fad7c7866ea/download/scotland_pop_proj_15072022.csv
 schema: default
-title: Population projections
+title: Population Projections
 ---

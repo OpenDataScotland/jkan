@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/net-migration
 records: null
 resources: []
 schema: default
-title: Net migration
+title: Net Migration
 ---

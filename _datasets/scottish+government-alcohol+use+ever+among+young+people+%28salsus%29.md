@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/alcohol-use-ever-among-yo
 records: null
 resources: []
 schema: default
-title: Alcohol use ever among young people (salsus)
+title: Alcohol use ever among young people (SALSUS)
 ---

@@ -28,5 +28,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=4a37fbbf212d46ed
 records: 81
 resources: []
 schema: default
-title: Local development plan rural groupings (moray)
+title: Local Development Plan Rural Groupings (Moray)
 ---

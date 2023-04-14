@@ -34,5 +34,5 @@ resources:
   name: 'Street Furniture '
   url: https://geo.spatialhub.scot/geoserver/sh_stfnt/wfs?service=wfs&typeName=sh_stfnt:pub_stfnt
 schema: default
-title: Street furniture - scotland
+title: Street Furniture - Scotland
 ---

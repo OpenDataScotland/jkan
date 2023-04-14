@@ -42,5 +42,5 @@ resources:
   name: Green belt
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Green belt - city of edinburgh
+title: Green Belt - City of Edinburgh
 ---

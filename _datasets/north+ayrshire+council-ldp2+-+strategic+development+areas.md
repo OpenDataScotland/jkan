@@ -28,5 +28,5 @@ resources:
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-strategic-development-areas.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Ldp2 - strategic development areas
+title: LDP2 - Strategic Development Areas
 ---

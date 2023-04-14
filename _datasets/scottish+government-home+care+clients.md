@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/home-care-clients
 records: null
 resources: []
 schema: default
-title: Home care clients
+title: Home Care Clients
 ---

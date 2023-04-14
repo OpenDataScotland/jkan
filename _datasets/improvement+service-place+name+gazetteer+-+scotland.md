@@ -47,5 +47,5 @@ resources:
   name: 'Place Name Gazetteer '
   url: https://geo.spatialhub.scot/geoserver/sh_png/wfs?service=wfs&typeName=sh_png:pub_png
 schema: default
-title: Place name gazetteer - scotland
+title: Place Name Gazetteer - Scotland
 ---

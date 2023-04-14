@@ -21,5 +21,5 @@ resources:
   name: Spatial Hub WFS
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local development plans - north ayrshire
+title: Local Development Plans - North Ayrshire
 ---

@@ -49,5 +49,5 @@ resources:
   name: Vacancies March 2018
   url: https://www.opendata.nhs.scot/dataset/cffe7aa2-d065-4933-8448-ae40881615d4/resource/53a23519-59b6-4fde-b9aa-631ecc3dc279/download/allied-health-professional-vacancy_mar18.csv
 schema: default
-title: Allied health professional vacancies
+title: Allied Health Professional Vacancies
 ---

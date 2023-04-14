@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/personal-insolvency
 records: null
 resources: []
 schema: default
-title: Personal insolvency
+title: Personal Insolvency
 ---

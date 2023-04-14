@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=202ebe4a49d0469b
 records: 764
 resources: []
 schema: default
-title: Local development plan 2020 settlement designations (moray)
+title: Local Development Plan 2020 Settlement Designations (Moray)
 ---

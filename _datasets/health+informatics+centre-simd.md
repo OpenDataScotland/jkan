@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/5e1ee577-f1d1-48ae-861e-6a5f2f510773/resource/5e1ee577-f1d1-48ae-861e-6a5f2f510773/download/datadictionary.json
 schema: default
-title: Simd
+title: SIMD
 ---

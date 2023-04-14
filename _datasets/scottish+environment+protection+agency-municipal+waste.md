@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/municipal-waste
 records: null
 resources: []
 schema: default
-title: Municipal waste
+title: Municipal Waste
 ---

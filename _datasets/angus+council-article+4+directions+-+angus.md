@@ -32,5 +32,5 @@ resources:
   name: Article 4 Directions
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Article 4 directions - angus
+title: Article 4 Directions - Angus
 ---

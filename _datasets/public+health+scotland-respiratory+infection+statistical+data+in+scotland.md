@@ -54,5 +54,5 @@ resources:
   name: 'Respiratory by Sex '
   url: https://www.opendata.nhs.scot/dataset/48a9310e-4db3-44a4-bce8-6b4be9deb88a/resource/e2c1651d-8501-415d-adef-0272822cfead/download/respiratory_sex.csv
 schema: default
-title: Respiratory infection statistical data in scotland
+title: Respiratory Infection Statistical Data in Scotland
 ---

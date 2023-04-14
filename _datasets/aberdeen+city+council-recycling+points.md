@@ -34,5 +34,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/906780e466904ae397d7162e6c0663b6_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Recycling points
+title: Recycling Points
 ---

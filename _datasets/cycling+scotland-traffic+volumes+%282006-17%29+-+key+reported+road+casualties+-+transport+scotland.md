@@ -21,5 +21,5 @@ resources:
   name: Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38a45d25-229c-4b9d-bb85-dc39cde90a21
 schema: default
-title: Traffic volumes (2006-17) - key reported road casualties - transport scotland
+title: Traffic volumes (2006-17) - Key reported road casualties - Transport Scotland
 ---

@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=493989c279c34a77
 records: 20
 resources: []
 schema: default
-title: Vacant and derelict land audit 2016 (moray)
+title: Vacant and Derelict Land Audit 2016 (Moray)
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=fc2283b70f5f46eb
 records: 12
 resources: []
 schema: default
-title: Open data - strategic masterplan area
+title: Open Data - Strategic Masterplan Area
 ---

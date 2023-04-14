@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/Life-Expectancy
 records: null
 resources: []
 schema: default
-title: Life expectancy
+title: Life Expectancy
 ---

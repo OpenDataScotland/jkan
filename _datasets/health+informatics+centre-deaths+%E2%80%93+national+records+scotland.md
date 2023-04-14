@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/5362cfea-d554-43ba-916a-4460da39cc0c/resource/5362cfea-d554-43ba-916a-4460da39cc0c/download/datadictionary.json
 schema: default
-title: "Deaths \u2013 national records scotland"
+title: "Deaths \u2013 National Records Scotland"
 ---

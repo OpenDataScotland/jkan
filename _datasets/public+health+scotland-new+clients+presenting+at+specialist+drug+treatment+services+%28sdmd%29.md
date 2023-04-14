@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/new-clients-presenting-at
 records: null
 resources: []
 schema: default
-title: New clients presenting at specialist drug treatment services (sdmd)
+title: New clients presenting at specialist drug treatment services (SDMD)
 ---

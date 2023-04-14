@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/supervised-attendance-ord
 records: null
 resources: []
 schema: default
-title: Supervised attendance orders by length
+title: Supervised Attendance Orders By Length
 ---

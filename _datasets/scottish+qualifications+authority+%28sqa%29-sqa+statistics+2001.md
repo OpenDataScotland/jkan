@@ -53,5 +53,5 @@ resources:
   name: Group Award Updates
   url: https://www.sqa.org.uk/files_ccc/Group_Awards_Updates_2001.xls
 schema: default
-title: Sqa statistics 2001
+title: SQA Statistics 2001
 ---

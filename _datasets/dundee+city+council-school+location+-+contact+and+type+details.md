@@ -28,5 +28,5 @@ resources:
   name: School Contact Information 2022
   url: https://data.dundeecity.gov.uk/dataset/95fe4b09-ce9c-4df6-817b-1903bc275080/resource/793da8b6-c588-4ded-8caa-4107c6407825/download/schools_contact_details_2022.csv
 schema: default
-title: School location - contact and type details
+title: School Location - Contact and Type Details
 ---

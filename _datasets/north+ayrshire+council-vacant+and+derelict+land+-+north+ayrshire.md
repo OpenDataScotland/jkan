@@ -58,5 +58,5 @@ resources:
   name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/5cff3865-da21-4bb3-8275-6a2ba288740a/resource/ee9ac4df-306b-485d-8350-ce55511cb758/download/northayrshire.zip
 schema: default
-title: Vacant and derelict land - north ayrshire
+title: Vacant And Derelict Land - North Ayrshire
 ---

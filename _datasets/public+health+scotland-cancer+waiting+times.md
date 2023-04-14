@@ -23,5 +23,5 @@ resources:
   name: Cancer Wait Time - 62 Day Standard
   url: https://www.opendata.nhs.scot/dataset/11c61a02-205b-43f6-9297-243679103617/resource/23b3bbf7-7a37-4f86-974b-6360d6748e08/download/cwt_62_day_standard.csv
 schema: default
-title: Cancer waiting times
+title: Cancer Waiting Times
 ---

@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/f87064b0-cb12-4e6e-a709-52e776a0f6b7/resource/e77af7a3-32fa-4a08-8455-4fb489e5b64a/download/datadictionary.json
 schema: default
-title: Child health systems programme - 13-15 month review
+title: Child Health Systems Programme - 13-15 Month Review
 ---

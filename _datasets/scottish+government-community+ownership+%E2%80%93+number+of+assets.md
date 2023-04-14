@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/community-ownership-numbe
 records: null
 resources: []
 schema: default
-title: "Community ownership \u2013 number of assets"
+title: "Community Ownership \u2013 Number of Assets"
 ---

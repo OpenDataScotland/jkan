@@ -20,5 +20,5 @@ resources:
   name: Current Civic Licences
   url: https://data.stirling.gov.uk/dataset/e6f17324-3397-49a5-9c3f-72ae586d0027/resource/2268be0e-aefc-455b-a642-7d3d58719eba/download/20230309-stirling-council-civic-licences-as-at-06.03.2023.csv
 schema: default
-title: Civic licences
+title: Civic Licences
 ---

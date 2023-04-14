@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites
 records: null
 resources: []
 schema: default
-title: Business stocks and sites
+title: Business Stocks and Sites
 ---

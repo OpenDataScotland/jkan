@@ -32,5 +32,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/9438be57aadf45468732a016558d95fb_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Air quality - diffusion tubes
+title: Air Quality - Diffusion Tubes
 ---

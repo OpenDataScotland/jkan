@@ -38,5 +38,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/dfafa5277c284eca923cef7e442c1abc_6.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Tree preservation order
+title: Tree Preservation Order
 ---

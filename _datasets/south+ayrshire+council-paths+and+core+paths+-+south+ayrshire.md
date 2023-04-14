@@ -33,5 +33,5 @@ resources:
   name: Core Paths
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Paths and core paths - south ayrshire
+title: Paths And Core Paths - South Ayrshire
 ---

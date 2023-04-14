@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/b87dda75-59ac-4b33-97c0-439b4771babe/resource/8f486c3d-9504-4a0e-8e24-ab96f057fc9e/download/datadictionary.json
 schema: default
-title: Nhs scotland general practice (gp) contact data - subset
+title: NHS Scotland General Practice (GP) Contact Data - Subset
 ---

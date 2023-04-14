@@ -57,5 +57,5 @@ resources:
   name: Population Estimates 1981-2021 Dundee City
   url: https://data.dundeecity.gov.uk/dataset/3917a463-0cfc-4514-bb8d-136a7fe087f8/resource/c5b7f41f-8138-4490-a469-f1f9803e29f1/download/nrs_pop_estimates_1981_2021_dundeecity.csv
 schema: default
-title: Nrs mid year population estimates - dundee city
+title: NRS Mid Year Population Estimates - Dundee City
 ---

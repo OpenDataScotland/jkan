@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-osBooks.zip
 schema: default
-title: Ordnance survey books of reference
+title: Ordnance Survey Books of Reference
 ---

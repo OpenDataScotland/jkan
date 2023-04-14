@@ -41,5 +41,5 @@ resources:
   name: Shetland Polling Districts
   url: https://data.spatialhub.scot/dataset/5e6bf3af-9a80-4a4d-bca0-40b8ccab8fb3/resource/a1aed995-4a43-4a7a-ab3c-0effc123cb34/download/pollingdistricts2019_region.zip
 schema: default
-title: Polling districts - shetland islands
+title: Polling Districts - Shetland Islands
 ---

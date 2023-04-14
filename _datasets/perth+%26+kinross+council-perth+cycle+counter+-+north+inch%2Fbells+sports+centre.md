@@ -20,5 +20,5 @@ resources:
   name: 01/01/17 - 19/08/17
   url: https://data.pkc.gov.uk/dataset/cb6e3218-5fcc-4324-9450-632a15593396/resource/b5a25b82-4372-413f-9143-486e9fefceae/download/bike-counter-north-inch.csv
 schema: default
-title: Perth cycle counter - north inch/bells sports centre
+title: Perth Cycle Counter - North Inch/Bells Sports Centre
 ---

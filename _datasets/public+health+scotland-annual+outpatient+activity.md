@@ -66,5 +66,5 @@ resources:
   name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2022-locations-lookup.csv
 schema: default
-title: Annual outpatient activity
+title: Annual Outpatient Activity
 ---

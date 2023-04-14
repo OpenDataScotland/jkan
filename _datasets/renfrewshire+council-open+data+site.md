@@ -26,5 +26,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=713c57b0af4a4147
 records: null
 resources: []
 schema: default
-title: Open data site
+title: Open Data Site
 ---

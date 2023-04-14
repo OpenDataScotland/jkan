@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/attendance-allowance
 records: null
 resources: []
 schema: default
-title: Attendance allowance
+title: Attendance Allowance
 ---

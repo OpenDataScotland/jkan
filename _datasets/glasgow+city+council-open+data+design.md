@@ -16,5 +16,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://data.glasgow.gov.uk
 schema: default
-title: Open data design
+title: Open Data design
 ---

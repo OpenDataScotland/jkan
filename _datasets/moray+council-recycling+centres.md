@@ -15,5 +15,5 @@ resources:
   name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/RecyclingCentres.csv
 schema: default
-title: Recycling centres
+title: Recycling Centres
 ---

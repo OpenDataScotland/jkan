@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-estimates-deta
 records: null
 resources: []
 schema: default
-title: Population estimates detailed (current geographic boundaries)
+title: Population Estimates Detailed (Current Geographic Boundaries)
 ---

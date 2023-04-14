@@ -16,5 +16,5 @@ resources:
   name: Perth and Kinross - Food Hygiene Data
   url: http://ratings.food.gov.uk/OpenDataFiles/FHRS786en-GB.xml
 schema: default
-title: Food hygiene ratings in pkc
+title: Food Hygiene Ratings in PKC
 ---

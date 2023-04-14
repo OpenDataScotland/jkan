@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/occupancy-rate-in-care-ho
 records: null
 resources: []
 schema: default
-title: 'Care homes: occupancy rate'
+title: 'Care Homes: Occupancy Rate'
 ---

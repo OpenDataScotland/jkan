@@ -54,5 +54,5 @@ resources:
   name: Contaminated Land Register
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/Contaminated_Land_Register/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Contaminated land - highland
+title: Contaminated Land - Highland
 ---

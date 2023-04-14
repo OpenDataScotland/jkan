@@ -36,5 +36,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/eaad9d6c37164f6390d70c58eae5c8e4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Burial grounds
+title: Burial Grounds
 ---

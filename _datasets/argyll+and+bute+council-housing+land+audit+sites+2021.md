@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=f27cc20e06e4416e
 records: 201
 resources: []
 schema: default
-title: Housing land audit sites 2021
+title: Housing Land Audit Sites 2021
 ---

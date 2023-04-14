@@ -24,5 +24,5 @@ resources:
   name: Group 2
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
-title: Suitable locations for wind turbines - north ayrshire
+title: Suitable Locations for Wind Turbines - North Ayrshire
 ---

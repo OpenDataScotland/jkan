@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/new-build-housing-starts-
 records: null
 resources: []
 schema: default
-title: New build housing starts and completions
+title: New Build Housing Starts and Completions
 ---

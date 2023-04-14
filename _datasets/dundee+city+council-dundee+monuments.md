@@ -24,5 +24,5 @@ resources:
   name: Dundee Monuments
   url: https://data.dundeecity.gov.uk/dataset/f0ce136f-da5b-4d5d-a7a6-6fea9a913bbe/resource/75ec80d4-57e7-4696-a6e5-1011a30f7019/download/monuments_transformed.csv
 schema: default
-title: Dundee monuments
+title: Dundee Monuments
 ---

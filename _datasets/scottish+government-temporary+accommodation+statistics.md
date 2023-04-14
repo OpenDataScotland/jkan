@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/temporary-accommodation-s
 records: null
 resources: []
 schema: default
-title: Temporary accommodation statistics
+title: Temporary Accommodation Statistics
 ---

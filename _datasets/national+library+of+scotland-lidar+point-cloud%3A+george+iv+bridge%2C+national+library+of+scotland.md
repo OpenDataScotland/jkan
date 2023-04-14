@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/data/nls-data-lidar.zip
 schema: default
-title: 'Lidar point-cloud: george iv bridge, national library of scotland'
+title: 'LiDAR point-cloud: George IV Bridge, National Library of Scotland'
 ---

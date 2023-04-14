@@ -98,5 +98,5 @@ resources:
   name: Dispenser Details January 2016
   url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/d343e152-c147-4dc1-95ba-26273d2824a1/download/dispenser_contactdetails_jan2016.csv
 schema: default
-title: Dispenser location contact details
+title: Dispenser Location Contact Details
 ---

@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-projections
 records: null
 resources: []
 schema: default
-title: Population projections (2016-based)
+title: Population Projections (2016-based)
 ---

@@ -23,5 +23,5 @@ resources:
   name: GeoJSON for Localities
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:gaz_localities&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council localities
+title: Angus Council Localities
 ---

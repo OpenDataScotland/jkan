@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e74ac17ef31b4c28
 records: 26
 resources: []
 schema: default
-title: Historic landfill sites
+title: Historic Landfill Sites
 ---

@@ -43,5 +43,5 @@ resources:
   name: Listed Buildings - Web Map Service
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wms?service=Wms&version=1.3.0&request=getCapabilities
 schema: default
-title: Listed buildings
+title: Listed Buildings
 ---

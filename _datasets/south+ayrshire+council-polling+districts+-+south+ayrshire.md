@@ -44,5 +44,5 @@ resources:
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/bb4b748b-bc5c-4f07-b882-124cee37322f/resource/3ded9c08-98cb-4fb7-a72c-9dae10d2ca8c/download/polling_districts_2022.zip
 schema: default
-title: Polling districts - south ayrshire
+title: Polling Districts - South Ayrshire
 ---

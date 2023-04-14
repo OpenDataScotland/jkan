@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/smoking-prevalence-in-you
 records: null
 resources: []
 schema: default
-title: Smoking prevalence in young people (salsus)
+title: Smoking prevalence in young people (SALSUS)
 ---

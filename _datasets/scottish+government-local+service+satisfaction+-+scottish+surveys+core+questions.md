@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-service-satisfactio
 records: null
 resources: []
 schema: default
-title: Local service satisfaction - scottish surveys core questions
+title: Local Service Satisfaction - Scottish Surveys Core Questions
 ---

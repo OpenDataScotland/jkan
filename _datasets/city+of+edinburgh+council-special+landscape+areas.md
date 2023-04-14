@@ -27,5 +27,5 @@ resources:
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/d5ddbf730de745b6a6494835d598ad98_35.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Special landscape areas
+title: Special Landscape Areas
 ---

@@ -52,5 +52,5 @@ resources:
   name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/d36b8d3b-c69e-4901-ab6b-966c9192b3d9/resource/8cac2aea-c107-40fe-9e5c-2650dffecf2c/download/northlanarkshire_2021.zip
 schema: default
-title: Vacant and derelict land - north lanarkshire
+title: Vacant And Derelict Land - North Lanarkshire
 ---

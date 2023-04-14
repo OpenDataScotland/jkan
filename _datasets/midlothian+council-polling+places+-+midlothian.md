@@ -43,5 +43,5 @@ resources:
   name: Midlothian Polling Places Updated November 2019
   url: https://dservices5.arcgis.com/CT2Zj7xubqvzu3yJ/arcgis/services/Midlothian_Polling_Places_for_2019_General_Election/WFSServer?service=wfs&request=getcapabilities?
 schema: default
-title: Polling places - midlothian
+title: Polling Places - Midlothian
 ---

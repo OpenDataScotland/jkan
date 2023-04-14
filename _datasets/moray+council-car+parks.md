@@ -17,5 +17,5 @@ resources:
   name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/CarParks.csv
 schema: default
-title: Car parks
+title: Car Parks
 ---

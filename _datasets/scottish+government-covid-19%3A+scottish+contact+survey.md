@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-contact-survey-c
 records: null
 resources: []
 schema: default
-title: 'Covid-19: scottish contact survey'
+title: 'Covid-19: Scottish Contact Survey'
 ---

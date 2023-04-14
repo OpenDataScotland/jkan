@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/green-or-blue-space-shs
 records: null
 resources: []
 schema: default
-title: Distance to green or blue space - scottish household survey
+title: Distance to Green or Blue Space - Scottish Household Survey
 ---

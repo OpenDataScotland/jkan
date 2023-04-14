@@ -17,5 +17,5 @@ resources:
   name: Air quality management areas Edinburgh
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Air quality management areas - city of edinburgh
+title: Air Quality Management Areas - City of Edinburgh
 ---

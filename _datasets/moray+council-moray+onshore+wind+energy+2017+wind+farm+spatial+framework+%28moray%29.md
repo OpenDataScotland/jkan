@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2691a454bf4e42e6
 records: 1
 resources: []
 schema: default
-title: Moray onshore wind energy 2017 wind farm spatial framework (moray)
+title: Moray Onshore Wind Energy 2017 Wind Farm Spatial Framework (Moray)
 ---

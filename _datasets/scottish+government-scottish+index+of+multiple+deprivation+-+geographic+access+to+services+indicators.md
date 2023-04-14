@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish index of multiple deprivation - geographic access to services indicators
+title: Scottish Index of Multiple Deprivation - Geographic Access to Services Indicators
 ---

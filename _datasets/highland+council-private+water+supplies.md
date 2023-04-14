@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/Highland::private-water-supplies.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Private water supplies
+title: Private Water Supplies
 ---

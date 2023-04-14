@@ -13,6 +13,6 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=5c376e304a4a4be2
 records: 5
 resources: []
 schema: default
-title: Moray onshore wind energy 2017 potential development areas for extension and
-  repowering (moray)
+title: Moray Onshore Wind Energy 2017 Potential Development Areas for Extension and
+  Repowering (Moray)
 ---

@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/mental-wellbeing-sscq
 records: null
 resources: []
 schema: default
-title: Mental wellbeing - scottish surveys core questions
+title: Mental Wellbeing - Scottish Surveys Core Questions
 ---

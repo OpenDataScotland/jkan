@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=6182d61788b64229
 records: 20
 resources: []
 schema: default
-title: Community councils boundaries 2013 - 2017 (moray)
+title: Community Councils Boundaries 2013 - 2017 (Moray)
 ---

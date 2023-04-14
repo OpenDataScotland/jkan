@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-authority-services-
 records: null
 resources: []
 schema: default
-title: Local authority services and performance - scottish household survey
+title: Local Authority Services and Performance - Scottish Household Survey
 ---

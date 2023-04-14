@@ -47,5 +47,5 @@ resources:
   name: Polling Districts
   url: https://maps.renfrewshire.gov.uk/arcgis/services/Contentmaps/ELECTIONS_AND_VOTING/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
-title: Polling districts - renfrewshire council
+title: Polling Districts - Renfrewshire Council
 ---

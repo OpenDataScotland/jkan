@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8dbefa8a2d354c08
 records: 84
 resources: []
 schema: default
-title: Landscape character areas
+title: Landscape Character Areas
 ---

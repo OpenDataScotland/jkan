@@ -34,5 +34,5 @@ resources:
   name: 'Housing Land Supply '
   url: https://geo.spatialhub.scot/geoserver/sh_hls/wfs?service=wfs&typeName=sh_hls:pub_hls
 schema: default
-title: Housing land supply - scotland
+title: Housing Land Supply - Scotland
 ---

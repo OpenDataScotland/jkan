@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/419c8ce9-9297-4b38-9cbd-341f0611b209/1/urql
 schema: default
-title: East ayrshire council - daily cycling counts from automatic cycling counters
+title: East Ayrshire Council - Daily cycling counts from automatic cycling counters
 ---

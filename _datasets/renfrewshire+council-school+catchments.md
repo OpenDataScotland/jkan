@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=928e0bc3571043d5
 records: null
 resources: []
 schema: default
-title: School catchments
+title: School Catchments
 ---

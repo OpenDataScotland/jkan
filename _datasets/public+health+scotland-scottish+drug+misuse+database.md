@@ -27,5 +27,5 @@ resources:
   name: SDMD By Council Area and Treatment Group
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/d5ffbfe1-12d1-4d58-8a49-a32b8c3356a5/download/treatment_group_sdmd_council.csv
 schema: default
-title: Scottish drug misuse database
+title: Scottish Drug Misuse Database
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/economic-activity
 records: null
 resources: []
 schema: default
-title: Economic activity
+title: Economic Activity
 ---

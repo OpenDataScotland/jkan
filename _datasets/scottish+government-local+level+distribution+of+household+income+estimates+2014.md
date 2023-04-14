@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-level-distribution-
 records: null
 resources: []
 schema: default
-title: Local level distribution of household income estimates 2014
+title: Local Level Distribution of Household Income Estimates 2014
 ---

@@ -15,5 +15,5 @@ resources:
   name: csgnt_jmw_counter.zip
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6c02dce2-4593-45d9-baa0-477b7fb5e7ce
 schema: default
-title: Csgnt john muir way counters
+title: CSGNT John Muir Way Counters
 ---

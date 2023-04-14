@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/fdad9392071a477087c9e0cb4184b5d4_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Wind turbines
+title: Wind Turbines
 ---

@@ -30,5 +30,5 @@ resources:
   name: South Ayrshire Local Landscape Designations
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local landscape areas - south ayrshire
+title: Local Landscape Areas - South Ayrshire
 ---

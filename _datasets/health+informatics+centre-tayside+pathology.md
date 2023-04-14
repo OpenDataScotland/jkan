@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/419e5a82-2d82-48a7-a8f3-a83e64a54e92/resource/419e5a82-2d82-48a7-a8f3-a83e64a54e92/download/datadictionary.json
 schema: default
-title: Tayside pathology
+title: Tayside Pathology
 ---

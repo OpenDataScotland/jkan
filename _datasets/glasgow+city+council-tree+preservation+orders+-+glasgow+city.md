@@ -45,5 +45,5 @@ resources:
   name: TPO
   url: https://data.spatialhub.scot/dataset/b498abc4-9cd4-468d-a1a1-f0d35ec45fbd/resource/cdb0f0d4-8b85-4622-a0d6-ae02beedc819/download/treepressites.zip
 schema: default
-title: Tree preservation orders - glasgow city
+title: Tree Preservation Orders - Glasgow City
 ---

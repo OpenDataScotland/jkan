@@ -36,5 +36,5 @@ resources:
   name: Special Landscape Area
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local landscape areas - city of edinburgh
+title: Local Landscape Areas - City of Edinburgh
 ---

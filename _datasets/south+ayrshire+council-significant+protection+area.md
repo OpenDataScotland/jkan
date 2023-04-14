@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1609d57bcd174191
 records: 4
 resources: []
 schema: default
-title: Significant protection area
+title: Significant Protection Area
 ---

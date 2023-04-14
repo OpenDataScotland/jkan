@@ -47,5 +47,5 @@ resources:
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/27b41ba9-9465-4a58-b69e-59bfe3c3bc44/resource/2c08441d-bd64-4c8c-b4a1-360545f3a003/download/wl_pollingdistricts.zip
 schema: default
-title: Polling districts - west lothian
+title: Polling Districts - West Lothian
 ---

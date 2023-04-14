@@ -30,5 +30,5 @@ resources:
   name: OpenMap Local (Dundee)
   url: http://inspire.dundeecity.gov.uk/os_opendata/openmaplocal/OS_openmaplocal_dundee.zip
 schema: default
-title: Os open map - local
+title: OS Open Map - Local
 ---

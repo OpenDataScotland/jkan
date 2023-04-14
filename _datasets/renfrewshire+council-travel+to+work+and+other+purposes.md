@@ -23,5 +23,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=71efe4b2a5f64a4f
 records: 2
 resources: []
 schema: default
-title: Travel to work and other purposes
+title: Travel to Work and Other Purposes
 ---

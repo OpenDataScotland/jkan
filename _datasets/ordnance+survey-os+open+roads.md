@@ -29,5 +29,5 @@ resources:
   name: ATOM FEED
   url: http://os.uk/xml/atom/OSOpenRoads.xml
 schema: default
-title: Os open roads
+title: OS Open Roads
 ---

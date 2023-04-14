@@ -43,5 +43,5 @@ resources:
   name: Polling Places
   url: https://mapping.moray.gov.uk/arcgis/services/INSPIRE/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling places - moray
+title: Polling Places - Moray
 ---

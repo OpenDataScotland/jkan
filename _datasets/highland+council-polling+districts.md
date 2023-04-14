@@ -28,5 +28,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/77fa374a2e9146e2afdd3690e650d50e_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Polling districts
+title: Polling Districts
 ---

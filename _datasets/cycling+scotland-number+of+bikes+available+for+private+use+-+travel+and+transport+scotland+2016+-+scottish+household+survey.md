@@ -17,6 +17,6 @@ resources:
   name: SHS_BikesAvailablePrivateUse_TransportTravelScotland2016_TransportScotland.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=aa86d727-c4eb-4c00-b8ae-69fdd191ceb7
 schema: default
-title: Number of bikes available for private use - travel and transport scotland 2016
-  - scottish household survey
+title: Number of bikes available for private use - Travel and Transport Scotland 2016
+  - Scottish Household Survey
 ---

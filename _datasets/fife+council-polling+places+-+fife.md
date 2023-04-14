@@ -52,5 +52,5 @@ resources:
   name: Fife Council Polling Places
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Fife_Council_Polling_Places/WFSServer?service=wfs&request=getcapabilities
 schema: default
-title: Polling places - fife
+title: Polling Places - Fife
 ---

@@ -26,5 +26,5 @@ resources:
   name: Community Asset Register
   url: https://utility.arcgis.com/usrsvcs/servers/8feb8ec7d3d4468fb957e37043a3deee/services/OPEN_DATA/Community_asset_register_properties/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Council asset register - glasgow city
+title: Council Asset Register - Glasgow City
 ---

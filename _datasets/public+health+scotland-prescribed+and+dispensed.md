@@ -36,5 +36,5 @@ resources:
   name: Prescribed & Dispensed 2016
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/87f868b0-906e-4ce8-9a29-d21709476c96/download/prescribed-dispensed-2016.csv
 schema: default
-title: Prescribed and dispensed
+title: Prescribed and Dispensed
 ---

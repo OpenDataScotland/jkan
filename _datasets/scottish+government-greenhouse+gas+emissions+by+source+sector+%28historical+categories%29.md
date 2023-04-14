@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/greenhouse-gas-emissions-
 records: null
 resources: []
 schema: default
-title: Greenhouse gas emissions by source sector (historical categories)
+title: Greenhouse Gas Emissions by Source Sector (Historical categories)
 ---

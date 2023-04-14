@@ -15,6 +15,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/5421f510-69b1-4deb-a319-135289598388/1/urql
 schema: default
-title: National monitoring framework - daily data from automatic cycling counters
-  - cycling scotland
+title: National Monitoring Framework - daily data from automatic cycling counters
+  - Cycling Scotland
 ---

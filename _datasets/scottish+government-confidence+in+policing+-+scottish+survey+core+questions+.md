@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/confidence-in-policing-ss
 records: null
 resources: []
 schema: default
-title: 'Confidence in policing - scottish survey core questions '
+title: 'Confidence in Policing - Scottish Survey Core Questions '
 ---

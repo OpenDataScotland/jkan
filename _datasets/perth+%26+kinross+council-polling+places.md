@@ -35,5 +35,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/137f8ff6c0cf4232bd37417cf538480c_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Polling places
+title: Polling Places
 ---

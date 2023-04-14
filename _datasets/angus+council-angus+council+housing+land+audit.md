@@ -34,5 +34,5 @@ resources:
   name: GeoJSON for Housing Land Audit 2015
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_housinglandaudit2015&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council housing land audit
+title: Angus Council Housing Land Audit
 ---

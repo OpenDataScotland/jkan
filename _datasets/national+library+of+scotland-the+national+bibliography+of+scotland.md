@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-nbs-v3.zip
 schema: default
-title: The national bibliography of scotland
+title: The National Bibliography of Scotland
 ---

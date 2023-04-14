@@ -20,5 +20,5 @@ resources:
   name: Data Zone (2011) Urban Rural Classification 2016
   url: https://www.opendata.nhs.scot/dataset/a7acd6f7-8f50-4433-b952-cee6807d0ff6/resource/c8bd76cd-6613-4dd7-8a28-6c99a16dc678/download/datazone2011_urban_rural_2016.csv
 schema: default
-title: Urban rural classification
+title: Urban Rural Classification
 ---

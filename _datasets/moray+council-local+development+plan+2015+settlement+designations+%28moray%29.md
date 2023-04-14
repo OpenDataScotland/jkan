@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=24a749c00aa442ad
 records: 766
 resources: []
 schema: default
-title: Local development plan 2015 settlement designations (moray)
+title: Local Development Plan 2015 Settlement Designations (Moray)
 ---

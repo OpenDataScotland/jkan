@@ -49,5 +49,5 @@ resources:
   name: Supplier payments 01-04-2022 to 30-09-2022
   url: http://opendata.angus.gov.uk/dataset/9974d9ac-8bc4-4f0b-badc-43faf9791976/resource/2189a516-b3d7-45ab-b425-988c0d1849d2/download/supplier-payments-01-04-2022-30-09-2022.xls
 schema: default
-title: "Invoice and credit notes over \xA3500"
+title: "Invoice and Credit Notes over \xA3500"
 ---

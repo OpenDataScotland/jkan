@@ -42,5 +42,5 @@ resources:
   name: 'Conservation Area '
   url: https://geo.spatialhub.scot/geoserver/sh_coar/wfs?service=wfs&typeName=sh_coar:pub_coar
 schema: default
-title: Conservation areas - scotland
+title: Conservation Areas - Scotland
 ---

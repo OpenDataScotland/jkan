@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/court-process-times
 records: null
 resources: []
 schema: default
-title: Court process times
+title: Court Process Times
 ---

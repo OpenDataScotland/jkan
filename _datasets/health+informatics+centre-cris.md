@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/35808620-ea01-410a-8948-cee412f1fe23/resource/35808620-ea01-410a-8948-cee412f1fe23/download/datadictionary.json
 schema: default
-title: Cris
+title: CRIS
 ---

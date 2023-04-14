@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/gross-domestic-product-an
 records: null
 resources: []
 schema: default
-title: 'Gross domestic product: annual output by industry'
+title: 'Gross Domestic Product: Annual Output by Industry'
 ---

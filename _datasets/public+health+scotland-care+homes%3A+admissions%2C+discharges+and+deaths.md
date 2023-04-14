@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-admissions-dis
 records: null
 resources: []
 schema: default
-title: 'Care homes: admissions, discharges and deaths'
+title: 'Care Homes: Admissions, Discharges and Deaths'
 ---

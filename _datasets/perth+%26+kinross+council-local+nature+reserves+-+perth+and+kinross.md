@@ -22,5 +22,5 @@ resources:
   name: Local Nature Reserves
   url: https://data.spatialhub.scot/dataset/4e850146-3d9e-43a1-be0c-7c23a057470c/resource/b423bce0-4284-4568-8244-f1b759463012/download/lnr_perth_and_kinross.zip
 schema: default
-title: Local nature reserves - perth and kinross
+title: Local Nature Reserves - Perth and Kinross
 ---

@@ -23,5 +23,5 @@ resources:
   name: 'Council Asset Register '
   url: https://navgisapp04.north-ayrshire.gov.uk:6443/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
-title: Council asset register - north ayrshire
+title: Council Asset Register - North Ayrshire
 ---

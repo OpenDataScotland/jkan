@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/feeling-safe-when-alone-a
 records: null
 resources: []
 schema: default
-title: Feeling safe when alone at home - scottish household survey
+title: Feeling safe when alone at home - Scottish Household Survey
 ---

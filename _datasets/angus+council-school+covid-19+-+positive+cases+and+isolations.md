@@ -40,5 +40,5 @@ resources:
   name: CSV Covid cases Angus schools
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=services%3Aedn_schoolscovidcases2&outputFormat=csv
 schema: default
-title: School covid-19 - positive cases and isolations
+title: School Covid-19 - Positive Cases and Isolations
 ---

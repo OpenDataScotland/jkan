@@ -26,5 +26,5 @@ resources:
   name: Housing Land Supply
   url: https://data.spatialhub.scot/dataset/bc8e85e5-f043-4415-9b81-80ec86d18a8d/resource/2a9189f3-aad5-4e8f-a725-81acca9c7916/download/housing_land_supply-nl2022-02-11145447.zip
 schema: default
-title: Housing land supply - north lanarkshire
+title: Housing Land Supply - North Lanarkshire
 ---

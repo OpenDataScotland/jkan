@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/576594772a76474980e4ce11cc2ea5a3_9.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Employment land audit 2022
+title: Employment Land Audit 2022
 ---

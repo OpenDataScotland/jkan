@@ -27,5 +27,5 @@ resources:
   name: Forest and Woodland Strategy - Stirling and Clacks
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/forest_and_woodland_strategy/FeatureServer/3/query?outFields=*&where=1%3D1
 schema: default
-title: Forestry and woodland strategy - stirling
+title: Forestry And Woodland Strategy - Stirling
 ---

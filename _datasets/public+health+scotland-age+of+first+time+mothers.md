@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/age-at-first-birth
 records: null
 resources: []
 schema: default
-title: Age of first time mothers
+title: Age of First Time Mothers
 ---

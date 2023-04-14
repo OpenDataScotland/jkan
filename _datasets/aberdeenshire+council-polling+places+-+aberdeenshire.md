@@ -55,5 +55,5 @@ resources:
   name: Polling Places (5 May 2022 - SLE)
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/ddc60fbe-b3ce-49a3-8895-e28f8cb5c35a/download/pollingplaces2022.zip
 schema: default
-title: Polling places - aberdeenshire
+title: Polling Places - Aberdeenshire
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8b3bef2bcaa4444e
 records: 486
 resources: []
 schema: default
-title: Ldp2 town policies
+title: LDP2 Town Policies
 ---

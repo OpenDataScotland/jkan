@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/tourism-day-visits---loca
 records: null
 resources: []
 schema: default
-title: Tourism day visits - location
+title: Tourism Day Visits - Location
 ---

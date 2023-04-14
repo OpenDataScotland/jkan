@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/alcohol-related-hospital-
 records: null
 resources: []
 schema: default
-title: Alcohol related hospital statistics
+title: Alcohol Related Hospital Statistics
 ---

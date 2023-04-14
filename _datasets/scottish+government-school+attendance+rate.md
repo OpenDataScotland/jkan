@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/school-attendance-rate
 records: null
 resources: []
 schema: default
-title: School attendance rate
+title: School Attendance Rate
 ---

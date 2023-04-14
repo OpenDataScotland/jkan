@@ -140,5 +140,5 @@ resources:
   name: Education Authority Notes
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_2018_EA_Notes.docx
 schema: default
-title: Sqa statistics 2018
+title: SQA Statistics 2018
 ---

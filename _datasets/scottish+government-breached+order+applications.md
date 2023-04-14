@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/breached-order-applicatio
 records: null
 resources: []
 schema: default
-title: Breached order applications
+title: Breached Order Applications
 ---

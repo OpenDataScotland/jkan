@@ -20,5 +20,5 @@ resources:
   name: Air Quality Management Areas
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/AirQualityManagementAreas/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Air quality management areas - highland
+title: Air Quality Management Areas - Highland
 ---

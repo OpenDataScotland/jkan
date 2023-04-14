@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/school-pupil-census
 records: null
 resources: []
 schema: default
-title: School pupil census
+title: School Pupil Census
 ---

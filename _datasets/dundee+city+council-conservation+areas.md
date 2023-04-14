@@ -25,5 +25,5 @@ resources:
   name: Conservation Areas
   url: https://opendata-dundeecity.hub.arcgis.com/datasets/dundeecity::dcc-conservation-areas-2020/about
 schema: default
-title: Conservation areas
+title: Conservation Areas
 ---

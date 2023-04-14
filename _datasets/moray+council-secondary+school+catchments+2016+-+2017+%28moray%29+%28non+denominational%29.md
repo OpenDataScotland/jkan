@@ -25,5 +25,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=f527fa3a9475430c
 records: 8
 resources: []
 schema: default
-title: Secondary school catchments 2016 - 2017 (moray) (non denominational)
+title: Secondary School Catchments 2016 - 2017 (Moray) (non denominational)
 ---

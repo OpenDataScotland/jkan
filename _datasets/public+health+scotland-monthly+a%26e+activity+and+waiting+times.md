@@ -23,5 +23,5 @@ resources:
   name: Monthly A&E Activity and Waiting Times
   url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202302.csv
 schema: default
-title: Monthly a&e activity and waiting times
+title: Monthly A&E Activity and Waiting Times
 ---

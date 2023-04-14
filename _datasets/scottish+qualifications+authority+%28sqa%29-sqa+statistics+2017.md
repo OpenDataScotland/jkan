@@ -194,5 +194,5 @@ resources:
   name: Progression Notes
   url: https://www.sqa.org.uk/sqa/files_ccc/Data_Notes_For_Progression.docx
 schema: default
-title: Sqa statistics 2017
+title: SQA Statistics 2017
 ---

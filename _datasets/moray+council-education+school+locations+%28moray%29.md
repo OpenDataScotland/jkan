@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=b5ba23aa94ab484f
 records: 54
 resources: []
 schema: default
-title: Education school locations (moray)
+title: Education School Locations (Moray)
 ---

@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/a8180c26391c419faf89e17cd56ea241_6.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Recycle centres and points
+title: Recycle Centres and Points
 ---

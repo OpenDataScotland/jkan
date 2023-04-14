@@ -28,5 +28,5 @@ resources:
   name: Employment land supply
   url: https://data.spatialhub.scot/dataset/e1845a11-ba35-4631-9b15-33ed37c16b19/resource/ec788457-a42d-4406-88c9-254ba410089e/download/south_ayrshire_json_dump.zip
 schema: default
-title: Employment land supply - south ayrshire
+title: Employment Land Supply - South Ayrshire
 ---

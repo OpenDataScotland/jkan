@@ -20,5 +20,5 @@ resources:
   name: Class Sizes.xml
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=b3f0b67b-7d62-4f94-a99b-e12105d36483
 schema: default
-title: Class sizes
+title: Class Sizes
 ---

@@ -25,5 +25,5 @@ resources:
   name: Local Nature Reserves
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
-title: Local nature reserves - north ayrshire
+title: Local Nature Reserves - North Ayrshire
 ---

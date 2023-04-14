@@ -38,5 +38,5 @@ resources:
   name: Community Council Areas in Fife
   url: https://data.spatialhub.scot/dataset/f2a5d12a-07eb-4cb8-859a-63dbcb29e6cb/resource/4f8d1c3b-d552-4dfa-afbc-917debc6dde1/download/fife_community_councils.zip
 schema: default
-title: Community council boundaries - fife
+title: Community Council Boundaries - Fife
 ---

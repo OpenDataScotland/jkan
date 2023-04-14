@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-airForceLists.zip
 schema: default
-title: British air force lists
+title: British Air Force Lists
 ---

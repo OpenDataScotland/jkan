@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/disability-living-allowan
 records: null
 resources: []
 schema: default
-title: Disability living allowance
+title: Disability Living Allowance
 ---

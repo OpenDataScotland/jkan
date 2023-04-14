@@ -11,5 +11,5 @@ original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/pages/
 records: null
 resources: []
 schema: default
-title: 3d urban model
+title: 3D Urban Model
 ---

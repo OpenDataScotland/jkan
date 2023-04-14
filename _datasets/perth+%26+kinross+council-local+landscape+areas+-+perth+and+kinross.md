@@ -22,5 +22,5 @@ resources:
   name: Local Landscape Areas
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Local_Landscape_Area/FeatureServer/28/query?outFields=*&where=1%3D1
 schema: default
-title: Local landscape areas - perth and kinross
+title: Local Landscape Areas - Perth and Kinross
 ---

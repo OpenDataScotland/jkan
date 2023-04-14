@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1f923e623ab24501
 records: 6
 resources: []
 schema: default
-title: Moray onshore wind energy 2017 policy guidance map for medium typologies (moray)
+title: Moray Onshore Wind Energy 2017 Policy Guidance Map for Medium Typologies (Moray)
 ---

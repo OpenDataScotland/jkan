@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=bcf635b45e9044b0
 records: 4
 resources: []
 schema: default
-title: Primary school catchments (moray) (denominational)
+title: Primary School Catchments (Moray) (Denominational)
 ---

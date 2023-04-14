@@ -46,5 +46,5 @@ resources:
   name: Polling Places - Updated With UPRNs
   url: https://data.spatialhub.scot/dataset/fbe329e4-2388-4d66-ac35-6eeb1aa6ecc6/resource/7a88269f-14ac-42e7-80e0-64119b41f9af/download/polling-places-updated-with-uprns.zip
 schema: default
-title: Polling places - east lothian
+title: Polling Places - East Lothian
 ---

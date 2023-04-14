@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-s
 records: null
 resources: []
 schema: default
-title: Local authority housing stock by type
+title: Local Authority Housing Stock by Type
 ---

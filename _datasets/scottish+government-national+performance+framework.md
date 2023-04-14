@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/national-performance-fram
 records: null
 resources: []
 schema: default
-title: National performance framework
+title: National Performance Framework
 ---

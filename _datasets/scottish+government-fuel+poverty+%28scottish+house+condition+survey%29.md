@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/fuel-poverty-shcs
 records: null
 resources: []
 schema: default
-title: Fuel poverty (scottish house condition survey)
+title: Fuel Poverty (Scottish House Condition Survey)
 ---

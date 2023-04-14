@@ -41,5 +41,5 @@ resources:
   name: Domestic Waste Collections for 2023
   url: https://data.stirling.gov.uk/dataset/70614cbb-ff9e-4ef7-8e18-486017a368d6/resource/e49fcc00-3860-4c70-8ecb-b6e4290bb847/download/20230227-stirling-domestic-waste-collections-jan-2023-to-dec-2023.csv
 schema: default
-title: Waste services (2021 onwards)
+title: Waste Services (2021 onwards)
 ---

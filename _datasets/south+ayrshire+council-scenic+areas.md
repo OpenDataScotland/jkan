@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=792bcf9e8f654c20
 records: 2
 resources: []
 schema: default
-title: Scenic areas
+title: Scenic Areas
 ---

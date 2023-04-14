@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/housing-lists
 records: null
 resources: []
 schema: default
-title: Housing lists
+title: Housing Lists
 ---

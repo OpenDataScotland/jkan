@@ -45,5 +45,5 @@ resources:
   name: Green belt and green network
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Green belt - glasgow city
+title: Green Belt - Glasgow City
 ---

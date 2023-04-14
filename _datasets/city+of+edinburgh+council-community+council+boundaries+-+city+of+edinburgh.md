@@ -29,5 +29,5 @@ resources:
   name: Community Councils
   url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Community council boundaries - city of edinburgh
+title: Community Council Boundaries - City of Edinburgh
 ---

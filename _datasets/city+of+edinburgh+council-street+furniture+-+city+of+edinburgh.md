@@ -34,5 +34,5 @@ resources:
   name: Cycle Parking, Grit Bins, CCTV locations
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Street furniture - city of edinburgh
+title: Street Furniture - City of Edinburgh
 ---

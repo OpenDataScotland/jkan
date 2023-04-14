@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=23a3b4abf32e4115
 records: 37
 resources: []
 schema: default
-title: Moray onshore wind energy 2017 landscape character types (moray)
+title: Moray Onshore Wind Energy 2017 Landscape Character Types (Moray)
 ---

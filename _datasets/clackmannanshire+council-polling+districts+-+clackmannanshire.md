@@ -53,5 +53,5 @@ resources:
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/a513bfcd-92d1-4537-9e5c-4cbfebe50b14/download/spatialhubpollingdistricts.gpkg
 schema: default
-title: Polling districts - clackmannanshire
+title: Polling Districts - Clackmannanshire
 ---

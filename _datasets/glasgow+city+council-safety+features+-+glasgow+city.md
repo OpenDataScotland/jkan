@@ -33,5 +33,5 @@ resources:
   name: CCTV locations
   url: https://services2.arcgis.com/Ne8d9gKn5SJ3eAaw/ArcGIS/rest/services/CCTV_OpenData/FeatureServer
 schema: default
-title: Safety features - glasgow city
+title: Safety Features - Glasgow City
 ---

@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-tenure-sscq
 records: null
 resources: []
 schema: default
-title: 'Household tenure - scottish survey core questions '
+title: 'Household Tenure - Scottish Survey Core Questions '
 ---

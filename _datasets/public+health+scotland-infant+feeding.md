@@ -36,5 +36,5 @@ resources:
   name: Data Quality
   url: https://www.opendata.nhs.scot/dataset/164106cb-14ea-4a48-a553-aef2f7a90704/resource/a1eb3449-8858-495b-a217-e45be1bc2e7e/download/od_if_data_quality.csv
 schema: default
-title: Infant feeding
+title: Infant Feeding
 ---

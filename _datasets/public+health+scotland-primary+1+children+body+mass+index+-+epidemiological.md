@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/p1-BMI-epi
 records: null
 resources: []
 schema: default
-title: Primary 1 children body mass index - epidemiological
+title: Primary 1 Children Body Mass Index - Epidemiological
 ---

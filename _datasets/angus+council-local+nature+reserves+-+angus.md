@@ -22,5 +22,5 @@ resources:
   name: Montrose basin LNR
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire%3Amontrosebasin_lnr&maxFeatures=50&outputFormat=application%2Fjson
 schema: default
-title: Local nature reserves - angus
+title: Local Nature Reserves - Angus
 ---

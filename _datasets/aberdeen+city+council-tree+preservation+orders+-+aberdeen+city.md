@@ -69,5 +69,5 @@ resources:
   name: Tree Preservation Orders
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Tree_Preservation_Orders/FeatureServer/18/query?outFields=*&where=1%3D1
 schema: default
-title: Tree preservation orders - aberdeen city
+title: Tree Preservation Orders - Aberdeen City
 ---

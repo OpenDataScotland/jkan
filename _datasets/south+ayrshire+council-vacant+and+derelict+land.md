@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a7fef8a46e4c49d4
 records: 83
 resources: []
 schema: default
-title: Vacant and derelict land
+title: Vacant and Derelict Land
 ---

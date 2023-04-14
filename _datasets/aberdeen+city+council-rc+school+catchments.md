@@ -30,5 +30,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/d8810b5c84744d0896761a2a8d286744_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Rc school catchments
+title: RC School Catchments
 ---

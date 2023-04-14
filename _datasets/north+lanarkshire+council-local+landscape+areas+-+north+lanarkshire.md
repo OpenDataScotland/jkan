@@ -30,5 +30,5 @@ resources:
   name: Area of Great Landscape Value
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
-title: Local landscape areas - north lanarkshire
+title: Local Landscape Areas - North Lanarkshire
 ---

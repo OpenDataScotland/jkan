@@ -43,5 +43,5 @@ resources:
   name: Polling Stations in Aberdeen City
   url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/9aa4b84a-fcfe-4f91-ba5d-74d28919c2a7/download/pollingstns20172.zip
 schema: default
-title: Polling places - aberdeen city
+title: Polling Places - Aberdeen City
 ---

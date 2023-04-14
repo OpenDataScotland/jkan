@@ -47,5 +47,5 @@ resources:
   name: Polling Districts - South Lanarkshire Council - 2019
   url: https://data.spatialhub.scot/dataset/24cd3704-ed04-4c82-a7ea-f3bfa2cb0dde/resource/883ba05c-1220-4719-92c6-781b08031437/download/pd_2019v1_region.zip
 schema: default
-title: Polling districts - south lanarkshire
+title: Polling Districts - South Lanarkshire
 ---

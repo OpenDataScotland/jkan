@@ -40,5 +40,5 @@ resources:
   name: Polling Places
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling places - north lanarkshire
+title: Polling Places - North Lanarkshire
 ---

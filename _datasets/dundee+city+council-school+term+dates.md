@@ -29,5 +29,5 @@ resources:
   name: School Term Dates - 2024/25
   url: https://data.dundeecity.gov.uk/dataset/b815109b-3aeb-45b0-bac0-1cdbcd36e295/resource/72930989-7780-420a-9c4a-d8609ad4ddc1/download/school_terms_and_holidays_2024-25.pdf
 schema: default
-title: School term dates
+title: School Term Dates
 ---

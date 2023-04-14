@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_cycle_routes.kmz
 schema: default
-title: Cycle routes across aberdeenshire
+title: Cycle routes across Aberdeenshire
 ---

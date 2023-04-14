@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/carers-allowance-suppleme
 records: null
 resources: []
 schema: default
-title: Carer's allowance supplement
+title: Carer's Allowance Supplement
 ---

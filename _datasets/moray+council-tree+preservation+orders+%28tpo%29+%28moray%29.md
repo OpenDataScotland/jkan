@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=17aa00fec3f248aa
 records: 92
 resources: []
 schema: default
-title: Tree preservation orders (tpo) (moray)
+title: Tree Preservation Orders (TPO) (Moray)
 ---

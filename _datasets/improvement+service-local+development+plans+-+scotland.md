@@ -79,5 +79,5 @@ resources:
   name: 'Local Development Plans: Polygons '
   url: https://geo.spatialhub.scot/geoserver/sh_ldp/wfs?service=wfs&typeName=sh_ldp:pub_ldppol
 schema: default
-title: Local development plans - scotland
+title: Local Development Plans - Scotland
 ---

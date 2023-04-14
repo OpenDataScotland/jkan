@@ -26,5 +26,5 @@ resources:
   name: Parking Control Zones
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Parking_Control_Zones/FeatureServer/4/query?outFields=*&where=1%3D1
 schema: default
-title: Car parking - stirling
+title: Car Parking - Stirling
 ---

@@ -44,5 +44,5 @@ resources:
   name: Polling Districts
   url: https://mapping.moray.gov.uk/arcgis/services/INSPIRE/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling districts - moray
+title: Polling Districts - Moray
 ---

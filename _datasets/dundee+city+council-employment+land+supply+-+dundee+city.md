@@ -25,5 +25,5 @@ resources:
   name: Employment land table
   url: https://data.spatialhub.scot/dataset/43b7aae0-12a6-4273-ae8f-82b0973e5974/resource/04340527-d220-4fc4-8a1d-b3b77175617e/download/2022-04-04-emp-dundee-table.csv
 schema: default
-title: Employment land supply - dundee city
+title: Employment Land Supply - Dundee City
 ---

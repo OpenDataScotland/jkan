@@ -54,5 +54,5 @@ resources:
   name: Terminations by Deprivation
   url: https://www.opendata.nhs.scot/dataset/15355535-6182-488a-879a-f9f612573173/resource/085c1c13-29ea-4ce3-8a46-798a011970b3/download/terminations_preg_simd_20230405.csv
 schema: default
-title: Covid-19 wider impacts - termination of pregnancy
+title: COVID-19 Wider Impacts - Termination of Pregnancy
 ---

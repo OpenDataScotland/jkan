@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=3b73e8a6bda14a14
 records: 3
 resources: []
 schema: default
-title: Open data - traffic management area
+title: Open Data - Traffic Management Area
 ---

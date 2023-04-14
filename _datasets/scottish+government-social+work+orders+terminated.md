@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-work-orders-termin
 records: null
 resources: []
 schema: default
-title: Social work orders terminated
+title: Social Work Orders Terminated
 ---

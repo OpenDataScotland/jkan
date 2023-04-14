@@ -21,5 +21,5 @@ resources:
   name: GeoJSON for Angus Council Fish Smoking Areas
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_fishsmoking&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus council fish smoking areas
+title: Angus Council Fish Smoking Areas
 ---

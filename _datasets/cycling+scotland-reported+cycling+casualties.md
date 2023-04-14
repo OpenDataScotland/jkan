@@ -14,5 +14,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/6cbb5aa3-f572-4935-9a6d-42d15ee4d567/4/urql
 schema: default
-title: Reported cycling casualties
+title: Reported Cycling Casualties
 ---

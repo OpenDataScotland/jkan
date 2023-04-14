@@ -28,5 +28,5 @@ resources:
   name: Patients Seen by HSCP
   url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/8a430c87-e19f-44dc-9e55-164d570bfc6e/download/open_data_ahp_msk_seen-hscp_december2022.csv
 schema: default
-title: Allied health professionals - musculoskeletal waiting times
+title: Allied Health Professionals - Musculoskeletal Waiting Times
 ---

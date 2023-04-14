@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ae82221d985d4517
 records: 18
 resources: []
 schema: default
-title: Conservation areas (ca)(moray)
+title: Conservation Areas (CA)(Moray)
 ---

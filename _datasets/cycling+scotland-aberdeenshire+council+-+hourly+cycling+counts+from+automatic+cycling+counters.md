@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/4373c5be-42a7-4dd3-8062-9f8b16a4d3f1/1/urql
 schema: default
-title: Aberdeenshire council - hourly cycling counts from automatic cycling counters
+title: Aberdeenshire Council - Hourly cycling counts from automatic cycling counters
 ---

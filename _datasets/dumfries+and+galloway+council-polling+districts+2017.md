@@ -17,5 +17,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/df4ef60a-7ca3-43b8-b433-afd3815f2d04/1/urql
 schema: default
-title: Polling districts 2017
+title: Polling Districts 2017
 ---

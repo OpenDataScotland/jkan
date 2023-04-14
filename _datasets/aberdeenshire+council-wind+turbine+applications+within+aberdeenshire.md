@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/WindTurbineApplications.zip
 schema: default
-title: Wind turbine applications within aberdeenshire
+title: Wind turbine applications within Aberdeenshire
 ---

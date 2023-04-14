@@ -43,5 +43,5 @@ resources:
   name: Polling Places
   url: https://data.spatialhub.scot/dataset/033e1a52-3095-4600-b81d-835d16ac912c/resource/a9cae191-f8b9-40f0-bbe9-f55ba7787481/download/inverclyde-polling-places.zip
 schema: default
-title: Polling places - inverclyde
+title: Polling Places - Inverclyde
 ---

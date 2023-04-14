@@ -11,5 +11,5 @@ original_dataset_link: ' https://find.researchdata.scot/dataset/2001-census'
 records: null
 resources: []
 schema: default
-title: 2001 census
+title: 2001 Census
 ---

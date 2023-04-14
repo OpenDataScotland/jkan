@@ -27,5 +27,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=0e11645746e447f2
 records: 1491
 resources: []
 schema: default
-title: Private water supplies source (moray)
+title: Private Water Supplies Source (Moray)
 ---

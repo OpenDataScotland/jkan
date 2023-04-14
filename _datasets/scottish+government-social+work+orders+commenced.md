@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-work-orders-commen
 records: null
 resources: []
 schema: default
-title: Social work orders commenced
+title: Social Work Orders Commenced
 ---

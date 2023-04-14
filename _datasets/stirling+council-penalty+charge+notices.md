@@ -35,5 +35,5 @@ resources:
   name: 'Penalty Charge Notices: April 2022 to March 2023'
   url: https://data.stirling.gov.uk/dataset/cb5bf6f3-4879-4baa-a7e9-243477d49aab/resource/debe6bcf-0114-497a-85b8-af1b25704efb/download/20230127-stirling-council-penalty-charge-notices-01.04.2022-to-31.03.2023.csv
 schema: default
-title: Penalty charge notices
+title: Penalty Charge Notices
 ---

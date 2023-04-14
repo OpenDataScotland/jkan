@@ -28,5 +28,5 @@ resources:
   name: Industrial Land Supply
   url: https://data.spatialhub.scot/dataset/41914320-6e96-41f1-9ef3-e9f1a7078470/resource/ce6f9cdb-1ef0-497a-bd04-f8904cd5d50b/download/ilsa2020.zip
 schema: default
-title: Employment land supply - glasgow city
+title: Employment Land Supply - Glasgow City
 ---

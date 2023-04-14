@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/e50d2b20-ef95-43fe-bbf0-83224d88e480/resource/e50d2b20-ef95-43fe-bbf0-83224d88e480/download/datadictionary.json
 schema: default
-title: Follow-covid
+title: Follow-COVID
 ---

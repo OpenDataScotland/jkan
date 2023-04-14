@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=400332609a0641e3
 records: 1114
 resources: []
 schema: default
-title: Council register of assets (moray)
+title: Council Register of Assets (Moray)
 ---

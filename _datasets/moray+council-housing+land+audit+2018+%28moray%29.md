@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=cabe9105f3de49b4
 records: 132
 resources: []
 schema: default
-title: Housing land audit 2018 (moray)
+title: Housing Land Audit 2018 (Moray)
 ---
