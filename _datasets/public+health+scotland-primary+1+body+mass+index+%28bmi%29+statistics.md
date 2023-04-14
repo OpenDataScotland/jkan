@@ -73,5 +73,5 @@ resources:
   name: Clinical BMI by Deprivation at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/442bb8f8-7e64-494a-bda2-6f31fa29c2b4/download/od_p1bmi_ca_simd_clin.csv
 schema: default
-title: Primary 1 Body Mass Index (BMI) Statistics
+title: Primary 1 Body Mass Index (Bmi) Statistics
 ---

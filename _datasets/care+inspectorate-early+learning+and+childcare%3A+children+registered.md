@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/early-learning-and-childc
 records: null
 resources: []
 schema: default
-title: 'Early Learning and Childcare: Children Registered'
+title: 'Early Learning And Childcare: Children Registered'
 ---

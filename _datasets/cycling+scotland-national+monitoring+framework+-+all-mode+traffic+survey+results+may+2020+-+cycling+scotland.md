@@ -23,6 +23,6 @@ resources:
     Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b00b0df0-fbdf-47aa-833d-1eea8e7bef50
 schema: default
-title: National Monitoring Framework - all-mode traffic survey results May 2020 -
+title: National Monitoring Framework - All-Mode Traffic Survey Results May 2020 -
   Cycling Scotland
 ---

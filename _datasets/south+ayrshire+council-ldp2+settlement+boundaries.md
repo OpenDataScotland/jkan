@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a4d9c8b46dc149cc
 records: 30
 resources: []
 schema: default
-title: LDP2 Settlement Boundaries
+title: Ldp2 Settlement Boundaries
 ---

@@ -34,5 +34,5 @@ resources:
   name: Smoking Cessation by Deprivation
   url: https://www.opendata.nhs.scot/dataset/cff63b00-5c99-4efd-9ff7-83c4a1a95fe9/resource/25e85a15-c1c4-4cef-9c87-b777beaa3323/download/smoking_cessation_simd_quintile_feb23.csv
 schema: default
-title: NHS Smoking Cessation Service Statistics (Scotland)
+title: Nhs Smoking Cessation Service Statistics (Scotland)
 ---

@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-02-23'
-date_updated: '2023-04-07'
+date_updated: '2023-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within City of Edinburgh
@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b8af3f88-75c5-4470-bcf3-0be9c051b9ef/1/urql
 schema: default
-title: City of Edinburgh Council - Hourly cycling counts from automatic cycling counters
+title: City Of Edinburgh Council - Hourly Cycling Counts From Automatic Cycling Counters
 ---

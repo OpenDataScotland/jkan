@@ -14,6 +14,6 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/John-Kirk-Survey.zip
 schema: default
-title: "John Kirk \u2013 Survey of farms in Golspie and Loth parishes, Sutherland,\
-  \ ca. 1772"
+title: "John Kirk \u2013 Survey Of Farms In Golspie And Loth Parishes, Sutherland,\
+  \ Ca. 1772"
 ---

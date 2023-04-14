@@ -59,5 +59,5 @@ resources:
   name: Method of Delivery by Deprivation
   url: https://www.opendata.nhs.scot/dataset/716b6a6f-1538-4e04-b058-42af9f1c4f44/resource/d1bd0441-c451-4aec-beaf-8506f704efec/download/method_delivery_simd_20230405.csv
 schema: default
-title: COVID-19 Wider Impacts - Method of Delivery
+title: Covid-19 Wider Impacts - Method Of Delivery
 ---

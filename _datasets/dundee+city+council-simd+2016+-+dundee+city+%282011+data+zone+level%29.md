@@ -57,5 +57,5 @@ resources:
   name: SIMD 2016 - Rank to Quintile, Decile & Vigintile
   url: https://data.dundeecity.gov.uk/dataset/317dae57-3c60-4d22-8a0b-b72a9efd2b74/resource/46ad9097-50d6-4064-bc3e-526527aac8d5/download/simd2016_ranks_information.xlsx
 schema: default
-title: SIMD 2016 - Dundee City (2011 Data Zone Level)
+title: Simd 2016 - Dundee City (2011 Data Zone Level)
 ---

@@ -13,8 +13,8 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: PDF
-  name: AttitudesBehaviours_results_2021_CyclingScotland_USMaster.pdf.pdf
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=61b8068b-686b-45f1-83a6-5047518203f7
+  name: AttitudesBehaviours_results_2019_CyclingScotland_USMaster.pdf
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e24e7007-b160-48cc-9711-37dfe53ed6b7
 schema: default
-title: Attitudes and behaviours towards cycling in Scotland - Cycling Scotland
+title: Attitudes And Behaviours Towards Cycling In Scotland - Cycling Scotland
 ---

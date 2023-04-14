@@ -2,11 +2,13 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2023-04-06'
+date_updated: '2023-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This data resource shows the latest published vaccination statistics from
-  the Flu and COVID-19 vaccination uptake in Scotland dashboard within <a href="https://publichealthscotland.scot/publications/show-all-releases?id=20580">the
+notes: <p>Updates to Open Data are now paused. The next update to this dashboard will
+  incorporate COVID-19 Spring 2023 reporting in the coming weeks.\r\n\r\nThis data
+  resource shows the latest published vaccination statistics from the Flu and COVID-19
+  vaccination uptake in Scotland dashboard within <a href="https://publichealthscotland.scot/publications/show-all-releases?id=20580">the
   weekly report</a></p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/flu-covid-vaccinations
@@ -40,5 +42,5 @@ resources:
   name: Flu - eligible uptake
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ae1cd4fd-5658-47b5-8e0a-2274627682d5/download/weekly_flu_vacc_eligible_uptake_hb_20230406.csv
 schema: default
-title: Flu & COVID vaccinations
+title: Flu & Covid Vaccinations
 ---

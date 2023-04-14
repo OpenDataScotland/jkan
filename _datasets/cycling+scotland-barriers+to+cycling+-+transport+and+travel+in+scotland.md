@@ -14,5 +14,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/199df168-e705-41f2-925a-f0c8cbd2031b/1/urql
 schema: default
-title: Barriers to cycling - Transport and Travel in Scotland
+title: Barriers To Cycling - Transport And Travel In Scotland
 ---

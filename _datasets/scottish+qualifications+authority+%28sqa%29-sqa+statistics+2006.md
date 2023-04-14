@@ -56,5 +56,5 @@ resources:
   name: Post-Appeals Data 2006
   url: https://www.sqa.org.uk/files_ccc/Post-Appeal2006.xls
 schema: default
-title: SQA Statistics 2006
+title: Sqa Statistics 2006
 ---

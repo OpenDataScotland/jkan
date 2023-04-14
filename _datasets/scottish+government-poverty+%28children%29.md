@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/poverty-children
 records: null
 resources: []
 schema: default
-title: Poverty (children)
+title: Poverty (Children)
 ---

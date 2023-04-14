@@ -42,5 +42,5 @@ resources:
   name: A&E Cardiovascular Activity By Deprivation
   url: https://www.opendata.nhs.scot/dataset/b501f1cb-ff4b-48c0-9099-cd59dc02a36b/resource/cc2077e8-233f-4793-9e89-06a8380bc33e/download/ae_cardio_data_simd_20230405.csv
 schema: default
-title: COVID-19 Wider Impacts - Cardiovascular Activity
+title: Covid-19 Wider Impacts - Cardiovascular Activity
 ---

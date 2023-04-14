@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Food and Environment
 date_created: '2022-09-29'
-date_updated: '2023-04-06'
+date_updated: '2023-04-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Low Emissions Zone Boundary. A Low Emission Zone is an area where a person

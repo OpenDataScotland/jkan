@@ -7,7 +7,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-16'
-date_updated: '2023-02-21'
+date_updated: '2023-04-13'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Greenspace Scotland
 notes: "<p>All GHiGs datasets cover the whole of Scotland and have been derived by\
@@ -156,5 +156,5 @@ resources:
   name: 'GHiGs Settlements by Local Authority '
   url: https://geo.spatialhub.scot/geoserver/ext_ghigs/wfs?service=wfs&typeName=ext_ghigs:pub_ghigs-stlmnt-la
 schema: default
-title: Green Heat in Greenspaces - Scotland
+title: Green Heat In Greenspaces - Scotland
 ---

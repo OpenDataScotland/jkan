@@ -49,5 +49,5 @@ resources:
   name: NHS24 Contacts By HSCP and Deprivation
   url: https://www.opendata.nhs.scot/dataset/bd2f60a2-6008-49fa-b8ce-de5802dc9355/resource/237ea289-7c55-403a-bdda-338b3a26ee4a/download/nhs24_hscp_simd_20230405.csv
 schema: default
-title: COVID-19 Wider Impacts - Contacts with NHS 24
+title: Covid-19 Wider Impacts - Contacts With Nhs 24
 ---

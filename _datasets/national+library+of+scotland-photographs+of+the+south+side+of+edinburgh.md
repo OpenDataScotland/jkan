@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Photographs-Southside-Edinburgh.zip
 schema: default
-title: Photographs of the South Side of Edinburgh
+title: Photographs Of The South Side Of Edinburgh
 ---

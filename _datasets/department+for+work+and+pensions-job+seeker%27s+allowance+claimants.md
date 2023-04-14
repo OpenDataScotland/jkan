@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/job-seekers-allowance
 records: null
 resources: []
 schema: default
-title: Job Seeker's Allowance Claimants
+title: Job Seeker'S Allowance Claimants
 ---

@@ -30,5 +30,5 @@ resources:
   name: CemeteryLocations_spreadsheet.xlsx
   url: https://data.aberdeencity.gov.uk/dataset/ebced524-379a-4282-893d-e3bff180ddd8/resource/3ed677ce-c456-4df5-b4f5-1ee30fce5921/download/cemeterylocations_spreadsheet.xlsx
 schema: default
-title: Cemeteries and Burial Grounds
+title: Cemeteries And Burial Grounds
 ---

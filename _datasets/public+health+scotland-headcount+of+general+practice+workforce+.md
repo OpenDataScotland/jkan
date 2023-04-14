@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/headcount-of-general-prac
 records: null
 resources: []
 schema: default
-title: 'Headcount of General Practice Workforce '
+title: 'Headcount Of General Practice Workforce '
 ---

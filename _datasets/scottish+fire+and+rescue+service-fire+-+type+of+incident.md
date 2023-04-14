@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/fire---type-of-incident
 records: null
 resources: []
 schema: default
-title: Fire - Type of Incident
+title: Fire - Type Of Incident
 ---

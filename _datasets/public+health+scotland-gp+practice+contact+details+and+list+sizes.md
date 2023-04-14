@@ -113,5 +113,5 @@ resources:
   name: GP Practices and List sizes January 2015
   url: https://www.opendata.nhs.scot/dataset/f23655c3-6e23-4103-a511-a80d998adb90/resource/ea7cb2c6-3e64-4ca9-8023-4c6ac1e9757d/download/gppractices20150101.csv
 schema: default
-title: GP Practice Contact Details and List Sizes
+title: Gp Practice Contact Details And List Sizes
 ---

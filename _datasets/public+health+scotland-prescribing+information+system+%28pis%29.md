@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/b5ecf3e9-f910-4713-81e0-acd3ca6c1cd9/resource/22e3943e-edb5-44a1-9e4e-22b0f7a31767/download/datadictionary.json
 schema: default
-title: Prescribing Information System (PIS)
+title: Prescribing Information System (Pis)
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/poverty-working-age-adult
 records: null
 resources: []
 schema: default
-title: Poverty (working age adults)
+title: Poverty (Working Age Adults)
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/adult-disability-payment-
 records: null
 resources: []
 schema: default
-title: 'Adult Disability Payment: Applications and Payments'
+title: 'Adult Disability Payment: Applications And Payments'
 ---

@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-09-04'
-date_updated: '2023-04-07'
+date_updated: '2023-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within Perth and Kinross
@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f37ce11c-745a-4fae-8b3c-47eaa2905900/1/urql
 schema: default
-title: Perth and Kinross Council - Hourly cycling counts from automatic cycling counters
+title: Perth And Kinross Council - Hourly Cycling Counts From Automatic Cycling Counters
 ---

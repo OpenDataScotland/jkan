@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/children-in-low-income-fa
 records: null
 resources: []
 schema: default
-title: Children in Low Income Families
+title: Children In Low Income Families
 ---

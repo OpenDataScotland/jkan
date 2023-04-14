@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/attainment-by-deprivation
 records: null
 resources: []
 schema: default
-title: Schools - Attainment by Deprivation
+title: Schools - Attainment By Deprivation
 ---

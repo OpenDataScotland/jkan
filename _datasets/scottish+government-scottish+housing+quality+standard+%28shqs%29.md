@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/shqs
 records: null
 resources: []
 schema: default
-title: Scottish Housing Quality Standard (SHQS)
+title: Scottish Housing Quality Standard (Shqs)
 ---

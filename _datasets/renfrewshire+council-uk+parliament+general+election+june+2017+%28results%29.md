@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=5e81f9e2f68843c1
 records: 9
 resources: []
 schema: default
-title: UK Parliament General Election June 2017 (results)
+title: Uk Parliament General Election June 2017 (Results)
 ---

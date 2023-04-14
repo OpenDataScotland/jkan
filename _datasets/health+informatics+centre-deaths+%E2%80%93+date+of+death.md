@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/faf2fc49-d09f-4ea2-a2cb-b1d30fffa406/resource/faf2fc49-d09f-4ea2-a2cb-b1d30fffa406/download/datadictionary.json
 schema: default
-title: "Deaths \u2013 Date of Death"
+title: "Deaths \u2013 Date Of Death"
 ---

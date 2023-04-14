@@ -15,5 +15,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/adopted-core-paths.kmz
 schema: default
-title: Adopted core paths
+title: Adopted Core Paths
 ---

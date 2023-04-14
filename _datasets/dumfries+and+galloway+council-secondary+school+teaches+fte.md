@@ -17,5 +17,5 @@ resources:
   name: Secondary School Teaches FTE.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=c0002a4b-37c9-49e2-8725-1dd44734b349
 schema: default
-title: Secondary School Teaches FTE
+title: Secondary School Teaches Fte
 ---

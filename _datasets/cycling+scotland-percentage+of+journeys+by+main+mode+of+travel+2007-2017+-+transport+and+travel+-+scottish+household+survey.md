@@ -24,6 +24,6 @@ resources:
     - Scottish Household Survey.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=48559fa7-126e-4d5a-9f5f-4ded9ca4d30f
 schema: default
-title: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
+title: Percentage Of Journeys By Main Mode Of Travel 2007-2017 - Transport And Travel
   - Scottish Household Survey
 ---

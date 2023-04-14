@@ -27,5 +27,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-7-natural-environment-see-figure-14-of-the-plan.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: CDP 7 - Natural Environment (see figure 14 of The Plan)
+title: Cdp 7 - Natural Environment (See Figure 14 Of The Plan)
 ---

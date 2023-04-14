@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_primary_school_locations.kmz
 schema: default
-title: Primary school locations within Aberdeenshire
+title: Primary School Locations Within Aberdeenshire
 ---

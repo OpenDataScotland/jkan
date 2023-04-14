@@ -24,6 +24,6 @@ resources:
     2018 - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f255f058-4237-42a4-8ddf-e88d2627ae66
 schema: default
-title: National Monitoring Framework - all-mode traffic survey results September 2018
+title: National Monitoring Framework - All-Mode Traffic Survey Results September 2018
   - Cycling Scotland
 ---

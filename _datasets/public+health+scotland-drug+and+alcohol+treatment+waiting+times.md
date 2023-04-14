@@ -38,5 +38,5 @@ resources:
   name: 'Treatment Types '
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/e754eb67-db9e-4193-94f8-fc44172db68e/download/treatmenttypesdata-31-12-2022.csv
 schema: default
-title: Drug and Alcohol Treatment Waiting Times
+title: Drug And Alcohol Treatment Waiting Times
 ---

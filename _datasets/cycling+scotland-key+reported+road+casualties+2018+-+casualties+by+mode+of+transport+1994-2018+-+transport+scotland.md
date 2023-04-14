@@ -14,6 +14,6 @@ resources:
   name: ReportedRoadCasualties_1994-2018_TransportScotland_USMaster.xlsx
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c4dc777f-1945-4f9f-95ae-beda8f3eb92d
 schema: default
-title: Key Reported Road Casualties 2018 - Casualties by mode of transport 1994-2018
+title: Key Reported Road Casualties 2018 - Casualties By Mode Of Transport 1994-2018
   - Transport Scotland
 ---

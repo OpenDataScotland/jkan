@@ -48,5 +48,5 @@ resources:
   name: TPOs
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Planning/Planning/MapServer/7
 schema: default
-title: Tree Preservation Orders - City of Edinburgh
+title: Tree Preservation Orders - City Of Edinburgh
 ---

@@ -27,5 +27,5 @@ resources:
   name: Gritting routes
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Gritting Routes - City of Edinburgh
+title: Gritting Routes - City Of Edinburgh
 ---

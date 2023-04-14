@@ -14,5 +14,5 @@ resources:
   name: UK/TRANSCRIPTIONS/EDINBURGH/VIEWER/INFORMATION/#DOWNLOAD
   url: https://maps.nls.uk/transcriptions/edinburgh/viewer/information/#download
 schema: default
-title: Edinburgh OS 25 inch transcriptions
+title: Edinburgh Os 25 Inch Transcriptions
 ---

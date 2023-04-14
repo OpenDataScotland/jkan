@@ -26,5 +26,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-4-network-of-centres.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: CDP 4 - Network of Centres
+title: Cdp 4 - Network Of Centres
 ---

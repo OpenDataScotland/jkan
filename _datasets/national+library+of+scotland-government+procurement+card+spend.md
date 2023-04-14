@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/organisational-data/Government-Procurement-Card-Spend.zip
 schema: default
-title: Government Procurement Card spend
+title: Government Procurement Card Spend
 ---

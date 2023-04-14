@@ -76,5 +76,5 @@ resources:
   name: 'Stirling Council SAPE Mid-2021: All Persons'
   url: https://data.stirling.gov.uk/dataset/453375fb-3268-422b-9ca2-dc2164339ec3/resource/f292f707-4914-4bdf-a9ca-b2f28a7e3a7d/download/20220905-stirling-council-sape-mid-2021-all-persons.csv
 schema: default
-title: 'NRS: Small Area Population Estimates'
+title: 'Nrs: Small Area Population Estimates'
 ---

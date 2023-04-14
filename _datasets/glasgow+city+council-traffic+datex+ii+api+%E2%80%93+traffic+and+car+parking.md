@@ -23,5 +23,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=55c36a318b3a0306f0009483&operation=563cea91aab82f1168298575
 schema: default
-title: "Traffic DATEX II API \u2013 Traffic and car parking"
+title: "Traffic Datex Ii Api \u2013 Traffic And Car Parking"
 ---

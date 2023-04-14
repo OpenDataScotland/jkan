@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=b0b58021aad34051
 records: 10
 resources: []
 schema: default
-title: ScotRail Station Facilities
+title: Scotrail Station Facilities
 ---

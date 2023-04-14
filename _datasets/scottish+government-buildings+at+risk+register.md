@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/buildings-at-risk-registe
 records: null
 resources: []
 schema: default
-title: Buildings at Risk Register
+title: Buildings At Risk Register
 ---

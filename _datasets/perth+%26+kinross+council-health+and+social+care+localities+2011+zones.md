@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/003fea1f0d514df689ecd42f6bba7c46_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Health and Social Care Localities 2011 Zones
+title: Health And Social Care Localities 2011 Zones
 ---

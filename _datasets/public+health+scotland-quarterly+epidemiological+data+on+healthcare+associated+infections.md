@@ -21,5 +21,5 @@ resources:
   name: Quarterly Epidemiological Data
   url: https://www.opendata.nhs.scot/dataset/e8d82157-1870-4458-9dc0-0e17e113e6c1/resource/6d30b0c0-bdcf-4721-9d5c-bd7967c11bac/download/hai_quarterly_epi_od_2022_q4.csv
 schema: default
-title: Quarterly Epidemiological Data on Healthcare Associated Infections
+title: Quarterly Epidemiological Data On Healthcare Associated Infections
 ---

@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2020-07-23'
-date_updated: '2023-04-07'
+date_updated: '2023-04-14'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Transportation Improvements (TSP) (Moray)</p>
@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=7db5160f51bb4215
 records: 169
 resources: []
 schema: default
-title: Local Development Plan 2020 Transportation Improvements (TSP) (Moray)
+title: Local Development Plan 2020 Transportation Improvements (Tsp) (Moray)
 ---

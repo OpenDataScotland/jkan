@@ -18,5 +18,5 @@ resources:
   name: OS open data products as linked data
   url: http://data.ordnancesurvey.co.uk/
 schema: default
-title: OS Linked Data
+title: Os Linked Data
 ---

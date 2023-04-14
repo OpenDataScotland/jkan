@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/232c528c-48b5-4ff5-8119-5e9340bdc167/resource/232c528c-48b5-4ff5-8119-5e9340bdc167/download/datadictionary.json
 schema: default
-title: SHARE
+title: Share
 ---

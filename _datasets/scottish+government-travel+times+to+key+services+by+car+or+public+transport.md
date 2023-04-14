@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/travel-times
 records: null
 resources: []
 schema: default
-title: Travel times to key services by car or public transport
+title: Travel Times To Key Services By Car Or Public Transport
 ---

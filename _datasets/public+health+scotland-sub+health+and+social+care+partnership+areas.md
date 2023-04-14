@@ -89,5 +89,5 @@ resources:
   name: Western Isles HSCP Sub Areas
   url: https://www.opendata.nhs.scot/dataset/d2a3f6a1-10d3-4210-afb1-2c4845afdc2f/resource/f8d2c4f7-d420-4c57-a15f-2d5fc80a75b2/download/western-isles-hscp-areas.csv
 schema: default
-title: Sub Health and Social Care Partnership Areas
+title: Sub Health And Social Care Partnership Areas
 ---

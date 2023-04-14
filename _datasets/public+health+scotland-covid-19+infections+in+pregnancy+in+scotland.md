@@ -70,5 +70,5 @@ resources:
   name: Number and Rate of Positive COVID-19 Cases in Pregnancy By Health Board
   url: https://www.opendata.nhs.scot/dataset/9251a154-84b2-498d-b59c-646cab588e9f/resource/2dca5eb6-8d9f-4931-b72b-1bdd1366febc/download/case_rate_hb_20211006.csv
 schema: default
-title: COVID-19 Infections in Pregnancy in Scotland
+title: Covid-19 Infections In Pregnancy In Scotland
 ---

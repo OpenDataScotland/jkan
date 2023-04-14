@@ -150,5 +150,5 @@ resources:
   name: October 2022 to December 2022
   url: https://data.stirling.gov.uk/dataset/bdbe286e-6037-4ebb-80c3-af3933631774/resource/1544b603-156d-427c-b02b-aa126a70ac64/download/20230116-stirling-council-foisa-notices-orders-oct-2022-to-dec-2022.csv
 schema: default
-title: 'FOISA: Notices & Orders'
+title: 'Foisa: Notices & Orders'
 ---

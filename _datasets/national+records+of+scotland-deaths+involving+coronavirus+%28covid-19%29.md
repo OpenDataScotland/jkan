@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: ''
-date_updated: '2023-04-06'
+date_updated: '2023-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>The weekly, and year to date, provisional number of deaths associated with
@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/deaths-involving-coronavi
 records: null
 resources: []
 schema: default
-title: Deaths involving coronavirus (COVID-19)
+title: Deaths Involving Coronavirus (Covid-19)
 ---

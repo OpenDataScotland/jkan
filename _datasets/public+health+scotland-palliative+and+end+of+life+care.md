@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/end-of-life-care
 records: null
 resources: []
 schema: default
-title: Palliative and End of Life Care
+title: Palliative And End Of Life Care
 ---

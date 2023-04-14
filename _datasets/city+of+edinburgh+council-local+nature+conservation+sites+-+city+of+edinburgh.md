@@ -25,5 +25,5 @@ resources:
   name: Local Nature Conservation Sites
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Local Nature Conservation Sites - City of Edinburgh
+title: Local Nature Conservation Sites - City Of Edinburgh
 ---

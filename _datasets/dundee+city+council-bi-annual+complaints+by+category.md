@@ -16,5 +16,5 @@ resources:
   name: 'Complaints by Nature Time Series Data '
   url: https://data.dundeecity.gov.uk/dataset/41e1205d-ab77-49cb-ae49-941a2e964269/resource/4608b93b-bb4f-400d-a11c-5f1e7a92bc4c/download/complaints_by_nature_timeseries_sept2022.csv
 schema: default
-title: Bi-annual complaints by category
+title: Bi-Annual Complaints By Category
 ---

@@ -23,5 +23,5 @@ resources:
   name: 'NHS Hospitals '
   url: https://geo.spatialhub.scot/geoserver/sh_hosp/wfs?service=wfs&typeName=sh_hosp:pub_hosp
 schema: default
-title: NHS Hospitals - Scotland
+title: Nhs Hospitals - Scotland
 ---

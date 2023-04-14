@@ -40,5 +40,5 @@ resources:
   name: Images of the James McBey Collection
   url: http://www.aagm.co.uk/TheCollections/BasicSearch.aspx?dosearch=y&Artists=McBey+James+LLD&Title=&chat=
 schema: default
-title: James McBey Archive
+title: James Mcbey Archive
 ---

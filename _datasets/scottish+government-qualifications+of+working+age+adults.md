@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/qualifications-working-ag
 records: null
 resources: []
 schema: default
-title: Qualifications of working age adults
+title: Qualifications Of Working Age Adults
 ---

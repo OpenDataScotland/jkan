@@ -21,6 +21,6 @@ resources:
   name: Bikeability_Level1and2_201819_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=21710091-2919-4f96-8c1e-3eb8940e955b
 schema: default
-title: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2018/19
+title: Bikeability Scotland - Schools Delivering Level 1 And/Or Level 2 - 2018/19
   - Cycling Scotland
 ---

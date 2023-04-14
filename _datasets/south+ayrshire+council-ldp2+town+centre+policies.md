@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=b12aeb6748a74b23
 records: 34
 resources: []
 schema: default
-title: LDP2 Town Centre Policies
+title: Ldp2 Town Centre Policies
 ---

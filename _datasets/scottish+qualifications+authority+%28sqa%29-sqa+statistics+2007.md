@@ -86,5 +86,5 @@ resources:
   name: Post-Appeals National Qualification Results 2007
   url: https://www.sqa.org.uk/sqa/files_ccc/Post-Appeals_National_Qualification_Results2007.xls
 schema: default
-title: SQA Statistics 2007
+title: Sqa Statistics 2007
 ---

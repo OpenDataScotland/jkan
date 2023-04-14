@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/historical-population-est
 records: null
 resources: []
 schema: default
-title: Historical Population Estimates (pre-2001, historical geographic boundaries)
+title: Historical Population Estimates (Pre-2001, Historical Geographic Boundaries)
 ---

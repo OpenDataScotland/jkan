@@ -57,5 +57,5 @@ resources:
   name: Country
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/9c6e6c56-2697-4184-92c6-60d69c2b6792/download/geography_codes_and_labels_country.csv
 schema: default
-title: Geography Codes and Labels
+title: Geography Codes And Labels
 ---

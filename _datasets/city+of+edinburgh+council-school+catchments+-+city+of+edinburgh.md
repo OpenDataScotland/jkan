@@ -47,5 +47,5 @@ resources:
   name: Edinburgh School Catchments
   url: https://data.spatialhub.scot/dataset/90e092d9-7d13-4694-9cef-0b59b33a393a/resource/57485782-a90f-4674-a7fd-365975a95f38/download/edinburgh-school-catchments-20190131.zip
 schema: default
-title: School Catchments - City of Edinburgh
+title: School Catchments - City Of Edinburgh
 ---

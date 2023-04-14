@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_local_nature_reserves.kmz
 schema: default
-title: Local nature reserves within Aberdeenshire
+title: Local Nature Reserves Within Aberdeenshire
 ---

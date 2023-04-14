@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/49e63323-e564-48ac-9f11-cf77bf0fe20b/resource/49e63323-e564-48ac-9f11-cf77bf0fe20b/download/datadictionary.json
 schema: default
-title: "Tayside & Fife Diabetes \u2013 Summary and a range of diabetes related datasets."
+title: "Tayside & Fife Diabetes \u2013 Summary And A Range Of Diabetes Related Datasets."
 ---

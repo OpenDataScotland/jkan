@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-stocks-and-sites
 records: null
 resources: []
 schema: default
-title: Business Stocks and Sites by Urban Rural Classification
+title: Business Stocks And Sites By Urban Rural Classification
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8a8b11caebdb4c51
 records: 2
 resources: []
 schema: default
-title: LDP2 Belleisle Rozelle Policy Area
+title: Ldp2 Belleisle Rozelle Policy Area
 ---

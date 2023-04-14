@@ -17,5 +17,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-metadata-gdd.zip
 schema: default
-title: Aggregated dataset of digitised texts from the GDD project
+title: Aggregated Dataset Of Digitised Texts From The Gdd Project
 ---

@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/land-and-buildings-transa
 records: null
 resources: []
 schema: default
-title: Land and Buildings Transaction Tax Revenues
+title: Land And Buildings Transaction Tax Revenues
 ---

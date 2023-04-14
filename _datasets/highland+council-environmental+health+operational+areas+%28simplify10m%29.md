@@ -32,5 +32,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/1927bede99ea4e66b3e5ea9b851bd483_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Environmental Health Operational Areas (simplify10m)
+title: Environmental Health Operational Areas (Simplify10M)
 ---

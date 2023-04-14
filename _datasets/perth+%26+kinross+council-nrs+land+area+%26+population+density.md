@@ -25,5 +25,5 @@ resources:
   name: Mid-year Land Area & Population Density Estimates 2000-2020
   url: https://data.pkc.gov.uk/dataset/05868ec0-8900-4221-bfe2-6d084e75e343/resource/012b585f-d5cd-43b1-8e72-18df897915f6/download/midyearpopulationdensitypkc2000-2020.csv
 schema: default
-title: NRS Land Area & Population Density
+title: Nrs Land Area & Population Density
 ---

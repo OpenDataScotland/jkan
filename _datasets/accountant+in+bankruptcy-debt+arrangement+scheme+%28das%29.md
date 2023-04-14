@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/debt-arrangement-scheme-d
 records: null
 resources: []
 schema: default
-title: Debt Arrangement Scheme (DAS)
+title: Debt Arrangement Scheme (Das)
 ---

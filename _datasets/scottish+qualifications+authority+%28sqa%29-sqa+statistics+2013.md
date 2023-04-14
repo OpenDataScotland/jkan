@@ -104,5 +104,5 @@ resources:
   name: 'Post-Appeals National Qualification Results 2013 (Published 6 Dec 2013) '
   url: https://www.sqa.org.uk/sqa/files_ccc/Post-Appeal_National_Qualification_Course_and_Awards_Result_Statistics_2013.xls
 schema: default
-title: SQA Statistics 2013
+title: Sqa Statistics 2013
 ---

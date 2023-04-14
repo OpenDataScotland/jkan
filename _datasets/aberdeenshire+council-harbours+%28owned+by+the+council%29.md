@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/harbours.kmz
 schema: default
-title: Harbours (owned by the council)
+title: Harbours (Owned By The Council)
 ---

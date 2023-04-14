@@ -47,5 +47,5 @@ resources:
   name: SIMD 2004
   url: https://www.opendata.nhs.scot/dataset/78d41fa9-1a62-4f7b-9edb-3e8522a93378/resource/a97fca71-ebbb-4897-a611-88024a76ff21/download/simd2004_02042020.csv
 schema: default
-title: Scottish Index of Multiple Deprivation (Population Weighted)
+title: Scottish Index Of Multiple Deprivation (Population Weighted)
 ---

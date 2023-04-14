@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/adults-16-64-years-with-l
 records: null
 resources: []
 schema: default
-title: Adults (16-64 years) with low or no qualifications
+title: Adults (16-64 Years) With Low Or No Qualifications
 ---

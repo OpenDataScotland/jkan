@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=000b32d31a22485d
 records: 174
 resources: []
 schema: default
-title: Situation of Polling Stations
+title: Situation Of Polling Stations
 ---

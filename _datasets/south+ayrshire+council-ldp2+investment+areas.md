@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=c92b6df6f64f4c85
 records: 3
 resources: []
 schema: default
-title: LDP2 Investment Areas
+title: Ldp2 Investment Areas
 ---

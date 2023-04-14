@@ -47,5 +47,5 @@ resources:
   name: Publication Notes
   url: https://www.opendata.nhs.scot/dataset/d73b93ab-b09f-4d39-9cfb-0e5e34085803/resource/a15a1878-3203-4506-90ac-586bd672545d/download/notes.csv
 schema: default
-title: Inpatient and Day Case Activity
+title: Inpatient And Day Case Activity
 ---

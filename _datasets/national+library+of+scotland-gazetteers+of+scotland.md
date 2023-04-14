@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-gazetteersOfScotland.zip
 schema: default
-title: Gazetteers of Scotland
+title: Gazetteers Of Scotland
 ---

@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/input-output
 records: null
 resources: []
 schema: default
-title: Supply, Use and Input-Output Tables
+title: Supply, Use And Input-Output Tables
 ---

@@ -62,5 +62,5 @@ resources:
   name: Table QS701SC - Method of Travel to work
   url: https://data.dundeecity.gov.uk/dataset/0803da75-95d1-458b-868a-da028d10406d/resource/10bc34db-7e7f-4278-9ef5-2a697adea8ad/download/tritresearchsupportadviceaboutdundeeaboutdundee2019open_data_extractsqs701sc.csv
 schema: default
-title: NRS 2011 Census - Dundee City Level Data
+title: Nrs 2011 Census - Dundee City Level Data
 ---

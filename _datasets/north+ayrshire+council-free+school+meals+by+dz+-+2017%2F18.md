@@ -125,5 +125,5 @@ resources:
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Free School Meals by DZ - 2017/18
+title: Free School Meals By Dz - 2017/18
 ---

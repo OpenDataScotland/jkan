@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/job-start-payment-applica
 records: null
 resources: []
 schema: default
-title: 'Job Start Payment: Applications and Payments'
+title: 'Job Start Payment: Applications And Payments'
 ---

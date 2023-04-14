@@ -28,5 +28,5 @@ resources:
   name: SIMD 2020 v2.2 Data for Stirling
   url: https://data.stirling.gov.uk/dataset/41f3da13-b458-4e31-88a3-501bc684ee61/resource/f845c639-73ba-4809-ae65-2f12f8186659/download/20210805-simd-2020-v2.2-data-for-stirling.csv
 schema: default
-title: Scottish Index of Multiple Deprivation (SIMD) 2020
+title: Scottish Index Of Multiple Deprivation (Simd) 2020
 ---

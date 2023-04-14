@@ -21,5 +21,5 @@ resources:
   name: Temporary CCTV Locations
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Safety Features - City of Edinburgh
+title: Safety Features - City Of Edinburgh
 ---

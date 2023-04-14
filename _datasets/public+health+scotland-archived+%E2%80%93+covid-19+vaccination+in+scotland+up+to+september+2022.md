@@ -105,5 +105,5 @@ resources:
   name: JCVI Priority Group Definitions
   url: https://www.opendata.nhs.scot/dataset/6dbdd466-45e3-4348-9ee3-1eac72b5a592/resource/29e8ab8e-065a-4f92-ab70-4371d757633b/download/jcvi-table_20220201.xlsx
 schema: default
-title: "ARCHIVED \u2013 COVID-19 Vaccination in Scotland up to September 2022"
+title: "Archived \u2013 Covid-19 Vaccination In Scotland Up To September 2022"
 ---

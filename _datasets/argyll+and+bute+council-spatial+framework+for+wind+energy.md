@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2078db2e07f54b38
 records: 4
 resources: []
 schema: default
-title: Spatial Framework for Wind Energy
+title: Spatial Framework For Wind Energy
 ---

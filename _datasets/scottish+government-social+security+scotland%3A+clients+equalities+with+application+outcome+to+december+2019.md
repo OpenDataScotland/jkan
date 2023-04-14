@@ -13,6 +13,6 @@ original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-
 records: null
 resources: []
 schema: default
-title: 'Social Security Scotland: clients equalities with application outcome to December
+title: 'Social Security Scotland: Clients Equalities With Application Outcome To December
   2019'
 ---

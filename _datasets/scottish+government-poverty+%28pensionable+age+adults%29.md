@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/poverty-pensionable-age-a
 records: null
 resources: []
 schema: default
-title: Poverty (pensionable age adults)
+title: Poverty (Pensionable Age Adults)
 ---

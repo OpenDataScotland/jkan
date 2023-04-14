@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/poverty-all-people
 records: null
 resources: []
 schema: default
-title: Poverty (all people)
+title: Poverty (All People)
 ---

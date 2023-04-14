@@ -32,5 +32,5 @@ resources:
   name: Article 4 directions
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Article 4 Directions - City of Edinburgh
+title: Article 4 Directions - City Of Edinburgh
 ---

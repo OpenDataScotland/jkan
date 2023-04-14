@@ -47,5 +47,5 @@ resources:
   name: Deaths By Deprivation
   url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/98648584-4a34-4374-832c-d3f50b6edd80/download/deaths_hb_simd_20230405.csv
 schema: default
-title: COVID-19 Wider Impacts - Excess Deaths
+title: Covid-19 Wider Impacts - Excess Deaths
 ---

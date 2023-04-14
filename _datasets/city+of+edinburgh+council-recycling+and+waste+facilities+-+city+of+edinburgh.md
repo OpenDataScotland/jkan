@@ -21,5 +21,5 @@ resources:
   name: Landfill CEC derived
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Recycling And Waste Facilities - City of Edinburgh
+title: Recycling And Waste Facilities - City Of Edinburgh
 ---

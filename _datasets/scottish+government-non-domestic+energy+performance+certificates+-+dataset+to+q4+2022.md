@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/non-domestic-energy-perfo
 records: null
 resources: []
 schema: default
-title: Non-domestic Energy Performance Certificates - Dataset to Q4 2022
+title: Non-Domestic Energy Performance Certificates - Dataset To Q4 2022
 ---

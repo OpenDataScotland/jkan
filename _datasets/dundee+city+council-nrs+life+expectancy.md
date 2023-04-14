@@ -31,5 +31,5 @@ resources:
   name: NRS 2019-2021 Life Expectancy at Birth Dundee City
   url: https://data.dundeecity.gov.uk/dataset/f82ec521-1147-4a95-8323-5b24bb52d546/resource/2fe76f54-c80e-4963-bc2d-2ab2ff321de9/download/nrs_life_expectancy_dundee_2019_2021.csv
 schema: default
-title: NRS Life Expectancy
+title: Nrs Life Expectancy
 ---

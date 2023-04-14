@@ -16,5 +16,5 @@ resources:
   name: Areas of Special Control
   url: https://opendata-dundeecity.hub.arcgis.com/datasets/dundeecity::area-of-special-control/about
 schema: default
-title: Area of Special Control
+title: Area Of Special Control
 ---

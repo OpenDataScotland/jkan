@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/p1-reviews
 records: null
 resources: []
 schema: default
-title: Primary 1 BMI Distribution
+title: Primary 1 Bmi Distribution
 ---

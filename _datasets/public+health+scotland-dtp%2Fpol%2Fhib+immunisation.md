@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/dtp-pol-hib-uptake-by-24-
 records: null
 resources: []
 schema: default
-title: DTP/Pol/Hib Immunisation
+title: Dtp/Pol/Hib Immunisation
 ---

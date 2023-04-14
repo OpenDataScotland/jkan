@@ -38,5 +38,5 @@ resources:
   name: Young People Living in Income Deprivation
   url: https://data.stirling.gov.uk/dataset/fc8f95c7-84d9-44ec-ab6d-26c4f09f8fc2/resource/43acfce9-b5e6-4bec-880d-06c73446bd81/download/20221007-stirling-council-young-people-living-in-income-deprivation-.csv
 schema: default
-title: 'ScotPHO: Young People Living In Income Deprivation'
+title: 'Scotpho: Young People Living In Income Deprivation'
 ---

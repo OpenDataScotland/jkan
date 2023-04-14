@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Robert-and-James-Gordon-Manuscript-Maps.zip
 schema: default
-title: Manuscript maps by Robert and James Gordon circa 1636-1652
+title: Manuscript Maps By Robert And James Gordon Circa 1636-1652
 ---

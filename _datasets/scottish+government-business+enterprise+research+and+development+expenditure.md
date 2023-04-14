@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-enterprise-resea
 records: null
 resources: []
 schema: default
-title: Business Enterprise Research and Development Expenditure
+title: Business Enterprise Research And Development Expenditure
 ---

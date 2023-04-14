@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-handbooks.zip
 schema: default
-title: Britain and UK Handbooks
+title: Britain And Uk Handbooks
 ---

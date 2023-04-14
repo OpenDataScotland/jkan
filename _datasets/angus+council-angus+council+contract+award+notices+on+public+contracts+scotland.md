@@ -16,5 +16,5 @@ resources:
   name: Angus Council profile on Public Contract Scotland website
   url: http://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00236
 schema: default
-title: Angus Council Contract Award Notices on Public Contracts Scotland
+title: Angus Council Contract Award Notices On Public Contracts Scotland
 ---

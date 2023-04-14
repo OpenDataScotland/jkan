@@ -15,5 +15,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/8a5c5728-e113-4a77-9795-271618238861/1/urql
 schema: default
-title: Modal share of cycling journeys - Transport and Travel in Scotland
+title: Modal Share Of Cycling Journeys - Transport And Travel In Scotland
 ---

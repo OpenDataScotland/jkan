@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Jacobite-Prints-And-Broadsides.zip
 schema: default
-title: Jacobite Prints and Broadsides
+title: Jacobite Prints And Broadsides
 ---

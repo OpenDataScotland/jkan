@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-government-spend
 records: null
 resources: []
 schema: default
-title: Scottish Government Spend with Top 50 Suppliers
+title: Scottish Government Spend With Top 50 Suppliers
 ---

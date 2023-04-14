@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/coronavirus-covid-19-mana
 records: null
 resources: []
 schema: default
-title: Coronavirus - COVID-19 - Management Information (up to 11/04/2022)
+title: Coronavirus - Covid-19 - Management Information (Up To 11/04/2022)
 ---

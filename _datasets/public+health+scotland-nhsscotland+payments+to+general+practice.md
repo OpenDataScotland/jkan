@@ -41,5 +41,5 @@ resources:
   name: GP Payments 2013/14
   url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/49db89d6-276c-4cbf-9233-2c41a0f67084/download/gppayments2013-14.csv
 schema: default
-title: NHSScotland Payments to General Practice
+title: Nhsscotland Payments To General Practice
 ---

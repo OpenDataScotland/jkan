@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/neighbourhood-rating---sh
 records: null
 resources: []
 schema: default
-title: Neighbourhood rating - Scottish Household Survey
+title: Neighbourhood Rating - Scottish Household Survey
 ---

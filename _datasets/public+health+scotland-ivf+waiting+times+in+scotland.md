@@ -52,5 +52,5 @@ resources:
   name: Referrals by Referring Board by Month
   url: https://www.opendata.nhs.scot/dataset/dd6bf01f-ff9c-4aaa-801b-75d1a933ecb1/resource/a67bbfc4-a843-42e9-9830-dc7392c915a3/download/referrals_referring_board_month.csv
 schema: default
-title: IVF Waiting Times in Scotland
+title: Ivf Waiting Times In Scotland
 ---

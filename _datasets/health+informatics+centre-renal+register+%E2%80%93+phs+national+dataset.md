@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/32edd77d-533c-423f-b045-937507f8505d/resource/32edd77d-533c-423f-b045-937507f8505d/download/datadictionary.json
 schema: default
-title: "Renal Register \u2013 PHS National Dataset"
+title: "Renal Register \u2013 Phs National Dataset"
 ---

@@ -21,5 +21,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1f1499ce-e3b8-4daf-88b3-155b4d079b0f/3/urql
 schema: default
-title: "Location of Bikehangars\xAE in Scotland (Cyclehoop)"
+title: "Location Of Bikehangars\xAE In Scotland (Cyclehoop)"
 ---

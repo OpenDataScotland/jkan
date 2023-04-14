@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/b9f460e1-cee9-4f52-b464-26b421886939/resource/24de9d1a-1f48-4c10-b8fc-a3bd7449e191/download/datadictionary.json
 schema: default
-title: Mental Health Inpatient and Day Case - Scottish Morbidity Record (SMR04)
+title: Mental Health Inpatient And Day Case - Scottish Morbidity Record (Smr04)
 ---

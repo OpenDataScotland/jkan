@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/employment-support-allowa
 records: null
 resources: []
 schema: default
-title: Employment and Support Allowance
+title: Employment And Support Allowance
 ---

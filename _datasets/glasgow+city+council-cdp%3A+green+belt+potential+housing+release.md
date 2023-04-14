@@ -27,5 +27,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-green-belt-potential-housing-release.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: 'CDP: Green Belt Potential Housing Release'
+title: 'Cdp: Green Belt Potential Housing Release'
 ---

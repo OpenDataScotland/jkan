@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/smoking-behaviour-and-sel
 records: null
 resources: []
 schema: default
-title: Smoking behaviour and self-rated health (SALSUS)
+title: Smoking Behaviour And Self-Rated Health (Salsus)
 ---

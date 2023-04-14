@@ -1,24 +1,23 @@
 ---
 category:
 - Transportation
-date_created: '2021-12-23'
-date_updated: '2022-01-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2019-10-29'
+date_updated: '2023-02-22'
+license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"This dataset holds the locations for all of Cycling Scotland's all-mode
-  traffic counts which are undertaken biannually across Scotland. The dates of each
-  count are included."</p>
+  traffic counts across Scotland, including the dates the counts were undertaken"</p>
 organization: Cycling Scotland
-original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b4caea0b-4a89-41de-9bf4-5f349f1f7cea
+original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc
 records: null
 resources:
 - format: CSV
-  name: NMF_TrafficSurveyLocations_USMaster.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e9a35cef-fa69-4c96-aeba-59c79ea73a2a
+  name: NMF_TemporaryCountLocations_2019_CyclingScotland_USMaster.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b94e6527-d98d-478b-ad6e-110733ffca53/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/a9d57c3f-7176-4f5a-8b63-f1f160a78f66/1/urql
 schema: default
-title: National Monitoring Framework - all-mode Traffic Survey locations - Cycling
+title: National Monitoring Framework - All-Mode Traffic Survey Locations - Cycling
   Scotland
 ---

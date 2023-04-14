@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-broadsides.zip
 schema: default
-title: Broadsides printed in Scotland 1650-1910
+title: Broadsides Printed In Scotland 1650-1910
 ---

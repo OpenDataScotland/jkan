@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/gross-domestic-product-qu
 records: null
 resources: []
 schema: default
-title: 'Gross Domestic Product: Quarterly Output by Industry'
+title: 'Gross Domestic Product: Quarterly Output By Industry'
 ---

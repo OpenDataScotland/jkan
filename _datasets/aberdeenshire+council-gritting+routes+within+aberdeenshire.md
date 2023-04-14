@@ -17,5 +17,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/gritting_footways_priorities_1_and_2.kmz
 schema: default
-title: Gritting routes within Aberdeenshire
+title: Gritting Routes Within Aberdeenshire
 ---

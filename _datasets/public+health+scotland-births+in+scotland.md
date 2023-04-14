@@ -69,5 +69,5 @@ resources:
   name: Babies Affected by Drugs by Health Boards
   url: https://www.opendata.nhs.scot/dataset/df10dbd4-81b3-4bfa-83ac-b14a5ec62296/resource/39c4ef03-592e-4bfc-abcf-5b9f5e6b4e8e/download/12.4_hb_birthsaffectedbydrugs.csv
 schema: default
-title: Births in Scotland
+title: Births In Scotland
 ---

@@ -30,5 +30,5 @@ resources:
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/c68cf24e74174488b5f042a0b2ac5b49_14.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Housing Land Audit completions
+title: Housing Land Audit Completions
 ---

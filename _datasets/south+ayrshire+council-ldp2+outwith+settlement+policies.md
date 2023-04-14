@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=599fa7cf46a24700
 records: 19
 resources: []
 schema: default
-title: LDP2 Outwith Settlement Policies
+title: Ldp2 Outwith Settlement Policies
 ---

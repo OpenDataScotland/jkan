@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/recycling_centres.kmz
 schema: default
-title: Recycling centres
+title: Recycling Centres
 ---

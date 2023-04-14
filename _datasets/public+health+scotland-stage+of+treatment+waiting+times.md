@@ -43,5 +43,5 @@ resources:
   name: "Unavailability \u2013 New Outpatients"
   url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/7c648cd6-0742-44ed-a8b3-efea3cfc3614/download/sot_unavailability_newop_dec22.csv
 schema: default
-title: Stage of Treatment Waiting Times
+title: Stage Of Treatment Waiting Times
 ---

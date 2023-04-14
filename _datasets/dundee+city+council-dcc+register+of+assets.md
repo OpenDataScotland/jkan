@@ -22,5 +22,5 @@ resources:
   name: 'Register of Assets '
   url: https://data.dundeecity.gov.uk/dataset/2978fbcf-66c4-40f2-ae24-7f8ef4be4524/resource/4efed5a6-2ead-4c1b-a839-661819852612/download/cat_list_2020-05-27.csv
 schema: default
-title: DCC Register of Assets
+title: Dcc Register Of Assets
 ---

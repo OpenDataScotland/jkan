@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-average-age-of
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Average Age of Residents'
+title: 'Care Homes: Average Age Of Residents'
 ---

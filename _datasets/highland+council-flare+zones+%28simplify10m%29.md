@@ -35,5 +35,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Flare Zones (simplify10m)
+title: Flare Zones (Simplify10M)
 ---

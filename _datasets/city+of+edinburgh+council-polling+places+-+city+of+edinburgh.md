@@ -43,5 +43,5 @@ resources:
   name: 2022 Polling Places
   url: https://data.spatialhub.scot/dataset/223b7153-1a15-40d6-ae1c-c409e6cdf86b/resource/28678b6f-6a63-43c3-93af-2c914a14117b/download/2022-edinburgh-polling-station-with-address-uprn.zip
 schema: default
-title: Polling Places - City of Edinburgh
+title: Polling Places - City Of Edinburgh
 ---

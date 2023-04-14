@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/c319c402-7ca7-4e2b-bd17-a1abacf9f84c/resource/c319c402-7ca7-4e2b-bd17-a1abacf9f84c/download/datadictionary.json
 schema: default
-title: Covid 19 Accident and Emergency Statistics
+title: Covid 19 Accident And Emergency Statistics
 ---

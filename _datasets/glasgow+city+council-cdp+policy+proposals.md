@@ -14,5 +14,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer
 schema: default
-title: CDP Policy Proposals
+title: Cdp Policy Proposals
 ---

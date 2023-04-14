@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/5844bde6-628d-4e76-bb56-3534e2728eb6/resource/5844bde6-628d-4e76-bb56-3534e2728eb6/download/datadictionary.json
 schema: default
-title: Child Health Systems Programme - 4-5 year review
+title: Child Health Systems Programme - 4-5 Year Review
 ---

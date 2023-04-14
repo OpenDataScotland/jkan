@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish Index of Multiple Deprivation (Historical) - 2004-2012
+title: Scottish Index Of Multiple Deprivation (Historical) - 2004-2012
 ---

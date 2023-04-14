@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/855a84b2-9d58-4b2b-a450-b6c6d534e403/resource/855a84b2-9d58-4b2b-a450-b6c6d534e403/download/datadictionary.json
 schema: default
-title: NHS Tayside Virology
+title: Nhs Tayside Virology
 ---

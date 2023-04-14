@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=15e7aa41b25940ea
 records: 23
 resources: []
 schema: default
-title: Drug related deaths 2018
+title: Drug Related Deaths 2018
 ---

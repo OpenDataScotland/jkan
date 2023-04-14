@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-07-29'
-date_updated: '2023-04-07'
+date_updated: '2023-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within John Muir Way's
@@ -15,5 +15,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/dfa2e487-eeda-460a-aaf3-03f4b73893b4/1/urql
 schema: default
-title: John Muir Way - Hourly cycling counts from automatic cycling counters
+title: John Muir Way - Hourly Cycling Counts From Automatic Cycling Counters
 ---

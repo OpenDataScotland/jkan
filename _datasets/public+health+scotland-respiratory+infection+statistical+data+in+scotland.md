@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Sport and Leisure
 date_created: '2022-11-10'
-date_updated: '2023-04-06'
+date_updated: '2023-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset provides information on number of new weekly confirmed cases
@@ -54,5 +54,5 @@ resources:
   name: 'Respiratory by Sex '
   url: https://www.opendata.nhs.scot/dataset/48a9310e-4db3-44a4-bce8-6b4be9deb88a/resource/e2c1651d-8501-415d-adef-0272822cfead/download/respiratory_sex.csv
 schema: default
-title: Respiratory Infection Statistical Data in Scotland
+title: Respiratory Infection Statistical Data In Scotland
 ---

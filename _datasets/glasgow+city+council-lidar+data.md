@@ -15,5 +15,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/63c46ac1-b10f-4453-968e-b1e95be0e47d
 schema: default
-title: LIDAR data
+title: Lidar Data
 ---

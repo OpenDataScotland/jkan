@@ -24,6 +24,6 @@ resources:
   name: SHS_BikeAvailability_2019.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=614df944-323e-4899-b099-9da795a66f77
 schema: default
-title: Number of bikes available for private use - Travel and Transport Scotland 2019
+title: Number Of Bikes Available For Private Use - Travel And Transport Scotland 2019
   - Scottish Household Survey
 ---

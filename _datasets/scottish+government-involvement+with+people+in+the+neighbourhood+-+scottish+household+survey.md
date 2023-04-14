@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/involvement-with-people-i
 records: null
 resources: []
 schema: default
-title: Involvement with people in the neighbourhood - Scottish Household Survey
+title: Involvement With People In The Neighbourhood - Scottish Household Survey
 ---

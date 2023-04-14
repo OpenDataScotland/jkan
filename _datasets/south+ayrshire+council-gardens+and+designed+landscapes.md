@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=4176b297b0564de5
 records: 141
 resources: []
 schema: default
-title: Gardens and Designed Landscapes
+title: Gardens And Designed Landscapes
 ---

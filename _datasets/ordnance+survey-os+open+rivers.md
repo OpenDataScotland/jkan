@@ -23,5 +23,5 @@ resources:
   name: ATOM FEED
   url: http://os.uk/xml/atom/OSOpenRivers.xml
 schema: default
-title: OS Open Rivers
+title: Os Open Rivers
 ---
