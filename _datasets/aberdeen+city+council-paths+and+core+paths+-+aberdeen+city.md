@@ -36,5 +36,5 @@ resources:
   name: Core Paths 2009
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Core_Paths_2009/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Paths And Core Paths - Aberdeen City
+title: Paths and core paths - aberdeen city
 ---

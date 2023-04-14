@@ -27,5 +27,5 @@ resources:
   name: Road Safety Inspection and Defect Categorisation Policy
   url: https://data.pkc.gov.uk/dataset/3dc3aa62-d6a6-4f54-93ab-6d434bf64713/resource/f899908c-77ff-4a64-aed8-c1b712c5deca/download/road-defects-policy-doc-pkc.pdf
 schema: default
-title: Roads Defects And Maintenance
+title: Roads defects and maintenance
 ---

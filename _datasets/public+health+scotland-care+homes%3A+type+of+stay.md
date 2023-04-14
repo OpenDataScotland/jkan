@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-type-of-stay
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Type Of Stay'
+title: 'Care homes: type of stay'
 ---

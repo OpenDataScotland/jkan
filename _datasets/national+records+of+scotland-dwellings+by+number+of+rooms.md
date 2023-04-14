@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-rooms
 records: null
 resources: []
 schema: default
-title: Dwellings By Number Of Rooms
+title: Dwellings by number of rooms
 ---

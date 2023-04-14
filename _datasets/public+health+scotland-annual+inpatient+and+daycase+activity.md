@@ -61,5 +61,5 @@ resources:
   name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2022-locations-lookup.csv
 schema: default
-title: Annual Inpatient And Daycase Activity
+title: Annual inpatient and daycase activity
 ---

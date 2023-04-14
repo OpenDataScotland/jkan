@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=f1cf505350cb4e90
 records: 1
 resources: []
 schema: default
-title: Local Development Plan 2020 Wind Farm Spatial Framework (Moray)
+title: Local development plan 2020 wind farm spatial framework (moray)
 ---

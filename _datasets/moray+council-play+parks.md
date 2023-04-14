@@ -15,5 +15,5 @@ resources:
   name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/PlayParks.csv
 schema: default
-title: Play Parks
+title: Play parks
 ---

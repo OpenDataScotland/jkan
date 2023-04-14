@@ -19,5 +19,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/4bbaa7b5-9da9-4614-9b4b-ff566f330217/1/urql
 schema: default
-title: Valuation Roll
+title: Valuation roll
 ---

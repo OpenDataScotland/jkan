@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/community-ownership-area-
 records: null
 resources: []
 schema: default
-title: "Community Ownership \u2013 Area Of Land"
+title: "Community ownership \u2013 area of land"
 ---

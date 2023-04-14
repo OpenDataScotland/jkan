@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/organisational-data/over-25000-transactions.zip
 schema: default
-title: "Transactions Over \xA325,000"
+title: "Transactions over \xA325,000"
 ---

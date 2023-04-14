@@ -23,5 +23,5 @@ resources:
   name: GeoJSON for Article 4 Directions
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_art4dir&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Article 4 Directives
+title: Angus council article 4 directives
 ---

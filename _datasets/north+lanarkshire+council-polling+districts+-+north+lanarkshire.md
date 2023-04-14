@@ -41,5 +41,5 @@ resources:
   name: Polling Districts
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling Districts - North Lanarkshire
+title: Polling districts - north lanarkshire
 ---

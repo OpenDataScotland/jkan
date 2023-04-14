@@ -17,5 +17,5 @@ resources:
   name: EnergyGasPKC
   url: https://data.pkc.gov.uk/dataset/fc4db049-1f17-4e35-82fc-8ccf8d101ec1/resource/9b1271cf-5b26-4b29-9468-efb22cbf1256/download/energygas.csv
 schema: default
-title: Energy - Gas
+title: Energy - gas
 ---

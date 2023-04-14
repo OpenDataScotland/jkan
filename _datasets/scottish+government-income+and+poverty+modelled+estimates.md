@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/income-and-poverty-modell
 records: null
 resources: []
 schema: default
-title: Income And Poverty Modelled Estimates
+title: Income and poverty modelled estimates
 ---

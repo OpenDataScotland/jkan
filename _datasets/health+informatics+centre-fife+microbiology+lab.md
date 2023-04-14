@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/0c43c0b6-de3a-478b-8190-4da37fbe5ff5/resource/0c43c0b6-de3a-478b-8190-4da37fbe5ff5/download/datadictionary.json
 schema: default
-title: Fife Microbiology Lab
+title: Fife microbiology lab
 ---

@@ -24,5 +24,5 @@ resources:
   name: Waste Transfer Stations
   url: https://data.spatialhub.scot/dataset/2d8879c1-1ab8-4199-9db5-fb3b89652a58/resource/1c1bce30-57e4-4f9b-8b62-0a8a6e9505b1/download/glasgow_policy_proposals.zip
 schema: default
-title: Recycling And Waste Facilities - Glasgow City
+title: Recycling and waste facilities - glasgow city
 ---

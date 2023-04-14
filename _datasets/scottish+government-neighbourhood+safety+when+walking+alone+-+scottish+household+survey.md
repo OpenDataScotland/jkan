@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/neighbourhood-safety-when
 records: null
 resources: []
 schema: default
-title: Neighbourhood Safety When Walking Alone - Scottish Household Survey
+title: Neighbourhood safety when walking alone - scottish household survey
 ---

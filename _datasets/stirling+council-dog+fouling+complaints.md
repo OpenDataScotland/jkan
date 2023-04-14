@@ -33,5 +33,5 @@ resources:
   name: Dog Fouling Complaints April 2022 to March 2023
   url: https://data.stirling.gov.uk/dataset/874b1a5c-bbe9-48c9-9066-2492e96349fa/resource/c4406ec1-b200-49be-bd4a-12f3b964659e/download/20230127-stirling-council-dog-fouling-notices-01.04.2022-to-31.03.2023.csv
 schema: default
-title: Dog Fouling Complaints
+title: Dog fouling complaints
 ---

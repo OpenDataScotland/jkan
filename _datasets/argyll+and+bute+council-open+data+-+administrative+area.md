@@ -16,5 +16,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=17079d0244024627
 records: 4
 resources: []
 schema: default
-title: Open Data - Administrative Area
+title: Open data - administrative area
 ---

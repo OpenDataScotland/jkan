@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/smoking-prevalence-and-de
 records: null
 resources: []
 schema: default
-title: Smoking Prevalence And Deprivation (Salsus)
+title: Smoking prevalence and deprivation (salsus)
 ---

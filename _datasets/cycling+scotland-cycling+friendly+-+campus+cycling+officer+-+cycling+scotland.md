@@ -18,5 +18,5 @@ resources:
   name: CyclingFriendly_Campus_CyclingOfficer_2019_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=1c0d1da7-cfb9-4825-911c-6118a1670db4
 schema: default
-title: Cycling Friendly - Campus Cycling Officer - Cycling Scotland
+title: Cycling friendly - campus cycling officer - cycling scotland
 ---

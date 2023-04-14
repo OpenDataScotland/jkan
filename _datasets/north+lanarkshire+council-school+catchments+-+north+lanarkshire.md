@@ -53,5 +53,5 @@ resources:
   name: Non Denominational Secondary School Catchments
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: School Catchments - North Lanarkshire
+title: School catchments - north lanarkshire
 ---

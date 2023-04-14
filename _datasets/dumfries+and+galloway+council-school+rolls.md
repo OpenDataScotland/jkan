@@ -17,5 +17,5 @@ resources:
   name: School Rolls_historical_school_rolls.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=41f05d21-058e-4475-b406-e5a6b61edbca
 schema: default
-title: School Rolls
+title: School rolls
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/retirement-pension
 records: null
 resources: []
 schema: default
-title: State Retirement Pension
+title: State retirement pension
 ---

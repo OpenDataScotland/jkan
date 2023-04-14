@@ -28,5 +28,5 @@ resources:
   name: Local Nature Reserves
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Local_Nature_Reserves/FeatureServer
 schema: default
-title: Local Nature Reserves - Aberdeen City
+title: Local nature reserves - aberdeen city
 ---

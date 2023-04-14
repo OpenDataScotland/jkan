@@ -33,5 +33,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=15c9fe9deaaf405c
 records: 4
 resources: []
 schema: default
-title: Mid Year 2018 Population Estimate
+title: Mid year 2018 population estimate
 ---

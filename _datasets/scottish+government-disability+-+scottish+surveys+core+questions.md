@@ -17,5 +17,5 @@ original_dataset_link: http://statistics.gov.scot/data/disability-sscq
 records: null
 resources: []
 schema: default
-title: Disability - Scottish Surveys Core Questions
+title: Disability - scottish surveys core questions
 ---

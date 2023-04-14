@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/council-house-sales
 records: null
 resources: []
 schema: default
-title: Council House Sales
+title: Council house sales
 ---

@@ -22,6 +22,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/16878275-32aa-44f5-a52e-615d3b9a758e/2/urql
 schema: default
-title: National Monitoring Framework - All-Mode Traffic Survey Results September 2019
-  - Cycling Scotland
+title: National monitoring framework - all-mode traffic survey results september 2019
+  - cycling scotland
 ---

@@ -22,5 +22,5 @@ resources:
   name: 'Town Centres '
   url: https://geo.spatialhub.scot/geoserver/sh_townc/wfs?service=wfs&typeName=sh_townc:pub_townc
 schema: default
-title: Town Centres - Scotland
+title: Town centres - scotland
 ---

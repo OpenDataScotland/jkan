@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/burial_grounds.kmz
 schema: default
-title: Burial Grounds
+title: Burial grounds
 ---

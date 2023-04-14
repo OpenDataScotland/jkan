@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-work-reports
 records: null
 resources: []
 schema: default
-title: Criminal Justice Social Work Reports
+title: Criminal justice social work reports
 ---

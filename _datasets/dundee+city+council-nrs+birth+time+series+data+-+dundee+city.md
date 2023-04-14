@@ -32,5 +32,5 @@ resources:
   name: Dundee City Birth Time Series Data 1991 to 2021
   url: https://data.dundeecity.gov.uk/dataset/56089b04-30ec-4585-ba15-93b4468f0a6f/resource/719d65cf-4c51-45bc-b4e3-b68b5fc078aa/download/nrs_dundee_birthtimeseries_1991_2021.csv
 schema: default
-title: Nrs Birth Time Series Data - Dundee City
+title: Nrs birth time series data - dundee city
 ---

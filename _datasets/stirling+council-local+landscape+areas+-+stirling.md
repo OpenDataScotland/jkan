@@ -30,5 +30,5 @@ resources:
   name: Local Landscape Areas
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_local_landscape_area_ldp2/FeatureServer/8/query?outFields=*&where=1%3D1
 schema: default
-title: Local Landscape Areas - Stirling
+title: Local landscape areas - stirling
 ---

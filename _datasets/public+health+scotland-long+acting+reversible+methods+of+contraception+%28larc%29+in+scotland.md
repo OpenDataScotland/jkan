@@ -29,5 +29,5 @@ resources:
   name: LARC By Deprivation
   url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/bec034bb-d3c4-41dc-9449-436780d3f71f/download/larc_by_deprivation_2022.csv
 schema: default
-title: Long Acting Reversible Methods Of Contraception (Larc) In Scotland
+title: Long acting reversible methods of contraception (larc) in scotland
 ---

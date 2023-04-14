@@ -30,5 +30,5 @@ resources:
   name: 'Core Paths '
   url: https://geo.spatialhub.scot/geoserver/sh_cpth/wfs?service=wfs&typeName=sh_cpth:pub_cpth
 schema: default
-title: Core Paths - Scotland
+title: Core paths - scotland
 ---

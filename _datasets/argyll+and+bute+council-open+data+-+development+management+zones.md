@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=c438cbaf9b99421f
 records: 9373
 resources: []
 schema: default
-title: Open Data - Development Management Zones
+title: Open data - development management zones
 ---

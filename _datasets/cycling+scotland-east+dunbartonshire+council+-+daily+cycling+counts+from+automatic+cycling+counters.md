@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/439481f9-ed01-4880-8d9b-55bfe12ea932/1/urql
 schema: default
-title: East Dunbartonshire Council - Daily Cycling Counts From Automatic Cycling Counters
+title: East dunbartonshire council - daily cycling counts from automatic cycling counters
 ---

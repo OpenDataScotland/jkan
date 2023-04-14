@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/826be5be-9977-49f9-b6d1-83ed9de08ebe/resource/826be5be-9977-49f9-b6d1-83ed9de08ebe/download/datadictionary.json
 schema: default
-title: Tayside Microbiology Lab
+title: Tayside microbiology lab
 ---

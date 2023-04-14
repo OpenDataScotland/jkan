@@ -32,5 +32,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Air Quality Management Areas
+title: Air quality management areas
 ---

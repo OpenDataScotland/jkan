@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/bus-accessibility
 records: null
 resources: []
 schema: default
-title: Bus Accessibility
+title: Bus accessibility
 ---

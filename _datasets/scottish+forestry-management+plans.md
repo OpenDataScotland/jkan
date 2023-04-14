@@ -24,5 +24,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=da3a5e8de50a4efa
 records: 770
 resources: []
 schema: default
-title: Management Plans
+title: Management plans
 ---

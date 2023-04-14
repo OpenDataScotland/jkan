@@ -38,5 +38,5 @@ resources:
   name: Applications Received, Granted & Refused (PDF)
   url: https://data.stirling.gov.uk/dataset/5f83108e-af77-40d0-ba89-45c5bea804c7/resource/e51b4a77-a2e2-4626-b2ad-c76f3a52cde9/download/20230301-stirling-council-licensed-premises-applications-count-as-at-28.02.2023-.pdf
 schema: default
-title: Licensed Premises
+title: Licensed premises
 ---

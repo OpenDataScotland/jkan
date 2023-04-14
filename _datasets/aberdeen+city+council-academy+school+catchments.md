@@ -37,5 +37,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Academy School Catchments
+title: Academy school catchments
 ---

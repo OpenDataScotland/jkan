@@ -28,5 +28,5 @@ resources:
   name: Nitrogen Dioxide Passive Diffusion Tube Data 2017
   url: https://data.dundeecity.gov.uk/dataset/832dec46-1a16-4dd0-a30c-606bb1ecc9c1/resource/3afa4345-b158-4e4f-a4e5-02f596fec9fa/download/copy-of-2017-dcc-pdt-data-summary-copy.csv
 schema: default
-title: Air Quality
+title: Air quality
 ---

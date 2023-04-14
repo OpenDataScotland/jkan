@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/attainment-for-all
 records: null
 resources: []
 schema: default
-title: Schools - Attainment For All
+title: Schools - attainment for all
 ---

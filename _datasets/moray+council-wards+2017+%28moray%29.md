@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8fb355abdba34c07
 records: 8
 resources: []
 schema: default
-title: Wards 2017 (Moray)
+title: Wards 2017 (moray)
 ---

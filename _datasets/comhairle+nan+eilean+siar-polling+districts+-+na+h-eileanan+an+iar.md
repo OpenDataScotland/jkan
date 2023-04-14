@@ -47,5 +47,5 @@ resources:
   name: 2022 Polling Districts
   url: https://data.spatialhub.scot/dataset/e70078e2-cce3-4b0e-ac90-bfe24bce8160/resource/6aceff75-1863-44d6-9b68-42e4b10518c0/download/na-h-eileanan-siar-polling-districts-may-2022.zip
 schema: default
-title: Polling Districts - Na H-Eileanan An Iar
+title: Polling districts - na h-eileanan an iar
 ---

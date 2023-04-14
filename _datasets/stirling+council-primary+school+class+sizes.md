@@ -40,5 +40,5 @@ resources:
   name: 'Primary School Class Sizes: September 2021'
   url: https://data.stirling.gov.uk/dataset/6e15d2a9-87eb-466e-a0b8-9182cb70f215/resource/4dc8e478-a1c6-4171-b4e3-53f57aac9315/download/20220428-stirling-council-primary-school-class-sizes-september-2021.csv
 schema: default
-title: Primary School Class Sizes
+title: Primary school class sizes
 ---

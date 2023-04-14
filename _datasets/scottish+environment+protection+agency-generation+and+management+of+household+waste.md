@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-waste
 records: null
 resources: []
 schema: default
-title: Generation And Management Of Household Waste
+title: Generation and management of household waste
 ---

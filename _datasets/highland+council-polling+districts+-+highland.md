@@ -50,5 +50,5 @@ resources:
   name: Polling Districts
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PollingDistricts/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Polling Districts - Highland
+title: Polling districts - highland
 ---

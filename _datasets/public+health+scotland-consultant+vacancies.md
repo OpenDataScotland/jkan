@@ -49,5 +49,5 @@ resources:
   name: Vacancies March 2018
   url: https://www.opendata.nhs.scot/dataset/5d835423-ebea-436a-b1d0-b5d7257b5adf/resource/415c2f86-db7c-4c12-9a64-0cd9cf0d9118/download/consultant-vacancy_mar18.csv
 schema: default
-title: Consultant Vacancies
+title: Consultant vacancies
 ---

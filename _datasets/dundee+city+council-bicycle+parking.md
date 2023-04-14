@@ -23,5 +23,5 @@ resources:
   name: OpenStreetMap Web Map
   url: https://www.openstreetmap.org/#map=13/56.4753/-2.9480&layers=C
 schema: default
-title: Bicycle Parking
+title: Bicycle parking
 ---

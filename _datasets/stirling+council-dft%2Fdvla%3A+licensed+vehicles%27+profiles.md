@@ -29,5 +29,5 @@ resources:
   name: Plug-in Vehicles (PiVs)
   url: https://data.stirling.gov.uk/dataset/83379177-bb01-41d9-8e57-4cce880e37af/resource/6a2cc819-dbf6-4e2b-9f47-b610dd426937/download/20230118-stirling-council-dft-profile-of-plug-in-vehicles-by-quarter-q3-2022.csv
 schema: default
-title: 'Dft/Dvla: Licensed Vehicles'' Profiles'
+title: 'Dft/dvla: licensed vehicles'' profiles'
 ---

@@ -31,5 +31,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Operational Areas (Historical 1999 To 2007)
+title: Operational areas (historical 1999 to 2007)
 ---

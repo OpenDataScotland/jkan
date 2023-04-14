@@ -22,5 +22,5 @@ resources:
   name: Local Nature Reserves
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
-title: Local Nature Reserves - North Lanarkshire
+title: Local nature reserves - north lanarkshire
 ---

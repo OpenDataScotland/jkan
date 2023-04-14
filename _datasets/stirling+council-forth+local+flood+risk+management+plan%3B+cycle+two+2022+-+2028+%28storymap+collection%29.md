@@ -51,5 +51,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://storymaps.arcgis.com/collections/dce68641170345a5b607d1181da1123e
 schema: default
-title: Forth Local Flood Risk Management Plan; Cycle Two 2022 - 2028 (Storymap Collection)
+title: Forth local flood risk management plan; cycle two 2022 - 2028 (storymap collection)
 ---

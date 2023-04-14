@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-index-of-multipl
 records: null
 resources: []
 schema: default
-title: Scottish Index Of Multiple Deprivation - Housing Indicators
+title: Scottish index of multiple deprivation - housing indicators
 ---

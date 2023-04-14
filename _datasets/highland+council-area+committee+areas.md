@@ -30,5 +30,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/d3ba297529eb4574a1a00a981e8fe58b_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Area Committee Areas
+title: Area committee areas
 ---

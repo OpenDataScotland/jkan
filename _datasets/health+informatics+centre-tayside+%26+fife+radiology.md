@@ -17,5 +17,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/af10ec29-1866-4726-b33f-3948afe182f2/resource/af10ec29-1866-4726-b33f-3948afe182f2/download/datadictionary.json
 schema: default
-title: Tayside & Fife Radiology
+title: Tayside & fife radiology
 ---

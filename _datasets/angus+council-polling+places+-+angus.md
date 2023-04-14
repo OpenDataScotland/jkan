@@ -40,5 +40,5 @@ resources:
   name: law_pollingplaces
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Polling Places - Angus
+title: Polling places - angus
 ---

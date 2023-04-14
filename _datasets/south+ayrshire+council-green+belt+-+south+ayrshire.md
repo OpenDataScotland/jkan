@@ -42,5 +42,5 @@ resources:
   name: Green Belt
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Green Belt - South Ayrshire
+title: Green belt - south ayrshire
 ---

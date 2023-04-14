@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/c9ddebf1024c47bda9bf2ff869c6c2ea_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Housing Land Audit 2022
+title: Housing land audit 2022
 ---

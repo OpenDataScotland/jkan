@@ -26,5 +26,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::roads-winter-gritting-routes-2022-public-view.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Roads - Winter Gritting Routes (2022) Public View
+title: Roads - winter gritting routes (2022) public view
 ---

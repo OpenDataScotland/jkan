@@ -21,5 +21,5 @@ resources:
   name: Copy of Next Bike Cycle Hire - Stirling Trip Data (2018-2023).csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=bb7a5ddf-a638-4231-9eb0-183d69406104
 schema: default
-title: Next Bike Cycle Hire - Stirling Trip Data (2018-2023)
+title: Next bike cycle hire - stirling trip data (2018-2023)
 ---

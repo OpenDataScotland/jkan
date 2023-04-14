@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=470b2275323447fa
 records: 21
 resources: []
 schema: default
-title: Council Housing Stock
+title: Council housing stock
 ---

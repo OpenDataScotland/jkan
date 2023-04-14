@@ -36,5 +36,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-and-secondary-school-information.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Education And Skills - Primary And Secondary School Information
+title: Education and skills - primary and secondary school information
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/foi
 records: null
 resources: []
 schema: default
-title: Features Of Interest
+title: Features of interest
 ---

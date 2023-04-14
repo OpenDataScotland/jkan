@@ -18,5 +18,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://gcc-urban-model.ubdc.ac.uk/obj_photo_realistic
 schema: default
-title: Urban Model - Photo Realistic Detail
+title: Urban model - photo realistic detail
 ---

@@ -17,5 +17,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-projections-of-
 records: null
 resources: []
 schema: default
-title: Household Projections Of Average Household Size
+title: Household projections of average household size
 ---

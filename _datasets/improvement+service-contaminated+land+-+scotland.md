@@ -41,5 +41,5 @@ resources:
   name: 'Contaminated Land '
   url: https://geo.spatialhub.scot/geoserver/sh_cntml/wfs?service=wfs&typeName=sh_cntml:pub_cntml
 schema: default
-title: Contaminated Land - Scotland
+title: Contaminated land - scotland
 ---

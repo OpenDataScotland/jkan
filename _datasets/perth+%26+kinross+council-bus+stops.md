@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/675d9da2b89a422a8f9cc805f1f071cb_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Bus Stops
+title: Bus stops
 ---

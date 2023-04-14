@@ -31,5 +31,5 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Consumer Affairs - Licensed Premises Applications History (February 2023)
+title: Consumer affairs - licensed premises applications history (february 2023)
 ---

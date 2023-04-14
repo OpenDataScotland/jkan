@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/urban-rural-classificatio
 records: null
 resources: []
 schema: default
-title: Urban Rural Classification (6-Fold)
+title: Urban rural classification (6-fold)
 ---

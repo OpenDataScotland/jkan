@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=da0815b4bdea4e81
 records: 13
 resources: []
 schema: default
-title: Large Scale Indoor Venues Paisley
+title: Large scale indoor venues paisley
 ---

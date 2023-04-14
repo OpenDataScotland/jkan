@@ -30,5 +30,5 @@ resources:
   name: Charging Sessions Dundee 06/06/18 - 06/09/18
   url: https://data.dundeecity.gov.uk/dataset/ab3c487f-77c9-4157-a89f-ac9c95ae1b00/resource/dd6186a4-5d1a-431a-93c4-0be142ff8e10/download/charge-sessions-june-sept.csv
 schema: default
-title: Electric Vehicle Charging Sessions Dundee
+title: Electric vehicle charging sessions dundee
 ---

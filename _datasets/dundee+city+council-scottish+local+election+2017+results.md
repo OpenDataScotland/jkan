@@ -41,5 +41,5 @@ resources:
   name: Guidance
   url: https://data.dundeecity.gov.uk/dataset/edce7c3c-350c-4608-ba90-5a296dd27ad7/resource/4c1ffb11-aff9-4e4f-a5d7-e1caba10f9de/download/guidance.pdf
 schema: default
-title: Scottish Local Election 2017 Results
+title: Scottish local election 2017 results
 ---

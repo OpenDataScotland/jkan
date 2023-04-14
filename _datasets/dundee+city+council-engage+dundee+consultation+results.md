@@ -33,5 +33,5 @@ resources:
   name: Engage Dundee - Positive Repsonses - All Topics
   url: https://data.dundeecity.gov.uk/dataset/580f1406-01e2-4c4b-b865-1c49d15131e6/resource/9e569ae0-e4db-4867-83b3-53f9add2002a/download/engage_dundee_positiverepsonses_alltopics.csv
 schema: default
-title: Engage Dundee Consultation Results
+title: Engage dundee consultation results
 ---

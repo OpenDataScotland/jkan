@@ -28,5 +28,5 @@ resources:
   name: Responses by school type Perth and Kinross plus National.csv
   url: https://data.pkc.gov.uk/dataset/b7473a77-cd94-459a-92d8-7e0710e303e7/resource/971e7bd6-13df-4beb-872b-d73717172893/download/responses-by-school-type-perth-and-kinross-plus-national.csv
 schema: default
-title: Hands Up Scotland Survey
+title: Hands up scotland survey
 ---

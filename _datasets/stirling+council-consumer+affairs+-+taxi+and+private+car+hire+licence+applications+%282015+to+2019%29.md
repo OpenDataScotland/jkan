@@ -20,6 +20,6 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Consumer Affairs - Taxi And Private Car Hire Licence Applications (2015 To
+title: Consumer affairs - taxi and private car hire licence applications (2015 to
   2019)
 ---

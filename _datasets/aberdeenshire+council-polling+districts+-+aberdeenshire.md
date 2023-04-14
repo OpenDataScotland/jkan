@@ -56,5 +56,5 @@ resources:
   name: Polling Districts (5 May 2022 - SLE)
   url: https://data.spatialhub.scot/dataset/355222b8-04f6-40d0-883c-b83714fcb8ed/resource/a59e1a66-e09b-44a7-af20-0823f0fb593b/download/pollingdistricts2022.zip
 schema: default
-title: Polling Districts - Aberdeenshire
+title: Polling districts - aberdeenshire
 ---

@@ -16,6 +16,6 @@ resources:
   name: Participation_in_physical_activity_last_four_weeks.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e2e82854-062a-4bdd-a5d8-b0b09a9d3268
 schema: default
-title: Participation In Physical Activity And Sport In The Last Four Weeks - Scottish
-  Household Survey
+title: Participation in physical activity and sport in the last four weeks - scottish
+  household survey
 ---

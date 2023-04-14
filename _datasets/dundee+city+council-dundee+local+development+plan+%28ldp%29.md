@@ -20,5 +20,5 @@ resources:
   name: Dundee Local Development Plan (LDP)
   url: https://opendata-dundeecity.hub.arcgis.com/maps/ldp2019-feature-layers/about
 schema: default
-title: Dundee Local Development Plan (Ldp)
+title: Dundee local development plan (ldp)
 ---

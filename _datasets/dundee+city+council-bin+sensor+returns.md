@@ -26,5 +26,5 @@ resources:
   name: Fullness Level of Bins - May 2018
   url: https://data.dundeecity.gov.uk/dataset/5faf6946-2365-4e02-b69a-2a943aa09331/resource/5d6ff425-4208-46f3-acee-5bed7d365a05/download/fullness-level-of-bins-may-2018.csv
 schema: default
-title: Bin Sensor Returns
+title: Bin sensor returns
 ---

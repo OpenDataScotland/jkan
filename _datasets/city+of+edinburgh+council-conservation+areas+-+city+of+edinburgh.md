@@ -39,5 +39,5 @@ resources:
   name: Conservation Areas
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Conservation Areas - City Of Edinburgh
+title: Conservation areas - city of edinburgh
 ---

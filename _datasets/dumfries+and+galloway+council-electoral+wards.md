@@ -17,5 +17,5 @@ resources:
   name: Wards.zip
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=48fd5bc3-38e6-4312-b8d3-a0f7062058af
 schema: default
-title: Electoral Wards
+title: Electoral wards
 ---

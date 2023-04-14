@@ -100,5 +100,5 @@ resources:
   name: 2012 Post-Appeals National Qualification Results 2012 (Published 7 Dec 2012)
   url: https://www.sqa.org.uk/sqa/files_ccc/Post_Appeals_National_Qualification_Results_2012_with_disclosure.xls
 schema: default
-title: Sqa Statistics 2012
+title: Sqa statistics 2012
 ---

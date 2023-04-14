@@ -59,5 +59,5 @@ resources:
   name: 'Leaflet - Open Doors - West End Ward '
   url: https://data.dundeecity.gov.uk/dataset/c0c7c38b-97b0-4fe5-b51a-994b79bd4a7d/resource/5bccb7d0-0f89-41c6-9b2e-267d9b7bcf77/download/open_doors_leaflet_west_end_ward.pdf
 schema: default
-title: Dundee'S Open Doors Programme Locations
+title: Dundee's open doors programme locations
 ---

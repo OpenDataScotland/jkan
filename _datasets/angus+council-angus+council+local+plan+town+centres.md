@@ -21,5 +21,5 @@ resources:
   name: GeoJSON for Town Centres
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ldp14_town_centre&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Local Plan Town Centres
+title: Angus council local plan town centres
 ---

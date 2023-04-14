@@ -37,5 +37,5 @@ resources:
   name: Aberdeen City Contract Register Feb 2020.xlsx
   url: https://data.aberdeencity.gov.uk/dataset/f319b0c8-50a3-4167-bbb9-69e94a9aa8b1/resource/6878ec51-8fae-4654-ba5f-a9f6f10ba603/download/aberdeen-city-contract-register-feb-2020.xlsx
 schema: default
-title: Aberdeen City Council Contracts Register
+title: Aberdeen city council contracts register
 ---

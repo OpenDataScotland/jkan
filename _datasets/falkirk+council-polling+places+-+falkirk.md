@@ -46,5 +46,5 @@ resources:
   name: Updated Falkirk Polling Places
   url: https://data.spatialhub.scot/dataset/101111be-8e6b-4031-808a-63793e9a52b0/resource/49a0d73b-89df-4587-b2c3-e5b538776a24/download/2022-polling-places.zip
 schema: default
-title: Polling Places - Falkirk
+title: Polling places - falkirk
 ---

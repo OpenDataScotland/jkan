@@ -25,5 +25,5 @@ resources:
   name: Local Nature Reserves
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/LDP2019_WFS/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
-title: Local Nature Reserves - Dundee City
+title: Local nature reserves - dundee city
 ---

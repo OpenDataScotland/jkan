@@ -33,5 +33,5 @@ resources:
   name: 'School Catchments: Secondary non-denominational (SN) '
   url: https://geo.spatialhub.scot/geoserver/sh_schl/wfs?service=wfs&typeName=sh_schl:pub_schlsn
 schema: default
-title: School Catchments - Scotland
+title: School catchments - scotland
 ---

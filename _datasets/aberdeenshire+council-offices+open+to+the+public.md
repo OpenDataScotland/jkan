@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/council_offices.kmz
 schema: default
-title: Offices Open To The Public
+title: Offices open to the public
 ---

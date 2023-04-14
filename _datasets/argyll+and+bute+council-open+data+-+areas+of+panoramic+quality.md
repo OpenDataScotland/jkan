@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1092d04288f3497b
 records: 18
 resources: []
 schema: default
-title: Open Data - Areas Of Panoramic Quality
+title: Open data - areas of panoramic quality
 ---

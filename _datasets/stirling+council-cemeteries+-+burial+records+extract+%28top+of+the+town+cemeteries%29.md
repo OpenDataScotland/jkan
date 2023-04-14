@@ -33,5 +33,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::cemeteries-burial-records-extract-top-of-the-town-cemeteries.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Cemeteries - Burial Records Extract (Top Of The Town Cemeteries)
+title: Cemeteries - burial records extract (top of the town cemeteries)
 ---

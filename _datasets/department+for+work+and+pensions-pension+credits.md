@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/pension-credits
 records: null
 resources: []
 schema: default
-title: Pension Credits
+title: Pension credits
 ---

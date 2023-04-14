@@ -33,5 +33,5 @@ resources:
   name: Core Paths
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer/5/query?outFields=*&where=1%3D1
 schema: default
-title: Paths And Core Paths - Perth And Kinross
+title: Paths and core paths - perth and kinross
 ---

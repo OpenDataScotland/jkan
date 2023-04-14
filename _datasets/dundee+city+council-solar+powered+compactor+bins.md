@@ -124,5 +124,5 @@ resources:
   name: Waste Generation - Hourly - June 2019
   url: https://data.dundeecity.gov.uk/dataset/95203e8d-129d-4873-96aa-b99ad4240433/resource/5fe56e36-d3d3-4ec0-a10b-55cad720259b/download/waste-generation-hourly-june-2019.csv
 schema: default
-title: Solar Powered Compactor Bins
+title: Solar powered compactor bins
 ---

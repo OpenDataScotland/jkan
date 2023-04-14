@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/unpaid-care-provision-ssc
 records: null
 resources: []
 schema: default
-title: Unpaid Care Provision - Scottish Surveys Core Questions
+title: Unpaid care provision - scottish surveys core questions
 ---

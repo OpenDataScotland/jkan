@@ -41,5 +41,5 @@ resources:
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/33609934-c9a0-4801-a982-062327540f68/resource/46abf8a8-f01e-4f46-b87e-f2aca6ebee1c/download/communitycouncil.zip
 schema: default
-title: Community Council Boundaries - West Lothian
+title: Community council boundaries - west lothian
 ---

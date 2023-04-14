@@ -25,5 +25,5 @@ resources:
   name: NapTAN - Dundee
   url: http://naptan.app.dft.gov.uk/DataRequest/Naptan.ashx?format=xml&LA=640
 schema: default
-title: Bus Stops (Naptan)
+title: Bus stops (naptan)
 ---

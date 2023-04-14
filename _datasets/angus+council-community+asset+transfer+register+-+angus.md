@@ -47,5 +47,5 @@ resources:
   name: Community Asset Transfer Register
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Community Asset Transfer Register - Angus
+title: Community asset transfer register - angus
 ---

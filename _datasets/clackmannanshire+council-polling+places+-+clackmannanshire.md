@@ -49,5 +49,5 @@ resources:
   name: Polling Places
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/5d38dcd0-dbe5-44f0-8132-6f2867b8e189/download/clacks_pollingplaces.gpkg
 schema: default
-title: Polling Places - Clackmannanshire
+title: Polling places - clackmannanshire
 ---

@@ -38,5 +38,5 @@ resources:
   name: Teenage Pregnancies by Outcome and Deprivation
   url: https://www.opendata.nhs.scot/dataset/17eeca19-a7ef-4f52-9ec4-5f9331e31cfc/resource/3ce36f7a-73da-45c6-909a-0898191ee611/download/tp_od_outcomesimd.csv
 schema: default
-title: Teenage Pregnancy
+title: Teenage pregnancy
 ---

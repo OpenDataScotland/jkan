@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/average-household-size
 records: null
 resources: []
 schema: default
-title: Average Household Size
+title: Average household size
 ---

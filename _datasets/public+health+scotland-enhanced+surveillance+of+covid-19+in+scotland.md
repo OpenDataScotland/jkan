@@ -41,5 +41,5 @@ resources:
   name: Seroprevalence by Sex
   url: https://www.opendata.nhs.scot/dataset/3c5231ee-dfba-451f-a21f-e17839e32f83/resource/4936110e-642f-4a77-87dd-5f8bc6fb36b3/download/serology_sex.csv
 schema: default
-title: Enhanced Surveillance Of Covid-19 In Scotland
+title: Enhanced surveillance of covid-19 in scotland
 ---

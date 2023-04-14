@@ -36,5 +36,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/04749b8d2c5b49a89cd9f9d0d36ea35a_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Flowcountry Proposedworldheritagesite
+title: Flowcountry proposedworldheritagesite
 ---

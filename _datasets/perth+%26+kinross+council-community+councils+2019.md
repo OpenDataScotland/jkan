@@ -37,5 +37,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/8c7e6a37902743259d84ce95c905b7d0_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Community Councils 2019
+title: Community councils 2019
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-
 records: null
 resources: []
 schema: default
-title: 'Social Security Scotland Feedback: Compliments'
+title: 'Social security scotland feedback: compliments'
 ---

@@ -27,5 +27,5 @@ resources:
   name: Alcohol Prohibition Areas
   url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Alcohol_Free_Zones_Public/WFSServer?service=wfs&request=getcapabilities
 schema: default
-title: Alcohol Prohibition Areas - Fife
+title: Alcohol prohibition areas - fife
 ---

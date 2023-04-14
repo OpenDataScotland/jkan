@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=0c1c919409754d6d
 records: 733
 resources: []
 schema: default
-title: Open Data - Renewables Energy Sites
+title: Open data - renewables energy sites
 ---

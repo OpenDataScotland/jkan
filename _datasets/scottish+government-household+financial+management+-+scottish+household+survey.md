@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-financial-manag
 records: null
 resources: []
 schema: default
-title: Household Financial Management - Scottish Household Survey
+title: Household financial management - scottish household survey
 ---

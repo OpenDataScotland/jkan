@@ -22,5 +22,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=7fe8dc2f9ea14765
 records: 8
 resources: []
 schema: default
-title: Local Development Plan 2015 Area Of Great Landscape Value (Aglv) (Moray)
+title: Local development plan 2015 area of great landscape value (aglv) (moray)
 ---

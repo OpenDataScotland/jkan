@@ -32,5 +32,5 @@ resources:
   name: Community Council Boundaries
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Community_Councils_2018/FeatureServer/39/query?outFields=*&where=1%3D1
 schema: default
-title: Community Council Boundaries - Aberdeen City
+title: Community council boundaries - aberdeen city
 ---

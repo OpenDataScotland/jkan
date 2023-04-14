@@ -39,5 +39,5 @@ resources:
   name: Conservation Areas
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/14/query?outFields=*&where=1%3D1
 schema: default
-title: Conservation Areas - Glasgow City
+title: Conservation areas - glasgow city
 ---

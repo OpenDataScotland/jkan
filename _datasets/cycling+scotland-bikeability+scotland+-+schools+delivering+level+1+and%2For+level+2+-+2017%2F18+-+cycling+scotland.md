@@ -26,6 +26,6 @@ resources:
     - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=71dd3758-e670-43a4-9623-7d4ced6277de
 schema: default
-title: Bikeability Scotland - Schools Delivering Level 1 And/Or Level 2 - 2017/18
-  - Cycling Scotland
+title: Bikeability scotland - schools delivering level 1 and/or level 2 - 2017/18
+  - cycling scotland
 ---

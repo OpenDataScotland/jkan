@@ -23,5 +23,5 @@ resources:
   name: Spatial Hub WFS - Car Parks
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
 schema: default
-title: Car Parking - North Ayrshire
+title: Car parking - north ayrshire
 ---

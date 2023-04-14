@@ -14,5 +14,5 @@ resources:
   name: HTML
   url: https://maps.nls.uk/projects/stevenson/download.html
 schema: default
-title: Stevenson Maps And Plans Of Scotland
+title: Stevenson maps and plans of scotland
 ---

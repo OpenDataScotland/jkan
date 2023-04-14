@@ -19,5 +19,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=6f13c918c4254634
 records: 85
 resources: []
 schema: default
-title: Rdc Wiat Challenge Fund Boundary 2007-2013
+title: Rdc wiat challenge fund boundary 2007-2013
 ---

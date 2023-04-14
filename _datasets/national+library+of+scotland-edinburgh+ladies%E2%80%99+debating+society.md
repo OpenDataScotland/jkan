@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-ladiesDebating.zip
 schema: default
-title: "Edinburgh Ladies\u2019 Debating Society"
+title: "Edinburgh ladies\u2019 debating society"
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-type
 records: null
 resources: []
 schema: default
-title: Household Type
+title: Household type
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=80572b43c4b24d73
 records: 72
 resources: []
 schema: default
-title: Polling Districts 2022
+title: Polling districts 2022
 ---

@@ -26,5 +26,5 @@ resources:
   name: Smoke Control Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Smoke Control Areas - North Lanarkshire
+title: Smoke control areas - north lanarkshire
 ---

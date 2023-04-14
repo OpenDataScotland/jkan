@@ -23,5 +23,5 @@ resources:
   name: Edinburgh Housing Land Audit 2022
   url: https://data.spatialhub.scot/dataset/013f88d3-8abe-4259-8485-58725b09c71d/resource/3ee8b0d4-8886-4c31-83c0-0445796810ef/download/hlacp_2022_schedules.zip
 schema: default
-title: Housing Land Supply - City Of Edinburgh
+title: Housing land supply - city of edinburgh
 ---

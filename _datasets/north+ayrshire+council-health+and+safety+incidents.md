@@ -25,5 +25,5 @@ resources:
   name: GEOJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::health-and-safety-incidents.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Health And Safety Incidents
+title: Health and safety incidents
 ---

@@ -23,5 +23,5 @@ resources:
   name: DCC Polling districts and polling places
   url: https://opendata-dundeecity.hub.arcgis.com/maps/dfd30f77e42443dfbfc424141fbc6be4/about
 schema: default
-title: Polling Districts And Polling Places
+title: Polling districts and polling places
 ---

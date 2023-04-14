@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/population-projections-20
 records: null
 resources: []
 schema: default
-title: Population Projections (2020-Based)
+title: Population projections (2020-based)
 ---

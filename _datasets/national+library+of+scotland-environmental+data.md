@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/organisational/nls-environmental-data.zip
 schema: default
-title: Environmental Data
+title: Environmental data
 ---

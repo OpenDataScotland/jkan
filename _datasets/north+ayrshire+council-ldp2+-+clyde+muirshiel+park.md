@@ -28,5 +28,5 @@ resources:
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-clyde-muirshiel-park.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Ldp2 - Clyde Muirshiel Park
+title: Ldp2 - clyde muirshiel park
 ---

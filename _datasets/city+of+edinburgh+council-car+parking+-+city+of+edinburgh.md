@@ -29,5 +29,5 @@ resources:
   name: Waiting and loading markings
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Car Parking - City Of Edinburgh
+title: Car parking - city of edinburgh
 ---

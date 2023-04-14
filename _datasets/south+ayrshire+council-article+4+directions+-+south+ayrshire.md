@@ -32,5 +32,5 @@ resources:
   name: Conservation Areas and Article 4 directions
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Article 4 Directions - South Ayrshire
+title: Article 4 directions - south ayrshire
 ---

@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/79ef41dbda4440c282e114712d81510e_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Core Paths Adopted
+title: Core paths adopted
 ---

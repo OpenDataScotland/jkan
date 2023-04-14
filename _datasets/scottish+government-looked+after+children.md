@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/looked-after-children
 records: null
 resources: []
 schema: default
-title: Looked After Children
+title: Looked after children
 ---

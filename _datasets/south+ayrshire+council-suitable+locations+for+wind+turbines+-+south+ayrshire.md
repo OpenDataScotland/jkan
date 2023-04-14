@@ -15,5 +15,5 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/suitable_locations
 records: null
 resources: []
 schema: default
-title: Suitable Locations For Wind Turbines - South Ayrshire
+title: Suitable locations for wind turbines - south ayrshire
 ---

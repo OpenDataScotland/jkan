@@ -14,5 +14,5 @@ original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/pages/
 records: null
 resources: []
 schema: default
-title: App Gallery
+title: App gallery
 ---

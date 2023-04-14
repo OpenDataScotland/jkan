@@ -32,5 +32,5 @@ resources:
   name: Article 4 Directions
   url: https://data.spatialhub.scot/dataset/0babe9c8-707d-499b-9274-ed8eb42bf023/resource/f023908d-de6e-46a1-8abf-6ddaa037222c/download/article4directions.zip
 schema: default
-title: Article 4 Directions - Glasgow City
+title: Article 4 directions - glasgow city
 ---

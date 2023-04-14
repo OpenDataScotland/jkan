@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-l
 records: null
 resources: []
 schema: default
-title: Local Authority Housing Lettings
+title: Local authority housing lettings
 ---

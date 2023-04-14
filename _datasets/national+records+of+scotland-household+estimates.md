@@ -17,5 +17,5 @@ original_dataset_link: http://statistics.gov.scot/data/household-estimates
 records: null
 resources: []
 schema: default
-title: Household Estimates
+title: Household estimates
 ---

@@ -57,5 +57,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-population-projections-all-persons-2016.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Nrs Population Projections (All Persons 2016)
+title: Population and society - nrs population projections (all persons 2016)
 ---

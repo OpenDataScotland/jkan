@@ -86,5 +86,5 @@ resources:
   name: Gaelic primary school catchments
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: School Catchments - Glasgow City
+title: School catchments - glasgow city
 ---

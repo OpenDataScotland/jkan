@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Soviet-Posters.zip
 schema: default
-title: Soviet Posters
+title: Soviet posters
 ---

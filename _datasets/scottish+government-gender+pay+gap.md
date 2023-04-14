@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/earnings-paygap
 records: null
 resources: []
 schema: default
-title: Gender Pay Gap
+title: Gender pay gap
 ---

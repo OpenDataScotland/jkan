@@ -30,5 +30,5 @@ resources:
   name: Web Feature Service
   url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?service=WFS&version=1.1.0&request=getCapabilities
 schema: default
-title: Recycling Point Locations
+title: Recycling point locations
 ---

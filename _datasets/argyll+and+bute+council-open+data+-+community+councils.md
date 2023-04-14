@@ -15,5 +15,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=faa76111592f4802
 records: 56
 resources: []
 schema: default
-title: Open Data - Community Councils
+title: Open data - community councils
 ---

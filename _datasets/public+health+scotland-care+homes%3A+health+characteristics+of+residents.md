@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-health-charact
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Health Characteristics Of Residents'
+title: 'Care homes: health characteristics of residents'
 ---

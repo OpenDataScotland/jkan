@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-type
 records: null
 resources: []
 schema: default
-title: Dwellings By Type
+title: Dwellings by type
 ---

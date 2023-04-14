@@ -53,5 +53,5 @@ resources:
   name: Denom secondary catchments
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
 schema: default
-title: School Catchments - Dundee City
+title: School catchments - dundee city
 ---

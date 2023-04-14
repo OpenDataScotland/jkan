@@ -42,5 +42,5 @@ resources:
   name: Conservation Areas
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/DCC_Conservation_Areas_2020/FeatureServer/1/query?outFields=*&where=1%3D1
 schema: default
-title: Conservation Areas - Dundee City
+title: Conservation areas - dundee city
 ---

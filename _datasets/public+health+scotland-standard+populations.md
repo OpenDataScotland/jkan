@@ -27,5 +27,5 @@ resources:
   name: World Standard Population by Sex
   url: https://www.opendata.nhs.scot/dataset/4dd86111-7326-48c4-8763-8cc4aa190c3e/resource/2f493d21-fd39-48f9-ad6a-9b2c95b32e30/download/world_standard_population_by_sex.csv
 schema: default
-title: Standard Populations
+title: Standard populations
 ---

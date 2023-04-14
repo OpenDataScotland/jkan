@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=310950083fd945d5
 records: 126
 resources: []
 schema: default
-title: Prestwick Airport Safeguarding Zones
+title: Prestwick airport safeguarding zones
 ---

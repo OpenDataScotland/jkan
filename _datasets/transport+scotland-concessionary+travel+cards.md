@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/concessionary-cards
 records: null
 resources: []
 schema: default
-title: Concessionary Travel Cards
+title: Concessionary travel cards
 ---

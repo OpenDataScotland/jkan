@@ -14,5 +14,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://gisdata-nlcmaps.opendata.arcgis.com
 schema: default
-title: North Lanarkshire Council - Gis Open Data
+title: North lanarkshire council - gis open data
 ---

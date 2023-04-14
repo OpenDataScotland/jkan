@@ -21,5 +21,5 @@ resources:
   name: Local_Development_Plan
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local Development Plans - South Ayrshire
+title: Local development plans - south ayrshire
 ---

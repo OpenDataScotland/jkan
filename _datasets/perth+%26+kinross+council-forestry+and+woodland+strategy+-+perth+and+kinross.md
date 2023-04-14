@@ -27,5 +27,5 @@ resources:
   name: Forest and Woodland Strategy
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4/query?outFields=*&where=1%3D1
 schema: default
-title: Forestry And Woodland Strategy - Perth And Kinross
+title: Forestry and woodland strategy - perth and kinross
 ---

@@ -25,5 +25,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=0828c75754324d5e
 records: 43
 resources: []
 schema: default
-title: Primary School Catchments 2016 - 2017 (Moray) (Non Denominational)
+title: Primary school catchments 2016 - 2017 (moray) (non denominational)
 ---

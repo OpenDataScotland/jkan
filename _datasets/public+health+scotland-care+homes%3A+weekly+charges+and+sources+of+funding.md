@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-weekly-charges
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Weekly Charges And Sources Of Funding'
+title: 'Care homes: weekly charges and sources of funding'
 ---

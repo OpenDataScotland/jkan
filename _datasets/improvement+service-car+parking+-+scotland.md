@@ -35,5 +35,5 @@ resources:
   name: 'Car Parking: Parking Zones '
   url: https://geo.spatialhub.scot/geoserver/sh_crpk/wfs?service=wfs&typeName=sh_crpk:pub_crpkpz
 schema: default
-title: Car Parking - Scotland
+title: Car parking - scotland
 ---

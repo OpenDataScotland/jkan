@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/never-worked
 records: null
 resources: []
 schema: default
-title: Never Worked
+title: Never worked
 ---

@@ -49,5 +49,5 @@ resources:
   name: Vacancies March 2018
   url: https://www.opendata.nhs.scot/dataset/61877c44-de42-4c93-b7e2-276146e12701/resource/2036e866-823f-4fbd-976e-301cc7fa3d6d/download/nandm_vacancy_mar18rev.csv
 schema: default
-title: Nursing And Midwifery Vacancies
+title: Nursing and midwifery vacancies
 ---

@@ -32,5 +32,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/5b33371b1bca49808614a7d2452ac418_10.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Electric Vehicle Charging Points
+title: Electric vehicle charging points
 ---

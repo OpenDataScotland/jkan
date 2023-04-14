@@ -14,5 +14,5 @@ resources:
   name: UK/TRANSCRIPTIONS/PATHS/HELP/#DOWNLOAD
   url: https://maps.nls.uk/transcriptions/paths/help/#download
 schema: default
-title: Historic Footpaths
+title: Historic footpaths
 ---

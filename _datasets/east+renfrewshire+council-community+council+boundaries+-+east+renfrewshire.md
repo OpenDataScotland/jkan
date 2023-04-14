@@ -29,5 +29,5 @@ resources:
   name: East Renfrewshire Community Councils
   url: https://data.spatialhub.scot/dataset/0c6f13e2-e5ba-4792-a11d-de940ae6f359/resource/dda8ea95-62f3-40cb-9626-70822d397440/download/er-community-councils.zip
 schema: default
-title: Community Council Boundaries - East Renfrewshire
+title: Community council boundaries - east renfrewshire
 ---

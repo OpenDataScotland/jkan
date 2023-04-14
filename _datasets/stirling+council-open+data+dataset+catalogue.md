@@ -20,5 +20,5 @@ resources:
   name: Dataset Catalogue
   url: https://data.stirling.gov.uk/dataset/37182a9f-96a2-44f4-8f23-1fb7a7395787/resource/47f987f8-d05f-4238-beae-bcd28559bf2b/download/20230210-stirling-council-open-data-dataset-catalogue-as-at-10.02.2023.csv
 schema: default
-title: Open Data Dataset Catalogue
+title: Open data dataset catalogue
 ---

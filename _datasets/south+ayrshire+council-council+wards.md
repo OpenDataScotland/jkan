@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a2f8a89dc3e7448c
 records: 8
 resources: []
 schema: default
-title: Council Wards
+title: Council wards
 ---

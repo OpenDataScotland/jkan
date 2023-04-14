@@ -18,6 +18,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/a9d57c3f-7176-4f5a-8b63-f1f160a78f66/1/urql
 schema: default
-title: National Monitoring Framework - All-Mode Traffic Survey Locations - Cycling
-  Scotland
+title: National monitoring framework - all-mode traffic survey locations - cycling
+  scotland
 ---

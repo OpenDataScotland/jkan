@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-chapbooks.zip
 schema: default
-title: Chapbooks Printed In Scotland
+title: Chapbooks printed in scotland
 ---

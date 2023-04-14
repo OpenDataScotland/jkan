@@ -44,5 +44,5 @@ resources:
   name: Polling districts 2018
   url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/f7bca41f-a460-4c29-ae7d-3d54c6cf5cc5/download/current-polling-districts.zip
 schema: default
-title: Polling Districts - Inverclyde
+title: Polling districts - inverclyde
 ---

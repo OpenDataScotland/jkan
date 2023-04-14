@@ -32,5 +32,5 @@ resources:
   name: Article 4 directions
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 schema: default
-title: Article 4 Directions - Dundee City
+title: Article 4 directions - dundee city
 ---

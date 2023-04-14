@@ -23,5 +23,5 @@ resources:
   name: 'Renewable Energy Sites: Polygons '
   url: https://geo.spatialhub.scot/geoserver/sh_res/wfs?service=wfs&typeName=sh_res:pub_respol
 schema: default
-title: Renewable Energy Sites - Scotland
+title: Renewable energy sites - scotland
 ---

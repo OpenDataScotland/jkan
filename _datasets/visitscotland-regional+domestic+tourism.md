@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/regional-domestic-tourism
 records: null
 resources: []
 schema: default
-title: Regional Domestic Tourism
+title: Regional domestic tourism
 ---

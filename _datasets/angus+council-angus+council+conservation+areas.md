@@ -22,5 +22,5 @@ resources:
   name: GeoJSON for Conservation Areas
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_conservationareas&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Conservation Areas
+title: Angus council conservation areas
 ---

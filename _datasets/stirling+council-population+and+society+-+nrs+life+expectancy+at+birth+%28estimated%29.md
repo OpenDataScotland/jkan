@@ -41,5 +41,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-life-expectancy-at-birth-estimated.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Nrs Life Expectancy At Birth (Estimated)
+title: Population and society - nrs life expectancy at birth (estimated)
 ---

@@ -14,5 +14,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://storymaps.arcgis.com/stories/94d5254200a5417689dbab2f7923817f
 schema: default
-title: How Do People Move Round Our City During Lockdown?
+title: How do people move round our city during lockdown?
 ---

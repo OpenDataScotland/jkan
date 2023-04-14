@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ddbc67e3368447b2
 records: 20
 resources: []
 schema: default
-title: Local Development Plan 2020 Mineral Sites (Moray)
+title: Local development plan 2020 mineral sites (moray)
 ---

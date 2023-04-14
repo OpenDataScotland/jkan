@@ -54,5 +54,5 @@ resources:
   name: Admissions By HSCP and Specialty
   url: https://www.opendata.nhs.scot/dataset/578ff074-93f6-4127-a872-0ab97f9d5587/resource/02696773-7aaf-48ce-b3d5-479d86fc8334/download/hospital_admissions_hscp_specialty_20230405.csv
 schema: default
-title: Covid-19 Wider Impacts - Hospital Admissions
+title: Covid-19 wider impacts - hospital admissions
 ---

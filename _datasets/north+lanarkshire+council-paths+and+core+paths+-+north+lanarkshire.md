@@ -33,5 +33,5 @@ resources:
   name: Core path network
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
 schema: default
-title: Paths And Core Paths - North Lanarkshire
+title: Paths and core paths - north lanarkshire
 ---

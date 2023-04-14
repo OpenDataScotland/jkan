@@ -19,5 +19,5 @@ resources:
   name: Speed Surveys - October 2017 Extract
   url: https://data.dundeecity.gov.uk/dataset/b8273ab2-e87c-43f7-b8b9-e7699a847659/resource/46bfcf3b-98c0-41ad-a949-84ddfe4cfca0/download/speed-surveys-october_2017_export.zip
 schema: default
-title: Speed Surveys
+title: Speed surveys
 ---

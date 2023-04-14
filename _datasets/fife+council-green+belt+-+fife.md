@@ -42,5 +42,5 @@ resources:
   name: Fife Green Belt
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
 schema: default
-title: Green Belt - Fife
+title: Green belt - fife
 ---

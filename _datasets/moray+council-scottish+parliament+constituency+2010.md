@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=50ca14c63c434679
 records: 73
 resources: []
 schema: default
-title: Scottish Parliament Constituency 2010
+title: Scottish parliament constituency 2010
 ---

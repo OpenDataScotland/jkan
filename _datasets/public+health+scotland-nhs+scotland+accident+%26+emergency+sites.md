@@ -16,5 +16,5 @@ resources:
   name: Accident & Emergency Sites
   url: https://www.opendata.nhs.scot/dataset/a877470a-06a9-492f-b9e8-992f758894d0/resource/1a4e3f48-3d9b-4769-80e9-3ef6d27852fe/download/hospital_site_list.csv
 schema: default
-title: Nhs Scotland Accident & Emergency Sites
+title: Nhs scotland accident & emergency sites
 ---

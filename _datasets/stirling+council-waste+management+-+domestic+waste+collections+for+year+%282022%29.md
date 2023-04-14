@@ -27,5 +27,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-domestic-waste-collections-for-year-2022.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Waste Management - Domestic Waste Collections For Year (2022)
+title: Waste management - domestic waste collections for year (2022)
 ---

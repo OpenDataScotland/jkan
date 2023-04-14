@@ -17,5 +17,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/65c641db-3271-4f96-8cb4-94cf9e6379b4/resource/6f8182d2-2993-400d-829d-b52cdb324bf3/download/datadictionary.json
 schema: default
-title: Sicsag Episodes (Scottish Intensive Care Audit Group)
+title: Sicsag episodes (scottish intensive care audit group)
 ---

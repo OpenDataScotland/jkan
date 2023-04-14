@@ -29,5 +29,5 @@ resources:
   name: 'Air Quality Management Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_aqma/wfs?service=wfs&typeName=sh_aqma:pub_aqma
 schema: default
-title: Air Quality Management Areas - Scotland
+title: Air quality management areas - scotland
 ---

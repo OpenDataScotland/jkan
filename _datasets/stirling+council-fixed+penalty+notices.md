@@ -43,5 +43,5 @@ resources:
   name: Fixed Penalty Notices April 2022 to March 2023
   url: https://data.stirling.gov.uk/dataset/bfda5c46-a314-4c34-b0dd-208bf43911a4/resource/daa0ac82-5ca0-4094-84c5-3eea20d38b01/download/20230127-stirling-council-fixed-penalty-notices-01.04.2022-to-31.03.2023.csv
 schema: default
-title: Fixed Penalty Notices
+title: Fixed penalty notices
 ---

@@ -26,5 +26,5 @@ resources:
   name: Council Asset Register - HC Property Centroids (Community Empowerment Act)
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CEA_HC_Property_Centroids/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Council Asset Register - Highland
+title: Council asset register - highland
 ---

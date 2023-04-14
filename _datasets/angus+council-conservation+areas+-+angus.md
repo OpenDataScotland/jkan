@@ -39,5 +39,5 @@ resources:
   name: Conservation Areas in Angus Council
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Conservation Areas - Angus
+title: Conservation areas - angus
 ---

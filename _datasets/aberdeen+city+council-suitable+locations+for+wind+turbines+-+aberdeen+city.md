@@ -21,5 +21,5 @@ resources:
   name: Suitable Locations for Wind Turbines
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Suitable_Locations_for_Wind_Turbines/FeatureServer
 schema: default
-title: Suitable Locations For Wind Turbines - Aberdeen City
+title: Suitable locations for wind turbines - aberdeen city
 ---

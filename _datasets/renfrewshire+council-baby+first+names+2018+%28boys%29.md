@@ -20,5 +20,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a6603c44e7d44c1f
 records: 90
 resources: []
 schema: default
-title: Baby First Names 2018 (Boys)
+title: Baby first names 2018 (boys)
 ---

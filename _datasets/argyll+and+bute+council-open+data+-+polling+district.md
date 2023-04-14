@@ -25,5 +25,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=acae4681cabe4ed5
 records: 116
 resources: []
 schema: default
-title: Open Data - Polling District
+title: Open data - polling district
 ---

@@ -32,5 +32,5 @@ resources:
   name: Community Council boundaries
   url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Community Council Boundaries - Argyll And Bute
+title: Community council boundaries - argyll and bute
 ---

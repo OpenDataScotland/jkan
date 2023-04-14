@@ -36,5 +36,5 @@ resources:
   name: Stirling Conservation Areas (not LLTNP)
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Planning_Conservation_Areas_HES/FeatureServer/8/query?outFields=*&where=1%3D1
 schema: default
-title: Conservation Areas - Stirling
+title: Conservation areas - stirling
 ---

@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=f20718b1400045ba
 records: 13
 resources: []
 schema: default
-title: Local Development Plan 2020 Special Landscape Areas (Sla) (Moray)
+title: Local development plan 2020 special landscape areas (sla) (moray)
 ---

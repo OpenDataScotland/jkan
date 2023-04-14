@@ -16,5 +16,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://stirling-council.maps.arcgis.com/apps/instant/media/index.html?appid=8023820a9e6b48b2a47c3d37e5dde24a
 schema: default
-title: Traffic Management - Car Parks
+title: Traffic management - car parks
 ---

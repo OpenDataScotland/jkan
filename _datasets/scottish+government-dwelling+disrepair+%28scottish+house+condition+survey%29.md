@@ -16,5 +16,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwelling-disrepair-scotti
 records: null
 resources: []
 schema: default
-title: Dwelling Disrepair (Scottish House Condition Survey)
+title: Dwelling disrepair (scottish house condition survey)
 ---

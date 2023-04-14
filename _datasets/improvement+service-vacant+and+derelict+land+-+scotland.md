@@ -30,5 +30,5 @@ resources:
   name: 'Vacant and Derelict Land '
   url: https://geo.spatialhub.scot/geoserver/sh_vdl/wfs?service=wfs&typeName=sh_vdl:pub_vdl
 schema: default
-title: Vacant And Derelict Land - Scotland
+title: Vacant and derelict land - scotland
 ---

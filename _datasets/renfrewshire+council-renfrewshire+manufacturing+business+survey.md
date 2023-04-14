@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=84f1823966ba442e
 records: null
 resources: []
 schema: default
-title: Renfrewshire Manufacturing Business Survey
+title: Renfrewshire manufacturing business survey
 ---

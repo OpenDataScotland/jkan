@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-hectare
 records: null
 resources: []
 schema: default
-title: Dwellings Per Hectare
+title: Dwellings per hectare
 ---

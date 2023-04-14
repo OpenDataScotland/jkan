@@ -18,5 +18,5 @@ resources:
   name: PE.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=2d7dc236-7e75-4c27-a60f-2000d039dda2
 schema: default
-title: Pe Provision
+title: Pe provision
 ---

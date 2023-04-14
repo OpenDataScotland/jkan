@@ -43,5 +43,5 @@ resources:
   name: Ongoing Waits in Prisons
   url: https://www.opendata.nhs.scot/dataset/31597116-4a57-4c6c-a250-3ae8baa36864/resource/a5595172-90d7-4c3b-934f-b5dd0effd38d/download/20220628-all-quarters-ongoing-prisons.csv
 schema: default
-title: Archived - Drug And Alcohol Treatment Waiting Times
+title: Archived - drug and alcohol treatment waiting times
 ---

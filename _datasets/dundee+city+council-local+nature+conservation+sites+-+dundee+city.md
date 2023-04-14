@@ -22,5 +22,5 @@ resources:
   name: Locally Importance Nature Conservation Sites 2021
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/LDP2019_WFS/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
 schema: default
-title: Local Nature Conservation Sites - Dundee City
+title: Local nature conservation sites - dundee city
 ---

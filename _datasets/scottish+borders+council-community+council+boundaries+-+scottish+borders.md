@@ -32,5 +32,5 @@ resources:
   name: CC Boundaries
   url: https://data.spatialhub.scot/dataset/a86aea80-d5d1-41c8-8f5d-87c61e8ff321/resource/07b35399-bd41-4871-b252-28dca2930fb5/download/bound_community_councils.zip
 schema: default
-title: Community Council Boundaries - Scottish Borders
+title: Community council boundaries - scottish borders
 ---

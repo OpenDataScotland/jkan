@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=bc963f15662f4770
 records: 13
 resources: []
 schema: default
-title: Scottish Council Elections May 2017
+title: Scottish council elections may 2017
 ---

@@ -20,5 +20,5 @@ resources:
   name: 'Safety Features '
   url: https://geo.spatialhub.scot/geoserver/sh_styf/wfs?service=wfs&typeName=sh_styf:pub_styf
 schema: default
-title: Safety Features - Scotland
+title: Safety features - scotland
 ---

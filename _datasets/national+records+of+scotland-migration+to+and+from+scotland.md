@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/migration-to-and-from-sco
 records: null
 resources: []
 schema: default
-title: Migration To And From Scotland
+title: Migration to and from scotland
 ---

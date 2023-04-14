@@ -47,5 +47,5 @@ resources:
   name: 'ScotPHO - Estimated Life Expectancy at Birth: 2018'
   url: https://data.dundeecity.gov.uk/dataset/f0785209-1c81-4dd6-b25e-564340e88b65/resource/658c6801-f72c-4e56-b07e-80c90dbaadaa/download/scotpho_life_expectancy_2018.csv
 schema: default
-title: Scotpho Life Expectancy Intermediate Zone Level
+title: Scotpho life expectancy intermediate zone level
 ---

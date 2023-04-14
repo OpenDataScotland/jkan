@@ -36,5 +36,5 @@ resources:
   name: North Lanarkshire Conservation Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Conservation Areas - North Lanarkshire
+title: Conservation areas - north lanarkshire
 ---

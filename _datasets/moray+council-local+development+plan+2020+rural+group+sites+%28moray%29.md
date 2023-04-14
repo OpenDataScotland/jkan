@@ -20,5 +20,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=673187f103714c21
 records: 200
 resources: []
 schema: default
-title: Local Development Plan 2020 Rural Group Sites (Moray)
+title: Local development plan 2020 rural group sites (moray)
 ---

@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-authority-vacant-dw
 records: null
 resources: []
 schema: default
-title: Local Authority Vacant Dwellings (Vacancies Arising During The Year)
+title: Local authority vacant dwellings (vacancies arising during the year)
 ---

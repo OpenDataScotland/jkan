@@ -55,5 +55,5 @@ resources:
   name: Gestation Data by Deprivation
   url: https://www.opendata.nhs.scot/dataset/998bcfd5-f985-407c-9a71-dea23aaff16e/resource/4a423747-5f6d-4415-bae5-27111c990036/download/gestation_simd_20230405.csv
 schema: default
-title: Covid-19 Wider Impacts - Gestation At Delivery
+title: Covid-19 wider impacts - gestation at delivery
 ---

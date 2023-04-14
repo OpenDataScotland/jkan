@@ -33,5 +33,5 @@ resources:
   name: Core Paths
   url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/ad3a7522-14ae-4778-a4bc-105d55c21606/download/core-paths-2015-2022-12-16-11-15-57.zip
 schema: default
-title: Paths And Core Paths - East Lothian
+title: Paths and core paths - east lothian
 ---

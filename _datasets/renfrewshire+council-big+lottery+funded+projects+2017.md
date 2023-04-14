@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ff235ddc77b64f1a
 records: 26
 resources: []
 schema: default
-title: Big Lottery Funded Projects 2017
+title: Big lottery funded projects 2017
 ---

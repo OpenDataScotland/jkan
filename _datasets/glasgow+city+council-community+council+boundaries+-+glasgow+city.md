@@ -29,5 +29,5 @@ resources:
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/65fa1860-3a44-4c71-8fed-82a9ba0e096e/resource/ded5f05a-4ee7-4981-940c-650e0b6b5352/download/community_councils.zip
 schema: default
-title: Community Council Boundaries - Glasgow City
+title: Community council boundaries - glasgow city
 ---

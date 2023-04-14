@@ -24,5 +24,5 @@ resources:
   name: Monthly 18 Weeks RTT by Health Boards
   url: https://www.opendata.nhs.scot/dataset/aa8b22e8-8a02-484d-a6c8-0a0154a6249d/resource/f2598c24-bf00-4171-b7ef-a469bbacbf6c/download/open_data_18_weeks_rtt_dec22.csv
 schema: default
-title: 18 Weeks Referral To Treatment
+title: 18 weeks referral to treatment
 ---

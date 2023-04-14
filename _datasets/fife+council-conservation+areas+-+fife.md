@@ -51,5 +51,5 @@ resources:
   name: Conservation Areas
   url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/arcgis/rest/services/Conservation_Areas/FeatureServer
 schema: default
-title: Conservation Areas - Fife
+title: Conservation areas - fife
 ---

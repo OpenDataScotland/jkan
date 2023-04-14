@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-encyclopaediaBritannica.zip
 schema: default
-title: Encyclopaedia Britannica
+title: Encyclopaedia britannica
 ---

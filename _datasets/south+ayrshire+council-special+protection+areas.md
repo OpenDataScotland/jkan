@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=fdd7141aced44013
 records: 4564
 resources: []
 schema: default
-title: Special Protection Areas
+title: Special protection areas
 ---

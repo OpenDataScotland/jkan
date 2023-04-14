@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/smoking-at-booking
 records: null
 resources: []
 schema: default
-title: Ante-Natal Smoking
+title: Ante-natal smoking
 ---

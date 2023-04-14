@@ -34,5 +34,5 @@ resources:
   name: 'A&Cs on Rural & Urban Roads: 2017 to 2021'
   url: https://data.stirling.gov.uk/dataset/bacc4a24-851e-457c-9043-c192f2fd9fb6/resource/f1a7abb4-a035-4dc7-b095-5ecb9ce4d468/download/20221121-stirling-council-dft-accidents-casualties-on-rural-urban-roads-2017-to-2021.csv
 schema: default
-title: 'Dft: Road Safety Statistics'
+title: 'Dft: road safety statistics'
 ---

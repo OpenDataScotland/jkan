@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=15d53172ebd44cf4
 records: 5
 resources: []
 schema: default
-title: Open Data - Strategic Industry And Business Location
+title: Open data - strategic industry and business location
 ---

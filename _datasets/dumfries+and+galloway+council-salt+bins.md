@@ -20,5 +20,5 @@ resources:
   name: Salt Bins.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=54428067-660c-4e13-af89-b65cdfbd9ee6
 schema: default
-title: Salt Bins
+title: Salt bins
 ---

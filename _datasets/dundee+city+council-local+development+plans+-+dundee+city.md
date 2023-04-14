@@ -21,5 +21,5 @@ resources:
   name: LDP layers
   url: http://dundeecity.maps.arcgis.com/home/item.html?id=6bd0011538594e8e9f422d24b22d7f8c
 schema: default
-title: Local Development Plans - Dundee City
+title: Local development plans - dundee city
 ---

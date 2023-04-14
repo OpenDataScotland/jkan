@@ -20,5 +20,5 @@ resources:
   name: Streetlighting
   url: https://opendata-dundeecity.hub.arcgis.com/maps/aed5fe29dbca4e388d887e495089676e/about
 schema: default
-title: Dundee Street Lighting
+title: Dundee street lighting
 ---

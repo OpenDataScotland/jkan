@@ -66,5 +66,5 @@ resources:
   name: 'Planning Applications: Calendar Year (Polygon)'
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyearpol
 schema: default
-title: Planning Applications - Scotland
+title: Planning applications - scotland
 ---

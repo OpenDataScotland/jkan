@@ -26,6 +26,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f2345a0f-7653-4fda-85c7-7d5816d01376/1/urql
 schema: default
-title: Bikeability Scotland - Schools Delivering Level 1 And/Or Level 2 - 2020/21
-  - Cycling Scotland
+title: Bikeability scotland - schools delivering level 1 and/or level 2 - 2020/21
+  - cycling scotland
 ---

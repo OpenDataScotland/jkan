@@ -16,5 +16,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=mobility&operation=get-mobility-measurements
 schema: default
-title: Cycling Counter Api
+title: Cycling counter api
 ---

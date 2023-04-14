@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/2011-data-zone-archived-g
 records: null
 resources: []
 schema: default
-title: 2011 Data Zone Lookup - Archived Geographies
+title: 2011 data zone lookup - archived geographies
 ---

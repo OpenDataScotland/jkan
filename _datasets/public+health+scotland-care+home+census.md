@@ -69,5 +69,5 @@ resources:
   name: Rate of Care Home Places
   url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/d2f8b247-1b0d-40e1-92f8-df8cd21d5a17/download/file12b_rate_of_registered_places.csv
 schema: default
-title: Care Home Census
+title: Care home census
 ---

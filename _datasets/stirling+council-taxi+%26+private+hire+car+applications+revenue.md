@@ -24,5 +24,5 @@ resources:
   name: 'Licence Applications Revenue Report '
   url: https://data.stirling.gov.uk/dataset/b6d6b7a5-7f74-42c0-8fce-54f17536f135/resource/f5d81a1e-01ad-40d2-aa53-fa87a9c49359/download/20210323-taxi-private-hire-car-applications-2015-to-2019.pdf
 schema: default
-title: Taxi & Private Hire Car Applications Revenue
+title: Taxi & private hire car applications revenue
 ---

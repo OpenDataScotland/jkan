@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9697fc32-5f26-466a-b6b8-f9e15e6a0c3c/1/urql
 schema: default
-title: Glasgow City Council - Hourly Cycling Counts From Automatic Cycling Counters
+title: Glasgow city council - hourly cycling counts from automatic cycling counters
 ---

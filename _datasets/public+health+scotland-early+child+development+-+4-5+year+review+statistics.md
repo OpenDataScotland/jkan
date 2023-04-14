@@ -46,5 +46,5 @@ resources:
   name: 'Review by Looked after Children '
   url: https://www.opendata.nhs.scot/dataset/fbeffeb6-ff26-4bec-86b7-74fc209353dd/resource/f617cb07-a39c-464d-99a9-613062b697ba/download/open4yrsclac.csv
 schema: default
-title: Early Child Development - 4-5 Year Review Statistics
+title: Early child development - 4-5 year review statistics
 ---

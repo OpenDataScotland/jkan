@@ -54,5 +54,5 @@ resources:
   name: 'Culvert (Points) '
   url: https://geo.spatialhub.scot/geoserver/sh_clvt/wfs?service=wfs&typeName=sh_clvt:pub_clvtpnt
 schema: default
-title: Culverts - Scotland
+title: Culverts - scotland
 ---

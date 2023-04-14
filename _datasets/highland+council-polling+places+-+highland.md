@@ -49,5 +49,5 @@ resources:
   name: Polling Places
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PollingPlaces/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Polling Places - Highland
+title: Polling places - highland
 ---

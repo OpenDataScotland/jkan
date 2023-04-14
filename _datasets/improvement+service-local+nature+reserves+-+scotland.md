@@ -20,5 +20,5 @@ resources:
   name: 'Local Nature Reserves '
   url: https://geo.spatialhub.scot/geoserver/sh_lnatr/wfs?service=wfs&typeName=sh_lnatr:pub_lnatr
 schema: default
-title: Local Nature Reserves - Scotland
+title: Local nature reserves - scotland
 ---

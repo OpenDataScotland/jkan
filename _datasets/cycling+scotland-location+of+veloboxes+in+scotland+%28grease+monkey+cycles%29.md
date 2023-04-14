@@ -21,5 +21,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/195fc844-e676-4a6d-846b-2f479f50316a/2/urql
 schema: default
-title: Location Of Veloboxes In Scotland (Grease Monkey Cycles)
+title: Location of veloboxes in scotland (grease monkey cycles)
 ---

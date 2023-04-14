@@ -113,5 +113,5 @@ resources:
   name: "Attainment Statistics (August) 2016\_Colleges"
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_2016_Colleges.xls
 schema: default
-title: Sqa Statistics 2016
+title: Sqa statistics 2016
 ---

@@ -50,5 +50,5 @@ resources:
   name: 'Responses by School Type: 2021'
   url: https://data.stirling.gov.uk/dataset/f11d4f53-992f-411f-af97-ac777b9b475e/resource/d3dae78a-d0d3-47ba-a114-3b779d3df478/download/20230322-stirling-huss-responses-by-school-type-2021.csv
 schema: default
-title: Hands Up Scotland Survey
+title: Hands up scotland survey
 ---

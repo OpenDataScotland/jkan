@@ -30,5 +30,5 @@ resources:
   name: Alcohol Prohibition Areas - Dundee
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 schema: default
-title: Alcohol Prohibition Areas - Dundee City
+title: Alcohol prohibition areas - dundee city
 ---

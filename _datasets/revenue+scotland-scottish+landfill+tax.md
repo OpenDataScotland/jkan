@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/scottish-landfill-tax
 records: null
 resources: []
 schema: default
-title: Scottish Landfill Tax
+title: Scottish landfill tax
 ---

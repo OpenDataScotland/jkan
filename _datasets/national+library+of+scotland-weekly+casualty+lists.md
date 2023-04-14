@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-casualty.zip
 schema: default
-title: Weekly Casualty Lists
+title: Weekly casualty lists
 ---

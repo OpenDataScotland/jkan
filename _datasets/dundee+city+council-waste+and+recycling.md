@@ -30,5 +30,5 @@ resources:
   name: Waste Data For Scotland
   url: https://www.sepa.org.uk/environment/waste/waste-data/waste-data-reporting/waste-data-for-scotland/
 schema: default
-title: Waste And Recycling
+title: Waste and recycling
 ---

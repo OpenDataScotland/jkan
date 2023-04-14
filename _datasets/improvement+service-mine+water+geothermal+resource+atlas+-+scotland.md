@@ -53,5 +53,5 @@ resources:
   name: Mine Water Geothermal Resource Atlas
   url: https://geo.spatialhub.scot/geoserver/sh_mwgt/gwc/service/wmts?authkey=b85aa063-d598-4582-8e45-e7e6048718fc
 schema: default
-title: Mine Water Geothermal Resource Atlas - Scotland
+title: Mine water geothermal resource atlas - scotland
 ---

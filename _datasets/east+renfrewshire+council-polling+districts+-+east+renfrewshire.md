@@ -50,5 +50,5 @@ resources:
   name: ERC Polling Districts - 2021
   url: https://data.spatialhub.scot/dataset/9123d4e8-12dc-4475-b5f1-b1fac75634f5/resource/c56656b7-4425-48b8-8f8e-b17defb927f5/download/erc-polling-districts.zip
 schema: default
-title: Polling Districts - East Renfrewshire
+title: Polling districts - east renfrewshire
 ---

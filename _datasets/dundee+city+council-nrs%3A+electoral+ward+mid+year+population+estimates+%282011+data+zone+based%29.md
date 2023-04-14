@@ -47,5 +47,5 @@ resources:
   name: 'NRS: 2021 Mid Year Electoral Ward Population Estimates - Dundee City '
   url: https://data.dundeecity.gov.uk/dataset/156c7ced-126d-409e-8faa-afa90b775cd6/resource/9b5e895f-faa7-4719-ba5b-c2708f3ffcaa/download/nrs_2021_electoral_ward_mye_population.csv
 schema: default
-title: 'Nrs: Electoral Ward Mid Year Population Estimates (2011 Data Zone Based)'
+title: 'Nrs: electoral ward mid year population estimates (2011 data zone based)'
 ---

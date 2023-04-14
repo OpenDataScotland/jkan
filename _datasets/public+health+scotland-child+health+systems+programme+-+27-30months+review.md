@@ -17,5 +17,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/26b03931-18ce-4a83-99de-1fca258518f3/resource/d2d57b7f-95d8-425f-b2fd-cc9aff05e659/download/datadictionary.json
 schema: default
-title: Child Health Systems Programme - 27-30Months Review
+title: Child health systems programme - 27-30months review
 ---

@@ -47,5 +47,5 @@ resources:
   name: Aberdeen Polling Districts
   url: https://data.spatialhub.scot/dataset/d93106ad-e182-4f15-b2e1-ce78c63fea13/resource/59c3051a-fd66-4fce-b9c7-f99854c2fa2f/download/pollingdists20172.zip
 schema: default
-title: Polling Districts - Aberdeen City
+title: Polling districts - aberdeen city
 ---

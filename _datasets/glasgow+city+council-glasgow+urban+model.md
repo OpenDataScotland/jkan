@@ -15,5 +15,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://gcc-urban-model.ubdc.ac.uk
 schema: default
-title: Glasgow Urban Model
+title: Glasgow urban model
 ---

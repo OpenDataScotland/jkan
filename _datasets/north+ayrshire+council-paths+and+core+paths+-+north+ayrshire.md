@@ -36,5 +36,5 @@ resources:
   name: Core paths
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
 schema: default
-title: Paths And Core Paths - North Ayrshire
+title: Paths and core paths - north ayrshire
 ---

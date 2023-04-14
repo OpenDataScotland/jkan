@@ -98,5 +98,5 @@ resources:
   name: Post-Appeals National Qualification Results 2011
   url: https://www.sqa.org.uk/sqa/files_ccc/Post-AppealsNationalQualificationResultsNov11.xls
 schema: default
-title: Sqa Statistics 2011
+title: Sqa statistics 2011
 ---

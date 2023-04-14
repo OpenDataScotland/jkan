@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/young-carer-grant-applica
 records: null
 resources: []
 schema: default
-title: Young Carer Grant Applications And Payments
+title: Young carer grant applications and payments
 ---

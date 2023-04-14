@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=48dccdf221ba41f3
 records: 53
 resources: []
 schema: default
-title: Open Data - Established Business And Industry Area
+title: Open data - established business and industry area
 ---

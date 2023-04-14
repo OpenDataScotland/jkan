@@ -46,5 +46,5 @@ resources:
   name: Polling Places
   url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/f969f7cc-95da-4056-8c95-cf49903045fb/download/pp_2019v1_custom_point.zip
 schema: default
-title: Polling Places - South Lanarkshire
+title: Polling places - south lanarkshire
 ---

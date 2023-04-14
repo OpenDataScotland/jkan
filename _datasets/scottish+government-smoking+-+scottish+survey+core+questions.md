@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/smoking-sscq
 records: null
 resources: []
 schema: default
-title: Smoking - Scottish Survey Core Questions
+title: Smoking - scottish survey core questions
 ---

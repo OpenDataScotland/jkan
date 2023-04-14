@@ -36,5 +36,5 @@ resources:
   name: 'Population Projections 2018 to 2043: All Persons'
   url: https://data.stirling.gov.uk/dataset/3c7114cb-efe2-4ff2-8041-728f1d33fb5c/resource/fc750a15-15b6-4fd0-821f-04d855127ab2/download/20220707-stirling-council-nrs-population-projections-2018-all-persons.csv
 schema: default
-title: 'Nrs: Population Projections'
+title: 'Nrs: population projections'
 ---

@@ -16,5 +16,5 @@ resources:
   name: 'Cycling Network '
   url: https://geo.spatialhub.scot/geoserver/sh_cycnt/wfs?service=wfs&typeName=sh_cycnt:pub_cycnt
 schema: default
-title: Cycling Network - Scotland
+title: Cycling network - scotland
 ---

@@ -45,5 +45,5 @@ resources:
   name: North Lanarkshire Tree Preservation Orders
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Tree Preservation Orders - North Lanarkshire
+title: Tree preservation orders - north lanarkshire
 ---

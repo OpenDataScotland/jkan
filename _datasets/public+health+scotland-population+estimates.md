@@ -53,5 +53,5 @@ resources:
   name: Health Board (2006) Population Estimates
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/ed097ff7-ae9b-4977-ac13-94bc8d0f1331/download/hb2006_pop_est_01072020.csv
 schema: default
-title: Population Estimates
+title: Population estimates
 ---

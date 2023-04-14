@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e6254992c57f4f65
 records: 231
 resources: []
 schema: default
-title: Scottish Index Of Multiple Deprivation 2016 Indicator Data
+title: Scottish index of multiple deprivation 2016 indicator data
 ---

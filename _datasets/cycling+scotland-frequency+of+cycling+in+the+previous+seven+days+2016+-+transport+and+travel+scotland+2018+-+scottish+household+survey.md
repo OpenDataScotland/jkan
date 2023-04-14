@@ -17,6 +17,6 @@ resources:
   name: SHS_FrequencyCycling_TransportTravelScotland2018.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=7a097bf0-1a75-4cf2-b4d7-90d6b73aa15e
 schema: default
-title: Frequency Of Cycling In The Previous Seven Days 2016 - Transport And Travel
-  Scotland 2018 - Scottish Household Survey
+title: Frequency of cycling in the previous seven days 2016 - transport and travel
+  scotland 2018 - scottish household survey
 ---

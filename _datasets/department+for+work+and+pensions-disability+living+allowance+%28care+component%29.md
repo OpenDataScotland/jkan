@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/disability-living-allowan
 records: null
 resources: []
 schema: default
-title: Disability Living Allowance (Care Component)
+title: Disability living allowance (care component)
 ---

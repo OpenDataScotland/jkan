@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/child-disability-payment
 records: null
 resources: []
 schema: default
-title: 'Child Disability Payment: Applications And Payments'
+title: 'Child disability payment: applications and payments'
 ---

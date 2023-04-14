@@ -15,6 +15,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/baeb00e2-0944-4bbe-8011-3c7598602542/1/urql
 schema: default
-title: Sustrans National Cycle Network (Scotland) - Hourly Cycling Counts From Automatic
-  Cycling Counters
+title: Sustrans national cycle network (scotland) - hourly cycling counts from automatic
+  cycling counters
 ---

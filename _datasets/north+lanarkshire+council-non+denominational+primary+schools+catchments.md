@@ -26,5 +26,5 @@ resources:
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::non-denominational-primary-schools-catchments.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Non Denominational Primary Schools Catchments
+title: Non denominational primary schools catchments
 ---

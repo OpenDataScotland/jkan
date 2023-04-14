@@ -24,5 +24,5 @@ resources:
   name: Spatial Hub WFS
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Alcohol Prohibition Areas - North Ayrshire
+title: Alcohol prohibition areas - north ayrshire
 ---

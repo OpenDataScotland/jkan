@@ -30,5 +30,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-penalty-charge-notices-all-notices-2017-onwards.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Community Safety - Penalty Charge Notices (All Notices 2017 Onwards)
+title: Community safety - penalty charge notices (all notices 2017 onwards)
 ---

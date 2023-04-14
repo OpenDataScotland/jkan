@@ -27,5 +27,5 @@ resources:
   name: About Dundee 2018 Booklet
   url: https://data.dundeecity.gov.uk/dataset/1b35c385-6dda-44e6-afc2-15c16d59b5ef/resource/a13d1ba6-2ec6-4480-ae2a-23f4e16b8e4d/download/about_dundee_2018.pdf
 schema: default
-title: About Dundee 2018 Booklet
+title: About dundee 2018 booklet
 ---

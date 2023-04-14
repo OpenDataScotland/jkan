@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-level-average-house
 records: null
 resources: []
 schema: default
-title: Local Level Average Household Income Estimates 2014
+title: Local level average household income estimates 2014
 ---

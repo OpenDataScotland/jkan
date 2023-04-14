@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/perceptions-of-local-crim
 records: null
 resources: []
 schema: default
-title: Perceptions Of Local Crime - Scottish Surveys Core Questions
+title: Perceptions of local crime - scottish surveys core questions
 ---

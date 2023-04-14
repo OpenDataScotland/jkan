@@ -43,5 +43,5 @@ resources:
   name: Contractor Activity - 2014
   url: https://www.opendata.nhs.scot/dataset/a86fee95-8f92-443a-8ca4-9e814557f3a5/resource/9c22675d-c83f-4245-a0bd-0f1de64fa145/download/contractor-activity-2014.csv
 schema: default
-title: Community Pharmacy - Contractor Activity
+title: Community pharmacy - contractor activity
 ---

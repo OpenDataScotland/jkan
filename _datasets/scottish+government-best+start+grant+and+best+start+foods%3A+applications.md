@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/best-start-grant
 records: null
 resources: []
 schema: default
-title: 'Best Start Grant And Best Start Foods: Applications'
+title: 'Best start grant and best start foods: applications'
 ---

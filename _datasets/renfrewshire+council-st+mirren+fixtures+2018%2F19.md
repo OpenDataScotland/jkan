@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=ed2e302a57a34868
 records: 38
 resources: []
 schema: default
-title: St Mirren Fixtures 2018/19
+title: St mirren fixtures 2018/19
 ---

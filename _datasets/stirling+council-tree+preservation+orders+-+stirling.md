@@ -45,5 +45,5 @@ resources:
   name: Tree Preservation Orders (areas)
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/tpo/FeatureServer/0/query?outFields=*&where=1%3D1&f=json
 schema: default
-title: Tree Preservation Orders - Stirling
+title: Tree preservation orders - stirling
 ---

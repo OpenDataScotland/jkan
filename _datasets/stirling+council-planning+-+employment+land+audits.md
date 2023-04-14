@@ -16,5 +16,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Planning_Employment_Land_Audits/FeatureServer
 schema: default
-title: Planning - Employment Land Audits
+title: Planning - employment land audits
 ---

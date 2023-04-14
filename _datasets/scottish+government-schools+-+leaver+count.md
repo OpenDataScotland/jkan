@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/leaver-count
 records: null
 resources: []
 schema: default
-title: Schools - Leaver Count
+title: Schools - leaver count
 ---

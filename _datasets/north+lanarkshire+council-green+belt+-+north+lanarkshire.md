@@ -42,5 +42,5 @@ resources:
   name: Green Belt
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Green Belt - North Lanarkshire
+title: Green belt - north lanarkshire
 ---

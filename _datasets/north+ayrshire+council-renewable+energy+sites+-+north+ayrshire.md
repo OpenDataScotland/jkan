@@ -22,5 +22,5 @@ resources:
   name: Renewable Energy Sites
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer
 schema: default
-title: Renewable Energy Sites - North Ayrshire
+title: Renewable energy sites - north ayrshire
 ---

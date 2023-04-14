@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/social-security-scotland-
 records: null
 resources: []
 schema: default
-title: 'Social Security Scotland: Clients Responding To Equality Forms'
+title: 'Social security scotland: clients responding to equality forms'
 ---

@@ -17,5 +17,5 @@ resources:
   name: secondary_attendance.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=6eed0631-2804-4336-bce9-fc3597280d29
 schema: default
-title: Secondary School Attendance
+title: Secondary school attendance
 ---

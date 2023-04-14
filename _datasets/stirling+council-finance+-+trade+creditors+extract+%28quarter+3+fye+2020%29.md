@@ -31,5 +31,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-quarter-3-fye-2020.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Finance - Trade Creditors Extract (Quarter 3 Fye 2020)
+title: Finance - trade creditors extract (quarter 3 fye 2020)
 ---

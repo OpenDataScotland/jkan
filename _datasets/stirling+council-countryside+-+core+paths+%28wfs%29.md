@@ -15,5 +15,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://dservices-eu1.arcgis.com/cECIr59LclpO818r/arcgis/services/countryside_core_paths_wfs/WFSServer
 schema: default
-title: Countryside - Core Paths (Wfs)
+title: Countryside - core paths (wfs)
 ---

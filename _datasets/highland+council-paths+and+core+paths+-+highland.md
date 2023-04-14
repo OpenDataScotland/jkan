@@ -45,5 +45,5 @@ resources:
   name: Core Paths
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Paths And Core Paths - Highland
+title: Paths and core paths - highland
 ---

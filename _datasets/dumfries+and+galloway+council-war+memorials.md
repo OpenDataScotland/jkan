@@ -17,5 +17,5 @@ resources:
   name: War_Memorials.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=ed75f3c8-f6bf-42dc-9540-c18467f4597b
 schema: default
-title: War Memorials
+title: War memorials
 ---

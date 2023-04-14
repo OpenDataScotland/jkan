@@ -40,5 +40,5 @@ resources:
   name: Polling Places - WFS
   url: https://maps.eastdunbarton.gov.uk/arcgis/services/EDC_Map/Polling_and_Political_Info/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling Places - East Dunbartonshire
+title: Polling places - east dunbartonshire
 ---

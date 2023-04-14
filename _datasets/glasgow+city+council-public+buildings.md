@@ -24,5 +24,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer
 schema: default
-title: Public Buildings
+title: Public buildings
 ---

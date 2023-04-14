@@ -32,5 +32,5 @@ resources:
   name: Shapefile
   url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/f606a1b1b5b746aea68955d5d8458e6e_0.zip?outSR={"latestWkid":27700,"wkid":27700}
 schema: default
-title: Primary School Catchments
+title: Primary school catchments
 ---

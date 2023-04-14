@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2d38f2e56bbc4aef
 records: 2
 resources: []
 schema: default
-title: Scottish Parliament Election May 2016
+title: Scottish parliament election may 2016
 ---

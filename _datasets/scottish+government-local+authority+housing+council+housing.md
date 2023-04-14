@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/local-authority-housing-c
 records: null
 resources: []
 schema: default
-title: Local Authority Housing Council Housing
+title: Local authority housing council housing
 ---

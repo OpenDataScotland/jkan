@@ -29,5 +29,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/45c3003e7c724eba833832197459e86c_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Contaminated Land Register
+title: Contaminated land register
 ---

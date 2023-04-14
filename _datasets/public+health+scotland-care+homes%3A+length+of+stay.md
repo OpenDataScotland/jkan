@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-length-of-stay
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Length Of Stay'
+title: 'Care homes: length of stay'
 ---

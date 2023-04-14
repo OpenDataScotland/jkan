@@ -11,5 +11,5 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirlin
 records: null
 resources: []
 schema: default
-title: Cemeteries - Cemeteries And Graveyards Locations (Open Data Map)
+title: Cemeteries - cemeteries and graveyards locations (open data map)
 ---

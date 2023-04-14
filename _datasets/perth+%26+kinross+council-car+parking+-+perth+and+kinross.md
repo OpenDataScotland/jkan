@@ -26,5 +26,5 @@ resources:
   name: Car park points
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Parking_Points/FeatureServer/6/query?outFields=*&where=1%3D1
 schema: default
-title: Car Parking - Perth And Kinross
+title: Car parking - perth and kinross
 ---

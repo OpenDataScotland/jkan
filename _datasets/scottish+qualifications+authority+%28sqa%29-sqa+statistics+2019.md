@@ -179,5 +179,5 @@ resources:
   name: Pre-release Access List
   url: https://www.sqa.org.uk/sqa/files_ccc/attainment-statistics-(august)-2019-pre-releaselist-education-authority.pdf
 schema: default
-title: Sqa Statistics 2019
+title: Sqa statistics 2019
 ---

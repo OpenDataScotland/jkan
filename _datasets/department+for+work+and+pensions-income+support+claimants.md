@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/income-support-claimants
 records: null
 resources: []
 schema: default
-title: Income Support Claimants
+title: Income support claimants
 ---

@@ -22,5 +22,5 @@ resources:
   name: 'Alcohol Prohibition Areas '
   url: https://geo.spatialhub.scot/geoserver/sh_apa/wfs?service=wfs&typeName=sh_apa:pub_apa
 schema: default
-title: Alcohol Prohibition Areas - Scotland
+title: Alcohol prohibition areas - scotland
 ---

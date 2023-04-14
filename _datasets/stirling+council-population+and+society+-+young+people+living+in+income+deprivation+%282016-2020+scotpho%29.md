@@ -44,6 +44,6 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Population And Society - Young People Living In Income Deprivation (2016-2020
-  Scotpho)
+title: Population and society - young people living in income deprivation (2016-2020
+  scotpho)
 ---

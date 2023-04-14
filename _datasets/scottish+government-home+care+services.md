@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/home-care-services
 records: null
 resources: []
 schema: default
-title: Home Care Services
+title: Home care services
 ---

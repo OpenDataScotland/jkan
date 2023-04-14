@@ -17,5 +17,5 @@ resources:
   name: Secondary School Roll.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=63a62370-2ba6-4fc8-8811-cfb513ba8fc3
 schema: default
-title: Secondary School Roll
+title: Secondary school roll
 ---

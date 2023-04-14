@@ -15,5 +15,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/community_centres.kmz
 schema: default
-title: Leisure And Community Centres
+title: Leisure and community centres
 ---

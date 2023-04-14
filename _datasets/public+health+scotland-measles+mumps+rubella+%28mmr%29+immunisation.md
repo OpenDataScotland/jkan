@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/measles-mumps-rubella
 records: null
 resources: []
 schema: default
-title: Measles Mumps Rubella (Mmr) Immunisation
+title: Measles mumps rubella (mmr) immunisation
 ---

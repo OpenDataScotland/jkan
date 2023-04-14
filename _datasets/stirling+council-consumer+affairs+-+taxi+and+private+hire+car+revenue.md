@@ -31,5 +31,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-taxi-and-private-hire-car-revenue.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Consumer Affairs - Taxi And Private Hire Car Revenue
+title: Consumer affairs - taxi and private hire car revenue
 ---

@@ -15,5 +15,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://storymaps.arcgis.com/stories/1d7eec0258714a4e991a2013218b10fd
 schema: default
-title: Glasgow'S City Council'S Data Driven Response To  Covid-19
+title: Glasgow's city council's data driven response to  covid-19
 ---

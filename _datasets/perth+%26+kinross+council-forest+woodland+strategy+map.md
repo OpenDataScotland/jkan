@@ -58,5 +58,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Forest Woodland Strategy Map
+title: Forest woodland strategy map
 ---

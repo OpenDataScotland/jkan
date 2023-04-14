@@ -27,5 +27,5 @@ resources:
   name: Cancellations in Scotland
   url: https://www.opendata.nhs.scot/dataset/479848ef-41f8-44c5-bfb5-666e0df8f574/resource/df65826d-0017-455b-b312-828e47df325b/download/cancellations_scotland_february_2023.csv
 schema: default
-title: Cancelled Planned Operations
+title: Cancelled planned operations
 ---

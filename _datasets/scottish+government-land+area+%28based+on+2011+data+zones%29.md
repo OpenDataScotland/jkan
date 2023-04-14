@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/land-area-2011-data-zone-
 records: null
 resources: []
 schema: default
-title: Land Area (Based On 2011 Data Zones)
+title: Land area (based on 2011 data zones)
 ---

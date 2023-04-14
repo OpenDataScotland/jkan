@@ -27,5 +27,5 @@ resources:
   name: Waste Management Facilities
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Recycling And Waste Facilities - North Ayrshire
+title: Recycling and waste facilities - north ayrshire
 ---

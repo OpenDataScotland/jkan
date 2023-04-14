@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/6c5c67d5-b7f6-4126-ac5c-be2bf45eb1cc/resource/98cda353-0011-45b2-80ca-4ed24cd084bf/download/datadictionary.json
 schema: default
-title: General Acute Inpatient And Day Case - Scottish Morbidity Record (Smr01)
+title: General acute inpatient and day case - scottish morbidity record (smr01)
 ---

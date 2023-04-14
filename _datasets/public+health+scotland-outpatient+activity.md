@@ -52,5 +52,5 @@ resources:
   name: Publication Notes
   url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/notes.csv
 schema: default
-title: Outpatient Activity
+title: Outpatient activity
 ---

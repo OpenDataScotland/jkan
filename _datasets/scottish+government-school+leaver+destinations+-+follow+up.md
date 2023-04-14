@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/school-leaver-destination
 records: null
 resources: []
 schema: default
-title: School Leaver Destinations - Follow Up
+title: School leaver destinations - follow up
 ---

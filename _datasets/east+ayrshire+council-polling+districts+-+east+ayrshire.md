@@ -50,5 +50,5 @@ resources:
   name: East Ayrshire Polling Districts
   url: https://data.spatialhub.scot/dataset/5ebd0bfe-d383-412c-b3e9-ddecac27fc99/resource/fc0b35b3-d038-4d00-b2e1-6c38d492bd7c/download/eapoll3.zip
 schema: default
-title: Polling Districts - East Ayrshire
+title: Polling districts - east ayrshire
 ---

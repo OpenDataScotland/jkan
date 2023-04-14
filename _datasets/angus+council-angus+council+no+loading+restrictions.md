@@ -20,5 +20,5 @@ resources:
   name: GeoJSON for Angus Council No Loading Restrictions
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services:no_loading&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council No Loading Restrictions
+title: Angus council no loading restrictions
 ---

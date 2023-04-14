@@ -16,5 +16,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=traffic&operation=movement
 schema: default
-title: Traffic Api - Real Time Movement
+title: Traffic api - real time movement
 ---

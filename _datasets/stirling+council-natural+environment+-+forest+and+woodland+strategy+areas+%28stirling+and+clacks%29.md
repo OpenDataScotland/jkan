@@ -32,5 +32,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::natural-environment-forest-and-woodland-strategy-areas-stirling-and-clacks.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Natural Environment - Forest And Woodland Strategy Areas (Stirling And Clacks)
+title: Natural environment - forest and woodland strategy areas (stirling and clacks)
 ---

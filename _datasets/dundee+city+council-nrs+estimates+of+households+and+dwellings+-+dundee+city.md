@@ -78,5 +78,5 @@ resources:
   name: Dundee Dwellings by Occupancy - September 2021
   url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/0f42068c-6ad1-4827-a459-2d69cbc900e9/download/dundee_dwellings_occupancy_sept21.csv
 schema: default
-title: Nrs Estimates Of Households And Dwellings - Dundee City
+title: Nrs estimates of households and dwellings - dundee city
 ---

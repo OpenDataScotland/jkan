@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/intensive-home-care
 records: null
 resources: []
 schema: default
-title: Intensive Home Care
+title: Intensive home care
 ---

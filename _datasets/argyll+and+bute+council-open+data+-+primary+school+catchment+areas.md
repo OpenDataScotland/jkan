@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e25fab81a2c045ca
 records: 83
 resources: []
 schema: default
-title: Open Data - Primary School Catchment Areas
+title: Open data - primary school catchment areas
 ---

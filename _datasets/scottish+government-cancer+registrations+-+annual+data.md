@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/cancer-registrations---an
 records: null
 resources: []
 schema: default
-title: Cancer Registrations - Annual Data
+title: Cancer registrations - annual data
 ---

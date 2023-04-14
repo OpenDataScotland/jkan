@@ -20,5 +20,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=549c194eaec6427c
 records: 12
 resources: []
 schema: default
-title: Annual Business Statistics
+title: Annual business statistics
 ---

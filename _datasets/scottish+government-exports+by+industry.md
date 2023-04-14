@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/exports
 records: null
 resources: []
 schema: default
-title: Exports By Industry
+title: Exports by industry
 ---

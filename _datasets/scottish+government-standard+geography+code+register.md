@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/standard-geography-code-r
 records: null
 resources: []
 schema: default
-title: Standard Geography Code Register
+title: Standard geography code register
 ---

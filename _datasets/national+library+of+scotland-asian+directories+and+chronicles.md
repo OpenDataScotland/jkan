@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-asianDirChr.zip
 schema: default
-title: Asian Directories And Chronicles
+title: Asian directories and chronicles
 ---

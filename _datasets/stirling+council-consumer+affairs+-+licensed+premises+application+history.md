@@ -41,5 +41,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-licensed-premises-application-history.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Consumer Affairs - Licensed Premises Application History
+title: Consumer affairs - licensed premises application history
 ---

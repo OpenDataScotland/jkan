@@ -15,5 +15,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/grit_bins.kmz
 schema: default
-title: Grit Bin Locations
+title: Grit bin locations
 ---

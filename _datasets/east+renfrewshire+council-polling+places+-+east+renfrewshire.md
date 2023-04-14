@@ -46,5 +46,5 @@ resources:
   name: ERC Polling Places - 2021
   url: https://data.spatialhub.scot/dataset/be162920-1237-465f-bb3f-5a0cc6a9d9d1/resource/62d0fde2-6328-4399-aa4d-f6d618fae7ce/download/erc-polling-places.zip
 schema: default
-title: Polling Places - East Renfrewshire
+title: Polling places - east renfrewshire
 ---

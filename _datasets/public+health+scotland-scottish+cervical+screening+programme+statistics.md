@@ -33,5 +33,5 @@ resources:
   name: Workload Statistics 2007/08 - 2011/12
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/bfa18049-4397-4169-b84f-0466cd6401f7/download/open-data-workload-statistics-200708-201112.csv
 schema: default
-title: Scottish Cervical Screening Programme Statistics
+title: Scottish cervical screening programme statistics
 ---

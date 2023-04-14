@@ -49,5 +49,5 @@ resources:
   name: Terminations By Council Area and Age
   url: https://www.opendata.nhs.scot/dataset/d684d4a5-f7ae-4a1a-ae8d-adf55304274e/resource/30bd356b-81c8-46a7-a1d6-5ce992f5c5cb/download/top_open_data_table7.csv
 schema: default
-title: Termination Of Pregnancy In Scotland
+title: Termination of pregnancy in scotland
 ---

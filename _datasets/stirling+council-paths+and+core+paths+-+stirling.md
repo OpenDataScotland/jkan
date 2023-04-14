@@ -33,5 +33,5 @@ resources:
   name: Core Paths
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Countryside_Core_Paths/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
-title: Paths And Core Paths - Stirling
+title: Paths and core paths - stirling
 ---

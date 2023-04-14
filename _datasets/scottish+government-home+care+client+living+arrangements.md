@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/home-care-client-living-a
 records: null
 resources: []
 schema: default
-title: Home Care Client Living Arrangements
+title: Home care client living arrangements
 ---

@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/care-homes-demography
 records: null
 resources: []
 schema: default
-title: 'Care Homes: Demographic Characteristics Of Residents'
+title: 'Care homes: demographic characteristics of residents'
 ---

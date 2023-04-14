@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/energy-consumption
 records: null
 resources: []
 schema: default
-title: Energy Consumption
+title: Energy consumption
 ---

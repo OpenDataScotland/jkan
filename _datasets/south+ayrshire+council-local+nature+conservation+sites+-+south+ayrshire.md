@@ -19,5 +19,5 @@ resources:
   name: Special Areas of Conservation
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local Nature Conservation Sites - South Ayrshire
+title: Local nature conservation sites - south ayrshire
 ---

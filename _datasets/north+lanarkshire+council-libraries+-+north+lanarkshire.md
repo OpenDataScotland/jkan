@@ -27,5 +27,5 @@ resources:
   name: North Lanarkshire Libraries
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Libraries - North Lanarkshire
+title: Libraries - north lanarkshire
 ---

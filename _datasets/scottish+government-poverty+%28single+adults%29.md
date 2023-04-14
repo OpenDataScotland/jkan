@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/poverty-single-adults
 records: null
 resources: []
 schema: default
-title: Poverty (Single Adults)
+title: Poverty (single adults)
 ---

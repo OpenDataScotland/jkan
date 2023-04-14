@@ -55,5 +55,5 @@ resources:
   name: Vaccine Uptake by Health Board
   url: https://www.opendata.nhs.scot/dataset/43a86f56-171a-42cd-bf5a-19b1070a3485/resource/8ca8ddf9-f77f-45e7-acae-bb919a1259f3/download/uptake_hb_20210930.csv
 schema: default
-title: Covid-19 Vaccinations In Pregnancy In Scotland
+title: Covid-19 vaccinations in pregnancy in scotland
 ---

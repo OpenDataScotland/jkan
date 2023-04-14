@@ -64,5 +64,5 @@ resources:
   name: Polling Places
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Polling_Places/FeatureServer/5/query?outFields=*&where=1%3D1
 schema: default
-title: Polling Places - Perth And Kinross
+title: Polling places - perth and kinross
 ---

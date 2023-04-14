@@ -15,5 +15,5 @@ resources:
   name: 'Council Asset Register '
   url: https://geo.spatialhub.scot/geoserver/sh_car/wfs?service=wfs&typeName=sh_car:pub_car
 schema: default
-title: Council Asset Register - Scotland
+title: Council asset register - scotland
 ---

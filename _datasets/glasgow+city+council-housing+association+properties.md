@@ -55,5 +55,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Housing Association Properties
+title: Housing association properties
 ---

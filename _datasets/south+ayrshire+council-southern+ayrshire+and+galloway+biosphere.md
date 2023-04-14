@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1247dc0ed92647e0
 records: 2
 resources: []
 schema: default
-title: Southern Ayrshire And Galloway Biosphere
+title: Southern ayrshire and galloway biosphere
 ---

@@ -55,5 +55,5 @@ resources:
   name: Polling Stations
   url: https://data.spatialhub.scot/dataset/5861f84a-7e02-49e1-a4db-8ce36ecaa57e/resource/3e4066de-53dd-4bc7-906a-29da81147659/download/dgc_polling_places.zip
 schema: default
-title: Polling Places - Dumfries And Galloway
+title: Polling places - dumfries and galloway
 ---

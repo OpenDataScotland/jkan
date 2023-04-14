@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/6-in-1-immunisation
 records: null
 resources: []
 schema: default
-title: 6-In-1 Immunisation
+title: 6-in-1 immunisation
 ---

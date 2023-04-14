@@ -18,5 +18,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/a48c63c4-b077-45ca-8bcb-5a9ac2869a41/1/urql
 schema: default
-title: Biosphere Reserves
+title: Biosphere reserves
 ---

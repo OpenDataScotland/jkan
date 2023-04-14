@@ -19,5 +19,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/63629957-66c4-49a5-874b-4f058e72157a/6/urql
 schema: default
-title: Cycling Friendly - Employers Award - Cycling Scotland
+title: Cycling friendly - employers award - cycling scotland
 ---

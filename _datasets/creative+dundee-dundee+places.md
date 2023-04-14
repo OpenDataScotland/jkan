@@ -21,5 +21,5 @@ resources:
   name: Dundee Places
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRh_IIlWTpBVHvsln6J6ynyy8iTCnLVdJ3eDIgpJj66oJgMQOWmzhQedLZ0Hq9RsYwwPiICOfYsD9tg/pub?gid=1914242938&single=true&output=csv
 schema: default
-title: Dundee Places
+title: Dundee places
 ---

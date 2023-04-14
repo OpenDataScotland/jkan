@@ -20,5 +20,5 @@ resources:
   name: 2016 - 2017
   url: https://data.pkc.gov.uk/dataset/a90994ff-c246-4322-bdc0-1c6db9faae0f/resource/dab6a84c-b608-44c8-a5cd-f1e0314f4817/download/2016-2017.csv
 schema: default
-title: Esol And Adult Literacy - Footfall And Enquiries
+title: Esol and adult literacy - footfall and enquiries
 ---

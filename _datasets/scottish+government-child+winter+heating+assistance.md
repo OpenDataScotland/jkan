@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/child-winter-heating-assi
 records: null
 resources: []
 schema: default
-title: Child Winter Heating Assistance
+title: Child winter heating assistance
 ---

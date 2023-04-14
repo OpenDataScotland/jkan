@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Theatre-Posters-1870-1900.zip
 schema: default
-title: Theatre Posters 1870-1900
+title: Theatre posters 1870-1900
 ---

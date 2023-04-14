@@ -20,5 +20,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-weight-collected-by-bin-type-and-year-2021-onwards-domestic.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Waste Management - Weight Collected By Bin Type And Year 2021 Onwards (Domestic)
+title: Waste management - weight collected by bin type and year 2021 onwards (domestic)
 ---

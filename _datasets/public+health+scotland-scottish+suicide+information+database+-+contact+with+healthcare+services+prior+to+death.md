@@ -32,6 +32,6 @@ resources:
   name: ScotSID by frequency of contact with UC services
   url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/b87e08ab-da6f-4f6b-80fd-7bf3a4a84d99/download/scotsid-ucd-frequency-of-contact.csv
 schema: default
-title: Scottish Suicide Information Database - Contact With Healthcare Services Prior
-  To Death
+title: Scottish suicide information database - contact with healthcare services prior
+  to death
 ---

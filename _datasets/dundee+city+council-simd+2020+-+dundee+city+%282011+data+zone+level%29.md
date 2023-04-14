@@ -61,5 +61,5 @@ resources:
   name: 'SIMD 2020 - Indicator Data Descriptions '
   url: https://data.dundeecity.gov.uk/dataset/556b07ef-7bbb-499f-b5c1-049bf76b3c3e/resource/7c1f0beb-ac25-4235-b670-900d27a78c37/download/simd_2020_indicator_description_spreadsheet.zip
 schema: default
-title: Simd 2020 - Dundee City (2011 Data Zone Level)
+title: Simd 2020 - dundee city (2011 data zone level)
 ---

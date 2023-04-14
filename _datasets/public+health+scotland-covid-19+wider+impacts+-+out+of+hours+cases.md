@@ -51,5 +51,5 @@ resources:
   name: OOH Cases By HSCP and Deprivation
   url: https://www.opendata.nhs.scot/dataset/b5dded6d-bb16-41ed-904f-0e3cf7356935/resource/18366029-91a3-487d-82f0-0df8acd8267b/download/ooh_hscp_simd_20230405.csv
 schema: default
-title: Covid-19 Wider Impacts - Out Of Hours Cases
+title: Covid-19 wider impacts - out of hours cases
 ---

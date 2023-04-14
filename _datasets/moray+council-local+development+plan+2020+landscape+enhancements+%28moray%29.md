@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=50e84f0b10d84095
 records: 417
 resources: []
 schema: default
-title: Local Development Plan 2020 Landscape Enhancements (Moray)
+title: Local development plan 2020 landscape enhancements (moray)
 ---

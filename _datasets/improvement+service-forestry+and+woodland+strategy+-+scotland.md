@@ -32,5 +32,5 @@ resources:
   name: 'Forestry and Woodland Strategies '
   url: https://geo.spatialhub.scot/geoserver/sh_fws/wfs?service=wfs&typeName=sh_fws:pub_fws
 schema: default
-title: Forestry And Woodland Strategy - Scotland
+title: Forestry and woodland strategy - scotland
 ---

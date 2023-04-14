@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::employment-land-supply-2017.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Employment Land Supply 2017
+title: Employment land supply 2017
 ---

@@ -23,5 +23,5 @@ resources:
   name: Higher
   url: https://www.sqa.org.uk/sqa/files_ccc/ASR2000_Higher.xls
 schema: default
-title: Sqa Statistics 2000
+title: Sqa statistics 2000
 ---

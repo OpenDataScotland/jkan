@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=dd6a8a84e7d64a8b
 records: 93
 resources: []
 schema: default
-title: Open Data - Schools
+title: Open data - schools
 ---

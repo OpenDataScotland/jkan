@@ -27,5 +27,5 @@ resources:
   name: Other Residential Categories
   url: https://www.opendata.nhs.scot/dataset/65402d20-f0f1-4cee-a4f9-a960ca560444/resource/32164b83-c9ec-495a-ac9f-dbeeb6ed5e59/download/other-residential-categories.csv
 schema: default
-title: Non Standard Geography Codes And Labels
+title: Non standard geography codes and labels
 ---

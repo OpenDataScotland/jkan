@@ -16,5 +16,5 @@ resources:
   name: Secondary Catchments ND.zip
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/additionalDocumentation/29388337-4e19-4ac9-8a8c-5d99e0639d9b/Secondary%20Catchments%20ND.zip
 schema: default
-title: School Catchment Areas
+title: School catchment areas
 ---

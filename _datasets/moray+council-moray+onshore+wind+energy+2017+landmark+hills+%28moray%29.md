@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=9ea1485201f94069
 records: 19
 resources: []
 schema: default
-title: Moray Onshore Wind Energy 2017 Landmark Hills (Moray)
+title: Moray onshore wind energy 2017 landmark hills (moray)
 ---

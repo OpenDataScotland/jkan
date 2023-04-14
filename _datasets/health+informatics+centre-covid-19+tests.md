@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/53585c9c-f588-41f8-b493-3d271a2794a8/resource/53585c9c-f588-41f8-b493-3d271a2794a8/download/datadictionary.json
 schema: default
-title: Covid-19 Tests
+title: Covid-19 tests
 ---

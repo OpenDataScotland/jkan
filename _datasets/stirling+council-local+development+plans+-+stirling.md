@@ -24,5 +24,5 @@ resources:
   name: LDP sites
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp_sites_ldp2/FeatureServer/9/query?outFields=*&where=1%3D1
 schema: default
-title: Local Development Plans - Stirling
+title: Local development plans - stirling
 ---

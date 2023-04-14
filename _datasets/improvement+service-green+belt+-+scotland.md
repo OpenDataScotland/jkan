@@ -21,5 +21,5 @@ resources:
   name: 'Green Belts '
   url: https://geo.spatialhub.scot/geoserver/sh_grnblt/wfs?service=wfs&typeName=sh_grnblt:pub_grnblt
 schema: default
-title: Green Belt - Scotland
+title: Green belt - scotland
 ---

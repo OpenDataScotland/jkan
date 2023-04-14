@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/pupil-attainment-em
 records: null
 resources: []
 schema: default
-title: Pupil Attainment (English And Maths)
+title: Pupil attainment (english and maths)
 ---

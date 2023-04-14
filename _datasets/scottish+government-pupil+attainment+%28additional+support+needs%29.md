@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/pupil-attainment-asn
 records: null
 resources: []
 schema: default
-title: Pupil Attainment (Additional Support Needs)
+title: Pupil attainment (additional support needs)
 ---

@@ -16,5 +16,5 @@ resources:
   name: Leisure and Culture Dundee Website
   url: http://www.leisureandculturedundee.com/leisure-sport
 schema: default
-title: Adult Fitness Classes
+title: Adult fitness classes
 ---

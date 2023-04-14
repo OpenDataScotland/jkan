@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/child-dental-health
 records: null
 resources: []
 schema: default
-title: Child Dental Health
+title: Child dental health
 ---

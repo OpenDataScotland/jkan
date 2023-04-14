@@ -21,5 +21,5 @@ resources:
   name: Recycling centres - points
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Recycle_Centres_and_Points/FeatureServer/6/query?outFields=*&where=1%3D1
 schema: default
-title: Recycling And Waste Facilities - Perth And Kinross
+title: Recycling and waste facilities - perth and kinross
 ---

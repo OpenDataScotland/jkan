@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/settlements-and-localitie
 records: null
 resources: []
 schema: default
-title: Settlements And Localities Population
+title: Settlements and localities population
 ---

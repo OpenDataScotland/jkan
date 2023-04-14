@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-marjoryFleming.zip
 schema: default
-title: Diary, Letters And Poems Of Marjory Fleming
+title: Diary, letters and poems of marjory fleming
 ---

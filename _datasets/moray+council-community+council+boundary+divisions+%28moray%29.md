@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=e5ea01c5c01546c2
 records: 35
 resources: []
 schema: default
-title: Community Council Boundary Divisions (Moray)
+title: Community council boundary divisions (moray)
 ---

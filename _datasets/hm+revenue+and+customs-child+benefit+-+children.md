@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/child-benefit
 records: null
 resources: []
 schema: default
-title: Child Benefit - Children
+title: Child benefit - children
 ---

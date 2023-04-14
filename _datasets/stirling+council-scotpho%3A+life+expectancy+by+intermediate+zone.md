@@ -45,5 +45,5 @@ resources:
   name: 'Estimated Life Expectancy at Birth: 2018'
   url: https://data.stirling.gov.uk/dataset/9b80db78-d7c3-46af-9faa-0afcc1e61bf2/resource/0508fb93-75b1-46cf-ae1a-5a951525500a/download/20220602-stirling-life-expectancy-by-intermediate-zone-2018.csv
 schema: default
-title: 'Scotpho: Life Expectancy By Intermediate Zone'
+title: 'Scotpho: life expectancy by intermediate zone'
 ---

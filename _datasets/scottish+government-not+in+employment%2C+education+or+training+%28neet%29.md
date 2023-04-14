@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/neet
 records: null
 resources: []
 schema: default
-title: Not In Employment, Education Or Training (Neet)
+title: Not in employment, education or training (neet)
 ---

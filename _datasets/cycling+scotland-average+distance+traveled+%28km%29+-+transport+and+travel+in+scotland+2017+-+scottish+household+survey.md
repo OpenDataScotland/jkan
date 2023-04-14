@@ -23,6 +23,6 @@ resources:
   name: SHS_AverageJourneyDistance_RTP_2017_TransportScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eee093df-2be4-4d04-ae7d-d175dfde1269
 schema: default
-title: Average Distance Traveled (Km) - Transport And Travel In Scotland 2017 - Scottish
-  Household Survey
+title: Average distance traveled (km) - transport and travel in scotland 2017 - scottish
+  household survey
 ---

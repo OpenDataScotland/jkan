@@ -55,5 +55,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-vehicles-profile-dft-dvla.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Transportation - Licensed Vehicles Profile (Dft Dvla)
+title: Transportation - licensed vehicles profile (dft dvla)
 ---

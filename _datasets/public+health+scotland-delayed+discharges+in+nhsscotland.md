@@ -43,5 +43,5 @@ resources:
     \ 2016"
   url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/2a07d2e2-fa0b-4bf7-8a49-36db4ca5f35e/download/2016-06_delayed-discharge-beddays-council-area.csv
 schema: default
-title: Delayed Discharges In Nhsscotland
+title: Delayed discharges in nhsscotland
 ---

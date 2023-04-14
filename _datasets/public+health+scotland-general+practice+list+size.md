@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/general-practice-list-siz
 records: null
 resources: []
 schema: default
-title: General Practice List Size
+title: General practice list size
 ---

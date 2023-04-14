@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/travel-to-work-other
 records: null
 resources: []
 schema: default
-title: Travel To Work And Other Purposes
+title: Travel to work and other purposes
 ---

@@ -26,5 +26,5 @@ resources:
   name: Smoke Control Areas
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Environmental_Smoke_Control_Areas_Stirling/FeatureServer/13/query?outFields=*&where=1%3D1
 schema: default
-title: Smoke Control Areas - Stirling
+title: Smoke control areas - stirling
 ---

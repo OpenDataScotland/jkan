@@ -26,5 +26,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-primary-school-catchments-open-data.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Education - Primary School Catchments (Open Data)
+title: Education - primary school catchments (open data)
 ---

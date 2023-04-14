@@ -32,5 +32,5 @@ resources:
   name: Housing Land Audit 2021-22
   url: https://data.spatialhub.scot/dataset/84864e42-24f2-4bfd-80eb-4e85f9cb9b58/resource/2b6440db-955c-4b24-95dd-67a87a7d0e32/download/dc_hous_2023.zip
 schema: default
-title: Housing Land Supply - Dundee City
+title: Housing land supply - dundee city
 ---

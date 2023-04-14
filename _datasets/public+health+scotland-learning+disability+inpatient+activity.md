@@ -46,5 +46,5 @@ resources:
   name: Discharge Type - Health Board
   url: https://www.opendata.nhs.scot/dataset/a2b1a9d1-6e75-48b4-b4eb-038519870f53/resource/e04257cb-a3d8-42e0-a6a8-0b7d6e975758/download/learning-disability-regular-discharges-analysis-2016-2021.csv
 schema: default
-title: Learning Disability Inpatient Activity
+title: Learning disability inpatient activity
 ---

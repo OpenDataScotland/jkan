@@ -29,5 +29,5 @@ resources:
   name: Clackmannanshire Housing Land Audit - 2021
   url: https://data.spatialhub.scot/dataset/9d084fef-f20f-4a4f-8976-92d81dd8088c/resource/7c227a3e-a7db-414e-bb20-210cafd567d6/download/clacks_housinglandaudit.gpkg
 schema: default
-title: Housing Land Supply - Clackmannanshire
+title: Housing land supply - clackmannanshire
 ---

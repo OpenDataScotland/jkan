@@ -27,5 +27,5 @@ resources:
   name: Libraries
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Library_Locations/FeatureServer/27/query?outFields=*&where=1%3D1
 schema: default
-title: Libraries - Perth And Kinross
+title: Libraries - perth and kinross
 ---

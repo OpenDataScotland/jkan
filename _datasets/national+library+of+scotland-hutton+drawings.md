@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/Hutton-Drawings.zip
 schema: default
-title: Hutton Drawings
+title: Hutton drawings
 ---

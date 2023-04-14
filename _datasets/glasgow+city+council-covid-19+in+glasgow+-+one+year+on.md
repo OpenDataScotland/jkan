@@ -14,5 +14,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://storymaps.arcgis.com/stories/c60b49f824524b1495657651f67eb14b
 schema: default
-title: Covid-19 In Glasgow - One Year On
+title: Covid-19 in glasgow - one year on
 ---

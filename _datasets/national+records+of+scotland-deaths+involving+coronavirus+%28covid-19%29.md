@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/deaths-involving-coronavi
 records: null
 resources: []
 schema: default
-title: Deaths Involving Coronavirus (Covid-19)
+title: Deaths involving coronavirus (covid-19)
 ---

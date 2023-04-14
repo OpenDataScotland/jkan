@@ -37,5 +37,5 @@ resources:
   name: Street Lighting
   url: https://data.spatialhub.scot/dataset/0ae5672b-d4db-439e-8c85-517c2c372b17/resource/0d4f20af-212a-4a1f-9639-6eae7dc69c45/download/lighting_columns.zip
 schema: default
-title: Street Furniture - Glasgow City
+title: Street furniture - glasgow city
 ---

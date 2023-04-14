@@ -24,5 +24,5 @@ resources:
   name: 'Low Emission Zones '
   url: https://geo.spatialhub.scot/geoserver/sh_lez/wfs?service=wfs&typeName=sh_lez:pub_lez
 schema: default
-title: Low Emission Zones - Scotland
+title: Low emission zones - scotland
 ---

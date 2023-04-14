@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=8ef9875413c34db6
 records: 22
 resources: []
 schema: default
-title: Non-Denominational Secondary Catchments
+title: Non-denominational secondary catchments
 ---

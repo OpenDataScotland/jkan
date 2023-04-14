@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/greenhouse-gas
 records: null
 resources: []
 schema: default
-title: Greenhouse Gas Emissions
+title: Greenhouse gas emissions
 ---

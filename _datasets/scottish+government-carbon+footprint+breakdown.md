@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/carbon-footprint-breakdow
 records: null
 resources: []
 schema: default
-title: Carbon Footprint Breakdown
+title: Carbon footprint breakdown
 ---

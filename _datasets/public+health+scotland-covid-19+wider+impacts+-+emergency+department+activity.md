@@ -49,5 +49,5 @@ resources:
   name: A&E Activity by HSCP and Deprivation
   url: https://www.opendata.nhs.scot/dataset/cceee8eb-6323-4955-acf5-58eb2189f9e1/resource/39da7e8d-0ecf-41b7-aef1-cd898ba8b4fa/download/a_and_e_hscp_simd_20230405.csv
 schema: default
-title: Covid-19 Wider Impacts - Emergency Department Activity
+title: Covid-19 wider impacts - emergency department activity
 ---

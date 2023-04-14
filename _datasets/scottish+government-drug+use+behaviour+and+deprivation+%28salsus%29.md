@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/drug-use-behaviour-and-de
 records: null
 resources: []
 schema: default
-title: Drug Use Behaviour And Deprivation (Salsus)
+title: Drug use behaviour and deprivation (salsus)
 ---

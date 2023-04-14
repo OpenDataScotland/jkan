@@ -126,5 +126,5 @@ resources:
   name: Practice Populations January 2014
   url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/e692e29a-e428-495e-a123-575c2a17c937/download/20140101-practice-list-size.csv
 schema: default
-title: Gp Practice Population Demographics
+title: Gp practice population demographics
 ---

@@ -47,5 +47,5 @@ resources:
   name: Polling Districts December 2019
   url: https://data.spatialhub.scot/dataset/f9fd0e4e-33a4-4ba1-aec1-d8dedf2b3a30/resource/9c97d8f1-9dda-48e8-a128-987a8f6fc48f/download/polling_dist.shp.zip
 schema: default
-title: Polling Districts - Scottish Borders
+title: Polling districts - scottish borders
 ---

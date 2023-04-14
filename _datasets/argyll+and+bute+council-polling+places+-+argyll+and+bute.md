@@ -64,5 +64,5 @@ resources:
   name: Polling Places
   url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling Places - Argyll And Bute
+title: Polling places - argyll and bute
 ---

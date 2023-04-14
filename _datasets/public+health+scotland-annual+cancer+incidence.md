@@ -39,5 +39,5 @@ resources:
   name: 5 Year Summary of Incidence by Health Board
   url: https://www.opendata.nhs.scot/dataset/c2c59eb1-3aff-48d2-9e9c-60ca8605431d/resource/e8d33b2b-1fb2-4d59-ad21-20fa2f76d9d5/download/opendata_inc1721comb_hb.csv
 schema: default
-title: Annual Cancer Incidence
+title: Annual cancer incidence
 ---

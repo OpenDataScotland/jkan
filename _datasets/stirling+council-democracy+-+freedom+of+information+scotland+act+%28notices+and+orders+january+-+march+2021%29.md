@@ -39,6 +39,6 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Democracy - Freedom Of Information Scotland Act (Notices And Orders January
-  - March 2021)
+title: Democracy - freedom of information scotland act (notices and orders january
+  - march 2021)
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/labour-productivity-quart
 records: null
 resources: []
 schema: default
-title: 'Labour Productivity: Quarterly'
+title: 'Labour productivity: quarterly'
 ---

@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/low-birthweight
 records: null
 resources: []
 schema: default
-title: Low Birthweight
+title: Low birthweight
 ---

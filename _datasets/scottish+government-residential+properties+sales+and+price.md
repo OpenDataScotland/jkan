@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/residential-properties-sa
 records: null
 resources: []
 schema: default
-title: Residential Properties Sales And Price
+title: Residential properties sales and price
 ---

@@ -16,5 +16,5 @@ original_dataset_link: http://statistics.gov.scot/data/educational-attainment-of
 records: null
 resources: []
 schema: default
-title: Educational Attainment Of School Leavers
+title: Educational attainment of school leavers
 ---

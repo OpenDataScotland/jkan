@@ -39,5 +39,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/3f782e7c213f41f39ed2c1b6e38db82e_6.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Superfast Broadband Availability 2018
+title: Superfast broadband availability 2018
 ---

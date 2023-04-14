@@ -53,6 +53,6 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2014.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Scotpho Life Expectancy At Birth (By Intermediate
-  Zone 2014)
+title: Population and society - scotpho life expectancy at birth (by intermediate
+  zone 2014)
 ---

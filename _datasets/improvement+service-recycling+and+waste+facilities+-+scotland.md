@@ -19,5 +19,5 @@ resources:
   name: 'Recycling and Waste Facilities '
   url: https://geo.spatialhub.scot/geoserver/sh_rcywst/wfs?service=wfs&typeName=sh_rcywst:pub_rcywst
 schema: default
-title: Recycling And Waste Facilities - Scotland
+title: Recycling and waste facilities - scotland
 ---

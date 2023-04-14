@@ -40,5 +40,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Boundaries Political - Community Councils (Stirling)
+title: Boundaries political - community councils (stirling)
 ---

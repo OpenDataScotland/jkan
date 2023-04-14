@@ -19,5 +19,5 @@ resources:
   name: 201706_prescribing_data_tayside_practicenames.csv
   url: https://data.pkc.gov.uk/dataset/253b3994-7512-4c99-86d8-7cfd6fa86fed/resource/c47253d0-5e93-4fef-9e82-61085738ef26/download/201706_prescribing_data_tayside_practicenames.csv
 schema: default
-title: Prescriptions In Perth And Kinross
+title: Prescriptions in perth and kinross
 ---

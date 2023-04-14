@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/census-population-2001
 records: null
 resources: []
 schema: default
-title: Population Estimates - Census 2001
+title: Population estimates - census 2001
 ---

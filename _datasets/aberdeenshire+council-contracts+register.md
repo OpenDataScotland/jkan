@@ -14,5 +14,5 @@ resources:
   name: CSV
   url: http://publications.aberdeenshire.gov.uk/dataset/4211e6c6-db94-429a-adf9-c19f8a57a3a0/resource/f9b3de55-2b3f-44b9-acfc-66b3cd12df6b/download/aberdeenshire-council-contracts-register.csv
 schema: default
-title: Contracts Register
+title: Contracts register
 ---

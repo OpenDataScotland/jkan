@@ -21,5 +21,5 @@ resources:
   name: Cycle Lanes and Paths
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 schema: default
-title: Cycling Network - City Of Edinburgh
+title: Cycling network - city of edinburgh
 ---

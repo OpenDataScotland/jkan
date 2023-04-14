@@ -16,5 +16,5 @@ original_dataset_link: http://statistics.gov.scot/data/public-transport
 records: null
 resources: []
 schema: default
-title: Public Transport
+title: Public transport
 ---

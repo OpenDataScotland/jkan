@@ -33,5 +33,5 @@ resources:
   name: Core Paths of Inverclyde
   url: https://data.spatialhub.scot/dataset/0da2ea51-9896-4158-9b61-2607d617528f/resource/362a45c1-a30b-4f5d-9019-3e763ca4df88/download/adopted-core-paths.zip
 schema: default
-title: Paths And Core Paths - Inverclyde
+title: Paths and core paths - inverclyde
 ---

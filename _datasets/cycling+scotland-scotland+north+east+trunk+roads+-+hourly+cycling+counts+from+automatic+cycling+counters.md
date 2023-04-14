@@ -15,6 +15,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/242476ea-ca1c-4dc2-b8e8-30b7b9349a6b/1/urql
 schema: default
-title: Scotland North East Trunk Roads - Hourly Cycling Counts From Automatic Cycling
-  Counters
+title: Scotland north east trunk roads - hourly cycling counts from automatic cycling
+  counters
 ---

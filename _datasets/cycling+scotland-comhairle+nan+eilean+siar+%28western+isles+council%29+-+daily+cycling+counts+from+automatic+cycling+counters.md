@@ -16,6 +16,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/76b1d034-058f-4c23-9b33-e3bc11fcf8f2/1/urql
 schema: default
-title: Comhairle Nan Eilean Siar (Western Isles Council) - Daily Cycling Counts From
-  Automatic Cycling Counters
+title: Comhairle nan eilean siar (western isles council) - daily cycling counts from
+  automatic cycling counters
 ---

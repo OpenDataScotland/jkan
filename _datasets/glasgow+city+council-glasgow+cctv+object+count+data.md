@@ -37,5 +37,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
 schema: default
-title: Glasgow Cctv Object Count Data
+title: Glasgow cctv object count data
 ---

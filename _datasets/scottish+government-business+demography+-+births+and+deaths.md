@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-demography---bir
 records: null
 resources: []
 schema: default
-title: Business Demography - Births And Deaths
+title: Business demography - births and deaths
 ---

@@ -20,5 +20,5 @@ resources:
   name: ZIP
   url: https://nlsfoundry.s3.amazonaws.com/text/nls-text-advocates.zip
 schema: default
-title: Advocates Library Catalogues
+title: Advocates library catalogues
 ---

@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/recorded-crime
 records: null
 resources: []
 schema: default
-title: Recorded Crimes And Offences
+title: Recorded crimes and offences
 ---

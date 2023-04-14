@@ -19,5 +19,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/596aa399-760c-4dc5-a76d-58ecd43fc7e6/1/urql
 schema: default
-title: Valuation By Industry
+title: Valuation by industry
 ---

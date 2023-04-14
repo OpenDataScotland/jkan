@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::addressing-list-of-streets-and-postcodes.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Addressing - List Of Streets And Postcodes
+title: Addressing - list of streets and postcodes
 ---

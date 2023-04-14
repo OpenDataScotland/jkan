@@ -24,5 +24,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-life-expectancy-by-council-area-2001-onwards.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Life Expectancy By Council Area (2001 Onwards)
+title: Population and society - life expectancy by council area (2001 onwards)
 ---

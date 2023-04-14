@@ -29,5 +29,5 @@ resources:
   name: Angus Community Council Boundaries
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
 schema: default
-title: Community Council Boundaries - Angus
+title: Community council boundaries - angus
 ---

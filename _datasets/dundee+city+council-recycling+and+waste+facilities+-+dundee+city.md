@@ -24,5 +24,5 @@ resources:
   name: Recycling point locations
   url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?service=WFS&version=1.1.0&request=getCapabilities
 schema: default
-title: Recycling And Waste Facilities - Dundee City
+title: Recycling and waste facilities - dundee city
 ---

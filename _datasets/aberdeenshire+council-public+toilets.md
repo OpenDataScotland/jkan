@@ -15,5 +15,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/public_toilets.kmz
 schema: default
-title: Public Toilets
+title: Public toilets
 ---

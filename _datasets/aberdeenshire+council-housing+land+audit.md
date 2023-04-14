@@ -16,5 +16,5 @@ resources:
   name: KMZ
   url: http://publications.aberdeenshire.gov.uk/dataset/5f628e3e-d8df-4db1-89cb-cbf17976600e/resource/32728977-ff10-450d-ab40-95cde915fe88/download/housinglandaudit2023.kmz
 schema: default
-title: Housing Land Audit
+title: Housing land audit
 ---

@@ -14,5 +14,5 @@ resources:
   name: ZIP
   url: https://data.nls.uk/download/metadata-collections/John-Adair-County-Maps.zip
 schema: default
-title: "John Adair \u2013 County Maps 1680-1720"
+title: "John adair \u2013 county maps 1680-1720"
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/gender-employment-gap
 records: null
 resources: []
 schema: default
-title: Gender Employment Gap
+title: Gender employment gap
 ---

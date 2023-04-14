@@ -65,5 +65,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020-stirling.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Scottish Index Of Multiple Deprivation 2020 (Stirling)
+title: Population and society - scottish index of multiple deprivation 2020 (stirling)
 ---

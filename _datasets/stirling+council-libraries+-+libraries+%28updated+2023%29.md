@@ -24,5 +24,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://dservices-eu1.arcgis.com/cECIr59LclpO818r/arcgis/services/libraries/WFSServer
 schema: default
-title: Libraries - Libraries (Updated 2023)
+title: Libraries - libraries (updated 2023)
 ---

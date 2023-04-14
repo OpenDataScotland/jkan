@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Polling Districts
+title: Polling districts
 ---

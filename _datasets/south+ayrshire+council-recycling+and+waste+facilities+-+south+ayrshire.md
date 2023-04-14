@@ -21,5 +21,5 @@ resources:
   name: Historic landfill sites
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?
 schema: default
-title: Recycling And Waste Facilities - South Ayrshire
+title: Recycling and waste facilities - south ayrshire
 ---

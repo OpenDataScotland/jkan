@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/dwellings-median-number-o
 records: null
 resources: []
 schema: default
-title: Dwellings Median Number Of Rooms
+title: Dwellings median number of rooms
 ---

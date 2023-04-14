@@ -31,5 +31,5 @@ resources:
   name: Heart Disease Mortality By Council Area
   url: https://www.opendata.nhs.scot/dataset/0e17f3fc-9429-48aa-b1ba-2b7e55688253/resource/fc7b42f1-4de6-48dd-b640-613fb0aa427d/download/hd_mortalitybyca.csv
 schema: default
-title: Scottish Heart Disease Statistics
+title: Scottish heart disease statistics
 ---

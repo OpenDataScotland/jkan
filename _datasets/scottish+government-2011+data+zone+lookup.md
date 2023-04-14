@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/data-zone-lookup
 records: null
 resources: []
 schema: default
-title: 2011 Data Zone Lookup
+title: 2011 data zone lookup
 ---

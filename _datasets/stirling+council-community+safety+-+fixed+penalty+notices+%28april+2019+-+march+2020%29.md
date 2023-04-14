@@ -41,5 +41,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-fixed-penalty-notices-april-2019-march-2020.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Community Safety - Fixed Penalty Notices (April 2019 - March 2020)
+title: Community safety - fixed penalty notices (april 2019 - march 2020)
 ---

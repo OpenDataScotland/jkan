@@ -36,5 +36,5 @@ original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/st
 records: null
 resources: []
 schema: default
-title: Population And Society - Settlement And Localities Population Estimates (2020)
+title: Population and society - settlement and localities population estimates (2020)
 ---

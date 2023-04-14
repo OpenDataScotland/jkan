@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=beb58178a74f45eb
 records: 176
 resources: []
 schema: default
-title: Open Data - Tree Preservation Orders
+title: Open data - tree preservation orders
 ---

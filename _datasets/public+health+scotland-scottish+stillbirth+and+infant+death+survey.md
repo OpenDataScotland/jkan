@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/8697d105-4b32-4e7f-9998-8df4250cb3e5/resource/e54d35a6-2e7c-422d-a4a5-a7da930b08f2/download/datadictionary.json
 schema: default
-title: Scottish Stillbirth And Infant Death Survey
+title: Scottish stillbirth and infant death survey
 ---

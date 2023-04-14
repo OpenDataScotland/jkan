@@ -46,5 +46,5 @@ resources:
   name: East Ayrshire Polling Places
   url: https://data.spatialhub.scot/dataset/ce307f6c-1618-4383-a2b5-6883a96a6562/resource/2b659a8a-1491-4d95-a024-b56c585c6077/download/polling-placea.zip
 schema: default
-title: Polling Places - East Ayrshire
+title: Polling places - east ayrshire
 ---

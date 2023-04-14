@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/e6a61d31-d13f-4804-b24c-9966cc40dcc6/resource/d47c809f-3da8-4f8a-b1ee-258d21aad530/download/datadictionary.json
 schema: default
-title: Maternity Inpatient And Day Case - Scottish Morbidity Record (Smr02)
+title: Maternity inpatient and day case - scottish morbidity record (smr02)
 ---

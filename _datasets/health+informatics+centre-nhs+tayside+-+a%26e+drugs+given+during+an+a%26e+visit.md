@@ -14,5 +14,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/acfbef89-344c-49a5-8079-7344f4316e0f/resource/acfbef89-344c-49a5-8079-7344f4316e0f/download/datadictionary.json
 schema: default
-title: Nhs Tayside - A&E Drugs Given During An A&E Visit
+title: Nhs tayside - a&e drugs given during an a&e visit
 ---

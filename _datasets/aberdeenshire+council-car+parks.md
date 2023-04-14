@@ -16,5 +16,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/car_parks.kmz
 schema: default
-title: Car Parks
+title: Car parks
 ---

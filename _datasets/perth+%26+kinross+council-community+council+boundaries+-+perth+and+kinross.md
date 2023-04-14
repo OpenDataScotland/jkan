@@ -29,5 +29,5 @@ resources:
   name: Community Council Boundaries
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Community_Councils_2019/FeatureServer/5/query?outFields=*&where=1%3D1
 schema: default
-title: Community Council Boundaries - Perth And Kinross
+title: Community council boundaries - perth and kinross
 ---

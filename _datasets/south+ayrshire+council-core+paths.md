@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a66d9b403ee44e0c
 records: 366
 resources: []
 schema: default
-title: Core Paths
+title: Core paths
 ---

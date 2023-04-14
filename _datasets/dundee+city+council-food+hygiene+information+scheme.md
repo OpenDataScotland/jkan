@@ -25,5 +25,5 @@ resources:
   name: Dundee Food Hygiene Ratings (CSV)
   url: https://data.dundeecity.gov.uk/dataset/ad72621b-3aee-4db1-9c94-141420379a65/resource/e6e81dec-e5ca-42bf-9f67-f1f71b71a240/download/fhrs.csv
 schema: default
-title: Food Hygiene Information Scheme
+title: Food hygiene information scheme
 ---

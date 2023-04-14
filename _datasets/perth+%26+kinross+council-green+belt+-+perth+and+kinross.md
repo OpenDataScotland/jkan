@@ -42,5 +42,5 @@ resources:
   name: Green Belt
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/LDP2_Green_Belt/FeatureServer/6/query?outFields=*&where=1%3D1
 schema: default
-title: Green Belt - Perth And Kinross
+title: Green belt - perth and kinross
 ---

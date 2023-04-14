@@ -212,5 +212,5 @@ resources:
   name: ARCHIVE - Seven Day Trends by Neighbourhood - 2020-2021
   url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/8906de12-f413-4b3f-95a0-11ed15e61773/download/trend_iz_2020-2021_20230301.csv
 schema: default
-title: Covid-19 Statistical Data In Scotland
+title: Covid-19 statistical data in scotland
 ---

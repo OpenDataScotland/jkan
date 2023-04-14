@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/road-safety
 records: null
 resources: []
 schema: default
-title: Road Casualties
+title: Road casualties
 ---

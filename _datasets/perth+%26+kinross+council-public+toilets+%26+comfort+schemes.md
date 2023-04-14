@@ -36,5 +36,5 @@ resources:
   name: KML
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/4d832f443ed74916af891e2bff6d7c25_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Public Toilets & Comfort Schemes
+title: Public toilets & comfort schemes
 ---

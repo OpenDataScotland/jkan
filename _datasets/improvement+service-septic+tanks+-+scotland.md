@@ -31,5 +31,5 @@ resources:
   name: 'Septic Tanks '
   url: https://geo.spatialhub.scot/geoserver/sh_sptk/wfs?service=wfs&typeName=sh_sptk:pub_sptk
 schema: default
-title: Septic Tanks - Scotland
+title: Septic tanks - scotland
 ---

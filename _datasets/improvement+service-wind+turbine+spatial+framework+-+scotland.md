@@ -44,5 +44,5 @@ resources:
   name: 'Wind Turbine Spatial Framework '
   url: https://geo.spatialhub.scot/geoserver/sh_wtsf/wfs?service=wfs&typeName=sh_wtsf:pub_wtsf
 schema: default
-title: Wind Turbine Spatial Framework - Scotland
+title: Wind turbine spatial framework - scotland
 ---

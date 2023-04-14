@@ -49,5 +49,5 @@ resources:
   name: Mortality rates by place of death
   url: https://www.opendata.nhs.scot/dataset/c88a5231-f7e7-418d-811e-8fc2bec79787/resource/0f906b20-3e3d-4c0e-b6d4-23b74f209ec6/download/2023-02-14_place_open_data.csv
 schema: default
-title: Hospital Standardised Mortality Ratios
+title: Hospital standardised mortality ratios
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=9b466c006f98476d
 records: 13
 resources: []
 schema: default
-title: Historic Settlement Action Zones
+title: Historic settlement action zones
 ---

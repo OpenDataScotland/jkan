@@ -27,5 +27,5 @@ resources:
   name: WFS for alcohol prohibition areas
   url: https://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services%3Aprohibited_drinking_areas&outputFormat=application%2Fjson
 schema: default
-title: Alcohol Prohibition Areas - Angus
+title: Alcohol prohibition areas - angus
 ---

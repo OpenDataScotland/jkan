@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/police-officer-quarterly-
 records: null
 resources: []
 schema: default
-title: Police Officer Quarterly Strength
+title: Police officer quarterly strength
 ---

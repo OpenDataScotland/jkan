@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3ab8e1e7-87cb-4674-98e6-2f8b0c6fa7ac/1/urql
 schema: default
-title: South Ayrshire Council - Daily Cycling Counts From Automatic Cycling Counters
+title: South ayrshire council - daily cycling counts from automatic cycling counters
 ---

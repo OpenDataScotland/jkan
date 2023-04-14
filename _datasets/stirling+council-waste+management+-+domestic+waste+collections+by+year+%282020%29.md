@@ -28,5 +28,5 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-domestic-waste-collections-by-year-2020.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Waste Management - Domestic Waste Collections By Year (2020)
+title: Waste management - domestic waste collections by year (2020)
 ---

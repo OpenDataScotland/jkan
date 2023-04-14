@@ -46,5 +46,5 @@ resources:
   name: Polling Places Dec 2019
   url: https://data.spatialhub.scot/dataset/b149c7fb-1c8d-4841-899f-0d508659c121/resource/60afad1b-b148-4e92-a880-d5705cfc6d79/download/polling_places.zip
 schema: default
-title: Polling Places - Scottish Borders
+title: Polling places - scottish borders
 ---

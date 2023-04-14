@@ -57,6 +57,6 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlements-and-localities-population-estimates-female-2020.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Population And Society - Settlements And Localities Population Estimates (Female
+title: Population and society - settlements and localities population estimates (female
   2020)
 ---

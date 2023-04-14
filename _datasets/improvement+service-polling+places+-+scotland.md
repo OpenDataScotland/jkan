@@ -32,5 +32,5 @@ resources:
   name: 'Polling Places '
   url: https://geo.spatialhub.scot/geoserver/sh_polpl/wfs?service=wfs&typeName=sh_polpl:pub_polpl
 schema: default
-title: Polling Places - Scotland
+title: Polling places - scotland
 ---

@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/terrestrial-breeding-bird
 records: null
 resources: []
 schema: default
-title: Terrestrial Breeding Birds
+title: Terrestrial breeding birds
 ---

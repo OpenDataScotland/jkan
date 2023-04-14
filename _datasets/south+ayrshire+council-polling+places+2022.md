@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=72bef698f90b4da7
 records: 47
 resources: []
 schema: default
-title: Polling Places 2022
+title: Polling places 2022
 ---

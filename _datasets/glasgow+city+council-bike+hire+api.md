@@ -15,5 +15,5 @@ resources:
   name: ARCGIS GEOSERVICE
   url: https://developer.glasgow.gov.uk/api-details#api=mobility&operation=5f23cd7c7e947e7d1cf2f4ae
 schema: default
-title: Bike Hire Api
+title: Bike hire api
 ---

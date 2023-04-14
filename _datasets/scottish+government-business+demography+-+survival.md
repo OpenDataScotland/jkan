@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/business-demography---sur
 records: null
 resources: []
 schema: default
-title: Business Demography - Survival
+title: Business demography - survival
 ---

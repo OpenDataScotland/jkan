@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/750063ea-6bfd-4492-9748-2a18080cf6ea/resource/750063ea-6bfd-4492-9748-2a18080cf6ea/download/datadictionary.json
 schema: default
-title: Nhs Tayside And Fife Accident & Emergency Dataset (Phs/National)
+title: Nhs tayside and fife accident & emergency dataset (phs/national)
 ---

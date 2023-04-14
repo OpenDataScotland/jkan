@@ -21,5 +21,5 @@ resources:
   name: GeoJSON for Angus Council Polling Stations
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:law_pollingstations&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Polling Stations
+title: Angus council polling stations
 ---

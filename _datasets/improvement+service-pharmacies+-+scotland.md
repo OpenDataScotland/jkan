@@ -22,5 +22,5 @@ resources:
   name: 'Pharmacies '
   url: https://geo.spatialhub.scot/geoserver/sh_pharm/wfs?service=wfs&typeName=sh_pharm:pub_pharm
 schema: default
-title: Pharmacies - Scotland
+title: Pharmacies - scotland
 ---

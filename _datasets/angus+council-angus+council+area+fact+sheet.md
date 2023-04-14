@@ -20,5 +20,5 @@ resources:
   name: Angus Council Area Fact Sheet PDF
   url: http://opendata.angus.gov.uk/dataset/6937ec2d-e0af-435b-8030-66090b0b4033/resource/90530c83-2efc-400a-a6b1-24039d8a6093/download/angus-council-area-fact-sheet.pdf
 schema: default
-title: Angus Council Area Fact Sheet
+title: Angus council area fact sheet
 ---

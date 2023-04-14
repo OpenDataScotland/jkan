@@ -11,6 +11,6 @@ original_dataset_link: http://statistics.gov.scot/data/information-and-communica
 records: null
 resources: []
 schema: default
-title: 'Annual Business Survey: Information And Communication Technologies (Ict) Including
-  Related Industries'
+title: 'Annual business survey: information and communication technologies (ict) including
+  related industries'
 ---

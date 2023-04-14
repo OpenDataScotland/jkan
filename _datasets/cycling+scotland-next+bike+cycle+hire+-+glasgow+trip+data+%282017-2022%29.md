@@ -21,5 +21,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/51ec8f3f-9268-45d2-a86b-eb86db3f2b7a/9/urql
 schema: default
-title: Next Bike Cycle Hire - Glasgow Trip Data (2017-2022)
+title: Next bike cycle hire - glasgow trip data (2017-2022)
 ---

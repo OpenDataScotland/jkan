@@ -33,5 +33,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0.kml
 schema: default
-title: Local Nature Reserves
+title: Local nature reserves
 ---

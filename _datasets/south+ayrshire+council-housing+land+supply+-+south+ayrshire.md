@@ -26,5 +26,5 @@ resources:
   name: Housing Land Supply
   url: https://data.spatialhub.scot/dataset/40bd098c-8a0c-4b92-b206-af0d17d42ac5/resource/e007a935-f0bc-4f59-8c8e-5d4b03d3b2c8/download/housing_land_supply.zip
 schema: default
-title: Housing Land Supply - South Ayrshire
+title: Housing land supply - south ayrshire
 ---

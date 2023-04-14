@@ -25,5 +25,5 @@ resources:
   name: Birth Time Series Data by Year
   url: https://data.stirling.gov.uk/dataset/68bea085-165e-4d09-a2a0-aeac64e596a1/resource/aababce8-6227-4bee-803b-d535c69fd6ff/download/20220712-stirling-council-nrs-birth-time-series-data-1991-to-2021.csv
 schema: default
-title: 'Nrs: Births Time Series Data'
+title: 'Nrs: births time series data'
 ---

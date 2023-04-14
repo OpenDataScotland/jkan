@@ -24,5 +24,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1c53660545a6442c
 records: 669
 resources: []
 schema: default
-title: Core Paths Plan 2022
+title: Core paths plan 2022
 ---

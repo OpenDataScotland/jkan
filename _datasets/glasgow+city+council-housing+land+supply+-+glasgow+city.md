@@ -32,5 +32,5 @@ resources:
   name: Housing Land Audit 2019
   url: https://data.spatialhub.scot/dataset/c9ba4def-8d59-4d61-b38f-816b20b697e3/resource/1f013aff-5571-4866-bb55-33c893f31fa7/download/hlab2019_gcv.zip
 schema: default
-title: Housing Land Supply - Glasgow City
+title: Housing land supply - glasgow city
 ---

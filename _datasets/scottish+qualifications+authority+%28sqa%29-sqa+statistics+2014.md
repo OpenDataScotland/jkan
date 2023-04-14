@@ -113,5 +113,5 @@ resources:
   name: Attainment Statistics (August) 1st Sept 2014 Colleges
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_1st_Sept_2014_Colleges.xls
 schema: default
-title: Sqa Statistics 2014
+title: Sqa statistics 2014
 ---

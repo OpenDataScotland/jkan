@@ -18,5 +18,5 @@ resources:
   name: Teacher Numbers 2007 to 2017.csv
   url: https://data.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/resource?resourceGUID=8b7eb95e-97fd-406a-b7fd-15198f7fb498
 schema: default
-title: Teacher Numbers
+title: Teacher numbers
 ---

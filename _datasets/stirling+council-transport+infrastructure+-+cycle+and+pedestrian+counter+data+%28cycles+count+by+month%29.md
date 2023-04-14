@@ -54,6 +54,6 @@ resources:
   name: GEOJSON
   url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-cycles-count-by-month.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
-title: Transport Infrastructure - Cycle And Pedestrian Counter Data (Cycles Count
-  By Month)
+title: Transport infrastructure - cycle and pedestrian counter data (cycles count
+  by month)
 ---

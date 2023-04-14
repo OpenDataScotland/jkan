@@ -20,5 +20,5 @@ resources:
   name: Estimated Life Expectancy at Birth
   url: https://data.stirling.gov.uk/dataset/dec88cfe-96fc-4d43-a0f5-1a1f6e073f91/resource/acd7cac6-e1b3-4c39-92f3-b1ba06778d77/download/20221010-stirling-council-nrs-life-epectancy-at-birth-22.09.2022.csv
 schema: default
-title: 'Nrs: Life Expectancy'
+title: 'Nrs: life expectancy'
 ---

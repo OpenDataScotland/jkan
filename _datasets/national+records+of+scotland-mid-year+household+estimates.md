@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/mid-year-household-estima
 records: null
 resources: []
 schema: default
-title: Mid-Year Household Estimates
+title: Mid-year household estimates
 ---

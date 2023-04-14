@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/786226a3-3570-48c6-ae97-8693caf036a2/1/urql
 schema: default
-title: "Hands Up Scotland Survey \u2013 Children Cycling To School"
+title: "Hands up scotland survey \u2013 children cycling to school"
 ---

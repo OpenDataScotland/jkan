@@ -45,5 +45,5 @@ resources:
   name: Secondary School Menu 2017-2018
   url: https://data.dundeecity.gov.uk/dataset/3bad864e-4fa7-42b7-8ec7-65bf2260ebab/resource/55844f67-fdfb-433f-ac91-06d74723074a/download/secondary-school-menu.xls
 schema: default
-title: School Meals
+title: School meals
 ---

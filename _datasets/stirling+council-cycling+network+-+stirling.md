@@ -21,5 +21,5 @@ resources:
   name: Cycle paths
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Transportation_Cycle_Paths_Current/FeatureServer/1/query?outFields=*&where=1%3D1
 schema: default
-title: Cycling Network - Stirling
+title: Cycling network - stirling
 ---

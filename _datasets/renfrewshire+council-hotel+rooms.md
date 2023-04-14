@@ -12,5 +12,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=a56faca05f884788
 records: null
 resources: []
 schema: default
-title: Hotel Rooms
+title: Hotel rooms
 ---

@@ -18,5 +18,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=98fd19de341d4263
 records: 33
 resources: []
 schema: default
-title: Local Development Plan 2020 Settlement Boundary (Moray)
+title: Local development plan 2020 settlement boundary (moray)
 ---

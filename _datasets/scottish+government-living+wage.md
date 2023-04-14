@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/living-wage
 records: null
 resources: []
 schema: default
-title: Living Wage
+title: Living wage
 ---

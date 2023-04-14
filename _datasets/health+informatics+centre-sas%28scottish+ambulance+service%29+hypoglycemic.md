@@ -15,5 +15,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/6a419752-42b0-485f-a0eb-08baa820920a/resource/6a419752-42b0-485f-a0eb-08baa820920a/download/datadictionary.json
 schema: default
-title: Sas(Scottish Ambulance Service) Hypoglycemic
+title: Sas(scottish ambulance service) hypoglycemic
 ---

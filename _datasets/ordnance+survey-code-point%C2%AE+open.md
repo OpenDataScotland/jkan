@@ -22,5 +22,5 @@ resources:
   name: Download
   url: https://www.ordnancesurvey.co.uk/opendatadownload/products.html#CODEPO
 schema: default
-title: "Code-Point\xAE Open"
+title: "Code-point\xAE open"
 ---

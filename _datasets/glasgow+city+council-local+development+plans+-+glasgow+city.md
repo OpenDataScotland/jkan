@@ -24,5 +24,5 @@ resources:
   name: City Development Plan Layers
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Local Development Plans - Glasgow City
+title: Local development plans - glasgow city
 ---

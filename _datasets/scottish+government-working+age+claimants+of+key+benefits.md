@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/working-age-claimants-of-
 records: null
 resources: []
 schema: default
-title: Working Age Claimants Of Key Benefits
+title: Working age claimants of key benefits
 ---

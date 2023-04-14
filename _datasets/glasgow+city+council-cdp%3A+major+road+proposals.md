@@ -27,5 +27,5 @@ resources:
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-major-road-proposals.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: 'Cdp: Major Road Proposals'
+title: 'Cdp: major road proposals'
 ---

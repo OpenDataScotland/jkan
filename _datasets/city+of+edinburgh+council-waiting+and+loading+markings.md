@@ -35,5 +35,5 @@ resources:
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/f8ddf20c780e4e50b0ad2290b43bb015_10.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Waiting And Loading Markings
+title: Waiting and loading markings
 ---

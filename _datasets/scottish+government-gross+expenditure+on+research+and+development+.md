@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/gross-expenditure-on-rese
 records: null
 resources: []
 schema: default
-title: 'Gross Expenditure On Research And Development '
+title: 'Gross expenditure on research and development '
 ---

@@ -13,5 +13,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=d344834454e54fc8
 records: 12
 resources: []
 schema: default
-title: Open Data - Secondary School Catchment Areas
+title: Open data - secondary school catchment areas
 ---

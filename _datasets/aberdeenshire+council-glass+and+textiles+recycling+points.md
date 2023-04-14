@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/recycling_points.kmz
 schema: default
-title: Glass And Textiles Recycling Points
+title: Glass and textiles recycling points
 ---

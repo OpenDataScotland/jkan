@@ -17,5 +17,5 @@ resources:
   name: Air Quality Management Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Air Quality Management Areas - North Lanarkshire
+title: Air quality management areas - north lanarkshire
 ---

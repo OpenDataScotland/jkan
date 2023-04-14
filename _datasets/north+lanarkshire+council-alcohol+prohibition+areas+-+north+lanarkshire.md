@@ -24,5 +24,5 @@ resources:
   name: Alcohol Prohib Areas
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
 schema: default
-title: Alcohol Prohibition Areas - North Lanarkshire
+title: Alcohol prohibition areas - north lanarkshire
 ---

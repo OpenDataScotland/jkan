@@ -21,5 +21,5 @@ resources:
   name: Link to current register
   url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00372
 schema: default
-title: Contract Register
+title: Contract register
 ---

@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=b2258a5522394cc6
 records: 7
 resources: []
 schema: default
-title: Wildlife Sites (Moray)
+title: Wildlife sites (moray)
 ---

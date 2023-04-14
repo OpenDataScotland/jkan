@@ -50,5 +50,5 @@ resources:
   name: Antenatal bookings by Deprivation
   url: https://www.opendata.nhs.scot/dataset/5314dde5-3e7a-451c-b4e9-0afe96d27ac0/resource/e9409064-35ff-4bbe-a813-e50d545ffb33/download/ante_booking_simd_20230405.csv
 schema: default
-title: Covid-19 Wider Impacts - Antenatal Bookings
+title: Covid-19 wider impacts - antenatal bookings
 ---

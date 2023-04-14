@@ -14,6 +14,6 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=db203ab813e7447a
 records: 1
 resources: []
 schema: default
-title: Moray Onshore Wind Energy 2017 Landscape Capacity For Small-Medium Typologies
-  (Moray)
+title: Moray onshore wind energy 2017 landscape capacity for small-medium typologies
+  (moray)
 ---

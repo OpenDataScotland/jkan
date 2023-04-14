@@ -14,5 +14,5 @@ resources:
   name: Ordinary Grade, Standard Grade, Higher and CSYS
   url: https://www.sqa.org.uk/files_ccc/Stats1988.xls
 schema: default
-title: Sqa Statistics 1988
+title: Sqa statistics 1988
 ---

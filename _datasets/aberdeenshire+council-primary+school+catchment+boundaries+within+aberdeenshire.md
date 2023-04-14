@@ -16,5 +16,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_primary_school_catchments.kmz
 schema: default
-title: Primary School Catchment Boundaries Within Aberdeenshire
+title: Primary school catchment boundaries within aberdeenshire
 ---

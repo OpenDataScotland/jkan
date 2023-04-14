@@ -44,5 +44,5 @@ resources:
   name: WDC Polling Districts
   url: https://data.spatialhub.scot/dataset/f0560dcb-89fe-461b-8c0a-05381299dd39/resource/0be65af6-87e1-40f6-8f2f-c5e76d05c380/download/wdc-polling-districts.zip
 schema: default
-title: Polling Districts - West Dunbartonshire
+title: Polling districts - west dunbartonshire
 ---

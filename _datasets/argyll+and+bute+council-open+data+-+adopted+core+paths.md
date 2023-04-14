@@ -25,5 +25,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=643b80fbbdfa4b13
 records: 964
 resources: []
 schema: default
-title: Open Data - Adopted Core Paths
+title: Open data - adopted core paths
 ---

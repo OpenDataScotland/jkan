@@ -71,5 +71,5 @@ resources:
   name: GP Details October 2018
   url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/e37c14fe-51f7-4935-87d1-c79b30fe8824/download/gp_contact_details_october2018.csv
 schema: default
-title: General Practitioner Contact Details
+title: General practitioner contact details
 ---

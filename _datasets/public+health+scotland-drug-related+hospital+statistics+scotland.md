@@ -23,5 +23,5 @@ resources:
   name: DRHS By Council Area
   url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/46f9d70b-8517-4af3-b65e-dbcd13dfa388/download/drug_related_hospital_stays_council_2021-22.csv
 schema: default
-title: Drug-Related Hospital Statistics Scotland
+title: Drug-related hospital statistics scotland
 ---

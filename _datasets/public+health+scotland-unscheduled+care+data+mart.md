@@ -16,5 +16,5 @@ resources:
   name: datadictionary.json
   url: https://find.researchdata.scot/dataset/94f983ec-af41-451a-af5d-657ac58207c6/resource/a265af2e-40fc-4759-af61-eab293cdad5a/download/datadictionary.json
 schema: default
-title: Unscheduled Care Data Mart
+title: Unscheduled care data mart
 ---

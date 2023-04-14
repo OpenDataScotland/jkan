@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/infant-deaths
 records: null
 resources: []
 schema: default
-title: Infant Deaths
+title: Infant deaths
 ---

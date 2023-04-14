@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/personal-tax-credits-numb
 records: null
 resources: []
 schema: default
-title: 'Personal Tax Credits: Number Of Families'
+title: 'Personal tax credits: number of families'
 ---

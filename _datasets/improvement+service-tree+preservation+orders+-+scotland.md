@@ -41,5 +41,5 @@ resources:
   name: 'Tree Preservation Orders: Polygons '
   url: https://geo.spatialhub.scot/geoserver/sh_tpo/wfs?service=wfs&typeName=sh_tpo:pub_tpopol
 schema: default
-title: Tree Preservation Orders - Scotland
+title: Tree preservation orders - scotland
 ---

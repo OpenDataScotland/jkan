@@ -36,5 +36,5 @@ resources:
   name: Dundee's Public Space Camera Surveillance System Webpage
   url: https://www.dundeecity.gov.uk/service-area/city-development/sustainable-transport-and-roads/dundees-public-space-camera-surveillance-system
 schema: default
-title: Dundee'S Public Space Cctv
+title: Dundee's public space cctv
 ---

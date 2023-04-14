@@ -17,5 +17,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/575621b3-f511-4319-b5f6-c5fb723d6538/1/urql
 schema: default
-title: Smoke Control Areas
+title: Smoke control areas
 ---

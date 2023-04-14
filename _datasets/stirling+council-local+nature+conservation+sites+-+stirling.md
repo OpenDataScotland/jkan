@@ -19,5 +19,5 @@ resources:
   name: Local Nature Conservation Sites
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Natural_Environment_Local_Nature_Conservation_Sites/FeatureServer/5/query?outFields=*&where=1%3D1
 schema: default
-title: Local Nature Conservation Sites - Stirling
+title: Local nature conservation sites - stirling
 ---

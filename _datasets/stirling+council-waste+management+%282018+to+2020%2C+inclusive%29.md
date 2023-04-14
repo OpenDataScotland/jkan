@@ -31,5 +31,5 @@ resources:
   name: Domestic Waste Collections for 2020
   url: https://data.stirling.gov.uk/dataset/a1768130-ff1b-49ef-a98d-e474ab8a94e0/resource/22683cc9-d7fc-4a87-8001-c9dc4e4e4a62/download/20210115-waste-management-january-to-december-2020.csv
 schema: default
-title: Waste Management (2018 To 2020, Inclusive)
+title: Waste management (2018 to 2020, inclusive)
 ---

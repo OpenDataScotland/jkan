@@ -15,5 +15,5 @@ original_dataset_link: http://statistics.gov.scot/data/homelessness-applications
 records: null
 resources: []
 schema: default
-title: Homelessness Applications
+title: Homelessness applications
 ---

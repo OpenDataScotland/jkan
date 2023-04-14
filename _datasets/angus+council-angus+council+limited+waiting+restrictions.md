@@ -20,5 +20,5 @@ resources:
   name: GeoJSON for Angus Council Limited Waiting Restrictions
   url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services:limited_waiting&outputFormat=application%2Fjson&srsName=EPSG:3857
 schema: default
-title: Angus Council Limited Waiting Restrictions
+title: Angus council limited waiting restrictions
 ---

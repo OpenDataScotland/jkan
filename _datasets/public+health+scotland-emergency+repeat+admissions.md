@@ -12,5 +12,5 @@ original_dataset_link: http://statistics.gov.scot/data/emergency-repeat-admissio
 records: null
 resources: []
 schema: default
-title: Emergency Repeat Admissions
+title: Emergency repeat admissions
 ---

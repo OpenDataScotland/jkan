@@ -37,5 +37,5 @@ resources:
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/a4f91b8dd96b4bc79cc19934257be828_23.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Secondary School Catchments (Roman Catholic)
+title: Secondary school catchments (roman catholic)
 ---

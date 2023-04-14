@@ -14,5 +14,5 @@ resources:
   name: CSV
   url: http://www.moray.gov.uk/OpenData/Files/RecyclingPoints.csv
 schema: default
-title: Recycling Points
+title: Recycling points
 ---

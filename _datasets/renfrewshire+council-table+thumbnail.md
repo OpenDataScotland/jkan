@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=2a8c3cedfd514d9b
 records: null
 resources: []
 schema: default
-title: Table Thumbnail
+title: Table thumbnail
 ---

@@ -15,5 +15,5 @@ resources:
   name: CSV
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/csv/cooling-towers-register.csv
 schema: default
-title: Cooling Tower Register
+title: Cooling tower register
 ---

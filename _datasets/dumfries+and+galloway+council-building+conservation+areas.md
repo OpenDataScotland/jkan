@@ -17,5 +17,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/9762f781-5c04-4759-a70b-afc585af1d12/710fb75a-4c63-4d05-a4cd-cb7f5dfd752e/1/urql
 schema: default
-title: Building Conservation Areas
+title: Building conservation areas
 ---

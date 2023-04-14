@@ -37,5 +37,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
-title: Local Development Plan Allocations
+title: Local development plan allocations
 ---

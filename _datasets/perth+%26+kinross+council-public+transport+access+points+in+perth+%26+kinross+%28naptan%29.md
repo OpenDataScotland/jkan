@@ -22,5 +22,5 @@ resources:
   name: NaptanStopsPerth.csv
   url: https://data.pkc.gov.uk/dataset/0f2bb8dd-7255-4224-8bbd-9cfe3732d1d6/resource/0ab9c888-6c26-48f6-8941-7c174b73ff76/download/naptanstopsperth.csv
 schema: default
-title: Public Transport Access Points In Perth & Kinross (Naptan)
+title: Public transport access points in perth & kinross (naptan)
 ---

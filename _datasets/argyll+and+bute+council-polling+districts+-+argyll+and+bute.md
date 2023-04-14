@@ -53,5 +53,5 @@ resources:
   name: Polling districts
   url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Polling Districts - Argyll And Bute
+title: Polling districts - argyll and bute
 ---

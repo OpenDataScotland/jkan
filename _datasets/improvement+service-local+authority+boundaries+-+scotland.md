@@ -28,5 +28,5 @@ resources:
   name: 'Local Authority Boundaries '
   url: https://geo.spatialhub.scot/geoserver/sh_las/wfs?service=wfs&typeName=sh_las:pub_las
 schema: default
-title: Local Authority Boundaries - Scotland
+title: Local authority boundaries - scotland
 ---

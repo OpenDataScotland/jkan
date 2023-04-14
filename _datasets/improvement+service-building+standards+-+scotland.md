@@ -53,5 +53,5 @@ resources:
   name: 'Building Standards: Archive (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanyearpol
 schema: default
-title: Building Standards - Scotland
+title: Building standards - scotland
 ---

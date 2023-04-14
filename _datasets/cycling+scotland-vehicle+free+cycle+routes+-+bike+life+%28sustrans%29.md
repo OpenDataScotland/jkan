@@ -15,5 +15,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/415f390a-c64c-4f28-898f-5d0757aa7105/1/urql
 schema: default
-title: Vehicle Free Cycle Routes - Bike Life (Sustrans)
+title: Vehicle free cycle routes - bike life (sustrans)
 ---

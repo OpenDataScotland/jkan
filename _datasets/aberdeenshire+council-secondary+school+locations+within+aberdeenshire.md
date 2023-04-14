@@ -14,5 +14,5 @@ resources:
   name: KMZ
   url: https://online.aberdeenshire.gov.uk/apps/OpenData/kml/aberdeenshire_secondary_school_locations.kmz
 schema: default
-title: Secondary School Locations Within Aberdeenshire
+title: Secondary school locations within aberdeenshire
 ---

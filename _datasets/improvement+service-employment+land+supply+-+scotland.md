@@ -22,5 +22,5 @@ resources:
   name: 'Employment Land Supply '
   url: https://geo.spatialhub.scot/geoserver/sh_els/wfs?service=wfs&typeName=sh_els:pub_els
 schema: default
-title: Employment Land Supply - Scotland
+title: Employment land supply - scotland
 ---

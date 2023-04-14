@@ -14,5 +14,5 @@ original_dataset_link: http://statistics.gov.scot/data/affordable-housing-supply
 records: null
 resources: []
 schema: default
-title: Affordable Housing Supply Programme
+title: Affordable housing supply programme
 ---

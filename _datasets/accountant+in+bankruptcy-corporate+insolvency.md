@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/corporate-insolvency
 records: null
 resources: []
 schema: default
-title: Corporate Insolvency
+title: Corporate insolvency
 ---

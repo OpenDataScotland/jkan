@@ -13,5 +13,5 @@ original_dataset_link: http://statistics.gov.scot/data/tourism-day-visits---acti
 records: null
 resources: []
 schema: default
-title: Tourism Day Visits - Activities
+title: Tourism day visits - activities
 ---

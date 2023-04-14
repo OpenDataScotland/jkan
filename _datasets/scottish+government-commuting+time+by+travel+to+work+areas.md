@@ -11,5 +11,5 @@ original_dataset_link: http://statistics.gov.scot/data/commuting-time-by-travel-
 records: null
 resources: []
 schema: default
-title: Commuting Time By Travel To Work Areas
+title: Commuting time by travel to work areas
 ---
