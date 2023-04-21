@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2016-05-31'
-date_updated: '2022-10-27'
+date_updated: '2023-04-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -44,6 +44,9 @@ resources:
 - format: WFS
   name: Green belt and green network
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/City_Development_Plan/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Green belt and green network
+  url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/9/query?outFields=*&where=1%3D1&f=json
 schema: default
 title: Green Belt - Glasgow City
 ---

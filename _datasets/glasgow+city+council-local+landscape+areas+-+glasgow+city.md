@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2023-03-21'
+date_updated: '2023-04-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -26,9 +26,9 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-gc'
 records: null
 resources:
-- format: ZIP
+- format: WFS
   name: Sites of Special Landscape Importance
-  url: https://data.spatialhub.scot/dataset/5f6fffd0-4138-4312-a97b-f19463bd09b5/resource/b5501323-9153-4ce3-8ade-00cdd4fd9346/download/sitesspeciallanscapeimportance.zip
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Sites_of_Special_Landscape_Importance/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Landscape Areas - Glasgow City
 ---

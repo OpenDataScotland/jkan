@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2022-10-27'
+date_updated: '2023-04-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -54,7 +54,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/856db48f-5912-43c3-a331-25d883d2ad1b/resource/dfc7da89-c9b1-478b-b425-8795442202f7/download/community_asset_register_properties.zip
 - format: WFS
   name: Community Asset Register
-  url: https://utility.arcgis.com/usrsvcs/servers/8feb8ec7d3d4468fb957e37043a3deee/services/OPEN_DATA/Community_asset_register_properties/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Community_asset_register_properties/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Asset Transfer Register - Glasgow City
 ---

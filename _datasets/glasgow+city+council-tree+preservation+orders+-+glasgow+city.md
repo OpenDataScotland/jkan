@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-03-21'
+date_updated: '2023-04-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -41,9 +41,9 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-gc'
 records: null
 resources:
-- format: ZIP
-  name: TPO
-  url: https://data.spatialhub.scot/dataset/b498abc4-9cd4-468d-a1a1-f0d35ec45fbd/resource/cdb0f0d4-8b85-4622-a0d6-ae02beedc819/download/treepressites.zip
+- format: WFS
+  name: Tree Preservation Orders
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/tree_preservation_orders_open_data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Tree Preservation Orders - Glasgow City
 ---
