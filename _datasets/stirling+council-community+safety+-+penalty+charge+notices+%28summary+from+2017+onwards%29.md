@@ -20,18 +20,9 @@ notes: "<h2 style='margin:10px 0px; font-family:inherit; color:inherit; font-siz
   \ all PCNs issued and the contravention (reason) for the issue since DPE began on\
   \ 03/05/2017.</span></p></h2>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::community-safety-penalty-charge-notices-summary-from-2017-onwards
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/community%20safety%20-%20penalty%20charge%20notices%20(summary%20from%202017%20onwards)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-penalty-charge-notices-summary-from-2017-onwards.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-penalty-charge-notices-summary-from-2017-onwards.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Community safety - penalty charge notices (summary from 2017 onwards)
 ---

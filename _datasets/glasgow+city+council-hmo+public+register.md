@@ -34,24 +34,9 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ /><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,\
   \ &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/c4d432bf3bb34b7583c07527c770a373/rest/services/OPEN_DATA/HMO_Public_Register/MapServer/0
-- format: CSV
-  name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: HMO Public Register
 ---

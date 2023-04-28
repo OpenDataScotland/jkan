@@ -32,7 +32,7 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   <p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'><br /></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::population-and-society-settlement-and-localities-population-estimates-2016
+original_dataset_link: ''
 records: null
 resources: []
 schema: default

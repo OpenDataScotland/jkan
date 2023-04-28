@@ -21,24 +21,9 @@ notes: "<p style='margin-bottom:0cm;'><span style='font-size:12.0pt; font-family
   \ of the communities they represent. Community councils are statutory consultees\
   \ under various processes, such as for planning applications.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-political-community-councils-stirling
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Community_Councils_Stirling/FeatureServer/2
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Boundaries political - community councils (stirling)
 ---

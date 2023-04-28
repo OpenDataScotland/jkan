@@ -107,24 +107,9 @@ notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-us
   \ transparent; color: rgb(0, 0, 0); font-size: 12pt; line-height: 20.5042px; font-family:\
   \ Calibri, Calibri_MSFontService, sans-serif;'>\_</span></p>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::bus-stops-naptan
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/8
-- format: CSV
-  name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::bus-stops-naptan.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::bus-stops-naptan.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::bus-stops-naptan.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::bus-stops-naptan.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Bus Stops (NaPTAN)
 ---

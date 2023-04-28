@@ -30,12 +30,9 @@ notes: "<p>Object Count data collected from over 40 CCTV cameras owned by Glasgo
   \ it every time it detects the object in the image frame. One of the image count\
   \ data are retained or stored after they have been counted.</span></p>\n<p><br /></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-cctv-object-count-data
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
+resources: []
 schema: default
 title: Glasgow CCTV Object Count Data
 ---

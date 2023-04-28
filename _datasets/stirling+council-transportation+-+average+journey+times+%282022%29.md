@@ -58,18 +58,9 @@ notes: "<p style='margin:0cm; background:white;'></p>\n<p style='margin-bottom:0
   <p style='margin-bottom:0cm; background:white;'><span style='font-family:Roboto;\
   \ color:rgb(68, 68, 68);'>planned roadworks throughout the country.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::transportation-average-journey-times-2022
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20average%20journey%20times%20(2022)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-average-journey-times-2022.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-average-journey-times-2022.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Transportation - average journey times (2022)
 ---

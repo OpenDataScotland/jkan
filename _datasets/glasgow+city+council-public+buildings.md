@@ -17,12 +17,9 @@ notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. 
   Sector. Selected Community Facilities - Community Centres, Youth Centres, Recreation
   Centres - managed and operated by Glasgow Life. </p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::public-buildings
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer
+resources: []
 schema: default
 title: Public Buildings
 ---

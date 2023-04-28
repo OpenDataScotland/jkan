@@ -9,12 +9,9 @@ notes: <p>Access to data on the volume of footfall across Glasgow City Centre, g
   from a network of sensors provided by Springboard. Data by hour, day, month and
   year going back to 2010.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::footfall
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://developer.glasgow.gov.uk/api-details#api=mobility&operation=footfall
+resources: []
 schema: default
 title: Footfall
 ---

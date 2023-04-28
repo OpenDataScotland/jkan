@@ -21,18 +21,9 @@ notes: "<p style='margin-bottom:0cm; background:white;'><span style='font-family
   \ year order (highest to lowest).</span></p>\n<p style='margin-bottom:0cm; background:white;'><span\
   \ style='font-family:Roboto;'>\xA9 Crown Copyright 2022</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-land-area-population-density-2020-2021
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20land%20area%20population%20density%20(2020-2021)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-land-area-population-density-2020-2021.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-land-area-population-density-2020-2021.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - land area population density (2020-2021)
 ---

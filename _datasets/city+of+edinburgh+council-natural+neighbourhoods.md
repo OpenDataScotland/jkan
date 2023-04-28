@@ -22,24 +22,9 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   will be used by the Council and its partners to plan services, consultations and
   inform policy and strategy development.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/9961be54aa5649aebfb5f2cde53fa432_27
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/27
-- format: CSV
-  name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/9961be54aa5649aebfb5f2cde53fa432_27.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/9961be54aa5649aebfb5f2cde53fa432_27.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/9961be54aa5649aebfb5f2cde53fa432_27.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/9961be54aa5649aebfb5f2cde53fa432_27.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Natural Neighbourhoods
 ---

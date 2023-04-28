@@ -29,18 +29,9 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ style='color:rgb(86, 0, 132); text-decoration-line:none;' rel='nofollow ugc'>2021\
   \ Annual Report</a>\_provides a valuable snapshot of school travel in Scotland.</p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::education-and-skills-hands-up-survey-analysis-by-travel-mode-2021
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20hands-up%20survey%20results%20travel%20mode%20(2021)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-analysis-by-travel-mode-2021.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-analysis-by-travel-mode-2021.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Education and skills - hands-up survey analysis by travel mode (2021)
 ---

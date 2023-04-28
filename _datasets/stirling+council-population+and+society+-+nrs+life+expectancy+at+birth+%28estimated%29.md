@@ -28,18 +28,9 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ margin-left:0cm; background:white;'><span style='font-family:Roboto; font-size:11pt;'>\xA9\
   \ Crown Copyright 2022</span></p></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-nrs-life-expectancy-at-birth-estimated
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20life%20expectancy%20at%20birth%20(estimated)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-life-expectancy-at-birth-estimated.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-life-expectancy-at-birth-estimated.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - nrs life expectancy at birth (estimated)
 ---

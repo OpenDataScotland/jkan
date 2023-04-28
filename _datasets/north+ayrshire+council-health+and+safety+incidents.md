@@ -12,18 +12,9 @@ notes: <p>In the event of a Health and Safety incident arising out of, or in con
   line manager as soon as practicable after the event. This dataset gives details
   of any incidents recorded.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::health-and-safety-incidents
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/27
-- format: CSV
-  name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::health-and-safety-incidents.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::health-and-safety-incidents.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Health and Safety Incidents
 ---

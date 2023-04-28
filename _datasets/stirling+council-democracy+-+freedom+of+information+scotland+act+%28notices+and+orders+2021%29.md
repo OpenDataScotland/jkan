@@ -34,18 +34,9 @@ notes: "<p style='margin-top:0px; margin-bottom:10px;'></p>\n<p style='margin-to
   \ word-spacing:0px;'><span style='font-size:11.0pt; font-family:Roboto; color:#444444;'>Visit\
   \ Stirling Council\u2019s website for more details on Freedom of Information.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/democracy%20-%20freedom%20of%20information%20requests%20(2021)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders 2021)
 ---

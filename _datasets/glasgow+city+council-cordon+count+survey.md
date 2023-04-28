@@ -19,24 +19,9 @@ notes: "<p>Glasgow City Council has undertaken annual surveys since 2007 to eval
   \ in 2020 to measure the effects of the global pandemic on active travel within\
   \ the city cordon.\_</p><br /></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cordon-count-survey
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/ebde93972b5a478ba252551c574c1a8c/rest/services/OPEN_DATA/Cordon_Count_Survey/MapServer/0
-- format: CSV
-  name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Cordon Count Survey
 ---

@@ -9,12 +9,9 @@ notes: <div><div style='box-sizing:border-box;'><p>A real time traffic API allow
   queries of current traffic flows from the Glasgow SCOOT traffic network and also
   the ability to query over a given time period.</p><div></div></div></div>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::traffic-api-real-time-movement
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://developer.glasgow.gov.uk/api-details#api=traffic&operation=movement
+resources: []
 schema: default
 title: Traffic API - Real Time Movement
 ---

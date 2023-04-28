@@ -11,18 +11,9 @@ notes: "<p>It is an offence for anyone to carry out work to which the building r
   \ Service consider it necessary, a 'building warrant enforcement notice' may be\
   \ served on the relevant person.</p>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::building-warrant-enforcement-notices
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/24
-- format: CSV
-  name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-enforcement-notices.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-enforcement-notices.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Building Warrant Enforcement Notices
 ---

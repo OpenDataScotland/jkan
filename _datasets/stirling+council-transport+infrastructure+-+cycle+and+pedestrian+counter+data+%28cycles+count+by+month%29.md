@@ -41,18 +41,9 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ Roadworks Commissioner\_</a>can give further details on any planned roadworks\
   \ throughout the country.</p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-cycles-count-by-month
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20cycle%20and%20pedestrian%20counter%20data%20(cycles%20count%20by%20month)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-cycles-count-by-month.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-cycles-count-by-month.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Transport infrastructure - cycle and pedestrian counter data (cycles count
   by month)

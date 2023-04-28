@@ -37,18 +37,9 @@ notes: "<p style='margin:0cm 0cm 7.5pt; color:rgb(68, 68, 68); font-family:&quot
   \ style='font-family:Roboto; font-size:11pt;'>\_on settlements and localities and\
   \ how they are determined.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-all-persons-2020
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20settlement%20and%20localities%20population%20estimates%20by%20age%20(all%20persons%202020)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-all-persons-2020.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-all-persons-2020.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - settlement and localities population estimates by
   age (all persons 2020)

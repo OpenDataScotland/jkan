@@ -7,12 +7,9 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/apps/GlasgowGIS::covid-19-in-glasgow-one-year-on
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://storymaps.arcgis.com/stories/c60b49f824524b1495657651f67eb14b
+resources: []
 schema: default
 title: Covid-19 in Glasgow - one year on
 ---

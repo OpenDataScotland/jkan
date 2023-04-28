@@ -40,18 +40,9 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ each covering a population of between 500 and 1000 residents, there are 121 within\
   \ the Stirling Council area, accounting for 24 Intermediate Zones.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2014
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scotpho%20life%20expectancy%20at%20birth%20(by%20intermediate%20zone%202014)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2014.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2014.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - scotpho life expectancy at birth (by intermediate
   zone 2014)

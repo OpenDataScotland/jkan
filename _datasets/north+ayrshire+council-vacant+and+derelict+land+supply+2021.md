@@ -13,24 +13,9 @@ notes: <p><span style='font-family:&quot;Avenir Next&quot;, &quot;Avenir Next&qu
   land in North Ayrshire and the amount of land that has been rehabilitated since
   the previous survey.</span></p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::vacant-and-derelict-land-supply-2021
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/FeatureServer/70
-- format: CSV
-  name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2021.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2021.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2021.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2021.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Vacant and Derelict Land Supply 2021
 ---

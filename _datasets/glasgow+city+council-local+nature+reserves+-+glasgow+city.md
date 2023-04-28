@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2023-03-21'
+date_updated: '2023-04-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -18,9 +18,9 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-gc'
 records: null
 resources:
-- format: ZIP
+- format: REST
   name: Local Nature Reserves
-  url: https://data.spatialhub.scot/dataset/2c86eef7-2c09-47d9-b073-7f28d9e26441/resource/ddd58c7c-42be-4d1f-a167-0c2d1194001a/download/localnaturereserves.zip
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/LNRs/MapServer/0/query?outFields=*&where=1%3D1&f=json
 schema: default
 title: Local Nature Reserves - Glasgow City
 ---

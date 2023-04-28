@@ -22,24 +22,9 @@ notes: '<p style=''margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-f
 
   <div><br /></div>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::road-safety-accidents
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/caaece2dbbbc43428083810d46e68bcb/rest/services/OPEN_DATA/Road_Safety_Accidents/MapServer/0
-- format: CSV
-  name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Road Safety Accidents
 ---

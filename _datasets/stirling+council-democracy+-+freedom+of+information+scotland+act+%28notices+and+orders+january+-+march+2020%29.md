@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: ''
-date_updated: '2023-03-30'
+date_updated: '2023-03-22'
 license: No licence
 maintainer: Stirling Council
 notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-position:initial;\
@@ -35,7 +35,7 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ 68, 68);'>Visit Stirling Council\u2019s website for more details on Freedom of\
   \ Information.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-january-march-2020-1
+original_dataset_link: ''
 records: null
 resources: []
 schema: default

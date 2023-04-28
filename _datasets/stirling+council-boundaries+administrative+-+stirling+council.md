@@ -22,24 +22,9 @@ notes: <p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif
   boundaries, however, the definitive dataset is delineated by Ordnance Survey for
   inclusion in their BoundaryLine product.</span></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Stirling_Council/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Boundaries administrative - stirling council
 ---

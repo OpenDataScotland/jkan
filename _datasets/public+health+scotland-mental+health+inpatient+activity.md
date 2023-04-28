@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2018-03-06'
-date_updated: '2023-04-20'
+date_updated: '2023-04-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These files present information on patients with mental health problems
@@ -56,7 +56,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/530cb70a-f747-4b3b-b75a-06353ae78e8d/download/icd10-lookup.xlsx
 - format: CSV
   name: Discharge Types - Health Board
-  url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/4a8db493-da06-42de-90b6-c205c358a0ea/download/mental-health-inpatient-activity-discharge_types.csv
+  url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/4a8db493-da06-42de-90b6-c205c358a0ea/download/mental-health-inpatient-activity-discharge-types-hb.csv
 - format: CSV
   name: Discharge Types - Scotland
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/772c27fb-0f24-42d6-8a22-6dfd0c098214/download/mental-health-inpatient-activity-discharge-types-scot.csv

@@ -27,7 +27,7 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ rel='nofollow ugc'><b><span style='color:rgb(86, 0, 132); text-decoration-line:none;'>Licences,\
   \ permits and permissions</span></b></a>.</font></span></strong><br /></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::consumer-affairs-licensed-premises-applications-history-february-2023-1
+original_dataset_link: ''
 records: null
 resources: []
 schema: default

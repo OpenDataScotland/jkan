@@ -44,18 +44,9 @@ notes: "<p style='margin:0cm 0cm 7.5pt; color:rgb(68, 68, 68); font-family:&quot
   \ a corresponding breakdown within three broad age groups: \u201CUnder 16\u201D\
   , \u201C16 to 64\u201D and \u201C64 &amp; Over\u201D.</span></strong></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-nrs-population-projections-all-persons-2016
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20nrs%20population%20projections%20(all%202016)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-population-projections-all-persons-2016.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-population-projections-all-persons-2016.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - nrs population projections (all persons 2016)
 ---

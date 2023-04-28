@@ -54,18 +54,9 @@ notes: "<p style='margin:0cm; background-image:initial; background-position:init
   \ background-clip:initial;'><span style='color:rgb(68, 68, 68); font-family:Roboto;\
   \ font-size:11pt; font-variant-ligatures:none;'>\xA9 Crown Copyright</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-nrs-population-projections-female-2018-to-2043
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20nrs%20population%20projections%20(female%202018)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-population-projections-female-2018-to-2043.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-population-projections-female-2018-to-2043.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Population and society - nrs population projections (female 2018 to 2043)
 ---

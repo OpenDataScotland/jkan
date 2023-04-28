@@ -36,24 +36,9 @@ notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-fa
   \ Housing at full market rent has been classified as private rented stock, irrespective\
   \ of ownership.</span><div><br /></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::housing-association-properties
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/c2bc8c30a5ae4297aadf8933c45532d8/rest/services/OPEN_DATA/Housning_Association_Properties/MapServer/0
-- format: CSV
-  name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: KML
-  name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+resources: []
 schema: default
 title: Housing Association Properties
 ---

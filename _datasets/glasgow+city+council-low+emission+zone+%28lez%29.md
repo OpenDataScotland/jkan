@@ -20,24 +20,9 @@ notes: "<div><br /></div>\n<div>This Dataset shows the boundary of Glasgow City 
   <div><br /></div>\n<div>For more info visit:\_<a target='_blank' rel='noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=23025</a></div>\n\
   <div><br /></div>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::low-emission-zone-lez
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://utility.arcgis.com/usrsvcs/servers/1ce632f6f4db4d25a94982437127b2d8/rest/services/OPEN_DATA/Low_Emission_Zone/MapServer/0
-- format: CSV
-  name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: KML
-  name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+resources: []
 schema: default
 title: Low Emission Zone (LEZ)
 ---

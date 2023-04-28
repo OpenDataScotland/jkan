@@ -44,12 +44,9 @@ notes: "<p style='margin:12pt 0cm; background-image:initial; background-position
   \ Forestry</span></li><li><span style='font-family:Roboto;'>Loch Lomond and Trossachs\
   \ National Park</span></li></ul>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::forth-local-flood-risk-management-plan-cycle-two-2022-2028-storymap-collection
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://storymaps.arcgis.com/collections/dce68641170345a5b607d1181da1123e
+resources: []
 schema: default
 title: Forth Local Flood Risk Management Plan; Cycle Two 2022 - 2028 (storymap collection)
 ---

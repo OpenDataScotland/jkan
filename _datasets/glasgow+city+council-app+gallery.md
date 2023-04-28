@@ -10,7 +10,7 @@ notes: "<p>Our open data is about more than the numbers \u2013 it relates to rea
   \ around what it tells us about the city and how we might use these insights to\
   \ improve the lives of those who live and work in Glasgow.</p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/pages/GlasgowGIS::app-gallery-1
+original_dataset_link: ''
 records: null
 resources: []
 schema: default

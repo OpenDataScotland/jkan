@@ -8,12 +8,9 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>{{description}}</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/apps/GlasgowGIS::glasgows-city-councils-data-driven-response-to-covid-19
+original_dataset_link: ''
 records: null
-resources:
-- format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
-  url: https://storymaps.arcgis.com/stories/1d7eec0258714a4e991a2013218b10fd
+resources: []
 schema: default
 title: Glasgow's City Council's Data Driven Response to  Covid-19
 ---

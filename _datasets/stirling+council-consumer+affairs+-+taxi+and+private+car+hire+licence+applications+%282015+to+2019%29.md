@@ -16,7 +16,7 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ style='color:rgb(86, 0, 132); text-decoration-line:none;' rel='nofollow ugc'>licences,\
   \ permits and permissions</a>.</p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::consumer-affairs-taxi-and-private-car-hire-licence-applications-2015-to-2019
+original_dataset_link: ''
 records: null
 resources: []
 schema: default
