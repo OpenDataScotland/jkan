@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2021-06-11'
-date_updated: '2023-02-06'
+date_updated: '2023-05-02'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local authorities have the power to make by-laws to prohibit the drinking

@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: ''
-date_updated: '2022-10-14'
+date_updated: '2023-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of households in fuel poverty and extreme fuel poverty by selected

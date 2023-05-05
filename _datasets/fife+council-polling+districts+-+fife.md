@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-05-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,24 +37,12 @@ organization: Fife Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-fi'
 records: null
 resources:
-- format: No file type
-  name: Polling Districts
-  url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
 - format: ZIP
   name: Fife Polling Districts (updated)
   url: https://data.spatialhub.scot/dataset/d0779a0f-0f50-401a-bc24-41d0310f9451/resource/bb01682f-4454-454d-9929-ea6917fceb7d/download/fc_polling_districts_2017.zip
-- format: WFS
-  name: Polling Districts
-  url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Polling_Districts_March21_WFS/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Polling Places March 21v2
-  url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Polling_Districts_March21_WFS2/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Polling Districts
-  url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?
-- format: WFS
-  name: Fife Council Polling Districts
-  url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Fife_Council_Polling_Districts_WFS/WFSServer?service=wfs&request=getcapabilities
+- format: REST
+  name: Polling Districts 2022
+  url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Fife%20Council%20Polling%20Districts%20April%202022/FeatureServer/0
 schema: default
 title: Polling Districts - Fife
 ---

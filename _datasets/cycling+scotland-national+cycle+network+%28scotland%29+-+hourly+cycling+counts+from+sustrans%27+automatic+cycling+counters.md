@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-11-26'
-date_updated: '2023-04-28'
+date_updated: '2023-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Hourly cycling counts from automatic cycling counters on the National Cycle
@@ -15,6 +15,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/baeb00e2-0944-4bbe-8011-3c7598602542/1/urql
 schema: default
-title: Sustrans National Cycle Network (Scotland) - Hourly cycling counts from automatic
+title: National Cycle Network (Scotland) - Hourly cycling counts from Sustrans' automatic
   cycling counters
 ---

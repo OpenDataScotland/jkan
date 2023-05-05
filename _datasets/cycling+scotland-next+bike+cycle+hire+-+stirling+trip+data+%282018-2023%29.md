@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-02-28'
-date_updated: '2023-03-15'
+date_updated: '2023-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Anonymised data from Next Bike rental trips in Stirling from 2018 to 28th
-  February 2023."</p>
+notes: <p>"Anonymised data from Next Bike rental trips in Stirling from 2018 to February
+  2023."</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/bc613ae3-3325-4f19-92b0-d03f68459200
 records: null

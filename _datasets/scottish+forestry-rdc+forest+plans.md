@@ -28,7 +28,7 @@ notes: "<p>This dataset identifies Forest Plans approved during Rural Developmen
   \ SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cc090aae9b7f4d65888f9f401e2bca8e
-records: 2238
+records: 2239
 resources: []
 schema: default
 title: RDC Forest Plans
