@@ -2,7 +2,7 @@
 category:
 - Housing and Estates
 date_created: ''
-date_updated: '2022-11-30'
+date_updated: '2023-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of House in Multiple Occupation (HMO) Licences in force at 31 March.</p>

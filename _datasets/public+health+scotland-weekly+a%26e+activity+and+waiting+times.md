@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2023-05-02'
-date_updated: '2023-05-02'
+date_updated: '2023-05-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>From 2 May 2023 the weekly attendance and waiting times statistics at Emergency
@@ -20,7 +20,7 @@ records: null
 resources:
 - format: CSV
   name: Weekly Accident and Emergency Activity and Waiting Times.csv
-  url: https://www.opendata.nhs.scot/dataset/0d57311a-db66-4eaa-bd6d-cc622b6cbdfa/resource/a5f7ca94-c810-41b5-a7c9-25c18d43e5a4/download/weekly_ae_activity_20230423.csv
+  url: https://www.opendata.nhs.scot/dataset/0d57311a-db66-4eaa-bd6d-cc622b6cbdfa/resource/a5f7ca94-c810-41b5-a7c9-25c18d43e5a4/download/weekly_ae_activity_20230430.csv
 schema: default
 title: Weekly A&E Activity and Waiting Times
 ---

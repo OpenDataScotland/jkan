@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2020-07-23'
-date_updated: '2023-05-05'
+date_updated: '2023-05-12'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Transportation Improvements (TSP) (Moray)</p>

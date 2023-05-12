@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2023-04-06'
+date_updated: '2023-05-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Land and Buildings Transaction Tax (LBTT) notifiable transactions by month

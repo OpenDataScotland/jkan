@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: ''
-date_updated: '2022-11-30'
+date_updated: '2023-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: '<p>Local authority vacant stock: as at 31 March each year, by current status

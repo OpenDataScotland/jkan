@@ -42,11 +42,7 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ color:rgb(68, 68, 68); font-family:&quot;Open Sans&quot;, sans-serif; font-size:14px;'>Refer\
   \ to the &quot;Introduction&quot;, &quot;Technical Notes&quot; and relevant footnotes\
   \ in the above report for clarification on any points relating to the Hands Up Scotland\
-  \ Survey data.</p>\n<p style='margin-top:0px; margin-bottom:10px; color:rgb(68,\
-  \ 68, 68); font-family:&quot;Open Sans&quot;, sans-serif; font-size:14px;'>\u2022\
-  \ N/A: Scottish Government education statistics not available.</p>\n<p style='margin-top:0px;\
-  \ margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open Sans&quot;,\
-  \ sans-serif; font-size:14px;'>\u2022 N/S: School type not surveyed.</p>"
+  \ Survey data.</p>"
 organization: Stirling Council
 original_dataset_link: ''
 records: null

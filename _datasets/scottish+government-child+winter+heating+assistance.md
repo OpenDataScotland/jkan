@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Planning and Development
 date_created: ''
-date_updated: '2022-10-11'
+date_updated: '2023-05-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Child Winter Heating Assistance payments and expenditure since November

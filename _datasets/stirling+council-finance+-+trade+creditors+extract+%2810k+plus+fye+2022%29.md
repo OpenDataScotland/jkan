@@ -7,16 +7,98 @@ date_created: ''
 date_updated: '2023-03-15'
 license: No licence
 maintainer: Stirling Council
-notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
-  \ Sans&quot;, sans-serif; font-size:14px;'>Breakdown of individual payments to and\
-  \ credits from suppliers providing goods and/or services to Stirling Council.</p>\n\
-  <p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
-  \ Sans&quot;, sans-serif; font-size:14px;'>Based on the content of the relevant\
-  \ quarterly datasets, an annual summary of suppliers whose combined value of invoices\
-  \ and credit notes for the financial year totals.\_</p>\n<p style='margin-top:0px;\
-  \ margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open Sans&quot;,\
-  \ sans-serif; font-size:14px;'>Annual summary of suppliers whose combined net value\
-  \ of invoices and credit notes for the financial year totals \xA310,000 or more.</p>"
+notes: "<p>First published as Open Data on 31 May 2022,&nbsp; this dataset shows the\
+  \ annual expenditure on individual suppliers where the combined gross value of payments\
+  \ made and refunds received totals \xA310,000 or more.</p>\n<p>The table below provides\
+  \ a description of columns within the dataset.</p>\n<table border='1' cellspacing='0'\
+  \ cellpadding='0' style='border: none;'><tbody><tr style='height: 14.5pt;'><td width='173'\
+  \ nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 129.5pt; border: 1pt\
+  \ solid windowtext; background: rgb(217, 217, 217); height: 14.5pt;'><p style='margin-bottom:\
+  \ 0.0001pt; line-height: normal;'><span style='font-family: Tahoma, sans-serif;'>Column</span></p></td><td\
+  \ width='82' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 61.65pt; border-top:\
+  \ 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid\
+  \ windowtext; border-image: initial; border-left: none; background: rgb(217, 217,\
+  \ 217); height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height: normal;'><span\
+  \ style='font-family: Tahoma, sans-serif;'>Type</span></p></td><td width='510' nowrap=''\
+  \ valign='top' style='padding: 0cm 5.4pt; width: 382.7pt; border-top: 1pt solid\
+  \ windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext;\
+  \ border-image: initial; border-left: none; background: rgb(217, 217, 217); height:\
+  \ 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height: normal;'><span style='font-family:\
+  \ Tahoma, sans-serif;'>Description</span></p></td></tr><tr style='height: 14.5pt;'><td\
+  \ width='173' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 129.5pt;\
+  \ border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left:\
+  \ 1pt solid windowtext; border-image: initial; border-top: none; height: 14.5pt;'><p\
+  \ style='margin-bottom: 0.0001pt; line-height: normal;'><span style='font-family:\
+  \ Tahoma, sans-serif;'>Supplier</span></p></td><td width='82' nowrap='' valign='top'\
+  \ style='padding: 0cm 5.4pt; width: 61.65pt; border-top: none; border-left: none;\
+  \ border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height:\
+  \ 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height: normal;'><span style='font-family:\
+  \ Tahoma, sans-serif;'>string</span></p></td><td width='510' nowrap='' valign='top'\
+  \ style='padding: 0cm 5.4pt; width: 382.7pt; border-top: none; border-left: none;\
+  \ border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height:\
+  \ 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height: normal;'><span style='font-family:\
+  \ Tahoma, sans-serif;'>Organisation providing goods and/or services.</span></p></td></tr><tr\
+  \ style='height: 14.5pt;'><td width='173' nowrap='' valign='top' style='padding:\
+  \ 0cm 5.4pt; width: 129.5pt; border-right: 1pt solid windowtext; border-bottom:\
+  \ 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial;\
+  \ border-top: none; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Net_Value</span></p></td><td\
+  \ width='82' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 61.65pt; border-top:\
+  \ none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt\
+  \ solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>numeric</span></p></td><td\
+  \ width='510' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 382.7pt;\
+  \ border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right:\
+  \ 1pt solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Combined value of invoices\
+  \ and credit notes totalling \xA310,000 plus, excluding VAT.</span></p></td></tr><tr\
+  \ style='height: 14.5pt;'><td width='173' nowrap='' valign='top' style='padding:\
+  \ 0cm 5.4pt; width: 129.5pt; border-right: 1pt solid windowtext; border-bottom:\
+  \ 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial;\
+  \ border-top: none; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>VAT</span></p></td><td\
+  \ width='82' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 61.65pt; border-top:\
+  \ none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt\
+  \ solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>numeric</span></p></td><td\
+  \ width='510' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 382.7pt;\
+  \ border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right:\
+  \ 1pt solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Value Added Tax.</span></p></td></tr><tr\
+  \ style='height: 14.5pt;'><td width='173' nowrap='' valign='top' style='padding:\
+  \ 0cm 5.4pt; width: 129.5pt; border-right: 1pt solid windowtext; border-bottom:\
+  \ 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial;\
+  \ border-top: none; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Gross_Value</span></p></td><td\
+  \ width='82' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 61.65pt; border-top:\
+  \ none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt\
+  \ solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>numeric</span></p></td><td\
+  \ width='510' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 382.7pt;\
+  \ border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right:\
+  \ 1pt solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Combined value of invoices\
+  \ and credit notes totalling \xA310,000 plus, including VAT.</span></p></td></tr><tr\
+  \ style='height: 14.5pt;'><td width='173' nowrap='' valign='top' style='padding:\
+  \ 0cm 5.4pt; width: 129.5pt; border-right: 1pt solid windowtext; border-bottom:\
+  \ 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial;\
+  \ border-top: none; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Financial_Year_ending</span></p></td><td\
+  \ width='82' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 61.65pt; border-top:\
+  \ none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt\
+  \ solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>string</span></p></td><td\
+  \ width='510' nowrap='' valign='top' style='padding: 0cm 5.4pt; width: 382.7pt;\
+  \ border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right:\
+  \ 1pt solid windowtext; height: 14.5pt;'><p style='margin-bottom: 0.0001pt; line-height:\
+  \ normal;'><span style='font-family: Tahoma, sans-serif;'>Financial year begins\
+  \ on 1 April and ends the following year on 31 March.</span></p></td></tr></tbody></table>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p><span style='color: inherit; font-family: var(--fontsBaseFamily),Avenir\
+  \ Next; font-size: inherit;'>Details of Stirling's&nbsp;</span><a href='https://www.stirling.gov.uk/council-and-committees/performance-and-statistics/annual-accounts/'\
+  \ target='_blank' style='background-color: rgb(255, 255, 255); font-family: var(--fontsBaseFamily),Avenir\
+  \ Next; font-size: inherit;' rel='nofollow ugc noopener noreferrer'>annual accounts</a><span\
+  \ style='color: inherit; font-family: var(--fontsBaseFamily),Avenir Next; font-size:\
+  \ inherit;'>&nbsp;can be found of the Council's website.</span></p>"
 organization: Stirling Council
 original_dataset_link: ''
 records: null
