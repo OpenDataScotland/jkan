@@ -8,7 +8,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-04-22'
-date_updated: '2023-05-11'
+date_updated: '2023-05-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset provides information on number of new daily confirmed cases,
@@ -75,58 +75,58 @@ records: null
 resources:
 - format: CSV
   name: Total Cases by Health Board
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/7fad90e5-6f19-455b-bc07-694a22f8d5dc/download/total_cases_by_hb_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/7fad90e5-6f19-455b-bc07-694a22f8d5dc/download/total_cases_by_hb_20230517.csv
 - format: CSV
   name: Total Cases by Local Authority
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/e8454cf0-1152-4bcb-b9da-4343f625dfef/download/total_cases_by_la_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/e8454cf0-1152-4bcb-b9da-4343f625dfef/download/total_cases_by_la_20230517.csv
 - format: CSV
   name: Total Cases by Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/19646dce-d830-4ee0-a0a9-fcec79b5ac71/download/total_cases_agesex_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/19646dce-d830-4ee0-a0a9-fcec79b5ac71/download/total_cases_agesex_20230517.csv
 - format: CSV
   name: Total Cases by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a965ee86-0974-4c93-bbea-e839e27d7085/download/total_cases_simd_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a965ee86-0974-4c93-bbea-e839e27d7085/download/total_cases_simd_20230517.csv
 - format: CSV
   name: Daily Case Trends by Health Board
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/2dd8534b-0a6f-4744-9253-9565d62f96c2/download/trend_hb_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/2dd8534b-0a6f-4744-9253-9565d62f96c2/download/trend_hb_20230517.csv
 - format: CSV
   name: Daily Case Trends by Local Authority
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/427f9a25-db22-4014-a3bc-893b68243055/download/trend_ca_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/427f9a25-db22-4014-a3bc-893b68243055/download/trend_ca_20230517.csv
 - format: CSV
   name: Daily Case Trends by Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/9393bd66-5012-4f01-9bc5-e7a10accacf4/download/trend_agesex_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/9393bd66-5012-4f01-9bc5-e7a10accacf4/download/trend_agesex_20230517.csv
 - format: CSV
   name: Daily Case Trends by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a38a4c21-7c75-4ecd-a511-3f83e0e8f0c3/download/trend_simd_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/a38a4c21-7c75-4ecd-a511-3f83e0e8f0c3/download/trend_simd_20230517.csv
 - format: CSV
   name: Tests by Health Board
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/8da654cd-293b-4286-96a4-b3ece86225f0/download/test_hb_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/8da654cd-293b-4286-96a4-b3ece86225f0/download/test_hb_20230517.csv
 - format: CSV
   name: Tests by Local Authority
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/3349540e-dc63-4d6d-a78b-00387b9aca50/download/test_ca_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/3349540e-dc63-4d6d-a78b-00387b9aca50/download/test_ca_20230517.csv
 - format: CSV
   name: Daily Summary by Reported Date
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/348e5b95-2b33-4021-93b4-25d78244bfa2/download/reporteddate_scot_trends_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/348e5b95-2b33-4021-93b4-25d78244bfa2/download/reporteddate_scot_trends_20230517.csv
 - format: CSV
   name: Daily and Cumulative Cases
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/287fc645-4352-4477-9c8c-55bc054b7e76/download/daily_cuml_scot_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/287fc645-4352-4477-9c8c-55bc054b7e76/download/daily_cuml_scot_20230517.csv
 - format: CSV
   name: Daily COVID-19 Hospital Admissions
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/bb4d083b-7b92-4722-85a3-a9b58af1f794/download/daily_covid_admissions_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/bb4d083b-7b92-4722-85a3-a9b58af1f794/download/daily_covid_admissions_20230517.csv
 - format: CSV
   name: Weekly Admissions by Age
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/b5e3fa11-8a85-4946-bbb2-2e800d4e3594/download/admissions_ageband_week_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/b5e3fa11-8a85-4946-bbb2-2e800d4e3594/download/admissions_ageband_week_20230517.csv
 - format: CSV
   name: Daily ICU Admissions for new COVID-19 Patients
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/86bc4db7-306f-44d4-bf49-9b1b5751b30f/download/daily_icu_admissions_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/86bc4db7-306f-44d4-bf49-9b1b5751b30f/download/daily_icu_admissions_20230517.csv
 - format: CSV
   name: Cumulative Admissions to ICU
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/779e8666-3156-47e5-8ba9-6144e5c3e117/download/total_icu_admissions_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/779e8666-3156-47e5-8ba9-6144e5c3e117/download/total_icu_admissions_20230517.csv
 - format: CSV
   name: Ethnicity
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/07b3dff7-3254-4d26-946f-6cd9ff276a1d/download/ethnicity_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/07b3dff7-3254-4d26-946f-6cd9ff276a1d/download/ethnicity_20230517.csv
 - format: CSV
   name: Care Homes
-  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/4773fd8b-1a67-4536-a927-09ef598180a4/download/care_home_time_series_20230510.csv
+  url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/4773fd8b-1a67-4536-a927-09ef598180a4/download/care_home_time_series_20230517.csv
 - format: CSV
   name: ARCHIVE - Cumulative Cases By Age and Sex
   url: https://www.opendata.nhs.scot/dataset/b318bddf-a4dc-4262-971f-0ba329e09b87/resource/d6077615-ea0a-453a-aa89-942775975cd3/download/cumulative_cases_age_sex.csv

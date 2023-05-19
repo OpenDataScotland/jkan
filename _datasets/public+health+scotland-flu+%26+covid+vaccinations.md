@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2023-05-11'
+date_updated: '2023-05-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Updates to Open Data are now paused. The next update to this dashboard will
@@ -16,16 +16,16 @@ records: null
 resources:
 - format: CSV
   name: COVID - all delivered
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2c11d860-efbc-4ce7-8740-20bdd10f62ef/download/weekly_covid_all_delivered_vacc_scot_20230511.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2c11d860-efbc-4ce7-8740-20bdd10f62ef/download/weekly_covid_all_delivered_vacc_scot_20230518.csv
 - format: CSV
   name: COVID - all delivered daily
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/39c57ad5-158d-4405-80d0-ca3730b6fd8c/download/daily_covid_all_delivered_vacc_scot_20230406.csv
 - format: CSV
   name: COVID - JCVI
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/32e88ef9-8d36-4ec9-a43b-e014bed93599/download/weekly_covid_vacc_jcvi_20230511.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/32e88ef9-8d36-4ec9-a43b-e014bed93599/download/weekly_covid_vacc_jcvi_20230518.csv
 - format: CSV
   name: COVID - Scotland
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6978457e-f619-491c-885d-f60e90e81cbd/download/weekly_covid_vacc_scot_20230511.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6978457e-f619-491c-885d-f60e90e81cbd/download/weekly_covid_vacc_scot_20230518.csv
 - format: CSV
   name: COVID - eligible uptake
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/831b8008-7635-4774-8bf1-495985965546/download/weekly_covid_vacc_eligible_uptake_hb_20230406.csv

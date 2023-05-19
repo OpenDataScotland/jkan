@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2022-03-15'
-date_updated: '2023-04-18'
+date_updated: '2023-05-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>This data set is sourced from the NOMIS Website. It shows the Claimant
@@ -52,6 +52,9 @@ resources:
 - format: CSV
   name: Nomis Claimant Count January 2018 - March 2023
   url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/94401e00-2a13-4316-8235-e6f44f2b8491/download/nomis_claimant_count_jan18_mar23.csv
+- format: CSV
+  name: Nomis Claimant Count January 2018 - April 2023
+  url: https://data.dundeecity.gov.uk/dataset/b4835a58-6941-4cca-b1ad-2e89c0914c73/resource/3b1cd87e-89dd-469e-880c-fc52eebda377/download/nomis_claimant_count_jan18_apr23.csv
 schema: default
 title: Nomis Claimant Count Data
 ---
