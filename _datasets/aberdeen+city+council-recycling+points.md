@@ -7,11 +7,11 @@ category:
 date_created: ''
 date_updated: '2020-04-13'
 license: No licence
-maintainer: Aberdeen City Council ArcGIS Online
+maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Point dataset with the locations
   of Recycling </span><span>Point</span><span>s in Aberdeen City Council local authority
   area. Attribute information includes site name, road name, locality and postcode.</span></p></div></div></div>
-organization: Aberdeen City Council ArcGIS Online
+organization: Aberdeen City Council
 original_dataset_link: ''
 records: null
 resources: []
