@@ -14,7 +14,7 @@ records: null
 resources:
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/7401fb1b-11be-4113-bf51-15856c29c0d0/3/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/13028f91-1f7b-4997-a377-55940b35db51/3/urql
 - format: CSV
   name: CyclingFriendly_Schools_Awards_2019_CyclingScotland_USMaster.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9d7823fd-27b9-4088-9dc5-377d52139fee

@@ -2,9 +2,10 @@
 category:
 - Arts / Culture / History
 - Budget / Finance
+- Elections / Politics
 - Food and Environment
 date_created: '2022-10-25'
-date_updated: '2022-11-01'
+date_updated: '2023-05-26'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>Place-names represent a fundamental geographical identifier, which also\
@@ -20,9 +21,9 @@ notes: "<p>Place-names represent a fundamental geographical identifier, which al
   \ of requirements. This identified a number of organisations which hold or maintain\
   \ at least 15 different gazetteers that include geographical names for Scotland.\
   \ The two most significant gazetteers were the Gazetteer for Scotland and the Ordnance\
-  \ Survey 1:50000 (OS 1:50K) product \u2013 which forms the basis for this dataset.\
-  \   The Gazetteer for Scotland is a descriptive gazetteer, with a modest number\
-  \ (22,000) of rich entries, including a textual description and rich feature-typing.\
+  \ Survey 1:50000 (OS 1:50K) product \u2013 which together form the basis for this\
+  \ dataset.   The Gazetteer for Scotland is a descriptive gazetteer, with a modest\
+  \ number (22,000) of rich entries, including a textual description and rich feature-typing.\
   \ The OS 1:50K gazetteer has long been Ordnance Survey's only place-name gazetteer,\
   \ used as part of numerous applications.  It was decided that, for this new 'definitive'\
   \ place name gazetteer, any named feature could/ should potentially be included,\
@@ -38,7 +39,11 @@ notes: "<p>Place-names represent a fundamental geographical identifier, which al
   \ a useful spatial reference, the latter in many cases does not.  Quality checking\
   \ suggests that 95% of points were located to 100m or better, and 5% located to\
   \ 20m or better. More than 90% of features are classified correctly, on the basis\
-  \ of the evidence available</p>"
+  \ of the evidence available.  Copyrights and acknowledgments. The dataset is (c)\
+  \ Bruce M. Gittings (University of Edinburgh) and the Scottish Government.  This\
+  \ dataset contains Ordnance Survey data (c) Crown copyright and database right 2010,\
+  \ released by The Secretary of State for Communities and Local Government, April\
+  \ 2010.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/place_name_gazetteer-is'
 records: null

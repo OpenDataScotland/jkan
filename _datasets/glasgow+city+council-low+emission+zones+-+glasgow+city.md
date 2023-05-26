@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Food and Environment
 date_created: '2022-09-29'
-date_updated: '2023-04-12'
+date_updated: '2023-05-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Low Emissions Zone Boundary. A Low Emission Zone is an area where a person
@@ -17,7 +17,7 @@ records: null
 resources:
 - format: ZIP
   name: Low Emissions Zone - Glasgow City Council
-  url: https://data.spatialhub.scot/dataset/c65f2400-e771-441f-9384-ac92ea52c88b/resource/2fceb737-a67b-40fc-8b1d-86f5e7d597e3/download/gcc_lez.zip
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Low_Emission_Zone/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Low Emission Zones - Glasgow City
 ---
