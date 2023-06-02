@@ -2,14 +2,15 @@
 category:
 - Health and Social Care
 date_created: '2018-06-12'
-date_updated: '2023-05-15'
+date_updated: '2023-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Defined in the Public Bodies (Joint Working) (Scotland) Act 2014 as a smaller
-  area within the borders of a Health and Social Care Partnership.\r\n\r\nEach locality
-  (also referred to as Community Partnership) has been agreed in consultation with
-  local professionals and communities and relate to natural communities. They take
-  locations of GP practices into account. They vary in size according to local circumstances.</p>
+  area within the borders of a Health and Social Care Partnership (HSCP).\r\n\r\nEach
+  sub area (also referred to as Locality or Community Partnership) has been agreed
+  in consultation with local professionals and communities and relates to natural
+  communities. They take locations of GP practices into account. They form a best-fit
+  to the 2011 Data Zones and vary in size according to local circumstances.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/sub-health-and-social-care-partnership-areas
 records: null

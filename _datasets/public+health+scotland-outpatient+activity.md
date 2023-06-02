@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2023-03-01'
+date_updated: '2023-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>"Patients who require the medical opinion of a specialist clinician may
@@ -50,7 +50,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/a0c4f931-f99d-441a-8c50-7c1041b57781/download/outpatients_cross_boundary_flow.csv
 - format: CSV
   name: Publication Notes
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/notes.csv
+  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/outpatient_notes.csv
 schema: default
 title: Outpatient Activity
 ---

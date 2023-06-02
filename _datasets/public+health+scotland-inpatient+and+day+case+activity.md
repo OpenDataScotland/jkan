@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-05'
-date_updated: '2023-03-01'
+date_updated: '2023-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a hospital
@@ -11,7 +11,7 @@ notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a h
   an elective or a transfer. A day case is when a patient makes a planned attendance
   for one day to a specialty for clinical care and requires the use of a bed (or trolley
   in lieu of a bed). Although a day case is usually completed on the same day, the
-  patient may need to be admitted as an inpatient if they are not fit to be discharged.\r\n</p>
+  patient may need to be admitted as an inpatient if they are not fit to be discharged.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity
 records: null

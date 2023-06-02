@@ -4,14 +4,14 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: ''
-date_updated: '2017-03-16'
+date_updated: '2017-05-25'
 license: No licence
-maintainer: Highland Council
-notes: <p>Polling Places in the Highland Council area.</p>
-organization: Highland Council
+maintainer: North Ayrshire Council
+notes: <p>Boundaries of Community Councils within North Ayrshire</p>
+organization: North Ayrshire Council
 original_dataset_link: ''
 records: null
 resources: []
 schema: default
-title: Polling Places
+title: Community Councils
 ---

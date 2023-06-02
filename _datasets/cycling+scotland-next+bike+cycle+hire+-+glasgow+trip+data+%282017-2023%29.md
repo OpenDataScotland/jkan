@@ -16,7 +16,7 @@ resources:
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=42785e38-d42a-48da-a318-1eb378e7fb0b
 - format: CSV
   name: Glasgow Rental Data (2017-2020) - v1.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=2a7e67e4-bae0-40d7-bb9f-c53058610ad0
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=20a545d9-cac2-4b56-9c21-13dcb17f2aed
 - format: XML
   name: Next Bike Cycle Hire - Glasgow Trip Data (2017-2023).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3f64ce49-f421-4692-9577-2f06428ca1c1

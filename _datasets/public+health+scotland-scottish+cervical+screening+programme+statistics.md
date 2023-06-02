@@ -4,7 +4,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2020-05-28'
-date_updated: '2021-10-05'
+date_updated: '2023-05-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset provides annual cervical screening statistics in Scotland,
@@ -22,10 +22,10 @@ records: null
 resources:
 - format: CSV
   name: Cervical Screening Uptake
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/7191190e-2ebd-47e4-bbca-a1eb3182408a/download/open-data-cervical-screening-uptake-201617-202021.csv
+  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/7191190e-2ebd-47e4-bbca-a1eb3182408a/download/open-data-cervical-screening-uptake-201617-202122.csv
 - format: CSV
   name: Workload Statistics
-  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/f79671d8-e271-4e63-9d63-4fed6c63cb50/download/open-data-workload-statistics-201213-202021.csv
+  url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/f79671d8-e271-4e63-9d63-4fed6c63cb50/download/open-data-workload-statistics-201213-202122.csv
 - format: CSV
   name: Cervical Screening Uptake 1997/98 - 2015/16
   url: https://www.opendata.nhs.scot/dataset/874b6f70-8640-458a-81cb-83afde9ffd71/resource/86493971-19a8-4c47-876e-cbbe7c978210/download/open-data-cervical-screening-uptake-199798-201516.csv
