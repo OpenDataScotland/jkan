@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2017-07-07'
-date_updated: '2017-07-18'
+date_updated: '2023-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Community councils are required to be established by local authorities.

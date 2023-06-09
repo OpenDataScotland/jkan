@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-08-21'
-date_updated: '2023-05-03'
+date_updated: '2023-06-09'
 license: No licence
 maintainer: Moray Council
 notes: "<p>Council Register of Assets (Moray).\_ Section 94 of the Community Empowerment\
@@ -16,7 +16,7 @@ notes: "<p>Council Register of Assets (Moray).\_ Section 94 of the Community Emp
   \ to transfer that asset to the community.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=400332609a0641e389c990dccfb42430
-records: 1115
+records: 1113
 resources: []
 schema: default
 title: Council Register of Assets (Moray)
