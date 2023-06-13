@@ -14,11 +14,11 @@ permalink: /analytics/platform-health/
         color: #B20D30;
     }
 </style>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css"/>
- 
-<h2>{{ page.title }}</h2>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css" />
 
-<h3>Organizations</h3>
+<h1>{{ page.title }}</h1>
+
+<h2>Organizations</h2>
 
 <table class="table table-bordered table-striped">
     <thead>
@@ -104,25 +104,61 @@ permalink: /analytics/platform-health/
     </tbody>
 </table>
 
-<h3>Dataset organizations with no record</h3>
+<h2>Dataset organizations with no record</h2>
 
 {% assign dataset_orgs_list = site.datasets | map: "organization" | uniq %}
 {% assign orgs_list = site.organizations | map: "title" %}
 
+{% assign found_mismatch_no_record = false %}
 <ul>
-{% for dataset_org in dataset_orgs_list %}
+    {% for dataset_org in dataset_orgs_list %}
     {% unless orgs_list contains dataset_org %}
-        <li>{{ dataset_org }}</li>
+    <li>{{ dataset_org }}</li>
+    {% assign found_mismatch_no_record = true %}
     {% endunless %}
-{% endfor %}
+    {% endfor %}
 </ul>
+
+{% if found_mismatch_no_record != true %}
+<p>None!</p>
+{% endif %}
+
+<h2>Datasets missing original link</h2>
+
+{% assign missing_data_datasets = site.datasets | where_exp:"item","item.original_dataset_link == ''" %}
+
+<ul>
+    {% for dataset in missing_data_datasets %}
+    <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a></li>
+    {% endfor %}
+</ul>
+
+{% if missing_data_datasets.size == 0 %}
+<p>None!</p>
+{% endif %}
+
+<h2>Datasets missing license data</h2>
+
+{% assign found_mismatch_license_data = false %}
+<ul>
+    {% for dataset in site.datasets %}
+    {% if site.data.licenses[dataset.license] == null %}
+    <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a> [Invalid value: {{dataset.license}}]</li>
+    {%endif%}
+    {% assign found_mismatch_license_data = true %}
+    {% endfor %}
+</ul>
+
+{% if found_mismatch_license_data != true %}
+<p>None!</p>
+{% endif %}
 
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
 <script>
-    $('table').DataTable( {
-    fixedHeader: true,
-    dom: 't',
-    paging: false,
-    orderCellsTop: true
-} );
+    $('table').DataTable({
+        fixedHeader: true,
+        dom: 't',
+        paging: false,
+        orderCellsTop: true
+    });
 </script>
