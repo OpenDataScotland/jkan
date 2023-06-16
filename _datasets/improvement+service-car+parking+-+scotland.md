@@ -7,8 +7,8 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-02-21'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Most councils will keep a record of their car parks, bays and zones (including
   parking-related TROs (Traffic Regulation Orders). Therefore we have tried to compile

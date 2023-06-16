@@ -6,8 +6,8 @@ category:
 - Public Safety
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-03-09'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018Maintaining\
   \ Scotland\u2019s Roads\u2019, effectively introducing a requirement on local authorities\

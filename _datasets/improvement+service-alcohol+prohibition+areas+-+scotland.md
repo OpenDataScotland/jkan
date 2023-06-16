@@ -3,8 +3,8 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2021-06-11'
-date_updated: '2023-05-02'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local authorities have the power to make by-laws to prohibit the drinking
   of alcohol in designated public places under provisions contained in the Local Government

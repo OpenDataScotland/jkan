@@ -5,8 +5,8 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and unique IDs of every older
   person care home in Scotland has initially been supplied by Geoplace. It takes data

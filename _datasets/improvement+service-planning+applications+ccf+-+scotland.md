@@ -5,8 +5,8 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-04-11'
-date_updated: '2023-06-01'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>This new planning applications data has been created using a custom built\
   \ 'Cloud Connector Framework' which enables the automated collection of data from\
@@ -32,10 +32,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applicati
 records: null
 resources:
 - format: WFS
-  name: 'Planning Applications CCF (Points) '
+  name: 'Planning Applications (Points) '
   url: https://geo.spatialhub.scot/geoserver/sh_plnapp/wfs?service=wfs&typeName=sh_plnapp:pub_plnapppnt
 - format: WFS
-  name: 'Planning Applications CCF (Polygons) '
+  name: 'Planning Applications (Polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_plnapp/wfs?service=wfs&typeName=sh_plnapp:pub_plnapppol
 schema: default
 title: Planning Applications CCF - Scotland

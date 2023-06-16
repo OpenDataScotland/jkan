@@ -3,8 +3,8 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2023-06-01'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>This new building standards data has been created using a custom built
   ''Cloud Connector Framework'' which enables the automated collection of data from
@@ -24,10 +24,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards
 records: null
 resources:
 - format: WFS
-  name: 'Building Standards CCF (Points) '
+  name: 'Building Standards (Points) '
   url: https://geo.spatialhub.scot/geoserver/sh_bldstd/wfs?service=wfs&typeName=sh_bldstd:pub_bldstdpnt
 - format: WFS
-  name: 'Building Standards CCF (Polygons) '
+  name: 'Building Standards (Polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_bldstd/wfs?service=wfs&typeName=sh_bldstd:pub_bldstdpol
 schema: default
 title: Building Standards CCF - Scotland

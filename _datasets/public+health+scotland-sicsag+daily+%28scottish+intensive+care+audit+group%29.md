@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-03-03'
-date_updated: '2022-11-28'
+date_updated: '2023-06-13'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The Scottish Intensive Care Society Audit Group (SICSAG) has maintained

@@ -4,8 +4,8 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-04-14'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the
   air quality objectives are not (or are unlikely to be) being met as Air Quality

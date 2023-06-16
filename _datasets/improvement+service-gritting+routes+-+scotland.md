@@ -4,8 +4,8 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-02-06'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
   most important roads (and in some cases footpaths) and networks clear come bad winter

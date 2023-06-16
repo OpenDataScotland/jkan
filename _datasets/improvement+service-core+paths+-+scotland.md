@@ -6,8 +6,8 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-01-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Every local authority and National Park authority (access authorities) in
   Scotland is required to draw up a plan for a system of paths (core paths) sufficient

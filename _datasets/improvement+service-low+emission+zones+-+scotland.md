@@ -4,8 +4,8 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2022-09-29'
-date_updated: '2022-11-01'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Low Emission Zones (LEZs) are designed to improve air quality and were introduced
   across Aberdeen, Dundee, Edinburgh and Glasgow on 31 May 2022.  Planning continues

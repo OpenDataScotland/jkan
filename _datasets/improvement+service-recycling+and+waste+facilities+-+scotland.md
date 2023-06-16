@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2021-06-11'
-date_updated: '2023-03-09'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Most councils will keep a record of their recycling and waste management
   facilities. Therefore we have tried to compile these into a consistent national

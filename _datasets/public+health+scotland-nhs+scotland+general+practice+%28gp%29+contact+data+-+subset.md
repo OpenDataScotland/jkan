@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2022-11-28'
+date_updated: '2023-06-13'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>This dataset contains a subset of information relating to GP contacts in

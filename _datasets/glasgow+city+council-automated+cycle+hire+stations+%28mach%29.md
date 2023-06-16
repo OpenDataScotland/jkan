@@ -1,0 +1,15 @@
+---
+category:
+- Transportation
+date_created: ''
+date_updated: '2023-06-15'
+license: No licence
+maintainer: Glasgow City Council
+notes: <p>Location of automated cycle hire stations situated throughout Glasgow.</p>
+organization: Glasgow City Council
+original_dataset_link: ''
+records: null
+resources: []
+schema: default
+title: Automated Cycle Hire Stations (MACH)
+---

@@ -21,7 +21,22 @@ notes: '<div>Schools contact details: March 2022, published by the Scottish Gove
   <div><br /></div>
 
   <div>Visit Stirling Council''s website for further information on Schools &amp;
-  Learning.</div>'
+  Learning.</div>
+
+  <div><br /></div>
+
+  <div><p><span style=''font-size: 10.5pt; line-height: 107%; font-family: Arial,
+  sans-serif; color: rgb(68, 68, 68); background-image: initial; background-position:
+  initial; background-size: initial; background-repeat: initial; background-attachment:
+  initial; background-origin: initial; background-clip: initial;''>Location, contact
+  and type details for local authority schools within the Stirling Council area.</span></p>  <p><span
+  style=''font-size: 10.5pt; line-height: 107%; font-family: Arial, sans-serif; color:
+  rgb(68, 68, 68); background-image: initial; background-position: initial; background-size:
+  initial; background-repeat: initial; background-attachment: initial; background-origin:
+  initial; background-clip: initial;''>All primary and secondary schools, SISS (Stirling
+  Inclusive Support Services) locations and school(s) providing early years and primary
+  education for children with a range of severe and profound additional support needs
+  (ASN).</span></p></div>'
 organization: Stirling Council
 original_dataset_link: ''
 records: null

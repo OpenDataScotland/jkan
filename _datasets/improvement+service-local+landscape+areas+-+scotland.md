@@ -3,8 +3,8 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2021-06-17'
-date_updated: '2023-04-28'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>There are many areas where the scenery is highly valued locally and local
   authorities often give these landscapes a local designation. This is to ensure that

@@ -6,7 +6,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2023-03-21'
+date_updated: '2023-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -32,7 +32,7 @@ records: null
 resources:
 - format: REST
   name: Street Lighting
-  url: https://utility.arcgis.com/usrsvcs/servers/4322ab513ce24449b113f02a972893d6/rest/services/AGOL/Pub_Lighting_Columns/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://utility.arcgis.com/usrsvcs/servers/4d4122803b304cd3a80684a08d0a9143/rest/services/OPEN_DATA/Lighting_Columns/MapServer/0/query?outFields=*&where=1%3D1&f=json
 - format: ZIP
   name: Street Lighting
   url: https://data.spatialhub.scot/dataset/0ae5672b-d4db-439e-8c85-517c2c372b17/resource/0d4f20af-212a-4a1f-9639-6eae7dc69c45/download/lighting_columns.zip

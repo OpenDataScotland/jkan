@@ -5,8 +5,8 @@ category:
 - Elections / Politics
 - Law and Licensing
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>This dataset is an amalgamation of licenced SEPA &amp; some Local Authority
   Septic Tanks in Scotland.  Under section 79 of the Environmental Protection Act

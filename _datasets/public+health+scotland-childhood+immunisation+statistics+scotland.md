@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2022-12-16'
-date_updated: '2023-03-28'
+date_updated: '2023-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Uptake rates of routine childhood immunisations, by 12 months, 24 months,
