@@ -4,9 +4,9 @@ category:
 - Education
 - Elections / Politics
 - Planning and Development
-date_created: ''
+date_created: '2023-03-22'
 date_updated: '2023-03-22'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'>As part of the annual pupil census, normally\
@@ -41,9 +41,21 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ Arial, sans-serif; color: rgb(68, 68, 68);'>\xA9 Crown Copyright 2022</span><span\
   \ style='font-size: 10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444'></span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::education-and-skills-primary-school-class-sizes-2018-2019
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::education-and-skills-primary-school-class-sizes-2018-2019
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20primary%20school%20class%20sizes%20(2018-2019)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-school-class-sizes-2018-2019.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-school-class-sizes-2018-2019.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Education and skills - primary school class sizes (2018-2019)
 ---

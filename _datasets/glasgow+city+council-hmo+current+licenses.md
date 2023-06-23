@@ -4,9 +4,9 @@ category:
 - Housing and Estates
 - Law and Licensing
 - Planning and Development
-date_created: ''
-date_updated: '2022-03-31'
-license: No licence
+date_created: '2022-03-31'
+date_updated: '2023-05-12'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
   \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
@@ -31,9 +31,27 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir\
   \ Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
 organization: Glasgow City Council
-original_dataset_link: ''
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-current-licenses
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-current-licenses
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://utility.arcgis.com/usrsvcs/servers/fb837f5f6f664f61a2cb64d303733c6a/rest/services/OPEN_DATA/HMO_Current_Licenses/MapServer/0
+- format: CSV
+  name: CSV
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-current-licenses.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-current-licenses.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-current-licenses.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-current-licenses.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: HMO Current Licenses
 ---

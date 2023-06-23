@@ -5,9 +5,9 @@ category:
 - Council and Government
 - Housing and Estates
 - Planning and Development
-date_created: ''
+date_created: '2023-05-31'
 date_updated: '2023-05-31'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div style='box-sizing:border-box; color:rgb(21, 21, 21); font-family:&quot;Avenir\
   \ Next&quot;, &quot;Avenir Next&quot;; font-size:16px;'><span><p style='line-height:1.2;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;'><span\
@@ -265,9 +265,21 @@ notes: "<div style='box-sizing:border-box; color:rgb(21, 21, 21); font-family:&q
   \ normal; vertical-align: baseline; white-space: pre-wrap;'> can be found of the\
   \ Council's website.</span></p></span></div></span></div>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance_trade_creditors_extract_quarter_4_fye_2023/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023.csv
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023.geojson
 schema: default
 title: Finance - trade creditors extract (quarter 4 fye 2023)
 ---

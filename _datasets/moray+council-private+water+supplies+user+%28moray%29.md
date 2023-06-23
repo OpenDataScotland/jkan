@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-12-22'
-date_updated: '2023-06-16'
+date_updated: '2023-06-21'
 license: No licence
 maintainer: Moray Council
 notes: <p>Private Water Supplies User (Moray)Reg 2 (previously Cat A) are supplies

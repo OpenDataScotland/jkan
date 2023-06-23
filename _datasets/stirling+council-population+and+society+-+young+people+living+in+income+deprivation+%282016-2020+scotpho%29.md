@@ -6,9 +6,9 @@ category:
 - Health and Social Care
 - Housing and Estates
 - Planning and Development
-date_created: ''
-date_updated: '2023-03-28'
-license: No licence
+date_created: '2023-03-28'
+date_updated: '2023-04-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
@@ -40,9 +40,12 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ each covering a population of between 500 and 1000 residents, there are 121 within\
   \ the Stirling Council area, accounting for 24 Intermediate Zones.</span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::population-and-society-young-people-living-in-income-deprivation-2016-2020-scotpho
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::population-and-society-young-people-living-in-income-deprivation-2016-2020-scotpho
 schema: default
 title: Population and society - young people living in income deprivation (2016-2020
   ScotPHO)

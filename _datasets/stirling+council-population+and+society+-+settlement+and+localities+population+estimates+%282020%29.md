@@ -5,9 +5,9 @@ category:
 - Elections / Politics
 - Planning and Development
 - Sport and Leisure
-date_created: ''
-date_updated: '2023-03-29'
-license: No licence
+date_created: '2023-03-29'
+date_updated: '2023-04-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'>The datasets within this group contain\
@@ -32,9 +32,12 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   <p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'><br /></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::population-and-society-settlement-and-localities-population-estimates-2020
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::population-and-society-settlement-and-localities-population-estimates-2020
 schema: default
 title: Population and society - settlement and localities population estimates (2020)
 ---

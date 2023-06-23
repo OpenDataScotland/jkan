@@ -7,9 +7,9 @@ category:
 - Housing and Estates
 - Planning and Development
 - Public Safety
-date_created: ''
-date_updated: '2023-03-22'
-license: No licence
+date_created: '2023-03-30'
+date_updated: '2023-04-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
@@ -35,9 +35,12 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ 68, 68);'>Visit Stirling Council\u2019s website for more details on Freedom of\
   \ Information.</span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-april-june-2020-1
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-april-june-2020-1
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders april -
   june 2020)

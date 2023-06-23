@@ -7,9 +7,9 @@ category:
 - Housing and Estates
 - Planning and Development
 - Public Safety
-date_created: ''
+date_created: '2023-03-14'
 date_updated: '2023-03-14'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px;'></p>\n<p style='margin-top:0cm;\
   \ margin-right:0cm; margin-bottom:7.5pt; margin-left:0cm; background:white;'><span\
@@ -34,9 +34,21 @@ notes: "<p style='margin-top:0px; margin-bottom:10px;'></p>\n<p style='margin-to
   \ word-spacing:0px;'><span style='font-size:11.0pt; font-family:Roboto; color:#444444;'>Visit\
   \ Stirling Council\u2019s website for more details on Freedom of Information.</span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/democracy%20-%20freedom%20of%20information%20requests%20(2021)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2021.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders 2021)
 ---

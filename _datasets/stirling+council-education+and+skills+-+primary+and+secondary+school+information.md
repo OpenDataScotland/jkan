@@ -4,9 +4,9 @@ category:
 - Education
 - Elections / Politics
 - Planning and Development
-date_created: ''
+date_created: '2023-03-29'
 date_updated: '2023-03-29'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div>Schools contact details: March 2022, published by the Scottish Government,
   provides the most recent version of location, contact and type details for all local
@@ -38,9 +38,21 @@ notes: '<div>Schools contact details: March 2022, published by the Scottish Gove
   education for children with a range of severe and profound additional support needs
   (ASN).</span></p></div>'
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::education-and-skills-primary-and-secondary-school-information
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::education-and-skills-primary-and-secondary-school-information
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20primary%20and%20secondary%20school%20information/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-and-secondary-school-information.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-and-secondary-school-information.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Education and skills - primary and secondary school information
 ---

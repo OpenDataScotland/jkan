@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-06-15'
+date_updated: '2023-06-21'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Building Standards Register is maintained by local authorities under\
@@ -41,16 +41,16 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards
 records: null
 resources:
 - format: WFS
-  name: 'Building Standards: Weekly Lists (Points)'
+  name: 'Building Standards: Weekly (points) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanweekpnt
 - format: WFS
-  name: 'Building Standards: Weekly Lists (Polygons)'
+  name: 'Building Standards: Weekly (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanweekpol
 - format: WFS
-  name: 'Building Standards: Archive (points) - Scotland '
+  name: 'Building Standards: Archive (points) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanyearpnt
 - format: WFS
-  name: 'Building Standards: Archive (polygons) - Scotland '
+  name: 'Building Standards: Archive (polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_bstan/wfs?service=wfs&typeName=sh_bstan:pub_bstanyearpol
 schema: default
 title: Building Standards - Scotland

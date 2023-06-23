@@ -5,9 +5,9 @@ category:
 - Elections / Politics
 - Housing and Estates
 - Planning and Development
-date_created: ''
+date_created: '2021-06-18'
 date_updated: '2021-06-18'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p>Data relating to the price of houses sold in the Glasgow Area from the
   years 1991 - 2013.</p>
@@ -58,9 +58,27 @@ notes: '<p>Data relating to the price of houses sold in the Glasgow Area from th
 
   <p>LHF Local Housing Forum Area</p>'
 organization: Glasgow City Council
-original_dataset_link: ''
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::glasgow-house-sales-1991-2013-1
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::glasgow-house-sales-1991-2013-1
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://utility.arcgis.com/usrsvcs/servers/28b5a84886f049a292cbc19460da9194/rest/services/OPEN_DATA/House_sales/MapServer/0
+- format: CSV
+  name: CSV
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Glasgow House Sales 1991-2013
 ---

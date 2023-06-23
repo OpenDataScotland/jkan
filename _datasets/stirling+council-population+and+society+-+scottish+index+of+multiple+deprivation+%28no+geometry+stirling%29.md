@@ -8,9 +8,9 @@ category:
 - Law and Licensing
 - Planning and Development
 - Public Safety
-date_created: ''
+date_created: '2023-03-29'
 date_updated: '2023-03-29'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><a href='https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/'\
   \ style='color:rgb(86, 0, 132); text-decoration-line:none; font-family:&quot;Open\
@@ -46,9 +46,21 @@ notes: "<p><a href='https://www.gov.scot/collections/scottish-index-of-multiple-
   \ of the SIMD data at multi-member ward level can be found\_<a href='https://multi-ward-profiles-stirling.hub.arcgis.com/pages/council-overview'\
   \ style='color:rgb(86, 0, 132); text-decoration-line:none;' rel='nofollow ugc'>here</a>.</p></div></div></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scottish%20index%20of%20multiple%20deprivation%20(no%20geometry%20stirling)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Population and society - scottish index of multiple deprivation (no geometry
   stirling)

@@ -3,9 +3,9 @@ category:
 - Business and Economy
 - Council and Government
 - Law and Licensing
-date_created: ''
-date_updated: '2023-03-15'
-license: No licence
+date_created: '2023-03-15'
+date_updated: '2023-04-04'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'>Current civic licences, excluding licensed\
@@ -15,9 +15,21 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ style='color:rgb(86, 0, 132); text-decoration-line:none;' rel='nofollow ugc'>licences,\
   \ permits and permissions</a>.</p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::consumer-affairs-civic-licenses
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::consumer-affairs-civic-licenses
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/consumer%20affairs%20-%20civic%20licenses/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-civic-licenses.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-civic-licenses.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Consumer affairs - civic licenses
 ---

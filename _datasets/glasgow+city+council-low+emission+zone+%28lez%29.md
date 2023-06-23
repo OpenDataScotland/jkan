@@ -3,9 +3,9 @@ category:
 - Business and Economy
 - Council and Government
 - Food and Environment
-date_created: ''
+date_created: '2023-02-03'
 date_updated: '2023-02-03'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div>This Dataset shows the boundary of Glasgow City Council Low Emission\
   \ Zone.</div>\n<div>A Low Emission Zone is an area where a person may not drive\
@@ -19,9 +19,27 @@ notes: "<div>This Dataset shows the boundary of Glasgow City Council Low Emissio
   \ charge. There are some exemptions and zone residents have extra time to comply.</div>\n\
   <div><br /></div>\n<div>For more info visit:\_<a target='_blank' rel='noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=23025</a></div>"
 organization: Glasgow City Council
-original_dataset_link: ''
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::low-emission-zone-lez-1
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::low-emission-zone-lez-1
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Low_Emission_Zone/MapServer/0
+- format: CSV
+  name: CSV
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Low Emission Zone (LEZ)
 ---

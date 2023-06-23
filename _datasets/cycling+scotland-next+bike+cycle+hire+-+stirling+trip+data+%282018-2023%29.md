@@ -14,12 +14,12 @@ resources:
 - format: JSON
   name: Next Bike Cycle Hire - Stirling Trip Data (2018-2023).json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8ddc25ea-6850-42ee-a8ea-78e8e3293986
-- format: CSV
-  name: Next Bike Cycle Hire - Stirling Trip Data (2018-2023).csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=47163c41-0954-47f8-b76c-02aa5ac3b18a
 - format: XML
   name: Next Bike Cycle Hire - Stirling Trip Data (2018-2023).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=31ec95f9-9c93-4625-8bca-3b2210c57892
+- format: CSV
+  name: Next Bike Cycle Hire - Stirling Trip Data (2018-2023).csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f3541d02-452c-4329-9bad-0e03a2e2d30f
 schema: default
 title: Next Bike Cycle Hire - Stirling Trip Data (2018-2023)
 ---

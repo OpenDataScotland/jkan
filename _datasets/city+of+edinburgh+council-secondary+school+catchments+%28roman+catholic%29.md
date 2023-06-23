@@ -4,9 +4,9 @@ category:
 - Education
 - Elections / Politics
 - Planning and Development
-date_created: ''
+date_created: '2021-05-27'
 date_updated: '2021-05-27'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
@@ -18,9 +18,27 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   a priority place. This dataset displays the boundaries of Roman Catholic secondary
   school catchment areas for the Edinburgh Council area.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: ''
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/a4f91b8dd96b4bc79cc19934257be828_23
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/a4f91b8dd96b4bc79cc19934257be828_23
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/23
+- format: CSV
+  name: CSV
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/a4f91b8dd96b4bc79cc19934257be828_23.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/a4f91b8dd96b4bc79cc19934257be828_23.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/a4f91b8dd96b4bc79cc19934257be828_23.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/a4f91b8dd96b4bc79cc19934257be828_23.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Secondary School Catchments (Roman Catholic)
 ---

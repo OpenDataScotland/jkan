@@ -3,9 +3,9 @@ category:
 - Budget / Finance
 - Business and Economy
 - Council and Government
-date_created: ''
-date_updated: '2023-03-29'
-license: No licence
+date_created: '2023-03-29'
+date_updated: '2023-06-15'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div><p style='margin-bottom:9pt; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
@@ -37,9 +37,27 @@ notes: "<div><p style='margin-bottom:9pt; background-image:initial; background-p
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
   \ background-origin:initial; background-clip:initial;'><br /></p><br /></div>"
 organization: Glasgow City Council
-original_dataset_link: ''
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Area_Partnership_Grants/MapServer/0
+- format: CSV
+  name: CSV
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Area Partnership Grants
 ---

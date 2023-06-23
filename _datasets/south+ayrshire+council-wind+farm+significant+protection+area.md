@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2022-03-22'
-date_updated: '2023-02-16'
+date_updated: '2023-06-21'
 license: No licence
 maintainer: South Ayrshire Council
 notes: ''
@@ -11,5 +11,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=1609d57bcd174191
 records: 4
 resources: []
 schema: default
-title: Significant Protection Area
+title: Wind Farm Significant Protection Area
 ---

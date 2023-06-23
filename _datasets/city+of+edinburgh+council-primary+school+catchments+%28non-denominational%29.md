@@ -4,9 +4,9 @@ category:
 - Education
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2021-05-27'
-license: No licence
+date_created: '2021-05-27'
+date_updated: '2023-04-01'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
@@ -16,9 +16,27 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   text-decoration-color:initial; display:inline !important;'>Boundaries for non denominational
   primary school catchment areas in the City of Edinburgh Council area</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: ''
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/f5fdd9a8e7cc499582c14f55e7c97757_20
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/f5fdd9a8e7cc499582c14f55e7c97757_20
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/20
+- format: CSV
+  name: CSV
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/f5fdd9a8e7cc499582c14f55e7c97757_20.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/f5fdd9a8e7cc499582c14f55e7c97757_20.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/f5fdd9a8e7cc499582c14f55e7c97757_20.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/f5fdd9a8e7cc499582c14f55e7c97757_20.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Primary School Catchments (non-denominational)
 ---

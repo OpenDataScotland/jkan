@@ -3,9 +3,9 @@ category:
 - Budget / Finance
 - Business and Economy
 - Council and Government
-date_created: ''
+date_created: '2023-03-15'
 date_updated: '2023-03-15'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>First published as Open Data on 2 July 2019,&nbsp; this dataset shows the\
   \ annual expenditure on individual suppliers where the combined gross value of payments\
@@ -100,9 +100,21 @@ notes: "<p>First published as Open Data on 2 July 2019,&nbsp; this dataset shows
   \ style='color: inherit; font-family: var(--fontsBaseFamily),Avenir Next; font-size:\
   \ inherit;'>&nbsp;can be found of the Council's website.</span></p>\n<p></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-trade-creditors-extract-10k-plus-fye-2018
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-trade-creditors-extract-10k-plus-fye-2018
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance%20-%20trade%20creditors%20extract%20(10k%20plus%20fye%202018)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-10k-plus-fye-2018.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-10k-plus-fye-2018.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Finance - trade creditors extract (10k plus fye 2018)
 ---

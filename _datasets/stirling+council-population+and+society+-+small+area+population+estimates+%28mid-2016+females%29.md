@@ -4,9 +4,9 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
+date_created: '2023-03-23'
 date_updated: '2023-03-23'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-bottom:0cm; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
@@ -31,9 +31,21 @@ notes: "<p style='margin-bottom:0cm; background-image:initial; background-positi
   \ background-clip:initial;'><span style='font-family:Roboto;'>\xA9 Crown Copyright\
   \ 2017, 2018, 2019, 2020, 2021, 2022</span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20small%20area%20population%20estimates%20(mid-2016%20females)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Population and society - small area population estimates (mid-2016 females)
 ---

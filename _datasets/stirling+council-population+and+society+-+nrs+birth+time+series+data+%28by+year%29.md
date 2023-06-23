@@ -6,9 +6,9 @@ category:
 - Elections / Politics
 - Health and Social Care
 - Planning and Development
-date_created: ''
+date_created: '2023-03-28'
 date_updated: '2023-03-28'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'>The dataset within this group contains\
@@ -28,9 +28,21 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ Arial, sans-serif; color: rgb(68, 68, 68);'>\xA9 Crown Copyright 2022</span><span\
   \ style='font-size: 10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444'></span></p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-nrs-birth-time-series-data-by-year
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-nrs-birth-time-series-data-by-year
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20nrs%20birth%20time%20series%20data%20(by%20year)/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-birth-time-series-data-by-year.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-birth-time-series-data-by-year.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Population and society - nrs birth time series data (by year)
 ---

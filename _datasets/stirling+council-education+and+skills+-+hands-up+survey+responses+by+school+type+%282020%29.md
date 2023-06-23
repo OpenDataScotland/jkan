@@ -6,9 +6,9 @@ category:
 - Elections / Politics
 - Planning and Development
 - Transportation
-date_created: ''
-date_updated: '2023-03-19'
-license: No licence
+date_created: '2023-03-19'
+date_updated: '2023-04-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:14px;'>The\_<a href='https://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey/'\
@@ -44,9 +44,12 @@ notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); fon
   \ in the above report for clarification on any points relating to the Hands Up Scotland\
   \ Survey data.</p>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::education-and-skills-hands-up-survey-responses-by-school-type-2020-1
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::education-and-skills-hands-up-survey-responses-by-school-type-2020-1
 schema: default
 title: Education and skills - hands-up survey responses by school type (2020)
 ---

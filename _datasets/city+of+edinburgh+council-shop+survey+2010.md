@@ -1,9 +1,9 @@
 ---
 category:
 - Business and Economy
-date_created: ''
-date_updated: '2021-05-27'
-license: No licence
+date_created: '2021-05-27'
+date_updated: '2023-06-21'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(77, 77, 77); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
@@ -16,9 +16,27 @@ notes: <p><span style='color:rgb(77, 77, 77); font-family:&quot;Avenir Next W01&
   in 2010. The first one was done in 1986 and others followed it in 1996, 2004 and
   2010.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: ''
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::shop-survey-2010
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::shop-survey-2010
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/3
+- format: CSV
+  name: CSV
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-2010.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-2010.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-2010.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-2010.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Shop Survey 2010
 ---

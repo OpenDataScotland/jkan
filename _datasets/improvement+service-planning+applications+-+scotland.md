@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-06-15'
+date_updated: '2023-06-21'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>'Development management' is the name given to the process of deciding planning\
@@ -54,10 +54,10 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applicati
 records: null
 resources:
 - format: WFS
-  name: 'Planning Applications: Weekly Lists (Points)'
+  name: 'Planning Applications: Weekly (Point) '
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappweekpnt
 - format: WFS
-  name: 'Planning Applications: Weekly Lists (Polygons)'
+  name: 'Planning Applications: Weekly (Polygon) '
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappweekpol
 - format: WFS
   name: 'Planning Applications: Calendar Year (Point) '

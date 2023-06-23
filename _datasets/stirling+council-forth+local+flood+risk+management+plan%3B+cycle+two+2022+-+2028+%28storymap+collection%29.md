@@ -5,9 +5,9 @@ category:
 - Elections / Politics
 - Health and Social Care
 - Transportation
-date_created: ''
-date_updated: '2023-01-06'
-license: No licence
+date_created: '2023-01-06'
+date_updated: '2023-03-31'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin:12pt 0cm; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
@@ -44,9 +44,15 @@ notes: "<p style='margin:12pt 0cm; background-image:initial; background-position
   \ Forestry</span></li><li><span style='font-family:Roboto;'>Loch Lomond and Trossachs\
   \ National Park</span></li></ul>"
 organization: Stirling Council
-original_dataset_link: ''
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::forth-local-flood-risk-management-plan-cycle-two-2022-2028-storymap-collection
 records: null
-resources: []
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::forth-local-flood-risk-management-plan-cycle-two-2022-2028-storymap-collection
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://storymaps.arcgis.com/collections/dce68641170345a5b607d1181da1123e
 schema: default
 title: Forth Local Flood Risk Management Plan; Cycle Two 2022 - 2028 (storymap collection)
 ---

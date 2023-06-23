@@ -1,0 +1,27 @@
+---
+category:
+- Law and Licensing
+date_created: '2018-10-30'
+date_updated: '2018-10-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: North Ayrshire Council
+notes: <p>{{description}}</p>
+organization: North Ayrshire Council
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::fixed-penalty-notices
+records: null
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::fixed-penalty-notices
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/26
+- format: CSV
+  name: CSV
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::fixed-penalty-notices.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::fixed-penalty-notices.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+schema: default
+title: Fixed Penalty Notices
+---
