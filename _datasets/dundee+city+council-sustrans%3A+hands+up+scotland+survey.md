@@ -5,7 +5,7 @@ category:
 - Education
 - Transportation
 date_created: '2021-11-05'
-date_updated: '2022-06-17'
+date_updated: '2023-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The <a href="https://www.sustrans.org.uk/scotland/hands-up-scotland-survey">Hands
@@ -15,7 +15,7 @@ notes: <p>The <a href="https://www.sustrans.org.uk/scotland/hands-up-scotland-su
   the survey in class by asking their pupils \u2018How do you normally travel to school?\u2019.
   Council staff distribute the survey to schools and return pupil responses to the
   Sustrans\u2019 Research and Monitoring Unit for overall collation, analysis and
-  reporting.\r\n\r\nThe most recent results, published on 26th May 2022 in the 2021
+  reporting.\r\n\r\nThe most recent results, published on 25th May 2023 in the 2022
   Annual Report, provide a valuable snapshot of school travel in Scotland. The Annual
   Report can be accessed by clicking on the following link:\r\n\r\nhttps://www.sustrans.org.uk/our-blog/projects/uk-wide/scotland/hands-up-scotland-survey\r\n</p>
 organization: Dundee City Council
@@ -34,6 +34,12 @@ resources:
 - format: CSV
   name: 2021 - Analysis by Travel Mode - Dundee City
   url: https://data.dundeecity.gov.uk/dataset/c17e34d4-42fa-43f8-8833-bc4158b7cd22/resource/46443e96-1f76-4499-b9cc-83752d492309/download/2021_analysis_by_travel_mode.csv
+- format: CSV
+  name: '2022 - Responses by school type - Scotland and Dundee City '
+  url: https://data.dundeecity.gov.uk/dataset/c17e34d4-42fa-43f8-8833-bc4158b7cd22/resource/acf4e394-7e84-4545-a54b-7804cffb1c4d/download/2022_survey_response_rates.csv
+- format: CSV
+  name: 2022 - Analysis by Travel Mode - Dundee City
+  url: https://data.dundeecity.gov.uk/dataset/c17e34d4-42fa-43f8-8833-bc4158b7cd22/resource/434cb636-5672-4f88-8a76-ff12e02f637e/download/2022_analysis_by_travel_mode.csv
 schema: default
 title: 'Sustrans: Hands Up Scotland Survey'
 ---

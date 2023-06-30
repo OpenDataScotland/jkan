@@ -4,7 +4,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2021-04-01'
-date_updated: '2022-12-20'
+date_updated: '2023-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: '<div style=''text-align:Left;''><div><div><p><span>T</span><span>rees are

@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2023-06-22'
-date_updated: '2023-06-22'
+date_updated: '2023-06-26'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations
@@ -13,7 +13,9 @@ notes: <p>The Water Intended for Human Consumption (Private Supplies) (Scotland)
   main objective of the Regulations is to ensure the provision of clean, safe drinking
   water and to deliver significant health benefits to those using private water supplies.  This
   dataset is the location of addresses which are served by specific Private Water
-  Supplies  "UPRN" and "address" are MANDATORY fields for all records in this dataset.</p>
+  Supplies. Is is not complete but SHOULD be a dataset of properties which are not
+  charged for the Sewerage Element  "UPRN" and "address" are MANDATORY fields for
+  all records in this dataset.</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supply_properties-is'
 records: null

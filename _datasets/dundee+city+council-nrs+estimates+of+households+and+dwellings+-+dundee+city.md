@@ -3,16 +3,16 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-01-31'
-date_updated: '2022-06-24'
+date_updated: '2023-06-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>This data set contains Dundee City Estimates of Household and Dwellings.
   This data is sourced from National Records of Scotland Estimates of Households and
   Dwellings in Scotland. National Records of Scotland publish this data set on their
   website on an annual basis. \r\n\r\nThe most recent publication is the NRS Estimates
-  of Households and Dwellings in Scotland 2021 \xa9 Crown Copyright 2022 which was
-  published by NRS on 23rd June 2022\r\n\r\nThe full data set is available on the
-  National Records of Scotland website:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-estimates/2021</p>
+  of Households and Dwellings in Scotland 2022 \xa9 Crown Copyright 2023 which was
+  published by NRS on 22nd June 2023\r\n\r\nThe full data set is available on the
+  National Records of Scotland website:\r\nhttps://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/households/household-estimates/2022</p>
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/dataset/nrs-estimates-of-households-and-dwellings
 records: null
@@ -77,6 +77,18 @@ resources:
 - format: CSV
   name: Dundee Dwellings by Occupancy - September 2021
   url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/0f42068c-6ad1-4827-a459-2d69cbc900e9/download/dundee_dwellings_occupancy_sept21.csv
+- format: CSV
+  name: Dundee City Household Estimates 2001 to 2022
+  url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/0b7b289a-7976-4c70-947a-f2d93e1d2a00/download/nrs_dundee_hhold_estimates_2001_2022.csv
+- format: CSV
+  name: Estimated Number of Dwellings September 2001 to 2022 - Dundee City
+  url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/f71d5249-4d9a-415d-a641-f82b62b2f535/download/estimated_no_dwellings_sept_2001_2022.csv
+- format: CSV
+  name: Dundee City Characteristics of Dwellings 2022
+  url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/3115ff53-80e3-4e2b-b83a-8ae84844c50e/download/dundee_characteristics_dwellings_2022.csv
+- format: CSV
+  name: Dundee Dwellings by Occupancy - September 2022
+  url: https://data.dundeecity.gov.uk/dataset/bcef6431-de84-4ce2-9ab7-57f2445f129f/resource/2e2011dc-b148-4ba0-bdf5-f6ff591b6589/download/nrs_dundee_dwellings_occupancy_sept2022.csv
 schema: default
 title: NRS Estimates of Households and Dwellings - Dundee City
 ---

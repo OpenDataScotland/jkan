@@ -1,11 +1,13 @@
 ---
 category:
+- Budget / Finance
+- Council and Government
 - Elections / Politics
 - Food and Environment
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2023-04-18'
+date_updated: '2023-06-30'
 license: 'Custom licence: Other (Non-Commercial)'
 maintainer: Improvement Service
 notes: "<p>A Web Mapping Feature layer identifying optimal locations across Scotland\
@@ -44,7 +46,20 @@ notes: "<p>A Web Mapping Feature layer identifying optimal locations across Scot
   \ water heads which are most suited to the \u2018open-loop with reinjection\u2019\
   \ configuration. Both configurations are presented in Walls et al. (2022) - https://doi.org/10.3390/en14196215.\
   \ Depths greater than 60 m BGL are not included since they indicate situations which\
-  \ would face excessive pumping costs.</p>"
+  \ would face excessive pumping costs.</p>\n<p>The Mine Water Geothermal Resource\
+  \ Atlas for Scotland (MiRAS) was the work of David Walls, a PhD researcher at the\
+  \ Universities of Strathclyde and Glasgow. David has been supervised by Dr Neil\
+  \ Burnside of the University of Strathclyde, David Banks of the University of Glasgow\
+  \ and Prof. Adrian Boyce of SUERC. The PhD studentship was funded by Engineering\
+  \ and Physical Sciences Research Council and some of the analysis was funded through\
+  \ the John Mather Trust Rising Star Award. Further contextual details of this work\
+  \ including the input data, specific processing and quality assurance can be found\
+  \ in David\u2019s PhD (How can optimal sites for mine water geothermal energy systems\
+  \ be identified and where are they in Scotland?) and accompanying paper (to be shared\
+  \ when available). If you have any queries regarding the MiRAS, assistance can be\
+  \ provided via emails to david.walls@strath.ac.uk; or you can reach David at his\
+  \ new post with TownRock Energy at david.walls@townrock.com.</p>\n<p>Contains data\
+  \ from \xA9 The Coal Authority. All rights reserved.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/mine_water_geothermal_resource_atlas-is'
 records: null

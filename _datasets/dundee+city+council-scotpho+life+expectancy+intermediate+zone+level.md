@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: '2022-06-17'
-date_updated: '2022-06-20'
+date_updated: '2023-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Scottish Public Health Observatory (ScotPHO) which is led by Public
@@ -46,6 +46,9 @@ resources:
 - format: CSV
   name: 'ScotPHO - Estimated Life Expectancy at Birth: 2018'
   url: https://data.dundeecity.gov.uk/dataset/f0785209-1c81-4dd6-b25e-564340e88b65/resource/658c6801-f72c-4e56-b07e-80c90dbaadaa/download/scotpho_life_expectancy_2018.csv
+- format: CSV
+  name: 'ScotPHO - Estimated Life Expectancy at Birth: 2019'
+  url: https://data.dundeecity.gov.uk/dataset/f0785209-1c81-4dd6-b25e-564340e88b65/resource/fde5c286-5a34-4c67-8497-695f0aa0f56d/download/scotpho_life_expectancy_2019.csv
 schema: default
 title: ScotPHO Life Expectancy Intermediate Zone Level
 ---

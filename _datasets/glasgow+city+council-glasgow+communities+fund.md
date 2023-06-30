@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2021-09-06'
-date_updated: '2023-06-23'
+date_updated: '2023-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p><span style='background-image:initial; background-position:initial; background-size:initial;\

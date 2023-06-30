@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-07-07'
-date_updated: '2023-04-02'
+date_updated: '2023-06-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>roads - winter maintenance grit bins</p>

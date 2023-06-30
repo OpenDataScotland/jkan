@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-08-30'
-date_updated: '2022-09-05'
+date_updated: '2023-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>National Records of Scotland publish mid year electoral ward population
@@ -45,7 +45,7 @@ resources:
   url: https://data.dundeecity.gov.uk/dataset/156c7ced-126d-409e-8faa-afa90b775cd6/resource/c6d2fdc0-be71-4f46-9780-85034db9cf39/download/2016_ward_estimates.csv
 - format: CSV
   name: 'NRS: 2021 Mid Year Electoral Ward Population Estimates - Dundee City '
-  url: https://data.dundeecity.gov.uk/dataset/156c7ced-126d-409e-8faa-afa90b775cd6/resource/9b5e895f-faa7-4719-ba5b-c2708f3ffcaa/download/nrs_2021_electoral_ward_mye_population.csv
+  url: https://data.dundeecity.gov.uk/dataset/156c7ced-126d-409e-8faa-afa90b775cd6/resource/9b5e895f-faa7-4719-ba5b-c2708f3ffcaa/download/dundee_electoral_wrd_mye_2021.csv
 schema: default
 title: 'NRS: Electoral Ward Mid Year Population Estimates (2011 Data Zone Based)'
 ---

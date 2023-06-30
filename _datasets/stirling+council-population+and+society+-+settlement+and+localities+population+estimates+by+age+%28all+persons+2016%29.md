@@ -4,32 +4,57 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
+- Sport and Leisure
 date_created: '2023-03-22'
 date_updated: '2023-03-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin-top:0px; margin-bottom:10px; color:rgb(68, 68, 68); font-family:&quot;Open\
-  \ Sans&quot;, sans-serif; font-size:14px;'><p style='margin-top:0cm; margin-right:0cm;\
+  \ Sans&quot;, sans-serif; font-size:14px;'></p>\n<p style='margin-top:0cm; margin-right:0cm;\
   \ margin-bottom:7.5pt; margin-left:0cm; background:white;'><span style='font-size:11.0pt;\
-  \ font-family:Roboto; color:#444444;'>The datasets within this group contain the\_\
-  <a href='https://www.nrscotland.gov.uk/' style='text-decoration-line:none;' rel='nofollow\
-  \ ugc'><span style='color:#560084;'>National Records of Scotland (NRS)</span></a>\_\
-  mid-year population estimates for each settlement and locality combination within\
-  \ the Stirling Council area.</span></p><p style='margin-top:0cm; margin-right:0cm;\
+  \ font-family:Roboto; color:#444444;'>The datasets within this group contain the&nbsp;<a\
+  \ href='https://www.nrscotland.gov.uk/' style='text-decoration-line:none;' rel='nofollow\
+  \ ugc'><span style='color:#560084;'>National Records of Scotland (NRS)</span></a>&nbsp;mid-year\
+  \ population estimates for each settlement and locality combination within the Stirling\
+  \ Council area.</span></p>\n<p style='margin-top:0cm; margin-right:0cm; margin-bottom:7.5pt;\
+  \ margin-left:0cm; background:white;'><span style='font-family:Roboto; font-size:11pt;'>Settlements\
+  \ are built-up areas which round to 500 people or more, with larger settlements\
+  \ divided into localities to reflect areas which are more easily identifiable as\
+  \ the towns and cities of Scotland.</span></p>\n<p style='margin-top:0cm; margin-right:0cm;\
   \ margin-bottom:7.5pt; margin-left:0cm; background:white;'><span style='font-family:Roboto;\
-  \ font-size:11pt;'>Settlements are built-up areas which round to 500 people or more,\
-  \ with larger settlements divided into localities to reflect areas which are more\
-  \ easily identifiable as the towns and cities of Scotland.</span></p><p style='margin-top:0cm;\
-  \ margin-right:0cm; margin-bottom:7.5pt; margin-left:0cm; background:white;'><span\
-  \ style='font-family:Roboto; font-size:11pt;'>The datasets are sourced from the\
-  \ NRS website's\_</span><a href='https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/settlements-and-localities'\
+  \ font-size:11pt;'>The datasets are sourced from the NRS website's&nbsp;</span><a\
+  \ href='https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/settlements-and-localities'\
   \ style='font-family:Roboto; font-size:11pt; text-decoration-line:none;' rel='nofollow\
   \ ugc'><span style='color:#560084;'>Settlements and Localities'</span></a><span\
-  \ style='font-family:Roboto; font-size:11pt;'>\_page. This link also provides access\_\
-  </span><a href='https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/settlements-and-localities/background-information'\
+  \ style='font-family:Roboto; font-size:11pt;'>&nbsp;page. This link also provides\
+  \ access&nbsp;</span><a href='https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/special-area-population-estimates/settlements-and-localities/background-information'\
   \ style='font-family:Roboto; font-size:11pt; text-decoration-line:none;' rel='nofollow\
   \ ugc'><span style='color:#560084;'>background information</span></a><span style='font-family:Roboto;\
-  \ font-size:11pt;'>\_on settlements and localities and how they are determined.</span></p></p>"
+  \ font-size:11pt;'>&nbsp;on settlements and localities and how they are determined.</span></p>\n\
+  <p style='margin: 0cm 0cm 7.5pt; background-image: initial; background-position:\
+  \ initial; background-size: initial; background-repeat: initial; background-attachment:\
+  \ initial; background-origin: initial; background-clip: initial;'><span style='font-size:\
+  \ 10.5pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68);'>In addition to\
+  \ the mid-2016 estimated total population for all persons for all ages against each\
+  \ combination of settlement and locality, this dataset provides a corresponding\
+  \ breakdown by five year age groups.</span></p>\n<p style='margin: 0cm 0cm 7.5pt;\
+  \ background-image: initial; background-position: initial; background-size: initial;\
+  \ background-repeat: initial; background-attachment: initial; background-origin:\
+  \ initial; background-clip: initial;'><span style='font-size: 10.5pt; font-family:\
+  \ Arial, sans-serif; color: rgb(68, 68, 68);'>Source: NRS&nbsp;</span><a href='https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/settlements-and-localities/mid-2016-population-estimates-for-settlements-and-localities-in-scotland'\
+  \ rel='nofollow ugc'><span style='font-size: 10.5pt; font-family: Arial, sans-serif;\
+  \ color: rgb(86, 0, 132);'>Mid-2016 Population Estimates for Settlements and Localities\
+  \ in Scotland</span></a><span style='font-size: 10.5pt; font-family: Arial, sans-serif;\
+  \ color: rgb(68, 68, 68);'>.</span><span style='font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444'></span></p>\n\
+  <p style='margin: 0cm 0cm 7.5pt; background-image: initial; background-position:\
+  \ initial; background-size: initial; background-repeat: initial; background-attachment:\
+  \ initial; background-origin: initial; background-clip: initial;'><span style='font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444'></span></p>\n\
+  <p style='margin: 0cm 0cm 7.5pt; background-image: initial; background-position:\
+  \ initial; background-size: initial; background-repeat: initial; background-attachment:\
+  \ initial; background-origin: initial; background-clip: initial;'><span style='font-size:\
+  \ 10.5pt; font-family: Arial, sans-serif; color: rgb(68, 68, 68);'>\xA9 Crown Copyright\
+  \ 2018.</span><span style='font-size: 10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444'></span></p>\n\
+  <p></p>"
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-all-persons-2016
 records: null

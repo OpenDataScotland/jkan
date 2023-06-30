@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2017-09-08'
-date_updated: '2022-12-21'
+date_updated: '2023-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Primary School Catchments in Highland. </p>
