@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2021-09-28'
-date_updated: '2023-06-30'
+date_updated: '2023-07-07'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p><font face='Avenir Next, Avenir Next'><span style='font-size:18px; background-color:rgb(248,

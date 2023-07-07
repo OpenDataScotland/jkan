@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2022-11-10'
-date_updated: '2023-05-18'
+date_updated: '2023-07-06'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Local authorities are large owners of land, much of it not captured on the

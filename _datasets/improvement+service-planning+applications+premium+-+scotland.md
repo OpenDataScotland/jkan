@@ -4,9 +4,9 @@ category:
 - Housing and Estates
 - Planning and Development
 - Transportation
-date_created: '2023-04-11'
+date_created: '2023-06-14'
 date_updated: '2023-07-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>This new planning applications data has been created using a custom built\
   \ 'Cloud Connector Framework' which enables the automated collection of data from\
@@ -30,15 +30,15 @@ notes: "<p>This new planning applications data has been created using a custom b
   \ this dataset, because of it's size you should use it with a filter. For example\
   \ with the attributes 'local_authority' and 'year'.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications_ccf-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications_ccf_premium-is'
 records: null
 resources:
 - format: WFS
-  name: 'Planning Applications: Official (Points) '
-  url: https://geo.spatialhub.scot/geoserver/sh_plnapp/wfs?service=wfs&typeName=sh_plnapp:pub_plnapppnt
+  name: 'Planning Applications: Official  (Points) '
+  url: https://geo.spatialhub.scot/geoserver/sh_plnapp_premium/wfs?service=wfs&typeName=sh_plnapp_premium:pub_plnapppnt_premium
 - format: WFS
   name: 'Planning Applications: Official (Polygons) '
-  url: https://geo.spatialhub.scot/geoserver/sh_plnapp/wfs?service=wfs&typeName=sh_plnapp:pub_plnapppol
+  url: https://geo.spatialhub.scot/geoserver/sh_plnapp_premium/wfs?service=wfs&typeName=sh_plnapp_premium:pub_plnapppol_premium
 schema: default
-title: Planning Applications - Scotland
+title: Planning Applications PREMIUM - Scotland
 ---

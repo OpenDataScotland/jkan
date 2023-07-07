@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-04-04'
+date_updated: '2023-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -46,6 +46,9 @@ resources:
 - format: ZIP
   name: Community Councils
   url: https://data.spatialhub.scot/dataset/fd4c1b90-1623-4512-a7cf-790d8a882e79/resource/a99df7ac-4634-4f70-a471-b008e5891c7a/download/communitycouncils_shire.zip
+- format: ZIP
+  name: Community Councils
+  url: https://data.spatialhub.scot/dataset/fd4c1b90-1623-4512-a7cf-790d8a882e79/resource/6640fb15-a2d7-42b3-8067-3ce084448802/download/communitycouncils_shire.zip
 schema: default
 title: Community Council Boundaries - Aberdeenshire
 ---

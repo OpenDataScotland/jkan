@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2020-01-23'
-date_updated: '2023-02-15'
+date_updated: '2023-07-03'
 license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"Cycling Scotland undertakes research into the attitudes and behaviours

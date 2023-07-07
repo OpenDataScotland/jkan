@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2022-01-11'
-date_updated: '2023-03-28'
+date_updated: '2023-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<div>Centroids of corporate properties owned by The Highland Council. Published\

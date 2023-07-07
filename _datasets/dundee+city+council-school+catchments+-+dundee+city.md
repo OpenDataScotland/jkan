@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -40,18 +40,18 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-dc'
 records: null
 resources:
-- format: WFS
-  name: Non-denom primary catchments
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Denom primary catchments
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Non-denom secondary catchments
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Denom secondary catchments
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_School_Catchments_2022/WFSServer?service=wfs&request=getcapabilities
+- format: REST
+  name: Denominational Primary Catchments
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/1
+- format: REST
+  name: Denominational Secondary Catchments
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/2
+- format: REST
+  name: Non-Denominational Primary Catchments
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/3
+- format: REST
+  name: Non-Denominational Secondary Catchments
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/4
 schema: default
 title: School Catchments - Dundee City
 ---

@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2020-06-10'
-date_updated: '2023-06-01'
+date_updated: '2023-07-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Novel coronavirus (COVID-19) is a new strain of coronavirus first identified
@@ -39,13 +39,13 @@ records: null
 resources:
 - format: CSV
   name: Deaths By Health Board, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/733aad2d-5420-4966-bc34-386a3475623f/download/deaths_hb_agesex_20230601.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/733aad2d-5420-4966-bc34-386a3475623f/download/deaths_hb_agesex_20230706.csv
 - format: CSV
   name: Deaths By HSCP, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/3f8e59f9-6133-46db-b8e6-7efed86a8b7c/download/deaths_hscp_agesex_20230601.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/3f8e59f9-6133-46db-b8e6-7efed86a8b7c/download/deaths_hscp_agesex_20230706.csv
 - format: CSV
   name: Deaths By Deprivation
-  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/98648584-4a34-4374-832c-d3f50b6edd80/download/deaths_hb_simd_20230601.csv
+  url: https://www.opendata.nhs.scot/dataset/5a9ecd07-fcd0-433c-94be-771eb4e0a691/resource/98648584-4a34-4374-832c-d3f50b6edd80/download/deaths_hb_simd_20230706.csv
 schema: default
 title: COVID-19 Wider Impacts - Excess Deaths
 ---

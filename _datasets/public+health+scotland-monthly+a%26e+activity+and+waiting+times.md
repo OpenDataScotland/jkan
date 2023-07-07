@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-12-06'
-date_updated: '2023-06-08'
+date_updated: '2023-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>On 2 May 2023, this release was updated to include additional data for demographics,
@@ -23,19 +23,19 @@ records: null
 resources:
 - format: CSV
   name: Monthly Accident and Emergency Activity
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/37ba17b1-c323-492c-87d5-e986aae9ab59/download/monthly_ae_activity_202304.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/37ba17b1-c323-492c-87d5-e986aae9ab59/download/monthly_ae_activity_202305.csv
 - format: CSV
   name: Demographics
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/6abbf8e4-e4e0-4a56-a7b9-f7c7b4171ff3/download/opendata_monthly_ae_demographics_202304.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/6abbf8e4-e4e0-4a56-a7b9-f7c7b4171ff3/download/opendata_monthly_ae_demographics_202305.csv
 - format: CSV
   name: Referral Source
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/235407ca-1676-472e-9e4d-6e7230934a95/download/opendata_monthly_ae_referral_202304.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/235407ca-1676-472e-9e4d-6e7230934a95/download/opendata_monthly_ae_referral_202305.csv
 - format: CSV
   name: Discharge
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/c4622324-f59c-4011-a67b-83b59c59ca94/download/opendata_monthly_ae_discharge_202304.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/c4622324-f59c-4011-a67b-83b59c59ca94/download/opendata_monthly_ae_discharge_202305.csv
 - format: CSV
   name: When
-  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/022c3b27-6a58-48dc-8038-8f1f93bb0e78/download/opendata_monthly_ae_when_202304.csv
+  url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/022c3b27-6a58-48dc-8038-8f1f93bb0e78/download/opendata_monthly_ae_when_202305.csv
 - format: CSV
   name: ARCHIVE - Monthly Accident and Emergency Waiting Times
   url: https://www.opendata.nhs.scot/dataset/997acaa5-afe0-49d9-b333-dcf84584603d/resource/2a4adc0a-e8e3-4605-9ade-61e13a85b3b9/download/monthly_ae_waitingtimes_202303.csv

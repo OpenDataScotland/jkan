@@ -2,9 +2,9 @@
 category:
 - Elections / Politics
 - Planning and Development
-date_created: '2023-04-11'
+date_created: '2023-06-14'
 date_updated: '2023-07-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>This new building standards data has been created using a custom built\
   \ 'Cloud Connector Framework' which enables the automated collection of data from\
@@ -23,15 +23,15 @@ notes: "<p>This new building standards data has been created using a custom buil
   \ dataset, because of it's size you should use it with a filter. For example with\
   \ the attributes 'local_authority' and 'year'.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards_ccf-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards_ccf_premium-is'
 records: null
 resources:
 - format: WFS
   name: 'Building Standards: Official (Points) '
-  url: https://geo.spatialhub.scot/geoserver/sh_bldstd/wfs?service=wfs&typeName=sh_bldstd:pub_bldstdpnt
+  url: https://geo.spatialhub.scot/geoserver/sh_bldstd_premium/wfs?service=wfs&typeName=sh_bldstd_premium:pub_bldstdpnt_premium
 - format: WFS
   name: 'Building Standards: Official (Polygons) '
-  url: https://geo.spatialhub.scot/geoserver/sh_bldstd/wfs?service=wfs&typeName=sh_bldstd:pub_bldstdpol
+  url: https://geo.spatialhub.scot/geoserver/sh_bldstd_premium/wfs?service=wfs&typeName=sh_bldstd_premium:pub_bldstdpol_premium
 schema: default
-title: Building Standards - Scotland
+title: Building Standards PREMIUM - Scotland
 ---

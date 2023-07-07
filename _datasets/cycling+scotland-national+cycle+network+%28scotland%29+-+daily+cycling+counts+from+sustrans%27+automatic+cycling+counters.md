@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-11-26'
-date_updated: '2023-06-30'
+date_updated: '2023-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Daily cycling counts from automatic cycling counters on the National Cycle
-  Network (Scotland)"</p>
+notes: <p>"A real-time daily upload from each cycling counter within the National
+  Cycle Network (Scotland)"</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/b52df6e9-ae06-4f17-b12e-fac59b1ccca3
 records: null

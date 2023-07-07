@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2023-06-30'
+date_updated: '2023-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Scotland South East Trunk Roads - Hourly cycling counts from automatic
-  cycling counters"</p>
+notes: <p>"A real-time hourly upload from each cycling counter within Scotland's South
+  East Trunk Roads network."</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/4e329609-94e9-43b5-a221-be989390a391
 records: null
