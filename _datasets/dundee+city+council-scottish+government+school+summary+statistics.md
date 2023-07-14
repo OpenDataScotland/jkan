@@ -5,7 +5,7 @@ category:
 - Education
 - Planning and Development
 date_created: '2018-04-24'
-date_updated: '2022-05-26'
+date_updated: '2023-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Scottish Government publishes its School Level Summary Statistics publication

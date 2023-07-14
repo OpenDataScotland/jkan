@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: '2023-06-15'
-date_updated: '2023-06-15'
+date_updated: '2023-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Water safety features including lifebelts, signs, safety ladders, poles,
