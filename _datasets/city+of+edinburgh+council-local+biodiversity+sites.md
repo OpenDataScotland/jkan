@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2022-02-01'
-date_updated: '2023-07-12'
+date_updated: '2023-07-20'
 license: No licence
 maintainer: City of Edinburgh Council
 notes: <p>Edinburgh Local Biodiversity Sites</p>

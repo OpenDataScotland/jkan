@@ -1,14 +1,18 @@
 ---
 category:
+- Business and Economy
 - Health and Social Care
 date_created: '2020-04-01'
-date_updated: '2022-05-17'
+date_updated: '2023-07-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>The Scottish Drug Misuse Database (SDMD) report provide an annual update
-  to figures on the number of individuals presenting for assessment at specialist
-  drug treatment services. All publications and supporting material to this topic
-  area can be found on <a href="https://beta.isdscotland.org/find-publications-and-data/lifestyle-and-behaviours/substance-use/">PHS
+notes: <p>The Scottish Drugs Misuse Database (SDMD) was closed in March 2021 due to
+  the introduction of the Drug and Alcohol Information System (DAISy). Open data for
+  financial years 2021/22 onward are available <a href="https://www.opendata.nhs.scot/dataset/initial-assessments-for-specialist-drug-and-alcohol-treatment">here</a>\r\n\r\nThe
+  Scottish Drug Misuse Database (SDMD) report provide an annual update to figures
+  on the number of individuals presenting for assessment at specialist drug treatment
+  services. All publications and supporting material to this topic area can be found
+  on <a href="https://beta.isdscotland.org/find-publications-and-data/lifestyle-and-behaviours/substance-use/">PHS
   - Substance use</a>. </p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-drug-misuse-database
@@ -27,5 +31,5 @@ resources:
   name: SDMD By Council Area and Treatment Group
   url: https://www.opendata.nhs.scot/dataset/6166b68d-54aa-41c6-9da7-5d80055aace8/resource/d5ffbfe1-12d1-4d58-8a49-a32b8c3356a5/download/treatment_group_sdmd_council.csv
 schema: default
-title: Scottish Drug Misuse Database
+title: ARCHIVED - Scottish Drug Misuse Database
 ---

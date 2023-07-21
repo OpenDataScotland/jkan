@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2017-05-23'
-date_updated: '2023-05-18'
+date_updated: '2023-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Air Quality Management Areas</p>

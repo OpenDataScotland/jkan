@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2022-03-31'
-date_updated: '2023-04-05'
+date_updated: '2023-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><span style='font-family:Roboto; color:black; background:white;'>democracy
