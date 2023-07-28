@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2019-11-20'
-date_updated: '2020-01-24'
+date_updated: '2023-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: <p>The Dedication Scheme (Basis I &amp; II) was introduced in 1947 in order
@@ -21,5 +21,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=40c8793c3200456b
 records: 245
 resources: []
 schema: default
-title: Dedication
+title: Dedicated Woodlands
 ---

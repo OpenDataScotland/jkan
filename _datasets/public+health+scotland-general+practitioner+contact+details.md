@@ -4,14 +4,14 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-02-19'
-date_updated: '2023-07-20'
+date_updated: '2023-07-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains a lookup file of contact details for General Practitioners
   (GPs) and the practice they are registered at. The information includes General
-  Medical Council (GMC) number, address, telephone details of their practice.\r\n\r\nAll
+  Medical Council (GMC) number, address, telephone details of their practice. All
   publications and supporting material to this topic area can be found on the <a href="https://publichealthscotland.scot/our-areas-of-work/general-practice/">Public
-  Health Scotland website</a>.</p>
+  Health Scotland website</a>.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/general-practitioner-contact-details
 records: null

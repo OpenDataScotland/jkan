@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2021-05-25'
-date_updated: '2023-07-21'
+date_updated: '2023-07-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next&quot;,

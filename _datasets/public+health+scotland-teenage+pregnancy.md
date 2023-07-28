@@ -1,26 +1,14 @@
 ---
 category:
-- Business and Economy
-- Council and Government
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
-- Sport and Leisure
 date_created: '2019-07-10'
-date_updated: '2022-07-26'
+date_updated: '2023-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This dataset provides an annual update on teenage pregnancy statistics in
-  Scotland. It is based on the age at conception and presented by year of\r\nconception.
-  Data is presented by NHS Board, council area and deprivation for the age groups
-  of under 16, under 18 and under 20 years old and reports on pregnancies and outcome
-  (delivery and termination).\r\n\r\nFurther information on teenage pregnancies across
-  Scotland can be found in the <a href="https://publichealthscotland.scot/publications/teenage-pregnancies/">publication
-  summary</a>. All publications and supporting material to this topic area can be
-  found on the <a href="https://beta.isdscotland.org/topics/maternity-and-births/teenage-pregnancy/">PHS
-  Data and Intelligence Teenage Pregnancy Website</a>. The date of the next release
-  can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>
+notes: <p>These data provide an annual update on teenage pregnancy statistics in Scotland
+  which are presented by age of conception and year of conception. All supporting
+  material and metadata can be found in the full report available on the <a href="https://publichealthscotland.scot/publications/teenage-pregnancies/">PHS
+  website</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/teenage-pregnancy
 records: null

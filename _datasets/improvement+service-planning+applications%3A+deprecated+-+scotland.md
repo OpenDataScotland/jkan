@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-07-05'
+date_updated: '2023-07-26'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>'Development management' is the name given to the process of deciding planning\
@@ -20,37 +20,37 @@ notes: "<p>'Development management' is the name given to the process of deciding
   \ are specific projects which have been identified in the National Planning Framework\
   \ because of their national importance. Scottish Ministers become involved in a\
   \ small minority of cases, but only do so where it involves a matter of genuine\
-  \ national interest.</p>\n<p>This dataset consists of 4 separate layers: </p>\n\
-  <ol>\n<li>Planning Applications - Weekly Lists (Points):\_\_A point layer showing\
-  \ an amalgamation of the current calendar year's weekly lists for all Scottish planning\
-  \ authorities in terms of applications registered and/or decided by a planning authority.\
-  \ This should be a complete dataset across Scotland using X/Y co-ordinates, UPRN\
-  \ or postcode as corresponding\_geometry. This is categorised by application status,\
-  \ planning authority and date of weekly list.</li>\n<li>Planning Applications -\
-  \ Weekly Lists (Polygons):\_A polygon layer showing an amalgamation of the current\
-  \ calendar year's weekly lists for most Scottish\_planning\_authorities in terms\
-  \ of\_applications registered and/or decided by a planning authority. This is only\
-  \ for authorities that publish site boundary\_mapping data online.\_This is\_categorised\_\
-  by application status, planning authority and date of weekly list.</li>\n<li>Planning\
-  \ Applications - historic year data back to 1990 (Points):\_A Point layer for all\
-  \ previous year's planning applications with summary details for\_most\_Scottish\_\
+  \ national interest.  This dataset consists of 4 separate layers:   1. Planning\
+  \ Applications - Weekly Lists (Points):\_\_A point layer showing an amalgamation\
+  \ of the current calendar year's weekly lists for all Scottish planning authorities\
+  \ in terms of applications registered and/or decided by a planning authority. This\
+  \ should be a complete dataset across Scotland using X/Y co-ordinates, UPRN or postcode\
+  \ as corresponding\_geometry. This is categorised by application status, planning\
+  \ authority and date of weekly list. 2. Planning Applications - Weekly Lists (Polygons):\_\
+  A polygon layer showing an amalgamation of the current calendar year's weekly lists\
+  \ for most Scottish\_planning\_authorities in terms of\_applications registered\
+  \ and/or decided by a planning authority. This is only for authorities that publish\
+  \ site boundary\_mapping data online.\_This is\_categorised\_by application status,\
+  \ planning authority and date of weekly list. 3. Planning Applications - historic\
+  \ year data back to 1990 (Points):\_A Point layer for all previous year's planning\
+  \ applications with summary details for\_most\_Scottish\_planning\_authorities.\
+  \ This is only for authorities that publish site boundary\_mapping data online and\
+  \ is not complete across Scotland. NB. This layer can be filtered for individual\
+  \ year by selecting the 'shapefile' or 'GeoJSON' download option or the Web Feature\
+  \ Service can be filtered using appropriate software such as a desktop GIS. 4. Planning\
+  \ Applications - historic year data back to 1990 (Polygons):\_A polygon layer for\
+  \ all previous year's planning applications with summary details for\_most\_Scottish\_\
   planning\_authorities. This is only for authorities that publish site boundary\_\
   mapping data online and is not complete across Scotland. NB. This layer can be filtered\
   \ for individual year by selecting the 'shapefile' or 'GeoJSON' download option\
   \ or the Web Feature Service can be filtered using appropriate software such as\
-  \ a desktop GIS.</li>\n<li>Planning Applications - historic year data back to 1990\
-  \ (Polygons):\_A polygon layer for all previous year's planning applications with\
-  \ summary details for\_most\_Scottish\_planning\_authorities. This is only for authorities\
-  \ that publish site boundary\_mapping data online and is not complete across Scotland.\
-  \ NB. This layer can be filtered for individual year by selecting the 'shapefile'\
-  \ or 'GeoJSON' download option or the Web Feature Service can be filtered using\
-  \ appropriate software such as a desktop GIS.</li>\n</ol>\n<p>This data is collected\
-  \ and published weekly (for weekly lists) and this metadata record is updated weekly.</p>\n\
-  <p>We strongly recommend that, when using the WFS for this dataset, because of it's\
-  \ size you should use it with a filter.</p>\n<p><em>Moray's planning data has currently\
-  \ been removed from this dataset. We will find a solution to this in due course</em></p>"
+  \ a desktop GIS.  This data is collected and published weekly (for weekly lists)\
+  \ and this metadata record is updated weekly.  We strongly recommend that, when\
+  \ using the WFS for this dataset, because of it's size you should use it with a\
+  \ filter.  <em>Moray's planning data has currently been removed from this dataset.\
+  \ We will find a solution to this in due course</em></p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications_deprecated-is'
 records: null
 resources:
 - format: WFS
@@ -66,5 +66,5 @@ resources:
   name: 'Planning Applications: DEPRECATED Calendar Year (Polygon) '
   url: https://geo.spatialhub.scot/geoserver/sh_plapp/wfs?service=wfs&typeName=sh_plapp:pub_plappyearpol
 schema: default
-title: Planning Applications (DEPRECATED) - Scotland
+title: 'Planning Applications: DEPRECATED - Scotland'
 ---
