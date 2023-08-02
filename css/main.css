@@ -8,6 +8,10 @@ dataset {
   padding-bottom: 20px;
 }
 
+.dataset-item-resource-types {
+  margin-bottom: 10px;
+}
+
 .list-group-item-truncate {
   display: inline-block;
   line-height: 1;
