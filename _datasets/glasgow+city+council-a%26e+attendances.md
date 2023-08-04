@@ -1,6 +1,8 @@
 ---
 category:
 - Health and Social Care
+- Housing and Estates
+- Planning and Development
 date_created: '2023-03-29'
 date_updated: '2023-03-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

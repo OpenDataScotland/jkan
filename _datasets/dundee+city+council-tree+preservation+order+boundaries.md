@@ -3,6 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 - Planning and Development
+- Sport and Leisure
 date_created: '2022-08-08'
 date_updated: '2022-08-09'
 license: https://creativecommons.org/licenses/by/4.0/

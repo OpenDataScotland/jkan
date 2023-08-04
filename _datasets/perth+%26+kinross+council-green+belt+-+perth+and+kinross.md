@@ -3,7 +3,9 @@ category:
 - Business and Economy
 - Council and Government
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2016-05-31'
 date_updated: '2023-04-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

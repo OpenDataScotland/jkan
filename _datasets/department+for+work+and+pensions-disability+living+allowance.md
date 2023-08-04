@@ -1,6 +1,7 @@
 ---
 category:
 - Council and Government
+- Sport and Leisure
 date_created: ''
 date_updated: '2016-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

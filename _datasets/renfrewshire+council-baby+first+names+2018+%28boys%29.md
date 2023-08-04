@@ -2,6 +2,7 @@
 category:
 - Council and Government
 - Elections / Politics
+- Health and Social Care
 - Planning and Development
 date_created: '2019-04-18'
 date_updated: '2019-04-18'

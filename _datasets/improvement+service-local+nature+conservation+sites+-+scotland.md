@@ -2,6 +2,7 @@
 category:
 - Council and Government
 - Food and Environment
+- Sport and Leisure
 date_created: '2021-06-11'
 date_updated: '2023-06-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

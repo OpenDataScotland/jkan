@@ -1,6 +1,7 @@
 ---
 category:
 - Housing and Estates
+- Law and Licensing
 date_created: ''
 date_updated: '2023-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

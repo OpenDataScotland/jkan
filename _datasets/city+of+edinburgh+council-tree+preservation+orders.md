@@ -1,6 +1,8 @@
 ---
 category:
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 - Sport and Leisure
 date_created: '2022-06-20'
 date_updated: '2023-05-15'

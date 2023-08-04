@@ -1,7 +1,9 @@
 ---
 category:
 - Budget / Finance
+- Council and Government
 - Education
+- Food and Environment
 - Health and Social Care
 date_created: ''
 date_updated: '2023-01-26'

@@ -4,7 +4,6 @@ category:
 - Elections / Politics
 - Food and Environment
 - Housing and Estates
-- Parks / Recreation
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'

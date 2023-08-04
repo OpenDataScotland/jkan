@@ -4,6 +4,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 - Public Safety
+- Sport and Leisure
 date_created: '2021-01-13'
 date_updated: '2023-01-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -2,6 +2,7 @@
 category:
 - Elections / Politics
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
 - Sport and Leisure
 - Transportation

@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2022-03-31'
-date_updated: '2023-07-20'
+date_updated: '2023-08-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>boundaries political - stirling polling districts (2022)</p>

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2023-06-21'
+date_updated: '2023-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items prescribed and subsequently dispensed

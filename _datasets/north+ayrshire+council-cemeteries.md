@@ -2,6 +2,7 @@
 category:
 - Arts / Culture / History
 - Council and Government
+- Food and Environment
 - Housing and Estates
 - Parks / Recreation
 - Planning and Development

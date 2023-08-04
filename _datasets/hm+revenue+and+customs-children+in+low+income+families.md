@@ -1,5 +1,6 @@
 ---
 category:
+- Budget / Finance
 - Business and Economy
 date_created: ''
 date_updated: '2023-04-04'

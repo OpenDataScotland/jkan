@@ -3,6 +3,8 @@ category:
 - Budget / Finance
 - Council and Government
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 date_created: '2019-11-20'
 date_updated: '2023-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

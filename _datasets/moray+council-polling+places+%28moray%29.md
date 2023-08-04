@@ -2,6 +2,7 @@
 category:
 - Council and Government
 - Elections / Politics
+- Housing and Estates
 - Planning and Development
 - Transportation
 date_created: '2017-04-10'

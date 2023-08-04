@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2023-05-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

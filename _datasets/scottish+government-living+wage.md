@@ -1,5 +1,6 @@
 ---
 category:
+- Budget / Finance
 - Elections / Politics
 date_created: ''
 date_updated: '2022-02-01'

@@ -1,6 +1,7 @@
 ---
 category:
 - Arts / Culture / History
+- Budget / Finance
 - Business and Economy
 - Council and Government
 - Elections / Politics

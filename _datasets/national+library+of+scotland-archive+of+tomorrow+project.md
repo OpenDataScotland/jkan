@@ -1,6 +1,7 @@
 ---
 category:
 - Health and Social Care
+- Sport and Leisure
 date_created: '2023-01-01'
 date_updated: ''
 license: 'Custom licence: []'

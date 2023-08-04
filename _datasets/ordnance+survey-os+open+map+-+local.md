@@ -1,6 +1,5 @@
 ---
 category:
-- Education
 - Health and Social Care
 - Housing and Estates
 - Planning and Development

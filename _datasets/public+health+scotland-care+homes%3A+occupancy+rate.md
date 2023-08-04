@@ -1,6 +1,5 @@
 ---
 category:
-- Health and Social Care
 - Sport and Leisure
 date_created: ''
 date_updated: '2021-09-03'

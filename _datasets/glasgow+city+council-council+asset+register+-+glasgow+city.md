@@ -2,7 +2,6 @@
 category:
 - Arts / Culture / History
 - Council and Government
-- Planning and Development
 date_created: '2017-01-27'
 date_updated: '2023-04-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

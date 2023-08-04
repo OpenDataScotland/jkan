@@ -1,6 +1,7 @@
 ---
 category:
-- Uncategorised
+- Housing and Estates
+- Planning and Development
 date_created: ''
 date_updated: ''
 license: 'Custom licence: []'

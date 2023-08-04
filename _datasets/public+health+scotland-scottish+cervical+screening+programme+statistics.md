@@ -3,6 +3,7 @@ category:
 - Budget / Finance
 - Business and Economy
 - Health and Social Care
+- Sport and Leisure
 date_created: '2020-05-28'
 date_updated: '2023-05-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,6 +1,8 @@
 ---
 category:
 - Elections / Politics
+- Housing and Estates
+- Planning and Development
 - Transportation
 date_created: '2022-02-28'
 date_updated: '2022-11-22'

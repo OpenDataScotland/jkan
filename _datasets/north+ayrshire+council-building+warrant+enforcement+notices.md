@@ -1,7 +1,9 @@
 ---
 category:
 - Elections / Politics
+- Housing and Estates
 - Law and Licensing
+- Planning and Development
 date_created: '2017-07-02'
 date_updated: '2017-08-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

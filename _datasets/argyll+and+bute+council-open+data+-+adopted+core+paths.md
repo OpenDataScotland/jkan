@@ -3,7 +3,9 @@ category:
 - Council and Government
 - Elections / Politics
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 - Transportation
 date_created: '2017-07-07'
 date_updated: '2017-07-18'

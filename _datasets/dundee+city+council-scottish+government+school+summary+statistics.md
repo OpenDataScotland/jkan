@@ -3,6 +3,7 @@ category:
 - Budget / Finance
 - Council and Government
 - Education
+- Food and Environment
 - Planning and Development
 date_created: '2018-04-24'
 date_updated: '2023-07-11'

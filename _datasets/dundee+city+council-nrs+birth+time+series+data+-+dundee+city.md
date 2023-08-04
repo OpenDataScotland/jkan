@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Health and Social Care
 date_created: '2019-01-31'
 date_updated: '2022-07-12'

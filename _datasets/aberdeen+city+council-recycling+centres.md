@@ -3,6 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Planning and Development
 - Transportation
 date_created: '2020-04-13'
 date_updated: '2022-07-19'

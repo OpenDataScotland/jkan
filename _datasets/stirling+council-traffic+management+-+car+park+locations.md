@@ -1,6 +1,8 @@
 ---
 category:
 - Council and Government
+- Parks / Recreation
+- Sport and Leisure
 - Transportation
 date_created: '2022-04-24'
 date_updated: '2023-04-02'

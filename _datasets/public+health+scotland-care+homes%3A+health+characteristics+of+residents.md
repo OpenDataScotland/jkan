@@ -1,7 +1,6 @@
 ---
 category:
 - Health and Social Care
-- Sport and Leisure
 date_created: ''
 date_updated: '2021-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -3,6 +3,8 @@ category:
 - Council and Government
 - Food and Environment
 - Housing and Estates
+- Parks / Recreation
+- Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2023-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

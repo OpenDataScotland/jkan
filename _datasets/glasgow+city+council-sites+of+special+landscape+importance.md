@@ -1,8 +1,6 @@
 ---
 category:
 - Food and Environment
-- Parks / Recreation
-- Sport and Leisure
 date_created: '2023-04-19'
 date_updated: '2023-04-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

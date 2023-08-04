@@ -1,5 +1,6 @@
 ---
 category:
+- Arts / Culture / History
 - Council and Government
 - Law and Licensing
 - Planning and Development

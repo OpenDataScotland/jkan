@@ -1,6 +1,5 @@
 ---
 category:
-- Council and Government
 - Food and Environment
 - Parks / Recreation
 - Planning and Development

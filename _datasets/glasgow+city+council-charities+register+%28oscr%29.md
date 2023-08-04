@@ -2,7 +2,7 @@
 category:
 - Budget / Finance
 - Business and Economy
-- Education
+- Council and Government
 - Sport and Leisure
 date_created: '2022-03-10'
 date_updated: '2022-05-31'

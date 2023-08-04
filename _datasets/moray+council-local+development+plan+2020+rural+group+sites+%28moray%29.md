@@ -3,6 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 - Planning and Development
+- Sport and Leisure
 - Transportation
 date_created: '2020-07-23'
 date_updated: '2023-06-20'

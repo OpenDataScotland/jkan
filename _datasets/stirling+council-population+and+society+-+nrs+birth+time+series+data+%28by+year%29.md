@@ -1,11 +1,11 @@
 ---
 category:
-- Arts / Culture / History
 - Business and Economy
 - Council and Government
 - Elections / Politics
 - Health and Social Care
 - Planning and Development
+- Sport and Leisure
 date_created: '2023-03-28'
 date_updated: '2023-03-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

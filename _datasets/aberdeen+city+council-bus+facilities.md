@@ -1,5 +1,7 @@
 ---
 category:
+- Parks / Recreation
+- Sport and Leisure
 - Transportation
 date_created: '2020-01-31'
 date_updated: '2022-02-03'

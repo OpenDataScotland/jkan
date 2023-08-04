@@ -2,7 +2,6 @@
 category:
 - Council and Government
 - Elections / Politics
-- Sport and Leisure
 date_created: '2023-04-05'
 date_updated: '2023-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

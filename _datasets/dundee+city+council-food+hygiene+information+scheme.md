@@ -1,6 +1,5 @@
 ---
 category:
-- Business and Economy
 - Council and Government
 - Food and Environment
 - Tourism

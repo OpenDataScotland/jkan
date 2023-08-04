@@ -4,6 +4,7 @@ category:
 - Elections / Politics
 - Law and Licensing
 - Planning and Development
+- Sport and Leisure
 - Transportation
 date_created: '2023-03-27'
 date_updated: '2023-03-27'

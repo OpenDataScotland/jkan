@@ -4,11 +4,10 @@ category:
 - Elections / Politics
 - Food and Environment
 - Housing and Estates
-- Parks / Recreation
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2023-06-14'
+date_updated: '2023-08-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)

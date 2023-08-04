@@ -3,6 +3,7 @@ category:
 - Council and Government
 - Education
 - Elections / Politics
+- Housing and Estates
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'

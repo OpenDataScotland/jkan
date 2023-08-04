@@ -1,6 +1,5 @@
 ---
 category:
-- Arts / Culture / History
 - Housing and Estates
 - Parks / Recreation
 - Planning and Development

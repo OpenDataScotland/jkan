@@ -7,8 +7,8 @@ category:
 - Housing and Estates
 - Planning and Development
 - Public Safety
-date_created: '2023-03-22'
-date_updated: '2023-03-23'
+date_created: '2023-03-30'
+date_updated: '2023-04-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-position:initial;\
@@ -35,21 +35,12 @@ notes: "<p style='margin:0cm 0cm 7.5pt; background-image:initial; background-pos
   \ 68, 68);'>Visit Stirling Council\u2019s website for more details on Freedom of\
   \ Information.</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/democracy%20-%20freedom%20of%20information%20scotland%20act%20(notices%20and%20orders%20october%20-%20december%202021)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/documents/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-october-december-2021-1
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders october
   - december 2021)

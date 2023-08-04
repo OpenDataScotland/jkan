@@ -1,5 +1,6 @@
 ---
 category:
+- Arts / Culture / History
 - Tourism
 date_created: ''
 date_updated: '2021-01-19'

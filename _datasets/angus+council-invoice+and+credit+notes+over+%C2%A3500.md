@@ -1,5 +1,6 @@
 ---
 category:
+- Budget / Finance
 - Business and Economy
 - Council and Government
 - Health and Social Care

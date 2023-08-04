@@ -1,7 +1,8 @@
 ---
 category:
 - Arts / Culture / History
-- Planning and Development
+- Food and Environment
+- Health and Social Care
 - Public Safety
 date_created: '2018-07-23'
 date_updated: '2023-03-21'

@@ -12,9 +12,6 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/14227968-8ed5-4caf-a5cb-2dbc3539100f
 records: null
 resources:
-- format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/7/urql
 - format: CSV
   name: National Monitoring Framework - Automatic cycling counter locations - Cycling
     Scotland.csv
@@ -23,6 +20,9 @@ resources:
   name: National Monitoring Framework - Automatic cycling counter locations - Cycling
     Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=38d63877-40f3-462d-92b7-91685f20c22d
+- format: JSON
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/7/urql
 schema: default
 title: National Monitoring Framework - Automatic cycling counter locations - Cycling
   Scotland

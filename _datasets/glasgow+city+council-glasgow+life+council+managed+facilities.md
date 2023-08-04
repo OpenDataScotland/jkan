@@ -1,10 +1,8 @@
 ---
 category:
-- Arts / Culture / History
 - Council and Government
 - Housing and Estates
 - Parks / Recreation
-- Planning and Development
 - Sport and Leisure
 date_created: '2021-08-12'
 date_updated: '2022-05-31'

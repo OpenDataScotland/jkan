@@ -1,7 +1,6 @@
 ---
 category:
 - Arts / Culture / History
-- Business and Economy
 - Council and Government
 - Elections / Politics
 - Health and Social Care

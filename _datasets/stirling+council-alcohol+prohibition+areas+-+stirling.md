@@ -2,6 +2,7 @@
 category:
 - Elections / Politics
 - Health and Social Care
+- Law and Licensing
 date_created: '2017-01-27'
 date_updated: '2023-04-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -3,6 +3,7 @@ category:
 - Food and Environment
 - Law and Licensing
 - Planning and Development
+- Sport and Leisure
 date_created: '2021-04-01'
 date_updated: '2023-06-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
