@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2017-06-15'
-date_updated: '2023-06-02'
+date_updated: '2017-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of surveys of severity of Invasive Species. Reporting on Hogweed,

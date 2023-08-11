@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-08-01'
+date_updated: '2023-08-09'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Building Standards Register is maintained by local authorities under\

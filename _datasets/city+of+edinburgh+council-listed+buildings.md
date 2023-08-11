@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2022-04-26'
-date_updated: '2023-08-04'
+date_updated: '2023-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p>The Listed Building Dataset comprises the statutory addresses and supplementary

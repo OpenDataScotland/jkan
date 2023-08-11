@@ -7,17 +7,19 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-04-22'
-date_updated: '2023-08-03'
+date_updated: '2023-08-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p>This dataset provides information on number of new daily confirmed cases,
-  negative cases, deaths, testing by NHS Labs (Pillar 1) and UK Government (Pillar
-  2), new hospital admissions, new ICU admissions, hospital and ICU bed occupancy
-  from novel coronavirus (COVID-19) in Scotland, including cumulative totals and population
-  rates at Scotland, NHS Board and Council Area levels (where possible). Seven day
-  positive cases and population rates are also presented by Neighbourhood Area (Intermediate
-  Zone 2011). Information on how PHS publish small are COVID figures is available
-  on the\u202f<a href="https://publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-data-and-intelligence/covid-19-daily-cases-in-scotland-dashboard/how-we-publish-small-area-covid-figures/">PHS
+notes: '<p>Please note, due to data flow issues within the COVID testing IT infrastructure,
+  impacting the COVID-19 PCR and LFD tests, cases and hospital admissions, there is
+  no updated data available this week (8/8/2023).\r\n\r\nThis dataset provides information
+  on number of new daily confirmed cases, negative cases, deaths, testing by NHS Labs
+  (Pillar 1) and UK Government (Pillar 2), new hospital admissions, new ICU admissions,
+  hospital and ICU bed occupancy from novel coronavirus (COVID-19) in Scotland, including
+  cumulative totals and population rates at Scotland, NHS Board and Council Area levels
+  (where possible). Seven day positive cases and population rates are also presented
+  by Neighbourhood Area (Intermediate Zone 2011). Information on how PHS publish small
+  are COVID figures is available on the\u202f<a href="https://publichealthscotland.scot/our-areas-of-work/covid-19/covid-19-data-and-intelligence/covid-19-daily-cases-in-scotland-dashboard/how-we-publish-small-area-covid-figures/">PHS
   website</a>. \r\n\r\nInformation on demographic characteristics (age, sex, deprivation)
   of confirmed novel coronavirus (COVID-19) cases, as well as trend data regarding
   the wider impact of the virus on the healthcare system is provided in this publication.

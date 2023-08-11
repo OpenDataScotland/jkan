@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2017-05-25'
-date_updated: '2023-04-01'
+date_updated: '2022-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of electoral polling places (2021) within North Ayrshire</p>

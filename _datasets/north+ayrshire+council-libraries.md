@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2017-05-25'
-date_updated: '2023-06-22'
+date_updated: '2017-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of libraries within North Ayrshire</p>

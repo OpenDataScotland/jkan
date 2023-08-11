@@ -9,7 +9,7 @@ category:
 date_created: '2017-02-03'
 date_updated: '2023-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Loch Lomond and The Trossachs National Park
+maintainer: Cairngorms National Park Authority
 notes: '<p>Every local authority and National Park authority (access authorities)
   in Scotland is required to draw up a plan for a system of paths (core paths) sufficient
   for the purpose of giving the public reasonable access throughout their area. </p>
@@ -26,13 +26,13 @@ notes: '<p>Every local authority and National Park authority (access authorities
   know what physical type of route they can expect. Government guidance is making
   core paths the priority for rolling out this national standardised grading system
   information, which is set out at http://www.pathsforall.org.uk/pfa/creating-paths/path-grading-system.html                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </p>'
-organization: Loch Lomond and The Trossachs National Park
-original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-ll'
+organization: Cairngorms National Park Authority
+original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-ca'
 records: null
 resources:
 - format: ZIP
-  name: Core paths
-  url: https://data.spatialhub.scot/dataset/c3b09146-f220-4765-a335-c9a791051e47/resource/52873ea3-7189-4a22-af07-94c4bc7f4125/download/20110601-lltnp-deposited-core-paths-25k.zip
+  name: Core Paths
+  url: https://data.spatialhub.scot/dataset/7a25f9b5-20df-4ac7-a028-fbf5952b4624/resource/6a1338dc-1507-4196-89b8-460864f27216/download/20220414-cnp-core-paths-data-supply.zip
 schema: default
-title: Paths And Core Paths - Loch Lomond and The Trossachs National Park
+title: Paths And Core Paths - Cairngorms National Park
 ---

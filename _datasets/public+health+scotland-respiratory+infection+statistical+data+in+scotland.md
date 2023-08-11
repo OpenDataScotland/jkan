@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Sport and Leisure
 date_created: '2022-11-10'
-date_updated: '2023-08-03'
+date_updated: '2023-08-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset provides information on number of new weekly confirmed cases

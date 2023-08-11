@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2021-04-08'
-date_updated: '2021-04-23'
+date_updated: '2023-08-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"-  All organisations listed provide bike repair services  -    All organisations

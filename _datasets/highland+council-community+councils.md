@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-05-15'
-date_updated: '2023-04-12'
+date_updated: '2023-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<div><span style=''font-size:medium;''>Community Councils in The Highland

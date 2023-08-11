@@ -6,7 +6,7 @@ category:
 date_created: '2023-06-22'
 date_updated: '2023-06-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Drinking Water Quality Regulator (DWQR)
+maintainer: Drinking Water Quality Regulator
 notes: '<p>The Water Intended for Human Consumption (Private Supplies) (Scotland)
   Regulations 2017 came into force in October 2017, and are regulated and enforced
   by Local Authorities.</p>
@@ -30,7 +30,7 @@ notes: '<p>The Water Intended for Human Consumption (Private Supplies) (Scotland
   data has been provided to the DWQR. You are strongly advised to contact the Local
   Authorities themselves to get accurate and complete Private Water Supply System
   location data, if this information is to be used for any further decision making.</p>'
-organization: Drinking Water Quality Regulator (DWQR)
+organization: Drinking Water Quality Regulator
 original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supply_sources-dwqr'
 records: null
 resources:

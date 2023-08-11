@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2023-07-24'
+date_updated: '2023-08-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Many local authorities capture details of the cycle network within their
