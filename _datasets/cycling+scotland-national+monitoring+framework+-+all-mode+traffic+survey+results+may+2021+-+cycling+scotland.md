@@ -15,9 +15,8 @@ resources:
     Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eafbe615-dba0-4a67-a711-5b966bf72fde
 - format: CSV
-  name: National Monitoring Framework - all-mode traffic survey results May 2021 -
-    Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=764a63a7-fb84-424b-a957-eb0f6008630c
+  name: NMF_TS_May_2021.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=998a13e0-eb62-4b78-9bb2-a4394d0e23b6
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results May 2021 -
     Cycling Scotland.xml

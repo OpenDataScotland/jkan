@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Parks / Recreation
 date_created: '2023-04-18'
-date_updated: '2023-04-18'
+date_updated: '2023-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>This data set is published and available directly from Stirling Council's\

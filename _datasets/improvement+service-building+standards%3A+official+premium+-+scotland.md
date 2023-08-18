@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-06-14'
-date_updated: '2023-08-10'
+date_updated: '2023-08-15'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: '<p>This new building standards data has been created using a custom built

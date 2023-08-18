@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-09-25'
-date_updated: '2023-08-11'
+date_updated: '2023-08-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within The Highland
