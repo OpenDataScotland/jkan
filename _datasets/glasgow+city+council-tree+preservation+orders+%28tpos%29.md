@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2023-06-15'
-date_updated: '2023-08-16'
+date_updated: '2023-08-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Location of Tree Preservation Orders</p>
