@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2023-08-09'
-date_updated: '2023-08-17'
+date_updated: '2023-08-29'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This planning applications dataset has been created to "in-fill" the missing
@@ -10,7 +10,7 @@ notes: <p>This planning applications dataset has been created to "in-fill" the m
   Framework' which enables the automated collection of data from local data systems
   on a weekly basis. It uses publicly available data from the Planning Authorities
   IDOX Public Access website.  This is a polygon dataset  This datasets ONLY contains
-  data for Edinburgh, East Lothian, Scottish Borders &amp; West Lothian</p>
+  data for East Lothian, Scottish Borders &amp; West Lothian</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications_unofficial-is'
 records: null

@@ -2,15 +2,14 @@
 category:
 - Budget / Finance
 - Council and Government
-- Elections / Politics
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-07-05'
+date_updated: '2023-08-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
-notes: <p>This dataset is an amalgamation of licenced SEPA, Scottish Water &amp; some
-  Local Authority Septic Tanks in Scotland.  Under section 79 of the Environmental
+notes: <p>This dataset is an amalgamation of licenced SEPA, Scottish Water, Assessors
+  and some Local Authorities Septic Tanks in Scotland.  Under section 79 of the Environmental
   Protection Act 1990 and Under part 6, section 37 of the Water Resources (Scotland)
   Act 2013 SEPA, Scottish Water and Local Authorities all have a responsibility for
   the registration, management and compliance of Septic Tanks within Scotland. The
