@@ -4,7 +4,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2016-12-07'
-date_updated: '2017-01-12'
+date_updated: '2023-09-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Tells people about public notices that are published by Angus Council, eg,

@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2020-02-13'
-date_updated: '2020-02-13'
+date_updated: '2023-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Tree Preservation Orders within North Ayrshire as set out

@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-12-11'
-date_updated: '2023-04-12'
+date_updated: '2023-09-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>These Strategies are a requirement that has now been added into Town and\
@@ -25,7 +25,7 @@ records: null
 resources:
 - format: REST
   name: Forest and Woodland Strategy - Stirling and Clacks
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/forest_and_woodland_strategy/FeatureServer/3/query?outFields=*&where=1%3D1
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/forestry_and_woodland_strategy_areas_stirling_clacks/FeatureServer/2/query?outFields=*&where=1%3D1
 schema: default
 title: Forestry And Woodland Strategy - Stirling
 ---

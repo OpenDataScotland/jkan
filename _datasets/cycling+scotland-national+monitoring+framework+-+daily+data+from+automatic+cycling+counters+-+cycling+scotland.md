@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-03-24'
-date_updated: '2023-09-01'
+date_updated: '2023-09-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This data set is a real-time daily upload from each cycling counter across

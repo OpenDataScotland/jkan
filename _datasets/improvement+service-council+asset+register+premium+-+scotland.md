@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2023-06-14'
-date_updated: '2023-06-15'
+date_updated: '2023-09-01'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This dataset is an amalgamation of all Scottish Council Asset Registers
