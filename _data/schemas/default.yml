@@ -96,6 +96,7 @@ organization_fields:
     form_template: form/dropdown.html
     values:
       - CKAN
+      - DKAN
       - JKAN
       - USMART
       - ArcGIS
