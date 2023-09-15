@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2020-04-02'
-date_updated: '2022-09-20'
+date_updated: '2023-09-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset gives an annual update on the proportion of women of reproductive
@@ -25,9 +25,6 @@ resources:
 - format: CSV
   name: LARC By Health Board
   url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/b351cf55-fdd4-424e-a413-956612756e84/download/larc_by_hb_2022.csv
-- format: CSV
-  name: LARC By Deprivation
-  url: https://www.opendata.nhs.scot/dataset/d7a60977-e127-4817-8669-69458d14ab4b/resource/bec034bb-d3c4-41dc-9449-436780d3f71f/download/larc_by_deprivation_2022.csv
 schema: default
 title: Long Acting Reversible Methods of Contraception (LARC) in Scotland
 ---

@@ -54,10 +54,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20-%20licensed%20vehicles%20profile%20(dft%20dvla)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-vehicles-profile-dft-dvla.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-vehicles-profile-dft-dvla.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-vehicles-profile-dft-dvla.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-vehicles-profile-dft-dvla.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Transportation - licensed vehicles profile (dft dvla)
 ---

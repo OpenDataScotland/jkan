@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-04-11'
-date_updated: '2023-08-29'
+date_updated: '2023-09-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>This new planning applications data has been created using a custom built\

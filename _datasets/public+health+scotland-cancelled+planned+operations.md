@@ -2,17 +2,11 @@
 category:
 - Health and Social Care
 date_created: '2019-04-02'
-date_updated: '2023-09-05'
+date_updated: '2023-09-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This dataset reports key statistics on the number of planned operations,
-  the number cancelled and the reason for cancellations at Hospitals across Scotland.
-  \r\n\r\nFurther information on cancelled operations across Scotland can be found
-  in the <a href="https://publichealthscotland.scot/publications/cancelled-planned-operations/">publication
-  summary</a>. All publications and supporting material to this topic area can be
-  found on the <a href="https://www.isdscotland.org/Health-Topics/Waiting-Times/Cancelled-Planned-Procedures/">ISD
-  Scotland Website</a>. A selection of information from this publication is included
-  in <a href="http://www.nhsperforms.scot/">NHS Performs</a>.</p>
+notes: <p>The data presented includes number of planned operations, number of cancelled
+  operations, and the reason for cancellation by NHS Board and Hospital.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/cancelled-planned-operations
 records: null

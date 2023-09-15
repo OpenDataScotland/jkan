@@ -57,10 +57,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scottish%20index%20of%20multiple%20deprivation%20(no%20geometry%20stirling)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-no-geometry-stirling.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Population and society - scottish index of multiple deprivation (no geometry
   stirling)

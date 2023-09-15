@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2023-09-07'
+date_updated: '2023-09-14'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The Scottish Stillbirth and Infant Death Survey (SSBIDS) collects additional

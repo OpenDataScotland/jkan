@@ -27,16 +27,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/FlareZones_simplify10m/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Flare Zones (simplify10m)
 ---

@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2023-08-09'
-date_updated: '2023-08-29'
+date_updated: '2023-09-12'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>This planning applications dataset has been created to "in-fill" the missing

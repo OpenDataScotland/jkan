@@ -53,16 +53,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20cycle%20and%20pedestrian%20counter%20data%20(all%20year%20summary)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-all-year-summary.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Transport infrastructure - cycle and pedestrian counter data (all year summary)
 ---

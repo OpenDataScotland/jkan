@@ -53,10 +53,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20cycle%20and%20pedestrian%20counter%20data%202022%20(all)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-2022-all.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-2022-all.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-2022-all.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-2022-all.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Transport infrastructure - cycle and pedestrian counter data 2022 (all)
 ---
