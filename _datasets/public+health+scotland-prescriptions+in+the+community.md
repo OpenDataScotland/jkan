@@ -3,20 +3,20 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2023-08-17'
+date_updated: '2023-09-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>Please note that the release of May data has been delayed to 26
-  September. The data for June is also delayed and will be released at a later date
-  to be confirmed.</strong> This is because NHS Scotland has introduced a new dispensing
-  contractor payment process and system, and extra time is required to manage the
-  changeover. The new system provides improved automation and the flexibility to adapt
-  to a paperless prescribing future. It also supplies drug reference information in
-  NHS dictionary of medicines and devices (dm+d) format, which will help ensure interoperability
-  with other medicine datasets and facilitate linkage.\r\n\r\nThis dataset contains
-  details of items dispensed in the community at prescribing location code level for
-  General Practice data and aggregated by NHS Board for other prescriber location
-  types. Items are described at British National Formulary (BNF) item description
+notes: <p><strong>Please note that the release of May data has been delayed to 10
+  October. The data for June is also delayed and will be released at a later date
+  to be confirmed.</strong> \r\n\r\nThis is because NHS Scotland has introduced a
+  new dispensing contractor payment process and system, and extra time is required
+  to manage the changeover. The new system provides improved automation and the flexibility
+  to adapt to a paperless prescribing future. It also supplies drug reference information
+  in NHS dictionary of medicines and devices (dm+d) format, which will help ensure
+  interoperability with other medicine datasets and facilitate linkage.\r\n\r\nThis
+  dataset contains details of items dispensed in the community at prescribing location
+  code level for General Practice data and aggregated by NHS Board for other prescriber
+  location types. Items are described at British National Formulary (BNF) item description
   level.\r\n\r\nAll publications and supporting material to this topic area can be
   found on the <a href="http://www.isdscotland.org/Health-topics/Prescribing-and-medicines/">Public
   Health Scotland - Prescribing and Medicines Website</a>. The date of the next release

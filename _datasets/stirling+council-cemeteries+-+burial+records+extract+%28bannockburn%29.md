@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Sport and Leisure
 date_created: '2023-03-12'
-date_updated: '2023-08-16'
+date_updated: '2023-09-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>Extract of electronic burial records for <b>Bannockburn Cemetery</b>\
