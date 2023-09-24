@@ -149,7 +149,7 @@ layout: default
         var csv_file = csv_files[i];
         var tab = createTab(csv_file.name, i === 0);
 
-        csvToOutput(csv_file.url, tab);
+        csvToOutput("https://cors-proxy.opendatascotland.workers.dev/" + csv_file.url, tab);
 
       }
     }
