@@ -1,9 +1,9 @@
 ---
 category:
-- Health and Social Care
-date_created: '2019-08-23'
+- Sport and Leisure
+date_created: ''
 date_updated: '2021-09-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The number and percentage of long stay residents by age and sex, for different
   main client groups</p>

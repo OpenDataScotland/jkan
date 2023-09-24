@@ -3,7 +3,7 @@ category:
 - Tourism
 date_created: '2019-07-19'
 date_updated: '2019-07-23'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: <p>Locations of hotels in Renfrewshire, with information on number of rooms,
   grade and website links.</p>

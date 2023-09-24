@@ -1,6 +1,7 @@
 ---
 category:
-- Council and Government
+- Food and Environment
+- Housing and Estates
 - Planning and Development
 date_created: '2018-12-19'
 date_updated: '2020-11-30'

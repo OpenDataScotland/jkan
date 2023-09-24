@@ -1,9 +1,10 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-08-23'
+- Sport and Leisure
+date_created: ''
 date_updated: '2021-09-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The weekly charges and sources of funding for long stay care home residents,
   with and without nursing care. All data is for care homes whose main client group

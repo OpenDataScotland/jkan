@@ -1,8 +1,9 @@
 ---
 category:
-- Transportation
+- Council and Government
+- Planning and Development
 date_created: ''
-date_updated: '2019-12-09'
+date_updated: '2019-09-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: ''

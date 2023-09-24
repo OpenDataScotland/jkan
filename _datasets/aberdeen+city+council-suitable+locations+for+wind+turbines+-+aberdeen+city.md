@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2022-10-27'
+date_updated: '2023-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <p>All local authorities must create a spatial framework assessment of land

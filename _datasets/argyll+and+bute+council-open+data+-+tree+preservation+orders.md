@@ -1,13 +1,12 @@
 ---
 category:
-- Arts / Culture / History
+- Council and Government
 - Food and Environment
-- Housing and Estates
-- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Tree Preservation Orders (TPO) are served by the council to protect individual
   and groups of trees which are considered of sufficient merit to warrant formal protection

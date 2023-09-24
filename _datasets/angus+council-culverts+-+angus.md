@@ -1,5 +1,8 @@
 ---
 category:
+- Elections / Politics
+- Food and Environment
+- Planning and Development
 - Transportation
 date_created: '2017-11-08'
 date_updated: '2022-10-27'

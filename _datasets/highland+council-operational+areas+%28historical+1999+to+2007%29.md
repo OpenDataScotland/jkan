@@ -1,10 +1,9 @@
 ---
 category:
-- Council and Government
-- Planning and Development
-date_created: ''
-date_updated: '2015-09-18'
-license: No licence
+- Uncategorised
+date_created: '2015-09-18'
+date_updated: '2022-01-13'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>The 8 historical\_Operational Areas from 1999-2007 - ie. Caithness, Sutherland,\
   \ Ross &amp; Cromarty, Skye &amp; Lochalsh, Inverness, Nairn, Lochaber, Badenoch\
@@ -16,21 +15,24 @@ organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/65ebc11167ff4772801b874fc8da6fe5_0
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://map-highland.opendata.arcgis.com/maps/65ebc11167ff4772801b874fc8da6fe5_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/OperationalAreas_8old/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: ZIP
+  name: Shapefile
+  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ZIP
-  name: ZIP
-  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Operational Areas (historical 1999 to 2007)
 ---

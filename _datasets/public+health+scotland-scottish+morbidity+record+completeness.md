@@ -2,13 +2,12 @@
 category:
 - Health and Social Care
 date_created: '2019-05-29'
-date_updated: '2022-10-24'
+date_updated: '2023-08-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Estimates of completeness of outpatient, acute, maternity, mental health
   and geriatric long stay SMR records received from boards and Health Care providers
-  in recent years.\r\n\r\nMore to this topic are can be found on the <a href="https://www.isdscotland.org/products-and-Services/Data-Support-and-Monitoring/SMR-Completeness/">ISD
-  Scotland website</a>.</p>
+  in recent years.\r\n\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-morbidity-record-completeness
 records: null

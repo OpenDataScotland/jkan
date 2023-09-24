@@ -1,9 +1,9 @@
 ---
 category:
-- Health and Social Care
-date_created: '2018-02-14'
-date_updated: '2022-09-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Food and Environment
+date_created: ''
+date_updated: '2022-11-10'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Area of land in community ownership (hectares)</p>
 organization: Scottish Government

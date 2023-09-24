@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2022-11-02'
+date_updated: '2023-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Scotland North East Trunk Roads - Daily cycling counts from automatic cycling
-  counters"</p>
+notes: <p>"A real-time daily upload from each cycling counter within the Scotland
+  North East Trunk Roads network"</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/05b83b02-7d57-4b2f-a8ad-209ba1a15ad9
 records: null

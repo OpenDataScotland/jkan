@@ -9,5 +9,5 @@ portal_url: ''
 org_url: http://www.courtofthelordlyon.scot/
 twitter_handle: LyonCourt
 wikidata_org_qid: Q1137768
-wdtk_id: 
+wdtk_id: court_of_the_lord_lyon
 ---

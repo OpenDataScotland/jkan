@@ -1,7 +1,6 @@
 ---
 category:
-- Business and Economy
-- Elections / Politics
+- Council and Government
 - Transportation
 date_created: '2016-11-30'
 date_updated: '2016-11-30'

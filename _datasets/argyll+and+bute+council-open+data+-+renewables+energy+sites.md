@@ -1,9 +1,11 @@
 ---
 category:
 - Food and Environment
+- Housing and Estates
+- Planning and Development
 date_created: '2017-07-07'
-date_updated: '2021-08-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_updated: '2023-04-01'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>All\_renewable energy developments in Argyll and Bute, by type (e.g. windfarms,\
   \ hydro-electric, tidal, biomass, solar, etc.), scale, status\_and for a specific\

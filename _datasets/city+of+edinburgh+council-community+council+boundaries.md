@@ -1,10 +1,11 @@
 ---
 category:
+- Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2021-05-25'
-license: No licence
+date_created: '2021-05-25'
+date_updated: '2023-04-01'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,
   &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;,
@@ -17,21 +18,24 @@ organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/53f1fdbc9e344778984441681f1c5bd4_25
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/53f1fdbc9e344778984441681f1c5bd4_25
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/25
-- format: GEOJSON
-  name: GEOJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/53f1fdbc9e344778984441681f1c5bd4_25.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Community Council Boundaries
 ---

@@ -1,10 +1,11 @@
 ---
 category:
-- Housing and Estates
+- Council and Government
+- Elections / Politics
 - Planning and Development
-date_created: '2017-07-07'
+date_created: ''
 date_updated: '2022-08-17'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>The average number of people per household in each council area and in Scotland</p>
 organization: National Records of Scotland

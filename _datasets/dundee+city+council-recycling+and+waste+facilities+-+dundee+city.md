@@ -1,8 +1,9 @@
 ---
 category:
+- Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2022-10-27'
+date_updated: '2023-07-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -22,6 +23,12 @@ resources:
 - format: WFS
   name: Recycling point locations
   url: http://inspire.dundeecity.gov.uk/geoserver/opendata/wfs?service=WFS&version=1.1.0&request=getCapabilities
+- format: REST
+  name: Recycling Points
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/recycling_facilities/FeatureServer/0
+- format: REST
+  name: Neighbourhood Recycling Points
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/recycling_facilities/FeatureServer/1
 schema: default
 title: Recycling And Waste Facilities - Dundee City
 ---

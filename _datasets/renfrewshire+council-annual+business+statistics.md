@@ -1,11 +1,12 @@
 ---
 category:
 - Business and Economy
+- Sport and Leisure
 date_created: '2019-07-19'
-date_updated: '2019-07-24'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_updated: '2023-04-18'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
-notes: <p>Scottish Annual Business Survey 2017 (June 2019 release)- filtered for Renfrewshire.Scottish
+notes: <p>Scottish Annual Business Survey 2020 - filtered for Renfrewshire.Scottish
   Annual Business Statistics (SABS), which is largely sourced to the Annual Business
   Survey, provides data mainly on the Production (including Manufacturing), Construction
   and Service Sectors in Scotland. The main sectors not covered are the financial

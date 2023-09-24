@@ -1,9 +1,10 @@
 ---
 category:
+- Council and Government
 - Education
-date_created: '2014-07-29'
-date_updated: '2021-03-31'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-04-04'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Information from the School Pupil Census</p>
 organization: Scottish Government

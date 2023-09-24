@@ -2,9 +2,8 @@
 category:
 - Council and Government
 - Education
-- Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -67,13 +66,13 @@ resources:
   url: https://data.spatialhub.scot/dataset/fa539a45-1dff-4d25-8c43-9f86408a8761/resource/707fa02c-4ff7-45b9-9bc1-b1fcf9852ef8/download/primary_school_catchments.zip
 - format: REST
   name: Primary Catchment Areas
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Primary_School_Catchments/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/ArcGIS/rest/services/Primary_School_Catchments/FeatureServer/58/query?outFields=*&where=1%3D1
 - format: REST
   name: Academy Catchment Areas
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Academy_School_Catchments/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/ArcGIS/rest/services/Academy_School_Catchments/FeatureServer/5/query?outFields=*&where=1%3D1
 - format: REST
   name: Denominational (RC) Catchment Areas
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/RC_School_Catchments/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/ArcGIS/rest/services/RC_School_Catchments/FeatureServer/59/query?outFields=*&where=1%3D1
 schema: default
 title: School Catchments - Aberdeen City
 ---

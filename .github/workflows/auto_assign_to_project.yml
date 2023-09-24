@@ -1,0 +1,11 @@
+# NOTE: If changing this workflow, consider the impact on the same one in other repos and the global workflow in the .github repo
+name: Issue auto-assigner
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto_assign:
+    uses: opendatascotland/.github/.github/workflows/auto_assign_to_project.yml@main
+    secrets: inherit

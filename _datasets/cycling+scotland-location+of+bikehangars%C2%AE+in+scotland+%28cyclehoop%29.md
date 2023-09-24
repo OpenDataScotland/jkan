@@ -1,12 +1,12 @@
 ---
 category:
-- Transportation
+- Uncategorised
 date_created: '2022-05-19'
-date_updated: '2022-05-30'
+date_updated: '2023-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: "<p>\"This dataset contains the locations of Bikehangars\xAE in Edinburgh and\
-  \ Glasgow which are designed, installed and managed by Cyclehoop.\"</p>"
+notes: "<p>\"This dataset contains the locations of Bikehangars\xAE in Edinburgh,\
+  \ Glasgow and Dundee which are designed, installed and managed by Cyclehoop.\"</p>"
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/0b997397-27d1-4014-9698-a291a0abb003
 records: null

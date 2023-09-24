@@ -1,9 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2014-07-29'
-date_updated: '2022-02-04'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Health and Social Care
+- Planning and Development
+date_created: ''
+date_updated: '2023-01-10'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Years of Healthy Life Expectancy (including confidence intervals) by age,
   sex, deprivation, and urban rural classification</p>

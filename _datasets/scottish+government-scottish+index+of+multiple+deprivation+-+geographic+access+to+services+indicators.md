@@ -1,9 +1,10 @@
 ---
 category:
 - Business and Economy
-date_created: '2017-03-01'
+- Transportation
+date_created: ''
 date_updated: '2020-03-31'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Mean travel time (in minutes) to key services, by car or public transport.
   This dataset contains indicators  used to calculate the geographic access to services

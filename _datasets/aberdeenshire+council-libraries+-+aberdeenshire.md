@@ -1,0 +1,32 @@
+---
+category:
+- Council and Government
+- Education
+- Elections / Politics
+- Housing and Estates
+- Planning and Development
+- Sport and Leisure
+date_created: '2017-11-13'
+date_updated: '2023-07-27'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: Aberdeenshire Council
+notes: '<p>Each Local Authority should have a list of libraries within their Council
+  area. These may be static i.e. located in one building all of the time, or mobile
+  i.e. they are in vehicles that attend a set location on a specific day at a certain
+  time. This data may also be collected as part of other datasets (e.g. Council Asset
+  Register) though Local Authorities do appear to hold it as a distinct layer.</p>
+
+  <p>Further information on Libraries in Scotland (inc. non-LA libraries) is available
+  from The Scottish Library and Information Council (https://scottishlibraries.org/)</p>
+
+  <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
+organization: Aberdeenshire Council
+original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-as'
+records: null
+resources:
+- format: ZIP
+  name: Libraries (incl Mobile)
+  url: https://data.spatialhub.scot/dataset/11e87996-1e72-4110-9fc9-7e8f0bdee3b6/resource/33688c90-098d-4c60-8d82-c8652060aefe/download/libraries.zip
+schema: default
+title: Libraries - Aberdeenshire
+---

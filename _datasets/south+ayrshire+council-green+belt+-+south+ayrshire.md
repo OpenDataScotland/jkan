@@ -1,9 +1,13 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2022-10-27'
+date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -38,7 +42,7 @@ records: null
 resources:
 - format: No file type
   name: Green Belt
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Green Belt - South Ayrshire
 ---

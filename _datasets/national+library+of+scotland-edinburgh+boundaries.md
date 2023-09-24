@@ -1,6 +1,7 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Planning and Development
 date_created: ''
 date_updated: ''
 license: https://creativecommons.org/share-your-work/public-domain/cc0

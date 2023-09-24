@@ -1,9 +1,9 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
-- Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-06-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -28,7 +28,10 @@ records: null
 resources:
 - format: No file type
   name: South Ayrshire Local Landscape Designations
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: WFS
+  name: Local Landscape Areas
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Landscape Areas - South Ayrshire
 ---

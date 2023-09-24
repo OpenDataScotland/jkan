@@ -1,10 +1,9 @@
 ---
 category:
-- Council and Government
-- Planning and Development
+- Uncategorised
 date_created: '2019-09-25'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Wards 2017 (Moray) (OS Boundary Line Open Data)</p>
 organization: Moray Council

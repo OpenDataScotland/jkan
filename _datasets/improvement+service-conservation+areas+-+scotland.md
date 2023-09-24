@@ -1,10 +1,14 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
 - Planning and Development
+- Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2022-11-02'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-08-01'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
   Act 1997 a local authority may determine which parts of its area are of special

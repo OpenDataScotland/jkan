@@ -1,9 +1,10 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-01-30'
-date_updated: '2022-10-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Planning and Development
+date_created: ''
+date_updated: '2022-11-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number of VAT/PAYE registered stocks and sites operating in Scotland by
   Urban Rural Classification</p>

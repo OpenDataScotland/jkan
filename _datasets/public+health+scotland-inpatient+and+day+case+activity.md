@@ -1,11 +1,8 @@
 ---
 category:
-- Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2019-11-05'
-date_updated: '2022-06-02'
+date_updated: '2023-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a hospital
@@ -14,15 +11,7 @@ notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a h
   an elective or a transfer. A day case is when a patient makes a planned attendance
   for one day to a specialty for clinical care and requires the use of a bed (or trolley
   in lieu of a bed). Although a day case is usually completed on the same day, the
-  patient may need to be admitted as an inpatient if they are not fit to be discharged.\r\n\r\nThe
-  residence data files relate to activity by NHS board of residence. The treatment
-  data files relate to activity by NHS board of treatment.\r\n\r\nAll publications
-  and supporting material to this topic area can be found on the <a href="https://beta.isdscotland.org/topics/hospital-care/">Public
-  Health Scotland website (external website)</a>. \r\n\r\nFurther information on hospital
-  activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/acute-hospital-activity-and-nhs-beds-information-quarterly-quarter-ending-31-december-2021/data-summary/">recent
-  quarterly publication (external website)</a>.\r\n\r\nThe date of the next release
-  can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications (external website)</a>.\r\n\r\n</p>
+  patient may need to be admitted as an inpatient if they are not fit to be discharged.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity
 records: null

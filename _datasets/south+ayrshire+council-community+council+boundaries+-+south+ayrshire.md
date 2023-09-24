@@ -1,8 +1,10 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
+- Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,7 +27,7 @@ records: null
 resources:
 - format: No file type
   name: Community Councils
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Council Boundaries - South Ayrshire
 ---

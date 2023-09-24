@@ -1,10 +1,10 @@
 ---
 category:
+- Elections / Politics
 - Housing and Estates
-- Planning and Development
-date_created: '2017-09-22'
+date_created: ''
 date_updated: '2022-09-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>These figures show a snapshot figure of the number of households in Temporary
   Accommodation per local authority at 31st March each year.</p>

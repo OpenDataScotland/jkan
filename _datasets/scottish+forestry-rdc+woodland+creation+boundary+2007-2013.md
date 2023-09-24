@@ -1,9 +1,15 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
+- Business and Economy
+- Council and Government
+- Housing and Estates
+- Parks / Recreation
+- Planning and Development
+- Sport and Leisure
 date_created: '2019-10-30'
 date_updated: '2020-01-24'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>Woodland Creation formed part of the Scottish Rural Development Programme\
   \ (SRDP) 2007 - 2013. This SRDP was a programme of economic, environmental and social\

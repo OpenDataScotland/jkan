@@ -1,11 +1,13 @@
 ---
 category:
+- Budget / Finance
 - Business and Economy
 - Council and Government
 - Elections / Politics
-date_created: ''
+- Law and Licensing
+date_created: '2018-04-16'
 date_updated: '2018-04-16'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>The Local Government (Allowance and Expenses) (Scotland) Regulations 2007
   as amended, require the Council to keep a record of payments made to Members and
@@ -23,15 +25,18 @@ organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::members-allowances-and-expenses
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::members-allowances-and-expenses
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal3/MapServer/1
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::members-allowances-and-expenses.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::members-allowances-and-expenses.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::members-allowances-and-expenses.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::members-allowances-and-expenses.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Members Allowances and Expenses
 ---

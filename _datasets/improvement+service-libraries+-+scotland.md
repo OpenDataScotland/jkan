@@ -1,9 +1,14 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Education
+- Elections / Politics
+- Housing and Estates
+- Planning and Development
+- Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-06-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Each Local Authority should have a list of libraries within their Council
   area. These may be static i.e. located in one building all of the time, or mobile

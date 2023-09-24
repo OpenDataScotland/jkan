@@ -1,10 +1,9 @@
 ---
 category:
-- Housing and Estates
-- Planning and Development
-date_created: '2018-01-29'
+- Business and Economy
+date_created: ''
 date_updated: '2021-10-08'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>How households in Scotland manage financially, from the Scottish Household
   Survey (SHS)</p>

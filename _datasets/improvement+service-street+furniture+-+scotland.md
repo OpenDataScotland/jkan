@@ -1,9 +1,14 @@
 ---
 category:
+- Arts / Culture / History
+- Council and Government
+- Food and Environment
+- Housing and Estates
+- Public Safety
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-07-26'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018Maintaining\
   \ Scotland\u2019s Roads\u2019, effectively introducing a requirement on local authorities\
@@ -16,12 +21,12 @@ notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018
   \ parking bays, bus shelters, cattle grids, gates, street lighting columns, benches/seats,\
   \ information boards, dog/litter/grit bins, cycle stands, ticket machines etc. etc.\
   \  We are currently only including furniture types that have been provided by more\
-  \ than one council. These are: Grit Bins Street Lights Traffic Calming Traffic Signals\
-  \ Litter Bins Cattle Grids Weather Stations Dog Litter Bins Benches Bollards Picnic\
-  \ Tables Memorials Cycle parking Electric Vehicle Charging Points  We understand\
-  \ that some local authorities are loading this data into the VAULT system. We will\
-  \ work with the team managing that system to ensure that there is one definitive\
-  \ list in the future.</p>"
+  \ than one council. These are: Benches Bollards Cattle Grids Cycle Parking Controllers\
+  \ Dog Litter Bins Electric Vehicle Charging Points Grit Bins Litter Bins Memorials\
+  \ Picnic Tables Street Lighting Columns Traffic Calming Traffic Signals Traffis\
+  \ Signs Weather Stations  We understand that some local authorities are loading\
+  \ this data into the VAULT system. We will work with the team managing that system\
+  \ to ensure that there is one definitive list in the future.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-is'
 records: null

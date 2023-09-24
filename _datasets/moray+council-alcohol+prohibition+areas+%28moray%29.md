@@ -1,11 +1,9 @@
 ---
 category:
-- Council and Government
-- Law and Licensing
-- Planning and Development
+- Health and Social Care
 date_created: '2017-11-14'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Alcohol Prohibition Areas (Moray) in relation to Byelaws Prohibiting the
   Consumption of Alcohol in Designated Public Places.</p>

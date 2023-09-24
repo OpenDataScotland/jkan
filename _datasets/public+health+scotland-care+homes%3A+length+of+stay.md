@@ -1,9 +1,9 @@
 ---
 category:
 - Health and Social Care
-date_created: '2019-08-26'
+date_created: ''
 date_updated: '2021-09-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The percentage of long stay care home residents by length of their stay,
   as well as mean and median lengths of stay</p>

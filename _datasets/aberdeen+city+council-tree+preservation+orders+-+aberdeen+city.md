@@ -1,9 +1,14 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Law and Licensing
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -64,7 +69,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/adbb4d8e-2ae7-42e6-9ee8-b292fb1ea0d2/resource/8e24ad15-3118-47a6-b2d7-ddf92ea56511/download/tpo.zip
 - format: REST
   name: Tree Preservation Orders
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Tree_Preservation_Orders/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Tree_Preservation_Orders/FeatureServer/18/query?outFields=*&where=1%3D1
 schema: default
 title: Tree Preservation Orders - Aberdeen City
 ---

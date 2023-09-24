@@ -1,9 +1,13 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -29,7 +33,7 @@ records: null
 resources:
 - format: No file type
   name: Conservation Areas
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Conservation Areas - South Ayrshire
 ---

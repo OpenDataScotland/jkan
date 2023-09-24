@@ -1,13 +1,15 @@
 ---
 category:
+- Budget / Finance
+- Business and Economy
 - Health and Social Care
 date_created: '2018-03-06'
-date_updated: '2021-11-23'
+date_updated: '2023-06-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These files present information on patients with mental health problems
   who have been cared for as inpatients or day cases in Scottish general and psychiatric
-  hospitals. The period covered is financial years 1997/98 - 2020/21, for all NHS
+  hospitals. The period covered is financial years 1997/98 - 2021/22, for all NHS
   Boards of residence and treatment.\r\n\r\nAll publications and supporting material
   to this topic area can be found on the <a href="https://publichealthscotland.scot/publications/mental-health-inpatient-activity/">Public
   Health Scotland Website</a>. The date of the next release can be found on our list
@@ -53,6 +55,12 @@ resources:
 - format: MS EXCEL
   name: ICD10-Codes
   url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/530cb70a-f747-4b3b-b75a-06353ae78e8d/download/icd10-lookup.xlsx
+- format: CSV
+  name: Discharge Types - Health Board
+  url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/4a8db493-da06-42de-90b6-c205c358a0ea/download/mental-health-inpatient-activity-discharge-types-hb.csv
+- format: CSV
+  name: Discharge Types - Scotland
+  url: https://www.opendata.nhs.scot/dataset/4ace86c2-2c0f-4620-b544-932148c2c4d3/resource/772c27fb-0f24-42d6-8a22-6dfd0c098214/download/mental-health-inpatient-activity-discharge-types-scot.csv
 schema: default
 title: Mental Health Inpatient Activity
 ---

@@ -1,9 +1,9 @@
 ---
 category:
 - Education
-date_created: '2018-04-24'
-date_updated: '2022-06-05'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-05-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The range of qualifications taken by school pupils and the level at which
   they are achieved</p>

@@ -1,9 +1,12 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
+- Council and Government
+- Housing and Estates
+- Parks / Recreation
 date_created: '2019-11-20'
-date_updated: '2022-05-20'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_updated: '2023-08-28'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>Management Plans provided a simpler alternative to Forest Plans for woodlands\
   \ under 100 hectares. They are required as part of the eligibility criteria for\
@@ -18,7 +21,7 @@ notes: "<p>Management Plans provided a simpler alternative to Forest Plans for w
   \ SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=da3a5e8de50a4efaa9f66126cc0d1cad
-records: 748
+records: 0
 resources: []
 schema: default
 title: Management Plans

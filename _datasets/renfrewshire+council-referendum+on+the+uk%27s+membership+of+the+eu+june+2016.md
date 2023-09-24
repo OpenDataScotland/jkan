@@ -1,9 +1,9 @@
 ---
 category:
-- Elections / Politics
+- Uncategorised
 date_created: '2018-01-09'
 date_updated: '2018-07-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: "<p>Results of the\_Referendum on the UK's membership of the EU, 23 June 2016.</p>"
 organization: Renfrewshire Council

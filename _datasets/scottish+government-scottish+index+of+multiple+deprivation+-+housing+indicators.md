@@ -1,9 +1,11 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-10-09'
+- Housing and Estates
+- Planning and Development
+date_created: ''
 date_updated: '2019-10-09'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The Scottish Index of Multiple Deprivation (SIMD) was published in August
   2016. This dataset contains the indicators that were used to calculate the housing

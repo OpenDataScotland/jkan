@@ -1,9 +1,14 @@
 ---
 category:
+- Business and Economy
+- Council and Government
+- Health and Social Care
+- Planning and Development
 - Public Safety
-date_created: ''
-date_updated: '2022-03-14'
-license: No licence
+- Transportation
+date_created: '2022-03-14'
+date_updated: '2022-05-11'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>Object Count data collected from over 40 CCTV cameras owned by Glasgow\
   \ City Council. Since 2019, Urban Big Data Centre at University of Glasgow, Glasgow\
@@ -28,8 +33,11 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-cctv-object-count-data
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-cctv-object-count-data
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
 schema: default
 title: Glasgow CCTV Object Count Data

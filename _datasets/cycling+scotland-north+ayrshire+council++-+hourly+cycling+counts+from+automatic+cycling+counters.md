@@ -1,8 +1,9 @@
 ---
 category:
+- Council and Government
 - Transportation
 date_created: '2021-09-25'
-date_updated: '2022-11-02'
+date_updated: '2023-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within North Ayrshire

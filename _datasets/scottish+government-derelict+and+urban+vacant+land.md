@@ -1,9 +1,10 @@
 ---
 category:
-- Health and Social Care
-date_created: '2014-07-29'
+- Food and Environment
+- Planning and Development
+date_created: ''
 date_updated: '2022-02-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Area of Derelict and Urban Vacant Land (hectares)</p>
 organization: Scottish Government

@@ -1,9 +1,9 @@
 ---
 category:
-- Health and Social Care
-date_created: '2014-07-29'
+- Business and Economy
+date_created: ''
 date_updated: '2019-06-25'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Percent of people living within 500 metres of a derelict site.</p>
 organization: Scottish Government

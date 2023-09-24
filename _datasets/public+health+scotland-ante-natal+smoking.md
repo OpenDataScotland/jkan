@@ -1,9 +1,9 @@
 ---
 category:
 - Health and Social Care
-date_created: '2017-03-14'
+date_created: ''
 date_updated: '2021-09-03'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Number and percentage of mothers reporting their smoking status at ante-natal
   booking visit in the community or at hospital.</p>

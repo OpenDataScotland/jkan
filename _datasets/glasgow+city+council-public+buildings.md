@@ -1,10 +1,12 @@
 ---
 category:
 - Housing and Estates
+- Parks / Recreation
 - Planning and Development
-date_created: ''
-date_updated: '2021-08-12'
-license: No licence
+- Sport and Leisure
+date_created: '2021-08-12'
+date_updated: '2022-05-31'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Locations of Major GCC and Glasgow Life Buildings, by specified type. Includes
   GCC Service Department HQs/main buildings, Major Glasgow Life Facilities, ALEO HQs
@@ -17,8 +19,11 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::public-buildings
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::public-buildings
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer
 schema: default
 title: Public Buildings

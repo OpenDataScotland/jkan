@@ -1,9 +1,12 @@
 ---
 category:
+- Council and Government
 - Food and Environment
-date_created: ''
-date_updated: '2018-10-02'
-license: No licence
+- Planning and Development
+- Transportation
+date_created: '2018-10-02'
+date_updated: '2022-12-15'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Core paths are a system of paths, track and other routes identified by
   The Highland Council, as a duty under the Land Reform (Scotland) Act 2003, that
@@ -15,21 +18,24 @@ organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::core-paths
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://map-highland.opendata.arcgis.com/maps/Highland::core-paths
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Core Paths
 ---

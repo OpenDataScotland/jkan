@@ -1,6 +1,8 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
+- Planning and Development
 date_created: '2018-07-12'
 date_updated: '2018-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

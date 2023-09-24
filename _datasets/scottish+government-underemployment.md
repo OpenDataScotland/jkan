@@ -1,9 +1,9 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-03-05'
+date_created: ''
 date_updated: '2022-03-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>People who are in work but who would prefer to work more hours for the same
   rate of pay</p>

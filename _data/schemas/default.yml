@@ -39,6 +39,7 @@ dataset_fields:
   - field_name: original_dataset_link
     label: Original dataset link
     display_template: display/link.html
+    html_id: original-dataset-link
     datajson: original_dataset_link    
     
 
@@ -95,12 +96,14 @@ organization_fields:
     form_template: form/dropdown.html
     values:
       - CKAN
+      - DKAN
       - JKAN
       - USMART
       - ArcGIS
       - Static
       - Pure
       - DSpace
+      - Bespoke
 
 category_fields:
   - field_name: name

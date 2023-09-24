@@ -1,9 +1,9 @@
 ---
 category:
-- Business and Economy
-date_created: '2019-04-10'
-date_updated: '2022-09-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Food and Environment
+date_created: ''
+date_updated: '2023-03-13'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Scottish Landfill Tax (SLfT) revenues and contributions to the Scottish
   Landfill Communities Fund by quarter. The associated waste disposals by SLfT rate,

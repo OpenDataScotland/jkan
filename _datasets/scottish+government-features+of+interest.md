@@ -1,9 +1,9 @@
 ---
 category:
-- Uncategorised
-date_created: '2018-03-26'
-date_updated: '2022-10-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Parks / Recreation
+date_created: ''
+date_updated: '2023-04-20'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>A reference dataset containing relationships between geographic features,
   along with their geometries. This dataset helps drive the PublishMyData Atlas feature.  </p>

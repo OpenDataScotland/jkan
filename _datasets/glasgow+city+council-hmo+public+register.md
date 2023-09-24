@@ -1,10 +1,12 @@
 ---
 category:
+- Council and Government
 - Housing and Estates
+- Law and Licensing
 - Planning and Development
-date_created: ''
-date_updated: '2022-03-31'
-license: No licence
+date_created: '2022-03-31'
+date_updated: '2023-05-12'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
   \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
@@ -35,21 +37,24 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/c4d432bf3bb34b7583c07527c770a373/rest/services/OPEN_DATA/HMO_Public_Register/MapServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: HMO Public Register
 ---

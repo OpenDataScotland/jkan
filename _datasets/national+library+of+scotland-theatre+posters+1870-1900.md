@@ -1,6 +1,6 @@
 ---
 category:
-- Uncategorised
+- Arts / Culture / History
 date_created: ''
 date_updated: ''
 license: https://creativecommons.org/publicdomain/mark/1.0/

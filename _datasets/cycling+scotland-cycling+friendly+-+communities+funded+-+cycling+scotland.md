@@ -1,8 +1,9 @@
 ---
 category:
+- Budget / Finance
 - Transportation
 date_created: '2019-10-21'
-date_updated: '2019-11-08'
+date_updated: '2023-02-22'
 license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"This dataset shows communities across Scotland that have received funding

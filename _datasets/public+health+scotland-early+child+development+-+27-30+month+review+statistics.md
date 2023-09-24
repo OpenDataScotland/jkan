@@ -1,11 +1,8 @@
 ---
 category:
-- Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2018-04-23'
-date_updated: '2022-04-26'
+date_updated: '2023-04-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The 27-30 month review is an assessment generally carried out by a health

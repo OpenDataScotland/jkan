@@ -1,9 +1,12 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
+- Business and Economy
+- Council and Government
+- Law and Licensing
 date_created: '2019-11-18'
 date_updated: '2022-07-11'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>This is a non-spatial table.  It contains data on Scottish Forestry Grant\
   \ Scheme (SFGS) operations that can be related to the SFGS Sub Compartment spatial\

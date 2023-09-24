@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837005
-wdtk_id: 
+wdtk_id: inverclyde_health_and_social_care_partnership
 ---

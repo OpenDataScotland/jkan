@@ -1,6 +1,9 @@
 ---
 category:
-- Uncategorised
+- Arts / Culture / History
+- Food and Environment
+- Health and Social Care
+- Public Safety
 date_created: '2018-07-23'
 date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

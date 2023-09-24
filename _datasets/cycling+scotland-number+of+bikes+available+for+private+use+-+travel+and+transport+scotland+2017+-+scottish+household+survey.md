@@ -1,8 +1,9 @@
 ---
 category:
+- Elections / Politics
 - Transportation
 date_created: '2019-04-30'
-date_updated: '2019-12-20'
+date_updated: '2023-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from Transport and Travel in Scotland and the Scottish Household Survey

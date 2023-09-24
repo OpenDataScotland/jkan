@@ -1,13 +1,20 @@
 ---
 category:
+- Business and Economy
 - Food and Environment
+- Health and Social Care
+- Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
+- Transportation
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
+date_updated: '2023-08-01'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
-notes: "<p>THIS IS A 'PROOF OF CONCEPT' DATASET AND IS NOT CURRENTLY BEING KEPT UP\
-  \ TO DATE AS NEW LDPs ARE PUBLISHED.  The Local Development Plan dataset is a composition\
+notes: "<p>This metadata record refers to the polygon dataset. The point and polyline\
+  \ datasets are obsolete prototypes, for the moment, and this record will be corrected\
+  \ as these datasets are republished.  The Local Development Plan dataset is a composition\
   \ of Local Development Plans supplied by local authorities and national parks in\
   \ Scotland. It is intended to provide a spatial overview of common policies across\
   \ Scotland. The authoritative data source is the originating data supplied by the\
@@ -23,12 +30,11 @@ notes: "<p>THIS IS A 'PROOF OF CONCEPT' DATASET AND IS NOT CURRENTLY BEING KEPT 
   \ map, which is created from the data that is also used in this dataset. Some policies\
   \ will be plan-wide, and not reproduced spatially, so this dataset contains policy\
   \ data that is linked to a discrete area within the planning authority area.   In\
-  \ addition to the local development plan, reference should be made to the National\
-  \ Planning Framework (covering all of Scotland), the Strategic Development Plan\
-  \ (where applicable) and supplementary guidance that is included in the development\
-  \ plan.   Update and reference to other datasets  This dataset will be updated as\
-  \ and when development plans are replaced and formally adopted by authorities, on\
-  \ a minimum quarterly basis in operational terms each year. Local development plans\
+  \ addition to the local development plan, reference should be made to National Planning\
+  \ Framework 4 and supplementary guidance that is included in the development plan.\
+  \   Update and reference to other datasets  This dataset will be updated as and\
+  \ when development plans are replaced and formally adopted by authorities, on a\
+  \ minimum quarterly basis in operational terms each year. Local development plans\
   \ are currently replaced on a five year basis and will be further modified by the\
   \ forthcoming Planning Act, likely moving to a ten year cycle with interim updates,\
   \ although it is not yet clear on how updates will be prepared. If proposed and\
@@ -44,22 +50,19 @@ notes: "<p>THIS IS A 'PROOF OF CONCEPT' DATASET AND IS NOT CURRENTLY BEING KEPT 
   \ development plan. This will also be resolved, in data architecture terms, through\
   \ dialogue with these key agencies.  Geometries  There are three layers within this\
   \ dataset, for point, polyline and polygon features. Not all authorities capture\
-  \ all three feature types.   Categorisation  The dataset employs three levels of\
-  \ categorisation \u2013 class, subclass and tags. The classes and subclasses are\
-  \ listed below, based on a particular data attribute field that originates in the\
-  \ dataset and is mapped to the common attribute \u201Clayer type\u201D which is\
-  \ then searched for an applicable match. Tags are used in searches to match and\
-  \ categorise dataset features against the layer type, and captured as a full list\
-  \ of tags against each feature to allow multi-criteria searches.  Known Issues \
-  \ Some manual classification is required, for features that have only a reference\
-  \ or a layer name that needs direct matching to a class and subclass. In this case,\
-  \ the tags may well have null values.   This is an early release of the dataset,\
-  \ which will change further following consultation with users, planning authorities\
-  \ and other stakeholders. In the longer term, a move towards common standards and\
-  \ categorisation will be promoted.   Further Information  The definitive description\
-  \ is contained within the published Development Plan Scheme for each planning authority,\
-  \ available online.   Reference can also be made to Scottish Government policy on\
-  \ development plans:   https://www.gov.scot/policies/planning-architecture/development-plans/</p>"
+  \ all three feature types.   Categorisation  The dataset has a basic taxonomy of\
+  \ \"type\" which is a short description of the type of land use, where this can\
+  \ be identified, from the attribute data. Other attributes refer to \"feature_name\"\
+  , a reproduction of what is provided that best fits the name of a site or area,\
+  \ similar for \"reference\" where such data is provided, and also \"year\" and \"\
+  status\" for the year of plan adoption, draft publication or proposal or similar.\
+  \  Known Issues  This is an early release of the dataset, which will change further\
+  \ following consultation with users, planning authorities and other stakeholders.\
+  \ In the longer term, a move towards common standards and categorisation will be\
+  \ promoted.   Further Information  The definitive description is contained within\
+  \ the published Development Plan Scheme for each planning authority, available online.\
+  \   Reference can also be made to Scottish Government policy on development plans:\
+  \   https://www.gov.scot/policies/planning-architecture/development-plans/</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-is'
 records: null

@@ -2,9 +2,9 @@
 category:
 - Housing and Estates
 - Planning and Development
-date_created: '2017-01-20'
+date_created: ''
 date_updated: '2022-09-29'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>Number of dwellings by type </p>
 organization: National Records of Scotland

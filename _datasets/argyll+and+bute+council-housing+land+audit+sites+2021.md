@@ -1,10 +1,11 @@
 ---
 category:
+- Food and Environment
 - Housing and Estates
 - Planning and Development
 date_created: '2022-06-10'
 date_updated: '2022-06-10'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Polygon shapefile for the monitored sites used in the Housing Land Supply
   and Completed Sites sections of the 2021 Argyll and Bute Housing Land Audit</p>

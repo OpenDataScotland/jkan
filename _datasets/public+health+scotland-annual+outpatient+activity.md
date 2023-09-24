@@ -1,9 +1,7 @@
 ---
 category:
 - Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2020-09-24'
 date_updated: '2022-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

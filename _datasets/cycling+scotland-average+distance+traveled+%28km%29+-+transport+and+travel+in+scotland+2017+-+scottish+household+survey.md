@@ -1,8 +1,11 @@
 ---
 category:
+- Elections / Politics
+- Law and Licensing
+- Planning and Development
 - Transportation
 date_created: '2019-10-17'
-date_updated: '2019-12-16'
+date_updated: '2023-02-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from the Transport and Travel related questions asked in the Scottish

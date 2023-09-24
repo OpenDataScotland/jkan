@@ -1,9 +1,10 @@
 ---
 category:
+- Housing and Estates
 - Planning and Development
 date_created: '2018-03-29'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Moray Onshore Wind Energy 2017 Policy Guidance Map for Medium Typologies\
   \ (Moray) Areas of Greatest Potential. Scottish Planning Policy states that planning\

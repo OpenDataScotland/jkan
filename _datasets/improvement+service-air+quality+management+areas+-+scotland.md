@@ -1,12 +1,11 @@
 ---
 category:
-- Business and Economy
-- Council and Government
+- Elections / Politics
 - Food and Environment
-- Planning and Development
+- Transportation
 date_created: '2021-06-11'
-date_updated: '2022-11-04'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-07-19'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the
   air quality objectives are not (or are unlikely to be) being met as Air Quality

@@ -1,5 +1,11 @@
 ---
 category:
+- Budget / Finance
+- Business and Economy
+- Council and Government
+- Elections / Politics
+- Planning and Development
+- Public Safety
 - Transportation
 date_created: '2018-12-05'
 date_updated: '2020-07-13'

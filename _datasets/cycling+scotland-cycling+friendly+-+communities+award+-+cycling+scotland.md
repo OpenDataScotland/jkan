@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2019-10-17'
-date_updated: '2019-11-08'
+date_updated: '2023-02-22'
 license: https://creativecommons.org/licenses/by/4.0/
 maintainer: Cycling Scotland
 notes: <p>"This data set highlights communities across Scotland that have received

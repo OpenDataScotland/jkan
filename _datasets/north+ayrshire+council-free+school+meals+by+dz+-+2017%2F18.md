@@ -1,9 +1,12 @@
 ---
 category:
+- Business and Economy
+- Council and Government
 - Education
-date_created: ''
-date_updated: '2018-10-30'
-license: No licence
+- Food and Environment
+date_created: '2018-10-30'
+date_updated: '2019-11-18'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-user-drag:\
   \ none; -webkit-tap-highlight-color: transparent; font-size: 10.5pt; font-family:\
@@ -106,21 +109,24 @@ organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::free-school-meals-by-dz-2017-18
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::free-school-meals-by-dz-2017-18
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/1
-- format: GEOJSON
-  name: GEOJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::free-school-meals-by-dz-2017-18.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Free School Meals by DZ - 2017/18
 ---

@@ -1,9 +1,9 @@
 ---
 category:
 - Transportation
-date_created: '2014-07-29'
-date_updated: '2022-06-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2022-11-04'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Scotland
 notes: <p>Number of people killed and seriously injured on Scotland's roads by age
   and gender. </p>

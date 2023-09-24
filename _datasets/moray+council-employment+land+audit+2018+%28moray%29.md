@@ -1,6 +1,9 @@
 ---
 category:
+- Business and Economy
 - Council and Government
+- Elections / Politics
+- Food and Environment
 - Planning and Development
 date_created: '2018-12-19'
 date_updated: '2020-11-30'

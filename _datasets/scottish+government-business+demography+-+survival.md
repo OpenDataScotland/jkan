@@ -1,9 +1,9 @@
 ---
 category:
 - Business and Economy
-date_created: '2018-04-11'
-date_updated: '2022-05-18'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-03-14'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Number and rate (percent) of VAT/PAYE business survival.</p>
 organization: Scottish Government

@@ -1,6 +1,8 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Education
+- Sport and Leisure
 date_created: ''
 date_updated: '2016-08-08'
 license: https://creativecommons.org/publicdomain/mark/1.0/

@@ -1,10 +1,12 @@
 ---
 category:
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Tourism
 date_created: '2017-12-13'
 date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development
   Plan 2020 on 27 July 2020.The objective of the designation is to protect and enhance

@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837075
-wdtk_id: 
+wdtk_id: argyll_and_bute_health_and_social_care_partnership
 ---

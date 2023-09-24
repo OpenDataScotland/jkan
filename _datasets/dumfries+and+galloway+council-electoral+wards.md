@@ -1,6 +1,6 @@
 ---
 category:
-- Planning and Development
+- Elections / Politics
 date_created: '2017-11-23'
 date_updated: '2019-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

@@ -1,9 +1,10 @@
 ---
 category:
-- Business and Economy
-date_created: '2017-08-04'
+- Budget / Finance
+- Council and Government
+date_created: ''
 date_updated: '2022-09-20'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Data on Council Tax amounts billed and collected, up to the end of the most
   recent complete billing year</p>

@@ -1,8 +1,9 @@
 ---
 category:
+- Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2022-10-27'
+date_updated: '2023-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -16,9 +17,12 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_waste_facilities-sa'
 records: null
 resources:
-- format: No file type
-  name: Historic landfill sites
-  url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?
+- format: REST
+  name: Historic Landfill sites
+  url: https://gisext.south-ayrshire.gov.uk/server/rest/services/Inspire/OpenData/FeatureServer/6
+- format: REST
+  name: Recycling Points
+  url: https://gisext.south-ayrshire.gov.uk/server/rest/services/Public/PublicMapLayers/MapServer/25
 schema: default
 title: Recycling And Waste Facilities - South Ayrshire
 ---

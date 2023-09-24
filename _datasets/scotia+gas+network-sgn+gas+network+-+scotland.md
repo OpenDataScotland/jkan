@@ -1,8 +1,9 @@
 ---
 category:
-- Transportation
+- Council and Government
+- Public Safety
 date_created: '2021-06-11'
-date_updated: '2022-11-02'
+date_updated: '2023-05-03'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Scotia Gas Network
 notes: "<p>SGN create 4 separate data layers (by pressure tier) to depict the location\

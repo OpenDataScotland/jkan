@@ -1,6 +1,14 @@
 ---
 category:
 - Business and Economy
+- Council and Government
+- Education
+- Elections / Politics
+- Health and Social Care
+- Housing and Estates
+- Law and Licensing
+- Planning and Development
+- Public Safety
 date_created: '2017-09-21'
 date_updated: '2021-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

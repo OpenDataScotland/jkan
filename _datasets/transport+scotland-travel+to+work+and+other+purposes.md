@@ -1,9 +1,10 @@
 ---
 category:
+- Education
 - Transportation
-date_created: '2014-07-29'
-date_updated: '2022-10-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-05-03'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Scotland
 notes: <p>Statistics on what mode of transport (walking, cycling, car, bus, train)
   people usually use to get to work and education, purposes of journeys made by Scottish

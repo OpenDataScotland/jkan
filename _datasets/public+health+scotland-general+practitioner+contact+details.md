@@ -1,20 +1,29 @@
 ---
 category:
+- Council and Government
 - Health and Social Care
-- Planning and Development
 date_created: '2019-02-19'
-date_updated: '2022-11-01'
+date_updated: '2023-07-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains a lookup file of contact details for General Practitioners
   (GPs) and the practice they are registered at. The information includes General
-  Medical Council (GMC) number, address, telephone details of their practice.\r\n\r\nAll
-  publications and supporting material to this topic area can be found on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/Workforce-and-Practice-Populations/">ISD
-  Scotland - GP Workforce &amp; Practice Populations website</a>.</p>
+  Medical Council (GMC) number, address, telephone details of their practice. All
+  publications and supporting material to this topic area can be found on the <a href="https://publichealthscotland.scot/our-areas-of-work/general-practice/">Public
+  Health Scotland website</a>.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/general-practitioner-contact-details
 records: null
 resources:
+- format: CSV
+  name: GP Details July 2023
+  url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/87e9355c-f357-4198-b9af-26d9f362228a/download/gp_contactdetails_jul2023-open-data.csv
+- format: CSV
+  name: GP Details April 2023
+  url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/2d122ac0-a632-4329-95a3-a4b4f0834c30/download/gp_contactdetails_apr2023-open-data.csv
+- format: CSV
+  name: GP Details January 2023
+  url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/4630768d-72d0-4d09-ab51-31b93b8a4423/download/gp_contactdetails_jan2023-open-data.csv
 - format: CSV
   name: GP Details October 2022
   url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/fb48a65c-25fa-4001-9afb-6110d761daf2/download/gp_contactdetails_oct2022-open-data.csv

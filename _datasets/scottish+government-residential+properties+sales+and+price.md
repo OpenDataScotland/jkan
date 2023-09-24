@@ -1,10 +1,9 @@
 ---
 category:
-- Housing and Estates
-- Planning and Development
-date_created: '2021-03-10'
+- Uncategorised
+date_created: ''
 date_updated: '2022-09-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: ''
 organization: Scottish Government

@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837018
-wdtk_id: 
+wdtk_id: west_dunbartonshire_health_and_social_care_partnership_board
 ---

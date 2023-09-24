@@ -1,6 +1,6 @@
 ---
 category:
-- Elections / Politics
+- Council and Government
 - Housing and Estates
 - Transportation
 date_created: '2016-11-30'

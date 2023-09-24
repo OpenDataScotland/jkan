@@ -1,9 +1,9 @@
 ---
 category:
-- Health and Social Care
-date_created: '2017-02-07'
+- Arts / Culture / History
+date_created: ''
 date_updated: '2021-01-19'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Unpaid care provision by tenure, household type, age, sex and disability.
   The Scottish Survey Core Questions is an innovative project drawing together multiple

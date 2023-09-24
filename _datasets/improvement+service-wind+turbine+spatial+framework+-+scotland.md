@@ -1,10 +1,14 @@
 ---
 category:
+- Arts / Culture / History
 - Food and Environment
+- Housing and Estates
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2021-06-17'
-date_updated: '2022-10-31'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-07-24'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>This dataset contains areas classified by their suitability for onshore
   wind turbine development, falling into one of three groups:  Group 1: Areas where

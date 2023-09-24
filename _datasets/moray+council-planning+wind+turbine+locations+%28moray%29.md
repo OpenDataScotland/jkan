@@ -1,5 +1,7 @@
 ---
 category:
+- Council and Government
+- Health and Social Care
 - Planning and Development
 date_created: '2018-01-11'
 date_updated: '2020-11-30'
@@ -18,7 +20,7 @@ notes: <p>Wind turbine locations generated from planning applications received b
   to the council at the time of writing.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=3af52ce7fed049c79ba57f80c66fc1bc
-records: 795
+records: 806
 resources: []
 schema: default
 title: Planning Wind Turbine Locations (Moray)

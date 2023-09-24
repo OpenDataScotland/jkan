@@ -1,9 +1,9 @@
 ---
 category:
-- Uncategorised
+- Budget / Finance
 date_created: '2019-04-17'
 date_updated: '2019-04-17'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: <p>Dataset listing Big Lottery funded projects in Renfrewshire in 2018.</p>
 organization: Renfrewshire Council

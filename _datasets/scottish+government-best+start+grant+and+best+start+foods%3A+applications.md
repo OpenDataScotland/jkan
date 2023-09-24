@@ -1,9 +1,13 @@
 ---
 category:
-- Business and Economy
-date_created: '2019-05-31'
-date_updated: '2022-10-26'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+- Budget / Finance
+- Council and Government
+- Education
+- Food and Environment
+- Health and Social Care
+date_created: ''
+date_updated: '2023-01-26'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Received applications and authorised applications (awards) for Best Start
   Grant Pregnancy and Baby Payment,  Early Learning Payment, School Age Payment and

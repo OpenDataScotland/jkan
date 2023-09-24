@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2019-04-30'
-date_updated: '2019-12-20'
+date_updated: '2023-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Data from the Scottish Household Survey Travel Diary showing percentage

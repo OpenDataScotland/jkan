@@ -1,9 +1,10 @@
 ---
 category:
-- Council and Government
-- Planning and Development
+- Elections / Politics
+- Health and Social Care
+- Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2022-12-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -22,7 +23,7 @@ records: null
 resources:
 - format: No file type
   name: Alcohol_Prohibition_Areas
-  url: https://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Alcohol Prohibition Areas - South Ayrshire
 ---

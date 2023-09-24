@@ -1,8 +1,11 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
+- Housing and Estates
+- Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -57,6 +60,9 @@ resources:
 - format: REST
   name: Polling Places
   url: https://arcgis.argyll-bute.gov.uk/arcgis/rest/services/Electoral_Boundaries_and_Masks/MapServer/16
+- format: WFS
+  name: Polling Places
+  url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Places - Argyll and Bute
 ---

@@ -2,11 +2,11 @@
 category:
 - Transportation
 date_created: '2022-06-21'
-date_updated: '2022-11-02'
+date_updated: '2023-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
-notes: <p>"Scotland South West Trunk Roads - Daily cycling counts from automatic cycling
-  counters"</p>
+notes: <p>"A real-time daily upload from each cycling counter within Scotland's South
+  West Trunk Roads network."</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/deef0957-3a88-45df-b0b5-61c83d3816dc
 records: null

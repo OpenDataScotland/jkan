@@ -1,9 +1,8 @@
 ---
 category:
-- Food and Environment
-- Planning and Development
+- Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\

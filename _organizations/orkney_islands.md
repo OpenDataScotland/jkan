@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837010
-wdtk_id: 
+wdtk_id: orkney_health_and_care
 ---

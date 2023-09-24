@@ -1,9 +1,13 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
+- Transportation
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-07-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -26,12 +30,9 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-dc'
 records: null
 resources:
-- format: No file type
-  name: Core Paths
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities%0Ahttp://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
-- format: No file type
-  name: Dundee Core Paths
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
+- format: REST
+  name: Core Paths arcgis rest service
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Core_Paths_2020/FeatureServer
 schema: default
 title: Paths And Core Paths - Dundee City
 ---

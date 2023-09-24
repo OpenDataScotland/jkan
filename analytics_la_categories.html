@@ -6,23 +6,24 @@ full_width: true
 ---
 {% include breadcrumbs.html parent="Analytics" %}
 
-{% assign COLOUR_NONE = "background-color:rgba(203, 33, 41,0.5)" %}
-{% assign COLOUR_LOW = "background-color:rgba(234, 119, 26,0.5)" %}
-{% assign COLOUR_MEDIUM = "background-color:rgba(224, 168, 66,0.5)" %}
-{% assign COLOUR_HIGH = "background-color:rgba(16, 141, 113,0.5)" %}
+{% assign COLOUR_NONE = "background-color:rgba(253, 5, 34, 1)" %}
+{% assign COLOUR_LOW = "background-color:rgba(255, 123, 103, 1)" %}
+{% assign COLOUR_MEDIUM = "background-color:rgba(255, 191, 177, 1)" %}
+{% assign COLOUR_HIGH = "background-color:rgba(255, 255, 255, 1)" %}
+{% assign HEADER = "writing-mode: vertical-lr; transform: rotate(180deg);" %}
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css"/>
 
 <h1>{{ page.title }}</h1>
 
-{% assign categories = site.data.categories %}
+{% assign categories = site.data.categories %}  
 
 <table id="category-breakdown-table" class="table table-responsive table-bordered table-striped">
     <thead>
         <tr>
             <th>Council</th>
             {% for category in categories %}
-            <th>{{category.name }}</th>
+            <th><span style="{{HEADER}}">{{category.name }}</span></th>
             {% endfor %}
             <th>Total</th>
         </tr>

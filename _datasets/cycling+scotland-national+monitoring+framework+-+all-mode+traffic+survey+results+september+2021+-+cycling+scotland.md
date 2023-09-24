@@ -18,7 +18,7 @@ resources:
 - format: CSV
   name: National Monitoring Framework - all-mode traffic survey results September
     2021 - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=4f5c5e5a-96ec-4590-a6a1-4dd4553c6da0
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results September
     2021 - Cycling Scotland.xml

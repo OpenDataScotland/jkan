@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://ilf.scot/
 twitter_handle: ILFScotland
 wikidata_org_qid: Q108837368
-wdtk_id: 
+wdtk_id: ilf_scotland
 ---

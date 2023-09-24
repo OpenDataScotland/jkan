@@ -1,9 +1,10 @@
 ---
 category:
-- Food and Environment
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-05-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -19,6 +20,9 @@ resources:
 - format: WFS
   name: LDP layers
   url: http://dundeecity.maps.arcgis.com/home/item.html?id=6bd0011538594e8e9f422d24b22d7f8c
+- format: WFS
+  name: LDP 2019
+  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/LDP2019_WFS/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Local Development Plans - Dundee City
 ---

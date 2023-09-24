@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2020-06-22'
-date_updated: '2020-06-22'
+date_updated: '2023-02-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"All figures, unless otherwise stated, are from YouGov Plc.  Total sample

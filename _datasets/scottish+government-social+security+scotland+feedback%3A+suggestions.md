@@ -1,9 +1,9 @@
 ---
 category:
 - Business and Economy
-date_created: '2019-10-09'
-date_updated: '2022-08-15'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-01-09'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Feedback statistics covering suggestions received by Social Security Scotland.</p>
 organization: Scottish Government

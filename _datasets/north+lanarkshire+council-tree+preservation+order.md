@@ -1,30 +1,33 @@
 ---
 category:
 - Food and Environment
-date_created: ''
-date_updated: '2018-11-16'
-license: No licence
+date_created: '2018-11-16'
+date_updated: '2021-05-26'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Tree Preservation Order 2018</p>
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::tree-preservation-order-2018
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::tree-preservation-order
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::tree-preservation-order
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/19
-- format: GEOJSON
-  name: GEOJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order-2018.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::tree-preservation-order.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Tree Preservation Order
 ---

@@ -1,8 +1,10 @@
 ---
 category:
+- Council and Government
+- Food and Environment
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2020-11-30'
+date_updated: '2023-08-22'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020Settlement Designations set out the current and

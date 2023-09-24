@@ -1,9 +1,12 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Health and Social Care
+- Planning and Development
 date_created: '2017-09-06'
 date_updated: '2017-09-06'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: <p>A layer presenting Care Homes in Renfrewshire Council area</p>
 organization: Renfrewshire Council

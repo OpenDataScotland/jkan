@@ -1,9 +1,9 @@
 ---
 category:
-- Business and Economy
-date_created: '2020-09-11'
+- Education
+date_created: ''
 date_updated: '2022-03-28'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Low or no qualification is SCQF level 4 or below</p>
 organization: Scottish Government

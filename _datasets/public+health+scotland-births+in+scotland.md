@@ -1,20 +1,20 @@
 ---
 category:
+- Council and Government
 - Elections / Politics
 - Health and Social Care
 - Planning and Development
 date_created: '2018-10-12'
-date_updated: '2022-07-22'
+date_updated: '2023-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Annual update to information on births in Scottish NHS hospitals. This includes
-  information on the mother, the delivery and the baby, available at various geographies
-  including NHS Board, council area and hospital level. \r\n\r\nFurther information
-  on births in Scottish hospitals can be found in the <a href="https://publichealthscotland.scot/publications/births-in-scottish-hospitals/">full
-  publication report</a> and the <a href="https://publichealthscotland.scot/media/6650/2020-11-24-births-technical.pdf">technical
-  report</a>. All publications and supporting material to this topic area can be found
-  on the <a href="https://beta.isdscotland.org/topics/maternity-and-births/">PHS Data
-  &amp; Intelligence Website</a>.\r\n</p>
+notes: <p>Annual update to information on births in Scotland. This includes information
+  on the mother, the delivery and the baby, available at various geographies including
+  NHS Board, council area and hospital level. \r\n\r\nFurther information on these
+  data can be found in the <a href="https://publichealthscotland.scot/publications/births-in-scotland/">full
+  publication report</a> and the <a href="https://publichealthscotland.scot/publications/births-in-scotland/">technical
+  report</a>. \r\n\r\nRelevant background and metadata can be found in the technical
+  report.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/births-in-scottish-hospitals
 records: null

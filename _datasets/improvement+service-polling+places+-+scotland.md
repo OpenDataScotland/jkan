@@ -1,8 +1,12 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
+- Housing and Estates
+- Planning and Development
+- Transportation
 date_created: '2021-06-11'
-date_updated: '2022-10-31'
+date_updated: '2023-05-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>A \u2018polling place\u2019 is defined as the building or area in which\

@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2020-02-05'
-date_updated: '2020-02-05'
+date_updated: '2023-02-22'
 license: https://creativecommons.org/licenses/by-sa/3.0/
 maintainer: Cycling Scotland
 notes: <p>"Counter Locations on the John Muir Way administered by the Central Scotland

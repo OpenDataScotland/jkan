@@ -1,8 +1,13 @@
 ---
 category:
+- Arts / Culture / History
+- Council and Government
+- Food and Environment
+- Housing and Estates
+- Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-05-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -29,6 +34,9 @@ resources:
 - format: No file type
   name: Cycle Parking, Grit Bins, CCTV locations
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
+- format: REST
+  name: Street Lighting Columns
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/103/query?outFields=*&where=1%3D1
 schema: default
 title: Street Furniture - City of Edinburgh
 ---

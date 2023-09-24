@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Education
 - Planning and Development
-date_created: '2020-07-20'
-date_updated: '2020-09-22'
+date_created: '2018-05-17'
+date_updated: '2022-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 14 0;'><span><span>Defined
@@ -15,27 +15,27 @@ notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 14 0;'><span
   an Aberdeenshire Academy these Aberdeenshire zones are also shown.</span></span></p><p><span
   /></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://data.aberdeencity.gov.uk/dataset/academy-school-catchments1
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::academy-school-catchments-1
 records: null
 resources:
-- format: HTML
-  name: ArcGIS Hub Dataset
-  url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::academy-school-catchments-1
 - format: ARCGIS GEOSERVICE
-  name: Esri Rest API
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Academy_School_Catchments/FeatureServer/0
-- format: GEOJSON
-  name: GeoJSON
-  url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0.geojson?outSR={"latestWkid":27700,"wkid":27700}
+  name: Esri REST
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Academy_School_Catchments/FeatureServer/5
 - format: CSV
   name: CSV
-  url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0.csv?outSR={"latestWkid":27700,"wkid":27700}
-- format: KML
-  name: KML
-  url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0.kml?outSR={"latestWkid":27700,"wkid":27700}
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: Shapefile
-  url: http://spatialdata-accabdn.opendata.arcgis.com/datasets/c8e7887f4519434b8564a608754002cb_0.zip?outSR={"latestWkid":27700,"wkid":27700}
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: KML
+  name: KML
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Academy School Catchments
 ---

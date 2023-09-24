@@ -6,7 +6,10 @@ permalink: /organizations/
 
 {% include breadcrumbs.html %}
 {% assign org_count = site.organizations | size %}
-<h3 id="orgs-count">{{ org_count }} organizations</h3>
+
+<h1>Organizations</h1>
+
+<h2 id="orgs-count">{{ org_count }} organizations</h2>
 
 <input type="text" id="org-search" class="form-control" placeholder="Search..." style="margin-bottom:2rem;">
 
@@ -29,10 +32,10 @@ permalink: /organizations/
 			{% endif %}
 		</div>
 		<div class="media-body">
-			<h4 class="media-heading">
+			<h3 class="media-heading">
 				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
 				<small style="margin-left: 0.5rem">{{ org_type }}</small>
-			</h4>
+			</h3>
 			<p>{{ organization.description }}</p>
 			<p>
 				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }} datasets</a>

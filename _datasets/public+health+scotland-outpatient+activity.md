@@ -1,30 +1,22 @@
 ---
 category:
 - Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2019-11-07'
-date_updated: '2022-06-02'
+date_updated: '2023-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Patients who require the medical opinion of a specialist clinician may be
-  referred to an outpatient clinic for treatment or investigation. An outpatient is
-  a patient who attends a consultant or other medical clinic or has an arranged meeting
-  with a consultant or a senior member of their team outside of a clinic session.
+notes: <p>"Patients who require the medical opinion of a specialist clinician may
+  be referred to an outpatient clinic for treatment or investigation. An outpatient
+  is a patient who attends a consultant or other medical clinic or has an arranged
+  meeting with a consultant or a senior member of their team outside of a clinic session.
   Outpatients are not admitted to a hospital and do not use a hospital bed.\r\n\r\nOutpatient
   attendances can be categorised as new or follow-up (return) attendances. Information
   on return appointments is only available for datasets that report on NHS board of
   treatment. Files reporting on the residency of patients only contain data for new
   outpatients as the ISD(S)1 data source for return outpatients does not contain residence
   information. ISD(S)1 also does not record information on the deprivation, age or
-  sex of patients.\r\n\r\nAll publications and supporting material to this topic area
-  can be found on the <a href="https://beta.isdscotland.org/topics/hospital-care/">Public
-  Health Scotland website (external website)</a>. \r\n\r\nFurther information on hospital
-  activity can be found in the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-quarterly/acute-hospital-activity-and-nhs-beds-information-quarterly-quarter-ending-31-december-2021/data-summary/">recent
-  quarterly publication (external website)</a>.\r\n\r\nThe date of the next release
-  can be found on our list of <a href="https://www.publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications (external website)</a>.\r\n</p>
+  sex of patients."\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
 records: null
@@ -58,7 +50,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/a0c4f931-f99d-441a-8c50-7c1041b57781/download/outpatients_cross_boundary_flow.csv
 - format: CSV
   name: Publication Notes
-  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/notes.csv
+  url: https://www.opendata.nhs.scot/dataset/40c82960-c148-4cb8-b780-addddff6e07c/resource/84fae0e8-f9f0-4fee-8438-e89ed828dc4b/download/outpatient_notes.csv
 schema: default
 title: Outpatient Activity
 ---

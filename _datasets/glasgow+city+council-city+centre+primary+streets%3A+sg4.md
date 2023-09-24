@@ -1,8 +1,8 @@
 ---
 category:
 - Planning and Development
-date_created: ''
-date_updated: '2021-12-13'
+date_created: '2021-12-13'
+date_updated: '2023-06-16'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Spatial Data layers referenced in City Development Plan Policy and Proposals
@@ -12,21 +12,24 @@ organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::city-centre-primary-streets-sg4
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::city-centre-primary-streets-sg4
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/City_Development_Plan/MapServer/3
-- format: GEOJSON
-  name: GEOJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::city-centre-primary-streets-sg4.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: 'City Centre Primary Streets: SG4'
 ---

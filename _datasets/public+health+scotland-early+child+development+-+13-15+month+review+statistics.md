@@ -1,11 +1,8 @@
 ---
 category:
-- Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2020-11-06'
-date_updated: '2022-04-26'
+date_updated: '2023-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The 13-15 month review is an assessment generally carried out by a health

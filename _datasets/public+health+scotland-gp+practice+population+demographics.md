@@ -3,20 +3,29 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2019-02-19'
-date_updated: '2022-11-01'
+date_updated: '2023-07-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains information on list sizes for all GP practices in
   Scotland by age and sex.\r\n\r\nAll publications and supporting material to this
-  topic area can be found on the <a href="http://www.isdscotland.org/Health-Topics/General-Practice/Workforce-and-Practice-Populations/">ISD
-  Scotland - GP Workforce &amp; Practice Populations website</a>.</p>
+  topic area can be found on the <a href="https://publichealthscotland.scot/our-areas-of-work/general-practice/">Public
+  Health Scotland website</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/gp-practice-populations
 records: null
 resources:
-- format: No file type
+- format: CSV
+  name: GP Practice Populations July 2023
+  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/d7f423dd-9611-4ae9-a9c8-4dcc532ece22/download/practice_listsizes_jul2023-open-data.csv
+- format: CSV
+  name: GP Practice Populations April 2023
+  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/4b9aa55f-b425-4a4f-8610-4c1c87b46c2e/download/practice_listsizes_apr2023-open-data.csv
+- format: CSV
+  name: GP Practice Populations January 2023
+  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/8921c5c1-ec7e-4c62-b55d-b73c3d086e3f/download/practice_listsizes_jan2023-open-data.csv
+- format: CSV
   name: GP Practice Populations October 2022
-  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/4c2471ee-8e4b-4a6f-8597-ece6d93e4ba2/download/practice_listsizes_oct2022-open-data.csv
+  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/2c7dcb55-c83a-44bd-9128-47d1d6f339ba/download/practice_listsizes_oct2022-open-data.csv
 - format: CSV
   name: GP Practice Populations July 2022
   url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/64918d4f-f1d9-4e99-8e9f-130ddc890748/download/practice_listsizes_jul2022-open-data.csv

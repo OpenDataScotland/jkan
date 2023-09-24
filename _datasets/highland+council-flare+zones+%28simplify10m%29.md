@@ -1,12 +1,14 @@
 ---
 category:
 - Council and Government
+- Elections / Politics
+- Health and Social Care
 - Planning and Development
-date_created: ''
-date_updated: '2016-07-15'
-license: No licence
+date_created: '2016-07-15'
+date_updated: '2022-01-07'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
-notes: "<p>Flare Zones within the Highland Council Area. A Flare Zone is an administrative\
+notes: "<p>Flare Zones within The Highland Council Area. A Flare Zone is an administrative\
   \ area referred to within the operations for Environmental Health. Flare is the\
   \ Information Management System used within the Environmental Health Function of\
   \ The Highland Council - this database is also known as CIVICA APP. Please note\
@@ -17,21 +19,24 @@ organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/516df9b993334e37b8a160bd41e39103_0
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://map-highland.opendata.arcgis.com/maps/516df9b993334e37b8a160bd41e39103_0
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/FlareZones_simplify10m/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+- format: ZIP
+  name: Shapefile
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
-- format: ZIP
-  name: ZIP
-  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 schema: default
 title: Flare Zones (simplify10m)
 ---

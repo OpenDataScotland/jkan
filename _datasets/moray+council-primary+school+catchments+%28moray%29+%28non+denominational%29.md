@@ -2,10 +2,11 @@
 category:
 - Council and Government
 - Education
-- Planning and Development
+- Elections / Politics
+- Health and Social Care
 date_created: '2017-03-24'
-date_updated: '2020-11-30'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_updated: '2023-08-22'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>In Moray, the education authority discharges its duty to secure adequate\
   \ and efficient education for the local authority area by operating a \u201Ccatchment\
@@ -19,7 +20,7 @@ notes: "<p>In Moray, the education authority discharges its duty to secure adequ
   \ address, they must make an out-of-zone \u2018placing request\u2019.\_ </p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=73871d46f492412c8f88fd6159553a20
-records: 43
+records: 42
 resources: []
 schema: default
 title: Primary School Catchments (Moray) (non denominational)

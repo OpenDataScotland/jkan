@@ -3,9 +3,9 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: ''
-date_updated: '2017-05-15'
-license: No licence
+date_created: '2017-05-15'
+date_updated: '2023-08-17'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<div><span style=''font-size:medium;''>Community Councils in The Highland
   Council area.</span><br /></div>
@@ -19,21 +19,24 @@ organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-councils
 records: null
 resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://map-highland.opendata.arcgis.com/maps/Highland::community-councils
 - format: ARCGIS GEOSERVICE
-  name: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0
-- format: GEOJSON
-  name: GEOJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+- format: ZIP
+  name: Shapefile
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
-- format: ZIP
-  name: ZIP
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Community Councils
 ---

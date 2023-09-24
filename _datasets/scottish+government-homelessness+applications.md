@@ -1,10 +1,11 @@
 ---
 category:
+- Budget / Finance
+- Business and Economy
 - Housing and Estates
-- Planning and Development
-date_created: '2017-09-22'
+date_created: ''
 date_updated: '2022-09-27'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Summary figures of 1) all homelessness applications to local authorities
   each financial year in Scotland, 2) the total number of these assessed as homeless

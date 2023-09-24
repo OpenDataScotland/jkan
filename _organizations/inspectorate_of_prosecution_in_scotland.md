@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.gov.scot/collections/inspectorate-of-prosecution-in-scotland
 twitter_handle: 
 wikidata_org_qid: Q108837390
-wdtk_id: 
+wdtk_id: inspectorate_of_prosecution_in_scotland
 ---

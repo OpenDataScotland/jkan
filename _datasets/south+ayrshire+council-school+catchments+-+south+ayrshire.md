@@ -2,9 +2,8 @@
 category:
 - Council and Government
 - Education
-- Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2022-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -43,7 +42,7 @@ records: null
 resources:
 - format: No file type
   name: School Catchments
-  url: http://gis.south-ayrshire.gov.uk/arcgis/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: School Catchments - South Ayrshire
 ---

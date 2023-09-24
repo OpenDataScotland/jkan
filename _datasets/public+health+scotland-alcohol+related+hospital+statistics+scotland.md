@@ -1,11 +1,8 @@
 ---
 category:
-- Business and Economy
-- Elections / Politics
 - Health and Social Care
-- Planning and Development
 date_created: '2018-01-25'
-date_updated: '2022-02-01'
+date_updated: '2023-02-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Alcohol-related hospital statistics (ARHS) provide an annual update to figures
@@ -23,16 +20,16 @@ records: null
 resources:
 - format: CSV
   name: ARHS by Age & Gender
-  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/29452b1f-a7be-4e93-9e22-dfa120c2df26/download/arhs_agegender_01_02_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/29452b1f-a7be-4e93-9e22-dfa120c2df26/download/arhs_agegender_28_02_2023.csv
 - format: CSV
   name: ARHS by Deprivation
-  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/2d158224-1adf-4ffc-8e65-a05fe5712ea0/download/arhs_deprivation_01_02_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/2d158224-1adf-4ffc-8e65-a05fe5712ea0/download/arhs_deprivation_28_02_2023.csv
 - format: CSV
   name: ARHS by Council Area
-  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/b0b520e8-3507-46cd-a9b5-cff03007bb57/download/arhs_councilarea_01_02_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/b0b520e8-3507-46cd-a9b5-cff03007bb57/download/arhs_council_area_28_02_2023.csv
 - format: CSV
   name: ARHS by Health Boards
-  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/1cad0a45-a9ce-43f8-9aec-df0aac122764/download/arhs_hbr_01_02_2022.csv
+  url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/1cad0a45-a9ce-43f8-9aec-df0aac122764/download/arhs_hbr2014_28_02_2023.csv
 - format: CSV
   name: ICD-10 Codes
   url: https://www.opendata.nhs.scot/dataset/c4db1692-fa02-4a1c-af4c-6039c74633ea/resource/5e6e7c94-4786-4299-bedb-29f7cfbd26ea/download/icd10.csv

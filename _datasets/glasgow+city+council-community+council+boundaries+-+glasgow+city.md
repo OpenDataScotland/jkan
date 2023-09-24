@@ -1,8 +1,10 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Elections / Politics
+- Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-04-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -23,9 +25,9 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-gc'
 records: null
 resources:
-- format: ZIP
-  name: Community Council Boundaries
-  url: https://data.spatialhub.scot/dataset/65fa1860-3a44-4c71-8fed-82a9ba0e096e/resource/ded5f05a-4ee7-4981-940c-650e0b6b5352/download/community_councils.zip
+- format: WFS
+  name: Community Council boundaries
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Community_Councils/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Community Council Boundaries - Glasgow City
 ---

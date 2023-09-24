@@ -1,10 +1,11 @@
 ---
 category:
+- Elections / Politics
 - Housing and Estates
 - Planning and Development
-date_created: '2017-11-29'
-date_updated: '2022-07-22'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+date_created: ''
+date_updated: '2023-05-05'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Local Authority owned housing stock, by normal use of dwelling</p>
 organization: Scottish Government

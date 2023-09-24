@@ -1,10 +1,15 @@
 ---
 category:
+- Council and Government
+- Elections / Politics
 - Food and Environment
+- Parks / Recreation
+- Planning and Development
+- Sport and Leisure
 - Transportation
 date_created: '2017-07-07'
 date_updated: '2017-07-18'
-license: 'Custom licence: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>Argyll &amp; Bute Council has adopted a Core Paths Plan for the Council\
   \ area, to meet the requirements of the Land Reform (Scotland) Act 2003:\_ It should\

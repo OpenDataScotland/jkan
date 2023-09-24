@@ -1,10 +1,15 @@
 ---
 category:
+- Elections / Politics
 - Food and Environment
+- Housing and Estates
+- Law and Licensing
+- Parks / Recreation
 - Planning and Development
+- Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2022-11-01'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2023-08-09'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Whilst TPOs are a legal requirement they may not always be digitised accurately.
   Users of this data should not assume this data is totally accurate and should consult

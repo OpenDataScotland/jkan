@@ -9,5 +9,5 @@ portal_url: ''
 org_url: 
 twitter_handle: 
 wikidata_org_qid: Q108837009
-wdtk_id: 
+wdtk_id: north_lanarkshire_health_and_social_care_partnership
 ---
