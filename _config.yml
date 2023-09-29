@@ -46,22 +46,19 @@ navigation:
   - title: Suggest dataset
     url: /suggest-dataset/
   - title: Resources
-    url: /resources/
     sub-pages:
-    - title: What is Open Data?
-      url: /whatisod/
-    - title: Working with Open Data
-      url: /workingwithod/
-    - title: Working with Scotland's Open Data
-      url: /ukod/
-    - title: Open Data Projects
-      url: /odprojects/
     - title: About Open Data Scotland
-      url: /aboutods/
+      url: /resources/aboutods/
+    - title: What is Open Data?
+      url: /resources/whatisod/
+    - title: Working with Open Data
+      url: /resources/workingwithod/
+    - title: Open Data Projects
+      url: /resources/odprojects/    
     - title: ODS Media
-      url: /odsmedia/
+      url: /resources/odsmedia/
     - title: Site Analytics
-      url: /siteanalytics/
+      url: /resources/siteanalytics/
 
 
 # Collections
