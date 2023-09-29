@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2022-10-13'
+date_updated: '2023-09-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Patients who require the medical opinion of a specialist clinician may be
@@ -18,10 +18,11 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   does not contain residence information. ISD(S)1 also does not record information
   on the deprivation, age or sex of patients.\r\n\r\nA variety of operations are carried
   out in NHSScotland and, increasingly, less complex procedures are undertaken in
-  an outpatient setting.\r\n\r\nFurther information on hospital activity can be found
-  in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
+  an outpatient setting. For further information on these procedures, see the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
+  section of the Public Health Scotland website.\r\n\r\nFurther information on hospital
+  activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/\r\n</p>
+  list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-activity
 records: null
@@ -64,7 +65,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/882af41a-0983-4987-aee4-ceb57f902ec8/download/outpatient_by_nhs_board_of_treatment_specialty.csv
 - format: CSV
   name: Hospital Locations Lookup File
-  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2022-locations-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2023-locations-lookup.csv
 schema: default
 title: Annual Outpatient Activity
 ---

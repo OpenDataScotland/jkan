@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2022-10-13'
+date_updated: '2023-09-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Inpatients refer to people who are admitted to an available staffed bed
@@ -50,7 +50,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/b44274f2-fa84-4fdf-9a84-5675c2123cef/download/inpatient_and_day_case_by_nhs_board_of_residence_specialty.csv
 - format: CSV
   name: Acitivity by Health Board of Treatment, Age and Sex
-  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/21dba3ac-e64f-479c-8c44-58d1799dd1d4/download/inpatient_and_day_case_by_nhs_board_of_treatment_age_sex.csv
+  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/21dba3ac-e64f-479c-8c44-58d1799dd1d4/download/inpatient_and_day_case_by_nhs_board_of_treatment_simd.csv
 - format: CSV
   name: Activity by Health Board of Treatment and Deprivation
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/f25f5716-895c-4873-8865-72c62cbffc7b/download/inpatient_and_day_case_by_nhs_board_of_treatment_simd.csv
@@ -59,7 +59,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/54613270-bca3-4879-825c-a130c87b7d55/download/inpatient_and_day_case_by_nhs_board_of_treatment_specialty.csv
 - format: CSV
   name: Hospital Locations Lookup File
-  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2022-locations-lookup.csv
+  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2023-locations-lookup.csv
 schema: default
 title: Annual Inpatient and Daycase Activity
 ---
