@@ -4,8 +4,8 @@ category:
 - Food and Environment
 - Housing and Estates
 - Planning and Development
-date_created: '2016-11-22'
-date_updated: '2016-12-09'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council and Dundee City Council have jointly prepared the Annual Audit
@@ -16,23 +16,23 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-housin
 records: null
 resources:
 - format: WMS
-  name: WMS for Housing Land Audit 2014
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_housinglandaudit2014/wms?service=WMS&version=1.1.0&request=GetMap
+  name: wms-for-housing-land-audit-2014.wms
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/2c387ede-cabc-4c15-858b-96b4edc1158a/download/wms-for-housing-land-audit-2014.wms
 - format: KML
-  name: KML for Housing Land Audit 2014
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_housinglandaudit2014&mode=download
+  name: kml-for-housing-land-audit-2014.kml
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/a2edf3f6-fd05-43eb-8c05-57531a9d21b3/download/kml-for-housing-land-audit-2014.kml
 - format: GEOJSON
-  name: GeoJSON for Housing Land Audit 2014
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_housinglandaudit2014&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-housing-land-audit-2014.geojson
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/75b1129c-09ef-4f64-a558-8d70a95d6ba1/download/geojson-for-housing-land-audit-2014.geojson
 - format: WMS
-  name: WMS for Housing Land Audit 2015
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_housinglandaudit2015/wms?service=WMS&request=GetMap
+  name: wms-for-housing-land-audit-2015.wms
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/3142e9c5-0a21-4673-9575-d95133e3d5d3/download/wms-for-housing-land-audit-2015.wms
 - format: KML
-  name: KML for Housing Land Audit 2015
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_housinglandaudit2015&mode=download
+  name: kml-for-housing-land-audit-2015.kml
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/ff4b9c33-6ff4-4032-bfb1-5cacba36b9af/download/kml-for-housing-land-audit-2015.kml
 - format: GEOJSON
-  name: GeoJSON for Housing Land Audit 2015
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_housinglandaudit2015&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-housing-land-audit-2015.geojson
+  url: https://angus.thedata.place/dataset/e88bb2db-d347-49fd-abd1-230450e1193e/resource/32971328-05a0-4efb-825a-15753a043f7c/download/geojson-for-housing-land-audit-2015.geojson
 schema: default
 title: Angus Council Housing Land Audit
 ---

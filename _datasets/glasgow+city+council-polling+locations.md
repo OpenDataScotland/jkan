@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 date_created: '2023-06-15'
 date_updated: '2023-06-15'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: <p>Polling districts and polling locations within Glasgow City Council.</p>
 organization: Glasgow City Council

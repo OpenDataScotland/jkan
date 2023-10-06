@@ -5,7 +5,7 @@ category:
 - Food and Environment
 date_created: '2023-02-03'
 date_updated: '2023-02-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: "<div>This Dataset shows the boundary of Glasgow City Council Low Emission\
   \ Zone.</div>\n<div>A Low Emission Zone is an area where a person may not drive\

@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Housing and Estates
 - Planning and Development
-date_created: '2016-11-25'
-date_updated: '2021-05-07'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Properties that Angus Council owns or occupies or has owned or occupied
@@ -14,17 +14,17 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-proper
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Property
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:ppt_councilproperties/wms?service=wms&request=getmap
+  name: wms-for-angus-council-property.wms
+  url: https://angus.thedata.place/dataset/466a8270-1ee5-4090-adab-3f3b862d9c1f/resource/8845bc0d-af3e-4750-8fd9-14ed97adb5e8/download/wms-for-angus-council-property.wms
 - format: KML
-  name: KML for Angus Council Properties
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:ppt_councilproperties&mode=download
+  name: kml-for-angus-council-properties.kml
+  url: https://angus.thedata.place/dataset/466a8270-1ee5-4090-adab-3f3b862d9c1f/resource/5e45155c-47e9-4528-be1f-c184c4db67c3/download/kml-for-angus-council-properties.kml
 - format: GEOJSON
-  name: GeoJSON for Angus Council Properties
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilproperties&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-angus-council-properties.geojson
+  url: https://angus.thedata.place/dataset/466a8270-1ee5-4090-adab-3f3b862d9c1f/resource/22c9f840-41f8-4429-8078-9ffda647e7df/download/geojson-for-angus-council-properties.geojson
 - format: CSV
-  name: CSV download for Angus Council Properties
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:ppt_councilproperties&outputFormat=csv
+  name: csv-download-for-angus-council-properties.csv
+  url: https://angus.thedata.place/dataset/466a8270-1ee5-4090-adab-3f3b862d9c1f/resource/4f8a0ae9-666c-40db-9e9b-f46f22b1ae1b/download/csv-download-for-angus-council-properties.csv
 schema: default
 title: Angus Council Property
 ---

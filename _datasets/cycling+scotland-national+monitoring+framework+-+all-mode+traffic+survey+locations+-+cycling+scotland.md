@@ -11,12 +11,12 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/68ab155b-875f-43e7-9c4c-c954ad094dfc
 records: null
 resources:
-- format: CSV
-  name: NMF_TemporaryCountLocations_2019_CyclingScotland_USMaster.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393
 - format: JSON
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9dab7bac-c9ca-4c4f-9daa-d2617b328017/1/urql
+- format: CSV
+  name: NMF_TemporaryCountLocations_2019_CyclingScotland_USMaster.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=fd716c64-9be6-431b-843d-ba1d1bd3f393
 schema: default
 title: National Monitoring Framework - all-mode traffic survey locations - Cycling
   Scotland

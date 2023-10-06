@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2023-09-27'
+date_updated: '2023-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>This new building standards data has been created using a custom built

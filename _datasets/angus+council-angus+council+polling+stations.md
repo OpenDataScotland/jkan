@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Transportation
-date_created: '2016-11-30'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Location of current Angus Council polling stations.</p>
@@ -13,14 +13,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-pollin
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Polling Stations
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:law_pollingstations/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-polling-stations.wms
+  url: https://angus.thedata.place/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/d4923d0c-96b2-4db3-9383-8cf7ac7f333a/download/wms-for-angus-council-polling-stations.wms
 - format: KML
-  name: KML for Angus Council Polling Stations
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:law_pollingstations&mode=download
+  name: kml-for-angus-council-polling-stations.kml
+  url: https://angus.thedata.place/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/2de639c0-a9ce-4947-b461-9b0f5ed62c22/download/kml-for-angus-council-polling-stations.kml
 - format: GEOJSON
-  name: GeoJSON for Angus Council Polling Stations
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:law_pollingstations&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-angus-council-polling-stations.geojson
+  url: https://angus.thedata.place/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/ad89f132-31c8-47ea-a1c9-9d54f7d3c2ee/download/geojson-for-angus-council-polling-stations.geojson
 schema: default
 title: Angus Council Polling Stations
 ---

@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 date_created: '2023-04-05'
 date_updated: '2023-04-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: <p>Local voluntary groups, set up by statute (Local Government Scotland 1973),
   intended to act as a voice for their local community, representing the views of

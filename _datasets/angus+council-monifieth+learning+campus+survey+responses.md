@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: '2021-06-10'
-date_updated: '2021-06-15'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Responses to on-line questionnaire seeking feedback on the proposals to
@@ -13,8 +13,8 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-learning-c
 records: null
 resources:
 - format: MS EXCEL
-  name: Copy of MLC Initial Consultation Open Data.xlsx
-  url: http://opendata.angus.gov.uk/dataset/3ba0baef-c389-4467-aa01-2be5a51ce826/resource/1aaa6b12-5dd0-47d6-b361-7abe80447ce5/download/copy-of-mlc-initial-consultation-open-data.xlsx
+  name: copy-of-mlc-initial-consultation-open-data-xlsx.xls
+  url: https://angus.thedata.place/dataset/f0bd16e7-f149-4671-ad24-d1efd9e87804/resource/3060b0e0-352a-4abc-8c1b-94277c8edc61/download/copy-of-mlc-initial-consultation-open-data-xlsx.xls
 schema: default
 title: Monifieth Learning Campus Survey Responses
 ---

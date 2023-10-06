@@ -7,7 +7,7 @@ category:
 - Planning and Development
 date_created: '2023-05-23'
 date_updated: '2023-06-15'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: "<p>The SVDLS for Glasgow, catalogues sites that are technically vacant, conforming\
   \ to the criteria for vacant and derelict land, as set down in the SVDLS guidance,\

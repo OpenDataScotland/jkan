@@ -6,7 +6,7 @@ category:
 - Transportation
 date_created: '2023-06-15'
 date_updated: '2023-07-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
   W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;

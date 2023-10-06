@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Education
-date_created: '2016-11-28'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Nursery school catchment areas (delineated) in Angus.</p>
@@ -12,14 +12,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-nurser
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Nursery School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:edn_pre_schcatchment/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-nursery-school-catchment-areas.wms
+  url: https://angus.thedata.place/dataset/05479556-c216-466f-8e25-1c00963de55d/resource/7efaa26b-42c0-452d-a83c-2e43ed2c476d/download/wms-for-angus-council-nursery-school-catchment-areas.wms
 - format: KML
-  name: KML for Nursery School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:edn_pre_schcatchment&mode=download
+  name: kml-for-nursery-school-catchment-areas.kml
+  url: https://angus.thedata.place/dataset/05479556-c216-466f-8e25-1c00963de55d/resource/27bccaa4-1727-41d3-9e4e-100ce3e4c37a/download/kml-for-nursery-school-catchment-areas.kml
 - format: GEOJSON
-  name: GeoJSON for Nursery School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:edn_pre_schcatchment&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-nursery-school-catchment-areas.geojson
+  url: https://angus.thedata.place/dataset/05479556-c216-466f-8e25-1c00963de55d/resource/8e7ff39a-b215-49af-8302-1f283cc96d27/download/geojson-for-nursery-school-catchment-areas.geojson
 schema: default
 title: Angus Council Nursery School Catchment Areas
 ---

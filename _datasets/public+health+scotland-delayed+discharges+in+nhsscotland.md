@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2020-03-12'
-date_updated: '2023-09-20'
+date_updated: '2023-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These data provide monthly information on the number of hospital bed days
@@ -24,16 +24,16 @@ records: null
 resources:
 - format: CSV
   name: Delayed Discharge Bed Days by Health Board
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/fd354e4b-6211-48ba-8e4f-8356a5ed4215/download/2023-07_delayed-discharge-beddays-health-board.csv
+  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/fd354e4b-6211-48ba-8e4f-8356a5ed4215/download/2023-08_delayed-discharge-beddays-health-board.csv
 - format: CSV
   name: Delayed Discharge Bed Days by Council Area
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/513d2d71-cf73-458e-8b44-4fa9bccbf50a/download/2023-07_delayed-discharge-beddays-council-area.csv
+  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/513d2d71-cf73-458e-8b44-4fa9bccbf50a/download/2023-08_delayed-discharge-beddays-council-area.csv
 - format: CSV
   name: Census Delays by Health Board
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/49ca8a39-7f01-4e2b-acd6-205bc9827852/download/2023-07_delayed-discharge-census-health-board.csv
+  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/49ca8a39-7f01-4e2b-acd6-205bc9827852/download/2023-08_delayed-discharge-census-health-board.csv
 - format: CSV
   name: Census Delays by Council Area
-  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/0924cb38-25e6-431f-b144-7e30ab4a1a0b/download/2023-07_delayed-discharge-census-council-area.csv
+  url: https://www.opendata.nhs.scot/dataset/52591cba-fd71-48b2-bac3-e71ac108dfee/resource/0924cb38-25e6-431f-b144-7e30ab4a1a0b/download/2023-08_delayed-discharge-census-council-area.csv
 - format: CSV
   name: "Delayed Discharge Bed Days by Health Board \u2013 April 2012 \u2013 June\
     \ 2016"

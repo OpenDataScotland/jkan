@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: '2016-11-28'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Current and historic polling district boundaries in Angus Council.</p>
@@ -13,14 +13,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-pollin
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council's Polling Districts
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:law_pollingdistricts/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-polling-districts.wms
+  url: https://angus.thedata.place/dataset/a7b6b72f-f4dc-41b1-b531-298c08a16469/resource/eb112338-6137-43c3-bb33-d47e1da0571b/download/wms-for-angus-council-s-polling-districts.wms
 - format: KML
-  name: KML for Polling Districts
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:law_pollingdistricts&mode=download
+  name: kml-for-polling-districts.kml
+  url: https://angus.thedata.place/dataset/a7b6b72f-f4dc-41b1-b531-298c08a16469/resource/d462023a-fe15-487d-ad9f-b87ecd2dc84b/download/kml-for-polling-districts.kml
 - format: GEOJSON
-  name: GeoJSON for Polling Districts
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:law_pollingdistricts&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-polling-districts.geojson
+  url: https://angus.thedata.place/dataset/a7b6b72f-f4dc-41b1-b531-298c08a16469/resource/eeb243e2-9c94-4c7d-b994-c099bd1a6c8c/download/geojson-for-polling-districts.geojson
 schema: default
 title: Angus Council Polling Districts
 ---

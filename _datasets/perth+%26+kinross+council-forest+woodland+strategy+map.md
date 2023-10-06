@@ -5,9 +5,9 @@ category:
 - Housing and Estates
 - Parks / Recreation
 - Planning and Development
-date_created: '2023-03-29'
-date_updated: '2023-03-29'
-license: No licence
+date_created: '2023-03-27'
+date_updated: '2023-03-27'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<div style=''text-align:Left;font-size:12pt''><div><p><span>The Strategy is
   a land use plan to help identify areas where proposals for woodland creation and
@@ -36,27 +36,27 @@ notes: '<div style=''text-align:Left;font-size:12pt''><div><p><span>The Strategy
   assessed as being physically unsuitable for the growth and management of trees (based
   on the Land Capability for Forestry Map)</span></p></div></div>'
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/forest-woodland-strategy-map
+original_dataset_link: https://data.pkc.gov.uk/maps/f3d4c65b022c4cecbd3b1886d68ed8d6_4
 records: null
 resources:
-- format: HTML
-  name: ArcGIS Hub Dataset
-  url: https://open-data-perth-kinross.hub.arcgis.com/maps/f3d4c65b022c4cecbd3b1886d68ed8d6_4
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data.pkc.gov.uk/maps/f3d4c65b022c4cecbd3b1886d68ed8d6_4
 - format: ARCGIS GEOSERVICE
-  name: ArcGIS GeoService
+  name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: Shapefile
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Forest Woodland Strategy Map
 ---

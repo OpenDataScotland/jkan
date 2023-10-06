@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: '2016-11-30'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council Limited Waiting Restrictions</p>
@@ -11,14 +11,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-limite
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Limited Waiting Restrictions
-  url: http://data.angus.gov.uk/geoserver/services/services:limited_waiting/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-limited-waiting-restrictions.wms
+  url: https://angus.thedata.place/dataset/aa296cf4-7fb4-4d49-8d17-1a374732cf2b/resource/195835e0-5f74-45b7-aa88-faad98287242/download/wms-for-angus-council-limited-waiting-restrictions.wms
 - format: KML
-  name: KML for Angus Council Limited Waiting Restrictions
-  url: http://data.angus.gov.uk/geoserver/services/wms/kml?layers=services:limited_waiting&mode=download
+  name: kml-for-angus-council-limited-waiting-restrictions.kml
+  url: https://angus.thedata.place/dataset/aa296cf4-7fb4-4d49-8d17-1a374732cf2b/resource/05b695a8-4141-415e-88a5-acb58241ee5d/download/kml-for-angus-council-limited-waiting-restrictions.kml
 - format: GEOJSON
-  name: GeoJSON for Angus Council Limited Waiting Restrictions
-  url: http://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services:limited_waiting&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-angus-council-limited-waiting-restrictions.geojson
+  url: https://angus.thedata.place/dataset/aa296cf4-7fb4-4d49-8d17-1a374732cf2b/resource/5ffc0fd2-5324-477d-8eae-7e6584fe66a9/download/geojson-for-angus-council-limited-waiting-restrictions.geojson
 schema: default
 title: Angus Council Limited Waiting Restrictions
 ---

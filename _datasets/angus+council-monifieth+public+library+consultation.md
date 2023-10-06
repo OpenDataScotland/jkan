@@ -1,8 +1,8 @@
 ---
 category:
 - Education
-date_created: '2021-10-20'
-date_updated: '2021-10-28'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Responses to questionnaire seeking feedback on the proposal to include Monifieth
@@ -14,8 +14,8 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/monifieth-public-lib
 records: null
 resources:
 - format: MS EXCEL
-  name: 'Monifieth Public Library Consultation '
-  url: http://opendata.angus.gov.uk/dataset/1d49f9cb-b983-468e-add4-6820f5e0f664/resource/9cdf66b5-7b71-49d2-bfcd-d8819cfb6f0d/download/monifieth-public-library-consultation-open-data.xlsx
+  name: monifieth-public-library-consultation.xls
+  url: https://angus.thedata.place/dataset/fd5a5dd6-2a09-43d1-b1e7-edaa0d599eca/resource/97634adf-2c4b-4dab-850e-b99fa9ef37ea/download/monifieth-public-library-consultation.xls
 schema: default
 title: Monifieth Public Library Consultation
 ---

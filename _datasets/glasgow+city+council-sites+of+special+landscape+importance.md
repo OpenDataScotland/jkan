@@ -3,7 +3,7 @@ category:
 - Food and Environment
 date_created: '2023-04-19'
 date_updated: '2023-04-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: '<div>These are sites that contribute to the quality of life of those who live
   or work in the City. They include parks, golf courses, countryside and other features

@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Planning and Development
-date_created: '2016-11-30'
-date_updated: '2016-12-09'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council Local Development Plan Rural Settlement Units</p>
@@ -12,14 +12,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-rural-
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Rural Settlement Units
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:pln_ruralsettlementunits/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-rural-settlement-units.wms
+  url: https://angus.thedata.place/dataset/aa5118b1-319f-4f75-bc38-bf20c4f2618f/resource/2886ad46-1ae2-414a-826c-8aadd9d581f8/download/wms-for-angus-council-rural-settlement-units.wms
 - format: KML
-  name: KML for Rural Settlement Units
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:pln_ruralsettlementunits&mode=download
-- format: GEOJSON
-  name: GeoJSON for Rural Settlement Units
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:pln_ruralsettlementunits&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: kml-for-rural-settlement-units.kml
+  url: https://angus.thedata.place/dataset/aa5118b1-319f-4f75-bc38-bf20c4f2618f/resource/eaac7bab-7d8d-4adf-a46b-4ce94ce60c48/download/kml-for-rural-settlement-units.kml
+- format: No file type
+  name: geojson-for-rural-settlement-units.geojson
+  url: https://angus.thedata.place/dataset/aa5118b1-319f-4f75-bc38-bf20c4f2618f/resource/6bb4ac12-4851-4063-b0a6-e279156ea2af/download/geojson-for-rural-settlement-units.geojson
 schema: default
 title: Angus Council Rural Settlement Units
 ---

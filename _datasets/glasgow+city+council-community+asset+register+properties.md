@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2023-03-29'
 date_updated: '2023-04-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: '<div>Current resister of community based assets (buildings and land) owned
   by Glasgow City Council and associated bodies. These may include but not be limited

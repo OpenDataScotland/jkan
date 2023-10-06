@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2022-03-14'
 date_updated: '2022-05-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Object Count data collected from over 40 CCTV cameras owned by Glasgow\
   \ City Council. Since 2019, Urban Big Data Centre at University of Glasgow, Glasgow\

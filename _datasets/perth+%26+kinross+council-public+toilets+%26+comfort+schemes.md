@@ -2,9 +2,9 @@
 category:
 - Food and Environment
 - Tourism
-date_created: '2023-03-29'
-date_updated: '2023-03-29'
-license: No licence
+date_created: '2023-03-28'
+date_updated: '2023-05-10'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left; font-size:12pt;'><p><span>The location of Public
   toilets and comfort schemes (free to use public toilets through partnerships with
@@ -12,27 +12,27 @@ notes: <div style='text-align:Left; font-size:12pt;'><p><span>The location of Pu
   and Kinross area. This data supports a web map so the information can be provided
   to the public.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/public-toilets-comfort-schemes
+original_dataset_link: https://data.pkc.gov.uk/maps/4d832f443ed74916af891e2bff6d7c25_27
 records: null
 resources:
-- format: HTML
-  name: ArcGIS Hub Dataset
-  url: https://open-data-perth-kinross.hub.arcgis.com/maps/4d832f443ed74916af891e2bff6d7c25_5
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data.pkc.gov.uk/maps/4d832f443ed74916af891e2bff6d7c25_27
 - format: ARCGIS GEOSERVICE
-  name: ArcGIS GeoService
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/PUBLICTOILETS_COMFORTSCHEMES/FeatureServer/5
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/PUBLICTOILETS_COMFORTSCHEMES/FeatureServer/27
 - format: CSV
   name: CSV
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/4d832f443ed74916af891e2bff6d7c25_5.csv?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/4d832f443ed74916af891e2bff6d7c25_27.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/4d832f443ed74916af891e2bff6d7c25_5.geojson?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/4d832f443ed74916af891e2bff6d7c25_27.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: ZIP
   name: Shapefile
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/4d832f443ed74916af891e2bff6d7c25_5.zip?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/4d832f443ed74916af891e2bff6d7c25_27.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 - format: KML
   name: KML
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/4d832f443ed74916af891e2bff6d7c25_5.kml?outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/datasets/4d832f443ed74916af891e2bff6d7c25_27.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
 schema: default
 title: Public toilets & comfort schemes
 ---

@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2023-07-14'
 date_updated: '2023-07-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: <p>The information relating to these sites is deemed accurate and no responsibility
   can be accepted for errors. The inclusion of sites does not infer site availability

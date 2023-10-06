@@ -2,23 +2,23 @@
 category:
 - Business and Economy
 - Council and Government
-- Law and Licensing
-date_created: '2017-12-07'
-date_updated: '2020-04-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2023-09-29'
+date_updated: '2023-09-29'
+license: No licence
 maintainer: Perth & Kinross Council
-notes: '<p>This is the current contract register for Perth and Kinross Council, pulled
-  from Public Contracts Scotland, the national procurement portal.</p>
-
-  <p>The register is updated on a regular basis, and can be downloaded as either a
-  CSV or Excel file. Some Contract notices are licensed under the <a href="" title="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open
-  Government Licence 3.0</a>.</p>'
+notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+  W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
+  font-size:16px;'>Public Contracts Register for Perth and Kinross Council. Searchable
+  on the Public Contracts Scotland website.</span></p>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/dataset/contract-register
+original_dataset_link: https://data.pkc.gov.uk/documents/perth-kinross::contract-register
 records: null
 resources:
-- format: HTML
-  name: Link to current register
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data.pkc.gov.uk/documents/perth-kinross::contract-register
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
   url: https://www.publiccontractsscotland.gov.uk/Contracts/Contracts_Search.aspx?AuthID=AA00372
 schema: default
 title: Contract Register

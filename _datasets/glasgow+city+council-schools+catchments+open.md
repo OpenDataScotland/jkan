@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2021-06-02'
 date_updated: '2021-06-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: <p>Schools and catchemnts areas</p>
 organization: Glasgow City Council

@@ -4,8 +4,8 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2021-11-12'
-date_updated: '2023-09-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2023-08-10'
+license: No licence
 maintainer: Glasgow City Council
 notes: <p>City Development Plan Policy and Proposals </p>
 organization: Glasgow City Council

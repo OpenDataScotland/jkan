@@ -5,7 +5,7 @@ category:
 - Council and Government
 date_created: '2023-03-29'
 date_updated: '2023-06-15'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: No licence
 maintainer: Glasgow City Council
 notes: "<div><p style='margin-bottom:9pt; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\

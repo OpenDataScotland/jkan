@@ -2,8 +2,8 @@
 category:
 - Council and Government
 - Education
-date_created: '2016-11-28'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Catchment areas (delineated) for secondary schools in Angus.</p>
@@ -12,14 +12,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-second
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Secondary School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:edn_sec_schoolcatchment/wms?service=WMS&request=GetMap
+  name: wms-for-angus-council-secondary-school-catchment-areas.wms
+  url: https://angus.thedata.place/dataset/bd18b0ef-a8a3-44d0-9611-99fea8d9fa4a/resource/ad63edd1-5e26-43ba-a6fd-8bd410db8dc6/download/wms-for-angus-council-secondary-school-catchment-areas.wms
 - format: KML
-  name: KML for Secondary School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:edn_sec_schoolcatchment&mode=download
+  name: kml-for-secondary-school-catchment-areas.kml
+  url: https://angus.thedata.place/dataset/bd18b0ef-a8a3-44d0-9611-99fea8d9fa4a/resource/9ed57179-635f-491e-9f36-47ac50e553f3/download/kml-for-secondary-school-catchment-areas.kml
 - format: GEOJSON
-  name: GeoJSON for Secondary School Catchment Areas
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:edn_sec_schoolcatchment&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-secondary-school-catchment-areas.geojson
+  url: https://angus.thedata.place/dataset/bd18b0ef-a8a3-44d0-9611-99fea8d9fa4a/resource/e3d994d0-ec8a-4c6e-8682-e4ac28dd6aee/download/geojson-for-secondary-school-catchment-areas.geojson
 schema: default
 title: Angus Council Secondary School Catchment Areas
 ---

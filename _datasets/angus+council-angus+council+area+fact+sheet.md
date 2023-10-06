@@ -3,22 +3,24 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: '2017-01-04'
-date_updated: '2017-01-12'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
-notes: "<p>Sourced from National Records of Scotland website the fact sheet brings\
-  \ together up-to-date statistics of the Angus area.\n https://www.nrscotland.gov.uk/statistics-and-data/statistics/stats-at-a-glance/council-area-profiles</p>"
+notes: '<p>Sourced from National Records of Scotland website the fact sheet brings
+  together up-to-date statistics of the Angus area.<br />
+
+  <a href="https://www.nrscotland.gov.uk/statistics-and-data/statistics/stats-at-a-glance/council-area-profiles">https://www.nrscotland.gov.uk/statistics-and-data/statistics/stats-at-a-glance/council-area-profiles</a></p>'
 organization: Angus Council
 original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-area-fact-sheet
 records: null
 resources:
-- format: MS EXCEL
-  name: Angus Council Area Fact Sheet XLS
-  url: http://opendata.angus.gov.uk/dataset/6937ec2d-e0af-435b-8030-66090b0b4033/resource/b94f0cc6-1b9c-4dab-baf4-e6655239ad97/download/angus-council-area-fact-sheet.xls
 - format: PDF
-  name: Angus Council Area Fact Sheet PDF
-  url: http://opendata.angus.gov.uk/dataset/6937ec2d-e0af-435b-8030-66090b0b4033/resource/90530c83-2efc-400a-a6b1-24039d8a6093/download/angus-council-area-fact-sheet.pdf
+  name: angus-council-area-fact-sheet-.pdf
+  url: https://angus.thedata.place/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/e9eb3a8b-dc91-4754-a564-aceb20e84a5d/download/angus-council-area-fact-sheet-.pdf
+- format: MS EXCEL
+  name: angus-council-area-fact-sheet-.xls
+  url: https://angus.thedata.place/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/c5e07ddc-88ac-4aa8-b698-f0bd6e389d91/download/angus-council-area-fact-sheet-.xls
 schema: default
 title: Angus Council Area Fact Sheet
 ---

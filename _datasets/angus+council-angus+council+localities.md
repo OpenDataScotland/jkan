@@ -3,8 +3,8 @@ category:
 - Arts / Culture / History
 - Council and Government
 - Planning and Development
-date_created: '2016-11-28'
-date_updated: '2016-11-30'
+date_created: '2023-09-28'
+date_updated: '2023-09-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Localities used in the Corporate Address Gazetteer for the generation of
@@ -14,14 +14,14 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-locali
 records: null
 resources:
 - format: WMS
-  name: WMS for Angus Council Localities
-  url: http://data.angus.gov.uk/geoserver/inspire/inspire:gaz_localities/wms?service=WMS&request=GetMap
+  name: wms-for-2014-local-plan-town-centres.wms
+  url: https://angus.thedata.place/dataset/2e20c5a5-1895-4434-a3cd-81577bd3e22e/resource/8ed9c9f8-7702-4e5d-bed9-9c5c9b443f25/download/wms-for-2014-local-plan-town-centres.wms
 - format: KML
-  name: KML for Angus Council Localities
-  url: http://data.angus.gov.uk/geoserver/inspire/wms/kml?layers=inspire:gaz_localities&mode=download
+  name: kml-for-town-centres.kml
+  url: https://angus.thedata.place/dataset/2e20c5a5-1895-4434-a3cd-81577bd3e22e/resource/d438a492-869f-4d04-9c9f-bb23f2772bcb/download/kml-for-town-centres.kml
 - format: GEOJSON
-  name: GeoJSON for Localities
-  url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire:gaz_localities&outputFormat=application%2Fjson&srsName=EPSG:3857
+  name: geojson-for-town-centres.geojson
+  url: https://angus.thedata.place/dataset/2e20c5a5-1895-4434-a3cd-81577bd3e22e/resource/ced8655d-e49e-43c8-80b2-f4713729a488/download/geojson-for-town-centres.geojson
 schema: default
 title: Angus Council Localities
 ---
