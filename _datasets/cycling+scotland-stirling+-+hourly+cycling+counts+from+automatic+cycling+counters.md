@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-08-17'
-date_updated: '2023-10-06'
+date_updated: '2023-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time hourly upload from each cycling counter within Stirling Council's

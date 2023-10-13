@@ -3,10 +3,10 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2023-10-03'
+date_updated: '2023-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>Please note that the release of May data has been delayed to 17
+notes: <p><strong>Please note that the release of May data has been delayed to 31
   October. The data for June is also delayed and will be released at a later date
   to be confirmed.</strong> \r\n\r\nThis is because NHS Scotland has introduced a
   new dispensing contractor payment process and system, and extra time is required

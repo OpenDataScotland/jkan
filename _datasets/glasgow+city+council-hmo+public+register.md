@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2022-03-31'
-date_updated: '2023-05-12'
+date_updated: '2023-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\

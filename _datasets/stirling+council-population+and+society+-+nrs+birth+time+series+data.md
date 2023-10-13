@@ -6,7 +6,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2023-03-28'
-date_updated: '2023-03-28'
+date_updated: '2023-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>For each year since 1991, sourced from Table&nbsp; BT.4, \"Births by Sex,\

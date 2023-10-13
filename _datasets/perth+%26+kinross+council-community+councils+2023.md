@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-03-27'
-date_updated: '2023-09-25'
+date_updated: '2023-10-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<div style='text-align:left;'><p><span style='font-size:16px;'>Community Council\

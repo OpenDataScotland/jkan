@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2017-05-25'
-date_updated: '2023-10-04'
+date_updated: '2023-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Alcohol Prohibition Areas within North Ayrshire</p>

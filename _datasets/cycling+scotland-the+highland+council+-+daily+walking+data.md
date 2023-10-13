@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2023-05-02'
-date_updated: '2023-10-06'
+date_updated: '2023-10-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each pedestrian counter within The Highland

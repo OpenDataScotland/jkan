@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-03-29'
-date_updated: '2023-03-29'
+date_updated: '2023-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div>Property rental data from Citylets \u2013 the leading property portal\
