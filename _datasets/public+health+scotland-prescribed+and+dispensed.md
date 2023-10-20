@@ -1,14 +1,22 @@
 ---
 category:
+- Budget / Finance
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2023-08-03'
+date_updated: '2023-10-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This dataset contains details of items prescribed and subsequently dispensed
-  in the community at prescribing location (GP Practices, Dentists and Hospitals)
-  and dispensing locations (Community Pharmacies) within Scotland.\r\n\r\nThe date
-  of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+notes: <p><strong>Please note that the release of April to June data has been delayed
+  to 28 November.</strong>\r\n\r\nThis is because NHS Scotland has introduced a new
+  dispensing contractor payment process and system, and extra time is required to
+  manage the changeover. The new system provides improved automation and the flexibility
+  to adapt to a paperless prescribing future. It also supplies drug reference information
+  in NHS dictionary of medicines and devices (dm+d) format, which will help ensure
+  interoperability with other medicine datasets and facilitate linkage.\r\n\r\nThis
+  dataset contains details of items prescribed and subsequently dispensed in the community
+  at prescribing location (GP Practices, Dentists and Hospitals) and dispensing locations
+  (Community Pharmacies) within Scotland.\r\n\r\nThe date of the next release can
+  be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed

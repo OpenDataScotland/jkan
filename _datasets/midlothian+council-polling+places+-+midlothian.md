@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2023-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Midlothian Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -39,9 +39,9 @@ resources:
 - format: ZIP
   name: Polling Places
   url: https://data.spatialhub.scot/dataset/7a712937-1a73-4aa6-8ffc-0abeb3373179/resource/dfcba15b-f0d9-40fa-b39b-cac1df68bec3/download/pollingplaces.zip
-- format: No file type
+- format: REST
   name: Midlothian Polling Places Updated November 2019
-  url: https://dservices5.arcgis.com/CT2Zj7xubqvzu3yJ/arcgis/services/Midlothian_Polling_Places_for_2019_General_Election/WFSServer?service=wfs&request=getcapabilities?
+  url: https://services5.arcgis.com/CT2Zj7xubqvzu3yJ/ArcGIS/rest/services/Midlothian_Polling_Places_for_2019_General_Election/FeatureServer
 schema: default
 title: Polling Places - Midlothian
 ---
