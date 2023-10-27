@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2022-08-03'
 date_updated: '2022-08-03'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>This data is also available as a Web Feature Service (WFS) at\_<a href='https://dundeecity.maps.arcgis.com/home/item.html?id=fb6c579e53d34149b895aff86c24d069#overview'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://dundeecity.maps.arcgis.com/home/item.html?id=fb6c579e53d34149b895aff86c24d069#overview</a></p>"

@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2018-11-16'
-date_updated: '2021-05-26'
+date_updated: '2023-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Tree Preservation Order 2018</p>

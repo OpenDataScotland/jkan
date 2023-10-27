@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-12-07'
-date_updated: '2023-08-01'
+date_updated: '2023-10-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
