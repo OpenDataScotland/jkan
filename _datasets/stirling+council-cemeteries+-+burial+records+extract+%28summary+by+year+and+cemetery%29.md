@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Sport and Leisure
 date_created: '2023-03-28'
-date_updated: '2023-10-02'
+date_updated: '2023-11-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>This dataset contains the electronic burial records for cemeteries managed\

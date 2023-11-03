@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Public Safety
 date_created: '2021-06-11'
-date_updated: '2023-09-27'
+date_updated: '2023-11-03'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Scotia Gas Network
 notes: "<p>SGN create 4 separate data layers (by pressure tier) to depict the location\
@@ -38,14 +38,23 @@ resources:
   name: 'Scotia Gas Networks: HP Pipes '
   url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnhp
 - format: WFS
-  name: 'Scotia Gas Networks: IP Pipes '
+  name: 'SGN: IP Pipes '
   url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnip
 - format: WFS
-  name: 'Scotia Gas Networks: LP Pipes '
+  name: 'SGN: LP Pipes '
   url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnlp
 - format: WFS
-  name: 'Scotia Gas Networks: MP Pipes '
+  name: 'SGN: MP Pipes '
   url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnmp
+- format: WFS
+  name: 'SGN: HP Pipes Buffer'
+  url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnhpbuffer
+- format: WFS
+  name: 'SGN: IP Pipes Buffer'
+  url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnipbuffer
+- format: WFS
+  name: 'SGN: MP Pipes Buffer'
+  url: https://geo.spatialhub.scot/geoserver/ext_sgn/wfs?service=wfs&typeName=ext_sgn:pub_sgnmpbuffer
 schema: default
 title: SGN Gas Network - Scotland
 ---

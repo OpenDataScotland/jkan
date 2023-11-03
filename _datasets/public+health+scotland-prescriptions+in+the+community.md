@@ -3,29 +3,34 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2023-10-09'
+date_updated: '2023-11-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>Please note that the release of May data has been delayed to 31
-  October. The data for June is also delayed and will be released at a later date
-  to be confirmed.</strong> \r\n\r\nThis is because NHS Scotland has introduced a
-  new dispensing contractor payment process and system, and extra time is required
-  to manage the changeover. The new system provides improved automation and the flexibility
-  to adapt to a paperless prescribing future. It also supplies drug reference information
-  in NHS dictionary of medicines and devices (dm+d) format, which will help ensure
-  interoperability with other medicine datasets and facilitate linkage.\r\n\r\nThis
-  dataset contains details of items dispensed in the community at prescribing location
-  code level for General Practice data and aggregated by NHS Board for other prescriber
-  location types. Items are described at British National Formulary (BNF) item description
-  level.\r\n\r\nAll publications and supporting material to this topic area can be
-  found on the <a href="http://www.isdscotland.org/Health-topics/Prescribing-and-medicines/">Public
-  Health Scotland - Prescribing and Medicines Website</a>. The date of the next release
-  can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>
+notes: <p>This dataset contains details of items dispensed in the community at prescribing
+  location code level for General Practice data and aggregated by NHS Board for other
+  prescriber location types. Items are described at British National Formulary (BNF)
+  item description level.\r\n\r\nThe glossary of terms for this publication can be
+  found on the <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/monthly-prescribing-activity-data-data-for-may-2023/">PHS
+  publication page</a>.  The date of the next release can be found on our list of
+  <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  publications</a>.\r\n\r\nNHS Scotland has introduced a new dispensing contractor
+  payment process and system. Due to this new system, data from May 2023 onwards may
+  not be directly comparable to data published previously and should be interpreted
+  with caution. One area of note is the paid quantity for items with certain formulations
+  may appear significantly higher in data from May 2023 onwards. For example; 1 item
+  of an inhaler may have previously shown a paid quantity of 2 per item. Going forward,
+  this quantity may increase to 240 for 1 item. In these instances, the increased
+  quantity reflects the number of doses or uses within a single item, rather than
+  the quantity of the item itself (e.g. 1 inhaler). Another area of note is that BNF
+  Item Descriptions have changed. Some will not match to those with the same BNF Item
+  code from April 2023 data and earlier.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
+- format: CSV
+  name: Prescribing Data May 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/a0cf1a9f-d8c3-4bda-a8d9-733897c4c288/download/pitc202305.csv
 - format: CSV
   name: Prescribing Data April 2023
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/720699b0-7584-4ddb-9915-79b298189d1d/download/pitc202304.csv

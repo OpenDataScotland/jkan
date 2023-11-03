@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-08-01'
+date_updated: '2023-10-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local authorities are required to conduct an annual survey of the housing
