@@ -7,7 +7,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-16'
-date_updated: '2023-11-03'
+date_updated: '2023-11-07'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Greenspace Scotland
 notes: "<p>All GHiGs datasets cover the whole of Scotland and have been derived by\

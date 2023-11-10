@@ -2,20 +2,22 @@
 category:
 - Business and Economy
 - Council and Government
+- Education
 - Elections / Politics
 - Health and Social Care
 - Planning and Development
 date_created: '2018-07-11'
-date_updated: '2022-11-01'
+date_updated: '2023-11-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Infant feeding statistics capture important aspects of nutrition at the
-  First Visit and 6-8 week review. Data are presented by: NHS health board, council
-  area, maternal age, deprivation and maternal smoking status.\r\n\r\nA <a href="https://publichealthscotland.scot/publications/infant-feeding-statistics/">full
-  publication report</a> and <a href="https://publichealthscotland.scot/media/6522/2020-10-27-infant-feeding-technical-report.pdf">technical
+  First Visit, 6-8 week and 13-15 month reviews. Data are presented by: NHS health
+  board, council area, maternal age, deprivation and maternal smoking status.\r\n\r\nA
+  <a href="https://publichealthscotland.scot/media/23332/2023-11-07-infant-feeding-statistics-report.pdf">full
+  publication report</a> and <a href="https://publichealthscotland.scot/media/23334/2023-11-07-infant-feeding-statistics-technical-report.pdf">technical
   report</a> are available. All publications and supporting material to this topic
-  area can be found on the <a href="http://www.isdscotland.org/Health-Topics/Child-Health/Infant-Feeding/">ISD
-  Scotland - Child Health Website</a>.</p>'
+  area can be found on the <a href="http://www.isdscotland.org/Health-Topics/Child-Health/Child-Health-Programme/Child-Health-Systems-Programme-Pre-School.asp">Public
+  Health Scotland - Child Health Website</a>.\r\n</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/infant-feeding
 records: null

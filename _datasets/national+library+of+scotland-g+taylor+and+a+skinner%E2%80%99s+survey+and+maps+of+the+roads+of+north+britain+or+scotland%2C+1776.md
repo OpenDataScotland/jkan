@@ -8,7 +8,7 @@ maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/metadata-collections/taylor-skinner-survey-maps-roads/
-records: 3
+records: null
 resources:
 - format: ZIP
   name: ZIP

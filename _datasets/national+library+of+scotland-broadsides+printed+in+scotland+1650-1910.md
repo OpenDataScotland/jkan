@@ -8,7 +8,7 @@ maintainer: National Library of Scotland
 notes: '<p>Trial the data: NULL</p>'
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/broadsides-printed-in-scotland/
-records: 16
+records: null
 resources:
 - format: ZIP
   name: ZIP

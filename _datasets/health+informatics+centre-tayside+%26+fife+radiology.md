@@ -1,8 +1,8 @@
 ---
 category:
 - Health and Social Care
-date_created: '2022-03-24'
-date_updated: '2022-11-29'
+date_created: '2023-11-08'
+date_updated: '2023-11-08'
 license: No licence
 maintainer: Health Informatics Centre
 notes: <p>Extracts from local health board Radiology Information System (RIS). - covers

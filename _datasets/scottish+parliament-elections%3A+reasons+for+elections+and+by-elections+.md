@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: ''
-date_updated: '2023-10-06'
+date_updated: '2023-11-04'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of reasons someone ceases to be an MSP. This

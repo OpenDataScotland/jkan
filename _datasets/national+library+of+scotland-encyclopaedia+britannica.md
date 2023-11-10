@@ -8,7 +8,7 @@ maintainer: National Library of Scotland
 notes: '<p>Trial the data: NULL</p>'
 organization: National Library of Scotland
 original_dataset_link: https://data.nls.uk/data/digitised-collections/encyclopaedia-britannica/
-records: 1666
+records: null
 resources:
 - format: ZIP
   name: ZIP

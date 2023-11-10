@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2023-03-06'
-date_updated: '2023-08-30'
+date_updated: '2023-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Schools operated

@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2023-09-30'
+date_updated: '2023-11-05'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: '<p>MSPs: List of constituencies current and previous</p>'

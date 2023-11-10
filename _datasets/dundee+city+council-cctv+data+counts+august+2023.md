@@ -2,13 +2,13 @@
 category:
 - Public Safety
 - Transportation
-date_created: '2023-09-26'
-date_updated: '2023-09-26'
+date_created: '2023-11-08'
+date_updated: '2023-11-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: <p>This data set shows people counts, bicycles counts and road vehicle counts
-  in Dundee City for the period August 2023. The data is sourced from Dundee's CCTV
-  Cameras and is extracted using Briefcam software.</p>
+notes: <p><span>This data set shows people counts, bicycles counts and road vehicle
+  counts in Dundee City for the period August 2023. The data is sourced from Dundee's
+  CCTV Cameras and is extracted using Briefcam software.</span></p>
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-august-2023
 records: null
