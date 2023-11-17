@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2019-04-30'
-date_updated: '2022-09-13'
+date_updated: '2023-11-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Data from the annual Care Home Census for Adults in Scotland.  Data are

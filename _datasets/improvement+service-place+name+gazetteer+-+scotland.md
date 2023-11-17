@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2022-10-25'
-date_updated: '2023-05-29'
+date_updated: '2023-11-15'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>Place-names represent a fundamental geographical identifier, which also\
@@ -24,17 +24,18 @@ notes: "<p>Place-names represent a fundamental geographical identifier, which al
   \ Survey 1:50000 (OS 1:50K) product \u2013 which together form the basis for this\
   \ dataset.   The Gazetteer for Scotland is a descriptive gazetteer, with a modest\
   \ number (22,000) of rich entries, including a textual description and rich feature-typing.\
-  \ The OS 1:50K gazetteer has long been Ordnance Survey's only place-name gazetteer,\
-  \ used as part of numerous applications.  It was decided that, for this new 'definitive'\
-  \ place name gazetteer, any named feature could/ should potentially be included,\
-  \ but it was accepted that the list will always be incomplete.   This dataset could\
-  \ be used (and potentially linked with) other datasets like the One Scotland Gazetteer\
-  \ and the Historical Names gazetteer.  The methodology for this data was a combination\
-  \ of automated and manual editing. Automated methods were used in feature classification\
+  \ At the time of creation, the OS 1:50K gazetteer had long been Ordnance Survey's\
+  \ only place-name gazetteer, used as part of numerous applications.  It was decided\
+  \ that, for this new 'definitive' place name gazetteer, any named feature could/\
+  \ should potentially be included, but it was accepted that the list will always\
+  \ be incomplete.   This dataset could be used (and potentially linked with) other\
+  \ datasets like the Ordnance Survey Open Names, the One Scotland Gazetteer and the\
+  \ Historical Names gazetteer.  The methodology for this data was a combination of\
+  \ automated and manual editing. Automated methods were used in feature classification\
   \ and duplicate detection. Manual editing was required both to confirm or provide\
   \ a feature classification, but also to improve the spatial referencing.  Standards\
   \ had to be adopted; for example water bodies were spatially located by a point\
-  \ which approximated its centre while rivers were spatially located at their termination\
+  \ which approximated its centre, while rivers were spatially located at their termination\
   \ and other liner features by a random point along their length. The former gives\
   \ a useful spatial reference, the latter in many cases does not.  Quality checking\
   \ suggests that 95% of points were located to 100m or better, and 5% located to\

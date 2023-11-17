@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: ''
-date_updated: '2023-11-08'
+date_updated: '2023-11-15'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>A collection of all Members and their Roles within a Cross Party Group.</p>

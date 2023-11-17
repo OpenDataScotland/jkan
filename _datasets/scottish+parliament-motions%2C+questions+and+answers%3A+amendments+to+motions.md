@@ -2,7 +2,7 @@
 category:
 - Arts / Culture / History
 date_created: ''
-date_updated: '2023-11-08'
+date_updated: '2023-11-15'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains the event linking table for Motions, Questions and

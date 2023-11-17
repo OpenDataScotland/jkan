@@ -4,7 +4,7 @@ category:
 - Education
 - Elections / Politics
 date_created: '2023-10-30'
-date_updated: '2023-11-09'
+date_updated: '2023-11-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>This dataset is a Scottish Fuel Poverty Index created in the summer of\
@@ -25,13 +25,26 @@ notes: "<p>This dataset is a Scottish Fuel Poverty Index created in the summer o
   \ in Scotland. A separate file \u201DFuel-poverty-index-raw-data-with-calc.csv\u201D\
   \ is available which contains\n the raw percentages used for the index along with\
   \ a table containing the calculations used to obtain\n the final score and the main\
-  \ FPI data table.</p>\n<p>\u2022  Fuel Poverty Index: This file contains the normalised\
-  \ processed data that makes up the Scottish fuel poverty index with variables being\
-  \ in range of 1 to 100. Some variables have been weighted depending on how important\
-  \ they are to the index. The final scores rating each Scottish local authority from\
-  \ 1 to 100 are also included at the end column.\n \u2022  Raw data: This file contains\
+  \ FPI data table.</p>\n<p>Fuel Poverty Index Excel: This file contains each Scottish\
+  \ local authority's ability to pay score, demand score and final score which were\
+  \ all obtained from the several different variables. The raw data for these variables\
+  \ can be found in the Raw Data file and an explanation for each variable can be\
+  \ found in the User Guide document. The scores are between 1 to 100 and are normalised\
+  \ relative to each other. This means the final scores do not represent the actual\
+  \ physical values for each area.</p>\n<p>Fuel Poverty Index csv: This file contains\
+  \ the normalised processed data that makes up the Scottish fuel poverty index with\
+  \ variables being in range of 1 to 100. Some variables have been weighted depending\
+  \ on how important they are to the index. The final scores rating each Scottish\
+  \ local authority from 1 to 100 are also included.</p>\n<p>Raw data: This file contains\
   \ the raw unprocessed data that the index was created from for all Scottish local\
-  \ authorities. </p>"
+  \ authorities. </p>\n<p>User Guide: This file contains the documentation of the\
+  \ process to create the index as well as descriptions of what each column in the\
+  \ Fuel Poverty Index csv file contain. This file also provides some examples of\
+  \ the visualisation created from the index</p>\n<p>Fuel Poverty Index Shapefile:\
+  \ This folder contains the .shp shape file comprising all the data from Fuel Poverty\
+  \ Index csv, in addition to also having the geospatial polygons associated with\
+  \ each local authority boundary. For the best viewing, the British National Grid\
+  \ EPSG 27700 coordinate system should be used.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/fuel_poverty_index-is'
 records: null
@@ -41,7 +54,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/1bc508dc-4a10-49a7-8210-862e451d0f44/resource/bd86e980-1705-4146-bcd8-f1fe815ff6a0/download/fuel-poverty-index-shape-file.zip
 - format: PDF
   name: User Guide
-  url: https://data.spatialhub.scot/dataset/1bc508dc-4a10-49a7-8210-862e451d0f44/resource/27d72c7b-8c07-4cb6-8424-5aaf0d54a19b/download/scottish_fuel_poverty_index_user_guide.pdf
+  url: https://data.spatialhub.scot/dataset/1bc508dc-4a10-49a7-8210-862e451d0f44/resource/27d72c7b-8c07-4cb6-8424-5aaf0d54a19b/download/scottish_fuel_poverty_index_user_guide_final.pdf
 - format: CSV
   name: Fuel Poverty Index csv
   url: https://data.spatialhub.scot/dataset/1bc508dc-4a10-49a7-8210-862e451d0f44/resource/71e76588-8155-4f43-94cc-ae0a0a374df1/download/final-fuel-poverty-index.csv

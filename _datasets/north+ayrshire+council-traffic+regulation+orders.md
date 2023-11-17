@@ -3,7 +3,7 @@ category:
 - Law and Licensing
 - Transportation
 date_created: '2018-10-30'
-date_updated: '2018-10-30'
+date_updated: '2023-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Traffic Regulation Orders (TROs) impose traffic restrictions such as road
