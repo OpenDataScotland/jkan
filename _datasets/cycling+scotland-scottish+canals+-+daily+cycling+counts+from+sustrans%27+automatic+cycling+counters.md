@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2023-09-19'
-date_updated: '2023-11-17'
+date_updated: '2023-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within Scottish Canals

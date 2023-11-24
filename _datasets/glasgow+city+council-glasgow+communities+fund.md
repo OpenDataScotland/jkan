@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-09-06'
-date_updated: '2023-06-30'
+date_updated: '2023-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p><span style='background-image:initial; background-position:initial; background-size:initial;\
@@ -34,11 +34,11 @@ notes: "<p><span style='background-image:initial; background-position:initial; b
   \ background-clip:initial;'>The data provide awards made covering the period 202</span><span\
   \ style='background-image:initial; background-position:initial; background-size:initial;\
   \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>3</span><span style='background-image:initial; background-position:initial;\
+  \ background-clip:initial;'>0</span><span style='background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
   \ background-origin:initial; background-clip:initial;'>/2</span><span style='background-image:initial;\
   \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>4</span><span\
+  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>1</span><span\
   \ style='background-image:initial; background-position:initial; background-size:initial;\
   \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
   \ background-clip:initial;'> to 202</span><span style='background-image:initial;\

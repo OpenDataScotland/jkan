@@ -10,7 +10,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-09-21'
-date_updated: '2021-06-30'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Scottish Index of Multiple Deprivation (SIMD) splits Scotland into data

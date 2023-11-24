@@ -4,14 +4,14 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2019-04-30'
-date_updated: '2023-11-15'
+date_updated: '2023-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Data from the annual Care Home Census for Adults in Scotland.  Data are
   presented at Scotland and at Local Authority level, and cover the period from 2009/10
-  to 2021/22, excluding the year 2019/20 when the Care Home Census was cancelled due
+  to 2022/23, excluding the year 2019/20 when the Care Home Census was cancelled due
   to the COVID-19 pandemic.\r\n\r\nFurther information on the Care Home Census can
-  be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/care-home-census-for-adults-in-scotland-statistics-for-2012-2022/">latest
+  be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/care-home-census-for-adults-in-scotland-statistics-for-2013-2023/">latest
   publication report and dashboard</a>.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/care-home-census
@@ -68,6 +68,14 @@ resources:
 - format: CSV
   name: Rate of Care Home Places
   url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/d2f8b247-1b0d-40e1-92f8-df8cd21d5a17/download/file12b_rate_of_registered_places.csv
+- format: CSV
+  name: Percentage of Self Funded Long Stay Residents with Free Nursing Care and Free
+    Personal Care
+  url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/2dd0641f-68a8-497a-a502-d83a7b1cd287/download/file13a_percentage_of_self_funded_long_stay_residents_with_free_nursing_care_and_free_personal_c.csv
+- format: CSV
+  name: Number of Self Funded Long Stay Residents with Free Nursing Care and Free
+    Personal Care
+  url: https://www.opendata.nhs.scot/dataset/75cca0a9-780d-40e0-9e1f-5f4796950794/resource/981e1f50-e8c9-4a91-a51d-472f4284f4dc/download/file13b_number_of_self_funded_long_stay_residents_with_free_nursing_care_and_free_personal_care.csv
 schema: default
 title: Care Home Census
 ---
