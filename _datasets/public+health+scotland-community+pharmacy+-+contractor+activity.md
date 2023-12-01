@@ -1,22 +1,15 @@
 ---
 category:
-- Budget / Finance
 - Health and Social Care
 date_created: '2017-09-13'
-date_updated: '2023-10-19'
+date_updated: '2023-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>Please note that the release of April to June data has been delayed
-  to 28 November.</strong>\r\n\r\nThis is because NHS Scotland has introduced a new
-  dispensing contractor payment process and system, and extra time is required to
-  manage the changeover. The new system provides improved automation and the flexibility
-  to adapt to a paperless prescribing future. It also supplies drug reference information
-  in NHS dictionary of medicines and devices (dm+d) format, which will help ensure
-  interoperability with other medicine datasets and facilitate linkage.\r\n\r\nPublic
-  Health Scotland has released Community Pharmacy activity and direct pharmaceutical
-  care services. This information release makes these data available in response to
-  information requests for contractor data relating to specific Community Pharmacy
-  services. \r\n\r\nThe date of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+notes: <p>Public Health Scotland has released Community Pharmacy activity and direct
+  pharmaceutical care services. This information release makes these data available
+  in response to information requests for contractor data relating to specific Community
+  Pharmacy services. \r\n\r\nThe date of the next release can be found on our list
+  of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/community-pharmacy-contractor-activity

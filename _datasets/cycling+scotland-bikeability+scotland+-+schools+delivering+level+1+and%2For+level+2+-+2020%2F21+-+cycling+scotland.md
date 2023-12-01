@@ -19,8 +19,9 @@ resources:
     - Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=892d071f-1787-493b-a8d7-f031979271f9
 - format: CSV
-  name: Bikeability Scotland - Schools delivering Level 1 and_or Level 2 - 2020_21.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6b17067a-86b5-4cbb-ab2f-819bd8e81c24
+  name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21
+    - Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6d992d88-2f2e-4ade-ac6e-b456561aff56
 - format: XML
   name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2020/21
     - Cycling Scotland.xml

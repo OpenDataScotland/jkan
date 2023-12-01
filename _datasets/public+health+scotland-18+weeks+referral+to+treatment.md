@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-07-22'
-date_updated: '2023-08-29'
+date_updated: '2023-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains monthly summaries of whole journey waiting times across

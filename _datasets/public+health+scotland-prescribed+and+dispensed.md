@@ -1,22 +1,14 @@
 ---
 category:
-- Budget / Finance
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2023-10-19'
+date_updated: '2023-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>Please note that the release of April to June data has been delayed
-  to 28 November.</strong>\r\n\r\nThis is because NHS Scotland has introduced a new
-  dispensing contractor payment process and system, and extra time is required to
-  manage the changeover. The new system provides improved automation and the flexibility
-  to adapt to a paperless prescribing future. It also supplies drug reference information
-  in NHS dictionary of medicines and devices (dm+d) format, which will help ensure
-  interoperability with other medicine datasets and facilitate linkage.\r\n\r\nThis
-  dataset contains details of items prescribed and subsequently dispensed in the community
-  at prescribing location (GP Practices, Dentists and Hospitals) and dispensing locations
-  (Community Pharmacies) within Scotland.\r\n\r\nThe date of the next release can
-  be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+notes: <p>This dataset contains details of items prescribed and subsequently dispensed
+  in the community at prescribing location (GP Practices, Dentists and Hospitals)
+  and dispensing locations (Community Pharmacies) within Scotland.\r\n\r\nThe date
+  of the next release can be found on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed
@@ -24,7 +16,7 @@ records: null
 resources:
 - format: CSV
   name: Prescribed & Dispensed 2023
-  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/b6737d3a-feda-45f9-aeca-d25d42b3e397/download/prescribed-dispensed-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/b6737d3a-feda-45f9-aeca-d25d42b3e397/download/prescribed-dispensed-2023-annual.csv
 - format: CSV
   name: Prescribed & Dispensed 2022
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/239e55b9-de1b-43cb-aa7d-9fedda76d200/download/prescribed-dispensed-2022.csv
