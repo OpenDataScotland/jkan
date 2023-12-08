@@ -17,10 +17,10 @@ records: null
 resources:
 - format: PDF
   name: angus-council-area-fact-sheet-.pdf
-  url: https://angus.thedata.place/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/e9eb3a8b-dc91-4754-a564-aceb20e84a5d/download/angus-council-area-fact-sheet-.pdf
+  url: https://opendata.angus.gov.uk/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/e9eb3a8b-dc91-4754-a564-aceb20e84a5d/download/angus-council-area-fact-sheet-.pdf
 - format: MS EXCEL
   name: angus-council-area-fact-sheet-.xls
-  url: https://angus.thedata.place/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/c5e07ddc-88ac-4aa8-b698-f0bd6e389d91/download/angus-council-area-fact-sheet-.xls
+  url: https://opendata.angus.gov.uk/dataset/db422de7-6db9-47e1-92cc-7500881740c2/resource/c5e07ddc-88ac-4aa8-b698-f0bd6e389d91/download/angus-council-area-fact-sheet-.xls
 schema: default
 title: Angus Council Area Fact Sheet
 ---

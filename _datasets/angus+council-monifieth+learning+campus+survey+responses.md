@@ -14,7 +14,7 @@ records: null
 resources:
 - format: MS EXCEL
   name: copy-of-mlc-initial-consultation-open-data-xlsx.xls
-  url: https://angus.thedata.place/dataset/f0bd16e7-f149-4671-ad24-d1efd9e87804/resource/3060b0e0-352a-4abc-8c1b-94277c8edc61/download/copy-of-mlc-initial-consultation-open-data-xlsx.xls
+  url: https://opendata.angus.gov.uk/dataset/f0bd16e7-f149-4671-ad24-d1efd9e87804/resource/3060b0e0-352a-4abc-8c1b-94277c8edc61/download/copy-of-mlc-initial-consultation-open-data-xlsx.xls
 schema: default
 title: Monifieth Learning Campus Survey Responses
 ---

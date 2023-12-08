@@ -3,8 +3,8 @@ category:
 - Education
 - Transportation
 date_created: '2019-10-21'
-date_updated: '2023-02-22'
-license: https://creativecommons.org/licenses/by/4.0/
+date_updated: '2023-12-05'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"This data highlights all secondary schools across Scotland that have received
   a Cycling Scotland Development Fund"</p>

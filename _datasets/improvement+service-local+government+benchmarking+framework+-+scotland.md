@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-11-13'
-date_updated: '2023-11-29'
+date_updated: '2023-12-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a wide\
@@ -39,6 +39,9 @@ resources:
 - format: CSV
   name: LGBF Data Table Real
   url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/7ba35197-7ca7-4477-a38b-01fd4180466b/download/lgbf_data_table_real.csv
+- format: CSV
+  name: LA Data
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/8df819b0-d082-46de-bc43-6b04dbb38e20/download/la_datacsv.csv
 schema: default
 title: Local Government Benchmarking Framework - Scotland
 ---

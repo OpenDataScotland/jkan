@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2023-11-30'
+date_updated: '2023-12-07'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>Contains pseudo-anonymised and linkable clinical imaging data from the National

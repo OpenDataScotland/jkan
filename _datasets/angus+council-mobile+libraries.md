@@ -14,7 +14,7 @@ records: null
 resources:
 - format: TXT
   name: libraries-mobile.txt
-  url: https://angus.thedata.place/dataset/e63949aa-3471-4c48-91f4-c84f99d9d0f7/resource/8332cf12-b70d-4a03-a0d5-eec1e0fcfd5b/download/libraries-mobile.txt
+  url: https://opendata.angus.gov.uk/dataset/e63949aa-3471-4c48-91f4-c84f99d9d0f7/resource/8332cf12-b70d-4a03-a0d5-eec1e0fcfd5b/download/libraries-mobile.txt
 schema: default
 title: Mobile Libraries
 ---

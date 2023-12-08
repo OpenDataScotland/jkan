@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-02-27'
-date_updated: '2023-11-07'
+date_updated: '2023-12-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This is a reference file for health specialties used in NHS Scotland.  The

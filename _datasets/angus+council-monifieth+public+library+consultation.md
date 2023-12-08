@@ -15,7 +15,7 @@ records: null
 resources:
 - format: MS EXCEL
   name: monifieth-public-library-consultation.xls
-  url: https://angus.thedata.place/dataset/fd5a5dd6-2a09-43d1-b1e7-edaa0d599eca/resource/97634adf-2c4b-4dab-850e-b99fa9ef37ea/download/monifieth-public-library-consultation.xls
+  url: https://opendata.angus.gov.uk/dataset/fd5a5dd6-2a09-43d1-b1e7-edaa0d599eca/resource/97634adf-2c4b-4dab-850e-b99fa9ef37ea/download/monifieth-public-library-consultation.xls
 schema: default
 title: Monifieth Public Library Consultation
 ---

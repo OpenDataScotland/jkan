@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: '2017-07-07'
-date_updated: '2023-09-05'
+date_updated: '2023-12-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Boundaries of Primary School Catchment Areas in Argyll and Bute, including

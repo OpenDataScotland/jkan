@@ -14,7 +14,7 @@ records: null
 resources:
 - format: HTML
   name: angus-council-profile-on-public-contract-scotland-website.html
-  url: https://angus.thedata.place/dataset/0826d758-0449-40a6-8309-aa035d7dba2e/resource/17f41a77-35d8-4678-b8bc-4d9b59daa5c0/download/angus-council-profile-on-public-contract-scotland-website.html
+  url: https://opendata.angus.gov.uk/dataset/0826d758-0449-40a6-8309-aa035d7dba2e/resource/17f41a77-35d8-4678-b8bc-4d9b59daa5c0/download/angus-council-profile-on-public-contract-scotland-website.html
 schema: default
 title: Angus Council Contract Award Notices on Public Contracts Scotland
 ---

@@ -21,7 +21,7 @@ records: null
 resources:
 - format: CSV
   name: csv-covid-cases-angus-schools.csv
-  url: https://angus.thedata.place/dataset/9204b3d8-859c-49c0-b15f-d26fa0742793/resource/c980948e-79da-4881-ab30-16d9e80af891/download/csv-covid-cases-angus-schools.csv
+  url: https://opendata.angus.gov.uk/dataset/9204b3d8-859c-49c0-b15f-d26fa0742793/resource/c980948e-79da-4881-ab30-16d9e80af891/download/csv-covid-cases-angus-schools.csv
 schema: default
 title: School Covid-19 - Positive Cases and Isolations
 ---
