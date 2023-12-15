@@ -2,12 +2,12 @@
 category:
 - Uncategorised
 date_created: '2021-10-21'
-date_updated: '2023-11-29'
+date_updated: '2023-12-13'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>Attendance and absence data prepared for linkage and storage through Administrative
   Data Research - Scotland</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/33c0ac73-e444-4bae-b69e-c4bdf2aac232'
 records: null
 resources:

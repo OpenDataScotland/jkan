@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Inverclyde Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,6 +28,9 @@ resources:
 - format: ZIP
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/54c176fc-9c7b-44ac-80a7-a940ba279123/resource/b773f636-e767-46e2-a7c6-eb2a2c32d840/download/inverclyde-community-councils.zip
+- format: ZIP
+  name: Updated Community Council Boundaries
+  url: https://data.spatialhub.scot/dataset/54c176fc-9c7b-44ac-80a7-a940ba279123/resource/7757b2c1-92ff-4e84-b36f-473c146412c5/download/inverclyde_community_councils.zip
 schema: default
 title: Community Council Boundaries - Inverclyde
 ---

@@ -3,12 +3,12 @@ category:
 - Council and Government
 - Education
 date_created: '2021-10-21'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>Pupil census data prepared for linkage and storage through Administrative
   Data Research - Scotland</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/6cf35379-eb16-4d4e-a6e2-0f6aac751b8f'
 records: null
 resources:

@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-10-25'
+date_updated: '2023-12-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -19,9 +19,6 @@ resources:
 - format: ZIP
   name: Housing Land Audit
   url: https://data.spatialhub.scot/dataset/23f1b0ff-053b-4aaa-8d1b-2e5e8a6596c0/resource/0a78732d-1f3d-4629-9f29-7656afbe37a1/download/hla_2022.zip
-- format: ZIP
-  name: Housing Land Audit Tables
-  url: https://data.spatialhub.scot/dataset/23f1b0ff-053b-4aaa-8d1b-2e5e8a6596c0/resource/f3641583-8244-40fb-86c5-d9510adf8c6c/download/hla2022_tables.zip
 - format: CSV
   name: HLA2022 Tables CSV
   url: https://data.spatialhub.scot/dataset/23f1b0ff-053b-4aaa-8d1b-2e5e8a6596c0/resource/4176e16a-948f-4be4-9823-62248d1658e9/download/hla2022_shortversion_isedit.csv

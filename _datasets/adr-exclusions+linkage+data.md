@@ -2,12 +2,12 @@
 category:
 - Uncategorised
 date_created: '2021-10-21'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>Exclusions data prepared for linkage and storage through Administrative
   Data Research - Scotland</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/e32a2c4b-d25c-467d-8ad5-4a12785d4217'
 records: null
 resources:

@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2022-12-16'
+date_updated: '2023-12-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Lothian Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -33,6 +33,9 @@ resources:
 - format: ZIP
   name: Core Paths
   url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/ad3a7522-14ae-4778-a4bc-105d55c21606/download/core-paths-2015-2022-12-16-11-15-57.zip
+- format: ZIP
+  name: Core Paths
+  url: https://data.spatialhub.scot/dataset/e05d7d3e-2f6d-4b0d-82d4-084b68b98159/resource/9220daae-ae77-4c14-b402-b6c475675dd9/download/core_paths_2015-2023-12-08.zip
 schema: default
 title: Paths And Core Paths - East Lothian
 ---

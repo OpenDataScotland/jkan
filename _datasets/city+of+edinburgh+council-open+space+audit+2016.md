@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2022-05-04'
-date_updated: '2023-12-08'
+date_updated: '2023-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>The Open Space Audit (2016) updates the Council\u2019s first Open Space\

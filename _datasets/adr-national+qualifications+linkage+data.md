@@ -2,9 +2,9 @@
 category:
 - Uncategorised
 date_created: '2023-07-27'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>The Qualifications dataset encapsulates the results of Scottish Qualification
   Authority examinations.  Each record contains detailed information about the qualification
   being undertaken as well as the overall result and demographic information about
@@ -12,7 +12,7 @@ notes: <p>The Qualifications dataset encapsulates the results of Scottish Qualif
   the qualifications in the qualifications reference dataset, which helpful for comparing
   qualification results across  different qualification levels and comparing old courses
   with their newer equivalents. Prepared by Administrative Data Research - Scotland.</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/national-qualifications-linkage-data'
 records: null
 resources:

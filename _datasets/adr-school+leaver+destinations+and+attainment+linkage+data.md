@@ -2,15 +2,15 @@
 category:
 - Education
 date_created: '2023-07-27'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>School leaver destinations dataset comprises  one record per pupil giving
   details of pupil characteristics and location, dates and details of leaving, initial
   and follow-up destinations, and attainment.  A leaver subject dataset gives one
   record per qualification, with details of subject and level.    Prepared by Administrative
   Data Research - Scotland.</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/school-leaver-destinations-and-attainment-linkage-data'
 records: null
 resources:

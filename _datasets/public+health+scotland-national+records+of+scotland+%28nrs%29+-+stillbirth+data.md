@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2023-12-06'
+date_updated: '2023-12-14'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>All Registrations to the National Records of Scotland of stillbirths.</p>

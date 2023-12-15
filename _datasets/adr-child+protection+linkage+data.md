@@ -3,9 +3,9 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2023-07-27'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: <p>The Child Protection data is collected at an individual level from local
   authorities. Information is submitted for each investigation and case conference
   held, as well as demographic information for each child. If a member of the public
@@ -13,7 +13,7 @@ notes: <p>The Child Protection data is collected at an individual level from loc
   such as the local authority social work team. If it is decided that the child is
   at risk of significant harm, an investigation will be undertaken. Prepared by Administrative
   Data Research - Scotland.</p>
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/child-protection-linkage-data'
 records: null
 resources:

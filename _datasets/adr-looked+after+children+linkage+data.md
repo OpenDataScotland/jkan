@@ -2,9 +2,9 @@
 category:
 - Uncategorised
 date_created: '2023-07-27'
-date_updated: '2023-11-29'
+date_updated: '2023-12-14'
 license: No licence
-maintainer: Scottish Government
+maintainer: ADR
 notes: "<p>The dataset comprises annual returns provided by local authorities that\
   \ were sent to Scottish Government.\n Placement dataset with one record per care\
   \ placement per child giving details of child characteristics, dates and details\
@@ -12,7 +12,7 @@ notes: "<p>The dataset comprises annual returns provided by local authorities th
   \ dataset with one record per legal reason for care per child giving details of\
   \ child characteristics, dates and legal reasons. Prepared by Administrative Data\
   \ Research - Scotland.</p>"
-organization: Scottish Government
+organization: ADR
 original_dataset_link: ' https://find.researchdata.scot/dataset/looked-after-children-linkage-data'
 records: null
 resources:

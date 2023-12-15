@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2023-07-27'
+date_updated: '2023-12-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -19,8 +19,11 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reser
 records: null
 resources:
 - format: ZIP
-  name: Local Nature Reserves
+  name: Local Nature Reserves SHAPE
   url: https://data.spatialhub.scot/dataset/003c9941-e5bb-4b17-8b98-233360eb0470/resource/3c15f515-0e8b-4828-b55c-781fbe84f1bc/download/local_nature_reserves.zip
+- format: KMZ
+  name: Local Nature Reserves KML
+  url: https://data.spatialhub.scot/dataset/003c9941-e5bb-4b17-8b98-233360eb0470/resource/0d512c7b-6614-4f42-809f-b5667248dbe2/download/aberdeenshire_local_nature_reserves.kmz
 schema: default
 title: Local Nature Reserves - Aberdeenshire
 ---

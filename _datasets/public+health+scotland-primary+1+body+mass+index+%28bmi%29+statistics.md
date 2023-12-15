@@ -7,13 +7,13 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-12-07'
-date_updated: '2022-12-20'
+date_updated: '2023-12-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Primary 1 Body Mass Index (BMI) statistics capture important information
   of the growth of young children. Data are presented by: NHS health board, council
   area, deprivation and sex.\r\n\r\nA <a href="https://publichealthscotland.scot/publications/primary-1-body-mass-index-bmi-statistics-scotland/">full
-  publication report</a> and <a href="https://publichealthscotland.scot/media/6548/2020-12-15-p1-bmi-statistics-technical-report.pdf">technical
+  publication report</a> and <a href="https://publichealthscotland.scot/publications/primary-1-body-mass-index-bmi-statistics-scotland/">technical
   report</a> are available. \r\n\r\nAll publications and supporting material to this
   topic area can be found on the <a href="https://beta.isdscotland.org/find-publications-and-data/population-health/child-health/">PHS
   Scotland - Child Health Website</a>. The date of the next release can be found on

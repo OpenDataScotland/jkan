@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-06-15'
-date_updated: '2023-06-15'
+date_updated: '2023-12-12'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Polling districts and polling locations within Glasgow City Council.</p>
