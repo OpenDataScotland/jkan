@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2023-12-14'
+date_updated: '2023-12-21'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>All registrations to the National Records of Scotland of deaths</p>

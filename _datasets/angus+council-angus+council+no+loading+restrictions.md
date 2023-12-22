@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: '2023-09-28'
-date_updated: '2023-09-28'
+date_created: '2023-12-14'
+date_updated: '2023-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council No Loading Restrictions</p>
@@ -10,15 +10,15 @@ organization: Angus Council
 original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-no-loading-restrictions
 records: null
 resources:
-- format: WMS
-  name: wms-for-angus-council-no-loading-restrictions.wms
-  url: https://opendata.angus.gov.uk/dataset/693f9c81-f541-4fc0-9fc0-8492faaf098a/resource/3948af7e-55ac-4730-b04b-099d94f80fe2/download/wms-for-angus-council-no-loading-restrictions.wms
-- format: KML
-  name: kml-for-angus-council-no-loading-restrictions.kml
-  url: https://opendata.angus.gov.uk/dataset/693f9c81-f541-4fc0-9fc0-8492faaf098a/resource/56e43b03-f57d-4c55-bd83-e6df549eedae/download/kml-for-angus-council-no-loading-restrictions.kml
 - format: GEOJSON
   name: geojson-for-angus-council-no-loading-restrictions.geojson
-  url: https://opendata.angus.gov.uk/dataset/693f9c81-f541-4fc0-9fc0-8492faaf098a/resource/656ba6cc-c588-48b7-85ec-0d55ce1a1168/download/geojson-for-angus-council-no-loading-restrictions.geojson
+  url: https://opendata.angus.gov.uk/dataset/09c246f4-2790-428f-ab97-46ebb413afac/resource/60114559-42e4-4f88-8930-178f4b4caf71/download/geojson-for-angus-council-no-loading-restrictions.geojson
+- format: KML
+  name: kml-for-angus-council-no-loading-restrictions.kml
+  url: https://opendata.angus.gov.uk/dataset/09c246f4-2790-428f-ab97-46ebb413afac/resource/8ffd860c-7717-41e0-90d9-5b7a960664a4/download/kml-for-angus-council-no-loading-restrictions.kml
+- format: WMS
+  name: wms-for-angus-council-no-loading-restrictions.wms
+  url: https://opendata.angus.gov.uk/dataset/09c246f4-2790-428f-ab97-46ebb413afac/resource/3e7fbfa6-c311-4077-9e96-41d6891c1075/download/wms-for-angus-council-no-loading-restrictions.wms
 schema: default
 title: Angus Council No Loading Restrictions
 ---

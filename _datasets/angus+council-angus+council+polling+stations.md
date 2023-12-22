@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Elections / Politics
 - Transportation
-date_created: '2023-09-28'
-date_updated: '2023-09-28'
+date_created: '2023-12-13'
+date_updated: '2023-12-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Location of current Angus Council polling stations.</p>
@@ -12,15 +12,15 @@ organization: Angus Council
 original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-polling-stations
 records: null
 resources:
-- format: WMS
-  name: wms-for-angus-council-polling-stations.wms
-  url: https://opendata.angus.gov.uk/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/d4923d0c-96b2-4db3-9383-8cf7ac7f333a/download/wms-for-angus-council-polling-stations.wms
-- format: KML
-  name: kml-for-angus-council-polling-stations.kml
-  url: https://opendata.angus.gov.uk/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/2de639c0-a9ce-4947-b461-9b0f5ed62c22/download/kml-for-angus-council-polling-stations.kml
 - format: GEOJSON
   name: geojson-for-angus-council-polling-stations.geojson
-  url: https://opendata.angus.gov.uk/dataset/69490e02-25b3-42ed-9193-316d090d71be/resource/ad89f132-31c8-47ea-a1c9-9d54f7d3c2ee/download/geojson-for-angus-council-polling-stations.geojson
+  url: https://opendata.angus.gov.uk/dataset/a97f71fa-0cea-46e1-94c0-62a02e69217d/resource/9af13049-db90-4a19-9011-a111e21d0081/download/geojson-for-angus-council-polling-stations.geojson
+- format: KML
+  name: kml-for-angus-council-polling-stations.kml
+  url: https://opendata.angus.gov.uk/dataset/a97f71fa-0cea-46e1-94c0-62a02e69217d/resource/d0b4945a-d25d-4736-8077-6cde472fa251/download/kml-for-angus-council-polling-stations.kml
+- format: No file type
+  name: wms-for-angus-council-polling-stations.wms
+  url: https://opendata.angus.gov.uk/dataset/a97f71fa-0cea-46e1-94c0-62a02e69217d/resource/96711c41-83f7-4bfa-a484-1f50eb73da66/download/wms-for-angus-council-polling-stations.wms
 schema: default
 title: Angus Council Polling Stations
 ---

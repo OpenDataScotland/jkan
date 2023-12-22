@@ -2,8 +2,8 @@
 category:
 - Budget / Finance
 - Business and Economy
-date_created: '2023-09-28'
-date_updated: '2023-09-29'
+date_created: '2023-12-12'
+date_updated: '2023-12-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Lists of Non Domestic Rates Reliefs (excluding personal data) awarded beginning
@@ -15,32 +15,32 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/non-domestic-rates-r
 records: null
 resources:
 - format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-february-2021.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/a933465b-c3b8-4579-8204-38d47de02ef0/download/non-domestic-rates-relief-recipients-february-2021.xlsx
-- format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-june-2021.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/3ea51743-4de1-483c-9c3d-642d1e6ca706/download/non-domestic-rates-relief-recipients-june-2021.xlsx
-- format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-september-2021.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/f699b391-d191-4d18-bc6d-81be81a4bee8/download/non-domestic-rates-relief-recipients-september-2021.xlsx
-- format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-december-2021.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/767be0b8-fb79-49b6-9fba-604f46f088be/download/non-domestic-rates-relief-recipients-december-2021.xlsx
-- format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-june-2022.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/ec5ccc08-d70e-4970-aac2-99becb0c885c/download/non-domestic-rates-relief-recipients-june-2022.xlsx
-- format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-september-2022.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/6603fd0b-33ad-4af0-8fec-0011ba6d3987/download/non-domestic-rates-relief-recipients-september-2022.xlsx
+  name: non-domestic-rates-relief-recipients-march-2023.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/21bd1f75-b84f-4f00-8837-118b649ed024/download/non-domestic-rates-relief-recipients-march-2023.xlsx
 - format: MS EXCEL
   name: non-domestic-rates-relief-recipients-december-2022.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/2bc28d9b-2ca3-408f-a0f8-1e0e5f29a1e3/download/non-domestic-rates-relief-recipients-december-2022.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/2e7b10a7-90eb-417d-93af-a6d51a5afff4/download/non-domestic-rates-relief-recipients-december-2022.xlsx
 - format: MS EXCEL
-  name: non-domestic-rates-relief-recipients-march-2023.xlsx
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/10df1537-73d1-46d2-a10a-ac8ed7f8267f/download/non-domestic-rates-relief-recipients-march-2023.xlsx
+  name: non-domestic-rates-relief-recipients-september-2022.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/7494cc9e-313c-40bc-9854-9af0c283c198/download/non-domestic-rates-relief-recipients-september-2022.xlsx
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-june-2022.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/b0f984ff-cab4-4061-8343-1063790d887e/download/non-domestic-rates-relief-recipients-june-2022.xlsx
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-december-2021.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/db1ad146-4bce-41a2-842a-2ad9e21154c0/download/non-domestic-rates-relief-recipients-december-2021.xlsx
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-september-2021.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/32bfb99b-c7f1-4957-af19-97752370af30/download/non-domestic-rates-relief-recipients-september-2021.xlsx
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-june-2021.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/44c68e28-4b27-4fa3-aa8c-7368b5686eb2/download/non-domestic-rates-relief-recipients-june-2021.xlsx
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-february-2021.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/b6c40637-56b8-4643-97ae-56c10ac5e59c/download/non-domestic-rates-relief-recipients-february-2021.xlsx
 - format: MS EXCEL
   name: non-domestic-rates-relief-recipients-september-2023-xlsx.xls
-  url: https://opendata.angus.gov.uk/dataset/0d055afd-6167-4795-9be7-ac68b7100e26/resource/5589ad0f-11ce-4e39-8a7a-0205837a7ec4/download/non-domestic-rates-relief-recipients-september-2023-xlsx.xls
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/b40a4d13-fb2a-4a3d-be81-40be681fef42/download/non-domestic-rates-relief-recipients-september-2023-xlsx.xls
 schema: default
-title: Non Domestic Rates Relief Recipients
+title: Non Domestic Rates relief recipients
 ---

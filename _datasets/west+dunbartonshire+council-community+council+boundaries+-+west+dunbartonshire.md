@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2023-12-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West Dunbartonshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,6 +28,9 @@ resources:
 - format: ZIP
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/75080a8e-57d9-42d3-a51e-ede51e4c6434/resource/e397af1a-9330-4f4a-9b7a-b524789c064c/download/cc.zip
+- format: REST
+  name: Updated Community Council Boundaries
+  url: https://services9.arcgis.com/wZYknYToxgELcbw2/ArcGIS/rest/services/Community_Councils/FeatureServer
 schema: default
 title: Community Council Boundaries - West Dunbartonshire
 ---

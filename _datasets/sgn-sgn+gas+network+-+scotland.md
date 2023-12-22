@@ -6,7 +6,7 @@ category:
 date_created: '2021-06-11'
 date_updated: '2023-11-07'
 license: 'Custom licence: Other (Not Open)'
-maintainer: Scotia Gas Network
+maintainer: SGN
 notes: "<p>SGN create 4 separate data layers (by pressure tier) to depict the location\
   \ of their gas network:  LP           - Low Pressure (19 mbar - 75 mbar)  MP   \
   \      - Medium Pressure (75mbar - 2 bar)  IP            - Intermediate Pressure\
@@ -36,7 +36,7 @@ notes: "<p>SGN create 4 separate data layers (by pressure tier) to depict the lo
   \ other GT\u2019s, or third parties, may also be present in the area and are not\
   \ shown in the data.  Information with regard to such pipes should be obtained from\
   \ the relevant owners</p>"
-organization: Scotia Gas Network
+organization: SGN
 original_dataset_link: ' https://data.spatialhub.scot/dataset/sgn_gas_network-sgn'
 records: null
 resources:

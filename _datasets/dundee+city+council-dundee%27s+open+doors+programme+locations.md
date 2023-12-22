@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2023-09-14'
-date_updated: '2023-09-27'
+date_updated: '2023-12-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<div>A programme inviting people in Dundee communities to meet others and

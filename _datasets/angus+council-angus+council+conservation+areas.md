@@ -1,8 +1,8 @@
 ---
 category:
 - Council and Government
-date_created: '2023-09-28'
-date_updated: '2023-09-28'
+date_created: '2023-12-14'
+date_updated: '2023-12-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Conservation areas are areas of special architectural or historic interest.
@@ -12,15 +12,15 @@ organization: Angus Council
 original_dataset_link: http://opendata.angus.gov.uk/dataset/angus-council-conservation-areas
 records: null
 resources:
-- format: WMS
-  name: wms-for-angus-council-conservation-areas.wms
-  url: https://opendata.angus.gov.uk/dataset/63f2bc0d-68b6-4d4b-be50-f739c9a0980f/resource/43f4a6db-e76e-4faf-ab7b-10f2e80f004c/download/wms-for-angus-council-conservation-areas.wms
-- format: KML
-  name: kml-for-conservation-areas.kml
-  url: https://opendata.angus.gov.uk/dataset/63f2bc0d-68b6-4d4b-be50-f739c9a0980f/resource/0005e056-fc62-4a69-98ce-a8f9e0f53f2f/download/kml-for-conservation-areas.kml
 - format: GEOJSON
   name: geojson-for-conservation-areas.geojson
-  url: https://opendata.angus.gov.uk/dataset/63f2bc0d-68b6-4d4b-be50-f739c9a0980f/resource/19cbed24-01f5-406f-a32d-ab5b5dc7f085/download/geojson-for-conservation-areas.geojson
+  url: https://opendata.angus.gov.uk/dataset/47461818-e737-441f-92c0-74907ba9d726/resource/f521e715-0565-4cda-82b8-5b184f1a299d/download/geojson-for-conservation-areas.geojson
+- format: KML
+  name: kml-for-conservation-areas.kml
+  url: https://opendata.angus.gov.uk/dataset/47461818-e737-441f-92c0-74907ba9d726/resource/46e41afb-db5d-4409-bc8a-0d76cb21c149/download/kml-for-conservation-areas.kml
+- format: WMS
+  name: wms-for-angus-council-conservation-areas.wms
+  url: https://opendata.angus.gov.uk/dataset/47461818-e737-441f-92c0-74907ba9d726/resource/819441a6-cdd4-46cf-b7ef-8ead4ce1d28d/download/wms-for-angus-council-conservation-areas.wms
 schema: default
 title: Angus Council Conservation Areas
 ---
