@@ -7,21 +7,17 @@ date_created: '2023-12-12'
 date_updated: '2023-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: "<p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif;\
-  \ font-size:14px;'>This information is also available as a\_</span><a href='https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Districts_Proposed/WFSServer?service=wfs&amp;request=getcapabilities'\
-  \ target='_blank' rel='nofollow ugc noopener noreferrer'>Web Feature Service (WFS)</a><div><span\
-  \ style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif; font-size:14px;'>The\
-  \ Representation of the People Act 1983 places a duty on LA to divide the local\
-  \ authority area into polling districts based on ward boundaries, and to designate\
-  \ a polling place for each district. LAs also have a duty to keep these polling\
-  \ arrangements under review. The Electoral Administration Act 2006 introduced amendments\
-  \ to the 1983 Act (which in turn has been superseded by The Electoral Administration\
-  \ Act 2013). Now local authorities must conduct a full review (with public consultation)\
-  \ of its polling districts and polling places every four years, however adjustments\
-  \ to the boundaries of polling districts and the designation of polling places within\
-  \ LA wards can be proposed at any time in response to changes in ward boundaries\
-  \ or to the availability of premises that can be reasonably designated as polling\
-  \ places.</span></div></p>"
+notes: <div><span style="color:rgb(51,51,51);font-family:Montserrat, sans-serif;font-size:14px;">The
+  Representation of the People Act 1983 places a duty on LA to divide the local authority
+  area into polling districts based on ward boundaries, and to designate a polling
+  place for each district. LAs also have a duty to keep these polling arrangements
+  under review. The Electoral Administration Act 2006 introduced amendments to the
+  1983 Act (which in turn has been superseded by The Electoral Administration Act
+  2013). Now local authorities must conduct a full review (with public consultation)
+  of its polling districts and polling places every four years, however adjustments
+  to the boundaries of polling districts and the designation of polling places within
+  LA wards can be proposed at any time in response to changes in ward boundaries or
+  to the availability of premises that can be reasonably designated as polling places.</span></div>
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-districts-proposed
 records: null

@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-07-14'
-date_updated: '2023-07-14'
+date_updated: '2023-12-22'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>The information relating to these sites is deemed accurate and no responsibility
