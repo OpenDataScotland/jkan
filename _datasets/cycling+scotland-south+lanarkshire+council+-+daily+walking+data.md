@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2023-04-26'
-date_updated: '2023-12-29'
+date_updated: '2024-01-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each pedestrian counter within South Lanarkshire

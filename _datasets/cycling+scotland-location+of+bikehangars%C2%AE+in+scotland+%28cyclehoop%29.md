@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2022-05-19'
-date_updated: '2023-05-03'
+date_updated: '2024-01-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: "<p>\"This dataset contains the locations of Bikehangars\xAE in Edinburgh,\

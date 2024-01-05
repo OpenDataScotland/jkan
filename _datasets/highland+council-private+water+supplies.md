@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-09-27'
-date_updated: '2023-10-11'
+date_updated: '2024-01-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: <p>This dataset contains the location details of Type A and Type B Private

@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2024-01-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,9 +25,9 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-ce'
 records: null
 resources:
-- format: No file type
+- format: REST
   name: Community Councils
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/6
 schema: default
 title: Community Council Boundaries - City of Edinburgh
 ---

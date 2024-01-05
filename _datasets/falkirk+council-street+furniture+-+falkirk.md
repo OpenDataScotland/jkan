@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2023-09-19'
+date_updated: '2024-01-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -37,6 +37,9 @@ resources:
 - format: REST
   name: Bus Stops
   url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/ArcGIS/rest/services/Bus_Stops/FeatureServer
+- format: ZIP
+  name: Falkirk Pedestrian Crossings
+  url: https://data.spatialhub.scot/dataset/d93a2450-b170-4eb7-b5c4-2ed48f85a087/resource/956c7d61-da92-45b3-93e7-e76b5980daab/download/falkirk_pedestrian_crossings.zip
 schema: default
 title: Street Furniture - Falkirk
 ---

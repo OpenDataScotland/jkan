@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Business and Economy
 date_created: '2023-12-12'
-date_updated: '2023-12-12'
+date_updated: '2024-01-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Lists of Non Domestic Rates Reliefs (excluding personal data) awarded beginning
@@ -41,6 +41,9 @@ resources:
 - format: MS EXCEL
   name: non-domestic-rates-relief-recipients-september-2023-xlsx.xls
   url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/b40a4d13-fb2a-4a3d-be81-40be681fef42/download/non-domestic-rates-relief-recipients-september-2023-xlsx.xls
+- format: MS EXCEL
+  name: non-domestic-rates-relief-recipients-march 2022.xlsx
+  url: https://opendata.angus.gov.uk/dataset/822e8ad2-dc48-40af-aab5-fe9e76b1e9f1/resource/de06e75b-2223-4f49-b973-990bff047f4d/download/non-domestic-rates-relief-recipients-march-2022.xlsx
 schema: default
 title: Non Domestic Rates relief recipients
 ---

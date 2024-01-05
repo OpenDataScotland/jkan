@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2023-05-18'
+date_updated: '2024-01-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -37,6 +37,9 @@ resources:
 - format: REST
   name: Street Lighting Columns
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/103/query?outFields=*&where=1%3D1
+- format: ZIP
+  name: Edinburgh Pedestrian Crossings
+  url: https://data.spatialhub.scot/dataset/dcd656c6-3222-4853-b6ed-320a65278d17/resource/da14a209-c428-4360-b116-0c37a6fc0881/download/edinburgh_pedestrian_crossings.zip
 schema: default
 title: Street Furniture - City of Edinburgh
 ---
