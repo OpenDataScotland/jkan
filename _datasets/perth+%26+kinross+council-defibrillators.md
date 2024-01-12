@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2023-03-27'
-date_updated: '2023-07-17'
+date_updated: '2024-01-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Defibrillators

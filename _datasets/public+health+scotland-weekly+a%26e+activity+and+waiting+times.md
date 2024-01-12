@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2023-05-02'
-date_updated: '2024-01-03'
+date_updated: '2024-01-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This is the new weekly Accident &amp; Emergency (A&amp;E) open data area.
@@ -20,8 +20,8 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/weekly-accident-and
 records: null
 resources:
 - format: CSV
-  name: Weekly Accident and Emergency Activity and Waiting Times.csv
-  url: https://www.opendata.nhs.scot/dataset/0d57311a-db66-4eaa-bd6d-cc622b6cbdfa/resource/a5f7ca94-c810-41b5-a7c9-25c18d43e5a4/download/weekly_ae_activity_20231224.csv
+  name: Weekly Accident and Emergency Activity and Waiting Times
+  url: https://www.opendata.nhs.scot/dataset/0d57311a-db66-4eaa-bd6d-cc622b6cbdfa/resource/a5f7ca94-c810-41b5-a7c9-25c18d43e5a4/download/weekly_ae_activity_20231231.csv
 schema: default
 title: Weekly A&E Activity and Waiting Times
 ---

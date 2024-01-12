@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-07-07'
-date_updated: '2023-04-01'
+date_updated: '2024-01-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an electoral\
@@ -22,7 +22,7 @@ notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an el
   \ places</p>"
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=acae4681cabe4ed58d150f3ec9697e25
-records: 116
+records: 99
 resources: []
 schema: default
 title: Open Data - Polling District
