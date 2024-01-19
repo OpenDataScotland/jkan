@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2022-08-08'
-date_updated: '2023-02-21'
+date_updated: '2024-01-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>Conservation Areas are areas of &quot;special architectural or historic\

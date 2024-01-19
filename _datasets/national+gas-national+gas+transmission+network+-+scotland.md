@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2024-01-02'
-date_updated: '2024-01-04'
+date_updated: '2024-01-17'
 license: 'Custom licence: Other (Not Open)'
 maintainer: National Gas
 notes: "<p>This dataset contains data provided by National Gas and is the gas transmission\
@@ -22,7 +22,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/national_gas_trans
 records: null
 resources:
 - format: WFS
-  name: National Gas Transmission Network - Scotland
+  name: 'National Gas Transmission Network '
   url: https://geo.spatialhub.scot/geoserver/ext_ngtn/wfs?service=wfs&typeName=ext_ngtn:pub_ngtn
 schema: default
 title: National Gas Transmission Network - Scotland

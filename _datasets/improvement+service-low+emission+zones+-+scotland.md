@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2022-09-29'
-date_updated: '2023-06-22'
+date_updated: '2024-01-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Low Emission Zones (LEZs) are designed to improve air quality and were introduced
