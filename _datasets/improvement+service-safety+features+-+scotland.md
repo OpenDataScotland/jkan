@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2021-06-11'
-date_updated: '2023-10-20'
+date_updated: '2024-01-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Many Local Authorities capture locational details of certain safety features

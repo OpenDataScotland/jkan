@@ -1,7 +1,7 @@
 ---
 category:
 - Uncategorised
-date_created: '2023-01-01'
+date_created: '2024-01-01'
 date_updated: ''
 license: https://creativecommons.org/licenses/by/4.0/
 maintainer: National Library of Scotland
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-nbs-v3.zip
+  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-nbs-v4.zip
 schema: default
 title: The National Bibliography of Scotland
 ---

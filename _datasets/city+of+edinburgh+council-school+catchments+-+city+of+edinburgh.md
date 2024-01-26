@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2024-01-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -40,12 +40,21 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-ce'
 records: null
 resources:
-- format: No file type
-  name: School Catchments
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: ZIP
   name: Edinburgh School Catchments
   url: https://data.spatialhub.scot/dataset/90e092d9-7d13-4694-9cef-0b59b33a393a/resource/57485782-a90f-4674-a7fd-365975a95f38/download/edinburgh-school-catchments-20190131.zip
+- format: REST
+  name: Secondary School Catchments (Roman Catholic)
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/120
+- format: REST
+  name: Secondary School Catchments (Non Deniminational)
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/119
+- format: REST
+  name: Primary School Catchments (Roman Catholic)
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/118
+- format: REST
+  name: Primary School Catchments (Non-Denominational)
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/117
 schema: default
 title: School Catchments - City of Edinburgh
 ---

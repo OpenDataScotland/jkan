@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-08-22'
-date_updated: '2022-08-22'
+date_updated: '2024-01-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"All-mode traffic data from 48-hour surveys across Scotland in May 2022"</p>
@@ -14,13 +14,13 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/160111b5-6333-48e2-b284-9f6d6fb85f3e/5/urql
 - format: XML
-  name: National Monitoring Framework - all-mode traffic survey results May 2022 -
+  name: National Monitoring Framework - all-mode traffic count results May 2022 -
     Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=3db56b24-458f-43a4-8aef-8c8a3c12a5c2
 - format: CSV
   name: NMF_TS_May_2022.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=39052ef7-21ca-4b3c-ae99-356d826eedbf
 schema: default
-title: National Monitoring Framework - all-mode traffic survey results May 2022 -
-  Cycling Scotland
+title: National Monitoring Framework - all-mode traffic count results May 2022 - Cycling
+  Scotland
 ---

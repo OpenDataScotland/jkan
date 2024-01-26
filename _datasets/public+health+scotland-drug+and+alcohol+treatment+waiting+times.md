@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-27'
-date_updated: '2023-12-19'
+date_updated: '2024-01-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Data are presented on referrals and waiting times for people accessing specialist
@@ -32,7 +32,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/abf54d64-88de-47d8-9c31-49a959abc164/download/ongoingwaits-30-09-2023.csv
 - format: CSV
   name: Demographic Data
-  url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/0502ec31-f26d-47ee-83f5-3c2715276d8e/download/completedwaits-30-09-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/0502ec31-f26d-47ee-83f5-3c2715276d8e/download/demographicsdata-30-09-2023.csv
 - format: CSV
   name: 'Treatment Types '
   url: https://www.opendata.nhs.scot/dataset/2e085b14-3640-4c6a-aab3-b04476d60718/resource/e754eb67-db9e-4193-94f8-fc44172db68e/download/treatmenttypesdata-30-09-2023.csv
