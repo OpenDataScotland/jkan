@@ -5,9 +5,9 @@ category:
 - Housing and Estates
 - Public Safety
 - Transportation
-date_created: '2021-06-11'
-date_updated: '2024-01-25'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_created: '2024-01-31'
+date_updated: '2024-01-31'
+license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018Maintaining\
   \ Scotland\u2019s Roads\u2019, effectively introducing a requirement on local authorities\

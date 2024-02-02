@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2024-01-26'
+date_updated: '2024-02-02'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Special Landscape Areas (SLA) (Moray)</p>

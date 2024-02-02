@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-11-13'
-date_updated: '2023-12-06'
+date_updated: '2024-02-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a wide\

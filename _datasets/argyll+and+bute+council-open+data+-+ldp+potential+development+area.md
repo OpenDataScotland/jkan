@@ -2,8 +2,8 @@
 category:
 - Food and Environment
 - Planning and Development
-date_created: '2017-07-07'
-date_updated: '2024-01-25'
+date_created: '2024-01-26'
+date_updated: '2024-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>Potential Development Areas designated in the Argyll and Bute adopted Local\
@@ -16,9 +16,9 @@ notes: "<p>Potential Development Areas designated in the Argyll and Bute adopted
   \ within the PDA area can be realised and be supported by this plan. A PDA may include\
   \ a number of identifiable development sites</p>"
 organization: Argyll and Bute Council
-original_dataset_link: https://www.arcgis.com/home/item.html?id=6d63d565373b45a394a5fb3fd0ea8694
+original_dataset_link: https://www.arcgis.com/home/item.html?id=507dc3e60d734938a262da3f8569bc6c
 records: 182
 resources: []
 schema: default
-title: Open Data - LDP Potential Development Area Old
+title: Open Data - LDP Potential Development Area
 ---

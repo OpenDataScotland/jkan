@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2023-02-24'
+date_updated: '2024-01-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -59,6 +59,9 @@ resources:
 - format: ZIP
   name: Vacant and Derelict Land
   url: https://data.spatialhub.scot/dataset/5cff3865-da21-4bb3-8275-6a2ba288740a/resource/ee9ac4df-306b-485d-8350-ce55511cb758/download/northayrshire.zip
+- format: ZIP
+  name: SVDLS 2022 shapefiles
+  url: https://data.spatialhub.scot/dataset/5cff3865-da21-4bb3-8275-6a2ba288740a/resource/fa981a00-99ed-48cf-8189-c3a349ec87bd/download/north-ayrshire.zip
 schema: default
 title: Vacant And Derelict Land - North Ayrshire
 ---

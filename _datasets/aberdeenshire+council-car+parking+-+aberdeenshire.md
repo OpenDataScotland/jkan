@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2023-12-13'
+date_updated: '2024-01-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -25,6 +25,9 @@ resources:
 - format: KMZ
   name: Car Parks KML
   url: https://data.spatialhub.scot/dataset/9868697a-eee9-472a-9ae2-596668dc1f6e/resource/513c83c7-a65d-4974-825b-891dfdb772f5/download/car_parks.kmz
+- format: OTHER
+  name: Map of Car Parks
+  url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?&MapName=parking
 schema: default
 title: Car Parking - Aberdeenshire
 ---
