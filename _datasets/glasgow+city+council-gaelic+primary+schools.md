@@ -18,16 +18,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-schools-2.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-schools-2.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-schools-2.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-schools-2.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/kml?layers=0
 schema: default
 title: Gaelic Primary Schools
 ---

@@ -40,10 +40,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/consumer%20affairs%20-%20licensed%20premises%20application%20history/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-licensed-premises-application-history.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/47dc5ef844e444fab0ba406cf239be70/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-affairs-licensed-premises-application-history.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/47dc5ef844e444fab0ba406cf239be70/geojson?layers=0
 schema: default
 title: Consumer affairs - licensed premises application history
 ---

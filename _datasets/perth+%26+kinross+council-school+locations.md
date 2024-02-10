@@ -20,16 +20,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/School_Locations/FeatureServer/55
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::school-locations.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/csv?layers=55
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::school-locations.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/geojson?layers=55
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::school-locations.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/shapefile?layers=55
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::school-locations.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/kml?layers=55
 schema: default
 title: School Locations
 ---

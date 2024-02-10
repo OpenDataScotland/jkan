@@ -19,16 +19,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/64
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-isolated-coast.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/505303266a5e40f69ce38c101f547157/csv?layers=64
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-isolated-coast.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/505303266a5e40f69ce38c101f547157/geojson?layers=64
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-isolated-coast.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/505303266a5e40f69ce38c101f547157/shapefile?layers=64
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-isolated-coast.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/505303266a5e40f69ce38c101f547157/kml?layers=64
 schema: default
 title: LDP2 - Isolated Coast
 ---

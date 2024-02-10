@@ -29,16 +29,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/dbadfece12ff4b79ae14d6891f1cab77/rest/services/OPEN_DATA/School_Census_Secondary_2020/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-secondary-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/dbadfece12ff4b79ae14d6891f1cab77/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-secondary-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/dbadfece12ff4b79ae14d6891f1cab77/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-secondary-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/dbadfece12ff4b79ae14d6891f1cab77/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-secondary-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/dbadfece12ff4b79ae14d6891f1cab77/kml?layers=0
 schema: default
 title: School Census Secondary 2020
 ---

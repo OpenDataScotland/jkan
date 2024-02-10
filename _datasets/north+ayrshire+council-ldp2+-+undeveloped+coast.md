@@ -19,16 +19,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/39
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-undeveloped-coast.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/77f7543b31054729950fa792162db503/csv?layers=39
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-undeveloped-coast.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/77f7543b31054729950fa792162db503/geojson?layers=39
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-undeveloped-coast.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/77f7543b31054729950fa792162db503/shapefile?layers=39
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-undeveloped-coast.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/77f7543b31054729950fa792162db503/kml?layers=39
 schema: default
 title: LDP2 - Undeveloped Coast
 ---

@@ -37,16 +37,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/DCC_Conservation_Areas_2020/FeatureServer/1
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/csv?layers=1
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/geojson?layers=1
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/shapefile?layers=1
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/kml?layers=1
 schema: default
 title: DCC Conservation Areas
 ---

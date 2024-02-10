@@ -19,16 +19,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/MapServer/10
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::north-ayrshire-locality-boundaries.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9823b6cd24b64e1f85eaba6efdfc29b2/csv?layers=10
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::north-ayrshire-locality-boundaries.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9823b6cd24b64e1f85eaba6efdfc29b2/geojson?layers=10
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::north-ayrshire-locality-boundaries.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9823b6cd24b64e1f85eaba6efdfc29b2/shapefile?layers=10
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::north-ayrshire-locality-boundaries.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9823b6cd24b64e1f85eaba6efdfc29b2/kml?layers=10
 schema: default
 title: North Ayrshire Locality Boundaries
 ---

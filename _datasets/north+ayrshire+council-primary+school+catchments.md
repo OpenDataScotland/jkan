@@ -21,16 +21,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/MapServer/0
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::primary-school-catchments.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/f72d7974b9084bf4b0ce3db6528543f1/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::primary-school-catchments.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/f72d7974b9084bf4b0ce3db6528543f1/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::primary-school-catchments.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/f72d7974b9084bf4b0ce3db6528543f1/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::primary-school-catchments.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/f72d7974b9084bf4b0ce3db6528543f1/kml?layers=0
 schema: default
 title: Primary School Catchments
 ---

@@ -18,16 +18,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL//Open_Data_Portal2/FeatureServer/30
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/df3d3a3733a543d2984927de0e24e50a/csv?layers=30
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/df3d3a3733a543d2984927de0e24e50a/geojson?layers=30
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/df3d3a3733a543d2984927de0e24e50a/shapefile?layers=30
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/df3d3a3733a543d2984927de0e24e50a/kml?layers=30
 schema: default
 title: Public Conveniences
 ---

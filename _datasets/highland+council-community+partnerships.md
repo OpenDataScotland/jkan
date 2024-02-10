@@ -22,16 +22,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityPartnerships/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/kml?layers=0
 schema: default
 title: Community Partnerships
 ---

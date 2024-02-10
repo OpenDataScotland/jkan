@@ -18,16 +18,16 @@ resources:
   url: https://services-eu1.arcgis.com/FgpikkYuSUOuITxp/arcgis/rest/services/Low_Emission_Zone/FeatureServer/59
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::low-emission-zone-3.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e44b3b260147448dbab87f7b8f0cd06b/csv?layers=59
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::low-emission-zone-3.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e44b3b260147448dbab87f7b8f0cd06b/geojson?layers=59
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::low-emission-zone-3.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e44b3b260147448dbab87f7b8f0cd06b/shapefile?layers=59
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::low-emission-zone-3.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e44b3b260147448dbab87f7b8f0cd06b/kml?layers=59
 schema: default
 title: Low Emission Zone
 ---

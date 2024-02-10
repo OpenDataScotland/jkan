@@ -26,16 +26,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/kml?layers=0
 schema: default
 title: Core Paths
 ---

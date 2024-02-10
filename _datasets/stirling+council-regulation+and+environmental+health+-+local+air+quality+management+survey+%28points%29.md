@@ -21,16 +21,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Environmental_Local_Air_Quality_Management_Survey_Points/FeatureServer/5
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-local-air-quality-management-survey-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f6bcdf66ebb84c39bd7b5a098a57e589/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-local-air-quality-management-survey-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f6bcdf66ebb84c39bd7b5a098a57e589/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-local-air-quality-management-survey-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f6bcdf66ebb84c39bd7b5a098a57e589/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-local-air-quality-management-survey-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f6bcdf66ebb84c39bd7b5a098a57e589/kml?layers=5
 schema: default
 title: Regulation and environmental health - local air quality management survey (points)
 ---

@@ -18,16 +18,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp_sites_ldp2/FeatureServer/9
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-sites-ldp2.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5dd6872597dc4bcab57ed2b4d523db4f/csv?layers=9
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-sites-ldp2.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5dd6872597dc4bcab57ed2b4d523db4f/geojson?layers=9
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-sites-ldp2.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5dd6872597dc4bcab57ed2b4d523db4f/shapefile?layers=9
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-sites-ldp2.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5dd6872597dc4bcab57ed2b4d523db4f/kml?layers=9
 schema: default
 title: Planning - local development plan sites (ldp2)
 ---

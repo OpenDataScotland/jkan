@@ -30,16 +30,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/ebde93972b5a478ba252551c574c1a8c/rest/services/OPEN_DATA/Cordon_Count_Survey/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebde93972b5a478ba252551c574c1a8c/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebde93972b5a478ba252551c574c1a8c/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebde93972b5a478ba252551c574c1a8c/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebde93972b5a478ba252551c574c1a8c/kml?layers=0
 schema: default
 title: Cordon Count Survey
 ---

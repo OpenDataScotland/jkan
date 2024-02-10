@@ -18,16 +18,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Education_Primary_Schools_for_Verification/FeatureServer/7
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-primary-school-locations.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22302c099e534f6298acf2a02dacb61b/csv?layers=7
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-primary-school-locations.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22302c099e534f6298acf2a02dacb61b/geojson?layers=7
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-primary-school-locations.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22302c099e534f6298acf2a02dacb61b/shapefile?layers=7
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-primary-school-locations.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22302c099e534f6298acf2a02dacb61b/kml?layers=7
 schema: default
 title: Education - primary school locations
 ---

@@ -23,16 +23,16 @@ resources:
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Bus_Facilities/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/057e4927767a4d20b56fbd05a4f89eac/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/057e4927767a4d20b56fbd05a4f89eac/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/057e4927767a4d20b56fbd05a4f89eac/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/057e4927767a4d20b56fbd05a4f89eac/kml?layers=0
 schema: default
 title: Bus Facilities
 ---

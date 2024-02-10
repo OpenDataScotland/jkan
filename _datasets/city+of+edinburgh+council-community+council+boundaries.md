@@ -26,16 +26,16 @@ resources:
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/25
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::community-council-boundaries.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/53f1fdbc9e344778984441681f1c5bd4/csv?layers=25
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::community-council-boundaries.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/53f1fdbc9e344778984441681f1c5bd4/geojson?layers=25
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::community-council-boundaries.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/53f1fdbc9e344778984441681f1c5bd4/shapefile?layers=25
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::community-council-boundaries.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/53f1fdbc9e344778984441681f1c5bd4/kml?layers=25
 schema: default
 title: Community Council Boundaries
 ---

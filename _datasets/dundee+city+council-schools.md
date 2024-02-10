@@ -18,16 +18,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/School_Catchments_2022_View/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::schools.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/csv?layers=4
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::schools.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/geojson?layers=4
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::schools.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/shapefile?layers=4
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::schools.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/kml?layers=4
 schema: default
 title: Schools
 ---

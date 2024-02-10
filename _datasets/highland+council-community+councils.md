@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-05-15'
-date_updated: '2023-09-25'
+date_updated: '2024-02-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<div><span style=''font-size:medium;''>Community Councils in The Highland
@@ -41,16 +41,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/kml?layers=0
 schema: default
 title: Community Councils
 ---

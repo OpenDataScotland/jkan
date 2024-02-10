@@ -24,16 +24,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/GaelicMediumSchoolCatchments/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/kml?layers=0
 schema: default
 title: Gaelic Medium School Catchments
 ---

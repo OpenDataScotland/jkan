@@ -23,16 +23,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Employment_Land_Audit_2020/FeatureServer/8
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5f29729c03b74e0eacc90e218dc01d9a/csv?layers=8
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5f29729c03b74e0eacc90e218dc01d9a/geojson?layers=8
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5f29729c03b74e0eacc90e218dc01d9a/shapefile?layers=8
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5f29729c03b74e0eacc90e218dc01d9a/kml?layers=8
 schema: default
 title: Employment Land Audit 2020
 ---

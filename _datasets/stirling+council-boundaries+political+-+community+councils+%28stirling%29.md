@@ -32,16 +32,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Community_Councils_Stirling/FeatureServer/2
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/503035cefb824bd1b506d6f8efda860e/csv?layers=2
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/503035cefb824bd1b506d6f8efda860e/geojson?layers=2
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/503035cefb824bd1b506d6f8efda860e/shapefile?layers=2
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-community-councils-stirling.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/503035cefb824bd1b506d6f8efda860e/kml?layers=2
 schema: default
 title: Boundaries political - community councils (stirling)
 ---

@@ -19,16 +19,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Parking_Control_Zones/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::traffic-management-parking-control-zones.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/csv?layers=4
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::traffic-management-parking-control-zones.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/geojson?layers=4
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::traffic-management-parking-control-zones.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/shapefile?layers=4
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::traffic-management-parking-control-zones.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/kml?layers=4
 schema: default
 title: Traffic management - parking control zones
 ---

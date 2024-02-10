@@ -26,10 +26,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/waste%20management%20-%20domestic%20waste%20collections%20by%20year%20(2018)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-domestic-waste-collections-for-year-2018.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a23a1052f0314f558bb63b536fc5d9e9/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-domestic-waste-collections-for-year-2018.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a23a1052f0314f558bb63b536fc5d9e9/geojson?layers=0
 schema: default
 title: Waste management - domestic waste collections for year (2018)
 ---

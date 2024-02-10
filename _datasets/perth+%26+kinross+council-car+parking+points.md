@@ -22,16 +22,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Parking_Points/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::car-parking-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::car-parking-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::car-parking-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::car-parking-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/kml?layers=6
 schema: default
 title: Car Parking Points
 ---

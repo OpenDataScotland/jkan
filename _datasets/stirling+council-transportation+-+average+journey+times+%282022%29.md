@@ -69,10 +69,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20average%20journey%20times%20(2022)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-average-journey-times-2022.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/d92748ccb82f46b0ad1e9660ad2eae6f/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-average-journey-times-2022.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/d92748ccb82f46b0ad1e9660ad2eae6f/geojson?layers=0
 schema: default
 title: Transportation - average journey times (2022)
 ---

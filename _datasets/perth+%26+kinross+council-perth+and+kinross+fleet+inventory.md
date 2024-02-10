@@ -16,9 +16,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::perth-and-kinross-fleet-inventory
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::perth-and-kinross-fleet-inventory.csv?where=1=1
 schema: default
 title: Perth and Kinross Fleet Inventory
 ---

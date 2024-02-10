@@ -25,10 +25,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/waste%20management%20-%20collection%20routes%20summary%20(from%20september%202021)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-collection-routes-summary-from-september-2021-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1ef9c94e0b9e4e3baf26d09fab6f03f1/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::waste-management-collection-routes-summary-from-september-2021-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1ef9c94e0b9e4e3baf26d09fab6f03f1/geojson?layers=0
 schema: default
 title: Waste management - collection routes summary (from september 2021)
 ---

@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Housing and Estates
 date_created: '2024-01-17'
-date_updated: '2024-02-01'
+date_updated: '2024-02-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>This Data is managed by Neighbourhood Services /\_<a href='https://www.dundeecity.gov.uk/service-area/neighbourhood-services/environment/environmental-management'\
@@ -29,16 +29,16 @@ resources:
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Benches/WFSServer?service=wfs&request=getcapabilities
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::benches.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/40893d8dfc1645668fdea49174db4e6c/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::benches.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/40893d8dfc1645668fdea49174db4e6c/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::benches.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/40893d8dfc1645668fdea49174db4e6c/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::benches.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/40893d8dfc1645668fdea49174db4e6c/kml?layers=0
 schema: default
 title: Benches
 ---

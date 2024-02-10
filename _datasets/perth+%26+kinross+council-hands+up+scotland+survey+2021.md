@@ -23,9 +23,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::hands-up-scotland-survey-2021
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::hands-up-scotland-survey-2021.csv?where=1=1
 schema: default
 title: Hands Up Scotland Survey 2021
 ---

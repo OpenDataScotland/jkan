@@ -19,16 +19,16 @@ resources:
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/RC_School_Catchments/FeatureServer/59
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::rc-school-catchments.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/d8810b5c84744d0896761a2a8d286744/csv?layers=59
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::rc-school-catchments.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/d8810b5c84744d0896761a2a8d286744/geojson?layers=59
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::rc-school-catchments.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/d8810b5c84744d0896761a2a8d286744/shapefile?layers=59
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::rc-school-catchments.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/d8810b5c84744d0896761a2a8d286744/kml?layers=59
 schema: default
 title: RC School Catchments
 ---

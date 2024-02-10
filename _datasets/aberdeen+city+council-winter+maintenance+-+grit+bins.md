@@ -26,16 +26,16 @@ resources:
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Winter_Maintenance___Grit_Bins/FeatureServer/37
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/27fcd27fe0154dce8977608dcfd5a4c7/csv?layers=37
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/27fcd27fe0154dce8977608dcfd5a4c7/geojson?layers=37
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/27fcd27fe0154dce8977608dcfd5a4c7/shapefile?layers=37
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/27fcd27fe0154dce8977608dcfd5a4c7/kml?layers=37
 schema: default
 title: Winter Maintenance - Grit Bins
 ---

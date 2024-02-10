@@ -28,16 +28,16 @@ resources:
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Core_Paths_2009/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::core-paths-2009.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/9023585537964295bc5a122374afc2d6/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::core-paths-2009.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/9023585537964295bc5a122374afc2d6/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::core-paths-2009.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/9023585537964295bc5a122374afc2d6/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::core-paths-2009.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/9023585537964295bc5a122374afc2d6/kml?layers=0
 schema: default
 title: Core Paths 2009
 ---

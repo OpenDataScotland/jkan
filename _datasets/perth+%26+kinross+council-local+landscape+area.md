@@ -26,16 +26,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Local_Landscape_Area/FeatureServer/28
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/csv?layers=28
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/geojson?layers=28
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/shapefile?layers=28
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/kml?layers=28
 schema: default
 title: Local Landscape Area
 ---

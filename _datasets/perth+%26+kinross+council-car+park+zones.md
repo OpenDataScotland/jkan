@@ -23,16 +23,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Park_Zones/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/2aea35abc08146c4aad5e8650b34d95b_6.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/2aea35abc08146c4aad5e8650b34d95b/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/2aea35abc08146c4aad5e8650b34d95b_6.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/2aea35abc08146c4aad5e8650b34d95b/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/2aea35abc08146c4aad5e8650b34d95b_6.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/2aea35abc08146c4aad5e8650b34d95b/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/2aea35abc08146c4aad5e8650b34d95b_6.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/2aea35abc08146c4aad5e8650b34d95b/kml?layers=6
 schema: default
 title: Car Park Zones
 ---

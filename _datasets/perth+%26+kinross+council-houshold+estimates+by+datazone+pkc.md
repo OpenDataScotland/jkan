@@ -21,9 +21,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::houshold-estimates-by-datazone-pkc
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::houshold-estimates-by-datazone-pkc.csv?where=1=1
 schema: default
 title: Houshold Estimates By Datazone PKC
 ---

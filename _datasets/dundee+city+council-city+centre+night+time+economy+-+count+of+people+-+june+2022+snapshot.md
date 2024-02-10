@@ -45,9 +45,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::city-centre-night-time-economy-count-of-people-june-2022-snapshot
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::city-centre-night-time-economy-count-of-people-june-2022-snapshot.csv?where=1=1
 schema: default
 title: City Centre Night Time Economy - Count of People - June 2022 Snapshot
 ---

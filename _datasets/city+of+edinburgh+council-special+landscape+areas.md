@@ -19,16 +19,16 @@ resources:
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/35
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::special-landscape-areas.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/d5ddbf730de745b6a6494835d598ad98/csv?layers=35
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::special-landscape-areas.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/d5ddbf730de745b6a6494835d598ad98/geojson?layers=35
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::special-landscape-areas.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/d5ddbf730de745b6a6494835d598ad98/shapefile?layers=35
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::special-landscape-areas.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/d5ddbf730de745b6a6494835d598ad98/kml?layers=35
 schema: default
 title: Special Landscape Areas
 ---

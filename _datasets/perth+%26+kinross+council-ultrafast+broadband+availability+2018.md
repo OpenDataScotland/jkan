@@ -28,16 +28,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Ultrafast_Broadband_Availability_2018/FeatureServer/5
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/ab877fa88f8d46dd8682794e04bd1621_5.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/ab877fa88f8d46dd8682794e04bd1621_5.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/ab877fa88f8d46dd8682794e04bd1621_5.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/ab877fa88f8d46dd8682794e04bd1621_5.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/kml?layers=5
 schema: default
 title: Ultrafast Broadband Availability 2018
 ---

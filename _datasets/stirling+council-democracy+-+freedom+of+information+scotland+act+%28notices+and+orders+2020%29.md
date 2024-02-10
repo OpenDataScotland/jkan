@@ -46,10 +46,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/democracy%20-%20freedom%20of%20information%20requests%20(2020)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8a0d270fa98c4ddb8a6c747a897dfc65/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8a0d270fa98c4ddb8a6c747a897dfc65/geojson?layers=0
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders 2020)
 ---

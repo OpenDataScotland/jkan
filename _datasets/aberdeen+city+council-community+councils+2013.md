@@ -24,16 +24,16 @@ resources:
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Community_Councils_2013/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::community-councils-2013.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/6e95f7ad530a47559a104d7563ac1f09/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::community-councils-2013.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/6e95f7ad530a47559a104d7563ac1f09/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::community-councils-2013.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/6e95f7ad530a47559a104d7563ac1f09/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::community-councils-2013.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/6e95f7ad530a47559a104d7563ac1f09/kml?layers=0
 schema: default
 title: Community Councils 2013
 ---

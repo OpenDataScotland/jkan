@@ -19,16 +19,16 @@ resources:
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/SINCs/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-importance-to-nature-conservation.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/368997608ea04812927e422c909117c2/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-importance-to-nature-conservation.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/368997608ea04812927e422c909117c2/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-importance-to-nature-conservation.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/368997608ea04812927e422c909117c2/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-importance-to-nature-conservation.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/368997608ea04812927e422c909117c2/kml?layers=0
 schema: default
 title: Sites of Importance to Nature Conservation
 ---

@@ -18,9 +18,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::ev-charge-station-use-sept-2018-to-aug-2019
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::ev-charge-station-use-sept-2018-to-aug-2019.csv?where=1=1
 schema: default
 title: EV Charge Station Use Sept 2018 to Aug 2019
 ---

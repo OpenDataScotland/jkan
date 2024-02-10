@@ -47,16 +47,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/csv?layers=4
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/geojson?layers=4
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/shapefile?layers=4
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/f3d4c65b022c4cecbd3b1886d68ed8d6_4.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/kml?layers=4
 schema: default
 title: Forest Woodland Strategy Map
 ---

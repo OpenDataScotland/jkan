@@ -145,10 +145,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20land%20area%20population%20density%20(2020-2021)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-land-area-population-density.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f699e8fee78346419a4b5a6aad59b9cc/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-nrs-land-area-population-density.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f699e8fee78346419a4b5a6aad59b9cc/geojson?layers=0
 schema: default
 title: Population and society - nrs land area population density
 ---

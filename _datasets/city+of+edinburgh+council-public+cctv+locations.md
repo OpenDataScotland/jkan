@@ -27,16 +27,16 @@ resources:
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/5
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::public-cctv-locations.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/0c4720e2845d497fbf139a5e2a52a1fc/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::public-cctv-locations.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/0c4720e2845d497fbf139a5e2a52a1fc/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::public-cctv-locations.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/0c4720e2845d497fbf139a5e2a52a1fc/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::public-cctv-locations.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/0c4720e2845d497fbf139a5e2a52a1fc/kml?layers=5
 schema: default
 title: Public CCTV Locations
 ---

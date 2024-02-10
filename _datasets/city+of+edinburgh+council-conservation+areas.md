@@ -24,16 +24,16 @@ resources:
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/17
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::conservation-areas.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/32af5f3e804b4b4485a46a068ef4d77c/csv?layers=17
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::conservation-areas.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/32af5f3e804b4b4485a46a068ef4d77c/geojson?layers=17
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::conservation-areas.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/32af5f3e804b4b4485a46a068ef4d77c/shapefile?layers=17
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::conservation-areas.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/32af5f3e804b4b4485a46a068ef4d77c/kml?layers=17
 schema: default
 title: Conservation Areas
 ---

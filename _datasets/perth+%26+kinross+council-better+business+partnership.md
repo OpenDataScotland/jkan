@@ -20,16 +20,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Better_Business_Partnership/FeatureServer/5
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/19c734e9091e4642a3aebfda031f49e2_5.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/19c734e9091e4642a3aebfda031f49e2_5.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/19c734e9091e4642a3aebfda031f49e2_5.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/19c734e9091e4642a3aebfda031f49e2_5.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/kml?layers=5
 schema: default
 title: Better Business Partnership
 ---

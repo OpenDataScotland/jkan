@@ -18,16 +18,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/School_Catchments_2022_View/FeatureServer/1
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::denominational-secondary-catchments-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/csv?layers=1
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::denominational-secondary-catchments-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/geojson?layers=1
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::denominational-secondary-catchments-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/shapefile?layers=1
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::denominational-secondary-catchments-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aea4bac6704b4735ac8309294479404e/kml?layers=1
 schema: default
 title: Denominational Secondary Catchments
 ---

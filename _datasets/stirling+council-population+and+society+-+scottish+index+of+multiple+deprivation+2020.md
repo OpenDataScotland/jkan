@@ -53,16 +53,16 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scottish%20index%20of%20multiple%20deprivation%20(stirling)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/kml?layers=0
 schema: default
 title: Population and society - scottish index of multiple deprivation 2020
 ---

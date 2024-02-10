@@ -46,10 +46,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/democracy%20-%20freedom%20of%20information%20scotland%20act%20(notices%20and%20orders%20july%20-%20september%202021)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-july-september-2021.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf5e8963232f473bb68de6573621fcdf/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::democracy-freedom-of-information-scotland-act-notices-and-orders-july-september-2021.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf5e8963232f473bb68de6573621fcdf/geojson?layers=0
 schema: default
 title: Democracy - freedom of information scotland act (notices and orders july -
   september 2021)

@@ -30,16 +30,16 @@ resources:
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Low_Emission_Zone/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c15a560be53f45beb0c01f1169b5d8eb/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c15a560be53f45beb0c01f1169b5d8eb/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c15a560be53f45beb0c01f1169b5d8eb/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::low-emission-zone-lez-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c15a560be53f45beb0c01f1169b5d8eb/kml?layers=0
 schema: default
 title: Low Emission Zone (LEZ)
 ---

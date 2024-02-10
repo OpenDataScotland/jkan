@@ -23,9 +23,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::roads-defects-and-maintenance-2018-2019
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::roads-defects-and-maintenance-2018-2019.csv?where=1=1
 schema: default
 title: Roads Defects And Maintenance 2018-2019
 ---

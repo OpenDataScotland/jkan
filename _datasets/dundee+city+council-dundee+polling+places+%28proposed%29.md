@@ -35,16 +35,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places-proposed.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places-proposed.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places-proposed.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places-proposed.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/kml?layers=0
 schema: default
 title: Dundee Polling Places (Proposed)
 ---

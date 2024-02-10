@@ -18,16 +18,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer/5
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-catchment-areas.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-catchment-areas.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-catchment-areas.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::gaelic-primary-catchment-areas.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/kml?layers=5
 schema: default
 title: Gaelic Primary Catchment Areas
 ---

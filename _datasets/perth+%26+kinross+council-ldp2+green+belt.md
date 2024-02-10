@@ -19,16 +19,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/LDP2_Green_Belt/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/kml?layers=6
 schema: default
 title: LDP2 Green Belt
 ---

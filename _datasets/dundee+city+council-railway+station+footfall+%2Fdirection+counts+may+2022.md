@@ -45,9 +45,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::railway-station-footfall-direction-counts-may-2022
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::railway-station-footfall-direction-counts-may-2022.csv?where=1=1
 schema: default
 title: Railway Station Footfall /Direction Counts May 2022
 ---

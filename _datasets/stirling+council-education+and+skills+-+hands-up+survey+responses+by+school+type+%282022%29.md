@@ -62,10 +62,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20hands-up%20survey%20responses%20by%20school%20type%20(2022)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-responses-by-school-type-2022.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fc5ce67063714b6399c04e043d4c4ed6/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-responses-by-school-type-2022.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fc5ce67063714b6399c04e043d4c4ed6/geojson?layers=0
 schema: default
 title: Education and skills - hands-up survey responses by school type (2022)
 ---

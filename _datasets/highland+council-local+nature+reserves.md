@@ -25,16 +25,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/LocalNatureReserves/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0.csv?where=1=1
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/3b2b6a78298b42eea6b966739745248f/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0.geojson?where=1=1
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/3b2b6a78298b42eea6b966739745248f/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0.zip?where=1=1
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/3b2b6a78298b42eea6b966739745248f/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0.kml?where=1=1
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/3b2b6a78298b42eea6b966739745248f/kml?layers=0
 schema: default
 title: Local Nature Reserves
 ---

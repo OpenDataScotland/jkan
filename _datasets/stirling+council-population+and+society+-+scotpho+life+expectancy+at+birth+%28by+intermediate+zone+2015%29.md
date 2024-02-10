@@ -75,10 +75,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scotpho%20life%20expectancy%20at%20birth%20(by%20intermediate%20zone%202015)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2015.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/64dc3eedcf894122aca2f30732695227/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scotpho-life-expectancy-at-birth-by-intermediate-zone-2015.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/64dc3eedcf894122aca2f30732695227/geojson?layers=0
 schema: default
 title: Population and society - scotpho life expectancy at birth (by intermediate
   zone 2015)

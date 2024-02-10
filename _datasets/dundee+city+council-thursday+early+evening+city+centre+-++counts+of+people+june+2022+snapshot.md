@@ -43,9 +43,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::thursday-early-evening-city-centre-counts-of-people-june-2022-snapshot
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::thursday-early-evening-city-centre-counts-of-people-june-2022-snapshot.csv?where=1=1
 schema: default
 title: Thursday Early Evening City Centre -  Counts Of People June 2022 Snapshot
 ---

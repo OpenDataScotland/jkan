@@ -18,16 +18,16 @@ resources:
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/12
 - format: CSV
   name: CSV
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::cemeteries.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/csv?layers=12
 - format: GEOJSON
   name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::cemeteries.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/geojson?layers=12
 - format: ZIP
   name: Shapefile
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::cemeteries.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/shapefile?layers=12
 - format: KML
   name: KML
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::cemeteries.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/kml?layers=12
 schema: default
 title: Cemeteries
 ---

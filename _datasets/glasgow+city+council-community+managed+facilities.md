@@ -26,16 +26,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/ea63fcac577e4cefb6e632cd8d84365b/rest/services/OPEN_DATA/Public_Buildings/MapServer/2
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::community-managed-facilities-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ea63fcac577e4cefb6e632cd8d84365b/csv?layers=2
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::community-managed-facilities-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ea63fcac577e4cefb6e632cd8d84365b/geojson?layers=2
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::community-managed-facilities-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ea63fcac577e4cefb6e632cd8d84365b/shapefile?layers=2
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::community-managed-facilities-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ea63fcac577e4cefb6e632cd8d84365b/kml?layers=2
 schema: default
 title: Community Managed Facilities
 ---

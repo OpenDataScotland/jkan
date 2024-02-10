@@ -21,10 +21,10 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/CCTV_Data_Counts_August_2023/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-august-2023.csv?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/90ce515ccc9a496f8f61c84d2eb01488/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-august-2023.geojson?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/90ce515ccc9a496f8f61c84d2eb01488/geojson?layers=0
 schema: default
 title: CCTV Data Counts August 2023
 ---

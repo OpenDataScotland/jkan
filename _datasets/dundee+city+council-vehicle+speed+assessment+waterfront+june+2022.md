@@ -39,9 +39,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::vehicle-speed-assessment-waterfront-june-2022
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::vehicle-speed-assessment-waterfront-june-2022.csv?where=1=1
 schema: default
 title: Vehicle Speed Assessment Waterfront June 2022
 ---

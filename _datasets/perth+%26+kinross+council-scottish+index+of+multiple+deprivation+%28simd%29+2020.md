@@ -24,9 +24,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::scottish-index-of-multiple-deprivation-simd-2020
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::scottish-index-of-multiple-deprivation-simd-2020.csv?where=1=1
 schema: default
 title: Scottish Index of Multiple Deprivation (SIMD) 2020
 ---

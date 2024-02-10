@@ -31,16 +31,16 @@ resources:
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/LocalDevelopmentPlanAllocations/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/b1872ca2e09d45f1bf632f2730113ea8/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/b1872ca2e09d45f1bf632f2730113ea8/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/b1872ca2e09d45f1bf632f2730113ea8/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/b1872ca2e09d45f1bf632f2730113ea8/kml?layers=0
 schema: default
 title: Local Development Plan Allocations
 ---

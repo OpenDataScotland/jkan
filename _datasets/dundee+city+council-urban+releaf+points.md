@@ -18,16 +18,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Urban_ReLeaf_Points/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/kml?layers=0
 schema: default
 title: Urban ReLeaf Points
 ---

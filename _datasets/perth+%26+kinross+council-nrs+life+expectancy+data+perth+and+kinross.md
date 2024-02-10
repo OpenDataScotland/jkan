@@ -19,9 +19,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::nrs-life-expectancy-data-perth-and-kinross
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::nrs-life-expectancy-data-perth-and-kinross.csv?where=1=1
 schema: default
 title: NRS Life expectancy data Perth and Kinross
 ---

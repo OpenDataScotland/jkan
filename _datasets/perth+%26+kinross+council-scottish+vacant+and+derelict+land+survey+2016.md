@@ -22,16 +22,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Scottish_Vacant_and_Derelict_Land_Survey_2016/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/fa0634fb6f0c4d88af0d5d8de394438f_6.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fa0634fb6f0c4d88af0d5d8de394438f/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/fa0634fb6f0c4d88af0d5d8de394438f_6.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fa0634fb6f0c4d88af0d5d8de394438f/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/fa0634fb6f0c4d88af0d5d8de394438f_6.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fa0634fb6f0c4d88af0d5d8de394438f/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/fa0634fb6f0c4d88af0d5d8de394438f_6.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fa0634fb6f0c4d88af0d5d8de394438f/kml?layers=6
 schema: default
 title: Scottish Vacant and Derelict Land Survey 2016
 ---

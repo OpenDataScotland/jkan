@@ -55,16 +55,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Core_Paths_2020/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/878bffd7f6ff4b4f93c5a0019dc109b8/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/878bffd7f6ff4b4f93c5a0019dc109b8/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/878bffd7f6ff4b4f93c5a0019dc109b8/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/878bffd7f6ff4b4f93c5a0019dc109b8/kml?layers=0
 schema: default
 title: Core Paths
 ---

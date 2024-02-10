@@ -21,16 +21,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Gullies/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/67aced658b5442b3a01da4c1c80ee7f6_6.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/67aced658b5442b3a01da4c1c80ee7f6_6.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/67aced658b5442b3a01da4c1c80ee7f6_6.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/67aced658b5442b3a01da4c1c80ee7f6_6.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/kml?layers=6
 schema: default
 title: Gullies
 ---

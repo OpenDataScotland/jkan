@@ -53,10 +53,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20infrastructure%20-%20cycle%20and%20pedestrian%20counter%20data%20(location%20and%20counter%20summary%202020)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-location-and-counter-summary-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e5809335c6024c1fbdf7241290cc6ef0/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transport-infrastructure-cycle-and-pedestrian-counter-data-location-and-counter-summary-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e5809335c6024c1fbdf7241290cc6ef0/geojson?layers=0
 schema: default
 title: Transport infrastructure - cycle and pedestrian counter data (location and
   counter summary 2020)

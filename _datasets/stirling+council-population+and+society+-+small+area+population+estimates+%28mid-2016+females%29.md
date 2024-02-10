@@ -43,10 +43,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20small%20area%20population%20estimates%20(mid-2016%20females)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6a507e9f0c7b4cbc8d1db2811dddc052/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-small-area-population-estimates-mid-2016-females.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6a507e9f0c7b4cbc8d1db2811dddc052/geojson?layers=0
 schema: default
 title: Population and society - small area population estimates (mid-2016 females)
 ---

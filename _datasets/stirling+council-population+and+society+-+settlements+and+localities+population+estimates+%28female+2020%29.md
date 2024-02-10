@@ -72,10 +72,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/popultation%20and%20society%20-%20settlements%20and%20localities%20population%20estimates%20(female%202020)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlements-and-localities-population-estimates-female-2020.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/633f131cfe234cb0b9dcd5c09b858d2f/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlements-and-localities-population-estimates-female-2020.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/633f131cfe234cb0b9dcd5c09b858d2f/geojson?layers=0
 schema: default
 title: Population and society - settlements and localities population estimates (female
   2020)

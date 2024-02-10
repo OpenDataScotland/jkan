@@ -37,16 +37,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Districts_and_Polling_Stations/FeatureServer/3
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::polling-districts-1.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/dfd30f77e42443dfbfc424141fbc6be4/csv?layers=3
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::polling-districts-1.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/dfd30f77e42443dfbfc424141fbc6be4/geojson?layers=3
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::polling-districts-1.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/dfd30f77e42443dfbfc424141fbc6be4/shapefile?layers=3
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::polling-districts-1.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/dfd30f77e42443dfbfc424141fbc6be4/kml?layers=3
 schema: default
 title: Polling Districts
 ---

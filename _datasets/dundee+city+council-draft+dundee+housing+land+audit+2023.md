@@ -27,16 +27,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/2022_23HLADraft/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::draft-dundee-housing-land-audit-2023.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ba9e93feceb54dcbb80cb3f79d3c19c3/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::draft-dundee-housing-land-audit-2023.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ba9e93feceb54dcbb80cb3f79d3c19c3/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::draft-dundee-housing-land-audit-2023.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ba9e93feceb54dcbb80cb3f79d3c19c3/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::draft-dundee-housing-land-audit-2023.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ba9e93feceb54dcbb80cb3f79d3c19c3/kml?layers=0
 schema: default
 title: Draft Dundee Housing Land Audit 2023
 ---

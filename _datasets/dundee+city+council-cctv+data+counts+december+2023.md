@@ -22,10 +22,10 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/CCTV_Data_Counts_December_2023/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-december-2023.csv?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-december-2023.geojson?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/geojson?layers=0
 schema: default
 title: CCTV Data Counts December 2023
 ---

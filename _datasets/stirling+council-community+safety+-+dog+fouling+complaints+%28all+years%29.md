@@ -27,10 +27,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/community%20safety%20-%20dog%20fouling%20complaints%20(all%20years)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-dog-fouling-complaints-all-years.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c1c01d6db7e74b2baf211a9958638fed/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-dog-fouling-complaints-all-years.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c1c01d6db7e74b2baf211a9958638fed/geojson?layers=0
 schema: default
 title: Community safety - dog fouling complaints (all years)
 ---

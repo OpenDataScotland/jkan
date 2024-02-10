@@ -21,16 +21,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Roman_Catholic_Primary_School_Catchments/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/ecc419ba3bd14db9b0aac0a362f80a3d_6.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ecc419ba3bd14db9b0aac0a362f80a3d/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/ecc419ba3bd14db9b0aac0a362f80a3d_6.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ecc419ba3bd14db9b0aac0a362f80a3d/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/ecc419ba3bd14db9b0aac0a362f80a3d_6.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ecc419ba3bd14db9b0aac0a362f80a3d/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/ecc419ba3bd14db9b0aac0a362f80a3d_6.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/ecc419ba3bd14db9b0aac0a362f80a3d/kml?layers=6
 schema: default
 title: Roman Catholic Primary School Catchments
 ---

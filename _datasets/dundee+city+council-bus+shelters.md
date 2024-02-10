@@ -3,7 +3,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2022-08-23'
-date_updated: '2024-02-01'
+date_updated: '2024-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px; color:rgb(36,\
@@ -42,16 +42,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/StreelightingPublic/FeatureServer/5
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::bus-shelters.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::bus-shelters.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::bus-shelters.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::bus-shelters.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/kml?layers=5
 schema: default
 title: BUS SHELTERS
 ---

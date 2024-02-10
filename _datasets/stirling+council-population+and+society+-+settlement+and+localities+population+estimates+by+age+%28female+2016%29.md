@@ -57,10 +57,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20settlement%20and%20localities%20population%20estimates%20by%20age%20(female%202016)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-female-2016.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1745fbab6f01424798e93b1f88f5327c/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-settlement-and-localities-population-estimates-by-age-female-2016.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1745fbab6f01424798e93b1f88f5327c/geojson?layers=0
 schema: default
 title: Population and society - settlement and localities population estimates by
   age (female 2016)

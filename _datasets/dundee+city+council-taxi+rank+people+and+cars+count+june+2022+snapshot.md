@@ -40,9 +40,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::taxi-rank-people-and-cars-count-june-2022-snapshot
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::taxi-rank-people-and-cars-count-june-2022-snapshot.csv?where=1=1
 schema: default
 title: Taxi Rank People and Cars Count June 2022 Snapshot
 ---

@@ -21,10 +21,10 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Vehicle_Classification_September_2023/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-september-2023.csv?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/01cb0b67e0284c23b4eb1760674a5069/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-september-2023.geojson?where=1=1
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/01cb0b67e0284c23b4eb1760674a5069/geojson?layers=0
 schema: default
 title: Road Vehicle Classification September 2023
 ---

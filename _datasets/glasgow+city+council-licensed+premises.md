@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2021-08-06'
-date_updated: '2024-01-04'
+date_updated: '2024-02-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They are
@@ -26,16 +26,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/rest/services/OPEN_DATA/Licensed_Premises/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/0b5b75d511f7400483d7275881897215/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/0b5b75d511f7400483d7275881897215/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/0b5b75d511f7400483d7275881897215/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/0b5b75d511f7400483d7275881897215/kml?layers=0
 schema: default
 title: Licensed Premises
 ---

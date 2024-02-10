@@ -39,10 +39,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/community%20safety%20-%20fixed%20penalty%20notices%20(2020-21)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-fixed-penalty-notices-april-2020-march-2021.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5116a2511aab41718d7a01bca639cc09/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-safety-fixed-penalty-notices-april-2020-march-2021.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5116a2511aab41718d7a01bca639cc09/geojson?layers=0
 schema: default
 title: Community safety - fixed penalty notices (april 2020 - march 2021)
 ---

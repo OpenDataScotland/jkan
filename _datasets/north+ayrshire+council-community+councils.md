@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-05-25'
-date_updated: '2024-01-26'
+date_updated: '2024-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Community Councils within North Ayrshire</p>
@@ -20,16 +20,16 @@ resources:
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/MapServer/9
 - format: CSV
   name: CSV
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-councils.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/1458fb6cacdd4beeb2076487aac71c8b/csv?layers=9
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-councils.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/1458fb6cacdd4beeb2076487aac71c8b/geojson?layers=9
 - format: ZIP
   name: Shapefile
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-councils.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/1458fb6cacdd4beeb2076487aac71c8b/shapefile?layers=9
 - format: KML
   name: KML
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-councils.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/1458fb6cacdd4beeb2076487aac71c8b/kml?layers=9
 schema: default
 title: Community Councils
 ---

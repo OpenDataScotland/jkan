@@ -27,16 +27,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/LDP2019_WFL1/FeatureServer/12
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-blackness-regeneration.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/csv?layers=12
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-blackness-regeneration.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=12
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-blackness-regeneration.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/shapefile?layers=12
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-blackness-regeneration.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/kml?layers=12
 schema: default
 title: LDP2019 Blackness Regeneration
 ---

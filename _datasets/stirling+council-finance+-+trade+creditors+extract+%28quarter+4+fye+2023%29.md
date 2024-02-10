@@ -276,10 +276,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance_trade_creditors_extract_quarter_4_fye_2023/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023.csv?where=1=1
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/975b3e502dab4f07950a6220290b5ba0/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-quarter-4-fye-2023.geojson?where=1=1
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/975b3e502dab4f07950a6220290b5ba0/geojson?layers=0
 schema: default
 title: Finance - trade creditors extract (quarter 4 fye 2023)
 ---

@@ -19,16 +19,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/St_Ninians_Catchment/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/csv?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/geojson?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/shapefile?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/kml?layers=6
 schema: default
 title: St Ninians Catchment
 ---

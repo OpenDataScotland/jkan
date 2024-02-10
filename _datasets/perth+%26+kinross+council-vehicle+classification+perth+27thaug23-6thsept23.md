@@ -24,9 +24,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::vehicle-classification-perth-27thaug23-6thsept23
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::vehicle-classification-perth-27thaug23-6thsept23.csv?where=1=1
 schema: default
 title: Vehicle classification Perth 27thAug23-6thSept23
 ---

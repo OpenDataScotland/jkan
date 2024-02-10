@@ -16,9 +16,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/40af4e7cad1e4164892cba4899141892
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/40af4e7cad1e4164892cba4899141892.csv?where=1=1
 schema: default
 title: Marriages1991 2021PKC
 ---

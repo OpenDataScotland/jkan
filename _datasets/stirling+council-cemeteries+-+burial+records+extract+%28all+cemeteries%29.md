@@ -229,10 +229,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/cemeteries%20-%20burial%20records%20extract%20(all%20cemeteries)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::cemeteries-burial-records-extract-all-cemeteries.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22d49b16559e48179b55bb3e0f10745f/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::cemeteries-burial-records-extract-all-cemeteries.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/22d49b16559e48179b55bb3e0f10745f/geojson?layers=0
 schema: default
 title: Cemeteries - burial records extract (all cemeteries)
 ---

@@ -39,9 +39,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::active-travel-walking-cycling-counts-june2022-snapshot
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::active-travel-walking-cycling-counts-june2022-snapshot.csv?where=1=1
 schema: default
 title: Active Travel - Walking & Cycling Counts June2022 Snapshot
 ---

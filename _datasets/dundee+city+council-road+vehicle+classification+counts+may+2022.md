@@ -43,9 +43,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-counts-may-2022
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-counts-may-2022.csv?where=1=1
 schema: default
 title: Road Vehicle Classification Counts May 2022
 ---

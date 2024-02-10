@@ -22,16 +22,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Bus_Stops/FeatureServer/5
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/csv?layers=5
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/geojson?layers=5
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/shapefile?layers=5
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/kml?layers=5
 schema: default
 title: Bus Stops
 ---

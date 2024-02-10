@@ -25,16 +25,16 @@ resources:
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/LDP2019_WFL1/FeatureServer/22
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-ramsar2017.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/csv?layers=22
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-ramsar2017.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=22
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-ramsar2017.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/shapefile?layers=22
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-ramsar2017.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/kml?layers=22
 schema: default
 title: LDP2019 RAMSAR2017
 ---

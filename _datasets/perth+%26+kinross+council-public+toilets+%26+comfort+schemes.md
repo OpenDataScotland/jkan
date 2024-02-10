@@ -23,16 +23,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/PUBLICTOILETS_COMFORTSCHEMES/FeatureServer/27
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/csv?layers=27
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/geojson?layers=27
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/shapefile?layers=27
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/kml?layers=27
 schema: default
 title: Public toilets & comfort schemes
 ---

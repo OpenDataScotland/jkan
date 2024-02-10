@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2023-04-20'
-date_updated: '2024-01-26'
+date_updated: '2024-02-09'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Local Nature Reserves (LNRs) are places that have a natural value in terms
@@ -23,16 +23,16 @@ resources:
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/LNRs/MapServer/0
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6d165bfc8bba436b94c737e3a4d9416b/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6d165bfc8bba436b94c737e3a4d9416b/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6d165bfc8bba436b94c737e3a4d9416b/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6d165bfc8bba436b94c737e3a4d9416b/kml?layers=0
 schema: default
 title: Local Nature Reserves
 ---

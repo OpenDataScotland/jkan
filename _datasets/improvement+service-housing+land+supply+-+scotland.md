@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-10-31'
+date_updated: '2024-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -12,11 +12,8 @@ notes: <p>Local authorities are required to conduct an annual survey of the hous
   and update forecasts of the housing land supply. This, in turn, helps inform land
   releases within the Local Development Plan process and ongoing development management
   decisions. A five-year effective housing land supply is required at all times.  This
-  dataset contains full details - where available - of site references, site size
-  (hectares), capacity (in housing units), completions, remaining supply and annual
-  forecast phasing over a period of years, also a record of past completions, including
-  aggregations of 2009 and earlier and 2027 and beyond, where these have been grouped
-  as such. Further details of greenfield/brownfield status, tenure, effectiveness
+  dataset contains full details - where available - of site references, completions
+  and remaining supply. Further details of greenfield/brownfield status, tenure, effectiveness
   (deliverable within the period), constraints, planning details/status and developer
   are also provided where available.  The datasets have been drawn from a variety
   of sources, including comprehensive regional datasets (ClydePlan) and the joining

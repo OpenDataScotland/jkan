@@ -18,10 +18,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance%20-%20trade%20creditors%20extract%20(10k%20summary)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-10k-summary.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/be0b012a2dda467482810c9e2f7daf78/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::finance-trade-creditors-extract-10k-summary.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/be0b012a2dda467482810c9e2f7daf78/geojson?layers=0
 schema: default
 title: Finance - trade creditors extract (10k summary)
 ---

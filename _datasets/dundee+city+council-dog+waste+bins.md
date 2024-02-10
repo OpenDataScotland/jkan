@@ -30,16 +30,16 @@ resources:
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dog_Waste_Bins_WFS/WFSServer?service=wfs&request=getcapabilities
 - format: CSV
   name: CSV
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/csv?layers=108
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/geojson?layers=108
 - format: ZIP
   name: Shapefile
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/shapefile?layers=108
 - format: KML
   name: KML
-  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/kml?layers=108
 schema: default
 title: Dog Waste Bins
 ---

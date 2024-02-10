@@ -50,10 +50,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20primary%20and%20secondary%20school%20information/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-and-secondary-school-information.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/29fbb0468edb4d348bea642ab6f2e084/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-primary-and-secondary-school-information.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/29fbb0468edb4d348bea642ab6f2e084/geojson?layers=0
 schema: default
 title: Education and skills - primary and secondary school information
 ---

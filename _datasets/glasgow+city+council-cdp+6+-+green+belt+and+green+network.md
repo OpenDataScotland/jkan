@@ -18,16 +18,16 @@ resources:
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/9
 - format: CSV
   name: CSV
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-6-green-belt-and-green-network.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/bbb31c44f3434935b2f432c16e225bbc/csv?layers=9
 - format: GEOJSON
   name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-6-green-belt-and-green-network.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/bbb31c44f3434935b2f432c16e225bbc/geojson?layers=9
 - format: ZIP
   name: Shapefile
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-6-green-belt-and-green-network.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/bbb31c44f3434935b2f432c16e225bbc/shapefile?layers=9
 - format: KML
   name: KML
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-6-green-belt-and-green-network.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/bbb31c44f3434935b2f432c16e225bbc/kml?layers=9
 schema: default
 title: CDP 6 - Green Belt and Green Network
 ---

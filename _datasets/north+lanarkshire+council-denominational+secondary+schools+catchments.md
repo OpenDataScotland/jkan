@@ -18,16 +18,16 @@ resources:
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/4
 - format: CSV
   name: CSV
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::denominational-secondary-schools-catchments.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/csv?layers=4
 - format: GEOJSON
   name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::denominational-secondary-schools-catchments.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/geojson?layers=4
 - format: ZIP
   name: Shapefile
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::denominational-secondary-schools-catchments.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/shapefile?layers=4
 - format: KML
   name: KML
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::denominational-secondary-schools-catchments.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/kml?layers=4
 schema: default
 title: Denominational Secondary Schools Catchments
 ---

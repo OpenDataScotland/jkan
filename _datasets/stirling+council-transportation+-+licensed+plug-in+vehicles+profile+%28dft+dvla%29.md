@@ -50,10 +50,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/transport%20-%20licensed%20plug-in%20vehicles%20profile%20(dft%20dvla)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-plug-in-vehicles-profile-dft-dvla.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/d55666230f57422b99e73fd23552b93d/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::transportation-licensed-plug-in-vehicles-profile-dft-dvla.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/d55666230f57422b99e73fd23552b93d/geojson?layers=0
 schema: default
 title: Transportation - licensed plug-in vehicles profile (dft dvla)
 ---

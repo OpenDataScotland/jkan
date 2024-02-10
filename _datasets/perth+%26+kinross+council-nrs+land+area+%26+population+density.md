@@ -22,9 +22,6 @@ resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
   url: https://data.pkc.gov.uk/datasets/perth-kinross::nrs-land-area-population-density
-- format: CSV
-  name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::nrs-land-area-population-density.csv?where=1=1
 schema: default
 title: NRS Land Area & Population Density
 ---

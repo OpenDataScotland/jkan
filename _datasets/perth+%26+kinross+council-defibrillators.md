@@ -25,16 +25,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Defibrillators/FeatureServer/27
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/csv?layers=27
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/geojson?layers=27
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/shapefile?layers=27
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/kml?layers=27
 schema: default
 title: Defibrillators
 ---

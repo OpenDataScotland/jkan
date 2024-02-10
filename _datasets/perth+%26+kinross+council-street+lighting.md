@@ -19,16 +19,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Street_Lighting/FeatureServer/27
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::street-lighting.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/csv?layers=27
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::street-lighting.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/geojson?layers=27
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::street-lighting.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/shapefile?layers=27
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::street-lighting.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/kml?layers=27
 schema: default
 title: Street Lighting
 ---

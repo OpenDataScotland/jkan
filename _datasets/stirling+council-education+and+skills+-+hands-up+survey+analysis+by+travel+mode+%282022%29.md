@@ -62,10 +62,10 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/education%20and%20skills%20-%20hands-up%20survey%20analysis%20by%20travel%20mode%20(2022)/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-analysis-by-travel-mode-2022.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/130a08cda122431882a8d67920d704fe/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::education-and-skills-hands-up-survey-analysis-by-travel-mode-2022.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/130a08cda122431882a8d67920d704fe/geojson?layers=0
 schema: default
 title: Education and skills - hands-up survey analysis by travel mode (2022)
 ---

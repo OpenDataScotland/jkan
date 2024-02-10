@@ -18,16 +18,16 @@ resources:
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/18
 - format: CSV
   name: CSV
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::contaminated-land.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/csv?layers=18
 - format: GEOJSON
   name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::contaminated-land.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/geojson?layers=18
 - format: ZIP
   name: Shapefile
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::contaminated-land.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/shapefile?layers=18
 - format: KML
   name: KML
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::contaminated-land.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/kml?layers=18
 schema: default
 title: Contaminated Land
 ---

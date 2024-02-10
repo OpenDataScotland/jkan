@@ -21,16 +21,16 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Electric_Vehicle_Charging_Points/FeatureServer/10
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10.csv?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/csv?layers=10
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/geojson?layers=10
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10.zip?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/shapefile?layers=10
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10.kml?where=1=1&outSR=%7B%22latestWkid%22%3A27700%2C%22wkid%22%3A27700%7D
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/kml?layers=10
 schema: default
 title: Electric Vehicle Charging Points
 ---
