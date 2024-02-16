@@ -3,35 +3,42 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2023-12-19'
+date_updated: '2024-02-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items dispensed in the community at prescribing
   location code level for General Practice data and aggregated by NHS Board for other
-  prescriber location types.  Items are described at British National Formulary (BNF)
-  item description level.  Data is presented for items prescribed in Scotland and
-  reimbursed by the NHS.\r\n\r\nThe glossary of terms for this publication can be
-  found on the <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/monthly-prescribing-activity-data-data-for-may-2023/">PHS
-  publication page</a>.  The date of the next release can be found on our list of
-  <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
+  prescriber location types. Items are described at British National Formulary (BNF)
+  item description level. Data is presented for items prescribed in Scotland and reimbursed
+  by the NHS.\r\n\r\nThe glossary of terms for this publication can be found on the
+  <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/monthly-prescribing-activity-data-data-for-may-2023/">PHS
+  publication page</a>. The date of the next release can be found on our list of <a
+  href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n\r\nNHS Scotland has introduced a new dispensing contractor
-  payment process and system.  Due to this new system, data from May 2023 onwards
-  should be treated as provisional.  Data from May 2023 onwards may not be directly
-  comparable to data published previously and should be interpreted with caution.\r\n\r\nPrescribing
-  data for May 2023 has been revised. The data contained prescriptions which were
-  not dispensed, these have now been removed to include only prescriptions which were
-  both dispensed and collected.\r\n\r\nOne area of note is the paid quantity for items
-  with certain formulations may appear significantly higher in data from May 2023
-  onwards. For example; 1 item of an inhaler may have previously shown a paid quantity
-  of 2 per item. Going forward, this quantity may increase to 240 for 1 item. In these
-  instances, the increased quantity reflects the number of doses or uses within a
-  single item, rather than the quantity of the item itself (e.g. 1 inhaler). Another
-  area of note is that BNF Item Descriptions have changed. Some will not match to
-  those with the same BNF Item code from April 2023 data and earlier.</p>
+  payment process and system. Data from May 2023 onwards may not be directly comparable
+  to data published previously and should be interpreted with caution.\r\n\r\nOne
+  area of note is the paid quantity for items with certain formulations may appear
+  significantly higher in data from May 2023 onwards. For example; 1 item of an inhaler
+  may have previously shown a paid quantity of 2 per item. Going forward, this quantity
+  may increase to 240 for 1 item. In these instances, the increased quantity reflects
+  the number of doses or uses within a single item, rather than the quantity of the
+  item itself (e.g. 1 inhaler). Another area of note is that BNF Item Descriptions
+  have changed. Some will not match to those with the same BNF Item code from April
+  2023 data and earlier.\r\n\r\nThere is a drop in overall GIC for certain BNF sections
+  from May 2023 onwards. The data reflects the costs reimbursed at the time of processing
+  and this has already been identified as anomalous and referred back to the data
+  processor, NHS National Services Scotland Practitioner and Counter Fraud Services
+  Division.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
+- format: CSV
+  name: Prescribing Data October 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/94134438-db1d-4b8d-8f70-5e9b0e47bd03/download/pitc202310.csv
+- format: CSV
+  name: Prescribing Data September 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/2d3d240f-1467-4a91-9f0e-769745650cb9/download/pitc202309.csv
 - format: CSV
   name: Prescribing Data August 2023
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/72ca4ad2-0228-4672-9eb0-cc911e4a8ca7/download/pitc202308.csv

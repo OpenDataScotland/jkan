@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2015-10-30'
-date_updated: '2023-12-06'
+date_updated: '2024-02-14'
 license: No licence
 maintainer: South Ayrshire Council
 notes: <p>Areas depicting community council boundaries for South Ayrshire</p>

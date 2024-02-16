@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-02-09'
+date_updated: '2024-02-15'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The Maternity Inpatient and Day Case dataset (SMR02) collects episode level

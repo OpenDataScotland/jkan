@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-17'
-date_updated: '2024-01-29'
+date_updated: '2024-02-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>This dataset contains areas classified by their suitability for onshore
@@ -35,7 +35,8 @@ notes: '<p>This dataset contains areas classified by their suitability for onsho
   in the context of the overarching policy of "A Low Carbon Place".  It should be
   noted that some terminology relating to "spatial frameworks" and "areas of search"
   may no longer be in use, and reference should be made to planning advice on renewable
-  energy (February 2017) at https://www.gov.scot/publications/renewables-planning-advice-index/</p>'
+  energy (February 2017) at https://www.gov.scot/publications/renewables-planning-advice-index/  NB.
+  Some local authorities have only provided Group 3 areas so far.</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/wind_turbine_spatial_framework-is'
 records: null
