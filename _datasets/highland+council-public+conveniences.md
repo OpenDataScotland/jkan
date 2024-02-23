@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2022-10-27'
-date_updated: '2024-01-31'
+date_updated: '2024-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Public Conveniences and Comfort Schemes operated by the Highland Council\

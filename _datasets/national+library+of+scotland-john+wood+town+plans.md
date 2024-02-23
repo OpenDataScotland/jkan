@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/John-Wood-Town-Plans.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/John-Wood-Town-Plans.zip
 schema: default
 title: John Wood Town Plans
 ---

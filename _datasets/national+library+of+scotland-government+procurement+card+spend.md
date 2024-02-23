@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/organisational-data/Government-Procurement-Card-Spend.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/organisational-data/Government-Procurement-Card-Spend.zip
 schema: default
 title: Government Procurement Card spend
 ---

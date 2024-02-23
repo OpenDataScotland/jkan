@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/Theatre-Posters-1870-1900.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/Theatre-Posters-1870-1900.zip
 schema: default
 title: Theatre Posters 1870-1900
 ---

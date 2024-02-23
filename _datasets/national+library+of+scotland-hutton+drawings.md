@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/Hutton-Drawings.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/Hutton-Drawings.zip
 schema: default
 title: Hutton Drawings
 ---

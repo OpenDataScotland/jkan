@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Sport and Leisure
 date_created: '2023-03-18'
-date_updated: '2023-11-03'
+date_updated: '2024-02-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>Extract of electronic burial records for\_<b>Dunblane Cemeteries</b>\_\

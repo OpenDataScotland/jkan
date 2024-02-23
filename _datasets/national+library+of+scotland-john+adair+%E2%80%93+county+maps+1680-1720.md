@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/John-Adair-County-Maps.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/John-Adair-County-Maps.zip
 schema: default
 title: "John Adair \u2013 county maps 1680-1720"
 ---
