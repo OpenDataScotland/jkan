@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-02-05'
+date_updated: '2024-02-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -45,6 +45,9 @@ resources:
 - format: KMZ
   name: Polling Places KML
   url: https://data.spatialhub.scot/dataset/f9c153cb-5d6f-4d0e-a86c-c4301b6d008d/resource/62b9f59d-6791-4528-8ed7-86d37e784003/download/pp.kmz
+- format: OTHER
+  name: Where to vote
+  url: https://www.aberdeenshire.gov.uk/council-and-democracy/elections/where-to-vote/
 schema: default
 title: Polling Places - Aberdeenshire
 ---

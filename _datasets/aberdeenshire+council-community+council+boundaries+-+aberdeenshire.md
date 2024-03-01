@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-02-05'
+date_updated: '2024-02-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -31,6 +31,9 @@ resources:
 - format: KMZ
   name: Community Councils KML
   url: https://data.spatialhub.scot/dataset/fd4c1b90-1623-4512-a7cf-790d8a882e79/resource/ead55a02-0c57-4b23-b3cd-51386f972011/download/cc.kmz
+- format: OTHER
+  name: Map of Community Council Areas
+  url: https://gis.aberdeenshire.gov.uk/maps/map.aspx?x=337908&y=813529&resolution=200&epsg=27700&mapname=aberdeenshire&baseLayer=OS%20Greyscale&datalayers=Community%20Councils
 schema: default
 title: Community Council Boundaries - Aberdeenshire
 ---

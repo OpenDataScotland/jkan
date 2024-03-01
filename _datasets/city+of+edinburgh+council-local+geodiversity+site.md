@@ -1,11 +1,15 @@
 ---
 category:
-- Uncategorised
+- Council and Government
+- Planning and Development
 date_created: '2024-02-22'
 date_updated: '2024-02-22'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
-notes: <p>{{description}}</p>
+notes: <p>Local Geodiversity Sites are areas where the diverse geological features
+  of the surrounding region can be embraced and valued. Within Edinburgh, the City
+  of Edinburgh Council has identified and integrated 30 sites into the City Local
+  Development Plan, designating them as Local Nature Conservation Sites.</p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::local-geodiversity-site
 records: null

@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2023-12-11'
-date_updated: '2023-12-12'
+date_updated: '2024-02-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>All Wind Turbine Applications</p>
@@ -22,6 +22,9 @@ resources:
 - format: KMZ
   name: Wind Turbine Applications KML
   url: https://data.spatialhub.scot/dataset/f86dbc5e-3d71-44ce-9243-42c8f2026dc8/resource/7b1030d3-93aa-4567-913c-2a478f6d66f6/download/windturbineapplications_10122023_kml.kmz
+- format: OTHER
+  name: Map of WInd Turbine Applications
+  url: https://gis.aberdeenshire.gov.uk/maps/
 schema: default
 title: Wind Turbine Applications
 ---

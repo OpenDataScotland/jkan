@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2023-12-13'
-date_updated: '2023-12-13'
+date_updated: '2024-02-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Locations of Recycling Centres and Glass &amp; textiles recycling points</p>
@@ -16,6 +16,12 @@ resources:
 - format: KMZ
   name: Glass & Textile Recycling Points
   url: https://data.spatialhub.scot/dataset/b0c91461-9e1c-47fc-9044-2ea1bb362673/resource/00f0e407-22b3-4476-a592-09c4152825fa/download/recycling_points.kmz
+- format: OTHER
+  name: Map of Recycling Points
+  url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=Waste&datalayers=Recycling%20Points&baselayer=OS%20Greyscale
+- format: OTHER
+  name: Map of Recycling Centres
+  url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=Waste&datalayers=Recycling%20Centres&baselayer=OS%20Greyscale
 schema: default
 title: Recycling Centre & Recycling Points
 ---

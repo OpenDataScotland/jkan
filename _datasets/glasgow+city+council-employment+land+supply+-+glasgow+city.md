@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2023-03-21'
+date_updated: '2024-02-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -19,14 +19,11 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_su
 records: null
 resources:
 - format: ZIP
-  name: Industrial and Business Land Supply
-  url: https://data.spatialhub.scot/dataset/41914320-6e96-41f1-9ef3-e9f1a7078470/resource/cbd59e7c-6e66-476f-8d42-dc7483b7c7bd/download/industrialandbusinesslandsupply.zip
-- format: ZIP
   name: Glasgow Employment Land Supply 2021
   url: https://data.spatialhub.scot/dataset/41914320-6e96-41f1-9ef3-e9f1a7078470/resource/674e0476-22af-4c01-8187-fdd33d1d3159/download/industrial-and-business-land-supply-2021.zip
-- format: ZIP
-  name: Industrial Land Supply
-  url: https://data.spatialhub.scot/dataset/41914320-6e96-41f1-9ef3-e9f1a7078470/resource/ce6f9cdb-1ef0-497a-bd04-f8904cd5d50b/download/ilsa2020.zip
+- format: REST
+  name: Industrial and Business Land Supply
+  url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/3/query?outFields=*&where=1%3D1&f=json
 schema: default
 title: Employment Land Supply - Glasgow City
 ---

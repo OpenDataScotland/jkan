@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-03-15'
-date_updated: '2023-03-15'
+date_updated: '2023-05-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>First published as Open Data on 2 July 2019, this dataset provides a\
@@ -273,13 +273,7 @@ resources:
   url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-trade-creditors-extract-quarter-1-fye-2019
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance%20-%20trade%20creditors%20extract%20(quarter%201%20fye%202019)/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2d7bd34f53b74c2d8d5ac5a2cbde0290/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2d7bd34f53b74c2d8d5ac5a2cbde0290/geojson?layers=0
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance%20-%20trade%20creditors%20extract%20(quarter%201%20fye%202019)/FeatureServer
 schema: default
 title: Finance - trade creditors extract (quarter 1 fye 2019)
 ---

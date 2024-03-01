@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: '2017-05-25'
-date_updated: '2023-08-28'
+date_updated: '2017-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Roman Catholic primary school catchment areas within North

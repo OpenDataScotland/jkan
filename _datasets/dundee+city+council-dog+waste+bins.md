@@ -3,6 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 - Housing and Estates
+- Transportation
 date_created: '2024-01-17'
 date_updated: '2024-02-17'
 license: No licence
@@ -11,7 +12,21 @@ notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Ne
   \ W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;\
   \ font-size:16px;'>This Dataset shows the location of dog bins,\_ bins types, collection\
   \ days and frequency etc maintained \_Dundee City Council, Neighbourhood Service,\
-  \ Environmental Managemental Team.</span></p>"
+  \ Environmental Managemental Team.</span><div><span style='font-family:&quot;Avenir\
+  \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
+  \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><br /></span></div><div><p\
+  \ style='box-sizing:border-box; margin-top:0px; margin-bottom:18px; max-width:none;\
+  \ font-size:16px; color:rgb(51, 51, 51); font-family:&quot;Open Sans&quot;, sans-serif;\
+  \ font-weight:600;'>If you are aware of a problem with a dog waste bin, or\_require\
+  \ the removal of dog fouling from the pavement within Dundee, please contact\_Environment:<br\
+  \ /><br />Email:\_<a href='mailto:env.reception@dundeecity.gov.uk' style='box-sizing:border-box;\
+  \ color:rgb(0, 89, 159); text-decoration-line:none;' rel='nofollow ugc'>environment@dundeecity.gov.uk<span\
+  \ style='box-sizing:border-box; background:url(&quot;/sites/all/modules/extlink/extlink_s.png&quot;)\
+  \ -20px center no-repeat; width:10px; height:10px; padding-right:12px;'><span style='box-sizing:border-box;\
+  \ height:1px;'>(link sends e-mail)</span></span></a><br />Tel: 01382 433710 Option\
+  \ 5</p><p style='box-sizing:border-box; margin-top:0px; margin-bottom:18px; max-width:none;\
+  \ font-size:16px; color:rgb(51, 51, 51); font-family:&quot;Open Sans&quot;, sans-serif;\
+  \ font-weight:600;'>Neighbourhood Services<br />5 City Square<br />Dundee DD1 3BA</p></div></p>"
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dog-waste-bins
 records: null

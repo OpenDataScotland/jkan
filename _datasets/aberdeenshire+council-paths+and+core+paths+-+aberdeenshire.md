@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2024-02-05'
+date_updated: '2024-02-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -36,6 +36,9 @@ resources:
 - format: KMZ
   name: Adopted Core Path Plan KML
   url: https://data.spatialhub.scot/dataset/3e0aed2d-23c6-430a-893f-61be943bf525/resource/64e6fda8-b325-43eb-a93d-5c631fa37278/download/accp.kmz
+- format: OTHER
+  name: Map of Paths
+  url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=Paths&baselayer=OS%20Greyscale
 schema: default
 title: Paths And Core Paths - Aberdeenshire
 ---
