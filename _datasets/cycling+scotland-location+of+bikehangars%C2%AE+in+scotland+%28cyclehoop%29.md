@@ -14,12 +14,12 @@ resources:
 - format: JSON
   name: "Location of Bikehangars\xAE in Scotland (Cyclehoop).json"
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d6e52799-7a05-45fe-85b1-bf46bf5cec81
+- format: CSV
+  name: "Location of Bikehangars\xAE in Scotland (Cyclehoop).csv"
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6acaa210-5ddc-4b63-a846-175708a42254
 - format: XML
   name: "Location of Bikehangars\xAE in Scotland (Cyclehoop).xml"
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b3e5300b-896b-458c-a328-522d664b8d30
-- format: CSV
-  name: "Cyclehoop Bikehangars\xAE Units in Scotland v2.csv"
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=547713af-ddf7-4410-b3bd-b34512762f1f
 schema: default
 title: "Location of Bikehangars\xAE in Scotland (Cyclehoop)"
 ---

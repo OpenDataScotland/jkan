@@ -32,12 +32,12 @@ notes: "<p style='margin-bottom:0cm; background-image:initial; background-positi
   \ background-clip:initial;'><span style='font-family:Roboto;'>\xA9 Crown Copyright\
   \ 2017, 2018, 2019, 2020, 2021, 2022</span></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2019-females
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2019-females-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2019-females
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-small-area-population-estimates-mid-2019-females-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20small%20area%20population%20estimates%20(mid-2019%20females)/FeatureServer/0

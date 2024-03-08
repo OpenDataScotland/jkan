@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-02-29'
+date_updated: '2024-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -18,9 +18,6 @@ organization: South Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/employment_land_supply-sa'
 records: null
 resources:
-- format: No file type
-  name: Employment_Land_Supply
-  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: REST
   name: Employment land supply
   url: https://gisext.south-ayrshire.gov.uk/server/rest/services/Inspire/OpenData/MapServer/31/query?outFields=*&where=1%3D1
