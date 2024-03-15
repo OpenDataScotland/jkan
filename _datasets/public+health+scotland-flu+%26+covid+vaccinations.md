@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2024-03-07'
+date_updated: '2024-03-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This data resource shows the latest published vaccination statistics from

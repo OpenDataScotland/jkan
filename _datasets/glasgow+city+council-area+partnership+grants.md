@@ -4,7 +4,7 @@ category:
 - Business and Economy
 - Council and Government
 date_created: '2023-03-29'
-date_updated: '2023-06-15'
+date_updated: '2024-03-11'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<div><p style='margin-bottom:9pt; background-image:initial; background-position:initial;\

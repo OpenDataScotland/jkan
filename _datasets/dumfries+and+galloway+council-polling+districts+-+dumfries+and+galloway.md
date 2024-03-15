@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2024-03-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dumfries and Galloway Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -40,6 +40,12 @@ resources:
 - format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/adc96bcc-5ab6-491a-81f2-967352457ce1/download/pollingdistricts201755161.zip
+- format: ZIP
+  name: Polling_Districts_Changes.zip
+  url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/72932c53-5c1d-44c6-ba21-dc11ca7e660d/download/polling_districts_changes.zip
+- format: ZIP
+  name: Polling Stations
+  url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/045f2c0b-5d7c-4886-93a2-40ae6f597f8b/download/polling_districts.zip
 schema: default
 title: Polling Districts - Dumfries and Galloway
 ---

@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2022-04-24'
-date_updated: '2024-02-14'
+date_updated: '2024-03-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif;
@@ -22,27 +22,27 @@ notes: <p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif
   boundaries, however, the definitive dataset is delineated by Ordnance Survey for
   inclusion in their BoundaryLine product.</span></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council-1
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Stirling_Council/FeatureServer/4
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Stirling_Council/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/csv?layers=4
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/geojson?layers=4
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/geojson?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/shapefile?layers=4
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/shapefile?layers=0
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/kml?layers=4
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f0a65894f6a3451f81d9fb68902e8a80/kml?layers=0
 schema: default
 title: Boundaries administrative - stirling council
 ---
