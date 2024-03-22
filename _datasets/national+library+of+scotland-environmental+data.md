@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://nlsfoundry.s3.amazonaws.com/organisational/nls-environmental-data.zip
+  url: https://nlsfoundry.s3.amazonaws.com/organisational/nls-environmental-data-2024.zip
 schema: default
 title: Environmental data
 ---

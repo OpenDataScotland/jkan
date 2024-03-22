@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2018-10-02'
-date_updated: '2023-11-28'
+date_updated: '2024-03-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Core paths are a system of paths, track and other routes identified by

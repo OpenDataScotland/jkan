@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2021-06-02'
-date_updated: '2023-10-20'
+date_updated: '2024-03-21'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Schools and catchemnts areas</p>
