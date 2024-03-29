@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-10-14'
-date_updated: '2024-03-20'
+date_updated: '2024-03-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Waiting times information for Musculoskeletal (MSK) services that are delivered
@@ -23,10 +23,10 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/6a403c6f-bff1-425e-918e-cd17a134227f/download/open_data_ahp_msk_seen_quarterly_december2023.csv
 - format: CSV
   name: Patients Seen by HSCP
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/8a430c87-e19f-44dc-9e55-164d570bfc6e/download/open_data_ahp_msk_waiting_monthly_december2023.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/8a430c87-e19f-44dc-9e55-164d570bfc6e/download/open_data_ahp_msk_seen_hscp_quarterly_december2023.csv
 - format: CSV
   name: Patients Waiting
-  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/eff86139-89de-4169-83d5-7b5cec2ed3e9/download/open_data_ahp_msk_seen_hscp_quarterly_december2023.csv
+  url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/eff86139-89de-4169-83d5-7b5cec2ed3e9/download/open_data_ahp_msk_waiting_monthly_december2023.csv
 - format: CSV
   name: Did Not Attends
   url: https://www.opendata.nhs.scot/dataset/959f2341-ca34-428c-8abb-b925a18fc0c7/resource/7dafee1e-017a-4205-bacd-4512c7cdc3b7/download/open_data_ahp_msk_dna_quarterly_december2023.csv

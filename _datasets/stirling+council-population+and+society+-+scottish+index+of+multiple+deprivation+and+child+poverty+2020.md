@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2023-03-29'
-date_updated: '2023-09-23'
+date_updated: '2024-03-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>The\
@@ -42,12 +42,12 @@ notes: "<div><font color='#000000' face='Open Sans, sans-serif'><span style='fon
   <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>Analysis\
   \ of the SIMD data at multi-member ward level can be found here.</span></font></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-2020
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scottish%20index%20of%20multiple%20deprivation%20(stirling)/FeatureServer/0
@@ -64,5 +64,6 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/kml?layers=0
 schema: default
-title: Population and society - scottish index of multiple deprivation 2020
+title: Population and society - scottish index of multiple deprivation and child poverty
+  2020
 ---

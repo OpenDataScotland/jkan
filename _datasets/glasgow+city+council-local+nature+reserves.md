@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2023-04-20'
-date_updated: '2024-03-15'
+date_updated: '2024-03-23'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Local Nature Reserves (LNRs) are places that have a natural value in terms

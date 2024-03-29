@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2021-03-25'
-date_updated: '2024-03-22'
+date_updated: '2024-03-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within City of Edinburgh

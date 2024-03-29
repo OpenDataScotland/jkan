@@ -1,9 +1,9 @@
 ---
 category:
 - Food and Environment
-date_created: '2024-01-03'
-date_updated: '2024-01-04'
-license: No licence
+date_created: '2024-03-25'
+date_updated: '2024-03-25'
+license: 'Custom licence: License not specified'
 maintainer: Angus Council
 notes: <p>The tonnage of recycling collected quarterly at each recycling centre in
   Angus, and the recycling rates.</p>
@@ -12,8 +12,8 @@ original_dataset_link: http://opendata.angus.gov.uk/dataset/recycling-centre-ton
 records: null
 resources:
 - format: MS EXCEL
-  name: Recycling Centre Tonnage Data 2023
-  url: https://opendata.angus.gov.uk/dataset/ae762f71-632f-495e-b408-8c80ec7238c7/resource/d155ba0b-59d2-4d06-bd64-4e5a2468f342/download/rc-open-data-2023.xls
+  name: Recycling centre tonnage data 2023.xls
+  url: https://opendata.angus.gov.uk/dataset/ac28b91b-dfc1-4d7a-9c2b-a23a2f7ce5fc/resource/e94adff6-6371-44eb-afe5-91c41b63f743/download/recycling-centre-tonnage-data-2023.xls
 schema: default
 title: Recycling centre tonnage data 2023
 ---

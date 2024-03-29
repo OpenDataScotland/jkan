@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2023-06-14'
-date_updated: '2024-03-18'
+date_updated: '2024-03-27'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in

@@ -36,12 +36,12 @@ notes: '<div style=''text-align:Left;font-size:12pt''><div><p><span>The Strategy
   assessed as being physically unsuitable for the growth and management of trees (based
   on the Land Capability for Forestry Map)</span></p></div></div>'
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/f3d4c65b022c4cecbd3b1886d68ed8d6_4
+original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::forest-woodland-strategy-map
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/f3d4c65b022c4cecbd3b1886d68ed8d6_4
+  url: https://data.pkc.gov.uk/maps/perth-kinross::forest-woodland-strategy-map
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4

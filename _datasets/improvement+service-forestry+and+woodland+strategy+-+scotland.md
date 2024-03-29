@@ -4,9 +4,9 @@ category:
 - Housing and Estates
 - Parks / Recreation
 - Planning and Development
-date_created: '2023-06-14'
+date_created: '2021-06-11'
 date_updated: '2024-03-27'
-license: 'Custom licence: Other (Not Open)'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>These strategies are a requirement that has now been added into the Town
   and Country Planning (Scotland) Act.   http://www.legislation.gov.uk/asp/2019/13/part/4/crossheading/forestry-and-woodland-strategy/enacted  Most
@@ -25,12 +25,12 @@ notes: '<p>These strategies are a requirement that has now been added into the T
   will be assessed based on site conditions. To be used in conjunction with the published
   supplementary guidance.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy_premium-is'
+original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-is'
 records: null
 resources:
 - format: WFS
   name: 'Forestry and Woodland Strategy '
-  url: https://geo.spatialhub.scot/geoserver/sh_fws_premium/wfs?service=wfs&typeName=sh_fws_premium:pub_fws_premium
+  url: https://geo.spatialhub.scot/geoserver/sh_fws/wfs?service=wfs&typeName=sh_fws:pub_fws
 schema: default
-title: Forestry and Woodland Strategy PREMIUM - Scotland
+title: Forestry and Woodland Strategy - Scotland
 ---
