@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2023-12-18'
+date_updated: '2024-04-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -20,6 +20,9 @@ resources:
 - format: ZIP
   name: Recycling & Waste Facilities
   url: https://data.spatialhub.scot/dataset/61286afc-9f94-43d1-9323-3b31daf2b1f7/resource/9858a371-8c45-4c63-9b3a-1487949e8390/download/hrwf_lwf.zip
+- format: ZIP
+  name: LWF&HWRC.zip
+  url: https://data.spatialhub.scot/dataset/61286afc-9f94-43d1-9323-3b31daf2b1f7/resource/af5cd9a0-f1c7-4de8-a1b2-4efbee36b956/download/lwfhwrc.zip
 schema: default
 title: Recycling And Waste Facilities - Aberdeenshire
 ---

@@ -4,12 +4,13 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-03-28'
-date_updated: '2019-04-25'
+date_updated: '2024-04-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Community Partnerships in Highland Council area (revised March 2017).</p>
 
-  <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>'
+  <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358''
+  rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>'
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-partnerships
 records: null
