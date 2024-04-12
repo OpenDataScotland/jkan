@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-04-05'
-date_updated: '2023-04-14'
+date_updated: '2024-04-11'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Local voluntary groups, set up by statute (Local Government Scotland 1973),

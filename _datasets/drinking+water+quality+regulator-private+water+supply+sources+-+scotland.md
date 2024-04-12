@@ -3,8 +3,8 @@ category:
 - Council and Government
 - Health and Social Care
 - Law and Licensing
-date_created: '2023-06-22'
-date_updated: '2024-01-23'
+date_created: '2024-04-08'
+date_updated: '2024-04-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Drinking Water Quality Regulator
 notes: <p>The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations

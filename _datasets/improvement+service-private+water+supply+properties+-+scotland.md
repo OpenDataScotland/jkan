@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2023-06-22'
-date_updated: '2023-06-26'
+date_updated: '2024-04-08'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: <p>The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations

@@ -1,7 +1,7 @@
 ---
 category:
 - Sport and Leisure
-date_created: '2023-01-01'
+date_created: '2024-01-01'
 date_updated: ''
 license: https://creativecommons.org/publicdomain/mark/1.0/
 maintainer: National Library of Scotland
@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-moving-image-archive-2023.zip
+  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-moving-image-archive-2024.zip
 schema: default
 title: Moving Image Archive
 ---

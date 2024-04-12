@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-05-25'
-date_updated: '2021-05-25'
+date_updated: '2024-04-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,

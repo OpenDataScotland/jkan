@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2022-11-24'
+date_updated: '2024-04-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: "<p>A council development plan may designate a green belt around a city or\
