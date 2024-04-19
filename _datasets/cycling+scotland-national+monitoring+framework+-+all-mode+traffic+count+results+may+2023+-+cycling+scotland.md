@@ -10,13 +10,13 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/15405ad2-3747-4aff-893e-9a119d81ea12
 records: null
 resources:
-- format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fdefe61b-302c-4520-80de-7a8e8d9e7c32/4/urql
 - format: CSV
   name: National Monitoring Framework - all mode traffic survey results May 2023 -
     Cycling Scotland.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6da7fbdd-a3ea-4d4f-919a-9d21bd8da428
+- format: JSON
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fdefe61b-302c-4520-80de-7a8e8d9e7c32/4/urql
 - format: XML
   name: National Monitoring Framework - all-mode traffic count results May 2023 -
     Cycling Scotland.xml

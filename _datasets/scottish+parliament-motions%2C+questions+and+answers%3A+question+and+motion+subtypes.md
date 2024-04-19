@@ -2,7 +2,7 @@
 category:
 - Arts / Culture / History
 date_created: ''
-date_updated: '2024-03-27'
+date_updated: '2024-04-18'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a set of event sub types for Motions, Questions and

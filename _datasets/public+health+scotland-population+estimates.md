@@ -2,7 +2,7 @@
 category:
 - Business and Economy
 date_created: '2018-02-06'
-date_updated: '2024-04-02'
+date_updated: '2024-04-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Population estimates for all geography types in Scotland:\r\n\r\n\u2022\tData

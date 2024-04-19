@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-27'
-date_updated: '2024-04-11'
+date_updated: '2024-04-18'
 license: No licence
 maintainer: Public Health Scotland
 notes: '<p>There are two types of data submitted to the A&amp;E DataMart: episode

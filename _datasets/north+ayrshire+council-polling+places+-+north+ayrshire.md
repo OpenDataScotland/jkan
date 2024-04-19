@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2023-05-01'
+date_updated: '2024-04-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,9 +36,9 @@ organization: North Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-na'
 records: null
 resources:
-- format: REST
-  name: Spatial Hub WFS - Polling Places
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/45
+- format: WFS
+  name: Polling Places
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Places - North Ayrshire
 ---
