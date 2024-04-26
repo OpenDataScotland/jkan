@@ -7,8 +7,8 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2023-06-30'
-license: 'Custom licence: Other (Non-Commercial)'
+date_updated: '2024-04-25'
+license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Web Mapping Feature layer identifying optimal locations across Scotland\
   \ for mine water geothermal development.</p>\n<p>Mine water geothermal energy describes\

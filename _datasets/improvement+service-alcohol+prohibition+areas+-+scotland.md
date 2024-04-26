@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2021-06-11'
-date_updated: '2024-04-10'
+date_updated: '2024-04-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local authorities have the power to make by-laws to prohibit the drinking

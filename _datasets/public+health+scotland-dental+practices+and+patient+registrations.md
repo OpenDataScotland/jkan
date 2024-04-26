@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-01-22'
-date_updated: '2024-04-03'
+date_updated: '2024-04-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains address data and practice sizes for all NHS dental
@@ -16,19 +16,19 @@ records: null
 resources:
 - format: CSV
   name: Dental Practices December 2023
-  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/116ff99d-680b-4f2d-a807-770c3eda9006/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-dec-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/a4598ee9-11e5-4e48-9701-dbb96c153491/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-dec-2023-2.csv
 - format: CSV
   name: Dental Practices September 2023
-  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/bd93cf4f-b1dc-4f50-aa7e-6a543fe957f6/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30-sep-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/d636a0b8-7309-4a91-b259-b2ad9477d4e6/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30-sep-2023.csv
 - format: CSV
   name: Dental Practices June 2023
-  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/ae2b9f9a-bea7-44fd-9408-3c05b940bc1c/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30-jun-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/1ad77b62-ed45-4dd8-b6f6-0d8ab0f4f8d2/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30-jun-2023.csv
 - format: CSV
   name: Dental Practices March 2023
-  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/77cd2aa6-2fbd-48f6-b0eb-e0f69ea71a57/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-march-2023.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/269b09a9-6b0d-4f2c-a1cd-003469559606/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-march-2023.csv
 - format: CSV
   name: Dental Practices December 2022
-  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/0dc355e7-dd2b-485c-a172-a9a61a85b67a/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-december-2022.csv
+  url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/3d8bc9e1-2dba-419d-a553-bc77db7ad0a6/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-31-december-2022.csv
 - format: CSV
   name: Dental Practices September 2022
   url: https://www.opendata.nhs.scot/dataset/2f218ba7-6695-4b22-867d-41383ae36de7/resource/95059cb2-d22a-4a12-900c-d5608fccfce7/download/nhs-dental-practices-and-nhs-dental-registrations-as-at-30th-september-2022.csv

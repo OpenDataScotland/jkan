@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2024-01-23'
+date_updated: '2024-04-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an electoral\

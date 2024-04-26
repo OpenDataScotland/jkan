@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2017-05-25'
-date_updated: '2024-04-19'
+date_updated: '2024-04-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Winter Gritting Routes within North Ayrshire</p>
