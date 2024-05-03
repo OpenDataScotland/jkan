@@ -2,8 +2,8 @@
 category:
 - Planning and Development
 date_created: '2024-04-10'
-date_updated: '2024-04-10'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2024-04-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>Orkney Logistics Base, Hatston, is identified as a national development
   in National Planning Framework 4. The point location is indicative.</p>

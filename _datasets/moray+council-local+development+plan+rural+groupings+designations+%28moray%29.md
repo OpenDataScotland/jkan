@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-12-13'
-date_updated: '2023-11-20'
+date_updated: '2024-04-26'
 license: No licence
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development
@@ -18,7 +18,7 @@ notes: <p>The Local Development Plan 2015 was superseded by the Local Developmen
   commit the Council to any form of maintenance or upkeep of the site.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=9bd82804a7d34a7aa8960f4947b15211
-records: 183
+records: 200
 resources: []
 schema: default
 title: Local Development Plan Rural Groupings Designations (Moray)

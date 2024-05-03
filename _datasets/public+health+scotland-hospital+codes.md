@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-03-27'
-date_updated: '2024-04-02'
+date_updated: '2024-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains a list of all NHS hospitals across Scotland and associated

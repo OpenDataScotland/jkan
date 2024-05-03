@@ -2,8 +2,8 @@
 category:
 - Uncategorised
 date_created: '2024-04-09'
-date_updated: '2024-04-10'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2024-04-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>This is a point dataset depicting all of the Orkney Island's marinas as
   identified in the Draft Orkney Islands Regional Marine Plan. It also contains details

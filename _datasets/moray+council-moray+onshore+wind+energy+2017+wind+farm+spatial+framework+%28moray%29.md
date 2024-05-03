@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2018-03-28'
-date_updated: '2023-11-20'
+date_updated: '2024-04-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Scottish Planning Policy states "Planning authorities should set out in

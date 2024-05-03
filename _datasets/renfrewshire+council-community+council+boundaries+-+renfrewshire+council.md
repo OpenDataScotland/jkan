@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2024-05-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -31,6 +31,9 @@ resources:
 - format: REST
   name: Community Council boundaries
   url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/rest/services/Community_Councils_Update/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: REST
+  name: Community Councils
+  url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/rest/services/BOUNDARIES_NON_STATUTORY/FeatureServer/1
 schema: default
 title: Community Council Boundaries - Renfrewshire Council
 ---

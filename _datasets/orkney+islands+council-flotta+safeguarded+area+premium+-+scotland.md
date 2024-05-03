@@ -3,8 +3,8 @@ category:
 - Public Safety
 - Transportation
 date_created: '2024-04-11'
-date_updated: '2024-04-16'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2024-04-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>The Flotta Safeguarded Area is the maritime operational area located to
   the north of Flotta Terminal. It is highly sensitive to development and/or activities
@@ -14,7 +14,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/flotta_safeguarded
 records: null
 resources:
 - format: WFS
-  name: Flotta Safeguarded Area (PREMIUM)
+  name: Flotta Safeguarded Area
   url: https://geo.spatialhub.scot/geoserver/ext_oifsa_premium/wfs?service=wfs&typeName=ext_oifsa_premium:pub_oifsa_premium
 schema: default
 title: Flotta Safeguarded Area PREMIUM - Scotland

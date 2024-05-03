@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2024-04-09'
-date_updated: '2024-04-09'
+date_updated: '2024-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>Scottish Index of Multiple Deprivation, Small Area Population Estimates,\

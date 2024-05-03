@@ -3,8 +3,8 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-04-10'
-date_updated: '2024-04-15'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2024-04-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: "<p>A polygon dataset showing each anchor berth area in the Scapa Flow. These\
   \ have not been merged.\n Scapa Flow is identified in National Planning Framework\

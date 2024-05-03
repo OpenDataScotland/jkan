@@ -3,8 +3,8 @@ category:
 - Business and Economy
 - Transportation
 date_created: '2024-04-08'
-date_updated: '2024-04-10'
-license: 'Custom licence: Other (Not Open)'
+date_updated: '2024-04-30'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>This is a dataset depicting all of the Orkney Island's piers including commercial
   ports as identified in the Draft Orkney Islands Regional Marine Plan</p>

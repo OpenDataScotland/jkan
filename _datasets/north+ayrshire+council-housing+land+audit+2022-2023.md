@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-04-19'
-date_updated: '2024-04-19'
+date_updated: '2024-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Polygons of the 2022-23 Housing Land Audit sites and data on completions
