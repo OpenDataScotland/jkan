@@ -12,8 +12,8 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: All-mode traffic survey results - CCWEL Edinburgh January 2024.json
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6524100c-099e-47e0-a8d4-88b7231fcdf2
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/70e0bc86-a403-4d27-b4ee-d1c9c8fe541c/1/urql
 - format: CSV
   name: CCWEL January 2024 traffic survey.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=14ff6806-ccfc-48c1-abf0-fe44aae3d6cc

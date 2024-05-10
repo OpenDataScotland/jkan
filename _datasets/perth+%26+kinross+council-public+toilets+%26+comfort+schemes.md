@@ -3,14 +3,16 @@ category:
 - Food and Environment
 - Tourism
 date_created: '2023-03-28'
-date_updated: '2024-04-25'
+date_updated: '2024-05-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <div style='text-align:Left; font-size:12pt;'><p><span>The location of Public
+notes: <div style='text-align:Left;font-size:12pt'><p><span>The location of Public
   toilets and comfort schemes (free to use public toilets through partnerships with
   local service providers such as hotels, pubs and public buildings) within the Perth
   and Kinross area. This data supports a web map so the information can be provided
-  to the public.</span></p></div>
+  to the public.</span></p><p><span>The data is stored in a spreadsheet by Waste Services
+  team and linked to CAG by UPRN.</span></p><p><span>Waste Team inform when an update
+  is required.</span></p></div>
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::public-toilets-comfort-schemes-2
 records: null

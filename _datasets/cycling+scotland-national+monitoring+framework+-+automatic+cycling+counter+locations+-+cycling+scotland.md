@@ -13,8 +13,9 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/8/urql
+  name: National Monitoring Framework - Automatic cycling counter locations - Cycling
+    Scotland.json
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=79e31b87-fbd8-4cc7-b0fb-bd8cf56beba3
 - format: CSV
   name: National Monitoring Framework - Automatic cycling counter locations - Cycling
     Scotland.csv

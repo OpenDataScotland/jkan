@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2017-06-22'
-date_updated: '2017-08-03'
+date_updated: '2024-05-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of Public and Corporate Wifi sites in North Ayrshire.</p>

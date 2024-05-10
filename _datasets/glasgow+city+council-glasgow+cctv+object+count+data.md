@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2022-03-14'
-date_updated: '2022-05-11'
+date_updated: '2024-05-10'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>Object Count data collected from over 40 CCTV cameras owned by Glasgow\
@@ -38,7 +38,7 @@ resources:
   url: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-cctv-object-count-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://developer.glasgow.gov.uk/api-details#api=cctv&operation=get-get-detection-summaries
+  url: https://developer.glasgow.gov.uk/apis
 schema: default
 title: Glasgow CCTV Object Count Data
 ---

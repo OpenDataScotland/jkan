@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-27'
-date_updated: '2024-05-02'
+date_updated: '2024-05-09'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The data mart links data from (NHS 24, Scottish Ambulance Service, Out of

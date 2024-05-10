@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-03-29'
-date_updated: '2023-03-29'
+date_updated: '2024-05-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Data is part of a series of data sets provided by the Data Safe Haven, NHS
