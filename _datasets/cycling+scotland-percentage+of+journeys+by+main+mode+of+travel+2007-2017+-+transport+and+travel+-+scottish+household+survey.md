@@ -11,10 +11,6 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/43ea90d9-39d4-44a6-bb44-b83a6955f6ab
 records: null
 resources:
-- format: JSON
-  name: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
-    - Scottish Household Survey.json
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=febbc0b9-e30b-4743-9d62-77b029c696dd
 - format: CSV
   name: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
     - Scottish Household Survey.csv
@@ -23,6 +19,10 @@ resources:
   name: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
     - Scottish Household Survey.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=48559fa7-126e-4d5a-9f5f-4ded9ca4d30f
+- format: JSON
+  name: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
+    - Scottish Household Survey.json
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=febbc0b9-e30b-4743-9d62-77b029c696dd
 schema: default
 title: Percentage of journeys by main mode of travel 2007-2017 - Transport and Travel
   - Scottish Household Survey

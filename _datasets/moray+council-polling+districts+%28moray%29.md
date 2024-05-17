@@ -12,7 +12,7 @@ notes: "<p>Moray Council Polling District Boundaries.  Polygon data showing the 
   \ an area of electors which attend a particular polling place.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=bd878bfec39f4a659c2d016f1b3bc920
-records: null
+records: 60
 resources: []
 schema: default
 title: Polling Districts (Moray)

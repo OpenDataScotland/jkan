@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-11-26'
-date_updated: '2024-05-09'
+date_updated: '2024-05-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each cycling counter within the National

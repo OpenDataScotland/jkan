@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-04-01'
-date_updated: '2023-09-14'
+date_updated: '2024-05-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: '<div style=''text-align:Left;''><div><div><p><span>T</span><span>rees are
