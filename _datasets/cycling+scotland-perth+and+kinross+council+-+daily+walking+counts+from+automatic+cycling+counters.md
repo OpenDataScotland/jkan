@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2023-05-03'
-date_updated: '2024-05-17'
+date_updated: '2024-05-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each pedestrian counter within Perth and
@@ -16,5 +16,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/38fc16d0-de8e-47ba-9738-d8664abc53e6/1/urql
 schema: default
-title: Perth and Kinross Council - Daily walking data
+title: Perth and Kinross Council - Daily walking counts from automatic cycling counters
 ---

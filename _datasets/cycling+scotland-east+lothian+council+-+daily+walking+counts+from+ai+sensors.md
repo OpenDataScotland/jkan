@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2024-05-10'
-date_updated: '2024-05-17'
+date_updated: '2024-05-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"The walking counts supplied is raw, uncleaned data. Extended counts of
@@ -18,5 +18,5 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/1eedaa1f-42ff-431b-9821-52a201e5bf85/1/urql
 schema: default
-title: East Lothian Council - Daily walking data
+title: East Lothian Council - Daily walking counts from AI sensors
 ---

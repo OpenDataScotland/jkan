@@ -3,11 +3,11 @@ category:
 - Health and Social Care
 - Sport and Leisure
 date_created: '2019-02-12'
-date_updated: '2021-11-30'
+date_updated: '2024-05-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. Data
-  is presented by Cancer Network Region and Health Board; within Scotland and\r\nNetwork
+  is presented by Cancer Network Region and Health Board; within Scotland and Network
   levels of reporting, the mortality figures are further broken down by\r\nage group
   and sex.\r\n\r\nThe cancer sites reported on include: bladder, bone and connective
   tissue, brain and central nervous system, breast colorectal, female genital organs,
@@ -15,9 +15,7 @@ notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. D
   male genital organs, multiple myeloma, non-hodgkin lymphoma, oesophageal, pancreatic,
   skin, stomach.\r\n\r\nFurther information on cancer incidence can be found in the
   <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/cancer/cancer-mortality/">annual
-  publication</a>. All publications and supporting material to this topic area can
-  be found on the <a href="https://www.isdscotland.org/Health-Topics/Cancer/Cancer-Statistics/">ISD
-  Scotland Website</a>.</p>'
+  publication</a>.</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-mortality
 records: null
