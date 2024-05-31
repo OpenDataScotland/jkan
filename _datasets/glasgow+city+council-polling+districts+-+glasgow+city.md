@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2024-05-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,15 +37,9 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-gc'
 records: null
 resources:
-- format: ZIP
-  name: Polling districts
-  url: https://data.spatialhub.scot/dataset/69afce95-bd22-4935-819c-28ba874044fb/resource/fa2b6268-9997-43f3-b0ef-577caf10dda0/download/pollingdistrictsgcc.zip
-- format: ZIP
-  name: Polling Districts Nov 2019
-  url: https://data.spatialhub.scot/dataset/69afce95-bd22-4935-819c-28ba874044fb/resource/865b7a32-6f52-48e3-9eb1-507e90054c07/download/polling_districts.zip
-- format: ZIP
-  name: Polling districts
-  url: https://data.spatialhub.scot/dataset/69afce95-bd22-4935-819c-28ba874044fb/resource/b12bcffe-b193-46f6-8722-dd21cc68d6e0/download/polling_districts.zip
+- format: WFS
+  name: Polling Districts
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Polling_Districts_Stations/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Polling Districts - Glasgow City
 ---

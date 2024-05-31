@@ -1,0 +1,38 @@
+---
+category:
+- Elections / Politics
+- Food and Environment
+- Parks / Recreation
+- Planning and Development
+- Sport and Leisure
+- Transportation
+date_created: '2016-05-24'
+date_updated: '2024-05-28'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: Falkirk Council
+notes: '<p>Every local authority and National Park authority (access authorities)
+  in Scotland is required to draw up a plan for a system of paths (core paths) sufficient
+  for the purpose of giving the public reasonable access throughout their area. </p>
+
+  <p>Core paths are paths, waterways or any other means of crossing land to facilitate,
+  promote and manage the exercise of access rights under the Land Reform (Scotland)
+  Act 2003, and are identified as such in access authority core paths plan.</p>
+
+  <p>There are, intentionally, no set physical standards for core paths. This means
+  that core paths can physically be anything from a faint line across a field to a
+  fully constructed path, track or pavement. The National Access Forum, Scottish Natural
+  Heritage and Scottish Government are encouraging information to be surveyed and
+  made publicly available, in a nationally-standardised form, so that the public will
+  know what physical type of route they can expect. Government guidance is making
+  core paths the priority for rolling out this national standardised grading system
+  information, which is set out at http://www.pathsforall.org.uk/pfa/creating-paths/path-grading-system.html                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </p>'
+organization: Falkirk Council
+original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-fa'
+records: null
+resources:
+- format: REST
+  name: Core paths - existing and draft
+  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/All_Core_Path_Plan_Routes_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+schema: default
+title: Paths And Core Paths - Falkirk
+---

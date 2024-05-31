@@ -13,12 +13,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Parliamentary pollin
   of the 2017 Electoral Ward boundaries. Adjustments may occur over time to reflect
   new house building or in order to fit in with other electoral administrative boundaries.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/7244675fdab14e6db45296ff40ecd5e5_4
+original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::polling-districts-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/7244675fdab14e6db45296ff40ecd5e5_4
+  url: https://data.pkc.gov.uk/maps/perth-kinross::polling-districts-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Polling_Districts/FeatureServer/4

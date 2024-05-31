@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2024-05-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,15 +37,9 @@ organization: Renfrewshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-re'
 records: null
 resources:
-- format: No file type
-  name: Polling Scheme - Renfrewshire
-  url: http://dservices2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/services/Polling_Scheme/WFSServer?service=wfs&request=getcapabilities
-- format: WFS
-  name: Polling districts
-  url: https://maps.renfrewshire.gov.uk/arcgis/services/SpatialHub/RFW_Elections_And_Voting/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
-- format: WFS
+- format: REST
   name: Polling Districts
-  url: https://maps.renfrewshire.gov.uk/arcgis/services/Contentmaps/ELECTIONS_AND_VOTING/MapServer/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
+  url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/rest/services/ELECTIONS_AND_VOTING/FeatureServer/0
 schema: default
 title: Polling Districts - Renfrewshire Council
 ---

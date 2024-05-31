@@ -1,21 +1,13 @@
 ---
 category:
-- Health and Social Care
+- Uncategorised
 date_created: '2019-07-22'
-date_updated: '2024-02-27'
+date_updated: '2024-05-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This dataset contains monthly summaries of whole journey waiting times across
-  NHSScotland. The 18 Weeks Referral to Treatment (RTT) is a whole journey waiting
-  time standard from initial referral to the start of treatment.\r\n\r\nThe Scottish
-  Government has determined that the 18 Weeks RTT standard should be delivered for
-  at least 90% of patients. Further information on the 18 Week RTT can be found in
-  the <a href="https://publichealthscotland.scot/publications/nhs-waiting-times-18-weeks-referral-to-treatment/">quarterly
-  publication</a>. All publications and supporting material to this topic area can
-  be found on the <a href="https://www.isdscotland.org/Health-Topics/Waiting-Times/18-Weeks-RTT/">PHS
-  18 Weeks RTT Website</a>.\r\n\r\nThe date of the next release can be found on our
-  list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>
+notes: <p>Monthly summaries of whole journey waiting times across NHSScotland. The
+  18 Weeks RTT is a whole journey waiting time standard from initial referral to the
+  start of treatment.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/18-weeks-referral-to-treatment
 records: null

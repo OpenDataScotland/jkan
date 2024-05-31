@@ -3,7 +3,7 @@ category:
 - Education
 - Elections / Politics
 date_created: '2017-07-17'
-date_updated: '2024-05-21'
+date_updated: '2024-05-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>The location of local authority schools across Argyll and Bute - primary,\

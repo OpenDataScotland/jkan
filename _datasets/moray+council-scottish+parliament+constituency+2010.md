@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2019-09-25'
-date_updated: '2023-11-20'
+date_updated: '2024-05-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Scottish Parliament Constituency 2010 (OS Boundary Line Open Data)</p>

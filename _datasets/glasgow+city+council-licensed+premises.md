@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2021-08-06'
-date_updated: '2024-04-03'
+date_updated: '2024-05-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They are

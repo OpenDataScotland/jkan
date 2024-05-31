@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-05'
-date_updated: '2024-02-27'
+date_updated: '2024-05-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a hospital
