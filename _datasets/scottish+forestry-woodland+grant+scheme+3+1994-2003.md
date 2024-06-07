@@ -18,7 +18,7 @@ notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to cre
   \ in February 2003. It was then replaced by the Scottish Forestry Grant Scheme (SFGS).\
   \    Updates to scheme boundaries and grant aided areas were incorporated into the\
   \ dataset on a regular basis until the end of 2012. No further changes will be made\
-  \ after this time.  For more detailed information please see the metadata record\
+  \ after this time.    For more detailed information please see the metadata record\
   \ on Scotland's SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cc1f51699439430c968a507eaf9acca7

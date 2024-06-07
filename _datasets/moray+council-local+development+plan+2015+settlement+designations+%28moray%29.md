@@ -8,7 +8,7 @@ date_updated: '2023-11-20'
 license: No licence
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development
-  Plan 2020 on 27 July 2020.Local Development Plan 2015 Settlement Designations set
+  Plan 2020 on 27 July 2020. Local Development Plan 2015 Settlement Designations set
   out the current and proposed land uses related to the boundaries for the primary,
   secondary and third tier settlements. In general the land use designations indicate
   the types of uses that will be acceptable under the terms of the plan. However any

@@ -5,11 +5,11 @@ category:
 - Education
 - Planning and Development
 date_created: '2017-12-13'
-date_updated: '2023-11-20'
+date_updated: '2024-06-07'
 license: No licence
 maintainer: Moray Council
 notes: "<p>The Local Development Plan 2015 was superseded by the Local Development\
-  \ Plan 2020 on 27 July 2020.Local Development Plan Rural Grouping Boundaries depicts\
+  \ Plan 2020 on 27 July 2020. Local Development Plan Rural Grouping Boundaries depicts\
   \ the small villages/groupings/clusters of houses that will be covered by Policy\
   \ H5 (LDP2015). Proposals associated with any other location will be dealt with\
   \ under H7 (LDP2015), and assessed against criteria such as visual prominence; character;\

@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-12-12'
-date_updated: '2023-12-15'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-serif;\
@@ -24,15 +24,21 @@ notes: "<p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-seri
   \ or to the availability of premises that can be reasonably designated as polling\
   \ places.</span></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places-proposed
+original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places-proposed
+  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer/0
+- format: ARCGIS REST API
+  name: ARCGIS REST API
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer
+- format: WEB FEATURE SERVICE (WFS)
+  name: WEB FEATURE SERVICE (WFS)
+  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Places_Proposed/WFSServer?service=WFS&request=GetCapabilities
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/csv?layers=0
@@ -46,5 +52,5 @@ resources:
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/kml?layers=0
 schema: default
-title: Dundee Polling Places (Proposed)
+title: Dundee Polling Places
 ---

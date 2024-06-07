@@ -4,27 +4,32 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2024-04-08'
-date_updated: '2024-05-08'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Drinking Water Quality Regulator
-notes: <p>The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations
-  2017 came into force in October 2017, and are regulated and enforced by Local Authorities.  The
-  main objective of the Regulations is to ensure the provision of clean, safe drinking
-  water and to deliver significant health benefits to those using private water supplies.  The
-  DWQR has an independent role in verifying that the Regulations are complied with
-  and also reports on compliance with the Regulations to the European Commission.
+notes: '<p>The Water Intended for Human Consumption (Private Supplies) (Scotland)
+  Regulations 2017 came into force in October 2017, and are regulated and enforced
+  by Local Authorities.</p>
+
+  <p>The main objective of the Regulations is to ensure the provision of clean, safe
+  drinking water and to deliver significant health benefits to those using private
+  water supplies.</p>
+
+  <p>The DWQR has an independent role in verifying that the Regulations are complied
+  with and also reports on compliance with the Regulations to the European Commission.
   Local Authorities are required to maintain a register of every private water supply
-  to premises in its area.  This is a dataset containing the locations of Private
-  Water Supply Sources in Scotland. This dataset has been provided to the Drinking
-  Water Quality Regulator (DWQR) by Local Authorities, who are responsible for keeping
-  a register of the location of sources for Private Water Supply Systems in their
-  area. The DWQR cannot guarantee the accuracy or completeness of this dataset. The
-  dataset should be used with caution, as the locations can often be approximate,
-  outdated, or wrong. The dataset is also not complete. There are additional Private
-  Water Supply Systems, for which no location data has been provided to the DWQR.
-  You are strongly advised to contact the Local Authorities themselves to get accurate
-  and complete Private Water Supply System location data, if this information is to
-  be used for any further decision making.</p>
+  to premises in its area.</p>
+
+  <p>This is a dataset containing the locations of Private Water Supply Sources in
+  Scotland. This dataset has been provided to the Drinking Water Quality Regulator
+  (DWQR) by Local Authorities, who are responsible for keeping a register of the location
+  of sources for Private Water Supply Systems in their area. The DWQR cannot guarantee
+  the accuracy or completeness of this dataset. The dataset should be used with caution,
+  as the locations can often be approximate, outdated, or wrong. The dataset is also
+  not complete. There are additional Private Water Supply Systems, for which no location
+  data has been provided to the DWQR. You are strongly advised to contact the Local
+  Authorities themselves to get accurate and complete Private Water Supply System
+  location data, if this information is to be used for any further decision making.</p>'
 organization: Drinking Water Quality Regulator
 original_dataset_link: ' https://data.spatialhub.scot/dataset/private_water_supply_sources-dwqr'
 records: null

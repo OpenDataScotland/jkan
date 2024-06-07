@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2024-05-04'
+date_updated: '2024-06-01'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of address types.</p>

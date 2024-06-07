@@ -7,7 +7,7 @@ date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>The Local Development Plan 2015 was superseded by the Local Development\
-  \ Plan 2020 on 27 July 2020.The five main towns of Elgin, Forres, Buckie, Keith\
+  \ Plan 2020 on 27 July 2020. The five main towns of Elgin, Forres, Buckie, Keith\
   \ and Lossiemouth are subject to the highest development pressures and Countryside\
   \ Around Towns (CAT\u2019s) have been designated to prevent development sprawl into\
   \ the countryside. Only certain types of development are appropriate within CAT\u2019\

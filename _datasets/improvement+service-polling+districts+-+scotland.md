@@ -4,12 +4,12 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2024-04-22'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an electoral\
-  \ area such as an electoral Ward within which a polling place is designated.  The\
-  \ Representation of the People Act 1983 places a duty on LA to divide the local\
+  \ area such as an electoral Ward within which a polling place is designated.</p>\n\
+  <p>The Representation of the People Act 1983 places a duty on LA to divide the local\
   \ authority area into polling districts based on ward boundaries, and to designate\
   \ a polling place for each district. LAs also have a duty to keep these polling\
   \ arrangements under review. The Electoral Administration Act 2006 introduced amendments\

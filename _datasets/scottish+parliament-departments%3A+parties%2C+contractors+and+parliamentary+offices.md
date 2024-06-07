@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2024-05-26'
+date_updated: '2024-06-02'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of current and former directorates.</p>

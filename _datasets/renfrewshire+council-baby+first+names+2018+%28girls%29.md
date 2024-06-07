@@ -15,7 +15,7 @@ notes: "<p>Babies' first forenames by Council area, 2018 based on the records fo
   \ of that sex).b)\_the geographical basis is the usual one for National Records\
   \ of Scotland (NRS) statistics of births, which is births registered in Scotland\
   \ to mothers who lived in the specified council area plus any births to mothers\
-  \ from outwith Scotland which occurred in the specified council area.</p>"
+  \ from outwith Scotland which occurred in the specified council area. </p>"
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=e708a65d88c44191875a7ddb8c748113
 records: 71

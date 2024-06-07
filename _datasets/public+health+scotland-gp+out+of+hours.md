@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-05-30'
+date_updated: '2024-06-06'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>NHS Boards provide Primary Care OOH services for patients when their registered

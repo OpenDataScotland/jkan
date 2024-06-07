@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-12-12'
-date_updated: '2023-12-15'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <div><span style="color:rgb(51,51,51);font-family:Montserrat, sans-serif;font-size:14px;">The
@@ -19,15 +19,21 @@ notes: <div><span style="color:rgb(51,51,51);font-family:Montserrat, sans-serif;
   LA wards can be proposed at any time in response to changes in ward boundaries or
   to the availability of premises that can be reasonably designated as polling places.</span></div>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-districts-proposed
+original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-districts
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-districts-proposed
+  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-districts
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Districts_2023_view/FeatureServer/0
+- format: WEB FEATURE SERVICE (WFS)
+  name: WEB FEATURE SERVICE (WFS)
+  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Districts_Proposed/WFSServer?service=wfs&request=getcapabilities?service=wfs&request=getcapabilities
+- format: ARCGIS REST API
+  name: ARCGIS REST API
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Districts_2023_view/FeatureServer
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/80f1abee13a24489bd1d45a2d0d1aee2/csv?layers=0
@@ -41,5 +47,5 @@ resources:
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/80f1abee13a24489bd1d45a2d0d1aee2/kml?layers=0
 schema: default
-title: Dundee Polling Districts (Proposed)
+title: Dundee Polling Districts
 ---

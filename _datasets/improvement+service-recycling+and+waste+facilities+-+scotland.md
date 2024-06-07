@@ -3,14 +3,16 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2021-06-11'
-date_updated: '2024-04-29'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
-notes: <p>Most councils will keep a record of their recycling and waste management
+notes: '<p>Most councils will keep a record of their recycling and waste management
   facilities. Therefore we have tried to compile these into a consistent national
-  layer.  The layer contains Recycling Places (including locations of bins and centres)
+  layer.</p>
+
+  <p>The layer contains Recycling Places (including locations of bins and centres)
   and Waste Management Sites (including transfer centres and current/historic landfill
-  sites).  Both are a point layer (any provided polygons will have a centroid created).</p>
+  sites).  Both are a point layer (any provided polygons will have a centroid created).</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_waste_facilities-is'
 records: null

@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2024-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,9 +37,12 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-dc'
 records: null
 resources:
-- format: WFS
+- format: REST
   name: Polling Districts
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Districts_and_Polling_Stations/WFSServer?service=wfs&request=getcapabilities
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Districts_2023_view/FeatureServer/0
+- format: REST
+  name: 2024 Proposed Polling Districts
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Districts_2023_view/FeatureServer/0
 schema: default
 title: Polling Districts - Dundee City
 ---

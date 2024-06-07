@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-04-05'
+date_updated: '2024-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -38,23 +38,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-
 records: null
 resources:
 - format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/0c24a778-40e5-4bb5-bfd3-6459d75063a0/download/pollingdistricts.zip
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/7a333e91-7b9f-4048-b3c1-dfdcd487fef1/download/pollingdistricts.zip
-- format: No file type
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/3d1d20cc-a0a4-441a-a31b-c51c5bf2c533/download/polling-districts.gpkg
-- format: ZIP
-  name: Clacks Polling Districts
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/c08f8d83-932d-45e1-83e6-bad9355ef92f/download/polling-districts.zip
-- format: No file type
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/a513bfcd-92d1-4537-9e5c-4cbfebe50b14/download/spatialhubpollingdistricts.gpkg
-- format: ZIP
-  name: polling_districts_2024.zip
-  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/c94a9468-53ca-4917-b9b8-874cfa8481eb/download/polling_districts_2024.zip
+  name: updated_polling_district_2024.zip
+  url: https://data.spatialhub.scot/dataset/09a7f904-49de-4925-9c6c-3ef19b810c4c/resource/8ccd52ff-d7a7-466b-8687-7bb10beb3859/download/polling_district_2024.zip
 schema: default
 title: Polling Districts - Clackmannanshire
 ---

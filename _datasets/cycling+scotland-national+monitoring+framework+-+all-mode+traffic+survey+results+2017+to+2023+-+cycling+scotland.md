@@ -12,17 +12,16 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: JSON
-  name: National Monitoring Framework - all-mode traffic survey results 2017 to 2023
-    - Cycling Scotland.json
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=dcdc5543-2a18-4f9f-a230-8fdfe1a879e4
-- format: CSV
-  name: National Monitoring Framework - all-mode traffic survey results 2017 to 2023
-    - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f5a0eaf1-deab-46bf-8776-42ad3beb9b46
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/12da6df6-7b38-4907-8f00-76a6c260b197/22/urql
 - format: XML
   name: National Monitoring Framework - all-mode traffic survey results 2017 to 2023
     - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8fd87d6a-8a2c-49ee-906a-000b36699abd
+- format: CSV
+  name: National Monitoring Framework - all-mode traffic survey results 2017 to 2023
+    - Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b31fb91c-61c2-49f0-a1ec-bf46ae2ff41c
 schema: default
 title: National Monitoring Framework - all-mode traffic survey results 2017 to 2023
   - Cycling Scotland

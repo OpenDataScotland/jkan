@@ -5,11 +5,11 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-12-13'
-date_updated: '2024-04-26'
+date_updated: '2024-06-07'
 license: No licence
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development
-  Plan 2020 on 27 July 2020.Local Development Plan Rural Grouping Designations have
+  Plan 2020 on 27 July 2020. Local Development Plan Rural Grouping Designations have
   been set out within many of the Local Development Plan Rural Groupings. Sites with
   development potential have been identified. These are acceptable in principle subject
   to compliance with the Moray Local Development Plan (MLDP) 2015, but will still

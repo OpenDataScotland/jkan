@@ -9,7 +9,7 @@ date_updated: '2019-07-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: "<p>Mid-year population estimates: Scotland and Renfrewshire by single year\
-  \ of age and sex 1981 to 2018.Annual publication of mid-year population estimates\
+  \ of age and sex 1981 to 2018.  Annual publication of mid-year population estimates\
   \ by age and sex as at 30 June every year, where population for higher geographies\
   \ is aggregated from the population estimates for 2011 Data Zones.Data zones are\
   \ the small area geography used by the Scottish Government to allow statistics to\

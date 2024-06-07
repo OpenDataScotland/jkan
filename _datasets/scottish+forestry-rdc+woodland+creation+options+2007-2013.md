@@ -20,16 +20,17 @@ notes: "<p>Woodland Creation formed part of the Scottish Rural Development Progr
   \    Woodlands are a vital sustainable natural resource and funding aims to encourage\
   \ the creation of new woodlands with grants that will contribute to the cost of\
   \ their establishment.    Within Rural Priorities there are eight woodland creation\
-  \ options.    Productive conifer woodland (low cost)Productive conifer woodland\
-  \ (high cost)Productive broadleaved woodlandNative WoodlandsNaturally regenerated\
-  \ native woodlandMixed conifer/broadleaf woodlandNorthern &amp; Western Isles Native\
-  \ WoodlandCentral Scotland Mixed Woodland    The woodland creation polygons in this\
-  \ dataset represent the areas which have been approved for new planting. Data is\
-  \ captured by the woodland creation option type and by the year the planting is\
-  \ intended to take place (claim year).    A boundary which encompasses all the new\
-  \ planting options and claim years within a specific case is available in the Woodland\
-  \ Creation Boundary RDC dataset.  For more detailed information please see the metadata\
-  \ record on Scotland's SpatialData.gov.scot Metadata Portal.  </p>"
+  \ options.    Productive conifer woodland (low cost) Productive conifer woodland\
+  \ (high cost) Productive broadleaved woodland Native Woodlands Naturally regenerated\
+  \ native woodland Mixed conifer/broadleaf woodland Northern &amp; Western Isles\
+  \ Native Woodland Central Scotland Mixed Woodland    The woodland creation polygons\
+  \ in this dataset represent the areas which have been approved for new planting.\
+  \ Data is captured by the woodland creation option type and by the year the planting\
+  \ is intended to take place (claim year).    A boundary which encompasses all the\
+  \ new planting options and claim years within a specific case is available in the\
+  \ Woodland Creation Boundary RDC dataset.    For more detailed information please\
+  \ see the metadata record on Scotland's SpatialData.gov.scot Metadata Portal.  \
+  \ </p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=e19945d8db6d456c9649c9b0ad23c762
 records: 2213
