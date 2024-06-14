@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: '2022-04-24'
-date_updated: '2023-11-30'
+date_updated: '2024-06-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div>Stirling Council conservation areas</div>

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-11-08'
-date_updated: '2022-12-07'
+date_updated: '2024-06-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>This is a public view of roads - winter gritting routes (2022)</p>

@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2020-07-23'
-date_updated: '2024-06-07'
+date_updated: '2024-06-14'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Rural Group Boundary (Moray)</p>

@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-12-08'
+date_updated: '2024-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -39,9 +39,6 @@ resources:
 - format: No file type
   name: Polling_Places
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ZIP
-  name: Polling Places
-  url: https://data.spatialhub.scot/dataset/f4dce6ea-77ab-407e-ae85-f818c38cb049/resource/a6dc316a-e042-4ec9-b30d-beb6730a7eda/download/polling_places_2022.zip
 schema: default
 title: Polling Places - South Ayrshire
 ---

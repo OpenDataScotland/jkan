@@ -1,0 +1,21 @@
+---
+category:
+- Council and Government
+- Education
+date_created: '2024-06-11'
+date_updated: '2024-06-11'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: North Ayrshire Council
+notes: "<div>Statistics representing Library Book and other Library Items issued between\
+  \ 2021 and 2022.</div>\n<div>These have been published to North Ayrshire Council's\
+  \ Open Data Portal and are available to download.\_</div>"
+organization: North Ayrshire Council
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/documents/north-ayrshire::library-books-items-issued-2021-2022-
+records: null
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://maps-north-ayrshire.opendata.arcgis.com/documents/north-ayrshire::library-books-items-issued-2021-2022-
+schema: default
+title: 'Library Books/Items Issued 2021 - 2022 '
+---

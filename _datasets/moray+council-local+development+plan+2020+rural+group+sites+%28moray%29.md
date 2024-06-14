@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2020-07-23'
-date_updated: '2024-06-07'
+date_updated: '2024-06-14'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan Rural Group Sites have been set out within many of

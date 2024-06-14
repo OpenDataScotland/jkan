@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2023-09-15'
+date_updated: '2024-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Lanarkshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,18 +36,9 @@ organization: South Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-sl'
 records: null
 resources:
-- format: QGIS Shapefile
-  name: Polling Places - South Lanarkshire Council
-  url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/2954e203-a5bb-40b3-91d0-19dba03c0ef7/download/pplaces23032017.shp
 - format: ZIP
-  name: Polling Places - South Lanarkshire Council
-  url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/33c987ba-9334-42f6-b521-049c5c805a1f/download/pplaces23032017.zip
-- format: ZIP
-  name: Polling Places
-  url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/f969f7cc-95da-4056-8c95-cf49903045fb/download/pp_2019v1_custom_point.zip
-- format: ZIP
-  name: Polling Places
-  url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/bbb13c91-5ca6-413a-b1ac-f4ad357f029c/download/pollingstations_sh.zip
+  name: Polling Stations (May 2024)
+  url: https://data.spatialhub.scot/dataset/8767a1b7-0ca4-4448-ac18-c0341842ccca/resource/59ba077e-9887-4dd8-88cb-6c3b1c99e147/download/pollingstations_sh.zip
 schema: default
 title: Polling Places - South Lanarkshire
 ---

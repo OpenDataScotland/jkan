@@ -5,7 +5,7 @@ category:
 - Education
 - Elections / Politics
 date_created: '2021-10-21'
-date_updated: '2024-02-02'
+date_updated: '2024-06-11'
 license: No licence
 maintainer: ADR
 notes: <p>Children attending publicly funded local authority and grant-aided schools
@@ -15,8 +15,8 @@ original_dataset_link: ' https://find.researchdata.scot/dataset/6cf35379-eb16-4d
 records: null
 resources:
 - format: MS EXCEL
-  name: ' adr-s-data-acquisition-pupil-census-metadata'
-  url: https://find.researchdata.scot/dataset/11008a13-15c4-4d0b-8c07-3d226fc7a7ff/resource/b68f20b5-c84c-48e3-8926-f4763fd8abe4/download/adr-s-data-acquisition-pupil-census-metadata.xlsx
+  name: Pupil Census Update 2023
+  url: https://find.researchdata.scot/dataset/11008a13-15c4-4d0b-8c07-3d226fc7a7ff/resource/b68f20b5-c84c-48e3-8926-f4763fd8abe4/download/___
 schema: default
 title: Pupil Census linkage data - Scotland
 ---

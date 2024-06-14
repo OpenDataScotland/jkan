@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2019-02-19'
-date_updated: '2024-04-23'
+date_updated: '2024-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains information on list sizes for all GP practices in

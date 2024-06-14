@@ -12,8 +12,8 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: MS EXCEL
-  name: 421 Glasgow Bridge Q1.xls
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=17b44111-140c-45af-a00a-c9686ca90cea
+  name: 470 Albert Bridge Q1.xls
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c3e8b496-290b-4f9e-b040-8acbaad84e00
 - format: PDF
   name: Automatic Cycle Counter Locations City Centre Cordon.pdf
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/additionalDocumentation/e6b0978b-db1a-44f3-9f44-88a75181b7bf/Automatic%20Cycle%20Counter%20Locations%20City%20Centre%20Cordon.pdf

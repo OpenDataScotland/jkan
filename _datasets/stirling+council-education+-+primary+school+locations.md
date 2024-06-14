@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2022-04-24'
-date_updated: '2023-07-10'
+date_updated: '2024-06-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>education - primary school locations</p>
