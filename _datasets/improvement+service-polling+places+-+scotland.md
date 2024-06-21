@@ -6,14 +6,14 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2024-06-06'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>A \u2018polling place\u2019 is defined as the building or area in which\
   \ a polling station will be located. A \u2018polling station\u2019 is the room or\
   \ area within the polling place where voting takes place. Unlike polling districts\
   \ and polling places which are fixed by the local authority, polling stations are\
-  \ chosen by the (Acting) Returning Officer for the election.</p>\n<p>The Representation\
+  \ chosen by the (Acting) Returning Officer for the election.  The Representation\
   \ of the People Act 1983 places a duty on LA to divide the local authority area\
   \ into polling districts based on ward boundaries, and to designate a polling place\
   \ for each district. LAs also have a duty to keep these polling arrangements under\

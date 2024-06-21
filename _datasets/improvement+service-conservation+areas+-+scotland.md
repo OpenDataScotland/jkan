@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2024-06-10'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -20,23 +20,19 @@ notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotlan
   They can cover historic land, battlefields, public parks, designed landscapes or
   railways but most contain groups of buildings extending over areas of a village,
   town or city. Further planning controls on development can be made by way of an
-  Article 4 Direction, which may or may not be associated with a Conservation Area.</p>
-
-  <p>An Article 4 Direction is not a conservation designation but an additional control
+  Article 4 Direction, which may or may not be associated with a Conservation Area.  An
+  Article 4 Direction is not a conservation designation but an additional control
   within such areas. It is a statement made under The Town and Country Planning (General
   Permitted Development) (Scotland) Amendment Order 2011. The Direction, made by a
   local authority and approved by Scottish Ministers, removes all or some of the permitted
-  development rights on an area.</p>
-
-  <p>The effect of a Direction is that planning permission will be required for specific
-  types of development which would otherwise be regarded as ''permitted development'',
-  i.e. development that does not require a planning application. Directions can cover
-  a variety of minor works and might include: the replacement of doors and windows,
-  the erection of gates, fences, garages, sheds, porches, storage tanks or the installation
-  of satellite antennae.</p>
-
-  <p>This dataset should be used in conjunction with the Article 4 Directions dataset
-  also published on a Scotland-wide basis.</p>'
+  development rights on an area.  The effect of a Direction is that planning permission
+  will be required for specific types of development which would otherwise be regarded
+  as ''permitted development'', i.e. development that does not require a planning
+  application. Directions can cover a variety of minor works and might include: the
+  replacement of doors and windows, the erection of gates, fences, garages, sheds,
+  porches, storage tanks or the installation of satellite antennae.  This dataset
+  should be used in conjunction with the Article 4 Directions dataset also published
+  on a Scotland-wide basis.</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-is'
 records: null

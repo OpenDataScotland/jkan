@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2017-05-25'
-date_updated: '2017-08-03'
+date_updated: '2024-06-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of Primary Schools within North Ayrshire, both non-denominational

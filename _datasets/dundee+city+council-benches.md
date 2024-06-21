@@ -7,7 +7,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2024-01-17'
-date_updated: '2024-05-23'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\

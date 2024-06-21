@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2022-03-31'
-date_updated: '2022-07-27'
+date_updated: '2024-06-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next\
@@ -25,11 +25,8 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://www.glasgow.gov.uk/index.aspx?articleid=22540'\
   \ style='color:rgb(0, 121, 193); text-decoration-line:none;' target='_blank' rel='nofollow\
   \ ugc noopener noreferrer'>https://www.glasgow.gov.uk/index.aspx?articleid=22540</a><br\
-  \ /></span></div>\n<div><br /></div>\n<div><span style='font-family:&quot;Avenir\
-  \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
-  \ &quot;Helvetica Neue&quot;, sans-serif;'>The data is updated weekly.</span><span\
-  \ style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir\
-  \ Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
+  \ /></span></div>\n<div><br /></div>\n<div><div><div><div><div><p>This dataset was\
+  \ last updated in April 2024.</p></div></div></div></div></div>"
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-current-licenses
 records: null

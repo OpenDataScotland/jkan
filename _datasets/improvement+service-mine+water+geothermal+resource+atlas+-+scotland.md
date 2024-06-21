@@ -7,7 +7,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2024-04-25'
+date_updated: '2024-06-19'
 license: 'Custom licence: Other (Not Open)'
 maintainer: Improvement Service
 notes: "<p>A Web Mapping Feature layer identifying optimal locations across Scotland\

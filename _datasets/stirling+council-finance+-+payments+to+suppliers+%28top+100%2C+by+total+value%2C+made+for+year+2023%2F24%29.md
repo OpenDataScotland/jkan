@@ -9,12 +9,12 @@ notes: <p>Payments to Suppliers - Top 100, by value, payments made.<div><br /></
   given as follows;</div><div><ul><li>Supplier Name</li><li>Count of Transactions</li><li>Net
   Value (Ex VAT)</li><li>Gross Value (Inc VAT)</li></ul></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-payments-to-suppliers-2023-2024-summary-top-100
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-payments-to-suppliers-top-100-by-total-value-made-for-year-2023-24
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-payments-to-suppliers-2023-2024-summary-top-100
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::finance-payments-to-suppliers-top-100-by-total-value-made-for-year-2023-24
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance_payments_to_suppliers_2023_2024_summary_top_100/FeatureServer/0
@@ -25,5 +25,5 @@ resources:
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/geojson?layers=0
 schema: default
-title: Finance payments to suppliers 2023 2024 summary top 100
+title: Finance - payments to suppliers (top 100, by total value, made for year 2023/24)
 ---

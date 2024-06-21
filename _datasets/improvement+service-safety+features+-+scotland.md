@@ -4,18 +4,15 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2021-06-11'
-date_updated: '2024-06-06'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
-notes: '<p>Many Local Authorities capture locational details of certain safety features
+notes: <p>Many Local Authorities capture locational details of certain safety features
   located across their area of jurisdiction. This dataset attempts to pull those features
-  together into one single national dataset.</p>
-
-  <p>It currently contains defibrillator, water access points, fire hydrant, lifebelt
-  and CCTV locations where local authorities have provided them.</p>
-
-  <p>It is likely that this dataset will be superseded and/ or conflated into a national
-  emergency services gazetteer as and when that is created.</p>'
+  together into one single national dataset.  It currently contains defibrillator,
+  water access points, fire hydrant, lifebelt and CCTV locations where local authorities
+  have provided them.  It is likely that this dataset will be superseded and/ or conflated
+  into a national emergency services gazetteer as and when that is created.</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-is'
 records: null

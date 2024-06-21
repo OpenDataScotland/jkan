@@ -5,17 +5,15 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2024-06-10'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
-notes: '<p>This dataset of the name, address, location and unique IDs of every older
+notes: <p>This dataset of the name, address, location and unique IDs of every older
   person care home in Scotland has initially been supplied by Geoplace. It takes data
   from the Care Inspectorate and matches it to current address records from the One
-  Scotland Gazetteer. </p>
-
-  <p>Once this data has been validated by local government custodians, the data will
-  help feed the Care Inspectorate data and be updated on a regular basis (most likely
-  quarterly).</p>'
+  Scotland Gazetteer.   Once this data has been validated by local government custodians,
+  the data will help feed the Care Inspectorate data and be updated on a regular basis
+  (most likely quarterly).</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/care_homes_for_older_people-is'
 records: null

@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2023-06-14'
+date_updated: '2024-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and unique ID of every registered

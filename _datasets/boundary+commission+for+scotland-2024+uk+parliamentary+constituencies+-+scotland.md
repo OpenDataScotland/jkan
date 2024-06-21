@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2024-03-27'
-date_updated: '2024-04-29'
+date_updated: '2024-06-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Boundary Commission for Scotland
 notes: <p>The Boundary Commission for Scotland began its 2023 Review of UK Parliament
@@ -11,9 +11,9 @@ notes: <p>The Boundary Commission for Scotland began its 2023 Review of UK Parli
   for the 2023 Review, two less than at present.   The Boundary Commission for Scotland
   published their revised proposals for a final 4-week consultation stage from 8 November
   to 5 December 2022.   The final recommendations were laid before Parliament on 28
-  June 2023.  The Parliamentary Constituencies Order 2023 was made on 15 November
-  2023 and will come into force on 29th November 2023. The new constituencies will
-  take effect at the next General Election in 2024</p>
+  June 2023 and published in May 2024  The Parliamentary Constituencies Order 2023
+  was made on 15 November 2023 and will come into force on 29th November 2023. The
+  new constituencies will take effect at the next General Election in 2024</p>
 organization: Boundary Commission for Scotland
 original_dataset_link: ' https://data.spatialhub.scot/dataset/2024_uk_parliamentary_constituencies-unknown'
 records: null

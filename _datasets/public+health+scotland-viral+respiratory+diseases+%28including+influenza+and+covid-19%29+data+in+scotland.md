@@ -6,10 +6,10 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2023-11-23'
-date_updated: '2024-06-13'
+date_updated: '2024-06-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p><strong>The next release of this publication will be on 13 June 2024.</strong>\r\n\r\nThis
+notes: <p><strong>The next release of this publication will be on 11 July 2024.</strong>\r\n\r\nThis
   publication was renamed on 12 October 2023 from Respiratory Infection Statistical
   Data in Scotland to Viral Respiratory Diseases (Including Influenza and COVID-19)
   Data in Scotland.  This included the addition of 11 new datasets. For data files

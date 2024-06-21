@@ -5,11 +5,11 @@ category:
 - Health and Social Care
 - Housing and Estates
 - Sport and Leisure
-date_created: '2023-03-12'
-date_updated: '2024-06-04'
+date_created: '2024-06-16'
+date_updated: '2024-06-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<div>Extract of electronic burial records for <b>Logie Cemeteries</b>\_managed\
+notes: "<div>Extract of electronic burial records for\_<b>Snowdon Cemetery</b>\_managed\
   \ and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>Although this\
   \ is not a full record of interments, the Council's Archives Service holds additional\
   \ burial and lair information, especially for funerals prior to 1900, and can be\
@@ -19,21 +19,21 @@ notes: "<div>Extract of electronic burial records for <b>Logie Cemeteries</b>\_m
   \ Records of Scotland and Scotland\u2019s People provide useful information for\
   \ those wishing to research their family tree.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::cemeteries-burial-records-extract-logie
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-burial-records-snowdon-cemetery
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::cemeteries-burial-records-extract-logie
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-burial-records-snowdon-cemetery
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/cemeteries%20-%20burial%20records%20extract%20(logie)/FeatureServer/0
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open%20data%20burial%20records%20snowdon%20cemetery/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/77098e9b0d864a768f19ced66c38d010/csv?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/csv?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/77098e9b0d864a768f19ced66c38d010/geojson?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/geojson?layers=0
 schema: default
-title: Cemeteries - burial records extract (logie)
+title: Open data burial records - snowdon cemetery
 ---

@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-08-21'
-date_updated: '2024-06-08'
+date_updated: '2024-06-18'
 license: No licence
 maintainer: Moray Council
 notes: "<p>Council Register of Assets (Moray).\_ Section 94 of the Community Empowerment\
