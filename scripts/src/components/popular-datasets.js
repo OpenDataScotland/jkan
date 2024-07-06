@@ -37,7 +37,7 @@ export default class PopularDatasets {
     }
 
     setPopularDatasets(popularDatasets, datasets) {
-        const filteredPopularDatasets = popularDatasets.filter(x => x.name != "/datasets/");
+        const filteredPopularDatasets = popularDatasets.results.filter(x => x.name != "/datasets/");
 
         const datasetNamesAndUrls = filteredPopularDatasets.map(popularDataset => {
             const datasetMatch = datasets.filter(dataset => dataset.url == popularDataset.name);
