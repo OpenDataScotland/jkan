@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-05-23'
-date_updated: '2023-06-15'
+date_updated: '2024-07-08'
 license: No licence
 maintainer: Glasgow City Council
 notes: "<p>The SVDLS for Glasgow, catalogues sites that are technically vacant, conforming\

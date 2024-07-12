@@ -10,6 +10,10 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2fe0e496-9f15-401e-9be4-9006c0494fe6
 records: null
 resources:
+- format: CSV
+  name: National Monitoring Framework - all-mode traffic count results May 2017 -
+    Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=02823010-1f33-46df-be3a-4218704f9ecb
 - format: XML
   name: National Monitoring Framework - all-mode traffic count results May 2017 -
     Cycling Scotland.xml
@@ -17,9 +21,6 @@ resources:
 - format: JSON
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/e7335c08-905e-460c-b70f-c955c21f1274/1/urql
-- format: CSV
-  name: NMF_TS_May_2017.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=04c3987d-bf0a-474a-8ef7-f65ed54c4272
 schema: default
 title: National Monitoring Framework - all-mode traffic count results May 2017 - Cycling
   Scotland

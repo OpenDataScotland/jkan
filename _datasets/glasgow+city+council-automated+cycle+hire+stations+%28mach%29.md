@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2023-06-15'
-date_updated: '2024-05-14'
+date_updated: '2023-06-15'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Location of automated cycle hire stations situated throughout Glasgow.</p>

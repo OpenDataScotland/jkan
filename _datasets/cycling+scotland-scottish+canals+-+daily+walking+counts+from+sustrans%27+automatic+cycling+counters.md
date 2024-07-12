@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2024-05-15'
-date_updated: '2024-06-19'
+date_updated: '2024-07-12'
 license: No licence
 maintainer: Cycling Scotland
 notes: <p>"The walking counts supplied is raw, uncleaned data. Extended counts of

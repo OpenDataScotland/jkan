@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2019-10-29'
-date_updated: '2019-10-29'
+date_updated: '2024-07-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: <p>Education Areas in The Highland Council area.<div><br /></div><div>Gemini

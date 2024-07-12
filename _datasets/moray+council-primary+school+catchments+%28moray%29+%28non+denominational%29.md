@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2017-03-24'
-date_updated: '2024-06-04'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>In Moray, the education authority discharges its duty to secure adequate\

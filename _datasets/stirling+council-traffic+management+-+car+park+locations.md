@@ -16,9 +16,13 @@ notes: '<div><span style=''background-color:rgb(255, 255, 255);''>Stirling Counc
   <p><span style=''background-color:rgb(255, 255, 255);''>traffic management - car
   park locations (point data)</span>
 
-  <div><span style=''background-color:rgb(255, 255, 255);''><br /></span></div></p>
+  <div><br /></div></p>
 
-  <div><br /></div>'
+  <div>Notes: July 2024</div>
+
+  <div>Aware this has not moved to Regulatory, review and update will be with them.
+  No longer Roads responsibility.<br /><div><span style=''background-color:rgb(255,
+  255, 255);''><br /></span></div><div><br /></div></div>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::traffic-management-car-park-locations
 records: null

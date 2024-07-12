@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Law and Licensing
 date_created: '2021-07-01'
-date_updated: '2023-03-31'
+date_updated: '2022-05-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Captures the number of Fixed Penalty Notices (FPNs) issues for littering

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-05-29'
-date_updated: '2024-05-24'
+date_updated: '2024-06-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Estimates of completeness of outpatient, acute, maternity, mental health

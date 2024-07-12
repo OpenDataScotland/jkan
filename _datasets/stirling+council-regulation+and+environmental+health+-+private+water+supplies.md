@@ -9,6 +9,10 @@ date_updated: '2024-06-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px;\
+  \ color:rgb(51, 51, 51); font-family:Montserrat, sans-serif; font-size:14px;'><b>This\
+  \ dataset is published as Open Data</b></p><p style='box-sizing:border-box; margin-top:0px;\
+  \ margin-bottom:10px; color:rgb(51, 51, 51); font-family:Montserrat, sans-serif;\
+  \ font-size:14px;'><br /></p><p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px;\
   \ color:rgb(51, 51, 51); font-family:Montserrat, sans-serif; font-size:14px;'>The\
   \ Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations\
   \ 2017 came into force in October 2017, and are regulated and enforced by Local\

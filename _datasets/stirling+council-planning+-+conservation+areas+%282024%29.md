@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2024-06-14'
-date_updated: '2024-06-14'
+date_updated: '2024-06-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)

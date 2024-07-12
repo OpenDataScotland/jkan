@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2018-02-27'
-date_updated: '2024-01-25'
+date_updated: '2024-07-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Secondary school catchment areas in Highland.\_</p>\n<p>Gemini metadata\

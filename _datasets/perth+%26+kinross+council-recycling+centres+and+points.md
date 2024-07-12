@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2023-08-24'
-date_updated: '2024-06-12'
+date_updated: '2024-04-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Council recycling

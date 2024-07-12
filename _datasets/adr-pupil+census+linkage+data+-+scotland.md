@@ -5,7 +5,7 @@ category:
 - Education
 - Elections / Politics
 date_created: '2021-10-21'
-date_updated: '2024-06-19'
+date_updated: '2024-06-25'
 license: No licence
 maintainer: ADR
 notes: <p>Children attending publicly funded local authority and grant-aided schools

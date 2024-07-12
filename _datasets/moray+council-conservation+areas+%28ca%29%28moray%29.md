@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2018-02-22'
-date_updated: '2024-03-23'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Conservation Areas are areas of special architectural of historic interest\

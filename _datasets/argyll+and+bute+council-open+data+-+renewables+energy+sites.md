@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-07-07'
-date_updated: '2023-04-01'
+date_updated: '2017-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>All\_renewable energy developments in Argyll and Bute, by type (e.g. windfarms,\

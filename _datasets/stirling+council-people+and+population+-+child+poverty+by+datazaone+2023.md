@@ -2,10 +2,15 @@
 category:
 - Business and Economy
 date_created: '2024-03-28'
-date_updated: '2024-03-28'
+date_updated: '2024-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <p>Scottish Government - Percentage of Children in Poverty by SIMD Data Zone.</p>
+notes: '<div><b>This dataset is published as Open Data, is the most recent, and replaces
+  any previously published dataset.</b></div>
+
+  <div><br /></div>
+
+  <p>Scottish Government - Percentage of Children in Poverty by SIMD Data Zone.</p>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::people-and-population-child-poverty-by-datazaone-2023
 records: null

@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2016-11-03'
-date_updated: '2024-01-10'
+date_updated: '2024-07-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Secondary schools in Highland.\_</p>\n<p>Gemini metadata record is at <a\

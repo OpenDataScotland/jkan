@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-04-10'
-date_updated: '2024-05-23'
+date_updated: '2023-11-20'
 license: No licence
 maintainer: Moray Council
 notes: "<p>Moray Council Polling Places.  Point data showing the polling\_places for\

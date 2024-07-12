@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2023-04-12'
+date_updated: '2024-06-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -55,6 +55,9 @@ resources:
 - format: REST
   name: Secondary school catchments
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Secondary_School_Catchments/FeatureServer/6/query?outFields=*&where=1%3D1
+- format: REST
+  name: Secondary School Catchments
+  url: https://utility.arcgis.com/usrsvcs/servers/f0fafab524e4497da2779b48c25a92e6/rest/services/Secondary_School_Catchments/FeatureServer/27/query?outFields=*&where=1%3D1&f=json
 schema: default
 title: School Catchments - Perth and Kinross
 ---

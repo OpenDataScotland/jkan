@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-04-30'
-date_updated: '2024-06-04'
+date_updated: '2024-07-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Psychological therapies refer to a range of interventions, based on psychological

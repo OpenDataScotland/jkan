@@ -4,8 +4,8 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2024-06-06'
-date_updated: '2024-06-17'
-license: No licence
+date_updated: '2024-07-07'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p>The new Stirling and Strathallan constituency consists of 7 multi-member
   wards from the Stirling Council area:</p>

@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2018-02-16'
-date_updated: '2023-12-21'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Tree Preservation Orders (TPO's) are served on potentially vulnerable trees

@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2023-07-27'
+date_updated: '2024-06-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -28,7 +28,7 @@ records: null
 resources:
 - format: ZIP
   name: Special Landscape Areas
-  url: https://data.spatialhub.scot/dataset/3544c0a2-2fbb-4bed-acb5-bf40bfa65951/resource/56d0e33c-d75a-409f-99d2-7cbe7daad447/download/sla.shp.zip
+  url: https://data.spatialhub.scot/dataset/3544c0a2-2fbb-4bed-acb5-bf40bfa65951/resource/2afdadae-85dc-422d-9fd5-873ea54d101a/download/special_landscape_areas.zip
 schema: default
 title: Local Landscape Areas - Aberdeenshire
 ---

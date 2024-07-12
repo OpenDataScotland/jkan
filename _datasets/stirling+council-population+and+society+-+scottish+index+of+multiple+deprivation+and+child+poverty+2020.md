@@ -9,38 +9,43 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2023-03-29'
-date_updated: '2024-03-29'
+date_updated: '2024-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>The\
-  \ Scottish Index of Multiple Deprivation 2020 is the Scottish Government\u2019s\
-  \ official tool for identifying those places in Scotland suffering from deprivation.\
-  \ It incorporates several different aspects of deprivation (employment, income,\
-  \ health, education, skills and training, geographic access, crime and housing),\
-  \ combining them into a single index.</span></font></div>\n<div><font color='#000000'\
-  \ face='Open Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n\
-  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>The\
-  \ 2020 Index provides a relative ranking for small areas in Scotland, defined by\
-  \ the Scottish Neighbourhood Statistics (SNS) Data Zone 2011 geography, from 1 (most\
-  \ deprived) to 6,976 (least deprived). By identifying small areas where there are\
-  \ concentrations of multiple deprivation, the SIMD can be used to target policies\
-  \ and resources at the places with greatest need. The SIMD also provides a rank\
-  \ for each data zone within each of the seven domains, and therefore it is possible\
-  \ to look at individual aspects of deprivation for each area, as well as the overall\
-  \ level of deprivation.</span></font></div>\n<div><font color='#000000' face='Open\
-  \ Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n<div><font\
-  \ color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>The\
-  \ dataset can be viewed by Ward, Intermediate Zone (IZ) and Scottish Parliamentary\
-  \ Constituency (SPC).</span></font></div>\n<div><font color='#000000' face='Open\
-  \ Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n<div><font\
-  \ color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>Details\
-  \ of the methodology used to determine the income, employment, education, health,\
-  \ access (to services), crime and housing domains can be opened from this link.\
-  \ Depending on the browser used to access this dataset, view the document from the\
-  \ options appearing on the screen.</span></font></div>\n<div><font color='#000000'\
-  \ face='Open Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n\
-  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>Analysis\
-  \ of the SIMD data at multi-member ward level can be found here.</span></font></div>"
+notes: "<div><b>This dataset is published as Open Data, is the most recent, and replaces\
+  \ any previously published dataset.</b><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'><br /><br />The Scottish Index of Multiple Deprivation\
+  \ 2020 is the Scottish Government\u2019s official tool for identifying those places\
+  \ in Scotland suffering from deprivation. It incorporates several different aspects\
+  \ of deprivation (employment, income, health, education, skills and training, geographic\
+  \ access, crime and housing), combining them into a single index.</span></font></div>\n\
+  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
+  \ /></span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'>The 2020 Index provides a relative ranking for small areas\
+  \ in Scotland, defined by the Scottish Neighbourhood Statistics (SNS) Data Zone\
+  \ 2011 geography, from 1 (most deprived) to 6,976 (least deprived). By identifying\
+  \ small areas where there are concentrations of multiple deprivation, the SIMD can\
+  \ be used to target policies and resources at the places with greatest need. The\
+  \ SIMD also provides a rank for each data zone within each of the seven domains,\
+  \ and therefore it is possible to look at individual aspects of deprivation for\
+  \ each area, as well as the overall level of deprivation.</span></font></div>\n\
+  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
+  \ /></span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'>The dataset can be viewed by Ward, Intermediate Zone (IZ)\
+  \ and Scottish Parliamentary Constituency (SPC).</span></font></div>\n<div><font\
+  \ color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
+  \ /></span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'>Details of the methodology used to determine the income,\
+  \ employment, education, health, access (to services), crime and housing domains\
+  \ can be opened from this link. Depending on the browser used to access this dataset,\
+  \ view the document from the options appearing on the screen.</span></font></div>\n\
+  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
+  \ /></span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'>The SIMD dataset has been sourced from:\_</span></font><a\
+  \ href='https://spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/02866b0b-66e5-46ab-9b1c-d433dc3c2fae'\
+  \ target='_blank' rel='nofollow ugc noopener noreferrer'>SpatialData.gov.scot</a></div>\n\
+  <div><br /></div>\n<div>This dataset is also used in the associated SIMD and Child\
+  \ Poverty map and application.</div>"
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
 records: null

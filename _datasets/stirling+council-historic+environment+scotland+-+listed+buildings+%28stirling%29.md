@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-06-15'
-date_updated: '2024-06-15'
+date_updated: '2024-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>The Listed Building Dataset comprises the statutory addresses and supplementary\

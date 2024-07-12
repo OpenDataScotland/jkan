@@ -6,7 +6,9 @@ date_created: '2022-04-24'
 date_updated: '2023-04-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <p>traffic management - parking control zones</p>
+notes: '<p>traffic management - parking control zones<div><br /></div><div>Notes:
+  July 2024</div><div>Aware this has moved to the Regulatory team, so will be reviewed
+  and updated by them. No longer Roads responsibility.</div></p>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::traffic-management-parking-control-zones
 records: null

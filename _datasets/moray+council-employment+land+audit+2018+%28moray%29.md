@@ -6,7 +6,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2018-12-19'
-date_updated: '2023-12-14'
+date_updated: '2023-11-20'
 license: No licence
 maintainer: Moray Council
 notes: <p>Employment Land Audit 2018 sites provides am overview of the supply and

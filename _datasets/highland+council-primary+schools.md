@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2016-11-03'
-date_updated: '2024-05-15'
+date_updated: '2024-07-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Primary schools in Highland.\_</p>\n<p>Gemini metadata record is at <a\

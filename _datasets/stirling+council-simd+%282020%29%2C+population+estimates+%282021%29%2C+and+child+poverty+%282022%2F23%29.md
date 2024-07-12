@@ -1,6 +1,7 @@
 ---
 category:
 - Business and Economy
+- Council and Government
 - Education
 - Health and Social Care
 - Housing and Estates
@@ -8,11 +9,13 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2023-08-06'
-date_updated: '2024-04-10'
+date_updated: '2024-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<p>Scottish Index of Multiple Deprivation (2020), Small Area Population Estimates\
-  \ (2021), and Child Poverty (2022/23)<div><br /></div><div><div><font color='#000000'\
+notes: "<div><b>This app is published as Open Data, is the most recent, and replaces\
+  \ any previously published dataset.</b><br /></div>\n<div><br /></div>\n<p>Scottish\
+  \ Index of Multiple Deprivation (2020), Small Area Population Estimates (2021),\
+  \ and Child Poverty (2022/23)\n<div><br /></div></p>\n<div><div><font color='#000000'\
   \ face='Open Sans, sans-serif'><span style='font-size:14px;'>The Scottish Index\
   \ of Multiple Deprivation 2020 is the Scottish Government\u2019s official tool for\
   \ identifying those places in Scotland suffering from deprivation. It incorporates\
@@ -28,10 +31,17 @@ notes: "<p>Scottish Index of Multiple Deprivation (2020), Small Area Population 
   \ and resources at the places with greatest need. The SIMD also provides a rank\
   \ for each data zone within each of the seven domains, and therefore it is possible\
   \ to look at individual aspects of deprivation for each area, as well as the overall\
-  \ level of deprivation.</span></font></div></div><div><font color='#000000' face='Open\
-  \ Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div><div><font\
+  \ level of deprivation.</span></font></div></div>\n<div><font color='#000000' face='Open\
+  \ Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n<div><font\
   \ color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>Child\
-  \ Poverty by Datazone (2022/23)</span></font></div></p>"
+  \ Poverty by Datazone (2022/23)</span></font></div>\n<div><font color='#000000'\
+  \ face='Open Sans, sans-serif'><span style='font-size:14px;'><br /></span></font></div>\n\
+  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'>This\
+  \ app uses the following published resources:</span></font></div>\n<div><ul><li><a\
+  \ href='https://stirling-council.maps.arcgis.com/home/item.html?id=da5ff16cbb1d42a48c43369e694619ec'\
+  \ target='_blank' rel='nofollow ugc noopener noreferrer'>map</a><br /></li><li><a\
+  \ href='https://stirling-council.maps.arcgis.com/home/item.html?id=c14b811acd4145c78f3bdddb1e376d59#overview'\
+  \ target='_blank' rel='nofollow ugc noopener noreferrer'>dataset</a><br /></li></ul></div>"
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::simd-2020-population-estimates-2021-and-child-poverty-2022-23
 records: null
