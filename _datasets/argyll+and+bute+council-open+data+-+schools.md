@@ -11,7 +11,7 @@ notes: "<p>The location of local authority schools across Argyll and Bute - prim
   \ Each school within a joint campus is shown separately.</p>"
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=dd6a8a84e7d64a8b92d4700a67b29b85
-records: 93
+records: 90
 resources: []
 schema: default
 title: Open Data - Schools

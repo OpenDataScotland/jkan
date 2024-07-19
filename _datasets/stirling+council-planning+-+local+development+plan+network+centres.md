@@ -1,5 +1,6 @@
 ---
 category:
+- Council and Government
 - Planning and Development
 date_created: '2024-07-09'
 date_updated: '2024-07-09'
@@ -8,7 +9,8 @@ maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data and replaces any previously
   published version</b></div>
 
-  <div><br /></div>
+  <div><div><b>This dataset was produced in support of Stirling Council''s Local Development
+  Plan, published and adopted 2018.</b><div><br /></div></div></div>
 
   <p>Town centres and other retail centres are defined by local authorities to meet
   the requirement of Scottish Planning Policy (paragraph 61) to identify town centres

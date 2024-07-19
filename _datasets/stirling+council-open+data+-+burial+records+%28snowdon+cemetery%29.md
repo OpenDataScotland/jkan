@@ -6,10 +6,11 @@ category:
 - Housing and Estates
 - Sport and Leisure
 date_created: '2024-06-16'
-date_updated: '2024-06-16'
+date_updated: '2024-07-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<div>Extract of electronic burial records for\_<b>Snowdon Cemetery</b>\_managed\
+notes: "<div><b>This dataset is published as Open Data</b><br /></div>\n<div><br /></div>\n\
+  <div>Extract of electronic burial records for\_<b>Snowdon Cemetery</b>\_managed\
   \ and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>Although this\
   \ is not a full record of interments, the Council's Archives Service holds additional\
   \ burial and lair information, especially for funerals prior to 1900, and can be\

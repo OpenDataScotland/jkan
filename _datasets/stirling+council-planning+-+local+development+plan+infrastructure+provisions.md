@@ -1,6 +1,7 @@
 ---
 category:
 - Business and Economy
+- Council and Government
 - Education
 - Health and Social Care
 - Housing and Estates
@@ -13,27 +14,30 @@ date_updated: '2024-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><b>This dataset, originally created in 2016, replaces all other published
-  versions</b><div><br /></div><div><div>Infrastructure provision points refer to
-  specific locations or nodes where essential infrastructure services and facilities
-  are made available to support community needs and development projects. These points
-  are crucial in ensuring that the necessary infrastructure is strategically distributed
-  and accessible within a given area. Here are some key aspects of infrastructure
-  provision points:</div><div><ul><li>Utilities: These include water supply, sewage
-  systems, electricity, gas, and telecommunications. Provision points for utilities
-  ensure that all parts of a development have access to these essential services.</li><li>Transportation:
-  Infrastructure provision points related to transportation might include bus stops,
-  train stations, parking facilities, and intersections. These points are crucial
-  for ensuring mobility and connectivity within the development.</li><li>Social Services:
-  This includes schools, hospitals, community centers, and recreational facilities.
-  Provision points for social services ensure that residents have access to education,
-  healthcare, and social activities.</li><li>Green Spaces: Parks, gardens, and natural
-  reserves are part of infrastructure provision points that contribute to the environmental
-  sustainability and quality of life within the development.</li><li>Economic Infrastructure:
-  This includes markets, commercial centers, and industrial zones. Provision points
-  for economic infrastructure support the economic vitality of the community by providing
-  spaces for business and employment opportunities.</li><li>Emergency Services: Locations
-  for fire stations, police stations, and emergency medical services are also considered
-  infrastructure provision points, ensuring safety and emergency response capabilities.</li></ul></div></div></p>'
+  versions. This dataset is also published as Open Data.</b><div><div><b>This dataset
+  was produced in support of Stirling Council''s Local Development Plan, published
+  and adopted 2018.</b><div><br /></div></div><div><br /></div><div><div>Infrastructure
+  provision points refer to specific locations or nodes where essential infrastructure
+  services and facilities are made available to support community needs and development
+  projects. These points are crucial in ensuring that the necessary infrastructure
+  is strategically distributed and accessible within a given area. Here are some key
+  aspects of infrastructure provision points:</div><div><ul><li>Utilities: These include
+  water supply, sewage systems, electricity, gas, and telecommunications. Provision
+  points for utilities ensure that all parts of a development have access to these
+  essential services.</li><li>Transportation: Infrastructure provision points related
+  to transportation might include bus stops, train stations, parking facilities, and
+  intersections. These points are crucial for ensuring mobility and connectivity within
+  the development.</li><li>Social Services: This includes schools, hospitals, community
+  centers, and recreational facilities. Provision points for social services ensure
+  that residents have access to education, healthcare, and social activities.</li><li>Green
+  Spaces: Parks, gardens, and natural reserves are part of infrastructure provision
+  points that contribute to the environmental sustainability and quality of life within
+  the development.</li><li>Economic Infrastructure: This includes markets, commercial
+  centers, and industrial zones. Provision points for economic infrastructure support
+  the economic vitality of the community by providing spaces for business and employment
+  opportunities.</li><li>Emergency Services: Locations for fire stations, police stations,
+  and emergency medical services are also considered infrastructure provision points,
+  ensuring safety and emergency response capabilities.</li></ul></div></div></div></p>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-development-plan-infrastructure-provisions
 records: null

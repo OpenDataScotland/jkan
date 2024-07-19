@@ -2,8 +2,8 @@
 category:
 - Health and Social Care
 date_created: '2023-08-28'
-date_updated: '2024-06-20'
-license: 'Custom licence: Creative Commons Attribution'
+date_updated: '2024-07-18'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Congenital conditions are variations of body structure or function which
   are present from birth. A baby\u2019s condition (or conditions) may be due to an

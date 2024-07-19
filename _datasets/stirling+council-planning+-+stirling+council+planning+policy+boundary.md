@@ -12,8 +12,11 @@ date_updated: '2024-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data and replaces all previously
-  published versions.</b><br /><br />Planning policy areas encompass a range of topics
-  designed to guide development and land use in a manner that supports sustainable
+  published versions.</b></div>
+
+  <div><div><b>This dataset supports Stirling Council''s Local Development Plan, published
+  and adopted 2018.</b><div><br /></div></div>Planning policy areas encompass a range
+  of topics designed to guide development and land use in a manner that supports sustainable
   growth, environmental protection, and community well-being. Key areas include:</div>
 
   <div><br /></div>

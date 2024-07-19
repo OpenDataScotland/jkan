@@ -6,18 +6,19 @@ category:
 - Housing and Estates
 - Sport and Leisure
 date_created: '2024-06-16'
-date_updated: '2024-06-16'
+date_updated: '2024-07-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<div>Extract of electronic burial records for\_<b>Ballengeich Cemetery</b>\_\
-  managed and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>Although\
-  \ this is not a full record of interments, the Council's Archives Service holds\
-  \ additional burial and lair information, especially for funerals prior to 1900,\
-  \ and can be contacted directly for further assistance.</div>\n<div><br /></div>\n\
-  <div>Information on arranging a funeral can be obtained from the Births, deaths\
-  \ and marriages page on the Stirling Council\u2019s website.</div>\n<div><br /></div>\n\
-  <div>National Records of Scotland and Scotland\u2019s People provide useful information\
-  \ for those wishing to research their family tree.</div>"
+notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></div>\n\
+  <div>Extract of electronic burial records for\_<b>Ballengeich Cemetery</b>\_managed\
+  \ and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>Although this\
+  \ is not a full record of interments, the Council's Archives Service holds additional\
+  \ burial and lair information, especially for funerals prior to 1900, and can be\
+  \ contacted directly for further assistance.</div>\n<div><br /></div>\n<div>Information\
+  \ on arranging a funeral can be obtained from the Births, deaths and marriages page\
+  \ on the Stirling Council\u2019s website.</div>\n<div><br /></div>\n<div>National\
+  \ Records of Scotland and Scotland\u2019s People provide useful information for\
+  \ those wishing to research their family tree.</div>"
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-burial-records-ballengeich-cemetery
 records: null

@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-01-22'
-date_updated: '2024-06-13'
+date_updated: '2024-07-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains address data and practice sizes for all NHS dental

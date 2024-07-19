@@ -7,11 +7,11 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-04-22'
-date_updated: '2023-10-12'
+date_updated: '2024-07-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p><strong>This publication was archived on 12 October 2023.  Please see the
-  <a href="https://www.opendata.nhs.scot/dataset/viral-respiratory-diseases-data-in-scotland">Viral
+  <a href="https://www.opendata.nhs.scot/dataset/viral-respiratory-diseases-including-influenza-and-covid-19-data-in-scotland">Viral
   Respiratory Diseases (Including Influenza and COVID-19) in Scotland</a> publication
   for the latest data.</strong>\r\n\r\nThis dataset provides information on number
   of new daily confirmed cases, negative cases, deaths, testing by NHS Labs (Pillar
