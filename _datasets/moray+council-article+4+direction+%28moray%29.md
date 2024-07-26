@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2024-06-27'
-date_updated: '2024-06-27'
+date_updated: '2024-07-24'
 license: No licence
 maintainer: Moray Council
 notes: <p>An Article 4 Direction is a statement made under The Town and Country Planning

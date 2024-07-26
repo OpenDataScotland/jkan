@@ -21,12 +21,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><p style='margin-top:0px; m
   landscapes is not diminished. It is about place at the broad scale</span><span style='font-size:12pt;'>.</span><br
   /></p></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-landscape-map-of-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-landscape-map-of-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-landscape-map-of-scotland
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-landscape-map-of-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Landscape_Map_of_Scotland/FeatureServer/0
@@ -43,5 +43,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/63dde7ec21ea4514b47dd09c8b3f06a3/kml?layers=0
 schema: default
-title: Naturescot - landscape map of scotland
+title: Open data - naturescot landscape map of scotland
 ---

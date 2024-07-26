@@ -15,12 +15,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><p><b>This dataset referenc
   1994 (as amended). Possible Special Areas of Conservation (pSAC) At Consultation
   stage may be subject to change prior to submission.</span></p></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-special-areas-of-conservation-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-special-areas-of-conservation-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-special-areas-of-conservation-scotland
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-special-areas-of-conservation-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Special_Areas_of_Conservation/FeatureServer/0
@@ -37,5 +37,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/5bff9b269cba4f599d031dedf6d3769a/kml?layers=0
 schema: default
-title: Naturescot - special areas of conservation (scotland)
+title: Open data - naturescot special areas of conservation (scotland)
 ---

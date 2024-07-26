@@ -3,7 +3,7 @@ category:
 - Food and Environment
 date_created: '2023-11-08'
 date_updated: '2023-11-08'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: ''
 organization: City of Edinburgh Council

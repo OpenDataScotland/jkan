@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2024-06-11'
-date_updated: '2024-06-13'
+date_updated: '2024-07-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"All mode traffic survey results for Edinburgh including counts for all

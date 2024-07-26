@@ -22,12 +22,12 @@ notes: "<div style='text-align:Left;'><div><div><p style='margin-top:0px; margin
   s recommended places under the National Parks and Access to the Countryside Act\
   \ 1949 and the Wildlife and Countryside Act 1981.</span></span></p></div></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-national-nature-reserves-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-national-nature-reserves-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-national-nature-reserves-scotland
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-national-nature-reserves-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/National_Nature_Reserves/FeatureServer/0
@@ -44,5 +44,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/822047d5c80c4a6d9019c26897bc250f/kml?layers=0
 schema: default
-title: Naturescot - national nature reserves (scotland)
+title: Open data - naturescot national nature reserves (scotland)
 ---

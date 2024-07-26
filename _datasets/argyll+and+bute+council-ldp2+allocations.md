@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Tourism
 date_created: '2024-03-11'
-date_updated: '2024-03-11'
+date_updated: '2024-07-19'
 license: No licence
 maintainer: Argyll and Bute Council
 notes: <p>Land identified for new development - LDP2. This provision is primarily

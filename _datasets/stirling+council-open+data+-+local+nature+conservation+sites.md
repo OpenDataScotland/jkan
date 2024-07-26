@@ -25,12 +25,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   Sites, Local Wildlife Sites, Local Geodiversity Sites and Sites of Interest for
   Nature Conservation. We have merged these all into this national dataset.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::environment-and-nature-conservation-local-nature-conservation-sites
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-local-nature-conservation-sites
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::environment-and-nature-conservation-local-nature-conservation-sites
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-local-nature-conservation-sites
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Natural_Environment_Local_Nature_Conservation_Sites/FeatureServer/5
@@ -47,5 +47,5 @@ resources:
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/14216dae4edf4ab89a85140ffc0bf620/kml?layers=5
 schema: default
-title: Environment and nature conservation - local nature conservation sites
+title: Open data - local nature conservation sites
 ---

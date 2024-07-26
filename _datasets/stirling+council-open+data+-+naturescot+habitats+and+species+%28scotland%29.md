@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2024-07-09'
-date_updated: '2024-07-09'
+date_updated: '2024-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><p style=''margin-top:0px; margin-bottom:0px;''><b>This dataset references
@@ -18,15 +18,15 @@ notes: '<div><p style=''margin-top:0px; margin-bottom:0px;''><b>This dataset ref
   <p>Web Mapping Service containing data about habitat surveys and species distribution
   in Scotland</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-habitats-and-species-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-habitats-and-species-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::naturescot-habitats-and-species-scotland
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-habitats-and-species-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://ogc.nature.scot/geoserver/habitatsandspecies/wms
 schema: default
-title: Naturescot - habitats and species (scotland)
+title: Open data - naturescot habitats and species (scotland)
 ---
