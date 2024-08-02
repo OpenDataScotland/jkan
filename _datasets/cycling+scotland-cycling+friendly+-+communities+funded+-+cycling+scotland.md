@@ -17,7 +17,7 @@ resources:
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9e4f2a31-315e-4b91-a501-26753fa87137
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9b8b85e0-8d97-4b9f-8ecb-36419272ecc5/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9b9c01bd-0fce-4ef2-b68b-93a154032c04/1/urql
 schema: default
 title: Cycling Friendly - Communities Funded - Cycling Scotland
 ---

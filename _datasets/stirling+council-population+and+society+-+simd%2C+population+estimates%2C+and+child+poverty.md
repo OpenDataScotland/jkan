@@ -11,8 +11,9 @@ date_created: '2024-04-09'
 date_updated: '2024-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<p>Scottish Index of Multiple Deprivation, Small Area Population Estimates,\
-  \ and Child Poverty\_<div><br /></div><div><div><font color='#000000' face='Open\
+notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></div>\n\
+  <p>Scottish Index of Multiple Deprivation, Small Area Population Estimates, and\
+  \ Child Poverty\_\n<div><br /></div></p>\n<div><div><font color='#000000' face='Open\
   \ Sans, sans-serif'><span style='font-size:14px;'>The Scottish Index of Multiple\
   \ Deprivation 2020 is the Scottish Government\u2019s official tool for identifying\
   \ those places in Scotland suffering from deprivation. It incorporates several different\
@@ -27,13 +28,14 @@ notes: "<p>Scottish Index of Multiple Deprivation, Small Area Population Estimat
   \ be used to target policies and resources at the places with greatest need. The\
   \ SIMD also provides a rank for each data zone within each of the seven domains,\
   \ and therefore it is possible to look at individual aspects of deprivation for\
-  \ each area, as well as the overall level of deprivation.</span></font></div></div><div><font\
-  \ color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
-  \ /></span></font></div><div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ each area, as well as the overall level of deprivation.</span></font></div></div>\n\
+  <div><font color='#000000' face='Open Sans, sans-serif'><span style='font-size:14px;'><br\
+  \ /></span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
   \ style='font-size:14px;'>National Records of Scotland Small Area Population Estimates\
-  \ (2021)</span></font></div><div><font color='#000000' face='Open Sans, sans-serif'><span\
-  \ style='font-size:14px;'><br /></span></font></div><div><font color='#000000' face='Open\
-  \ Sans, sans-serif'><span style='font-size:14px;'>Child Poverty by Datazone (2022/23)</span></font></div></p>"
+  \ (2021)</span></font></div>\n<div><font color='#000000' face='Open Sans, sans-serif'><span\
+  \ style='font-size:14px;'><br /></span></font></div>\n<div><font color='#000000'\
+  \ face='Open Sans, sans-serif'><span style='font-size:14px;'>Child Poverty by Datazone\
+  \ (2022/23)</span></font></div>"
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-simd-population-estimates-and-child-poverty
 records: null

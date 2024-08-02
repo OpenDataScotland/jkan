@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2018-01-16'
-date_updated: '2024-01-31'
+date_updated: '2024-08-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Area Committee areas in The Highland Council area.<div><br /></div><div>Gemini\

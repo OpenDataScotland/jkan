@@ -7,20 +7,24 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2024-06-14'
-date_updated: '2024-06-26'
+date_updated: '2024-07-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
-  Act 1997 a local authority may determine which parts of its area are of special
-  architectural or historic interest and may designate these as Conservation Areas.
-  The public will normally be consulted on any proposal to designate conservation
-  areas or to change their boundaries.There are over 600 Conservation Areas in Scotland.
-  Many were designated in the early 1970s, but some have since been re-designated,
-  merged, renamed, given smaller or larger boundaries and new ones have been added.
-  They can cover historic land, battlefields, public parks, designed landscapes or
-  railways but most contain groups of buildings extending over areas of a village,
-  town or city. Further planning controls on development can be made by way of an
-  Article 4 Direction, which may or may not be associated with a Conservation Area.</div>
+notes: '<div><b>This map support an Open Data application</b></div>
+
+  <div><br /></div>
+
+  <div>Under the Planning (Listed Buildings and Conservation Areas) (Scotland) Act
+  1997 a local authority may determine which parts of its area are of special architectural
+  or historic interest and may designate these as Conservation Areas. The public will
+  normally be consulted on any proposal to designate conservation areas or to change
+  their boundaries.There are over 600 Conservation Areas in Scotland. Many were designated
+  in the early 1970s, but some have since been re-designated, merged, renamed, given
+  smaller or larger boundaries and new ones have been added. They can cover historic
+  land, battlefields, public parks, designed landscapes or railways but most contain
+  groups of buildings extending over areas of a village, town or city. Further planning
+  controls on development can be made by way of an Article 4 Direction, which may
+  or may not be associated with a Conservation Area.</div>
 
   <div><br /></div>
 

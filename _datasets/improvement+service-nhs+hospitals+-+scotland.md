@@ -1,20 +1,16 @@
 ---
 category:
-- Arts / Culture / History
-- Elections / Politics
 - Health and Social Care
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2024-06-19'
+date_updated: '2024-08-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
-notes: <p>This dataset of the name, address, location and Unique Property Reference
-  Number of every NHS hospital in Scotland has initially been supplied by NHS24. It
-  takes data from their Scotland's Service Directory (https://www.nhsinform.scot/scotlands-service-directory)
-  and matches it to current address records from the One Scotland Gazetteer. Once
-  this data has been validated by local government custodians, the data will be actively
-  maintained and extracted directly from the One Scotland Gazetteer.</p>
+notes: <p>This point dataset includes the name, code, address, type, ownership, location
+  and Unique Property Reference Number of every current NHS hospital in Scotland.
+  It has been supplied to us by Public Health Scotland and turned into a GIS layer
+  using their supplied coordinates.</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/nhs_hospitals-is'
 records: null

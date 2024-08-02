@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Housing and Estates
 date_created: '2022-04-24'
-date_updated: '2023-10-01'
+date_updated: '2024-07-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>Dataset showing the locations of cemeteries and graveyards managed by Stirling

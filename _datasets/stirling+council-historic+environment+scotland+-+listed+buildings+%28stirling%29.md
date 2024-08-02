@@ -7,7 +7,8 @@ date_created: '2024-06-15'
 date_updated: '2024-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: "<p>The Listed Building Dataset comprises the statutory addresses and supplementary\
+notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></div>\n\
+  <p>The Listed Building Dataset comprises the statutory addresses and supplementary\
   \ information for listed buildings in Scotland. Listing is the recognition through\
   \ the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 that\
   \ a building or structure is of \u2018special\u2019 interest. Historic Environment\

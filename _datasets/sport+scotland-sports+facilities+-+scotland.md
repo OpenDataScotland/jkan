@@ -3,7 +3,7 @@ category:
 - Law and Licensing
 - Sport and Leisure
 date_created: '2024-07-25'
-date_updated: '2024-07-26'
+date_updated: '2024-07-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Sport Scotland
 notes: '<p>This dataset contains multiple themed layers of different types of sporting
@@ -14,16 +14,15 @@ notes: '<p>This dataset contains multiple themed layers of different types of sp
   be calculated easily.  Where there were missing coordinates for some facilities,
   manual lookups of appropriate coordinates have been made. Also, a judgement has
   been made to delete some provided facilities where they appear to no longer exist
-  (for whatever reason).  Provided layers are: - Athletics Tracks (incl velodromes,
-  training areas, indoor and outdoor) - Bowling Greens (incl croquet, petanque and
-  cricket squares) - Fitness Suites - Golf Courses - Ice Rinks (incl curling rinks)
-  - Pitches (incl size, sport and type) - Sports Halls (incl gyms and other types)
-  - Squash Court - Swimming Pools (incl diving and other types) - Indoor Tennis Courts
-  - Outdoor Tennis Courts  Please note that the information provided is provided by
-  third parties and therefore we cannot guarantee its accuracy, but it is the most
-  up to date information we hold.    As part of our work to keep this data up to date,
-  we would kindly request that if you identify any issues, you share this with sportscotland
-  at facilities@sportscotland.org.uk</p>'
+  (for whatever reason).  Provided layers are:  Athletics Tracks (incl velodromes,
+  training areas, indoor and outdoor)  Bowling Greens (incl croquet, petanque and
+  cricket squares)  Fitness Suites  Golf Courses  Ice Rinks (incl curling rinks)  Pitches
+  (incl size, sport and type)  Sports Halls (incl gyms and other types)  Squash Court  Swimming
+  Pools (incl diving and other types)  Indoor Tennis Courts  Outdoor Tennis Courts  Please
+  note that the information provided is provided by third parties and therefore we
+  cannot guarantee its accuracy, but it is the most up to date information we hold.    As
+  part of our work to keep this data up to date, we would kindly request that if you
+  identify any issues, you share this with sportscotland at facilities@sportscotland.org.uk</p>'
 organization: Sport Scotland
 original_dataset_link: ' https://data.spatialhub.scot/dataset/sports_facilities-unknown'
 records: null
@@ -37,6 +36,30 @@ resources:
 - format: WFS
   name: 'Fitness Suites '
   url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spffs
+- format: WFS
+  name: 'Golf Courses '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfgc
+- format: WFS
+  name: 'Ice Rinks '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfir
+- format: WFS
+  name: 'Indoor Tennis Courts '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfitc
+- format: WFS
+  name: 'Outdoor Tennis Courts '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfotc
+- format: WFS
+  name: 'Pitches '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfp
+- format: WFS
+  name: 'Swimming Pools '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfsp
+- format: WFS
+  name: 'Squash Courts '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfsc
+- format: WFS
+  name: 'Sports Halls '
+  url: https://geo.spatialhub.scot/geoserver/ext_spf/wfs?service=wfs&typeName=ext_spf:pub_spfsh
 schema: default
 title: Sports Facilities - Scotland
 ---

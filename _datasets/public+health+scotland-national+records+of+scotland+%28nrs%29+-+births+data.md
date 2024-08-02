@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-07-25'
+date_updated: '2024-08-01'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>All Registrations to the National Records of Scotland of live births</p>

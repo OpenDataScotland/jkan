@@ -5,7 +5,11 @@ date_created: '2022-11-08'
 date_updated: '2024-06-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <p>This is a public view of roads - winter gritting routes (2022)</p>
+notes: '<div><b>This dataset is published as Open Data</b></div>
+
+  <div><br /></div>
+
+  <p>This is a public view of roads - winter gritting routes (2022)</p>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::roads-winter-gritting-routes-2022-public-view
 records: null

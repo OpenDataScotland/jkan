@@ -12,13 +12,14 @@ date_updated: '2024-07-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><div><b>This dataset is published as Open Data and is taken from the\
-  \ spreadsheet published on Stirling Council's website.\_</b></div><div><br /></div><div><b>Please\
-  \ Note:</b></div><div>This dataset attempts to create a location point for each\
-  \ license, however, with the published spreadsheet missing key identifiers and not\
-  \ adhering to the Scottish Government's requirements, some inaccuracies exist. Improvements\
-  \ to the data will be introduced with further processing. The dataset also contains\
-  \ processing verification fields that are not seen in the supplying spreadsheet\
-  \ and are for processing reference only.</div><div><br /></div><div><b>Introduction:</b></div><div>Short-term\
+  \ spreadsheet published on Stirling Council's website -\_<a href='https://www.stirling.gov.uk/business-and-licences/licences-permits-and-permissions/short-term-let-licensing/'\
+  \ target='_blank' rel='nofollow ugc noopener noreferrer'>LINK</a>\_</b></div><div><br\
+  \ /></div><div><b>Please Note:</b></div><div>This dataset attempts to create a location\
+  \ point for each license, however, with the published spreadsheet missing key identifiers\
+  \ and not adhering to the Scottish Government's requirements, some inaccuracies\
+  \ exist. Improvements to the data will be introduced with further processing. The\
+  \ dataset also contains processing verification fields that are not seen in the\
+  \ supplying spreadsheet and are for processing reference only.</div><div><br /></div><div><b>Introduction:</b></div><div>Short-term\
   \ let licensing was introduced across Scotland in October 2022. It means that anyone\
   \ who wants to offer accommodation as a short-term let must get a licence from their\
   \ council, unless that accommodation is excluded by law.</div></div>\n<div><br /></div>\n\

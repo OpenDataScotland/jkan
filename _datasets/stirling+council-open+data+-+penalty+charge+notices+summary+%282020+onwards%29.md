@@ -2,20 +2,31 @@
 category:
 - Council and Government
 - Housing and Estates
+- Law and Licensing
+- Parks / Recreation
+- Sport and Leisure
 - Transportation
 date_created: '2024-06-24'
 date_updated: '2024-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div><b><u>Stirling Council - Regulatory Services</u></b></div>
+notes: '<div><b>This dataset is published as Open Data</b></div>
 
   <div><br /></div>
 
-  <div><ul><li>Decriminalised Parking Enforcement (DPE) enables local authorities
-  in Scotland to administer its own parking penalties, including the issuing of Penalty
-  Charge Notices (PCNs) to vehicles who breach parking controls in specified areas.</li><li>This
-  dataset is a summarised listing of all contraventions based on Year, Month, Contravention,
-  and Total number from 2020-01-01 onwards.</li></ul></div>'
+  <div>Penalty Charge Notices (PCNs): PCNs are issued by local council parking attendants
+  and are usually given if the rules set out in the Traffic Regulation Order (TRO)
+  have been broken. The attendant will give the ticket to the driver or put it on
+  your car.</div>
+
+  <div><br /></div>
+
+  <div>These are given when you park in a place you shouldn''t e.g. in a bus lane.</div>
+
+  <div><br /></div>
+
+  <div>You''ll have 28 days to pay or challenge the ticket. The council will reduce
+  the fine by 50% if you pay within 14 days.</div>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-penalty-charge-notices-summary-2020-onwards
 records: null

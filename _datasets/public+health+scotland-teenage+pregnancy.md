@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-07-10'
-date_updated: '2024-07-24'
+date_updated: '2024-07-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These data provide an annual update on teenage pregnancy statistics in Scotland
