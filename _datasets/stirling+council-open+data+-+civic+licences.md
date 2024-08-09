@@ -4,13 +4,16 @@ category:
 - Law and Licensing
 - Transportation
 date_created: '2024-07-01'
-date_updated: '2024-07-02'
+date_updated: '2024-08-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div>The Civic Government (Scotland) Act 1982 makes provision of the licensing
-  and regulation of certain activities. This dataset details current civic licences,
-  excluding licensed premises and details published include, but are not limited,
-  to the following.</div>
+notes: '<div><b>This dataset is published as Open Data</b></div>
+
+  <div><br /></div>
+
+  <div>The Civic Government (Scotland) Act 1982 makes provision of the licensing and
+  regulation of certain activities. This dataset details current civic licences, excluding
+  licensed premises and details published include, but are not limited, to the following.</div>
 
   <div><ul><li>Taxi Booking Offices</li><li>Cinemas</li><li>Knife Dealers</li><li>Late
   Hours Catering</li><li>Market Operators</li><li>Metal Dealer</li><li>Public Charitable

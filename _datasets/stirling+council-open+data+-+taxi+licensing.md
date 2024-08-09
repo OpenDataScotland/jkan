@@ -5,16 +5,20 @@ category:
 - Public Safety
 - Transportation
 date_created: '2024-07-02'
-date_updated: '2024-07-02'
+date_updated: '2024-08-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: <div>Throughout Scotland, high quality taxi and private hire car services play
-  an essential part in local transport networks, providing an invaluable service for
+notes: '<div><b>This dataset is published as Open Data</b></div>
+
+  <div><br /></div>
+
+  <div>Throughout Scotland, high quality taxi and private hire car services play an
+  essential part in local transport networks, providing an invaluable service for
   both residents and visitors to Scotland. Civic Government (Scotland) Act 1982, the
   aim of any licensing regime is the preservation of public safety and order and the
   prevention of crime. Local authorities are responsible for the creation, management
   and enforcement of the local taxi and private hire car licensing regime following
-  the framework provided for in the Civic Government (Scotland) Act 1982.</div>
+  the framework provided for in the Civic Government (Scotland) Act 1982.</div>'
 organization: Stirling Council
 original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-taxi-licensing
 records: null

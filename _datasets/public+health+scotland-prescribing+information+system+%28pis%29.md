@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-08-01'
+date_updated: '2024-08-08'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The Prescribing Information System (PIS) is the definitive data source for
