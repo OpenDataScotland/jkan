@@ -126,6 +126,8 @@ exclude:
   - webpack.config.js
   - README.md
   - LICENSE
+  - CNAME
+  - docker-compose.yml
 
 # Site default images/logos
 default_org_icon: /img/icons/default_org_icon.png
