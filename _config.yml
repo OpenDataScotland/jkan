@@ -107,8 +107,7 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: true
-  username: "@opendata_sco"
+  enabled: false
 
 # Open Graph
 opengraph:

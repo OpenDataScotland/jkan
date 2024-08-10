@@ -13,8 +13,6 @@ permalink: /organizations/
 
 <input type="text" id="org-search" class="form-control" placeholder="Search..." style="margin-bottom:2rem;">
 
-<a href="{{ site.baseurl }}/add-organization/" class="btn btn-default pull-right admin-only" data-hook="add-organization-btn"><i class="fa fa-plus"></i> Add Organization</a>
-
 <div id="org-list">
 	{% for organization in site.organizations %}
 	{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}

@@ -43,7 +43,7 @@ export default class {
         });
         $('#mixed-content-warning-clipboard').on('click',function () {
           copy(currentLink);
-          $(this).html('<i class="fa fa-clipboard"></i> Copied!');
+          $(this).html('<i class="fa-solid fa-clipboard"></i> Copied!');
         })
       }
     })

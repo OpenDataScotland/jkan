@@ -12,7 +12,7 @@ export default (resourceUrl, originalDatasetUrl) => {
         <div class="form-group input-group">
           <input type="text" class="form-control" disabled value="${resourceUrl}">
           <span class="input-group-btn">
-            <button class="btn btn-default" type="button" id="mixed-content-warning-clipboard"><i class="fa fa-clipboard"></i> Copy</button>
+            <button class="btn btn-default" type="button" id="mixed-content-warning-clipboard"><i class="fa-solid fa-clipboard"></i> Copy</button>
           </span>
         </div><!-- /.form-group .input-group -->  
         <p>Alternatively, you can access the resource via the <a href="${originalDatasetUrl}" target="_blank">original dataset link</a>.</p>
