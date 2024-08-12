@@ -24,6 +24,7 @@ import ThemeGallery from './components/theme-gallery'
 import {queryByComponent, setParams} from './util'
 import PopularDatasets from './components/popular-datasets'
 import RandomDatasets from './components/random-datasets'
+import LACategoryBreakdown from './components/la-category-breakdown'
 
 const params = $.deparam(window.location.search.substr(1))
 
@@ -66,7 +67,9 @@ const components = [
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
   {tag: 'file-types-filter', class: FileTypesFilter, usesDatasets: true},
   {tag: 'popular-datasets', class: PopularDatasets, usesDatasets: true},
-  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true}
+  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true},
+  {tag: 'la-category-breakdown', class: LACategoryBreakdown, usesDatasets: true}
+
 ]
 for (let component of components) {
   const els = queryByComponent(component.tag)
