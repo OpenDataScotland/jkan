@@ -71,12 +71,12 @@ layout: default
     </div>
 
   </div>
-  <div class="row" data-hook="view" data-view="edit">
+  {%- comment -%} <div class="row" data-hook="view" data-view="edit">
     <div class="col-sm-8 col-sm-offset-2">
       {% include organization-form.html organization=page %}
     </div>
     <div class="col-sm-2">
       <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
     </div>
-  </div>
+  </div> {%- endcomment -%}
 </div>
