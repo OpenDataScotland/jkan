@@ -7,6 +7,7 @@ full_width: true
 
 {% include breadcrumbs.html parent="Analytics" %}
 
+{%- comment -%} TODO: Bundle this {%- endcomment -%}
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css" />
 
 <style>
@@ -70,6 +71,7 @@ full_width: true
   <p>We welcome any feedback on how we can improve our scoring system. If you have any comments, suggestions or want to tell us if something doesn't look right, please <a href="/resources/aboutods/#contact-us">contact us</a>.</p>
 </section>
 
+{%- comment -%} TODO: Bundle this {%- endcomment -%}
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
 <script>
   var categories = {{site.data.categories | map: "name" | jsonify}};
