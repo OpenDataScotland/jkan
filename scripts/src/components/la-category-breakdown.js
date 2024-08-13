@@ -17,6 +17,13 @@ export default class {
         var tfoot = this.buildFooter(laDatasets, localAuthorities, categories);
 
         setContent($("#la-category-breakdown"), [$(thead), $(tbody), $(tfoot)])
+
+        $("#la-category-breakdown").DataTable({
+            fixedHeader: true,
+            dom: "t",
+            paging: false,
+            ordering: false,
+        });
     }
 
     buildHeader(categories) {
@@ -30,8 +37,10 @@ export default class {
 
         for (let index in categories) {
             var categoryHeaderElem = document.createElement("th");
-            categoryHeaderElem.innerText = categories[index];
-            categoryHeaderElem.classList.add("verticalColumn");
+            var categoryHeaderSpan = document.createElement("span");
+            categoryHeaderSpan.innerText = categories[index];
+            categoryHeaderSpan.classList.add("vertical-column");
+            categoryHeaderElem.appendChild(categoryHeaderSpan);
             trowElem.appendChild(categoryHeaderElem);
         }
 
@@ -65,11 +74,24 @@ export default class {
                 var categoryCount = laDatasets.filter(ds => ds.organization == currentLA && ds.category.includes(currentCategory)).length
                 orgDatasetCategoryTotal += categoryCount;
 
+                if (categoryCount < 1) {
+                    catCell.classList.add("datasets-none");
+                }
+                else if (categoryCount >= 1 && categoryCount <= 3) {
+                    catCell.classList.add("datasets-low");
+                }
+                else if (categoryCount >= 4 && categoryCount <= 6) {
+                    catCell.classList.add("datasets-medium");
+                }
+                else if (categoryCount > 6) {
+                    catCell.classList.add("datasets-high");
+                }
+
                 catCell.innerText = categoryCount;
                 laRow.appendChild(catCell);
             }
 
-            var totalCell = document.createElement("td");
+            var totalCell = document.createElement("th");
             totalCell.innerText = orgDatasetCategoryTotal;
             laRow.appendChild(totalCell);
 
@@ -80,45 +102,46 @@ export default class {
     }
 
     buildFooter(laDatasets, localAuthorities, categories) {
-        var datasetsByLa = _(laDatasets).groupBy("organization").value();
-
+        var datasetsByLa = _(laDatasets).groupBy("organization").map((value, key) => { return { name: key, datasets: value } }).value();
+        var laCount = localAuthorities.length;
         var tfootElem = document.createElement("tfoot");
 
         var noDataRowElem = document.createElement("tr");
+        var noDataRowPercentElem = document.createElement("tr");
 
         var noDataTitleElem = document.createElement("th");
         noDataTitleElem.innerText = "# local authorities with no data";
         noDataRowElem.appendChild(noDataTitleElem);
-
-        for (let index in categories) {
-            var categoryHeaderElem = document.createElement("th");
-            categoryHeaderElem.innerText = "X"
-            noDataRowElem.appendChild(categoryHeaderElem);
-        }
-
-        var noDataRowEndTh = document.createElement("th");
-        noDataRowElem.appendChild(noDataRowEndTh);
-
-        tfootElem.appendChild(noDataRowElem);
-
-        var noDataRowPercentElem = document.createElement("tr");
 
         var noDataRowPercentTitleElem = document.createElement("th");
         noDataRowPercentTitleElem.innerText = "% of local authorities with no data";
         noDataRowPercentElem.appendChild(noDataRowPercentTitleElem);
 
         for (let index in categories) {
-            var categoryHeaderElem = document.createElement("th");
-            categoryHeaderElem.innerText = "X"
-            noDataRowPercentElem.appendChild(categoryHeaderElem);
+            var currentCategory = categories[index];
+            var localAuthoritiesWithoutCategory = datasetsByLa.filter(la => la.datasets.every(ds => !ds.category.includes(currentCategory))).length;
+            var percentLocalAuthoritiesWithoutCategory = localAuthoritiesWithoutCategory / laCount * 100;
+            var percentLocalAuthoritiesWithoutCategoryFormatted = percentLocalAuthoritiesWithoutCategory.toFixed(0);
+
+            var categoryHeaderElem = document.createElement("td");
+            categoryHeaderElem.innerText = `${localAuthoritiesWithoutCategory}/${laCount}`;
+            noDataRowElem.appendChild(categoryHeaderElem);
+
+            var categoryHeaderPercentElem = document.createElement("td");
+            categoryHeaderPercentElem.innerText = percentLocalAuthoritiesWithoutCategoryFormatted;
+            noDataRowPercentElem.appendChild(categoryHeaderPercentElem);
         }
 
-        var noDataRowPercentTh = document.createElement("th");
-        noDataRowPercentElem.appendChild(noDataRowPercentTh);
+        var noDataRowEndTh = document.createElement("th");
+        noDataRowElem.style.backgroundColor = "#f9f9f9";
+        noDataRowElem.appendChild(noDataRowEndTh);
+        tfootElem.appendChild(noDataRowElem);
 
+        var noDataRowPercentTh = document.createElement("th");
+        noDataRowPercentTh.style.backgroundColor = "#f9f9f9";
+        noDataRowPercentElem.appendChild(noDataRowPercentTh);
         tfootElem.appendChild(noDataRowPercentElem);
 
         return tfootElem;
     }
 }
-

@@ -5,14 +5,30 @@ permalink: /analytics/local-authority-categories/
 full_width: true
 ---
 
-{% include breadcrumbs.html parent="Analytics" %} {% assign COLOUR_NONE = "background-color:rgba(253, 5, 34, 1)" %} {% assign COLOUR_LOW = "background-color:rgba(255, 123, 103, 1)" %} {% assign COLOUR_MEDIUM = "background-color:rgba(255, 191, 177, 1)" %} {% assign COLOUR_HIGH = "background-color:rgba(255, 255, 255, 1)" %} {% assign HEADER = "writing-mode: vertical-lr; transform: rotate(180deg);" %}
+{% include breadcrumbs.html parent="Analytics" %}
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.css" />
 
 <style>
-  .verticalColumn {
+  .vertical-column {
     writing-mode: vertical-lr;
     transform: rotate(180deg);
+  }
+
+  .datasets-none {
+    background-color: rgba(253, 5, 34, 1);
+  }
+
+  .datasets-high {
+    background-color: rgba(255, 255, 255, 1);
+  }
+
+  .datasets-medium {
+    background-color: rgba(255, 191, 177, 1);
+  }
+
+  .datasets-low {
+    background-color: rgba(255, 123, 103, 1);
   }
 </style>
 
@@ -20,57 +36,6 @@ full_width: true
 
 <table id="la-category-breakdown" data-component="la-category-breakdown" class="table table-responsive table-bordered table-striped"></table>
 
-{%- comment -%} {% assign categories = site.data.categories %}
-
-<table id="category-breakdown-table" class="table table-responsive table-bordered table-striped">
-  <thead>
-    <tr>
-      <th>Council</th>
-      {% for category in categories %}
-      <th><span style="{{HEADER}}">{{category.name }}</span></th>
-      {% endfor %}
-      <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% assign local_authorities = site.organizations | where: "type", "Local authority" %} {% assign local_authorities_count = local_authorities | size %} {% for la in local_authorities %} {% assign dataset_count_total = 0 %}
-
-    <tr>
-      <td>{{ la.title }}</td>
-      {% for category in categories %} {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %} {% assign dataset_count_total = dataset_count_total | plus: dataset_count %} {% if dataset_count < 1 %}
-      <td style="{{COLOUR_NONE}}">{{dataset_count}}</td>
-      {% elsif dataset_count >= 1 and dataset_count <= 3 %}
-      <td style="{{COLOUR_LOW}}">{{dataset_count}}</td>
-      {% elsif dataset_count >= 4 and dataset_count <= 6 %}
-      <td style="{{COLOUR_MEDIUM}}">{{dataset_count}}</td>
-      {% elsif dataset_count > 6 %}
-      <td style="{{COLOUR_HIGH}}">{{dataset_count}}</td>
-      {% else %}
-      <td>{{dataset_count}}</td>
-      {% endif %} {% endfor %}
-      <th>{{dataset_count_total}}</th>
-    </tr>
-
-    {% endfor %}
-  </tbody>
-  <tfoot>
-    <tr>
-      <th># councils with no data</th>
-      {% for category in categories %} {% assign las_no_data_count = 0 %} {% for la in local_authorities %} {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %} {% if dataset_count == 0 %} {% assign las_no_data_count = las_no_data_count | plus: 1 %} {% endif %} {% endfor %}
-      <td>{{las_no_data_count}}/{{ local_authorities_count }}</td>
-      {% endfor %}
-      <th style="background-color: #f9f9f9"></th>
-    </tr>
-    <tr>
-      <th>% of councils with no data</th>
-      {% for category in categories %} {% assign las_no_data_count = 0 %} {% for la in local_authorities %} {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %} {% if dataset_count == 0 %} {% assign las_no_data_count = las_no_data_count | plus: 1 %} {% endif %} {% endfor %} {% assign las_no_data_percent = las_no_data_count | times: 100.0 | divided_by: local_authorities_count %}
-      <td>{{ las_no_data_percent | round: 0 }}</td>
-      {% endfor %}
-      <th style="background-color: #f9f9f9"></th>
-    </tr>
-  </tfoot>
-</table>
-{%- endcomment -%}
 <section class="container">
   <h2>Additional information</h2>
   <p>Some datasets may have more than one category applied to them meaning that the total dataset count in the far-right total column is larger than the amount of datasets belonging to an organisation. For example, a Community Council boundaries dataset may have both the <em>Council and Government</em> and <em>Elections / Politics</em> categories applied.</p>
@@ -83,26 +48,26 @@ full_width: true
       </tr>
     </thead>
     <tbody>
-      <tr style="{{COLOUR_NONE}}">
+      <tr class="datasets-none">
         <td>None</td>
         <td>0 datasets</td>
       </tr>
-      <tr style="{{COLOUR_LOW}}">
+      <tr class="datasets-low">
         <td>Low</td>
         <td>1-3 datasets</td>
       </tr>
-      <tr style="{{COLOUR_MEDIUM}}">
+      <tr class="datasets-medium">
         <td>Medium</td>
         <td>4-6 datasets</td>
       </tr>
-      <tr style="{{COLOUR_HIGH}}">
+      <tr class="datasets-high">
         <td>High</td>
         <td>7+ datasets</td>
       </tr>
     </tbody>
   </table>
   <p>We have set these number ranges as static values that we hope to evolve over time as the landscape of Open Data in Scotland evolves. As of this moment, there too great a disparity between the upper and lower ranges of datasets to automatically generate range groupings based on the minimum, median and maximum count of datasets per category.</p>
-  <p>We welcome any feedback on how we can improve our scoring system. If you have any comments, suggestions or want to tell us if something doesn't look right, please <a href="/about/#contact_us">contact us</a>.</p>
+  <p>We welcome any feedback on how we can improve our scoring system. If you have any comments, suggestions or want to tell us if something doesn't look right, please <a href="/resources/aboutods/#contact-us">contact us</a>.</p>
 </section>
 
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.12.1/fh-3.2.3/datatables.min.js"></script>
@@ -112,13 +77,3 @@ full_width: true
 <script>
   var localAuthorities = {{site.organizations | where: "type", "Local authority"| map: "title" | jsonify }};
 </script>
-{%- comment -%}
-<script>
-  $("#category-breakdown-table").DataTable({
-    fixedHeader: true,
-    dom: "t",
-    paging: false,
-    ordering: false,
-  });
-</script>
-{%- endcomment -%}
