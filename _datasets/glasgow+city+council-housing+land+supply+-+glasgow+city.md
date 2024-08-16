@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-03-21'
+date_updated: '2024-08-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -31,6 +31,9 @@ resources:
 - format: ZIP
   name: Housing Land Audit 2019
   url: https://data.spatialhub.scot/dataset/c9ba4def-8d59-4d61-b38f-816b20b697e3/resource/1f013aff-5571-4866-bb55-33c893f31fa7/download/hlab2019_gcv.zip
+- format: ZIP
+  name: Glasgow_HLA_2022_23
+  url: https://data.spatialhub.scot/dataset/c9ba4def-8d59-4d61-b38f-816b20b697e3/resource/e0e57ded-014f-4590-868d-666e1aeed4c2/download/gcc_hlaa2023.zip
 schema: default
 title: Housing Land Supply - Glasgow City
 ---

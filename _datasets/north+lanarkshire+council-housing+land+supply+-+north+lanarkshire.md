@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-03-27'
+date_updated: '2024-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -25,6 +25,9 @@ resources:
 - format: ZIP
   name: Housing Land Supply
   url: https://data.spatialhub.scot/dataset/bc8e85e5-f043-4415-9b81-80ec86d18a8d/resource/2a9189f3-aad5-4e8f-a725-81acca9c7916/download/housing_land_supply-nl2022-02-11145447.zip
+- format: 7-Zip compressed file
+  name: NLC_HLA_Data.gdb.7z
+  url: https://data.spatialhub.scot/dataset/bc8e85e5-f043-4415-9b81-80ec86d18a8d/resource/bc645d8a-4abe-484c-8f24-7ab854241b9a/download/nlc_hla_data.gdb.7z
 schema: default
 title: Housing Land Supply - North Lanarkshire
 ---
