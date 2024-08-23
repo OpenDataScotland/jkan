@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-08-14'
+date_updated: '2024-08-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -41,8 +41,8 @@ resources:
   name: Housing Land Audit 2022-2023
   url: https://data.spatialhub.scot/dataset/e4a4bbb8-bcd8-43ee-817a-dd65fa8e0b1b/resource/67c33468-9d05-4ecd-9fb6-4f23e7502f91/download/housing_land_audit_hla_22-23.zip
 - format: No file type
-  name: Falkirk_HLA_22_23.gpkg
-  url: https://data.spatialhub.scot/dataset/e4a4bbb8-bcd8-43ee-817a-dd65fa8e0b1b/resource/8542ba07-9e1b-4688-b97a-c8d3a62c29a0/download/falkirk_hla_22_23.gpkg
+  name: Falkirk_HLA_22_23_v2
+  url: https://data.spatialhub.scot/dataset/e4a4bbb8-bcd8-43ee-817a-dd65fa8e0b1b/resource/96df8a86-ba4f-4656-9760-6ad2a1fd40a2/download/falkirk_hla_22_23.gpkg
 schema: default
 title: Housing Land Supply - Falkirk
 ---

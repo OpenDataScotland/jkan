@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2024-07-12'
-date_updated: '2024-07-18'
+date_updated: '2024-08-21'
 license: No licence
 maintainer: ADR
 notes: "<p>The first Health and Wellbeing Census 2021/22 in local authority (LA) schools\
@@ -32,5 +32,5 @@ resources:
     - Apr 2024
   url: https://find.researchdata.scot/dataset/451a5ad3-cadf-40c7-8783-07b14eafe6e3/resource/d9ca73a4-c62f-46b6-850f-37fb9d576e72/download/adr-s-data-sourcing-health-and-wellbeing-census-nrs-indexing-report-apr-2024.pdf
 schema: default
-title: Scottish Government Health and Wellbeing Census linkage data - Scotland
+title: Health and Wellbeing Census linkage data - Scotland
 ---

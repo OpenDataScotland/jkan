@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2022-10-27'
+date_updated: '2024-08-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: <p>Many local authorities collect details of where the renewable energy sites
@@ -18,6 +18,9 @@ resources:
 - format: MS EXCEL
   name: Renewable Energy Sites Points
   url: https://data.spatialhub.scot/dataset/0c903180-1778-4507-a486-9b07a1757f13/resource/88af8062-8394-42b8-8a9b-204311156fcf/download/download_turbines_2022v1.xlsx
+- format: REST
+  name: Wind Turbines
+  url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/Wind_Turbines/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Renewable Energy Sites - Highland
 ---

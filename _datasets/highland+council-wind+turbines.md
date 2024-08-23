@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-02-03'
-date_updated: '2024-03-01'
+date_updated: '2024-08-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Wind turbine locations from planning applications in The Highland Council\
