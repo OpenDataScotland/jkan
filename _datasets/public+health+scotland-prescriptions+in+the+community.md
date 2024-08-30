@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2024-08-23'
+date_updated: '2024-08-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -386,6 +386,24 @@ resources:
 - format: CSV
   name: Data by Dispenser Location - July 2023
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/aa3af433-4c8b-4775-844c-85ba222f49d1/download/disp_pitc202307.csv
+- format: CSV
+  name: Data by Dispenser Location - June 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/f1a83f41-d6f5-4dff-8e03-dba3dbd79641/download/disp_pitc202306.csv
+- format: CSV
+  name: Data by Dispenser Location - May 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/06ee7b08-9a45-4dd5-b50f-14e875ddc0a2/download/disp_pitc202305.csv
+- format: CSV
+  name: Data by Dispenser Location - April 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/4af73241-850a-42db-ac80-bc6b72e10828/download/disp_pitc202304.csv
+- format: CSV
+  name: Data by Dispenser Location - March 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/8b8ba0eb-c6d7-4554-b1f9-4dc5555ea7d9/download/disp_pitc202303.csv
+- format: CSV
+  name: Data by Dispenser Location - February 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/657f13f8-f21f-4bb4-aa55-68996d61f7a6/download/disp_pitc202302.csv
+- format: CSV
+  name: Data by Dispenser Location - January 2023
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/5b3636a6-9f92-4d37-a92a-d5137deb9eca/download/disp_pitc202301.csv
 schema: default
 title: Prescriptions in the Community
 ---

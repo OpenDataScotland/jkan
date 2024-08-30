@@ -45,15 +45,27 @@ notes: "<div><b>This dataset is published as Open Data on Stirling Council's Ope
   \ Known Site Extents and Areas of Archaeological Interest) - Historic Environment\
   \ Events (also known as interventions)</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-historic-environment-records-events-2
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-archaeology-historic-environment-records-sites
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-historic-environment-records-events-2
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-archaeology-historic-environment-records-sites
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=b2e5461d9b8c4106b86ece1e87c784aa
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_historic_environment_records_sites/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/9f8475cd25a24cb985795929e2819056/csv?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/9f8475cd25a24cb985795929e2819056/geojson?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/9f8475cd25a24cb985795929e2819056/shapefile?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/9f8475cd25a24cb985795929e2819056/kml?layers=0
 schema: default
-title: Open data - historic environment records events
+title: Open data - archaeology historic environment records sites
 ---

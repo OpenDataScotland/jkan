@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2019-07-22'
-date_updated: '2024-05-28'
+date_updated: '2024-08-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Monthly summaries of whole journey waiting times across NHSScotland. The
