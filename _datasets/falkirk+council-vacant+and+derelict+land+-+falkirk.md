@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-01-31'
+date_updated: '2024-09-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -62,6 +62,12 @@ resources:
 - format: ZIP
   name: SVDLS 2022 shapefiles
   url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/910fdab7-1c9e-416e-b7ff-fca26eafd9fd/download/falkirk.zip
+- format: ZIP
+  name: SVDLS shapefile 2023 uploaded by Scottish Government
+  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/025ebeb0-e13b-48fa-a2a6-e61a517e2acd/download/falkirk.zip
+- format: ZIP
+  name: SVDLS shapefile 2023 uploaded by Scottish Government
+  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/c0c34418-49b5-4940-ac89-84807fba753a/download/fife.zip
 schema: default
 title: Vacant And Derelict Land - Falkirk
 ---

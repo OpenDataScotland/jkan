@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-03-16'
-date_updated: '2023-12-05'
+date_updated: '2024-09-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: <p>Polling Places in the Highland Council area.</p>

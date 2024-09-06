@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-07-07'
-date_updated: '2024-08-30'
+date_updated: '2024-09-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: <p>Tree Preservation Orders (TPO) are served by the council to protect individual

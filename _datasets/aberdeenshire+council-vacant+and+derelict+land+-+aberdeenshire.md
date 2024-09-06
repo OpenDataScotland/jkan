@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-01-31'
+date_updated: '2024-09-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -53,6 +53,9 @@ resources:
 - format: ZIP
   name: VDLS shapefiles 2022
   url: https://data.spatialhub.scot/dataset/5e0a4c9e-837c-4fc0-af7f-ee684675cd29/resource/e3b07e26-75e7-464d-88bd-79198692c10f/download/aberdeenshire.zip
+- format: ZIP
+  name: SVDLS shapefile 2023 uploaded by Scottish Government
+  url: https://data.spatialhub.scot/dataset/5e0a4c9e-837c-4fc0-af7f-ee684675cd29/resource/2110b6f6-d593-4105-926c-e61530ccfaa6/download/aberdeenshire.zip
 schema: default
 title: Vacant And Derelict Land - Aberdeenshire
 ---

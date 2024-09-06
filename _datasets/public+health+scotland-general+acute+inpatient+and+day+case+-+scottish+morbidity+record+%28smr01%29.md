@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-08-29'
+date_updated: '2024-09-05'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The General / Acute and Inpatient Day Case dataset (SMR01) collects episode
