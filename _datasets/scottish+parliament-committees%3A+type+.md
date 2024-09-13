@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2024-08-23'
+date_updated: '2024-09-06'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: "<p>This dataset contains a list of committee types; these qualify the committee\u2019\

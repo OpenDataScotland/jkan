@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Tourism
 date_created: '2023-12-13'
-date_updated: '2024-02-26'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Locations and opperating hours of the Public Toilets</p>
@@ -18,5 +18,5 @@ resources:
   name: Map of Public Toilets
   url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=PublicToilets&baselayer=OS%20Greyscale
 schema: default
-title: Public Toilets
+title: Public Toilets - Aberdeenshire
 ---

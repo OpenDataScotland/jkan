@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2023-12-13'
-date_updated: '2024-02-26'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Location and operating hours of Offices open to the public</p>
@@ -17,5 +17,5 @@ resources:
   name: Map of Council Offices
   url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=Offices&baselayer=OS%20Greyscale
 schema: default
-title: Offices open to Public
+title: Offices open to Public - Aberdeenshire
 ---

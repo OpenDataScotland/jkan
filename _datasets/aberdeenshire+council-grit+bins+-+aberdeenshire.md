@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2023-12-13'
-date_updated: '2024-02-26'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Location of Grit Bins</p>
@@ -18,5 +18,5 @@ resources:
   name: Map of Grit Bins
   url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=Roads&baselayer=OS%20Greyscale&datalayers=Grit%20Bins
 schema: default
-title: Grit Bins
+title: Grit Bins - Aberdeenshire
 ---

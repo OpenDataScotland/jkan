@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-09-04'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -47,15 +47,6 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-nl'
 records: null
 resources:
-- format: WFS
-  name: Vacant and Derelict Land
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/d36b8d3b-c69e-4901-ab6b-966c9192b3d9/resource/8cac2aea-c107-40fe-9e5c-2650dffecf2c/download/northlanarkshire_2021.zip
-- format: ZIP
-  name: SVDLS 2022 shapefiles
-  url: https://data.spatialhub.scot/dataset/d36b8d3b-c69e-4901-ab6b-966c9192b3d9/resource/4a641861-68af-4b66-8323-3356167347de/download/north-lanarkshire.zip
 - format: ZIP
   name: SVDLS shapefile 2023 uploaded by Scottish Government
   url: https://data.spatialhub.scot/dataset/d36b8d3b-c69e-4901-ab6b-966c9192b3d9/resource/15ed5681-bf94-41be-920e-080dbab4fcb3/download/north-lanarkshire.zip

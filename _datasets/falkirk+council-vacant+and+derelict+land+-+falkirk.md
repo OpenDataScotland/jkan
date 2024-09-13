@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-09-04'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -48,26 +48,11 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelic
 records: null
 resources:
 - format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/910b2431-4cb2-486f-8529-0d15f7bdda44/download/20200929_vdl_by_la_fa.zip
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/a795925d-fda6-4840-9df6-2b2099d47181/download/falkirk_2020.zip
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/cda64e15-8942-4969-b826-3d3bad48a15a/download/falkirk.zip
-- format: REST
-  name: Vacant and Derelict Land Survey 2021
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Falkirk_Vacant_Derelict_Land_Survey_2021/FeatureServer/0/query?outFields=*&where=1%3D1
-- format: ZIP
-  name: SVDLS 2022 shapefiles
-  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/910fdab7-1c9e-416e-b7ff-fca26eafd9fd/download/falkirk.zip
-- format: ZIP
   name: SVDLS shapefile 2023 uploaded by Scottish Government
   url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/025ebeb0-e13b-48fa-a2a6-e61a517e2acd/download/falkirk.zip
-- format: ZIP
-  name: SVDLS shapefile 2023 uploaded by Scottish Government
-  url: https://data.spatialhub.scot/dataset/9b53750a-a686-4ccb-974e-cdfea008686c/resource/c0c34418-49b5-4940-ac89-84807fba753a/download/fife.zip
+- format: REST
+  name: VDL survey 2023
+  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Vacant_Derelict_Land_Survey_2023/FeatureServer/97/query?outFields=*&where=1%3D1
 schema: default
 title: Vacant And Derelict Land - Falkirk
 ---

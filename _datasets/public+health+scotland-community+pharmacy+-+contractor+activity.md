@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2017-09-13'
-date_updated: '2024-06-11'
+date_updated: '2024-09-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Public Health Scotland has released Community Pharmacy activity and direct
