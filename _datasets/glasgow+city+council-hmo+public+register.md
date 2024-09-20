@@ -33,15 +33,18 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir,\
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'></span></div>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::hmo-public-register-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::hmo-public-register-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/c4d432bf3bb34b7583c07527c770a373/rest/services/OPEN_DATA/HMO_Public_Register/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/c4d432bf3bb34b7583c07527c770a373/services/OPEN_DATA/HMO_Public_Register/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c4d432bf3bb34b7583c07527c770a373/csv?layers=0

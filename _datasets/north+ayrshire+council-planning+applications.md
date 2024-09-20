@@ -16,15 +16,21 @@ notes: <p>Development management is the process of deciding planning application
   The definition also covers changes of use which may not involve physical building
   work.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::planning-applications
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::planning-applications
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::planning-applications
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::planning-applications
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/25
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2ca19249ff124d65af5d9bbc8988f749/csv?layers=25

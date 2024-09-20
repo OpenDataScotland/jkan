@@ -13,15 +13,21 @@ notes: <p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&
   text-decoration-color:initial; display:inline !important;'>Location of the current
   tram lines in Edinburgh</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::tramlines
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::tramlines
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::tramlines
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::tramlines
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/8
+- format: OGC WFS
+  name: OGC WFS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/fcd8d11078284316ac4b40244b069a4a/csv?layers=8

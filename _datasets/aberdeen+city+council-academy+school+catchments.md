@@ -15,12 +15,12 @@ notes: <div style='text-align:Left;'><div><div><p style='margin:0 0 14 0;'><span
   an Aberdeenshire Academy these Aberdeenshire zones are also shown.</span></span></p><p><span
   /></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::academy-school-catchments-1
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::academy-school-catchments-1
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::academy-school-catchments-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Academy_School_Catchments/FeatureServer/5

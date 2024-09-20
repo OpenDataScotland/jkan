@@ -22,12 +22,12 @@ notes: "<div><b>This dataset is published as Open Data and covers financial year
   \ issued</li></ul><div>Parking and Permits - Stirling Council website:\_<a href='https://www.stirling.gov.uk/roads-transport-and-parking/parking-and-permits/pay-or-appeal-a-parking-fine/'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'><b>LINK</b></a></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-penalty-charge-notices-2024
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-penalty-charge-notices-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-penalty-charge-notices-2024
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-penalty-charge-notices-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_penalty_charge_notices_2024/FeatureServer/0

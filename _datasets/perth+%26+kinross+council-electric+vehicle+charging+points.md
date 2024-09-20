@@ -10,12 +10,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><p><span>List of all electr
   connection type,  location, chargeable / free, charging speed and whether it is
   available to the public. </span></p><p><br /></p><p><span></span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/5b33371b1bca49808614a7d2452ac418_10
+original_dataset_link: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/5b33371b1bca49808614a7d2452ac418_10
+  url: https://data.pkc.gov.uk/datasets/5b33371b1bca49808614a7d2452ac418_10
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Electric_Vehicle_Charging_Points/FeatureServer/10

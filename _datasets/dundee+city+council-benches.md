@@ -34,12 +34,12 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ style='box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Open Sans&quot;,\
   \ sans-serif; font-size:16px; font-weight:600;'><br /></span></div></div>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::benches
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::benches
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::benches
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::benches
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Benches_2023_view/FeatureServer/0

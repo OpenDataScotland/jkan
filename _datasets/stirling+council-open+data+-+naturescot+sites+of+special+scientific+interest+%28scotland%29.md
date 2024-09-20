@@ -29,12 +29,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><div><div><p style='margin-
   forward, and all new SSSI designations are now made, under the Nature Conservation
   (Scotland) Act 2004.</span></p></div></div></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-sites-of-special-scientific-interest-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-sites-of-special-scientific-interest-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-sites-of-special-scientific-interest-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-sites-of-special-scientific-interest-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/ArcGIS/rest/services/Sites_of_Special_Scientific_Interest/FeatureServer/0

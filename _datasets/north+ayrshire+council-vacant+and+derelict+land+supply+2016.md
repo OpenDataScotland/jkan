@@ -11,15 +11,21 @@ notes: <p>The vacant and derelict land survey is undertaken annually to establis
   the extent and state of vacant and derelict land in North Ayrshire and the amount
   of land that has been rehabilitated since the previous survey.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::vacant-and-derelict-land-supply-2016
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2016
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::vacant-and-derelict-land-supply-2016
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::vacant-and-derelict-land-supply-2016
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/12
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/299148f6e3c24e0085a206c9b25172d1/csv?layers=12

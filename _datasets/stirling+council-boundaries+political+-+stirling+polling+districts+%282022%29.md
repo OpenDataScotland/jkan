@@ -9,12 +9,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Stirling Council
 notes: <p>boundaries political - stirling polling districts (2022)</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-political-stirling-polling-districts-2022
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-stirling-polling-districts-2022
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-political-stirling-polling-districts-2022
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-political-stirling-polling-districts-2022
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Stirling_Council_Polling_Districts_2022/FeatureServer/0

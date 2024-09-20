@@ -13,12 +13,12 @@ notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Nex
   using Briefcam Software. Due to technical difficulties data for the period 17th
   July to 22nd July 2024 inclusive is not included in the extract.</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classifications-july-2024
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classifications-july-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classifications-july-2024
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classifications-july-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Vehicle_Classifications_July_2024/FeatureServer/0

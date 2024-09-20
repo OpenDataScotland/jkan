@@ -27,12 +27,12 @@ notes: "<div>In Scotland, all three- and four-year-olds, and eligible two-year-o
   \ the subject of a Kinship or Guardianship Order</li><li>has a parent who was in\
   \ care as a child</li><li>has a parent who is supported by the Family Nurse Partnership</li></ul></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-nursery-schools
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-nursery-schools
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-nursery-schools
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-nursery-schools
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_stirling_council_nurseries/FeatureServer/0

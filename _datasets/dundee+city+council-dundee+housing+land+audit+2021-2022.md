@@ -26,12 +26,12 @@ notes: "<p><font size='3'>Dundee Housing Land Audit 2021/2022</font></p>\n<p><sp
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Housing_Land_Audit_2021_2022/WFSServer?service=wfs&amp;request=getcapabilities</a></p>\n\
   <p><br /></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-housing-land-audit-2021-2022-1
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-housing-land-audit-2021-2022-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-housing-land-audit-2021-2022-1
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-housing-land-audit-2021-2022-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/HousingSites21_ExportFeature/FeatureServer/0

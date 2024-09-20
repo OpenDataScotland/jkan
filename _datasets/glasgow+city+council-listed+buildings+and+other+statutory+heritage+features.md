@@ -9,12 +9,12 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>City Development Plan Policy and Proposals </p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::listed-buildings-and-other-statutory-heritage-features-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::listed-buildings-and-other-statutory-heritage-features-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::listed-buildings-and-other-statutory-heritage-features-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::listed-buildings-and-other-statutory-heritage-features-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/13

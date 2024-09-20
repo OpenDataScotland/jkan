@@ -16,15 +16,21 @@ notes: '<p><span style=''color: rgb(0, 0, 0); font-family: Verdana, Arial, Helve
   of a housing land audit, carried out annually by the planning authority in conjunction
   with housing and infrastructure providers.</span></p>'
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2016
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2016
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2016
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2016
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/13
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/7eb076d372764f2b96d798f8f6f12f49/csv?layers=13

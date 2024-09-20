@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Bus stop locations i
   Council and shared with the Department of Transport as part of the national public
   transport access nodes (NaPTAN) national dataset.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/675d9da2b89a422a8f9cc805f1f071cb_5
+original_dataset_link: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/675d9da2b89a422a8f9cc805f1f071cb_5
+  url: https://data.pkc.gov.uk/datasets/675d9da2b89a422a8f9cc805f1f071cb_5
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Bus_Stops/FeatureServer/5

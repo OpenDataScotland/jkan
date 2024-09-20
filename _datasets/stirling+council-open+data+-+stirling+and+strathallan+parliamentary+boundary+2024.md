@@ -17,12 +17,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ on 29th November 2023.\_</li><li>The new constituencies will take effect at the\
   \ next General Election in 2024</li></ul></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-and-strathallan-parliamentary-boundary-2024
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-and-strathallan-parliamentary-boundary-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-and-strathallan-parliamentary-boundary-2024
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-and-strathallan-parliamentary-boundary-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Stirling_and_Strathallan_Constituency/FeatureServer/0

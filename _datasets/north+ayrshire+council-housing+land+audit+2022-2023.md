@@ -10,12 +10,12 @@ maintainer: North Ayrshire Council
 notes: <p>Polygons of the 2022-23 Housing Land Audit sites and data on completions
   up until 2023 and programming to 2030</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2022-2023
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2022-2023
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::housing-land-audit-2022-2023
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-land-audit-2022-2023
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/FeatureServer/42

@@ -12,12 +12,12 @@ notes: <p>This data shows the boundaries of Local Important Nature Conservation 
   The data also includes some basic ownership information such as whether the area
   is owned by Dundee City Council (DCC) or is in in private ownership.</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-locally-important-nature-conservation-sites-lincs
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-locally-important-nature-conservation-sites-lincs
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-locally-important-nature-conservation-sites-lincs
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-locally-important-nature-conservation-sites-lincs
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Locally_Important_Nature_Conservation_Sites_(LINCS)_view/FeatureServer/0

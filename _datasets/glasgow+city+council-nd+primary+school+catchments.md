@@ -7,15 +7,21 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>Schools and catchemnts areas</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::nd-primary-school-catchments
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::nd-primary-school-catchments
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::nd-primary-school-catchments
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::nd-primary-school-catchments
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer/6
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/2bfa782d5da84302bf15219e19a05112/csv?layers=6

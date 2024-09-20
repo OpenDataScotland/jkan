@@ -8,15 +8,21 @@ maintainer: North Ayrshire Council
 notes: <p>These are the Areas with potential for wind farm development within North
   Ayrshire as set out in the Adopted Local Development Plan 2</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-areas-with-potential-for-wind-farm-development
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-with-potential-for-wind-farm-development
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::ldp2-areas-with-potential-for-wind-farm-development
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::ldp2-areas-with-potential-for-wind-farm-development
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/34
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/fdc2809589e744f48cf662fd0e620af8/csv?layers=34

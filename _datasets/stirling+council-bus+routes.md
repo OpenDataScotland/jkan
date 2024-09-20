@@ -35,12 +35,12 @@ notes: '<div><span style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir
   &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''><br
   /></span></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::bus-routes-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bus-routes-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::bus-routes-1
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bus-routes-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Interactive_Public_Transport_Map/FeatureServer/6

@@ -17,12 +17,12 @@ notes: <div style='text-align:Left;font-size:12pt'><div><div><p><span>Sourced fr
   More information from - https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-update-spring-2018</span><span>.
   More recent data available at - https://www.ofcom.org.uk/research-and-data/multi-sector-research/infrastructure-research/connected-nations-update-autumn-2022.</span></p></div></div></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/3f782e7c213f41f39ed2c1b6e38db82e_6
+original_dataset_link: https://data.pkc.gov.uk/datasets/3f782e7c213f41f39ed2c1b6e38db82e_6
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/3f782e7c213f41f39ed2c1b6e38db82e_6
+  url: https://data.pkc.gov.uk/datasets/3f782e7c213f41f39ed2c1b6e38db82e_6
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Superfast_Broadband_Availability_2018/FeatureServer/6

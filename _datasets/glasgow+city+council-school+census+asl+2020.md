@@ -18,15 +18,18 @@ notes: "<p>The \u201CPupils in Scotland Census\u201D is undertaken annually and 
   \ data is obtained from schools management information systems and is validated\
   \ by ScotXed.</p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-census-asl-2020
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::school-census-asl-2020
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::school-census-asl-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/52383d4cda9e4cc1b77204fe53a99728/rest/services/OPEN_DATA/School_Census_ASL_2020/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/52383d4cda9e4cc1b77204fe53a99728/services/OPEN_DATA/School_Census_ASL_2020/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/52383d4cda9e4cc1b77204fe53a99728/csv?layers=0

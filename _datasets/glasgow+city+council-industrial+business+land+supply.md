@@ -18,15 +18,18 @@ notes: '<p>Sites available for Industrial and/or Business Development (Planning 
   Land Supply consists of Confirmed (immediately available), and Potential (within
   3 years). They sites are audited and updated annually.</p>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::industrial-business-land-supply
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::industrial-business-land-supply
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::industrial-business-land-supply
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::industrial-business-land-supply
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/f8796a943a394ee7a6d43d01d2dcd555/rest/services/AGOL/Industrial_Business_Land_Supply/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/f8796a943a394ee7a6d43d01d2dcd555/services/AGOL/Industrial_Business_Land_Supply/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/f8796a943a394ee7a6d43d01d2dcd555/csv?layers=0

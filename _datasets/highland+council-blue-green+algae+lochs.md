@@ -12,12 +12,12 @@ notes: "<p>Blue-Green Algae warning notices for lochs within The Highland Counci
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/{f3fd69dd-0e9d-4742-a1d1-69507deefd15}</a>\_\
   </div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/19957b55e2594d6a8e17662af358cfc4_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/19957b55e2594d6a8e17662af358cfc4_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/19957b55e2594d6a8e17662af358cfc4_0
+  url: https://map-highland.opendata.arcgis.com/datasets/19957b55e2594d6a8e17662af358cfc4_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/Blue_Green_Algae_Lochs/FeatureServer/0

@@ -32,15 +32,21 @@ notes: "<p><span style='margin:0px; padding:0px; color:rgb(0, 0, 0); font-size:1
   \ color:rgb(0, 0, 0); font-size:10.5pt; font-family:&quot;Avenir Next&quot;, &quot;Avenir\
   \ Next_MSFontService&quot;, sans-serif;'>\_</span></p>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-sensitive-roads
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::traffic-sensitive-roads
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-sensitive-roads
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::traffic-sensitive-roads
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/df1565da63aa4de092561c3264cde033/csv?layers=0

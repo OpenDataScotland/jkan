@@ -35,12 +35,12 @@ notes: '<p style=''margin-bottom:16px;margin-top:0px;''>Dundee Housing Land Audi
   interoperable Web Feature Service (WFS) at <a target=''_blank'' href=''https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Housing_Land_Audit_2023/WFSServer?service=wfs&amp;request=getcapabilities''
   rel=''nofollow ugc noopener noreferrer''>https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Housing_Land_Audit_2023/WFSServer?service=wfs&amp;request=getcapabilities</a></p>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-housing-land-audit-2023
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-housing-land-audit-2023
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-housing-land-audit-2023
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-housing-land-audit-2023
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/HLA22_23_Final/FeatureServer/0

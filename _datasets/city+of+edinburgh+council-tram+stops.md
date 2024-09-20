@@ -9,12 +9,12 @@ notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Nex
   W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
   font-size:16px;'>Location of the existing tram stops in Edinburgh</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::tram-stops
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::tram-stops
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::tram-stops
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::tram-stops
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/FgpikkYuSUOuITxp/arcgis/rest/services/Tram_stops/FeatureServer/66

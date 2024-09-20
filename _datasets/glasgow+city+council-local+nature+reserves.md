@@ -12,15 +12,21 @@ notes: <p>Local Nature Reserves (LNRs) are places that have a natural value in t
   note the dataset only includes LNRs that have been declared. Aspirational or Potential
   LNRs are not included in this release.</div></p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::local-nature-reserves
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::local-nature-reserves
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::local-nature-reserves
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/LNRs/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/LNRs/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/LNRs/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6d165bfc8bba436b94c737e3a4d9416b/csv?layers=0

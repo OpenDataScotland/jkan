@@ -16,12 +16,12 @@ notes: "<p>Site boundary of the Flow Country World Heritage Site.<div><br /></di
   \ &quot;Helvetica Neue&quot;, sans-serif; font-size:medium;' rel='nofollow ugc'>https://www.spatialdata.gov.scot</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/04749b8d2c5b49a89cd9f9d0d36ea35a_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/04749b8d2c5b49a89cd9f9d0d36ea35a_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/04749b8d2c5b49a89cd9f9d0d36ea35a_0
+  url: https://map-highland.opendata.arcgis.com/datasets/04749b8d2c5b49a89cd9f9d0d36ea35a_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/FlowCountry_ProposedWorldHeritageSite/FeatureServer/0

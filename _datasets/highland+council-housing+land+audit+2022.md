@@ -15,12 +15,12 @@ notes: "<p>Highland Council Housing Land Audit for all Adopted Housing Land Site
   \ metadata record is at\_<a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/97992370-d7c4-4e1b-a271-58c63b049648'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/97992370-d7c4-4e1b-a271-58c63b049648</a></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/c9ddebf1024c47bda9bf2ff869c6c2ea_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/c9ddebf1024c47bda9bf2ff869c6c2ea_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/c9ddebf1024c47bda9bf2ff869c6c2ea_0
+  url: https://map-highland.opendata.arcgis.com/datasets/c9ddebf1024c47bda9bf2ff869c6c2ea_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/HLA2022_V2_PUBLIC/FeatureServer/0

@@ -2,17 +2,17 @@
 category:
 - Uncategorised
 date_created: '2021-11-24'
-date_updated: '2022-12-02'
+date_updated: '2023-07-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>This layer is also available as a Web Feature Service (WFS) at\_https://dundeecity.maps.arcgis.com/home/item.html?id=1e6086b854d0434faee1a05473664b7f</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::non-denominational-secondary-catchments-1
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::non-denominational-secondary-catchments-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::non-denominational-secondary-catchments-1
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::non-denominational-secondary-catchments-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/School_Catchments_2022_View/FeatureServer/2

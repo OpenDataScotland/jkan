@@ -20,12 +20,12 @@ notes: '<div><b>This dataset is published as Open Data and is currently under re
   <div>Aware this has moved to the Regulatory team, so will be reviewed and updated
   by them. No longer Roads responsibility.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-parking-control-zones
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-parking-control-zones
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-parking-control-zones
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-parking-control-zones
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Parking_Control_Zones/FeatureServer/4

@@ -15,15 +15,21 @@ notes: <p><span style='color:rgb(77, 77, 77); font-family:&quot;Avenir Next W01&
   perspective on retail change in the city. This surveys is the first one, undertaken
   in 1986. Others followed it in 1996, 2004 and 2010.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::shop-survey-1986
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-1986
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::shop-survey-1986
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::shop-survey-1986
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/bfd596bbf3e344d586ca78dddc4a53ef/csv?layers=0

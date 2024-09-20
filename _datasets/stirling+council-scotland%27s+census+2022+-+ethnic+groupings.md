@@ -29,12 +29,12 @@ notes: "<p><b>This dataset is published as Open Data. Scotland's Census 2022 - E
   \ identifies a 2019 Council Area.</li><li>Master Postcode: Postcode assigned as\
   \ the Master Postcode for Output Area.</li></ul></div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::scotlands-census-2022-ethnic-groupings
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scotlands-census-2022-ethnic-groupings
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::scotlands-census-2022-ethnic-groupings
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scotlands-census-2022-ethnic-groupings
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/scotlands_census_2022_ethnic_grouping/FeatureServer/0

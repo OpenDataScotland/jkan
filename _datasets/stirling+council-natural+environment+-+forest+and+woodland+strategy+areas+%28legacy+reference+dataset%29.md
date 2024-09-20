@@ -15,12 +15,12 @@ notes: "<div>This data set is published and available directly from Stirling Cou
   <div><br /></div>\n<div><b>For Reference Only - Legacy Dataset originally published\
   \ in locationCentre</b></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::natural-environment-forest-and-woodland-strategy-areas-legacy-reference-dataset
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::natural-environment-forest-and-woodland-strategy-areas-legacy-reference-dataset
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::natural-environment-forest-and-woodland-strategy-areas-legacy-reference-dataset
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::natural-environment-forest-and-woodland-strategy-areas-legacy-reference-dataset
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/forestry_and_woodland_strategy_areas_stirling_clacks/FeatureServer/2

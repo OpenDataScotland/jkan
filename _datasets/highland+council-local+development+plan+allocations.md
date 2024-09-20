@@ -20,12 +20,12 @@ notes: "<p>Allocations for adopted Local Development Plans in The Highland Counc
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/580a0c77-072e-4765-83c1-abfc6fd6dce2</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/b1872ca2e09d45f1bf632f2730113ea8_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/b1872ca2e09d45f1bf632f2730113ea8_0
+  url: https://map-highland.opendata.arcgis.com/datasets/b1872ca2e09d45f1bf632f2730113ea8_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/LocalDevelopmentPlanAllocations/FeatureServer/0

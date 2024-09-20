@@ -10,12 +10,12 @@ notes: "<p>This data set shows people counts, bicycle counts and road vehicle co
   \ in Dundee City for the period January 2024. The data is sourced from Dundee's\
   \ CCTV Cameras and is extracted using Briefcam software.\_</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-january-2024
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-january-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-january-2024
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-january-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/CCTV_Data_Counts_January_2024/FeatureServer/0

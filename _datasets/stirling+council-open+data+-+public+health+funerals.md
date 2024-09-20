@@ -17,12 +17,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ be found.\_</li><li>The Local Authority may seek to recover costs from the estate\
   \ of the deceased.</li></ul></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-public-health-funerals
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-public-health-funerals
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-public-health-funerals
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-public-health-funerals
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_public_health_funerals/FeatureServer/0

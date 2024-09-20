@@ -13,12 +13,12 @@ notes: "<p>Gaelic Medium School Catchments in The Highland Council area.\_<div><
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search;jsessionid=849E94BF1293D399FBAB18CD31897E56#/metadata/df14bb65-e2bd-4e96-aa85-7ef128ca4794</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::gaelicmediumschoolcatchments
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::gaelicmediumschoolcatchments
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::gaelicmediumschoolcatchments
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/GaelicMediumSchoolCatchments/FeatureServer/0

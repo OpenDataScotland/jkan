@@ -35,12 +35,12 @@ notes: "<div><p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px
   \ referenced address point, details of which are included along with the resulting\
   \ search distance.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::regulation-and-environmental-health-private-water-supplies
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-private-water-supplies
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::regulation-and-environmental-health-private-water-supplies
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::regulation-and-environmental-health-private-water-supplies
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/regulation_and_environmental_health_private_water_supplies/FeatureServer/3

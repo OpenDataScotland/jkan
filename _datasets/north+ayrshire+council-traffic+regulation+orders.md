@@ -10,15 +10,21 @@ notes: <p>Traffic Regulation Orders (TROs) impose traffic restrictions such as r
   closures, introduction or varying of speed limits, prohibition of turns (such as
   right turns and u-turns) and introduction of waiting or loading restrictions.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-regulation-orders
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::traffic-regulation-orders
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::traffic-regulation-orders
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::traffic-regulation-orders
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/11
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2a995ee5dd4d4e0eaa590c7fee403d26/csv?layers=11

@@ -11,12 +11,12 @@ notes: <p><span style='font-family:&quot;Avenir Next&quot;, &quot;Avenir Next&qu
   for the period March 2024. The data is sourced from Dundee's CCTV cameras analysed
   using Briefcam Software.</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-march-2024
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-march-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-march-2024
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-march-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Vehicle_Classification_March_2024/FeatureServer/0

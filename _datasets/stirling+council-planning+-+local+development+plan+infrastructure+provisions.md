@@ -39,12 +39,12 @@ notes: '<p><b>This dataset, originally created in 2016, replaces all other publi
   and emergency medical services are also considered infrastructure provision points,
   ensuring safety and emergency response capabilities.</li></ul></div></div></div></p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-development-plan-infrastructure-provisions
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-infrastructure-provisions
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-development-plan-infrastructure-provisions
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-infrastructure-provisions
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp_infrastructure_provisions/FeatureServer/0

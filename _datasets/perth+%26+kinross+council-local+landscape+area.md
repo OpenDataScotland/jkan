@@ -15,12 +15,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>PKC designated lands
   by Perth &amp; Kinross Council in 2020. The polygons were digitised by Land Use
   Consultants, the Consultants hired to undertake the study to identify the LLAs.  </span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/ad8faa0552d34922bbfead81b2e6439a_28
+original_dataset_link: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/ad8faa0552d34922bbfead81b2e6439a_28
+  url: https://data.pkc.gov.uk/datasets/ad8faa0552d34922bbfead81b2e6439a_28
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Local_Landscape_Area/FeatureServer/28

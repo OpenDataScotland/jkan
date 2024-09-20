@@ -11,12 +11,12 @@ maintainer: Aberdeen City Council
 notes: "<p>Neighbourhood Boundaries within Aberdeen City Council Local Authority area.\_\
   \ Last modified 2009 approx.</p>"
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::neighbourhoods
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::neighbourhoods
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::neighbourhoods
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::neighbourhoods
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Neighbourhoods/FeatureServer/81

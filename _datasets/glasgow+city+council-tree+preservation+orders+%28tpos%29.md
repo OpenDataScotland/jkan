@@ -7,15 +7,21 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>Location of Tree Preservation Orders</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::tree-preservation-orders-tpos
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::tree-preservation-orders-tpos
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::tree-preservation-orders-tpos
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::tree-preservation-orders-tpos
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Tree_Preservation_Orders_TPOs/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Tree_Preservation_Orders_TPOs/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Tree_Preservation_Orders_TPOs/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/cac9f8722f154c3ab2169973dd7dd7bf/csv?layers=0

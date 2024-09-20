@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Stirling Council
 notes: <p>natural environment - local nature reserves (national)</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-local-nature-reserves-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-local-nature-reserves-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-local-nature-reserves-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-local-nature-reserves-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Natural_Environment_Local_Nature_Reserves/FeatureServer/3

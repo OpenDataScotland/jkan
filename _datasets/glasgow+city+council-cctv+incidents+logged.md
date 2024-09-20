@@ -9,15 +9,21 @@ notes: <p>Captures the number of CCTV incidents logged by control staff for Glas
   Operators capture a range of incidents relating to public safety, anti social behaviour
   or criminality.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cctv-incidents-logged-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cctv-incidents-logged-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cctv-incidents-logged-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cctv-incidents-logged-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/8c9c58b003ad46a89c1984a4a6517a21/rest/services/OPEN_DATA/CCTV_Incidents_logged/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/8c9c58b003ad46a89c1984a4a6517a21/services/OPEN_DATA/CCTV_Incidents_logged/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/8c9c58b003ad46a89c1984a4a6517a21/services/OPEN_DATA/CCTV_Incidents_logged/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/8c9c58b003ad46a89c1984a4a6517a21/csv?layers=0

@@ -236,12 +236,12 @@ notes: "<p style='margin-top:0pt; margin-bottom:0pt; color:rgb(21, 21, 21); font
   \ font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-alternates:normal;'>\_\
   can be found of the Council's website.</span></p></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-payments-to-suppliers-1-april-2021-to-31-march-2022
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-payments-to-suppliers-1-april-2021-to-31-march-2022
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-payments-to-suppliers-1-april-2021-to-31-march-2022
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-payments-to-suppliers-1-april-2021-to-31-march-2022
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance_payments_to_suppliers_2021_2022/FeatureServer/0

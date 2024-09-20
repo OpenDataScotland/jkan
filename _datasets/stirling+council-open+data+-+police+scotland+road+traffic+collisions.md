@@ -50,12 +50,12 @@ notes: "<div><b>This dataset is published as Open Data and taken directly from P
   \ information on stop and search please visit the stop and search data publication\
   \ page.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-police-scotland-road-traffic-collisions
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-police-scotland-road-traffic-collisions
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-police-scotland-road-traffic-collisions
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-police-scotland-road-traffic-collisions
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_police_scotland_road_traffic_collisions/FeatureServer/0

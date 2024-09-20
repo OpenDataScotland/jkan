@@ -13,12 +13,12 @@ notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Ne
   <br /></span>This data is also available as a WFS at\_<a href='https://dundeecity.maps.arcgis.com/home/item.html?id=51457c5c0b9649ed9da7e82c9f142c6e'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://dundeecity.maps.arcgis.com/home/item.html?id=51457c5c0b9649ed9da7e82c9f142c6e</a></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::area-of-special-control
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::area-of-special-control
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::area-of-special-control
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::area-of-special-control
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Area_of_Special_Control/FeatureServer/0

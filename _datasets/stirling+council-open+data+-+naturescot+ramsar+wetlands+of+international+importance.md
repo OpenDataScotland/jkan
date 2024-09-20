@@ -42,12 +42,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
 
   <div>Learn about designating Ramsar sites on the Ramsar website.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-ramsar-wetlands-of-international-importance
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-ramsar-wetlands-of-international-importance
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-ramsar-wetlands-of-international-importance
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-ramsar-wetlands-of-international-importance
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Natural_Environment_RAMSAR_Sites/FeatureServer/10

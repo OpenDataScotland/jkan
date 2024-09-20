@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>A survey issued by t
   land in Scotland. Local Authorities return data to the </span><span>Scottish Government</span><span>
   for checking. </span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/ed607304a7184729bf41322eba3afe2f_6
+original_dataset_link: https://data.pkc.gov.uk/datasets/ed607304a7184729bf41322eba3afe2f_6
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/ed607304a7184729bf41322eba3afe2f_6
+  url: https://data.pkc.gov.uk/datasets/ed607304a7184729bf41322eba3afe2f_6
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Scottish_Vacant_and_Derelict_Land_Survey_2021/FeatureServer/6

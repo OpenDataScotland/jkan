@@ -14,12 +14,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ a building or structure is of \u2018special\u2019 interest. Historic Environment\
   \ Scotland lists buildings on behalf of Scottish Ministers.</p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::historic-environment-scotland-listed-buildings-stirling
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::historic-environment-scotland-listed-buildings-stirling
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::historic-environment-scotland-listed-buildings-stirling
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::historic-environment-scotland-listed-buildings-stirling
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/historic_environment_scotland_listed_buildings_stirling/FeatureServer/0

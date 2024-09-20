@@ -11,12 +11,12 @@ notes: <p><b>This dataset is published as Open Data</b><div><br /></div><div>The
   sections, which you can view on the map above or click on each section below for
   detailed maps, route information and places to visit along the way.<br /></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-the-john-muir-way
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-the-john-muir-way
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-the-john-muir-way
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-the-john-muir-way
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Walks_Cycling_The_John_Muir_Way/FeatureServer/1

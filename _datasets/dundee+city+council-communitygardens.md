@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Sport and Leisure
 date_created: '2024-05-22'
-date_updated: '2024-09-11'
+date_updated: '2024-09-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p><span style='box-sizing:border-box; color:rgb(51, 51, 51); font-family:&quot;Open\
@@ -56,12 +56,12 @@ notes: "<p><span style='box-sizing:border-box; color:rgb(51, 51, 51); font-famil
   \ from the Riverside recycling centre on Wright Avenue.</p><div><b><span style='color:rgb(51,\
   \ 51, 51); font-family:&quot;Open Sans&quot;, sans-serif; font-size:16px;'><br /></span></b></div></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::communitygardens
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::communitygardens
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::communitygardens
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::communitygardens
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Community_Growing_Space/FeatureServer/0

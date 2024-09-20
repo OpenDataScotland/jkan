@@ -12,12 +12,12 @@ notes: "<p>The 8 historical\_Operational Areas from 1999-2007 - ie. Caithness, S
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/40bb2aba-98ee-4509-ae08-41badcdf9018</a><br\
   \ /></p>\n<div>Created by uploading zipped .shp.</div>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/65ebc11167ff4772801b874fc8da6fe5_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/65ebc11167ff4772801b874fc8da6fe5_0
+  url: https://map-highland.opendata.arcgis.com/datasets/65ebc11167ff4772801b874fc8da6fe5_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/OperationalAreas_8old/FeatureServer/0

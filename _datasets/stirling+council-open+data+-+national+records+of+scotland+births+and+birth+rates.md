@@ -21,12 +21,12 @@ notes: <p><b>This dataset is published as Open Data and provides information for
   basis from those published by NRS - for example, they may provide age-sex-standardised
   rates which they produced using the European Standard Population.</div></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-births-and-birth-rates
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-births-and-birth-rates
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-births-and-birth-rates
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-births-and-birth-rates
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_national_records_of_scotland_births/FeatureServer/0

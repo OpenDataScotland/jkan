@@ -24,12 +24,12 @@ notes: "<p><span style='color:rgb(51, 51, 51); font-family:Montserrat, sans-seri
   \ or to the availability of premises that can be reasonably designated as polling\
   \ places.</span></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-polling-places
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-polling-places
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer/0

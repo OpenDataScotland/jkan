@@ -14,12 +14,12 @@ notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Ne
   \ style='color:rgb(0, 94, 149);' target='_blank' rel='nofollow ugc noopener noreferrer'>https://dundeecity.maps.arcgis.com/home/item.html?id=6bd0011538594e8e9f422d24b22d7f8c#overview</a></span><div><br\
   \ /></div><div>For more info please contact planning@dundeecity.gov.uk</div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::ldp2019-dcc-boundary-line
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-dcc-boundary-line
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::ldp2019-dcc-boundary-line
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::ldp2019-dcc-boundary-line
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/LDP2019_WFL1/FeatureServer/3

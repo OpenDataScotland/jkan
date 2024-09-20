@@ -11,15 +11,21 @@ notes: '<div>The dataset shows size of Glasgow Airport over the period between 2
 
   <div><br /></div>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::passenger-numbers-at-glasgow-airport-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::passenger-numbers-at-glasgow-airport-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::passenger-numbers-at-glasgow-airport-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::passenger-numbers-at-glasgow-airport-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Airport_Passengers/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Airport_Passengers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Airport_Passengers/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/6b78ef7c74e24eb797ca860c1e6f8195/csv?layers=0

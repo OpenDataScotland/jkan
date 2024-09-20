@@ -25,12 +25,12 @@ notes: "<div><b>This dataset is published as Open Data.</b></div>\n<div><br /></
   \ estuaries.</li><li>Take account of tides</li><li>The contours dataset also includes\
   \ mean high and low water boundaries.</li></ul></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-terrain-50-spot-heights
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-terrain-50-spot-heights
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-terrain-50-spot-heights
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-terrain-50-spot-heights
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_ordnance_survey_spot_heights/FeatureServer/0

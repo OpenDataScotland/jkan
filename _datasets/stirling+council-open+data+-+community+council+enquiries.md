@@ -20,12 +20,12 @@ notes: "<p><b>This dataset is published as Open Data</b><div><br /></div><div>A 
   \ the authority. This dataset summarises number of enquiries by month, community\
   \ council, and recipient service.</div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-community-council-enquiries
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-community-council-enquiries
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-community-council-enquiries
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-community-council-enquiries
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_community_council_enquiries_by_type/FeatureServer/0

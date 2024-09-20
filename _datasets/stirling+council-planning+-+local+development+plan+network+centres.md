@@ -22,12 +22,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces any previous
   and policies. These centres may be defined in local development plans in the first
   instance.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-development-plan-network-centres
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-network-centres
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-development-plan-network-centres
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-network-centres
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp_network_centres/FeatureServer/1

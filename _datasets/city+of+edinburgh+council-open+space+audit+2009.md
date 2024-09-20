@@ -22,15 +22,21 @@ notes: "<p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01
   \ of the strategy and action plans will be monitored and every five years, from\
   \ 2015, the strategy will be reviewed and updated.<br /></span></p>"
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::open-space-audit-2009
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::open-space-audit-2009
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::open-space-audit-2009
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::open-space-audit-2009
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/15
+- format: OGC WFS
+  name: OGC WFS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/31bd7d7e52e3420ca8fc223e5b8d3042/csv?layers=15

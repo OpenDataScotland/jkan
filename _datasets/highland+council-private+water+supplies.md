@@ -14,12 +14,12 @@ notes: <p>This dataset contains the location details of Type A and Type B Privat
   is made aware of them. Gemini metadata record is at https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bf7b4d832-1712-4c53-864e-0e755e0873ef%7D
   </p>
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::private-water-supplies
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::private-water-supplies
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::private-water-supplies
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::private-water-supplies
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PrivateWaterSupplies/FeatureServer/0

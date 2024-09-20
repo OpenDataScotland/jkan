@@ -15,15 +15,21 @@ notes: '<div>These are sites that contribute to the quality of life of those who
   <div><b>Please note the data is not up to date. Caution must be exercised when using
   this data.</b></div>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::sites-of-special-landscape-importance
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-special-landscape-importance
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::sites-of-special-landscape-importance
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::sites-of-special-landscape-importance
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Sites_of_Special_Landscape_Importance/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Sites_of_Special_Landscape_Importance/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Sites_of_Special_Landscape_Importance/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ea4ad7873aba469bb2c48c2f00536e7f/csv?layers=0

@@ -12,12 +12,12 @@ notes: '<div><b>This dataset is published as Open Data, is the most recent, and 
 
   <p>Scottish Government - Percentage of Children in Poverty by SIMD Data Zone.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::people-and-population-child-poverty-by-datazaone-2023
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::people-and-population-child-poverty-by-datazaone-2023
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::people-and-population-child-poverty-by-datazaone-2023
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::people-and-population-child-poverty-by-datazaone-2023
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/people%20and%20population%20-%20child%20poverty%20by%20datazaone/FeatureServer/0

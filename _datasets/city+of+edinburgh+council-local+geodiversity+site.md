@@ -11,12 +11,12 @@ notes: <p>Local Geodiversity Sites are areas where the diverse geological featur
   of Edinburgh Council has identified and integrated 30 sites into the City Local
   Development Plan, designating them as Local Nature Conservation Sites.</p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::local-geodiversity-site
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::local-geodiversity-site
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::local-geodiversity-site
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::local-geodiversity-site
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/FgpikkYuSUOuITxp/arcgis/rest/services/Local_Geodiversity_Site/FeatureServer/0

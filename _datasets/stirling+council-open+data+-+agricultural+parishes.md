@@ -24,12 +24,12 @@ notes: '<div><b>This dataset is published as Open Data with the boundaries clipp
   Statistics for this geography, although the original parish codes also remain in
   use).</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-agricultural-parishes
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-agricultural-parishes
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-agricultural-parishes
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-agricultural-parishes
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_agricultural_parishes/FeatureServer/0

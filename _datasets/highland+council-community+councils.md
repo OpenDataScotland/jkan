@@ -30,12 +30,12 @@ notes: '<div><span style=''font-size:medium;''>Community Councils in The Highlan
   of Establishment which covers topics including membership rules, elections, and
   meeting arrangements.</font></div></div>'
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-councils
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::community-councils
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-councils
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0

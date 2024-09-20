@@ -13,12 +13,12 @@ notes: <p>This dataset covers both Stirling and Clackmannanshire council areas a
   shared with the Department of Transport as part of the national public transport
   access nodes (NaPTAN) national dataset.<br /></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-public-transport-bus-stop-locations
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-public-transport-bus-stop-locations
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-public-transport-bus-stop-locations
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-public-transport-bus-stop-locations
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/public_transport_bus_stop_locations_stirling/FeatureServer/1

@@ -25,12 +25,12 @@ notes: "<div><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir 
   \ color:rgb(0, 89, 159); text-decoration-line:none; font-weight:bold; font-family:&quot;Open\
   \ Sans&quot;, sans-serif; font-size:16px;' rel='nofollow ugc'>environment@dundeecity.gov.uk</a></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::wildflower-area
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::wildflower-area
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::wildflower-area
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::wildflower-area
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Wildflower/FeatureServer/0

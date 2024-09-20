@@ -14,12 +14,12 @@ notes: "<p>Local Nature Reserves in The Highland Council area.<div><br /></div><
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/a2be67ab-cd60-44f2-87ae-8c5172607c37</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/3b2b6a78298b42eea6b966739745248f_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/3b2b6a78298b42eea6b966739745248f_0
+  url: https://map-highland.opendata.arcgis.com/datasets/3b2b6a78298b42eea6b966739745248f_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/LocalNatureReserves/FeatureServer/0

@@ -37,15 +37,18 @@ notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-fa
   \ Housing at full market rent has been classified as private rented stock, irrespective\
   \ of ownership.</span><div><br /></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::housing-association-properties
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::housing-association-properties
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::housing-association-properties
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/c2bc8c30a5ae4297aadf8933c45532d8/rest/services/OPEN_DATA/Housning_Association_Properties/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/c2bc8c30a5ae4297aadf8933c45532d8/services/OPEN_DATA/Housning_Association_Properties/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/c2bc8c30a5ae4297aadf8933c45532d8/csv?layers=0

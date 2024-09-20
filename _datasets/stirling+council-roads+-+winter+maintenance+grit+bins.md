@@ -8,12 +8,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Stirling Council
 notes: <p>roads - winter maintenance grit bins</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::roads-winter-maintenance-grit-bins
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::roads-winter-maintenance-grit-bins
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::roads-winter-maintenance-grit-bins
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::roads-winter-maintenance-grit-bins
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/GritBins/FeatureServer/0

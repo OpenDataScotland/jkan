@@ -14,15 +14,18 @@ notes: <p>Data is part of a series of data sets provided by the Data Safe Haven,
   as this could not be matched to an IZ. (22,011 of 6,490,923 total, 0.34% for the
   full dataset). Year refers to calendar year.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::ae-attendances-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::ae-attendances-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::ae-attendances-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::ae-attendances-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/A_and_E_Attendances/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/A_and_E_Attendances/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebacc4d26025443fb592f414a46c8365/csv?layers=0

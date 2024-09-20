@@ -7,12 +7,12 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>City Development Plan Policy and Proposals </p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cdp-clyde-walkway
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-clyde-walkway
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cdp-clyde-walkway
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cdp-clyde-walkway
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/24

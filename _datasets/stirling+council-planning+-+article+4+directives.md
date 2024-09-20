@@ -25,12 +25,12 @@ notes: "<div><b>This dataset is published as Open Data and replaces all previous
   \ in order to protect the historic character and setting of the area from inappropriate\
   \ building alterations or development.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-article-4-directives
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-article-4-directives
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-article-4-directives
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-article-4-directives
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_article_4_directives/FeatureServer/0

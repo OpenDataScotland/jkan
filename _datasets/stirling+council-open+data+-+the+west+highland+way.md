@@ -18,12 +18,12 @@ notes: "<p><b>This dataset is published as Open Data</b><div><br /></div><div><d
   \ should be based upon ability and fitness and the opportunities available to explore\
   \ places of interest along the route.</div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-the-west-highland-way
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-the-west-highland-way
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-the-west-highland-way
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-the-west-highland-way
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/West_Highland_Way/FeatureServer/4

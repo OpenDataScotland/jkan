@@ -28,12 +28,12 @@ notes: "<p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Ne
   \ font-size:16px; color:rgb(51, 51, 51); font-family:&quot;Open Sans&quot;, sans-serif;\
   \ font-weight:600;'>Neighbourhood Services<br />5 City Square<br />Dundee DD1 3BA</p></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dog-waste-bins
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dog-waste-bins
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dog-waste-bins
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dog_Waste_Bins/FeatureServer/108

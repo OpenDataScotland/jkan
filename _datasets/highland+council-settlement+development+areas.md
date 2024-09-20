@@ -19,12 +19,12 @@ notes: "<p>Settlement Development Areas in the adopted Highland Council Local De
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/2a52b450-fee5-4d7d-b84f-d53bcb378a36</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/791282bed8274d5799578a1b1459542c_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/791282bed8274d5799578a1b1459542c_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/791282bed8274d5799578a1b1459542c_0
+  url: https://map-highland.opendata.arcgis.com/datasets/791282bed8274d5799578a1b1459542c_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/SettlementDevelopmentAreas/FeatureServer/0

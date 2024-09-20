@@ -11,12 +11,12 @@ notes: "<p>Play Areas in The Highland Council area.<div><br /></div><div>Gemini 
   \ record is at\_<a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/6ffa4373-b5f6-4cea-bba8-6b9c501021c1'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/6ffa4373-b5f6-4cea-bba8-6b9c501021c1</a>.</div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/7f2a1e9ac5c64ffd97e8410741b9f3e9_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/7f2a1e9ac5c64ffd97e8410741b9f3e9_0
+  url: https://map-highland.opendata.arcgis.com/datasets/7f2a1e9ac5c64ffd97e8410741b9f3e9_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PlayAreas/FeatureServer/0

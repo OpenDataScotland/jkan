@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;font-size:12pt'><div><p><span>This audit has 
   prepared from information provided in the Local Development Plan and through the
   monitoring of planning application approvals.</span></p></div></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/6420ce27999f4aed979b2b6ded060158_6
+original_dataset_link: https://data.pkc.gov.uk/datasets/6420ce27999f4aed979b2b6ded060158_6
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/6420ce27999f4aed979b2b6ded060158_6
+  url: https://data.pkc.gov.uk/datasets/6420ce27999f4aed979b2b6ded060158_6
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Employment_Land_Audit_2015/FeatureServer/6

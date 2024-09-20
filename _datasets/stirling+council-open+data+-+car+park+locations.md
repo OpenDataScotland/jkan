@@ -29,12 +29,12 @@ notes: '<div><span style=''background-color:rgb(255, 255, 255);''><b>This datase
   No longer Roads responsibility.<br /><div><span style=''background-color:rgb(255,
   255, 255);''><br /></span></div><div><br /></div></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-car-park-locations
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-car-park-locations
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-car-park-locations
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-car-park-locations
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Car_Park_Locations_Points_Current/FeatureServer/1

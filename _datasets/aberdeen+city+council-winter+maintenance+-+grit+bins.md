@@ -15,12 +15,12 @@ notes: "<div style='text-align:Left;'><p><span>Location of adopted grit boxes th
   \ grit boxes to fill/maintain.</span></p><p><span>Box Type:\_\_</span>1 - Glass\
   \ Fibre,\_ 2 - Plastic,\_ 4 - Community Grit Bin.</p></div>"
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::winter-maintenance-grit-bins
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::winter-maintenance-grit-bins
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::winter-maintenance-grit-bins
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Winter_Maintenance___Grit_Bins/FeatureServer/37

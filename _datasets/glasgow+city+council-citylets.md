@@ -14,15 +14,21 @@ notes: "<div>Property rental data from Citylets \u2013 the leading property port
   \ The data are broken down by property type, size, location and furnish type.</div>\n\
   <div><br /></div>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::citylets
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::citylets
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::citylets
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::citylets
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Citylets/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Citylets/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Citylets/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/244a3f806d4c45b9a3c9e3a70cec8c92/csv?layers=0

@@ -13,12 +13,12 @@ notes: "<p>Air Quality Management Areas in Highland Council area.<div><br /></di
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/50122181-5f4c-49ed-9423-b63f502fea9a</a></div><div><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/a28227b21bbd49dbb70cae596c9d1d58_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/a28227b21bbd49dbb70cae596c9d1d58_0
+  url: https://map-highland.opendata.arcgis.com/datasets/a28227b21bbd49dbb70cae596c9d1d58_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/AirQualityManagementAreas/FeatureServer/0

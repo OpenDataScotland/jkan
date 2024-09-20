@@ -7,12 +7,12 @@ license: No licence
 maintainer: North Lanarkshire Council
 notes: ''
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::adopted-roads-indicative-only
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::adopted-roads-indicative-only
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::adopted-roads-indicative-only
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::adopted-roads-indicative-only
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/14

@@ -27,12 +27,12 @@ notes: "<div>What OS Open UPRN provides you with:</div>\n<div><br /></div>\n<div
   \ is never re-used, allowing you to confidently manage associated information to\
   \ an address.</li></ul></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-os-open-uprn-for-stirling
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-os-open-uprn-for-stirling
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-os-open-uprn-for-stirling
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-os-open-uprn-for-stirling
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_os_openuprn_stirling/FeatureServer/0

@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Lanarkshire Council
 notes: <p>Sites of Interest for Nature Conservation</p>
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::sinc
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::sinc
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::sinc
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::sinc
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/11

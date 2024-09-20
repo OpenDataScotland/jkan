@@ -9,12 +9,12 @@ notes: <p>Payments to Suppliers - Top 100, by value, payments made.<div><br /></
   given as follows;</div><div><ul><li>Supplier Name</li><li>Count of Transactions</li><li>Net
   Value (Ex VAT)</li><li>Gross Value (Inc VAT)</li></ul></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-payments-to-suppliers-top-100-by-value-april-2023-to-march-2024
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-payments-to-suppliers-top-100-by-value-april-2023-to-march-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-payments-to-suppliers-top-100-by-value-april-2023-to-march-2024
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-payments-to-suppliers-top-100-by-value-april-2023-to-march-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/finance_payments_to_suppliers_2023_2024_summary_top_100/FeatureServer/0

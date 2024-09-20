@@ -19,12 +19,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><div><div><p style='margin-
   2000 network. Proposed Special Protection Areas (pSPA) may be subject to change
   prior to classification.</span></p></div></div></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-special-protection-areas-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-special-protection-areas-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-special-protection-areas-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-special-protection-areas-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Special_Protection_Areas/FeatureServer/0

@@ -19,12 +19,12 @@ notes: <div style='text-align:Left;'><p style='margin-top:0px; margin-bottom:0px
   Scotland as of October 2023.   This dataset does not include the Saltmarsh survey
   2013, Sand Dune Vegetation survey 2012 or Coastal Vegetated Shingle survey.</p></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-habitat-map-of-scotland-nvc
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-habitat-map-of-scotland-nvc
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-habitat-map-of-scotland-nvc
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-habitat-map-of-scotland-nvc
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/HabMoS_NVC_No_Overlaps_Coverages/FeatureServer/0

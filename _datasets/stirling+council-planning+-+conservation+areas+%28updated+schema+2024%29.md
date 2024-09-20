@@ -37,12 +37,12 @@ notes: "<div><b>This dataset is published as Open Data on Stirling Council's Ope
   \ antennae.</div>\n<div><br /></div>\n<div>This dataset should be used in conjunction\
   \ with the Article 4 Directions dataset also published on a Scotland-wide basis.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-conservation-areas-updated-schema-2024
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-conservation-areas-updated-schema-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-conservation-areas-updated-schema-2024
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-conservation-areas-updated-schema-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_conservation_areas/FeatureServer/1

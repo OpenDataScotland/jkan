@@ -19,15 +19,18 @@ notes: "<p>Glasgow City Council has undertaken annual surveys since 2007 to eval
   \ in 2020 to measure the effects of the global pandemic on active travel within\
   \ the city cordon.\_</p><br /></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cordon-count-survey
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::cordon-count-survey
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::cordon-count-survey
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/ebde93972b5a478ba252551c574c1a8c/rest/services/OPEN_DATA/Cordon_Count_Survey/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/ebde93972b5a478ba252551c574c1a8c/services/OPEN_DATA/Cordon_Count_Survey/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/ebde93972b5a478ba252551c574c1a8c/csv?layers=0

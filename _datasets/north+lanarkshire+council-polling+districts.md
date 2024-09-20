@@ -12,12 +12,12 @@ notes: '<p><span style=''color: rgb(51, 51, 51); font-family: &quot;Helvetica Ne
   of polling districts in North Lanarkshire. Data is derived from the Boundary Commission
   for Scotland Fifth Statutory Review.</span></p>'
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::polling-districts-1
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::polling-districts-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::polling-districts-1
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::polling-districts-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/1

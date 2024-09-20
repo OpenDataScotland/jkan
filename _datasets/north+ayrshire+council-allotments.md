@@ -10,12 +10,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of North Ayrshire allotments.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::allotments
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::allotments
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::allotments
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::allotments
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/FeatureServer/37

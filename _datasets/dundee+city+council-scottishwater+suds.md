@@ -56,12 +56,12 @@ notes: "<p><span style='box-sizing:border-box; color:rgb(51, 51, 51); font-famil
   \ from the Riverside recycling centre on Wright Avenue.</p><div><b><span style='color:rgb(51,\
   \ 51, 51); font-family:&quot;Open Sans&quot;, sans-serif; font-size:16px;'><br /></span></b></div></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::scottishwater-suds
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::scottishwater-suds
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::scottishwater-suds
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::scottishwater-suds
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Community_Growing_Space/FeatureServer/1

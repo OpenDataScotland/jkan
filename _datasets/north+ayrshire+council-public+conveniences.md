@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Ayrshire Council
 notes: <p>Location of NAC run Public Conveniences within North Ayrshire</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::public-conveniences
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::public-conveniences
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::public-conveniences
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL//Open_Data_Portal2/FeatureServer/30

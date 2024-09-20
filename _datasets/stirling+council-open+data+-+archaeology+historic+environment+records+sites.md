@@ -45,12 +45,12 @@ notes: "<div><b>This dataset is published as Open Data on Stirling Council's Ope
   \ Known Site Extents and Areas of Archaeological Interest) - Historic Environment\
   \ Events (also known as interventions)</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-archaeology-historic-environment-records-sites
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-archaeology-historic-environment-records-sites
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-archaeology-historic-environment-records-sites
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-archaeology-historic-environment-records-sites
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_historic_environment_records_sites/FeatureServer/0

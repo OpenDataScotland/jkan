@@ -13,12 +13,12 @@ notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Nex
   using Briefcam Software. Due to technical difficulties data for Camera 332 Waterfront
   is not available for August 2024.</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::road-classification-august-2024
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::road-classification-august-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::road-classification-august-2024
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-classification-august-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Classification_August_2024/FeatureServer/0

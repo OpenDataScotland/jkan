@@ -3,7 +3,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2022-08-23'
-date_updated: '2024-09-13'
+date_updated: '2024-09-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px; color:rgb(36,\
@@ -31,12 +31,12 @@ notes: "<p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px; col
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Streetlighting_Public/WFSServer?service=wfs&amp;request=getcapabilities</a><br\
   \ /></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::street-light
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::street-light
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::street-light
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::street-light
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/StreelightingPublic/FeatureServer/0

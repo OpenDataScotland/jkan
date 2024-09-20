@@ -23,12 +23,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ Parliamentary Constituency (SPC).</li></ul></div>\n<div>\xA9 Crown Copyright 2017,\
   \ 2018, 2019, 2020, 2021, 2022, 2023, 2024</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-small-area-population-estimates-2017-to-2021
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-small-area-population-estimates-2017-to-2021
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-small-area-population-estimates-2017-to-2021
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-small-area-population-estimates-2017-to-2021
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/nrs_small_area_population_estimates_table/FeatureServer/0

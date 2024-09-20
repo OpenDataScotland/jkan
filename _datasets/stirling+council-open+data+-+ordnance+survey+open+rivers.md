@@ -16,12 +16,12 @@ notes: "<p><b>This dataset is published as Open Data</b><div><br /></div><div><d
   \ water bodies and watercourses map data. These include freshwater rivers, tidal\
   \ estuaries and canals.</li></ul></div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-open-rivers
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-open-rivers
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-open-rivers
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-open-rivers
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/os_open_rivers_watercourse/FeatureServer/0

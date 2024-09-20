@@ -12,12 +12,12 @@ notes: '<div><b>This dataset is published as Open Data.</b></div>
 
   <div>Historic burgh boundaries.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-former-stirling-burgh-boundaries
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-former-stirling-burgh-boundaries
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-former-stirling-burgh-boundaries
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-former-stirling-burgh-boundaries
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Former_Burgh_Boundary/FeatureServer/9

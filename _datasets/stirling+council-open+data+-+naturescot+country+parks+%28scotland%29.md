@@ -22,12 +22,12 @@ notes: <div style='text-align:Left;'><div><div><p style='margin-top:0px; margin-
   gives local authorities power to assess and review the need for Country Parks in
   consultation with SNH.</span></p></div></div></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-country-parks-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-country-parks-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-country-parks-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-country-parks-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Country_Parks/FeatureServer/0

@@ -44,12 +44,12 @@ notes: "<p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px; col
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>It is also available as\
   \ a standard Web Feature Service (WFS)</a>\_\_</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::core-paths-2020
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::core-paths-2020
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::core-paths-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Core_Paths_2020/FeatureServer/0

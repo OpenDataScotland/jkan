@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-12-22'
-date_updated: '2023-11-20'
+date_updated: '2024-09-20'
 license: No licence
 maintainer: Moray Council
 notes: <p>Private Water Supplies User (Moray) Reg 2 (previously Cat A) are supplies
@@ -24,7 +24,7 @@ notes: <p>Private Water Supplies User (Moray) Reg 2 (previously Cat A) are suppl
   based on the best information available to the council at the time of writing.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=3bdc1668ba8a4140ae2a18f246621b9e
-records: 2243
+records: 2240
 resources: []
 schema: default
 title: Private Water Supplies User (Moray)

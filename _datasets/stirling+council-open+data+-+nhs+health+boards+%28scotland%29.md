@@ -23,12 +23,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   will result in corresponding amendments to Health Board boundaries in order to maintain
   alignment.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-nhs-health-boards-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-nhs-health-boards-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-nhs-health-boards-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-nhs-health-boards-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Healthcare_NHS_Health_Boards__Scotland_/FeatureServer/2

@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Lanarkshire Council
 notes: <p>Non Denominational Primary Schools Catchments</p>
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::non-denominational-primary-schools-catchments
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::non-denominational-primary-schools-catchments
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::non-denominational-primary-schools-catchments
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::non-denominational-primary-schools-catchments
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/5

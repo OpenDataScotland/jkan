@@ -11,12 +11,12 @@ notes: <p><span style='color:rgb(51, 51, 51); font-family:Roboto, sans-serif; fo
   nature reserves are the best parks for nature. They are managed by CEC in a way
   which helps wildlife.</span></p>
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::local-nature-reserves-1
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::local-nature-reserves-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::local-nature-reserves-1
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::local-nature-reserves-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/FgpikkYuSUOuITxp/arcgis/rest/services/Local_Nature_Reserves/FeatureServer/50

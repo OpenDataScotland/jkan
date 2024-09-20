@@ -14,12 +14,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>The location of Publ
   team and linked to CAG by UPRN.</span></p><p><span>Waste Team inform when an update
   is required.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::public-toilets-comfort-schemes-2
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::public-toilets-comfort-schemes-2
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::public-toilets-comfort-schemes-2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/PUBLICTOILETS_COMFORTSCHEMES/FeatureServer/3

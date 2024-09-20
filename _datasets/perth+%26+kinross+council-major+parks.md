@@ -14,12 +14,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>There are eight majo
   of experience and are particularly good places to walk, enjoy views and look out
   for wildlife.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::major-parks
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::major-parks
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::major-parks
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::major-parks
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Major_Parks/FeatureServer/32

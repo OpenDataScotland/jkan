@@ -10,12 +10,12 @@ notes: "<p>Land indentified as Contaminated Land as per Part IIA Environmental P
   \ href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901</a></p></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/45c3003e7c724eba833832197459e86c_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/45c3003e7c724eba833832197459e86c_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/45c3003e7c724eba833832197459e86c_0
+  url: https://map-highland.opendata.arcgis.com/datasets/45c3003e7c724eba833832197459e86c_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/Contaminated_Land_Register/FeatureServer/0

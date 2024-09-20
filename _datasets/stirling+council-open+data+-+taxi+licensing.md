@@ -20,12 +20,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   and enforcement of the local taxi and private hire car licensing regime following
   the framework provided for in the Civic Government (Scotland) Act 1982.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-taxi-licensing
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-taxi-licensing
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-taxi-licensing
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-taxi-licensing
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open%20data%20taxi%20licensing/FeatureServer/0

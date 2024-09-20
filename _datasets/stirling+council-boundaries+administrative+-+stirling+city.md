@@ -10,12 +10,12 @@ notes: <p><b>This dataset is published as Open Data</b><div><b><br /></b></div><
   face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif'><span
   style='font-size:16px;'>Stirling City boundary.</span></font></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-city
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-city
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-city
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-city
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Stirling_City/FeatureServer/2

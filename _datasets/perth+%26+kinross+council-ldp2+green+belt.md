@@ -8,12 +8,12 @@ maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Green Belt boundary from
   the 2019 Adopted Local Development Plan</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::ldp2-green-belt
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::ldp2-green-belt
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::ldp2-green-belt
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/LDP2_Green_Belt/FeatureServer/6

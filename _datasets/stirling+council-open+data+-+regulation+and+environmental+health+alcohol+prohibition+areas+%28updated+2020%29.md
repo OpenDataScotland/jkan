@@ -17,12 +17,12 @@ notes: <p><b>This dataset is published as Open Data</b><div><br /></div><div>Loc
   have such by-laws. They range from a total ban on drinking at all times, to a ban
   at specified times or on specified days.<br /></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-regulation-and-environmental-health-alcohol-prohibition-areas-updated-2020
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-regulation-and-environmental-health-alcohol-prohibition-areas-updated-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-regulation-and-environmental-health-alcohol-prohibition-areas-updated-2020
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-regulation-and-environmental-health-alcohol-prohibition-areas-updated-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/regulation_and_environmental_health_alcohol_prohibition_areas_2020/FeatureServer/9

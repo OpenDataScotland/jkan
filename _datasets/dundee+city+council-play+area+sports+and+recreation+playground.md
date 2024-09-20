@@ -33,12 +33,12 @@ notes: '<div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next 
   &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>Tel:
   01382 433710 Option 7</div>'
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::play-area-sports-and-recreation-playground
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::play-area-sports-and-recreation-playground
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::play-area-sports-and-recreation-playground
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::play-area-sports-and-recreation-playground
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Play_Area_Sports_and_Recreation_Playground_(View_Layer)/FeatureServer/0

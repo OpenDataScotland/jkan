@@ -46,12 +46,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces all previous
   development is planned in a holistic and integrated manner, balancing economic growth
   with social and environmental objectives.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-stirling-council-planning-policy-boundary
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-stirling-council-planning-policy-boundary
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-stirling-council-planning-policy-boundary
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-stirling-council-planning-policy-boundary
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/stirling_council_planning_policy_boundary/FeatureServer/4

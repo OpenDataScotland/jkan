@@ -18,12 +18,12 @@ notes: <p><b>This dataset is published as Open Data</b><div><br /></div><div>Lic
   competence and vehicle safety. This comprehensive oversight maintains public safety
   and upholds standards across licensed activities in Scotland.</div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-licence-application-history-summary
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-licence-application-history-summary
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-licence-application-history-summary
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-licence-application-history-summary
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_licence_application_history_summary/FeatureServer/0

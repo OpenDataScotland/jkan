@@ -29,15 +29,18 @@ notes: "<p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-fa
   \ ugc noopener noreferrer'>https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download/</a></span><div><br\
   \ /></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::charities-register-oscr
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::charities-register-oscr
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::charities-register-oscr
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/4c7781a6db8346fdb463187ed9b08b54/rest/services/OPEN_DATA/OSCR_Register/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/4c7781a6db8346fdb463187ed9b08b54/services/OPEN_DATA/OSCR_Register/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/4c7781a6db8346fdb463187ed9b08b54/csv?layers=0

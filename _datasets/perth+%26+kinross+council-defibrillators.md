@@ -14,12 +14,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Defibril
   &amp; Safety Team</span><span>. Locations added as new defibrillators are installed.
   </span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::defibrillators-2
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::defibrillators-2
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::defibrillators-2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Defibrillators/FeatureServer/28

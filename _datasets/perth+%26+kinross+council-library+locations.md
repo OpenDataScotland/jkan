@@ -12,12 +12,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of librarie
   in Perth and Kinross (derived from the Corporate Address Gazetteer).</span></p><p><span>URLs
   for each library sourced from Culture PKC Website.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/a622023e8f63489c8dc05b1aefa5bd46_27
+original_dataset_link: https://data.pkc.gov.uk/datasets/a622023e8f63489c8dc05b1aefa5bd46_27
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/a622023e8f63489c8dc05b1aefa5bd46_27
+  url: https://data.pkc.gov.uk/datasets/a622023e8f63489c8dc05b1aefa5bd46_27
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Library_Locations/FeatureServer/27

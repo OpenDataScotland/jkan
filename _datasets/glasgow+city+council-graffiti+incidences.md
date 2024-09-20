@@ -8,15 +8,18 @@ maintainer: Glasgow City Council
 notes: <p>Graffiti incidences observed and logged by community enforcement patrols
   and by the public in Glasgow.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::graffiti-incidences
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::graffiti-incidences
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::graffiti-incidences
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::graffiti-incidences
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/5119d3a1faa94fd3a581fb92694afb8a/rest/services/OPEN_DATA/Graffiti_Incidences/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/5119d3a1faa94fd3a581fb92694afb8a/services/OPEN_DATA/Graffiti_Incidences/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/5119d3a1faa94fd3a581fb92694afb8a/csv?layers=0

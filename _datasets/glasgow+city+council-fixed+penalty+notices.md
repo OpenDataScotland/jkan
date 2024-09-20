@@ -11,15 +11,21 @@ notes: <p>Captures the number of Fixed Penalty Notices (FPNs) issues for litteri
   officers to deter people from littering in public spaces. The data are aggregates
   of FPNs per ward and for each month. Data from 2018-2019</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::fixed-penalty-notices
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::fixed-penalty-notices
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::fixed-penalty-notices
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::fixed-penalty-notices
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/b2a978d6d50c4dd992885174f3953072/rest/services/OPEN_DATA/Fixed_Penalty_Notices/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/b2a978d6d50c4dd992885174f3953072/services/OPEN_DATA/Fixed_Penalty_Notices/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/b2a978d6d50c4dd992885174f3953072/services/OPEN_DATA/Fixed_Penalty_Notices/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/b2a978d6d50c4dd992885174f3953072/csv?layers=0

@@ -23,12 +23,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces all previous
   and identity of the settlement; and</li><li>protecting and providing access to open
   space.</li></ul></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-green-belt
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-green-belt
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-green-belt
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-green-belt
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_green_belt/FeatureServer/2

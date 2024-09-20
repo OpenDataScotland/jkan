@@ -10,12 +10,12 @@ notes: <p><span style='font-family:Arial, sans-serif; font-size:16px;'>This data
   shows a count of road vehicles by classification for the period December 2023. The
   data is sourced from Dundee's CCTV cameras analysed using Briefcam Software</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-december-2023
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-december-2023
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-december-2023
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-december-2023
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Vehicle_Classification_December_2023/FeatureServer/0

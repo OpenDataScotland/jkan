@@ -47,12 +47,12 @@ notes: "<div><b>This dataset is published as Open Data, is the most recent, and 
   <div><br /></div>\n<div>This dataset is also used in the associated SIMD and Child\
   \ Poverty map and application.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::population-and-society-scottish-index-of-multiple-deprivation-and-child-poverty-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/population%20and%20society%20-%20scottish%20index%20of%20multiple%20deprivation%20(stirling)/FeatureServer/0

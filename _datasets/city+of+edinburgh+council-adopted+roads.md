@@ -16,12 +16,12 @@ notes: "<p><span style='color:rgb(54, 59, 82); font-family:&quot;Trebuchet MS&qu
   \ Sans&quot;, Tahoma, sans-serif; font-size:16px; background-color:rgb(249, 249,\
   \ 249);'>Until a road has been adopted it remains private.</span></p>"
 organization: City of Edinburgh Council
-original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::adopted-roads-1
+original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/maps/cityofedinburgh::adopted-roads-1
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::adopted-roads-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Transport/Transport/MapServer/23

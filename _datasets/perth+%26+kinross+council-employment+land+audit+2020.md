@@ -12,12 +12,12 @@ notes: <div style='text-align:Left;font-size:12pt'><div><p><span>This audit has 
   monitoring of planning application approvals. Data is captured using ArcGIS and
   maintained in a shapefile. </span></p></div></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/5f29729c03b74e0eacc90e218dc01d9a_8
+original_dataset_link: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/5f29729c03b74e0eacc90e218dc01d9a_8
+  url: https://data.pkc.gov.uk/datasets/5f29729c03b74e0eacc90e218dc01d9a_8
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Employment_Land_Audit_2020/FeatureServer/8

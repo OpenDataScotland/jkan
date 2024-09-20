@@ -47,12 +47,12 @@ notes: "<div><div><b>This dataset is published as Open Data and is taken from th
   \ accommodation in the grounds of premises licensed under the Licensing (Scotland)\
   \ Act 2005, as long as the accommodation is mentioned in the operating plan</li></ul></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-short-term-lets
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-short-term-lets
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-short-term-lets
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-short-term-lets
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_short_term_lets/FeatureServer/0

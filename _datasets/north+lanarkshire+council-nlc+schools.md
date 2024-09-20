@@ -10,12 +10,12 @@ notes: '<p><span style=''color: rgb(0, 102, 153); font-family: arial; font-size:
   the location of all the schools which children in North Lanarkshire are in the catchment
   area for.</span></p>'
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::nlc-schools-1
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::nlc-schools-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::nlc-schools-1
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::nlc-schools-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/OPEN_DATA_LAYERS/FeatureServer/7

@@ -14,12 +14,12 @@ notes: "<p>Local Development Plan Areas in The Highland Council area.<div><br />
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/703381e7-e8b1-463c-bd7e-0dec2a7392e0</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/dc76564218f64adfa9b8069e1efe8f01_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/dc76564218f64adfa9b8069e1efe8f01_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/dc76564218f64adfa9b8069e1efe8f01_0
+  url: https://map-highland.opendata.arcgis.com/datasets/dc76564218f64adfa9b8069e1efe8f01_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/LocalDevelopmentPlanAreas/FeatureServer/0

@@ -20,12 +20,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ public and promote sustainable social and economic development of the communities\
   \ of the area.</div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-loch-lomond-and-trossachs-national-park-boundary
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-loch-lomond-and-trossachs-national-park-boundary
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-loch-lomond-and-trossachs-national-park-boundary
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-loch-lomond-and-trossachs-national-park-boundary
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Loch_Lomond_and_Trossachs_National_Park/FeatureServer/8

@@ -22,15 +22,18 @@ notes: '<p style=''margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-f
 
   <div><br /></div>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::road-safety-accidents
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::road-safety-accidents
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::road-safety-accidents
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/caaece2dbbbc43428083810d46e68bcb/rest/services/OPEN_DATA/Road_Safety_Accidents/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/caaece2dbbbc43428083810d46e68bcb/services/OPEN_DATA/Road_Safety_Accidents/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/caaece2dbbbc43428083810d46e68bcb/csv?layers=0

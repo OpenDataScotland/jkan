@@ -12,12 +12,12 @@ notes: <div style='text-align:Left;'><div><div><p><span>Map showing the location
   Aberdeen. Data is based on fixed locations of stops and contains stop references
   and service information.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::bus-facilities-1
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::bus-facilities-1
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::bus-facilities-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Bus_Facilities/FeatureServer/0

@@ -30,12 +30,12 @@ notes: '<div><b>This dataset is published as Open Data and represents the most r
 
   <div>https://www.foi.scot/foi-law</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-freedom-of-information-requests-performance-latest-week
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-freedom-of-information-requests-performance-latest-week
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-freedom-of-information-requests-performance-latest-week
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-freedom-of-information-requests-performance-latest-week
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_freedom_of_information_performance_latest/FeatureServer/0

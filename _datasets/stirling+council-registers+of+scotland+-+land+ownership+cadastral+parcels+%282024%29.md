@@ -18,12 +18,12 @@ notes: "<div>The RoS Cadastral Parcels (INSPIRE) dataset is a maintained and pro
   \ sections of this document, the extent of rights and land contained within a registered\
   \ title cannot be established from the cadastral parcel.\_</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/ros_cadastral_parcels/FeatureServer/12

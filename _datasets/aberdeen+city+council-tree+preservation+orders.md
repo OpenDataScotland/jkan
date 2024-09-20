@@ -22,12 +22,12 @@ notes: '<div style=''text-align:Left;''><div><div><p><span>T</span><span>rees ar
   need felling permission from Scottish Forestry. You should check the Scottish Forestry
   website to check if you need felling permission.</span></p></div></div></div>'
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::tree-preservation-orders
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::tree-preservation-orders
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::tree-preservation-orders
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::tree-preservation-orders
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Tree_Preservation_Orders/FeatureServer/18

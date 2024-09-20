@@ -46,12 +46,12 @@ notes: "<div><span style='font-weight:bold;'>This dataset will be published as O
   \ impact on the Priority  Places for Food Index insights.</p>\n<p><br /><br /><br\
   \ /><br /><br /><br /><br /></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::consumer-data-research-centre-priority-places-for-food-index
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-data-research-centre-priority-places-for-food-index
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::consumer-data-research-centre-priority-places-for-food-index
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::consumer-data-research-centre-priority-places-for-food-index
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/cdrc_priority_places_for_food_index/FeatureServer/0

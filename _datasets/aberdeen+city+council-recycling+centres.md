@@ -15,12 +15,12 @@ notes: "<div style='text-align:Left;'><div><div><p style='margin:0 0 11 0;'><spa
   \ local authority area. Attribute information includes site name, road name, locality\
   \ and postcode.</span></p></div></div></div>"
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::recycling-centres-2
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::recycling-centres-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::recycling-centres-2
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::recycling-centres-2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Recycling_Centres/FeatureServer/21

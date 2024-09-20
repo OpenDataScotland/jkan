@@ -30,12 +30,12 @@ notes: "<div><b>This dataset is published as Open Data</b><b><br /></b></div>\n<
   <div>Extract of data from the National Coal Mining Database Data update frequency:\
   \ As needed\_</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-coal-board-development-high-risk
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-coal-board-development-high-risk
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-coal-board-development-high-risk
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-coal-board-development-high-risk
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/coal_board_development_high_risk/FeatureServer/0

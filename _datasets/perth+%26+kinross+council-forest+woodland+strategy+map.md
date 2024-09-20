@@ -52,12 +52,12 @@ notes: "<div style='text-align:left;'><div><p style='font-size:12pt;'><span>The 
   \ tool</a></p><p style='font-size:12pt;'><span style='font-size:12pt;'><span style='font-size:11pt;\
   \ font-family:Calibri, sans-serif;'><br /></span></span></p></div></div>"
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::forest-woodland-strategy-map
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::forest-woodland-strategy-map
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::forest-woodland-strategy-map
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::forest-woodland-strategy-map
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4

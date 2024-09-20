@@ -37,15 +37,18 @@ notes: "<div><p style='margin-bottom:9pt; background-image:initial; background-p
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
   \ background-origin:initial; background-clip:initial;'><br /></p><br /></div>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::area-partnership-grants-2
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::area-partnership-grants-2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Area_Partnership_Grants/MapServer/0
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Area_Partnership_Grants/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/cfead6701fc746ea8f3d67f0914de08a/csv?layers=0

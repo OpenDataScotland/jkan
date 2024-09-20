@@ -39,12 +39,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   shortest distance to the median was then chosen to represent the centroid of the
   Settlement/Locality.</div></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-census-2022-locality-centroids
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-census-2022-locality-centroids
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-census-2022-locality-centroids
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-census-2022-locality-centroids
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/census_locality_centroids/FeatureServer/8

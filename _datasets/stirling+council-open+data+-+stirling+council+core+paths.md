@@ -28,12 +28,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ for rolling out this national standardised grading system information, which is\
   \ set out at https://www.pathsforall.org.uk/resources/resource/the-path-managers-guide-to-grading</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-core-paths
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-core-paths
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-core-paths
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-core-paths
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/core_paths/FeatureServer/0

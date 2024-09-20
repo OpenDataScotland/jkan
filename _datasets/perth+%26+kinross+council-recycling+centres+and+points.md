@@ -9,12 +9,12 @@ maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Council recycling
   facilities in PKC</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/perth-kinross::recycling-centres-and-points
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::recycling-centres-and-points
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/perth-kinross::recycling-centres-and-points
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::recycling-centres-and-points
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/cc021467dcad43d4816bef3d369e7505/rest/services/Recycle_Centres_and_Points/FeatureServer/28

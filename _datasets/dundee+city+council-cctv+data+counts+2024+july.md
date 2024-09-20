@@ -13,12 +13,12 @@ notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Nex
   CCTV cameras and is extracted using Briefcam software. Due to technical issues data
   for the period 17th July to 22nd July 2024 inclusive is not included in the extract.</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-2024-july
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-2024-july
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-2024-july
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-2024-july
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/CCTV_Data_Counts_July_2024_v2/FeatureServer/0

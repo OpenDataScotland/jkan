@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Planning and Development
 date_created: '2022-05-31'
-date_updated: '2024-07-28'
+date_updated: '2024-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data</b></div>
@@ -25,12 +25,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   updated on a biennial basis, with the current dataset reflective of the year 2020.
   Data for previous versions are available for download in ESRI Shapefile format.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-scottish-rural-and-urban-classifications
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-rural-and-urban-classifications
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-scottish-rural-and-urban-classifications
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-rural-and-urban-classifications
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/SG_Rural_Urban/FeatureServer/0

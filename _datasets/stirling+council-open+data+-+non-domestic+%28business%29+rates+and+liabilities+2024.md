@@ -24,12 +24,12 @@ notes: "<div><b>This dataset is published as Open Data and is also available fro
   \ website to estimate your rates bill.\_</div>\n<div>You can also find out about\
   \ any relief (discounts) your property may be eligible for.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-non-domestic-business-rates-and-liabilities-2024
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-non-domestic-business-rates-and-liabilities-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-non-domestic-business-rates-and-liabilities-2024
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-non-domestic-business-rates-and-liabilities-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_business_rates/FeatureServer/0

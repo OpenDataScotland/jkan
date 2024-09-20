@@ -15,12 +15,12 @@ notes: '<p>Core paths are a system of paths, track and other routes identified b
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/8937f063-73b9-45ec-82af-416c4df3b2e0''
   rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/8937f063-73b9-45ec-82af-416c4df3b2e0</a>.</p>'
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::core-paths
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::core-paths
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::core-paths
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0

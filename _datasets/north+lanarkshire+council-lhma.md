@@ -7,12 +7,12 @@ license: No licence
 maintainer: North Lanarkshire Council
 notes: ''
 organization: North Lanarkshire Council
-original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::lhma
+original_dataset_link: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::lhma
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/maps/nlcmaps::lhma
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/datasets/nlcmaps::lhma
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/Lv_Internet/MapServer/55

@@ -16,12 +16,12 @@ notes: "<p>Flare Zones within The Highland Council Area. A Flare Zone is an admi
   \ metadata\_ record is at:</div><div><a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/{4c20561e-1a50-4a7b-b4eb-98e2af45a00a}'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/{4c20561e-1a50-4a7b-b4eb-98e2af45a00a}</a></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/516df9b993334e37b8a160bd41e39103_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/516df9b993334e37b8a160bd41e39103_0
+  url: https://map-highland.opendata.arcgis.com/datasets/516df9b993334e37b8a160bd41e39103_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/FlareZones_simplify10m/FeatureServer/0

@@ -14,12 +14,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces all previous
   <p>Defined boundaries that show areas representing countryside within a planning
   authority''s boundary.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-countryside
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-countryside
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-countryside
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-countryside
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_countryside/FeatureServer/4

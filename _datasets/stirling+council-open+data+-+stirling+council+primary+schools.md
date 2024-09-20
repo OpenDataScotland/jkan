@@ -26,12 +26,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces any previous
   <div>https://www.data.gov.uk/dataset/9a6f9d86-9698-4a5d-a2c8-89f3b212c52c/scottish-school-roll-and-locations<br
   /></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-primary-schools
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-primary-schools
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-primary-schools
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-primary-schools
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_stirling_council_primary_schools/FeatureServer/0

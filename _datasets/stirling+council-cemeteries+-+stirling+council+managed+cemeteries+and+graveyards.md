@@ -9,12 +9,12 @@ maintainer: Stirling Council
 notes: <p>Dataset showing the locations of cemeteries and graveyards managed by Stirling
   Council's Cemeteries Service.</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::cemeteries-stirling-council-managed-cemeteries-and-graveyards
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::cemeteries-stirling-council-managed-cemeteries-and-graveyards
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::cemeteries-stirling-council-managed-cemeteries-and-graveyards
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::cemeteries-stirling-council-managed-cemeteries-and-graveyards
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Land_Services_Cemetery_Sites/FeatureServer/22

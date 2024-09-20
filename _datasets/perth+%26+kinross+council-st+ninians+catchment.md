@@ -8,12 +8,12 @@ maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>St Ninians Episcopal School
   catchment boundary which takes in the whole of Perth and Kinross</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/fbdc66795b4f4479bc6d0b9aa2f759ab_6
+original_dataset_link: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/fbdc66795b4f4479bc6d0b9aa2f759ab_6
+  url: https://data.pkc.gov.uk/datasets/fbdc66795b4f4479bc6d0b9aa2f759ab_6
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/St_Ninians_Catchment/FeatureServer/6

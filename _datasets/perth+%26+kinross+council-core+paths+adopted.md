@@ -12,12 +12,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Core Path network ad
   the Scottish Government website from 13/12/2011. The data includes amendments made
   after any consultation process held after the initial network was adopted.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/79ef41dbda4440c282e114712d81510e_5
+original_dataset_link: https://data.pkc.gov.uk/datasets/79ef41dbda4440c282e114712d81510e_5
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/79ef41dbda4440c282e114712d81510e_5
+  url: https://data.pkc.gov.uk/datasets/79ef41dbda4440c282e114712d81510e_5
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer/5

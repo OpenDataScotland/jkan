@@ -10,12 +10,12 @@ notes: <p><b>This dataset is published as Open Data.</b><div><b>This dataset was
   in support of Stirling Council's Local Development Plan, published and adopted 2018.</b><div><br
   /></div><div>planning - city centre development framework</div></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-city-centre-development-framework
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-city-centre-development-framework
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-city-centre-development-framework
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-city-centre-development-framework
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_city_centre_development_framework/FeatureServer/1

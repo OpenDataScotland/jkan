@@ -12,12 +12,12 @@ notes: '<p>Community Partnerships in Highland Council area (revised March 2017).
   <p>Gemini metadata record is at <a href=''https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358''
   rel=''nofollow ugc''>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/55254015-cf99-4021-a9be-cdc3c9b40358</a>.</p>'
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::community-partnerships
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::community-partnerships
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::community-partnerships
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityPartnerships/FeatureServer/0

@@ -8,12 +8,12 @@ maintainer: Stirling Council
 notes: "<p>sustainable\_transportation - cycle paths<div><br /></div><div>this data\
   \ requires verification</div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::sustainable-transportation-cycle-paths
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sustainable-transportation-cycle-paths
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::sustainable-transportation-cycle-paths
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sustainable-transportation-cycle-paths
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Transportation_Cycle_Paths_Current/FeatureServer/1

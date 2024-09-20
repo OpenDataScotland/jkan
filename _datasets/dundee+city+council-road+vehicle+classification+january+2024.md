@@ -10,12 +10,12 @@ notes: "<p>This data set shows a count of road vehicles by classification for th
   \ period January 2024. The data is sourced from Dundee's CCTV cameras analysed using\
   \ Briefcam Software.\_</p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-january-2024
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-january-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::road-vehicle-classification-january-2024
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::road-vehicle-classification-january-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Road_Vehicle_Classification_January_2024/FeatureServer/0

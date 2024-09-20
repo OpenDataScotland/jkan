@@ -58,12 +58,12 @@ notes: '<p>Data relating to the price of houses sold in the Glasgow Area from th
 
   <p>LHF Local Housing Forum Area</p>'
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::glasgow-house-sales-1991-2013-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::glasgow-house-sales-1991-2013-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-house-sales-1991-2013-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/28b5a84886f049a292cbc19460da9194/rest/services/OPEN_DATA/House_sales/MapServer/0

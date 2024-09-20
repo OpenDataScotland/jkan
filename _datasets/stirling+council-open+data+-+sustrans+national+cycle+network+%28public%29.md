@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Transportation
 date_created: '2022-12-12'
-date_updated: '2024-09-08'
+date_updated: '2024-09-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<ul><li><b>Audience</b>: Public</li><li><b>Extent</b>: UK</li><li><b>Update\
@@ -92,12 +92,12 @@ notes: "<ul><li><b>Audience</b>: Public</li><li><b>Extent</b>: UK</li><li><b>Upd
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>GISSupport@sustrans.org.uk</a>\_\
   if you require this.</div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-sustrans-national-cycle-network-public
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-sustrans-national-cycle-network-public
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-sustrans-national-cycle-network-public
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-sustrans-national-cycle-network-public
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/1ZHcUS1lwPTg4ms0/arcgis/rest/services/National_Cycle_Network_Public/FeatureServer/0

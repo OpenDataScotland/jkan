@@ -28,12 +28,12 @@ notes: '<div><span style=''color:rgb(51, 51, 51); font-family:Montserrat, sans-s
   however, the definitive dataset is delineated by Ordnance Survey for inclusion in
   their BoundaryLine product.</span></p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::boundaries-administrative-stirling-council
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::boundaries-administrative-stirling-council
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Boundaries_Stirling_Council/FeatureServer/0

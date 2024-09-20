@@ -14,12 +14,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ a building or structure is of \u2018special\u2019 interest. Historic Environment\
   \ Scotland lists buildings on behalf of Scottish Ministers.</p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::historic-environment-scotland-listed-buildings-clackmannanshire
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::historic-environment-scotland-listed-buildings-clackmannanshire
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::historic-environment-scotland-listed-buildings-clackmannanshire
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::historic-environment-scotland-listed-buildings-clackmannanshire
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/historic_environment_scotland_listed_buildings_clackmannanshire/FeatureServer/0

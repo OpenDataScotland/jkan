@@ -16,12 +16,12 @@ notes: <p>This dataset shows the boundaries of North Ayrshire allotments and sta
   memorial gardens for cremated remains (CR), memorial gardens for babies (B), woodland
   burial (W).</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::cemeteries
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::cemeteries
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::cemeteries
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::cemeteries
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/FeatureServer/38

@@ -9,12 +9,12 @@ notes: <div style='text-align:Left;'><div><div><p><span>The council maintains va
   playparks throughout the city for the enjoyment of young people and families in
   Aberdeen.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::play-areas-1
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::play-areas-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::play-areas-1
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::play-areas-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Play_Areas/FeatureServer/13

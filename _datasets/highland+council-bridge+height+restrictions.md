@@ -14,12 +14,12 @@ notes: "<p>Locations of bridge height restrictions over roads adopted by The Hig
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/3581e0d3-a33e-48e7-b479-579c9b5b1fc0</a><br\
   \ /></div></p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/a8ab0322f9a042e588745dfed90189b4_0
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/a8ab0322f9a042e588745dfed90189b4_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/a8ab0322f9a042e588745dfed90189b4_0
+  url: https://map-highland.opendata.arcgis.com/datasets/a8ab0322f9a042e588745dfed90189b4_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/BridgeHeightRestrictions/FeatureServer/0

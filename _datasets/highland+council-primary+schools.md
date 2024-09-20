@@ -9,12 +9,12 @@ notes: "<p>Primary schools in Highland.\_</p>\n<p>Gemini metadata record is at <
   \ href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bb22faf78-3005-46d2-940b-9a9d1f9638d0%7D'\
   \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/%7Bb22faf78-3005-46d2-940b-9a9d1f9638d0%7D</a>.</p>"
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::primary-schools
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-schools
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::primary-schools
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::primary-schools
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PrimarySchools/FeatureServer/0

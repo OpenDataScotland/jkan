@@ -83,12 +83,12 @@ notes: "<div style='text-align:Left;font-size:12pt'><div><div><p><span>Deer grou
   \ 0 0 0;'><span><span>DIGI = counted from a digital photo</span></span></p></td></tr></tbody></table><p><span\
   \ /></p></div></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::deer-count-index
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-count-index
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::deer-count-index
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-count-index
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Deer_Counts_Deer_Groups/FeatureServer/1

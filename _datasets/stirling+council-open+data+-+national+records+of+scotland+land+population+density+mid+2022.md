@@ -10,12 +10,12 @@ notes: <p>open data - national records of scotland land population density mid 2
   /></div><div>The latest release from the National Records of Scotland giving Scotland's
   Population Land Density Figures.</div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-land-population-density-mid-2022
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-land-population-density-mid-2022
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-national-records-of-scotland-land-population-density-mid-2022
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-national-records-of-scotland-land-population-density-mid-2022
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/scotland_land_population_densities_mid_2022_spatial/FeatureServer/0

@@ -21,12 +21,12 @@ notes: <div style='text-align:Left; font-size:12pt;'><div><div><p style='margin-
   to the likelihood of the latter having been omitted from the Roy maps and b) to
   render the Scottish classification compatible with that for England and Wales.</span></p></div></div></div>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-ancient-woodland-inventory-scotland
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-ancient-woodland-inventory-scotland
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-naturescot-ancient-woodland-inventory-scotland
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-naturescot-ancient-woodland-inventory-scotland
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Ancient_Woodland_Inventory/FeatureServer/0

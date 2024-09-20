@@ -16,6 +16,12 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/rest/services/OPEN_DATA/Schools_Catchments_Open/MapServer
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/2bfa782d5da84302bf15219e19a05112/services/OPEN_DATA/Schools_Catchments_Open/MapServer
 schema: default
 title: Schools Catchments Open
 ---

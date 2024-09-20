@@ -9,12 +9,12 @@ notes: <p><b>This dataset is published as Open Data</b><div><br /></div><div>Thi
   dataset shows the locations of historic airfields and the serving countries, squadrons,
   and links to additional information.<br /></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-airfields
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-historic-airfields
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-airfields
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-historic-airfields
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/ww2/FeatureServer/0

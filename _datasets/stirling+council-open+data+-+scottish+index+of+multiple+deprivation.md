@@ -49,12 +49,12 @@ notes: "<p><b>This dataset is published as Open Data and is a like-for-like extr
   \ /></div><div>https://www.gov.scot/collections/scottish-index-of-multiple-deprivation-2020/<br\
   \ /></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-scottish-index-of-multiple-deprivation
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-index-of-multiple-deprivation
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-scottish-index-of-multiple-deprivation
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-index-of-multiple-deprivation
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_scottish_index_of_multiple_deprivation/FeatureServer/0

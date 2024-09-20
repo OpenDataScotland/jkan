@@ -26,15 +26,21 @@ notes: "<p>The SVDLS for Glasgow, catalogues sites that are technically vacant, 
   \ of development on the site.<div><br /></div><div>More info at:\_<a href='https://www.gov.scot/publications/scottish-vacant-and-derelict-land-survey---site-register/'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.gov.scot/publications/scottish-vacant-and-derelict-land-survey---site-register/</a></div></p>"
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::vacant-derelict-land-1
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::vacant-derelict-land-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::vacant-derelict-land-1
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::vacant-derelict-land-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Vacant_Derelict_Land/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Vacant_Derelict_Land/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Vacant_Derelict_Land/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/f1d85a1c43a047ccbdb3838c11ff60c6/csv?layers=0

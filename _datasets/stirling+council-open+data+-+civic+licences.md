@@ -21,12 +21,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   Piercing and Tattooing</li><li>Street Trader (Ice Cream)</li><li>Street Trader</li><li>Venison
   Dealer</li><li>Window Cleaners</li></ul></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-civic-licences
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-civic-licences
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-civic-licences
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-civic-licences
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open%20data%20civic%20licenses/FeatureServer/0

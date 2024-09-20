@@ -17,12 +17,12 @@ notes: '<div><b><u>Stirling Council - Regulatory Services</u></b></div>
   dataset is a listing of all contraventions based on Year, Month, Contravention,
   Location, and Total number from 2020-01-01 onwards.</li></ul></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-penalty-charge-notices-2020-onwards
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-penalty-charge-notices-2020-onwards
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-penalty-charge-notices-2020-onwards
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-penalty-charge-notices-2020-onwards
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_penalty_charge_notices/FeatureServer/0

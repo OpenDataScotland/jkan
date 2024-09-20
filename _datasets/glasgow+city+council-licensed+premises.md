@@ -15,15 +15,21 @@ notes: <p>Alcohol Licences allow premises and individuals to sell alcohol. They 
   be found on the Glasgow City Council website (https://www.glasgow.gov.uk/index.aspx?articleid=17552).
   This data is updated weekly.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::licensed-premises
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::licensed-premises
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::licensed-premises
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/rest/services/OPEN_DATA/Licensed_Premises/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/services/OPEN_DATA/Licensed_Premises/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/0b5b75d511f7400483d7275881897215/services/OPEN_DATA/Licensed_Premises/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/0b5b75d511f7400483d7275881897215/csv?layers=0

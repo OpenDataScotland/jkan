@@ -19,12 +19,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><br /></d
   \ in its surroundings\_\_</li></ul></div>\n<div>Local landscape designations occur\
   \ across Scotland. Local development plans show their location (and associated policy).</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-landscape-areas
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-landscape-areas
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::planning-local-landscape-areas
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-landscape-areas
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_local_landscape_area/FeatureServer/0

@@ -29,12 +29,12 @@ notes: "<p><b>This dataset is published as Open Data</b><div><br /></div><div>Co
   \ emergency services, OS Open Greenspace includes site use and access points, making\
   \ it quicker to get to emergency situations.</li></ul></div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-open-greenspace-sites
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-open-greenspace-sites
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-ordnance-survey-open-greenspace-sites
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-ordnance-survey-open-greenspace-sites
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/os_opendata_-_os_greenspace_sites_(open_data)/FeatureServer/1

@@ -9,12 +9,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Highland Council
 notes: <p>Polling Places in the Highland Council area.</p>
 organization: Highland Council
-original_dataset_link: https://map-highland.opendata.arcgis.com/maps/Highland::pollingplaces
+original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/Highland::pollingplaces
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://map-highland.opendata.arcgis.com/maps/Highland::pollingplaces
+  url: https://map-highland.opendata.arcgis.com/datasets/Highland::pollingplaces
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PollingPlaces/FeatureServer/0

@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;font-size:12pt'><p><span>Locality boundaries 
   using the 2011 Data Zones as defined by the Perth and Kinross Health and Social
   Care Partnership. Designed to help support the planning and delivery of local services</span><span>.</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/maps/003fea1f0d514df689ecd42f6bba7c46_5
+original_dataset_link: https://data.pkc.gov.uk/datasets/003fea1f0d514df689ecd42f6bba7c46_5
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/maps/003fea1f0d514df689ecd42f6bba7c46_5
+  url: https://data.pkc.gov.uk/datasets/003fea1f0d514df689ecd42f6bba7c46_5
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Health_And_Social_Care_Localities_2011_Zones/FeatureServer/5

@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;'><div><div><p><span>Map showing the location
   bin on the map, there may be instances when it is not at the exact location shown
   on map. There may be a discrepancy of a few meters.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::litter-bins
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::litter-bins
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::litter-bins
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::litter-bins
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Litter_Bins/FeatureServer/69

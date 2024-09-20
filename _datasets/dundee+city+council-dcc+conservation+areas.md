@@ -26,12 +26,12 @@ notes: "<p>Conservation Areas are areas of &quot;special architectural or histor
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://dundeecity.maps.arcgis.com/home/item.html?id=103be7b98124426a8591c68152795f6d</a><br\
   \ /></div></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dcc-conservation-areas-2020
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dcc-conservation-areas-2020
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dcc-conservation-areas-2020
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/DCC_Conservation_Areas_2020/FeatureServer/1

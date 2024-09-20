@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Dundee City Council
 notes: <p>{{description}}</p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::urban-releaf-points
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::urban-releaf-points
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::urban-releaf-points
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Urban_ReLeaf_Points/FeatureServer/0

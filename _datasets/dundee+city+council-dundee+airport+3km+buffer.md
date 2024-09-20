@@ -15,12 +15,12 @@ notes: "<p>Within 3km of an aerodrome \u2013 Dundee Airport</p>\n<p>The layer cr
   \ buildings EXCEPT where they are within 3km of an aerodrome or technical site.</p>\n\
   <p>INDICATIVE ONLY - PLEASE MEASURE SITES CLOSE TO THE 3KM BUFFER BOUNDARY<br /></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-airport-3km-buffer
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-airport-3km-buffer
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::dundee-airport-3km-buffer
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::dundee-airport-3km-buffer
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/3kmAirportBufferExclude/FeatureServer/0

@@ -41,12 +41,12 @@ notes: "<p><b>This dataset is published as Open Data.</b><div><br /></div><div><
   \ data architecture terms, through dialogue with these key agencies.</div><div><br\
   \ /></div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-local-development-plan-sites-2018
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-local-development-plan-sites-2018
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-local-development-plan-sites-2018
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-local-development-plan-sites-2018
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_local_development_plan_sites_2018/FeatureServer/0

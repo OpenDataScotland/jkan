@@ -11,12 +11,12 @@ notes: <div style='text-align:Left;'><div><div><p><span>Air Quality Management A
   (AQAP) within 12 months, setting out measures it intends to put in place in pursuit
   of the objectives.</span></p></div></div></div>
 organization: Aberdeen City Council
-original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::air-quality-management-areas-1
+original_dataset_link: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::air-quality-management-areas-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://spatialdata-accabdn.opendata.arcgis.com/maps/accabdn::air-quality-management-areas-1
+  url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::air-quality-management-areas-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Air_Quality_Management_Areas/FeatureServer/0

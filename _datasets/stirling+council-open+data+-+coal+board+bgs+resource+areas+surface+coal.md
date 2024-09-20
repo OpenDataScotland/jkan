@@ -22,12 +22,12 @@ notes: "<div><b>This dataset is published as Open Data</b></div>\n<div><b><br />
   \ /></div>\n<div>Extract of data from the National Coal Mining Database Data update\
   \ frequency: As needed\_</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-coal-board-bgs-resource-areas-surface-coal
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-coal-board-bgs-resource-areas-surface-coal
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-coal-board-bgs-resource-areas-surface-coal
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-coal-board-bgs-resource-areas-surface-coal
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/coal_board_bgs_resource_areas_surface_coal/FeatureServer/0

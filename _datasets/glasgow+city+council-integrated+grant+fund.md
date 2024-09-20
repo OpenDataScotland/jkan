@@ -11,15 +11,21 @@ notes: <p>Glasgow City Council's Integrated Grant Fund (IGF) provides grant fund
   of Glasgow. This provides a list of Grant awards made covering the period 2018/2019
   and 2019/2020.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::integrated-grant-fund
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::integrated-grant-fund
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/maps/GlasgowGIS::integrated-grant-fund
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::integrated-grant-fund
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://utility.arcgis.com/usrsvcs/servers/374bc8d7525145dbb14da0a264d24834/rest/services/OPEN_DATA/Integrated_Grant_Fund/MapServer/0
+- format: OGC WFS
+  name: OGC WFS
+  url: https://utility.arcgis.com/usrsvcs/servers/374bc8d7525145dbb14da0a264d24834/services/OPEN_DATA/Integrated_Grant_Fund/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://utility.arcgis.com/usrsvcs/servers/374bc8d7525145dbb14da0a264d24834/services/OPEN_DATA/Integrated_Grant_Fund/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/374bc8d7525145dbb14da0a264d24834/csv?layers=0

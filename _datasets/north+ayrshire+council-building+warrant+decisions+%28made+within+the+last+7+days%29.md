@@ -12,12 +12,12 @@ notes: "<div>Building Warrant Applications which have been submitted to North Ay
   \ has been made within the past week.\_</div>\n<div><br /></div>\n<div><br /></div>\n\
   <div><br /></div>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::building-warrant-decisions-made-within-the-last-7-days
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-decisions-made-within-the-last-7-days
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::building-warrant-decisions-made-within-the-last-7-days
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-decisions-made-within-the-last-7-days
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Building_Warrant_Applications_Weekly/FeatureServer/1

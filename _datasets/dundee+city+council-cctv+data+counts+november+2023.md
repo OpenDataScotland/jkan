@@ -11,12 +11,12 @@ notes: <p><span style='font-family:&quot;Arial&quot;,sans-serif; color:#4C4C4C; 
   City for the period November 2023. The data is sourced from Dundee's CCTV Cameras
   and is extracted using Briefcam software</span></p>
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-november-2023
+original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-november-2023
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/maps/dundeecity::cctv-data-counts-november-2023
+  url: https://data.dundeecity.gov.uk/datasets/dundeecity::cctv-data-counts-november-2023
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/CCTV_Data_Counts_November_2023/FeatureServer/0

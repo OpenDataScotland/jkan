@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2022-04-24'
-date_updated: '2024-07-07'
+date_updated: '2024-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data</b></div>
@@ -23,12 +23,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
 
   <div>Latest boundaries as per 2017 review.<br /></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-multi-member-ward-boundaries
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-multi-member-ward-boundaries
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-stirling-council-multi-member-ward-boundaries
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-stirling-council-multi-member-ward-boundaries
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Stirling_Ward_Boundaries_2017/FeatureServer/9

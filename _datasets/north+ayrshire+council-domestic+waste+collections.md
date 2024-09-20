@@ -43,15 +43,21 @@ notes: "<p><span style='margin: 0px; padding: 0px; user-select: text; -webkit-us
   \ &quot;Avenir Next&quot;, &quot;Avenir Next_MSFontService&quot;, sans-serif;'>\_\
   </span></p>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::domestic-waste-collections
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::domestic-waste-collections
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::domestic-waste-collections
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::domestic-waste-collections
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/16
+- format: OGC WFS
+  name: OGC WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal2/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/a31ab0fac25e44fe9288b0b9822e02f9/csv?layers=16
