@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-27'
-date_updated: '2024-09-18'
+date_updated: '2024-09-25'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>This dataset includes data items from the national A&amp;E DataMart, the

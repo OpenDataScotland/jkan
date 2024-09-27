@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2023-09-27'
+date_updated: '2024-09-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>In order to provide an effective, safe and efficient service to patients,
@@ -11,14 +11,7 @@ notes: <p>In order to provide an effective, safe and efficient service to patien
   of healthcare provision which aim to reduce the frequency and duration of hospital
   admissions and improve the integration of health and social care services. This
   strategy aims to improve outcomes for patients and reduce the likelihood of future
-  hospital admissions.\r\n\r\nFurther information on hospital beds can be found in
-  the <a href="https://publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
-  annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.\r\n\r\n__As part of making our open data output align better with
-  our annual publication tables, we have applied column ordering to the Inpatient,
-  Outpatient and Beds files in the September 2021 annual open data release consistent
-  with the publication excel tables.__</p>
+  hospital admissions.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-hospital-beds-information
 records: null

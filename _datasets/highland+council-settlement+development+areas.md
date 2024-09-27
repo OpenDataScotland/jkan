@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2022-11-04'
-date_updated: '2022-11-04'
+date_updated: '2024-09-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Settlement Development Areas in the adopted Highland Council Local Development\

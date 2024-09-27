@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-07-06'
-date_updated: '2024-06-25'
+date_updated: '2024-09-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Cancer Waiting Times statistics for the 62-day standard for patients urgently

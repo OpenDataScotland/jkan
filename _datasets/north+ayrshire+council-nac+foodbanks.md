@@ -7,12 +7,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Ayrshire Council
 notes: <p>This layer shows the location of Foodbanks within North Ayrshire.</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::nac-foodbanks
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::nac-foodbanks
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/maps/north-ayrshire::nac-foodbanks
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::nac-foodbanks
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal5/FeatureServer/0
@@ -22,6 +22,12 @@ resources:
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/50c9010c5b67437b80eee9295bb21194/geojson?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/50c9010c5b67437b80eee9295bb21194/shapefile?layers=0
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/50c9010c5b67437b80eee9295bb21194/kml?layers=0
 schema: default
 title: NAC Foodbanks
 ---

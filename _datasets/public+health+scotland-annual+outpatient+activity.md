@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2023-10-09'
+date_updated: '2024-09-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Patients who require the medical opinion of a specialist clinician may be
@@ -22,7 +22,7 @@ notes: <p>Patients who require the medical opinion of a specialist clinician may
   section of the Public Health Scotland website.\r\n\r\nFurther information on hospital
   activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of forthcoming publications https://beta.isdscotland.org/forthcoming-publications/</p>
+  list of forthcoming publications https://publichealthscotland.scot/publications/forthcoming-publications/</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-activity
 records: null
@@ -66,6 +66,9 @@ resources:
 - format: CSV
   name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2023-locations-lookup.csv
+- format: CSV
+  name: Cross Boundary Flow by NHS Board of Residence and NHS Board of Treatment
+  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/1b0ed010-a645-43f3-b87a-cc97cc6b568f/download/cross_boundary_flow_by_nhs_board-of-residence_nhs-board-of-treatment_outpatients.csv
 schema: default
 title: Annual Outpatient Activity
 ---
