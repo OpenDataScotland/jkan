@@ -1,18 +1,16 @@
 ---
 category:
 - Council and Government
-- Elections / Politics
 - Health and Social Care
 date_created: '2019-04-30'
-date_updated: '2023-11-21'
+date_updated: '2024-10-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Data from the annual Care Home Census for Adults in Scotland.  Data are
-  presented at Scotland and at Local Authority level, and cover the period from 2009/10
-  to 2022/23, excluding the year 2019/20 when the Care Home Census was cancelled due
-  to the COVID-19 pandemic.\r\n\r\nFurther information on the Care Home Census can
-  be found in the <a href="https://publichealthscotland.scot/publications/care-home-census-for-adults-in-scotland/care-home-census-for-adults-in-scotland-statistics-for-2013-2023/">latest
-  publication report and dashboard</a>.\r\n</p>
+notes: <p>Annual Care Home Census of residents living in a care home for adults in
+  Scotland at the census date (31st March). Data includes number of residents, number
+  of care homes, number of registered places, health characteristics, length of stay,
+  and average gross weekly costs. Data are presented in a summary, full report, dashboard,
+  and open data csv files, and a map.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/care-home-census
 records: null

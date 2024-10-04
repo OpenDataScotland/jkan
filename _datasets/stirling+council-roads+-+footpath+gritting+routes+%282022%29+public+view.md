@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-12-07'
-date_updated: '2023-04-03'
+date_updated: '2024-10-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>roads - footpath gritting routes (2022) public view</p>

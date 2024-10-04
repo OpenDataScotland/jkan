@@ -3,16 +3,18 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2024-08-02'
-date_updated: '2024-09-11'
+date_updated: '2024-10-03'
 license: 'Custom licence: Other (Not Open)'
-maintainer: Brindley Associates
-notes: <p>This point dataset represents every known (and/ or applied for) wind turbine
+maintainer: Improvement Service
+notes: '<p>This point dataset represents every known (and/ or applied for) wind turbine
   over 15m (to turbine tip) in the country. It includes details (where known) of planning
   reference, height, status (i.e. approved, developed, withdrawn), number of turbines
-  on the site etc.  Some local authority areas (e.g. more southern) are more up-to-date
-  than others (in the north). However, we will endeavour to get this dataset more
-  complete in the coming months.</p>
-organization: Brindley Associates
+  on the site etc.</p>
+
+  <p>Some local authority areas (e.g. more southern) are more up-to-date than others
+  (in the north). However, we will endeavour to get this dataset more complete in
+  the coming months.</p>'
+organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/wind_turbines-unknown'
 records: null
 resources:

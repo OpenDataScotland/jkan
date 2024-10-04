@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2024-09-27'
+date_updated: '2024-10-04'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Landscape Enhancements (Moray)</p>
