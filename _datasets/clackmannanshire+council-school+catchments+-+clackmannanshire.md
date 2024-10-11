@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2024-10-04'
+date_updated: '2024-10-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -61,6 +61,9 @@ resources:
 - format: APPLICATION/X-MSDOS-PROGRAM
   name: Non Denominational Secondary School Catchments
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+- format: WFS
+  name: Roman Catholic Primary School Catchment Boundaries
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Roman_Catholic_Primary_School_Catchment_Boundaries
 schema: default
 title: School Catchments - Clackmannanshire
 ---

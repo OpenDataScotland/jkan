@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2024-06-27'
+date_updated: '2024-10-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national data
@@ -21,13 +21,13 @@ notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national da
   by Planning Authorities the Scottish Government quality assure these to make sure
   they match the published Excel SVDLS Site Register.  To create this dataset we have
   taken all of the spatial data provided by councils and checked by the Scottish Government
-  for the current survey year (2022 published in 2024 for most authorities) and combined
+  for the current survey year (2023 published in 2024 for most authorities) and combined
   it to this year''s SVDLS Site Register (using the site reference).  However: - where
   Planning Authorities have not provided spatial data for the current year, their
   previous spatial data return has been used, or where there is no spatial data at
   all for site we have buffered the easting and northing provided in the survey, to
   create a circular polygon area for the site.  The definitive data source is the
-  SVDLS Site Register available here: https://www.gov.scot/publications/scottish-vacant-derelict-land-survey-2022/</p>'
+  SVDLS Site Register available here: https://www.gov.scot/publications/scottish-vacant-derelict-land-survey-2023/</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is'
 records: null

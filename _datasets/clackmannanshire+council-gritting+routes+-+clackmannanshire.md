@@ -26,6 +26,12 @@ resources:
 - format: ZIP
   name: Clacks gritting routes
   url: https://data.spatialhub.scot/dataset/d26beb6d-078a-4216-b879-306aea2414a2/resource/dd1392e7-8816-4c83-b23c-ec02e6738a2e/download/gritting_routes.zip
+- format: APPLICATION/X-MSDOS-PROGRAM
+  name: Footpath Gritting Routes
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+- format: APPLICATION/X-MSDOS-PROGRAM
+  name: Road Gritting Routes
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
 schema: default
 title: Gritting Routes - Clackmannanshire
 ---

@@ -3,20 +3,21 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2024-09-11'
+date_updated: '2024-10-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>There are three datasets included within this open data publication. The
-  'Data by Prescriber Location' file contains details of items dispensed in the community
-  at prescribing location code level for General Practice data and aggregated by NHS
-  Board for other prescriber location types. The 'Data by Dispenser Location' file
-  contains details of items dispensed in the community at dispenser location code
-  level and excludes Schedule 2 &amp; 3 controlled drugs. The 'Aggregated Data by
-  Health Board' file contains details of items dispensed in the community at NHS Board
-  of prescribing level. For all files items are described at British National Formulary
-  (BNF) item description and Dictionary of Medicines &amp; Devices (dm+d) level. Data
-  is presented for items prescribed in Scotland and reimbursed by the NHS.\r\n\r\nThe
-  glossary of terms for this publication can be found on the <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/">PHS
+notes: <p><strong>Please note that this webpage is currently undergoing maintenance.</strong>\r\n\r\nThere
+  are three datasets included within this open data publication. The 'Data by Prescriber
+  Location' file contains details of items dispensed in the community at prescribing
+  location code level for General Practice data and aggregated by NHS Board for other
+  prescriber location types. The 'Data by Dispenser Location' file contains details
+  of items dispensed in the community by NHS Scotland dispensers at dispenser location
+  code level and excludes Schedule 2 &amp; 3 controlled drugs. The 'Aggregated Data
+  by Health Board' file contains details of items dispensed in the community at NHS
+  Board of prescribing level. For all files items are described at British National
+  Formulary (BNF) item description and Dictionary of Medicines &amp; Devices (dm+d)
+  level. Data is presented for items prescribed in Scotland and reimbursed by the
+  NHS.\r\n\r\nThe glossary of terms for this publication can be found on the <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/">PHS
   publication page</a>. The date of the next release can be found on our list of <a
   href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n\r\nNHS Scotland has introduced a new dispensing contractor
@@ -38,6 +39,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
+- format: CSV
+  name: Data by Prescriber Location - July 2024
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1cb425fc-640c-4b37-9013-f8e97f274085/download/pitc202407.csv
 - format: CSV
   name: Data by Prescriber Location - June 2024
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/95f7f250-bd04-4e4a-b853-5df75b00a632/download/pitc202406.csv
@@ -355,7 +359,10 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5/download/pitc201510.csv
 - format: CSV
   name: Aggregated Data by Health Board - 2024
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc202406.csv
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc202407.csv
+- format: CSV
+  name: Data by Dispenser Location - July 2024
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/739a359f-545c-4642-90d0-0f90289b8a2a/download/disp_pitc202407.csv
 - format: CSV
   name: Data by Dispenser Location - June 2024
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/93cd6483-d482-4b97-8e8b-47b4c4a0acbf/download/disp_pitc202406.csv
@@ -410,6 +417,39 @@ resources:
 - format: CSV
   name: Data by Dispenser Location - January 2023
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/5b3636a6-9f92-4d37-a92a-d5137deb9eca/download/disp_pitc202301.csv
+- format: CSV
+  name: Data by Dispenser Location - December 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1779572c-1e42-4b45-b656-25cafcaf6a2a/download/disp_pitc202212_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - November 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/b509010f-29fa-4eb8-a846-f227f4cc1c1d/download/disp_pitc202211_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - October 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/16faa000-8f5b-49e7-9044-57818e8a7765/download/disp_pitc202210_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - September 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/062b8244-37f5-46ad-90b9-2a0d46c5e1f6/download/disp_pitc202209_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - August 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1877d291-0f66-40b9-87e6-899903353bd1/download/disp_pitc202208_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - July 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/63acdee7-e3a5-475c-8348-3ee9966bda3e/download/disp_pitc202207_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - June 2022
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/daf7812c-edc7-4f53-be71-a0ba9b511792/download/disp_pitc202206_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - April 2021
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/45605769-40ec-404d-990d-e64a64e02a96/download/disp_pitc202104_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - March 2021
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/ca3de5df-bf96-49d7-b67d-96c2c7bcfb6d/download/disp_pitc202103_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - February 2021
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/29aef54d-8e63-4795-b48b-1da84f12e875/download/disp_pitc202102_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - January 2021
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1d5d656e-8ed3-484c-845e-9df4865955a0/download/disp_pitc202101_updated.csv
 schema: default
 title: Prescriptions in the Community
 ---

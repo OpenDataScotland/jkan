@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2024-08-21'
+date_updated: '2024-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the
@@ -20,7 +20,7 @@ notes: <p>Local Authorities have a duty to designate any relevant areas where th
   e.g. Dundee, use the entire extent of their local authority, as digitised in Ordnance
   Survey's BoundaryLine dataset, for the AQMA.  We have included date of AQMA declaration
   in our national schema, though many LAs do not currently provide this. Revoked AQMAs
-  are now held in this dataset with a 'Date revoked' attribute</p>
+  are now held in this dataset with a 'Date revoked' attribute.</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/air_quality_management_areas-is'
 records: null

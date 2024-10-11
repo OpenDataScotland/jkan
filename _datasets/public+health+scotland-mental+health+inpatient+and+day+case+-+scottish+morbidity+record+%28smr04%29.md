@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2021-09-08'
-date_updated: '2024-10-03'
+date_updated: '2024-10-10'
 license: No licence
 maintainer: Public Health Scotland
 notes: <p>The Mental Health Inpatient and Day Case dataset (SMR04) collects episode
