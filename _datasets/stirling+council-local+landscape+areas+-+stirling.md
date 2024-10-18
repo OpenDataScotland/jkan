@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2023-04-11'
+date_updated: '2024-10-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -29,6 +29,9 @@ resources:
 - format: REST
   name: Local Landscape Areas
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_local_landscape_area_ldp2/FeatureServer/8/query?outFields=*&where=1%3D1
+- format: REST
+  name: Local Landscape Areas
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/planning_local_landscape_area/FeatureServer
 schema: default
 title: Local Landscape Areas - Stirling
 ---

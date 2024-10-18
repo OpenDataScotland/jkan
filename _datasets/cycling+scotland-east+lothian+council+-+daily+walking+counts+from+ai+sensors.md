@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2024-05-10'
-date_updated: '2024-10-11'
+date_updated: '2024-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"The walking counts supplied is raw, uncleaned data. Extended counts of

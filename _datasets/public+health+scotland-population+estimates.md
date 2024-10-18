@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: '2018-02-06'
-date_updated: '2024-08-13'
+date_updated: '2024-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Population estimates for all geography types in Scotland:\r\n\r\n\u2022\tData
@@ -28,13 +28,13 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_09092022.csv
 - format: CSV
   name: Council Area (2019) Population Estimates
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/09ebfefb-33f4-4f6a-8312-2d14e2b02ace/download/ca2019_pop_est_23072024.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/09ebfefb-33f4-4f6a-8312-2d14e2b02ace/download/ca2019_pop_est_14102024.csv
 - format: CSV
   name: Health and Social Care Partnership (2019) Population Estimates
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c3a393ce-253b-4c75-82dc-06b1bb5638a3/download/hscp2019_pop_est_23072024.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c3a393ce-253b-4c75-82dc-06b1bb5638a3/download/hscp2019_pop_est_14102024.csv
 - format: CSV
   name: Health Board (2019) Population Estimates
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1/download/hb2019_pop_est_23072024.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1/download/hscp2019_pop_est_14102024.csv
 - format: CSV
   name: Data Zone (2001) Population Estimates
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/bf086aee-130d-4487-b854-808db0e29dc4/download/dz2001_pop_est_02072020.csv

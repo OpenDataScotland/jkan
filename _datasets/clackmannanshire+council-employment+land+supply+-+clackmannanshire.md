@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-10-04'
+date_updated: '2024-10-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -26,7 +26,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/4d24cd24-9b88-4a82-b2d3-fc64724c47df/resource/cffe86a2-1653-46d8-ba9e-d7330824e718/download/clacks_businesslandaudit.gpkg
 - format: APPLICATION/X-MSDOS-PROGRAM
   name: Employment/Business Land Supply
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Business_Land_Audit
 schema: default
 title: Employment Land Supply - Clackmannanshire
 ---

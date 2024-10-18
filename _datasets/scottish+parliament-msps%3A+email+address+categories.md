@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2024-10-03'
+date_updated: '2024-10-10'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of email address categories.</p>

@@ -43,9 +43,6 @@ resources:
 - format: MS EXCEL
   name: Scottish Vocational Qualifications
   url: https://www.sqa.org.uk/files_ccc/Stats04_SVQ.xls
-- format: HTML
-  name: Open the Annual Statistical Supplement 1 for 2004
-  url: https://www.sqa.org.uk/files_ccc/AnnualStatisticalSupplement2004.htm
 - format: MS Word
   name: Introduction to Derived Grades
   url: https://www.sqa.org.uk/files_ccc/IntroductiontoDerivedGrades.doc

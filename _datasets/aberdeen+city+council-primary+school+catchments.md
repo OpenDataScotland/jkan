@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: '2020-07-14'
-date_updated: '2024-02-15'
+date_updated: '2024-10-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Boundaries of Primary School

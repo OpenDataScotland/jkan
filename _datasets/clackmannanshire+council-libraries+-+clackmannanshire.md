@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-11-13'
-date_updated: '2024-10-04'
+date_updated: '2024-10-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council
@@ -29,7 +29,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/71f6880b-d434-45cb-b182-7f932ee1a83b/resource/34e545be-05f6-4ea4-866b-87dad41fb11e/download/libraries.zip
 - format: APPLICATION/X-MSDOS-PROGRAM
   name: Libraries
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Libraries
 schema: default
 title: Libraries - Clackmannanshire
 ---

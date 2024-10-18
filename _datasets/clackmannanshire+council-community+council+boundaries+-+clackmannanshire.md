@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-10-04'
+date_updated: '2024-10-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,9 +28,9 @@ resources:
 - format: ZIP
   name: Community Council Boundaries 2019
   url: https://data.spatialhub.scot/dataset/fcb21ef1-be71-4da2-b239-1c3b37d269bc/resource/452a0d86-8c4a-4c05-b7c4-20b3ba0102aa/download/clackmannanshire_community_councils.zip
-- format: APPLICATION/X-MSDOS-PROGRAM
-  name: Community Councils
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+- format: WFS
+  name: Community Council Boundaries
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Community_Councils
 schema: default
 title: Community Council Boundaries - Clackmannanshire
 ---

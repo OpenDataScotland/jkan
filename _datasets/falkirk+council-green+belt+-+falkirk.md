@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2024-04-11'
+date_updated: '2024-10-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -41,8 +41,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-fa'
 records: null
 resources:
 - format: REST
-  name: Green Belt
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Green_Belt/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: Green belt (LDP2)
+  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/LDP2_GreenBelt/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Green Belt - Falkirk
 ---
