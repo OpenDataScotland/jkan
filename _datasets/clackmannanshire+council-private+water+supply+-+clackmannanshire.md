@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2018-05-29'
-date_updated: '2024-10-04'
+date_updated: '2024-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>The Water Intended for Human Consumption (Private Supplies) (Scotland)\
@@ -28,9 +28,9 @@ resources:
 - format: No file type
   name: Private Water Supplies
   url: https://data.spatialhub.scot/dataset/2520ec8e-5844-45e6-9ca5-668692046453/resource/19eb2c84-86ac-4de3-8240-21ce5cc4b5e0/download/spatialhubprivatewatersupply.gpkg
-- format: APPLICATION/X-MSDOS-PROGRAM
+- format: WFS
   name: Private Water Supplies
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Private_Water_Supplies
 schema: default
 title: Private Water Supply - Clackmannanshire
 ---

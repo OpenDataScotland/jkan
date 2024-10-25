@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Council and Government
 date_created: '2017-01-27'
-date_updated: '2024-10-04'
+date_updated: '2024-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registers.</p>
@@ -27,6 +27,9 @@ resources:
 - format: No file type
   name: Clackmannanshire Asset Register 2024 (July)
   url: https://data.spatialhub.scot/dataset/fb99adc1-4a25-4136-bacf-1a99a7f09c73/resource/afc6d795-a7fc-493c-ac84-bd16b5897a34/download/estates.gpkg
+- format: ZIP
+  name: Clacks CAR
+  url: https://data.spatialhub.scot/dataset/fb99adc1-4a25-4136-bacf-1a99a7f09c73/resource/b789315e-b61a-4c45-a0b0-726fe6784bd2/download/downloads.zip
 schema: default
 title: Council Asset Register - Clackmannanshire
 ---

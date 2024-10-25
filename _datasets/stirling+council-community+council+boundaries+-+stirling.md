@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-04-11'
+date_updated: '2024-10-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,6 +28,9 @@ resources:
 - format: REST
   name: Community Council boundaries
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Community_Councils_Stirling/FeatureServer/2/query?outFields=*&where=1%3D1
+- format: REST
+  name: Community Councils
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/stirling_council_community_councils/FeatureServer/4
 schema: default
 title: Community Council Boundaries - Stirling
 ---

@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2024-04-09'
+date_updated: '2024-10-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>Many local authorities collect details of where the renewable energy sites
@@ -15,9 +15,9 @@ organization: Aberdeenshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/renewable_energy_sites-as'
 records: null
 resources:
-- format: QGIS Shapefile
-  name: Wind Turbine Applications
-  url: https://data.spatialhub.scot/dataset/40c9598f-39be-49df-af08-136106793d7d/resource/96cd8c64-658f-492d-99d1-7b1b25a72191/download/wta_shape.zip
+- format: ZIP
+  name: Wind Turbine Applications SHAPE
+  url: https://data.spatialhub.scot/dataset/40c9598f-39be-49df-af08-136106793d7d/resource/8a7ea306-0a2c-464f-915c-bbe1fef73014/download/wta_18102024_shape.zip
 schema: default
 title: Renewable Energy Sites - Aberdeenshire
 ---

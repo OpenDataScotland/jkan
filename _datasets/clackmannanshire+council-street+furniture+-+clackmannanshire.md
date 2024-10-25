@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2024-10-04'
+date_updated: '2024-10-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -32,11 +32,26 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-c
 records: null
 resources:
 - format: No file type
-  name: Street Furniture 2020
-  url: https://data.spatialhub.scot/dataset/eab436ff-6b87-4cb6-8557-586973d97278/resource/37cfcca6-abee-48d8-bd94-a4269312828f/download/spatialhubstreetfurniture.gpkg
-- format: No file type
   name: Street Furniture 2021
   url: https://data.spatialhub.scot/dataset/eab436ff-6b87-4cb6-8557-586973d97278/resource/219e3a89-a1d7-440f-aeeb-0c3dd2fa3037/download/spatialhubstreetfurniture.gpkg
+- format: WFS
+  name: Street Lighting Columns
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Street_Lighting_Columns
+- format: WFS
+  name: Grit Bins
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Grit_Bins
+- format: WFS
+  name: Litter bins
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Litter_Bins
+- format: WFS
+  name: Dog Bins
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Dog_Bins
+- format: WFS
+  name: Electric Vehicle Charging Points
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Electric_Vehicle_Charging_Points
+- format: WFS
+  name: Pedestrian Crossings
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Pedestrian_Crossings
 schema: default
 title: Street Furniture - Clackmannanshire
 ---

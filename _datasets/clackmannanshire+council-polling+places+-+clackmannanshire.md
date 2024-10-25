@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-10-04'
+date_updated: '2024-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -39,9 +39,9 @@ resources:
 - format: ZIP
   name: updated_polling_places_2024.zip
   url: https://data.spatialhub.scot/dataset/1831e0be-cce1-400e-94bd-97bc3d060e05/resource/09256a86-025d-48fe-8e04-a5d0a8785d58/download/polling_places_2024.zip
-- format: APPLICATION/X-MSDOS-PROGRAM
+- format: WFS
   name: Polling Places
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Polling_Places
 schema: default
 title: Polling Places - Clackmannanshire
 ---

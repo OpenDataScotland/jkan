@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2024-10-04'
+date_updated: '2024-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -64,6 +64,9 @@ resources:
 - format: No file type
   name: Clackmannanshire Asset Register 2024 (July)
   url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/76765aa4-8141-4f5c-999b-fcabcd8eb845/download/estates.gpkg
+- format: ZIP
+  name: Clacks CATR
+  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/28566df9-92c5-4dcf-8bd5-e4a396d56800/download/downloads.zip
 schema: default
 title: Community Asset Transfer Register - Clackmannanshire
 ---

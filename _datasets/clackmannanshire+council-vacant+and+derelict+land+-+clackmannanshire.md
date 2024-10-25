@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-10-04'
+date_updated: '2024-10-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -71,9 +71,9 @@ resources:
 - format: ZIP
   name: SVDLS shapefile 2023 uploaded by Scottish Government
   url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/b88751f6-b2fe-45ea-ab02-f671acf89c88/download/clackmannanshire.zip
-- format: APPLICATION/X-MSDOS-PROGRAM
-  name: Latest VDL data
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+- format: WFS
+  name: VDL
+  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Vacant_and_Derelict_Land_Survey
 schema: default
 title: Vacant And Derelict Land - Clackmannanshire
 ---

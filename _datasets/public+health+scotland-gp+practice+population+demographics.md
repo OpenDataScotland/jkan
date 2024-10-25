@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2019-02-19'
-date_updated: '2024-07-16'
+date_updated: '2024-10-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains information on list sizes for all GP practices in
@@ -14,6 +14,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/gp-practice-populations
 records: null
 resources:
+- format: CSV
+  name: GP Practice Populations October 2024
+  url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/cec9341e-ccba-4c71-afe4-a614f5e97b9f/download/practice_listsizes_oct2024-open-data.csv
 - format: CSV
   name: GP Practice Populations July 2024
   url: https://www.opendata.nhs.scot/dataset/e3300e98-cdd2-4f4e-a24e-06ee14fcc66c/resource/81c6fd6a-6837-4fe2-8f4b-bd42293804df/download/practice_listsizes_jul2024-open-data.csv
