@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2023-04-19'
-date_updated: '2023-04-19'
+date_updated: '2024-11-01'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>City-wide and local Sites of Importance for Nature Conservation within Glasgow

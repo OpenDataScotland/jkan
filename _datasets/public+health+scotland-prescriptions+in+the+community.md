@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2024-10-25'
+date_updated: '2024-10-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>Please note that this webpage is currently undergoing maintenance.</strong>\r\n\r\nThere
@@ -501,6 +501,9 @@ resources:
 - format: CSV
   name: Data by Dispenser Location - September 2020
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/57650904-6e77-4d51-97dc-7a5d11cf4a73/download/disp_pitc202009_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - September 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/84ac867d-9163-46d8-89d5-0d6810d878d8/download/disp_pitc201909_updated.csv
 schema: default
 title: Prescriptions in the Community
 ---

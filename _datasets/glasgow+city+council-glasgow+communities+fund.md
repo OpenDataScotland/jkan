@@ -1,56 +1,11 @@
 ---
 category:
-- Business and Economy
-- Housing and Estates
-- Planning and Development
+- Uncategorised
 date_created: '2021-09-06'
-date_updated: '2023-11-21'
+date_updated: '2024-10-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
-notes: "<p><span style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>Open to eligible third sector, voluntary and community\
-  \ organisations across Glasgow, the fund, worth more than \xA3</span><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>55million\
-  \ over three years,</span><span style='background-image:initial; background-position:initial;\
-  \ background-size:initial; background-repeat:initial; background-attachment:initial;\
-  \ background-origin:initial; background-clip:initial;'> </span><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>aims\
-  \ to tackle poverty and inequality through</span></p>\n<ul>  <li><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>Building\
-  \ the skills, capacity and resilience of      individuals and communities.</span></li>\
-  \  <li><span style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>Supporting activities and services that will enable\
-  \      and empower communities to become involved in the social, economic and  \
-  \    cultural life of the city.</span></li> </ul>\n<p style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'><span\
-  \ style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>The data provide awards made covering the period 202</span><span\
-  \ style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>0</span><span style='background-image:initial; background-position:initial;\
-  \ background-size:initial; background-repeat:initial; background-attachment:initial;\
-  \ background-origin:initial; background-clip:initial;'>/2</span><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>1</span><span\
-  \ style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'> to 202</span><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>5</span><span\
-  \ style='background-image:initial; background-position:initial; background-size:initial;\
-  \ background-repeat:initial; background-attachment:initial; background-origin:initial;\
-  \ background-clip:initial;'>/2</span><span style='background-image:initial; background-position:initial;\
-  \ background-size:initial; background-repeat:initial; background-attachment:initial;\
-  \ background-origin:initial; background-clip:initial;'>6</span><span style='background-image:initial;\
-  \ background-position:initial; background-size:initial; background-repeat:initial;\
-  \ background-attachment:initial; background-origin:initial; background-clip:initial;'>.</span></p>"
+notes: ''
 organization: Glasgow City Council
 original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::glasgow-communities-fund-3
 records: null

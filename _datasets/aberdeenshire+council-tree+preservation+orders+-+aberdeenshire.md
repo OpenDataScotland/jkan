@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2024-04-05'
+date_updated: '2024-10-31'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -44,11 +44,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_
 records: null
 resources:
 - format: ZIP
-  name: TPO Trees & Groups
-  url: https://data.spatialhub.scot/dataset/af8af530-cdc9-43e3-a239-65fa34e0b065/resource/aff739e2-dbb2-46f9-b98b-9e310d142197/download/tpo_treesgroups.zip
-- format: ZIP
   name: TPOs - Single Trees and Groups
-  url: https://data.spatialhub.scot/dataset/af8af530-cdc9-43e3-a239-65fa34e0b065/resource/8c840764-7283-4320-b337-f337e3f21c01/download/tpos.zip
+  url: https://data.spatialhub.scot/dataset/af8af530-cdc9-43e3-a239-65fa34e0b065/resource/356cd09f-476c-4d1a-98e3-d2d9b12068c1/download/tpo_single_groups.zip
 schema: default
 title: Tree Preservation Orders - Aberdeenshire
 ---
