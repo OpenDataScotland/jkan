@@ -3,15 +3,15 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2024-10-31'
+date_updated: '2024-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>This new building standards data has been created using a custom built
   ''Cloud Connector Framework'' which enables the automated collection of data from
   local data systems on a DAILY basis.   There are 2 layers: Points &amp; polygons
-  (not all local authorities collect polygon data)  Currently missing data from Fife  A
-  Building Standards Register is maintained by local authorities under the terms of
-  Section 24 of the Building (Scotland) Act 2003. Local authorities are responsible
+  (not all local authorities collect polygon data)  Currently missing data from Western
+  Isles  A Building Standards Register is maintained by local authorities under the
+  terms of Section 24 of the Building (Scotland) Act 2003. Local authorities are responsible
   for granting permission for work to be done (building warrant) and for a completed
   building to be occupied (completion certificate). These registers are online and
   searchable and published as weekly lists in a similar way to planning applications.  Registers
@@ -19,7 +19,7 @@ notes: '<p>This new building standards data has been created using a custom buil
   warrant process:  Received Decided Commenced Completed  We strongly recommend that
   when using the WFS for this dataset, because of its size, you use it with a filter.
   For example with the attributes ''local_authority'' and ''year''.  A powerBI dashboard
-  highlighting some data quality issues we have found is available to view at https://app.powerbi.com/view?r=eyJrIjoiYjIwYjIxNTQtZTZhMi00ZTc1LWEwNzAtZDdhNjkyMTQ2YmQwIiwidCI6IjdiYmUyMDM3LWMzZGMtNGU4Ny1iMTdiLTZiZDJkMjI3MWY0NyIsImMiOjh9</p>'
+  highlighting some data quality issues we have found is available to view at https://shorturl.at/9NzAX</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards_official-is'
 records: null

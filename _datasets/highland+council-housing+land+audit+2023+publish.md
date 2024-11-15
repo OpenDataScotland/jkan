@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-02-14'
-date_updated: '2024-03-04'
+date_updated: '2024-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Highland Council Housing Land Audit Data for June 1st 2023</p>\n<p>This\

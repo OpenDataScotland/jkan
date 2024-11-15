@@ -2,7 +2,7 @@
 category:
 - Public Safety
 date_created: '2023-03-28'
-date_updated: '2024-09-10'
+date_updated: '2024-11-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Location of Street lights
