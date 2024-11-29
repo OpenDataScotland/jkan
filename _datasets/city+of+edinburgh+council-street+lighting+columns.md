@@ -19,12 +19,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e57d7da4a91b44cebc8d4b2c2aaad9a4/csv?layers=103
-- format: GEOJSON
-  name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e57d7da4a91b44cebc8d4b2c2aaad9a4/geojson?layers=103
 - format: ZIP
   name: Shapefile
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e57d7da4a91b44cebc8d4b2c2aaad9a4/shapefile?layers=103
+- format: GEOJSON
+  name: GeoJSON
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e57d7da4a91b44cebc8d4b2c2aaad9a4/geojson?layers=103
 - format: KML
   name: KML
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/e57d7da4a91b44cebc8d4b2c2aaad9a4/kml?layers=103

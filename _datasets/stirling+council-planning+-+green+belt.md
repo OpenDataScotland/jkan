@@ -35,15 +35,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/csv?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/geojson?layers=2
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/shapefile?layers=2
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/geojson?layers=2
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/kml?layers=2
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/filegdb?layers=2
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/featureCollection?layers=2
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/excel?layers=2
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/geoPackage?layers=2
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/sqlite?layers=2
 schema: default
 title: Planning - green belt
 ---

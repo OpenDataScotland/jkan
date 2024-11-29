@@ -20,15 +20,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/csv?layers=27
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/geojson?layers=27
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/shapefile?layers=27
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/geojson?layers=27
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/kml?layers=27
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/filegdb?layers=27
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/featureCollection?layers=27
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/excel?layers=27
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/geoPackage?layers=27
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/fb92ae2c48cd440cb58ab3f7430d9627/sqlite?layers=27
 schema: default
 title: Street Lighting
 ---

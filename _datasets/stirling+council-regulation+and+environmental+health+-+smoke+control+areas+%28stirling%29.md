@@ -36,15 +36,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/csv?layers=13
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/geojson?layers=13
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/shapefile?layers=13
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/geojson?layers=13
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/kml?layers=13
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/filegdb?layers=13
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/featureCollection?layers=13
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/excel?layers=13
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/geoPackage?layers=13
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f31816b1849c45beadbbe797daadc62a/sqlite?layers=13
 schema: default
 title: Regulation and environmental health - smoke control areas (stirling)
 ---

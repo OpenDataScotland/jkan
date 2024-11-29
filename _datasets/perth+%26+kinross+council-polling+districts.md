@@ -25,15 +25,27 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/csv?layers=4
+- format: ZIP
+  name: Shapefile
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/shapefile?layers=4
 - format: GEOJSON
   name: GeoJSON
   url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/geojson?layers=4
 - format: ZIP
-  name: Shapefile
-  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/shapefile?layers=4
-- format: KML
-  name: KML
-  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/kml?layers=4
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/7244675fdab14e6db45296ff40ecd5e5/sqlite?layers=4
 schema: default
 title: Polling Districts
 ---

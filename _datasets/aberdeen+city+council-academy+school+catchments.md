@@ -27,12 +27,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/c8e7887f4519434b8564a608754002cb/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/c8e7887f4519434b8564a608754002cb/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/c8e7887f4519434b8564a608754002cb/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/c8e7887f4519434b8564a608754002cb/geojson?layers=5
 - format: KML
   name: KML
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/c8e7887f4519434b8564a608754002cb/kml?layers=5

@@ -24,12 +24,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/65ebc11167ff4772801b874fc8da6fe5/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/65ebc11167ff4772801b874fc8da6fe5/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/65ebc11167ff4772801b874fc8da6fe5/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/65ebc11167ff4772801b874fc8da6fe5/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/65ebc11167ff4772801b874fc8da6fe5/kml?layers=0

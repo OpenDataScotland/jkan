@@ -21,15 +21,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/8b156069dfae4be0922304145dae4a6d/sqlite?layers=6
 schema: default
 title: Air Quality Management Area
 ---

@@ -58,15 +58,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/793e40ba41d445cbac4ff72383e1a861/sqlite?layers=0
 schema: default
 title: Consumer data research centre - priority places for food index
 ---

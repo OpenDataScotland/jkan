@@ -22,9 +22,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/c55a52810a6147abbc8b9c8c56b6f112/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/c55a52810a6147abbc8b9c8c56b6f112/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data.dundeecity.gov.uk/api/download/v1/items/c55a52810a6147abbc8b9c8c56b6f112/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/c55a52810a6147abbc8b9c8c56b6f112/kml?layers=0
 schema: default
 title: Road Vehicle Classification October 2023
 ---

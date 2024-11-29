@@ -27,15 +27,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/csv?layers=28
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/geojson?layers=28
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/shapefile?layers=28
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/geojson?layers=28
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/kml?layers=28
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/filegdb?layers=28
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/featureCollection?layers=28
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/excel?layers=28
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/geoPackage?layers=28
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/ad8faa0552d34922bbfead81b2e6439a/sqlite?layers=28
 schema: default
 title: Local Landscape Area
 ---

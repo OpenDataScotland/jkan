@@ -24,15 +24,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/csv?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/geojson?layers=1
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/shapefile?layers=1
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/geojson?layers=1
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/c9117c0e86e44adf87eef84ec72fb747/filegdb?layers=1
 schema: default
 title: Polling Districts
 ---

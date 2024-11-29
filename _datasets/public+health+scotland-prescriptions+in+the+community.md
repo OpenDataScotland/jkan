@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2024-11-14'
+date_updated: '2024-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p><strong>Please note that this webpage is currently undergoing maintenance.</strong>\r\n\r\nThere
@@ -510,6 +510,57 @@ resources:
 - format: CSV
   name: Data by Dispenser Location - September 2019
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/84ac867d-9163-46d8-89d5-0d6810d878d8/download/disp_pitc201909_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - January 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/f00adb28-0e00-4948-8136-32088b4d303f/download/disp_pitc201901_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - February 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/63e7ed69-96f2-45d9-9bb6-e209d2767709/download/disp_pitc201902_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - March 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/af666085-6154-40fc-b1e4-9b5906ea2106/download/disp_pitc201903_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - April 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9d37f681-e495-45c4-8654-89a2f23d47e4/download/disp_pitc201904_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - May 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/583e2609-f4ea-4adf-83f3-0d467966320e/download/disp_pitc201905_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - June 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/24af90d2-032e-484a-840c-db5cc251deb7/download/disp_pitc201906_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - July 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/6a3116e8-0cd2-4933-89a4-00975ea8399f/download/disp_pitc201907_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - August 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/c582c434-ac07-4219-9627-3abd029b0887/download/disp_pitc201908_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - October 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/b1d04a76-b0b1-4852-b9e5-da3d8956ed35/download/disp_pitc201910_updated-1.csv
+- format: CSV
+  name: Data by Dispenser Location - November 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/d0df2216-bed7-42ca-9bf5-419b3df332d8/download/disp_pitc201911_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - December 2019
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/99ac0276-9ce6-4e6e-925d-3c86d763ed5d/download/disp_pitc201912_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - January 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/7b521ec9-1a80-4850-99ba-2a1d7520cfad/download/disp_pitc202001_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - February 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/95590eb7-6c28-420e-95db-b6a3c6603e8b/download/disp_pitc202002_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - March 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/013d8dc0-46f4-405c-8c27-5dcdaa02d4bb/download/disp_pitc202003_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - April 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/291650d8-b642-4235-8a59-ccffc25735ce/download/disp_pitc202004_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - May 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/5c35db44-7942-4f97-8eda-593da6556790/download/disp_pitc202005_updated.csv
+- format: CSV
+  name: Data by Dispenser Location - June 2020
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/8f71073f-af12-47b3-95d1-019632de042e/download/disp_pitc202006_updated.csv
 schema: default
 title: Prescriptions in the Community
 ---

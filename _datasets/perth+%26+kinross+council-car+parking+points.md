@@ -23,15 +23,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/92d7dc336fa4487abe57af06775cba95/sqlite?layers=6
 schema: default
 title: Car Parking Points
 ---

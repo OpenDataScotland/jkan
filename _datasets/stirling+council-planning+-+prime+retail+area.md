@@ -31,15 +31,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f889c8ef91f94897ac55b61998f88ac5/sqlite?layers=0
 schema: default
 title: Planning - prime retail area
 ---

@@ -28,12 +28,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d0a4f3cbd7e649c8af176c509f42fd30/csv?layers=54
-- format: GEOJSON
-  name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d0a4f3cbd7e649c8af176c509f42fd30/geojson?layers=54
 - format: ZIP
   name: Shapefile
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d0a4f3cbd7e649c8af176c509f42fd30/shapefile?layers=54
+- format: GEOJSON
+  name: GeoJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d0a4f3cbd7e649c8af176c509f42fd30/geojson?layers=54
 - format: KML
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d0a4f3cbd7e649c8af176c509f42fd30/kml?layers=54

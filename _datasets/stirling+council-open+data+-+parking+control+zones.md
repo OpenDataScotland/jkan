@@ -32,15 +32,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/geojson?layers=4
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e559a9f94cc24dbfa07238af94121d51/sqlite?layers=4
 schema: default
 title: Open data - parking control zones
 ---

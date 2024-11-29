@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-10-07'
-date_updated: '2024-10-15'
+date_updated: '2024-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Ramblers
 notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly available
@@ -27,6 +27,9 @@ resources:
 - format: WFS
   name: 'Path Network '
   url: https://geo.spatialhub.scot/geoserver/ext_rpth/wfs?service=wfs&typeName=ext_rpth:pub_rpth
+- format: OTHER
+  name: Ramblers path network interactive web map
+  url: https://isshinyapps.shinyapps.io/RamblersWebMap/
 schema: default
 title: Path Network - Scotland
 ---

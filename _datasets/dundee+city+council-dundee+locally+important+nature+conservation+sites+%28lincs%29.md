@@ -21,24 +21,39 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Locally_Important_Nature_Conservation_Sites_(LINCS)_view/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/sqlite?layers=0
 - format: ARCGIS REST API
   name: ARCGIS REST API
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Locally_Important_Nature_Conservation_Sites_(LINCS)_view/FeatureServer
 - format: WEB FEATURE SERVICE (WFS)
   name: WEB FEATURE SERVICE (WFS)
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Locally_Important_Nature_Conservation_Sites_WFS/WFSServer?service=wfs&request=getcapabilities
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/geojson?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/shapefile?layers=0
-- format: KML
-  name: KML
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/84f7e1631b6448e3993718ec141fcada/kml?layers=0
 schema: default
 title: Dundee Locally Important Nature Conservation Sites (LINCS)
 ---

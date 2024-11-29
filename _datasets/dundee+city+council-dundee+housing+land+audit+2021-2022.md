@@ -38,15 +38,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/geojson?layers=0
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/52c8f3ec753e49d09884fc2297c379a0/sqlite?layers=0
 schema: default
 title: Dundee Housing Land Audit 2021-2022
 ---

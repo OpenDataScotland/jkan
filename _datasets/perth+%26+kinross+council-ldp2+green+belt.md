@@ -20,15 +20,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/3ac6bb920c86438b97bd22706aefaa04/sqlite?layers=6
 schema: default
 title: LDP2 Green Belt
 ---

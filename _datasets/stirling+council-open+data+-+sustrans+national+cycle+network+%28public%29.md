@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Transportation
 date_created: '2022-12-12'
-date_updated: '2024-11-10'
+date_updated: '2024-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<ul><li><b>Audience</b>: Public</li><li><b>Extent</b>: UK</li><li><b>Update\
@@ -104,15 +104,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f4a76caf04b548b38d0ac7eca816de3e/sqlite?layers=0
 schema: default
 title: Open data - sustrans national cycle network (public)
 ---

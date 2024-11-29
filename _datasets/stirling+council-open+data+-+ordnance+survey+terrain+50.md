@@ -37,15 +37,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/96d11a39d2234bc78a8287a51635e0de/sqlite?layers=0
 schema: default
 title: Open data - ordnance survey terrain 50
 ---

@@ -19,12 +19,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/geojson?layers=0
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/441c3aacba924c3c94b367fe245bd93a/kml?layers=0

@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2018-05-22'
-date_updated: '2024-10-08'
+date_updated: '2024-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Gaelic Medium School Catchments in The Highland Council area.\_<div><br\
@@ -25,12 +25,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/1344ea30c26a4623be3fae41150f4319/kml?layers=0

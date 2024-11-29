@@ -21,15 +21,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/csv?layers=22
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/geojson?layers=22
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/shapefile?layers=22
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/geojson?layers=22
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/kml?layers=22
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/filegdb?layers=22
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/featureCollection?layers=22
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/excel?layers=22
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/geoPackage?layers=22
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/591d4b6ac7e942d9886eebbcd5d6c222/sqlite?layers=22
 schema: default
 title: Cemeteries - stirling council managed cemeteries and graveyards
 ---

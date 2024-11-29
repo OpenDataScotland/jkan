@@ -32,9 +32,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6213463bb43a4a488b17c752f54261ea/sqlite?layers=0
 schema: default
 title: Open data - burial records (snowdon cemetery)
 ---

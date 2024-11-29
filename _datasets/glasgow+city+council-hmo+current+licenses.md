@@ -43,12 +43,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/fb837f5f6f664f61a2cb64d303733c6a/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/fb837f5f6f664f61a2cb64d303733c6a/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/fb837f5f6f664f61a2cb64d303733c6a/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/fb837f5f6f664f61a2cb64d303733c6a/geojson?layers=0
 - format: KML
   name: KML
   url: https://open-data-design-glasgowgis.hub.arcgis.com/api/download/v1/items/fb837f5f6f664f61a2cb64d303733c6a/kml?layers=0

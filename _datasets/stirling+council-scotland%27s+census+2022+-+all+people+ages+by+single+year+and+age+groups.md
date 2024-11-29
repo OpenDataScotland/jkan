@@ -42,9 +42,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/fd7c9d6d333540ab8413c9c6db2ef56b/sqlite?layers=0
 schema: default
 title: Scotland's census 2022 - all people ages by single year and age groups
 ---

@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/geojson?layers=5
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/kml?layers=5
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/ef0cf35b0ed54005ac7b8ca94ba139d7/filegdb?layers=5
 schema: default
 title: Non Denominational Primary Schools Catchments
 ---

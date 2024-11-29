@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/csv?layers=19
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/geojson?layers=19
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/shapefile?layers=19
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/geojson?layers=19
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/kml?layers=19
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/6837617cd17d436fbfc6b50657bd18e9/filegdb?layers=19
 schema: default
 title: Tree Preservation Order
 ---

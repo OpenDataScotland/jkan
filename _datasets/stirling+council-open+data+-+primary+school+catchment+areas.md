@@ -35,15 +35,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/34c9fc5f8d5146d8aa15d3f6c94ec3ff/sqlite?layers=0
 schema: default
 title: Open data - primary school catchment areas
 ---

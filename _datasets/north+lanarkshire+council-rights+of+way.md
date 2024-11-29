@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/csv?layers=13
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/geojson?layers=13
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/shapefile?layers=13
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/geojson?layers=13
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/kml?layers=13
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/34250847752f4aa7823f6d897793e209/filegdb?layers=13
 schema: default
 title: Rights of Way
 ---

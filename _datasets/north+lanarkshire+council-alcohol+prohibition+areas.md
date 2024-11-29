@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/csv?layers=16
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/geojson?layers=16
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/shapefile?layers=16
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/geojson?layers=16
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/kml?layers=16
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2b66a762bafd4533884e986a055989f1/filegdb?layers=16
 schema: default
 title: Alcohol Prohibition Areas
 ---

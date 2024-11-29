@@ -19,12 +19,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9776b648e8e842f99163d23c424886d0/csv?layers=55
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9776b648e8e842f99163d23c424886d0/geojson?layers=55
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9776b648e8e842f99163d23c424886d0/shapefile?layers=55
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9776b648e8e842f99163d23c424886d0/geojson?layers=55
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9776b648e8e842f99163d23c424886d0/kml?layers=55

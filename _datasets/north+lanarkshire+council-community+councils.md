@@ -21,15 +21,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/geojson?layers=0
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2569bdeb126d402fa3cf17aa0a553b1e/filegdb?layers=0
 schema: default
 title: Community Councils
 ---

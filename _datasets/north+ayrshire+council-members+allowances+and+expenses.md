@@ -40,9 +40,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/eaef8ebaa7bb4d3e96f80384a4de80f1/csv?layers=1
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/eaef8ebaa7bb4d3e96f80384a4de80f1/shapefile?layers=1
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/eaef8ebaa7bb4d3e96f80384a4de80f1/geojson?layers=1
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/eaef8ebaa7bb4d3e96f80384a4de80f1/kml?layers=1
 schema: default
 title: Members Allowances and Expenses
 ---

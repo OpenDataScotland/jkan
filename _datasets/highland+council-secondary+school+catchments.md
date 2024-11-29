@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2018-02-27'
-date_updated: '2024-07-05'
+date_updated: '2024-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Secondary school catchment areas in Highland.\_</p>\n<p>Gemini metadata\
@@ -21,12 +21,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/2d07fb33ca344eafbf3d5944a526aae2/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/2d07fb33ca344eafbf3d5944a526aae2/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/2d07fb33ca344eafbf3d5944a526aae2/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/2d07fb33ca344eafbf3d5944a526aae2/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/2d07fb33ca344eafbf3d5944a526aae2/kml?layers=0

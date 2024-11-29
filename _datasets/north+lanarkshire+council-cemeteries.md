@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/csv?layers=12
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/geojson?layers=12
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/shapefile?layers=12
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/geojson?layers=12
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/kml?layers=12
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/5b97f120ab614c9185fc4d81e138846d/filegdb?layers=12
 schema: default
 title: Cemeteries
 ---

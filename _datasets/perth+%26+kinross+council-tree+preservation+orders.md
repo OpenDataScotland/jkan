@@ -28,15 +28,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/geojson?layers=4
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/16f49ecf83a745c9abf83320d2d4d390/sqlite?layers=4
 schema: default
 title: Tree Preservation Orders
 ---

@@ -22,15 +22,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/csv?layers=7
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/geojson?layers=7
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/shapefile?layers=7
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/geojson?layers=7
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/kml?layers=7
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/0fce559f6119470188e882cfe54dae61/filegdb?layers=7
 schema: default
 title: NLC Schools
 ---

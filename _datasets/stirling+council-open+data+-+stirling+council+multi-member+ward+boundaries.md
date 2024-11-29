@@ -35,15 +35,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/csv?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/geojson?layers=9
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/shapefile?layers=9
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/geojson?layers=9
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/kml?layers=9
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/filegdb?layers=9
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/featureCollection?layers=9
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/excel?layers=9
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/geoPackage?layers=9
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/sqlite?layers=9
 schema: default
 title: Open data - stirling council multi-member ward boundaries
 ---

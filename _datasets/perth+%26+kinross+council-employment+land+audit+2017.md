@@ -24,15 +24,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/csv?layers=13
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/geojson?layers=13
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/shapefile?layers=13
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/geojson?layers=13
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/kml?layers=13
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/filegdb?layers=13
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/featureCollection?layers=13
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/excel?layers=13
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/geoPackage?layers=13
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/d1a0f2c437ff475dbd9092252ddd3cb4/sqlite?layers=13
 schema: default
 title: Employment Land Audit 2017
 ---

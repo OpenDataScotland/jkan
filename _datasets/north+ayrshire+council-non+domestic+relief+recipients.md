@@ -19,9 +19,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d974b701442d4056b6ce667e1366f92c/csv?layers=9
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d974b701442d4056b6ce667e1366f92c/shapefile?layers=9
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d974b701442d4056b6ce667e1366f92c/geojson?layers=9
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/d974b701442d4056b6ce667e1366f92c/kml?layers=9
 schema: default
 title: Non Domestic Relief Recipients
 ---

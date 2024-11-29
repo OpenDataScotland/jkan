@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/csv?layers=17
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/geojson?layers=17
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/shapefile?layers=17
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/geojson?layers=17
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/kml?layers=17
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/2e1a9cce89e24e078eafa8f3af55ba70/filegdb?layers=17
 schema: default
 title: Area of Great Landscape Value
 ---

@@ -35,15 +35,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/csv?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/geojson?layers=1
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/shapefile?layers=1
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/geojson?layers=1
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/71c219fbbecc472d8976b1964b81d514/sqlite?layers=1
 schema: default
 title: Planning - green corridor
 ---

@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/csv?layers=11
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/geojson?layers=11
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/shapefile?layers=11
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/geojson?layers=11
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/kml?layers=11
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/f76db4a76b604e46b5a6c864430e7a90/filegdb?layers=11
 schema: default
 title: SINC
 ---

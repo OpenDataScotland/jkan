@@ -37,24 +37,24 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dog_Waste_Bins/FeatureServer/108
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/csv?layers=108
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/shapefile?layers=108
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/geojson?layers=108
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/kml?layers=108
 - format: ARCGIS REST API
   name: ARCGIS REST API
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dog_Waste_Bins/FeatureServer
 - format: WEB FEATURE SERVICE (WFS)
   name: WEB FEATURE SERVICE (WFS)
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dog_Waste_Bins_WFS/WFSServer?service=wfs&request=getcapabilities
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/csv?layers=108
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/geojson?layers=108
-- format: ZIP
-  name: Shapefile
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/shapefile?layers=108
-- format: KML
-  name: KML
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/2e66d7ec15904ba996e1b59ee272f727/kml?layers=108
 schema: default
 title: Dog Waste Bins
 ---

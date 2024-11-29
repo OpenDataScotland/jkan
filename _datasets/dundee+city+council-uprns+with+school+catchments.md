@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-11-13'
-date_updated: '2024-11-13'
+date_updated: '2024-11-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p><b><font size='4'>WARNING</font></b></p>\n<p><span style='background-color:rgb(255,\
@@ -82,12 +82,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/e65abfd090bd4cd68d30af1a092e28c6/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/e65abfd090bd4cd68d30af1a092e28c6/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/e65abfd090bd4cd68d30af1a092e28c6/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e65abfd090bd4cd68d30af1a092e28c6/geojson?layers=0
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/e65abfd090bd4cd68d30af1a092e28c6/kml?layers=0

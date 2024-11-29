@@ -27,15 +27,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/csv?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/geojson?layers=2
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/shapefile?layers=2
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/geojson?layers=2
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/kml?layers=2
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/filegdb?layers=2
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/featureCollection?layers=2
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/excel?layers=2
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/geoPackage?layers=2
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ede2d06c736c4a9cabe11541b0a5226a/sqlite?layers=2
 schema: default
 title: Natural environment - forest and woodland strategy areas (legacy reference
   dataset)

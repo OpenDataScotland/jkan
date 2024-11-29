@@ -27,9 +27,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/635eb511410f42dcb500f6df909f6527/csv?layers=27
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/635eb511410f42dcb500f6df909f6527/shapefile?layers=27
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/635eb511410f42dcb500f6df909f6527/geojson?layers=27
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/635eb511410f42dcb500f6df909f6527/kml?layers=27
 schema: default
 title: Contact Centre Call Performance
 ---

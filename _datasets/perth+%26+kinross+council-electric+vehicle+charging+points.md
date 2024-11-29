@@ -22,15 +22,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/csv?layers=10
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/geojson?layers=10
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/shapefile?layers=10
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/geojson?layers=10
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/kml?layers=10
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/filegdb?layers=10
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/featureCollection?layers=10
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/excel?layers=10
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/geoPackage?layers=10
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/5b33371b1bca49808614a7d2452ac418/sqlite?layers=10
 schema: default
 title: Electric Vehicle Charging Points
 ---

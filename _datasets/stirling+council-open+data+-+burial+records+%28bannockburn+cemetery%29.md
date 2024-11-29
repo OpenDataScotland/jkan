@@ -32,9 +32,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dfa1d29b3f1540908e29880ebe929e5e/sqlite?layers=0
 schema: default
 title: Open data - burial records (bannockburn cemetery)
 ---

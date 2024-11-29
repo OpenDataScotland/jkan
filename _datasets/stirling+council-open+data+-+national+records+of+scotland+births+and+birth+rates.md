@@ -33,9 +33,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/802cf312617844b2ac19fbfed21e07fc/sqlite?layers=0
 schema: default
 title: Open data - national records of scotland births and birth rates
 ---

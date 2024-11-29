@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2022-08-04'
-date_updated: '2023-04-26'
+date_updated: '2024-11-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Play Areas in The Highland Council area.<div><br /></div><div>Gemini metadata\
@@ -23,12 +23,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/7f2a1e9ac5c64ffd97e8410741b9f3e9/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/7f2a1e9ac5c64ffd97e8410741b9f3e9/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/7f2a1e9ac5c64ffd97e8410741b9f3e9/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/7f2a1e9ac5c64ffd97e8410741b9f3e9/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/7f2a1e9ac5c64ffd97e8410741b9f3e9/kml?layers=0

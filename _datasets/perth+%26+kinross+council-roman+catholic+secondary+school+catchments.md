@@ -20,15 +20,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/c5723e566cc84584b1d8cfe7d2d9a3bf/sqlite?layers=6
 schema: default
 title: Roman Catholic Secondary School Catchments
 ---

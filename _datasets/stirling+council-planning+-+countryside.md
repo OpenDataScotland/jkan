@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/geojson?layers=4
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bf6c718045d348a88ca5ef890a1d8346/sqlite?layers=4
 schema: default
 title: Planning - countryside
 ---

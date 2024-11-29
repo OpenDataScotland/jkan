@@ -29,15 +29,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/csv?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/geojson?layers=9
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/shapefile?layers=9
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/geojson?layers=9
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/kml?layers=9
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/filegdb?layers=9
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/featureCollection?layers=9
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/excel?layers=9
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/geoPackage?layers=9
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/38bb5acb4d9443daaf480829558a9c07/sqlite?layers=9
 schema: default
 title: Open data - regulation and environmental health alcohol prohibition areas (updated
   2020)

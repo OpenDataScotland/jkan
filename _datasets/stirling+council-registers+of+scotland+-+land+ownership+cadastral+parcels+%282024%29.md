@@ -30,15 +30,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/csv?layers=12
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/geojson?layers=12
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/shapefile?layers=12
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/geojson?layers=12
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/kml?layers=12
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/filegdb?layers=12
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/featureCollection?layers=12
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/excel?layers=12
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/geoPackage?layers=12
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/sqlite?layers=12
 schema: default
 title: Registers of scotland - land ownership cadastral parcels (2024)
 ---

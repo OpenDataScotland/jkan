@@ -34,6 +34,33 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/SG_Rural_Urban/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/sqlite?layers=0
 - format: URBAN RURAL CLASSIFICATION 2016
   name: ESRI Shapefile Download
   url: https://maps.gov.scot/ATOM/shapefiles/SG_UrbanRural_2016.zip
@@ -58,18 +85,6 @@ resources:
 - format: TOPIC PAGE - SCOTTISH GOVERNMENT WEBSITE
   name: Urban Rural Classification
   url: https://www.gov.scot/collections/agriculture-fisheries-and-rural-statistics/#urbanruralclassification
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/geojson?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/shapefile?layers=0
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/98016ddf12d649f0912657eae4669667/kml?layers=0
 schema: default
 title: Open data - scottish rural and urban classifications
 ---

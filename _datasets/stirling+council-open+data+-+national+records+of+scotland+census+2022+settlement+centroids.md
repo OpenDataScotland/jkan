@@ -53,15 +53,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/csv?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/geojson?layers=9
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/shapefile?layers=9
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/geojson?layers=9
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/kml?layers=9
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/filegdb?layers=9
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/featureCollection?layers=9
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/excel?layers=9
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/geoPackage?layers=9
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b884e563612d45a39ba3800b56b6e182/sqlite?layers=9
 schema: default
 title: Open data - national records of scotland census 2022 settlement centroids
 ---

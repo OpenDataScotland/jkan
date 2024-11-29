@@ -25,15 +25,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/csv?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/geojson?layers=1
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/shapefile?layers=1
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/geojson?layers=1
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/128aef8a9e214bc294068d8a9cd0351f/sqlite?layers=1
 schema: default
 title: Open data - public transport bus stop locations
 ---

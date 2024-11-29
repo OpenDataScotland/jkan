@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/csv?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/geojson?layers=9
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/shapefile?layers=9
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/geojson?layers=9
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/kml?layers=9
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/1533241c5f8a4b0583a2c4fe629aa1c1/filegdb?layers=9
 schema: default
 title: Green Belt
 ---

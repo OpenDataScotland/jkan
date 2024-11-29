@@ -21,9 +21,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2c5eebd38b4742e288492e1f8aa12945/sqlite?layers=0
 schema: default
 title: Open data - payments to suppliers (top 100 by value, April 2023 to March 2024)
 ---

@@ -21,9 +21,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/399b4bf086204527a43658e8617e2448/csv?layers=29
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/399b4bf086204527a43658e8617e2448/shapefile?layers=29
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/399b4bf086204527a43658e8617e2448/geojson?layers=29
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/399b4bf086204527a43658e8617e2448/kml?layers=29
 schema: default
 title: NAC Awards and Achievements
 ---

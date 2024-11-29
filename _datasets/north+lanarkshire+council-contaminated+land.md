@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/csv?layers=18
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/geojson?layers=18
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/shapefile?layers=18
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/geojson?layers=18
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/kml?layers=18
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/9621ea2074a14780bac331ab2ff2a6a1/filegdb?layers=18
 schema: default
 title: Contaminated Land
 ---

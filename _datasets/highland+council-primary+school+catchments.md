@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2017-09-08'
-date_updated: '2024-07-02'
+date_updated: '2024-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Primary School Catchments in Highland. </p>
@@ -22,12 +22,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/6132b8751bea482b92801140935d6467/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/6132b8751bea482b92801140935d6467/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/6132b8751bea482b92801140935d6467/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/6132b8751bea482b92801140935d6467/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/6132b8751bea482b92801140935d6467/kml?layers=0

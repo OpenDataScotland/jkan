@@ -33,24 +33,39 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/sqlite?layers=0
 - format: ARCGIS REST API
   name: ARCGIS REST API
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/Dundee_Polling_Places_2023_view/FeatureServer
 - format: WEB FEATURE SERVICE (WFS)
   name: WEB FEATURE SERVICE (WFS)
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Polling_Places_Proposed/WFSServer?service=WFS&request=GetCapabilities
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/geojson?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/shapefile?layers=0
-- format: KML
-  name: KML
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/e6de02d38e7d460fa7998e57e79c3efb/kml?layers=0
 schema: default
 title: Dundee Polling Places
 ---

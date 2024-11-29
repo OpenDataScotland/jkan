@@ -25,9 +25,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9b808dd7e0784ca9ac450a936c3c8286/csv?layers=32
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9b808dd7e0784ca9ac450a936c3c8286/shapefile?layers=32
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9b808dd7e0784ca9ac450a936c3c8286/geojson?layers=32
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9b808dd7e0784ca9ac450a936c3c8286/kml?layers=32
 schema: default
 title: Library Books/Items Issued 2019
 ---

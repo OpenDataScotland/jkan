@@ -36,15 +36,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ea6b2b1d9685434bbe0e4d5828c0bcb9/sqlite?layers=0
 schema: default
 title: Open data - agricultural parishes
 ---

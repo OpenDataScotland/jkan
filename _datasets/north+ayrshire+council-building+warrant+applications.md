@@ -29,9 +29,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/adec79bef64442febd476cbd3c4b6017/csv?layers=23
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/adec79bef64442febd476cbd3c4b6017/shapefile?layers=23
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/adec79bef64442febd476cbd3c4b6017/geojson?layers=23
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/adec79bef64442febd476cbd3c4b6017/kml?layers=23
 schema: default
 title: Building Warrant Applications
 ---

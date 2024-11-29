@@ -22,15 +22,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/geojson?layers=4
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/aec2b52620694b17a3b993864540958a/sqlite?layers=4
 schema: default
 title: Scottish Vacant and Derelict Land Survey 2015
 ---

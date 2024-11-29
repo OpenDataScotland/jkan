@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/csv?layers=3
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/geojson?layers=3
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/shapefile?layers=3
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/geojson?layers=3
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/kml?layers=3
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/filegdb?layers=3
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/featureCollection?layers=3
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/excel?layers=3
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/geoPackage?layers=3
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/4d832f443ed74916af891e2bff6d7c25/sqlite?layers=3
 schema: default
 title: Public toilets & comfort schemes
 ---

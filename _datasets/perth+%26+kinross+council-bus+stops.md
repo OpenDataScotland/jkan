@@ -23,15 +23,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/geojson?layers=5
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/kml?layers=5
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/filegdb?layers=5
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/featureCollection?layers=5
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/excel?layers=5
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/geoPackage?layers=5
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/675d9da2b89a422a8f9cc805f1f071cb/sqlite?layers=5
 schema: default
 title: Bus Stops
 ---

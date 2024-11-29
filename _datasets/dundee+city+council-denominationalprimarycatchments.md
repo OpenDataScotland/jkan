@@ -4,7 +4,7 @@ category:
 - Education
 - Planning and Development
 date_created: '2024-11-01'
-date_updated: '2024-11-08'
+date_updated: '2024-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<div><b><font size='4'>WARNING<br /></font></b><div><span style='background-color:rgb(255,\
@@ -39,7 +39,10 @@ notes: "<div><b><font size='4'>WARNING<br /></font></b><div><span style='backgro
   \ ArcGIS Field</li><li>Desktop apps like ArcGIS Pro</li></ul></div><div>Links to\
   \ this layer can also be found in:</div><div><ul><li><a href='https://data.dundeecity.gov.uk/datasets/dundeecity::uprns-with-school-catchments/about'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>Dundee Council open data\
-  \ portal</a>\_- for technical specialists to download and exploring the data\_</li><li>One\
+  \ portal</a>\_- for technical specialists to download and exploring the data\_</li><li><a\
+  \ href='https://data.spatialhub.scot/dataset/school_catchments-dc' target='_blank'\
+  \ rel='nofollow ugc noopener noreferrer'>Improvement Service Spatial Hub</a>\_-\
+  \ included in a national dataset that is collated and distributed by IS.\_\_</li><li>One\
   \ Dundee GIS Portal based on ArcGIS Enterprise - for DCC staff on internal DCC devices\
   \ - <b>TBD</b></li><li>Scottish Government spatial data portal\_ - <b>TBD</b></li><li>data.gov.uk\
   \ - <b>TBD</b></li></ul></div></div>\n<div><span style='font-size:large;'><b>Usage\
@@ -63,12 +66,13 @@ notes: "<div><b><font size='4'>WARNING<br /></font></b><div><span style='backgro
   \ layer is used to create the following items for use in system integrations:</div><div><div><ul><li><a\
   \ href='https://data.dundeecity.gov.uk/datasets/dundeecity::uprns-with-school-catchments/about'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>UPRNs with school catchments</a>\_\
-  - intended for use in live integrations like Firmstep\\Granicus. This can provide\
-  \ all the relevant catchments for a UPRN without needing to know the XY coordinates.</li><li><a\
-  \ href='https://data.dundeecity.gov.uk/datasets/8790bb869f1b4f609a8e24dd28c1feba/about'\
+  - map layer intended for use in live integrations like <b>Firmstep\\Granicus</b>.\
+  \ This can be queried to provide all the relevant catchments for a UPRN without\
+  \ needing to know the XY coordinates.</li><li><a href='https://data.dundeecity.gov.uk/datasets/8790bb869f1b4f609a8e24dd28c1feba/about'\
   \ target='_blank' rel='nofollow ugc noopener noreferrer'>UPRN to school catchment\
-  \ seedcode lookup tables</a>\_- intended for use in disconnected integrations like\
-  \ SEEMIS, but may also be of use in Firmstep/Granicus\_</li></ul></div><div></div></div><p><br\
+  \ seedcode lookup tables</a>\_- collection of CSV files intended for use in disconnected\
+  \ integrations like <b>SEEMIS</b>, but may also be used to remove dependency on\
+  \ a live integration in Firmstep/Granicus.</li></ul></div><div></div></div><p><br\
   \ /></p></div>"
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::denominationalprimarycatchments
@@ -80,24 +84,39 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/SchoolsAndCatchments/FeatureServer/2
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/csv?layers=2
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/shapefile?layers=2
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/geojson?layers=2
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/kml?layers=2
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/filegdb?layers=2
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/featureCollection?layers=2
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/excel?layers=2
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/geoPackage?layers=2
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/sqlite?layers=2
 - format: No file type
   name: No file type
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/SchoolsAndCatchments/FeatureServer
 - format: WEB FEATURE SERVICE (WFS)
   name: WEB FEATURE SERVICE (WFS)
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/SchoolsAndCatchments_Current/WFSServer?service=wfs&request=getcapabilities
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/csv?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/geojson?layers=2
-- format: ZIP
-  name: Shapefile
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/shapefile?layers=2
-- format: KML
-  name: KML
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/ae3e2864981c4e268bfe37b641321e6c/kml?layers=2
 schema: default
 title: DenominationalPrimaryCatchments
 ---

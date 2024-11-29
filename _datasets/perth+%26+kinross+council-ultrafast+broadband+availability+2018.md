@@ -29,15 +29,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/geojson?layers=5
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/kml?layers=5
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/filegdb?layers=5
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/featureCollection?layers=5
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/excel?layers=5
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/geoPackage?layers=5
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/ab877fa88f8d46dd8682794e04bd1621/sqlite?layers=5
 schema: default
 title: Ultrafast Broadband Availability 2018
 ---

@@ -25,9 +25,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/79858d1051d646f5b7888dc5bd92822e/csv?layers=26
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/79858d1051d646f5b7888dc5bd92822e/shapefile?layers=26
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/79858d1051d646f5b7888dc5bd92822e/geojson?layers=26
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/79858d1051d646f5b7888dc5bd92822e/kml?layers=26
 schema: default
 title: Fixed Penalty Notices
 ---

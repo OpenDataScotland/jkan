@@ -27,15 +27,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/sqlite?layers=6
 schema: default
 title: LDP2019 Wildlife Corridor
 ---

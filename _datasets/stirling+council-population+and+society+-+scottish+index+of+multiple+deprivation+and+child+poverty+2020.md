@@ -59,15 +59,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c14b811acd4145c78f3bdddb1e376d59/sqlite?layers=0
 schema: default
 title: Population and society - scottish index of multiple deprivation and child poverty
   2020

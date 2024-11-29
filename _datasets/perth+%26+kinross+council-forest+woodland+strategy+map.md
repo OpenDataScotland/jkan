@@ -64,15 +64,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/geojson?layers=4
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/filegdb?layers=4
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/featureCollection?layers=4
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/excel?layers=4
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/geoPackage?layers=4
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/f3d4c65b022c4cecbd3b1886d68ed8d6/sqlite?layers=4
 schema: default
 title: Forest Woodland Strategy Map
 ---

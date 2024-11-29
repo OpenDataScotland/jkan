@@ -38,15 +38,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/4fc2d4c10f7f417f9060a5ccd6f01627/sqlite?layers=0
 schema: default
 title: Open data - stirling council primary schools
 ---

@@ -44,24 +44,39 @@ resources:
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/HLA22_23_Final/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/sqlite?layers=0
 - format: ARCGIS REST API
   name: ARCGIS REST API
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/HLA22_23_Final/FeatureServer
 - format: WEB FEATURE SERVICE (WFS)
   name: WEB FEATURE SERVICE (WFS)
   url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Housing_Land_Audit_2023/WFSServer?service=wfs&request=getcapabilities
-- format: CSV
-  name: CSV
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/geojson?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/shapefile?layers=0
-- format: KML
-  name: KML
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/9071a7db843f4627abbe2351974d4a4e/kml?layers=0
 schema: default
 title: Dundee Housing Land Audit 2023
 ---

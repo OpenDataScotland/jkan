@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/csv?layers=3
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/geojson?layers=3
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/shapefile?layers=3
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/geojson?layers=3
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/kml?layers=3
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/filegdb?layers=3
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/featureCollection?layers=3
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/excel?layers=3
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/geoPackage?layers=3
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a84e046b0b624300bf2f2b8db6ea4a25/sqlite?layers=3
 schema: default
 title: Planning - countryside settlement boundaries
 ---

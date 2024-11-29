@@ -21,15 +21,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/geojson?layers=5
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/kml?layers=5
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/filegdb?layers=5
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/featureCollection?layers=5
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/excel?layers=5
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/geoPackage?layers=5
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/19c734e9091e4642a3aebfda031f49e2/sqlite?layers=5
 schema: default
 title: Better Business Partnership
 ---

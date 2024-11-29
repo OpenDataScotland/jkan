@@ -3,7 +3,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2022-08-23'
-date_updated: '2024-11-12'
+date_updated: '2024-11-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p style='box-sizing:border-box; margin-top:0px; margin-bottom:10px; color:rgb(36,\
@@ -43,15 +43,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/csv?layers=5
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/geojson?layers=5
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/shapefile?layers=5
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/geojson?layers=5
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/kml?layers=5
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/filegdb?layers=5
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/featureCollection?layers=5
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/excel?layers=5
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/geoPackage?layers=5
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/aed5fe29dbca4e388d887e495089676e/sqlite?layers=5
 schema: default
 title: BUS SHELTERS
 ---

@@ -24,15 +24,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/csv?layers=27
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/geojson?layers=27
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/shapefile?layers=27
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/geojson?layers=27
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/kml?layers=27
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/filegdb?layers=27
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/featureCollection?layers=27
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/excel?layers=27
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/geoPackage?layers=27
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/a622023e8f63489c8dc05b1aefa5bd46/sqlite?layers=27
 schema: default
 title: Library Locations
 ---

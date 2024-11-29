@@ -20,12 +20,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c4368cabd1c450dbedf90584f9a1216/csv?layers=8
-- format: GEOJSON
-  name: GeoJSON
-  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c4368cabd1c450dbedf90584f9a1216/geojson?layers=8
 - format: ZIP
   name: Shapefile
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c4368cabd1c450dbedf90584f9a1216/shapefile?layers=8
+- format: GEOJSON
+  name: GeoJSON
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c4368cabd1c450dbedf90584f9a1216/geojson?layers=8
 - format: KML
   name: KML
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c4368cabd1c450dbedf90584f9a1216/kml?layers=8

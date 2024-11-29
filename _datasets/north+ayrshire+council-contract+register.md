@@ -25,9 +25,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/02d5148515024fb1bf338705de49c831/csv?layers=34
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/02d5148515024fb1bf338705de49c831/shapefile?layers=34
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/02d5148515024fb1bf338705de49c831/geojson?layers=34
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/02d5148515024fb1bf338705de49c831/kml?layers=34
 schema: default
 title: Contract Register
 ---

@@ -51,15 +51,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/geojson?layers=0
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f21f4b8f593a4ded85e2ab06052d9cff/sqlite?layers=0
 schema: default
 title: Planning - local development plan infrastructure provisions
 ---

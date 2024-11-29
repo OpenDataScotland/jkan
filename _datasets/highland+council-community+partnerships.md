@@ -24,15 +24,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d32e10b6d44043098f3f4fb5c31785f3/sqlite?layers=0
 schema: default
 title: Community Partnerships
 ---

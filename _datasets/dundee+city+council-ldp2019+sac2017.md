@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/csv?layers=24
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=24
 - format: ZIP
   name: Shapefile
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/shapefile?layers=24
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geojson?layers=24
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/kml?layers=24
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/filegdb?layers=24
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/featureCollection?layers=24
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/excel?layers=24
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/geoPackage?layers=24
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/35e2d994b53f42b990e4000f0f71c0f7/sqlite?layers=24
 schema: default
 title: LDP2019 SAC2017
 ---

@@ -61,9 +61,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/a31ab0fac25e44fe9288b0b9822e02f9/csv?layers=16
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/a31ab0fac25e44fe9288b0b9822e02f9/shapefile?layers=16
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/a31ab0fac25e44fe9288b0b9822e02f9/geojson?layers=16
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/a31ab0fac25e44fe9288b0b9822e02f9/kml?layers=16
 schema: default
 title: Domestic Waste Collections
 ---

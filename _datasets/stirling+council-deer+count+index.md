@@ -95,9 +95,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/csv?layers=1
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/shapefile?layers=1
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geojson?layers=1
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/sqlite?layers=1
 schema: default
 title: Deer Count Index
 ---

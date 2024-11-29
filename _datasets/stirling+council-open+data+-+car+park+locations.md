@@ -41,15 +41,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/csv?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/geojson?layers=1
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/shapefile?layers=1
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/geojson?layers=1
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/071c23bf4a3f4d4bbf13af0b8f8582fc/sqlite?layers=1
 schema: default
 title: Open data - car park locations
 ---

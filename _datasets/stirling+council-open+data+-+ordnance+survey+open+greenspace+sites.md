@@ -41,15 +41,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/csv?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/geojson?layers=1
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/shapefile?layers=1
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/geojson?layers=1
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/54143a52078d48359126e7bde9f47987/sqlite?layers=1
 schema: default
 title: Open data - ordnance survey open greenspace sites
 ---

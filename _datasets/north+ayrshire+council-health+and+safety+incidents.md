@@ -31,9 +31,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c2fb9c098af4dd29abf1c01c0968721/csv?layers=27
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c2fb9c098af4dd29abf1c01c0968721/shapefile?layers=27
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c2fb9c098af4dd29abf1c01c0968721/geojson?layers=27
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2c2fb9c098af4dd29abf1c01c0968721/kml?layers=27
 schema: default
 title: Health and Safety Incidents
 ---

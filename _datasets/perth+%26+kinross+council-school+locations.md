@@ -21,15 +21,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/csv?layers=55
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/geojson?layers=55
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/shapefile?layers=55
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/geojson?layers=55
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/kml?layers=55
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/filegdb?layers=55
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/featureCollection?layers=55
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/excel?layers=55
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/geoPackage?layers=55
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/003057f599074cfca285d77a52c23330/sqlite?layers=55
 schema: default
 title: School Locations
 ---

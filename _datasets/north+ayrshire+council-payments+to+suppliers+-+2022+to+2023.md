@@ -19,9 +19,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9813963ca69b468dbe0a4481b8879b55/csv?layers=10
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9813963ca69b468dbe0a4481b8879b55/shapefile?layers=10
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9813963ca69b468dbe0a4481b8879b55/geojson?layers=10
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/9813963ca69b468dbe0a4481b8879b55/kml?layers=10
 schema: default
 title: Payments to Suppliers - 2022 to 2023
 ---

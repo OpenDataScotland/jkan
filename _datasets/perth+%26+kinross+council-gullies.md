@@ -22,15 +22,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/csv?layers=48
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/geojson?layers=48
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/shapefile?layers=48
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/geojson?layers=48
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/kml?layers=48
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/filegdb?layers=48
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/featureCollection?layers=48
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/excel?layers=48
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/geoPackage?layers=48
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/67aced658b5442b3a01da4c1c80ee7f6/sqlite?layers=48
 schema: default
 title: Gullies
 ---

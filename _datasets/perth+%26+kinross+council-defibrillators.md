@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/csv?layers=28
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/geojson?layers=28
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/shapefile?layers=28
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/geojson?layers=28
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/kml?layers=28
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/filegdb?layers=28
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/featureCollection?layers=28
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/excel?layers=28
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/geoPackage?layers=28
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/528374ef3a2a4100a896f2205e3f1790/sqlite?layers=28
 schema: default
 title: Defibrillators
 ---

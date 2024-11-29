@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/csv?layers=14
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/geojson?layers=14
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/shapefile?layers=14
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/geojson?layers=14
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/kml?layers=14
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/4f2b1df71d9e472493dbc18881cd9ac2/filegdb?layers=14
 schema: default
 title: Adopted Roads - Indicative only
 ---

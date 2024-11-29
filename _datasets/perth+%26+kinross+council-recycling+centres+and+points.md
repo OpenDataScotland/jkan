@@ -21,15 +21,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/csv?layers=28
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/geojson?layers=28
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/shapefile?layers=28
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/geojson?layers=28
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/kml?layers=28
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/cc021467dcad43d4816bef3d369e7505/filegdb?layers=28
 schema: default
 title: Recycling Centres and Points
 ---

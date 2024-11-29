@@ -54,15 +54,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/csv?layers=10
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/geojson?layers=10
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/shapefile?layers=10
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/geojson?layers=10
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/kml?layers=10
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/filegdb?layers=10
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/featureCollection?layers=10
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/excel?layers=10
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/geoPackage?layers=10
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/854410e357bc4f02ab14285d01fab37f/sqlite?layers=10
 schema: default
 title: Open data - naturescot ramsar wetlands of international importance
 ---

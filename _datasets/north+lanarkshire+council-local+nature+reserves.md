@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/csv?layers=10
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/geojson?layers=10
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/shapefile?layers=10
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/geojson?layers=10
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/kml?layers=10
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/32f011d4fe0b4321b234cda2e965649e/filegdb?layers=10
 schema: default
 title: Local Nature Reserves
 ---

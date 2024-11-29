@@ -23,9 +23,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/9e72bdfb458f4436ad65928a26d0d31c/kml?layers=0
 schema: default
 title: CCTV Data Counts December 2023
 ---

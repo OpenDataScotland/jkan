@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/geojson?layers=4
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/kml?layers=4
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/59071aba35bc45978b6c929c90828e00/filegdb?layers=4
 schema: default
 title: Denominational Secondary Schools Catchments
 ---

@@ -47,15 +47,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geojson?layers=6
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/sqlite?layers=6
 schema: default
 title: Bus Routes
 ---

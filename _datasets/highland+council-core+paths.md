@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2018-10-02'
-date_updated: '2024-10-01'
+date_updated: '2024-11-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Core paths are a system of paths, track and other routes identified by
@@ -27,12 +27,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/csv?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/geojson?layers=0
 - format: ZIP
   name: Shapefile
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/geojson?layers=0
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/4ff063a3130b4914bec21d1e90434b5c/kml?layers=0

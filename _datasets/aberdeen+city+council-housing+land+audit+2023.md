@@ -33,12 +33,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/3e20905f70ef474d95b03d548e57f1e6/csv?layers=92
-- format: GEOJSON
-  name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/3e20905f70ef474d95b03d548e57f1e6/geojson?layers=92
 - format: ZIP
   name: Shapefile
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/3e20905f70ef474d95b03d548e57f1e6/shapefile?layers=92
+- format: GEOJSON
+  name: GeoJSON
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/3e20905f70ef474d95b03d548e57f1e6/geojson?layers=92
 - format: KML
   name: KML
   url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/3e20905f70ef474d95b03d548e57f1e6/kml?layers=92

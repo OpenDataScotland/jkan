@@ -4,11 +4,11 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: '2018-02-06'
-date_updated: '2024-10-22'
+date_updated: '2024-11-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Population estimates for all geography types in Scotland:\r\n\r\n\u2022\tData
-  Zone (2011) from 2011 to 2021\r\n\u2022\tIntermediate Zone (2011) from 2011 to 2021\r\n\u2022\tCouncil
+  Zone (2011) from 2011 to 2022\r\n\u2022\tIntermediate Zone (2011) from 2011 to 2022\r\n\u2022\tCouncil
   Area (2019) from 1982 to 2023\r\n\u2022\tHealth and Social Care Partnership (2019)
   from 1982 to 2023\r\n\u2022\tHealth Board (2019) from 1981 to 2023\r\n\r\nAll resources
   include Scotland figures for the relevant time period.\r\nPopulation estimates are
@@ -22,10 +22,10 @@ records: null
 resources:
 - format: CSV
   name: Data Zone (2011) Population Estimates
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c505f490-c201-44bd-abd1-1bd7a64285ee/download/dz2011-pop-est_09092022.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/c505f490-c201-44bd-abd1-1bd7a64285ee/download/dz2011-pop-est_21112024.csv
 - format: CSV
   name: Intermediate Zone (2011) Population Estimates
-  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_09092022.csv
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/93df4c88-f74b-4630-abd8-459a19b12f47/download/iz2011-pop-est_21112024.csv
 - format: CSV
   name: Council Area (2019) Population Estimates
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/09ebfefb-33f4-4f6a-8312-2d14e2b02ace/download/ca2019_pop_est_14102024.csv

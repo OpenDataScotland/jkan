@@ -67,15 +67,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/csv?layers=12
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/geojson?layers=12
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/shapefile?layers=12
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/geojson?layers=12
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/kml?layers=12
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/filegdb?layers=12
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/featureCollection?layers=12
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/excel?layers=12
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/geoPackage?layers=12
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8fe065def74b4c78951ab67c1e374d2d/sqlite?layers=12
 schema: default
 title: Planning - stirling council area planning policy boundaries
 ---

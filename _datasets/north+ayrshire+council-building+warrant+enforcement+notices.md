@@ -31,9 +31,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/0d8cac29b85a43ddb0fba04759b0c01d/csv?layers=24
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/0d8cac29b85a43ddb0fba04759b0c01d/shapefile?layers=24
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/0d8cac29b85a43ddb0fba04759b0c01d/geojson?layers=24
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/0d8cac29b85a43ddb0fba04759b0c01d/kml?layers=24
 schema: default
 title: Building Warrant Enforcement Notices
 ---

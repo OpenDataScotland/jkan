@@ -47,15 +47,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/csv?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geojson?layers=2
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/shapefile?layers=2
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geojson?layers=2
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/kml?layers=2
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/filegdb?layers=2
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/featureCollection?layers=2
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/excel?layers=2
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/geoPackage?layers=2
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/977181964ef242788561a8bef5860b56/sqlite?layers=2
 schema: default
 title: ForthBike Locations
 ---

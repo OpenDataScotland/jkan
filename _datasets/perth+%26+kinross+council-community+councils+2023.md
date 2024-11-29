@@ -29,15 +29,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/csv?layers=28
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/geojson?layers=28
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/shapefile?layers=28
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/geojson?layers=28
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/kml?layers=28
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/filegdb?layers=28
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/featureCollection?layers=28
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/excel?layers=28
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/geoPackage?layers=28
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/sqlite?layers=28
 schema: default
 title: Community Councils 2023
 ---

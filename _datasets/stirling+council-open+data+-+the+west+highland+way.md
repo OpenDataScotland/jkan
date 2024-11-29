@@ -30,12 +30,12 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/91453426bbc54cd490e790cb993146b3/csv?layers=4
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/91453426bbc54cd490e790cb993146b3/geojson?layers=4
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/91453426bbc54cd490e790cb993146b3/shapefile?layers=4
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/91453426bbc54cd490e790cb993146b3/geojson?layers=4
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/91453426bbc54cd490e790cb993146b3/kml?layers=4

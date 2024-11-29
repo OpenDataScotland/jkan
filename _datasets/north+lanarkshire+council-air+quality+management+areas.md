@@ -19,15 +19,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/csv?layers=15
-- format: GEOJSON
-  name: GeoJSON
-  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/geojson?layers=15
 - format: ZIP
   name: Shapefile
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/shapefile?layers=15
+- format: GEOJSON
+  name: GeoJSON
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/geojson?layers=15
 - format: KML
   name: KML
   url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/kml?layers=15
+- format: ZIP
+  name: File Geodatabase
+  url: https://gisdata-nlcmaps.opendata.arcgis.com/api/download/v1/items/cfaf3fe8dc044953a01f7f7409501761/filegdb?layers=15
 schema: default
 title: Air Quality Management Areas
 ---

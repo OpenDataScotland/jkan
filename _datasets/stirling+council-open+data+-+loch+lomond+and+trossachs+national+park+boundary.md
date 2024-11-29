@@ -32,15 +32,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/csv?layers=8
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/geojson?layers=8
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/shapefile?layers=8
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/geojson?layers=8
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/kml?layers=8
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/filegdb?layers=8
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/featureCollection?layers=8
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/excel?layers=8
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/geoPackage?layers=8
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8e9a38d7c2104f299f2cf4a185450e4f/sqlite?layers=8
 schema: default
 title: Open data - loch lomond and trossachs national park boundary
 ---

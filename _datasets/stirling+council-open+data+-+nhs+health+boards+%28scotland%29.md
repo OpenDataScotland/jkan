@@ -35,15 +35,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/csv?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/geojson?layers=2
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/shapefile?layers=2
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/geojson?layers=2
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/kml?layers=2
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/filegdb?layers=2
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/featureCollection?layers=2
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/excel?layers=2
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/geoPackage?layers=2
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/74b4d2353b184bb19afc9fe8263851be/sqlite?layers=2
 schema: default
 title: Open data - nhs health boards (scotland)
 ---

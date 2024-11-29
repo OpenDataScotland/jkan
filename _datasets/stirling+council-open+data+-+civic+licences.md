@@ -33,9 +33,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/dd4399bcaf5b4a64846ce0ac124bc5df/sqlite?layers=0
 schema: default
 title: Open data - civic licences
 ---

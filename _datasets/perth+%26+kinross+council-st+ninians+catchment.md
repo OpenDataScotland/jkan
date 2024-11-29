@@ -20,15 +20,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/csv?layers=6
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/geojson?layers=6
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/shapefile?layers=6
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/geojson?layers=6
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/kml?layers=6
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/filegdb?layers=6
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/featureCollection?layers=6
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/excel?layers=6
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/geoPackage?layers=6
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/fbdc66795b4f4479bc6d0b9aa2f759ab/sqlite?layers=6
 schema: default
 title: St Ninians Catchment
 ---

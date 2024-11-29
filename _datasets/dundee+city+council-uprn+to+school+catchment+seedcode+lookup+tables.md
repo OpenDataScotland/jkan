@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-11-08'
-date_updated: '2024-11-11'
+date_updated: '2024-11-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p><span style='background-color:rgb(255, 255, 0);'><font size='4'><b>WARNING<br\
@@ -21,11 +21,12 @@ notes: "<p><span style='background-color:rgb(255, 255, 0);'><font size='4'><b>WA
   \ used within systems such as SEEMIS that have access to a separate source of address\
   \ information such as the Council's Corporate Address Gazetteer (CAG), One Scotland\
   \ Gazetteer (OSG) or Ordnance Survey AddressBase.</div><div><br /></div></div><div><font\
-  \ size='4'>Description</font></div><div>This collection includes the following CSV\
-  \ files:<div><ol><li>Dundee_UPRN_SEED_lookup_all.csv</li><li><span style='background-color:rgb(255,\
-  \ 255, 255);'>Dundee_UPRN_SEED_lookup_all_primary.csv - <b>required for use in SEEMIS</b></span></li><li><span\
-  \ style='background-color:rgb(255, 255, 255);'>Dundee_UPRN_SEED_lookup_all_secondary.csv\
-  \ - <b>required for use in SEEMIS</b></span></li><li>Dundee_UPRN_SEED_lookup_denom_primary.csv</li><li>Dundee_UPRN_SEED_lookup_denom_secondary.csv</li><li>Dundee_UPRN_SEED_lookup_non_denom_primary.csv</li><li>Dundee_UPRN_SEED_lookup_non_denom_secondary.csv</li></ol></div><div><b>Only\
+  \ size='4'>Description</font></div><div>This collection includes the following files:<div><ol><li>Dundee_UPRN_SEED_lookup_all.csv</li><li><span\
+  \ style='background-color:rgb(255, 255, 255);'>Dundee_UPRN_SEED_lookup_all_primary.csv\
+  \ - <b>required for use in SEEMIS</b></span></li><li><span style='background-color:rgb(255,\
+  \ 255, 255);'>Dundee_UPRN_SEED_lookup_all_secondary.csv - <b>required for use in\
+  \ SEEMIS</b></span></li><li>Dundee_UPRN_SEED_lookup_denom_primary.csv</li><li>Dundee_UPRN_SEED_lookup_denom_secondary.csv</li><li>Dundee_UPRN_SEED_lookup_non_denom_primary.csv</li><li>Dundee_UPRN_SEED_lookup_non_denom_secondary.csv</li><li>Schema.ini\
+  \ - explicitly sets UPRN datatype to text (with preceding zeroes) for use in excel</li></ol></div><div><b>Only\
   \ files 2 &amp; 3 are required for use in SEEMIS</b>. The other files are produced\
   \ by the same process and are provided here in case they are useful. The combined\
   \ files (1-3) will contain multiple records for each address. The remaining files\

@@ -19,15 +19,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/csv?layers=3
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/geojson?layers=3
 - format: ZIP
   name: Shapefile
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/shapefile?layers=3
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/geojson?layers=3
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/kml?layers=3
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/filegdb?layers=3
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/featureCollection?layers=3
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/excel?layers=3
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/geoPackage?layers=3
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/a80eae5c144a410eb598bcdb71ee4e38/sqlite?layers=3
 schema: default
 title: Open data - naturescot local nature reserves (scotland)
 ---

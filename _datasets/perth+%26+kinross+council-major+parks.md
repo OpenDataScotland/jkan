@@ -26,15 +26,30 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/csv?layers=32
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/geojson?layers=32
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/shapefile?layers=32
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/geojson?layers=32
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/kml?layers=32
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/filegdb?layers=32
+- format: TXT
+  name: Feature Collection
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/featureCollection?layers=32
+- format: MS EXCEL
+  name: Excel
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/excel?layers=32
+- format: GPKG
+  name: GeoPackage
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/geoPackage?layers=32
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/404cb0009d7a4346bb47eff1beeab51e/sqlite?layers=32
 schema: default
 title: Major Parks
 ---

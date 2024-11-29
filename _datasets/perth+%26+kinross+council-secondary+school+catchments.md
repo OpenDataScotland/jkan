@@ -22,15 +22,18 @@ resources:
 - format: CSV
   name: CSV
   url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/csv?layers=27
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/geojson?layers=27
 - format: ZIP
   name: Shapefile
   url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/shapefile?layers=27
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/geojson?layers=27
 - format: KML
   name: KML
   url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/kml?layers=27
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.pkc.gov.uk/api/download/v1/items/f0fafab524e4497da2779b48c25a92e6/filegdb?layers=27
 schema: default
 title: Secondary School Catchments
 ---

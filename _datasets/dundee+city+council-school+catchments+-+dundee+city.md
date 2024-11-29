@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2023-06-30'
+date_updated: '2024-11-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -42,16 +42,16 @@ records: null
 resources:
 - format: REST
   name: Denominational Primary Catchments
-  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/1
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/SchoolsAndCatchments/FeatureServer/2
 - format: REST
   name: Denominational Secondary Catchments
-  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/2
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/SchoolsAndCatchments/FeatureServer/4
 - format: REST
   name: Non-Denominational Primary Catchments
-  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/3
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/SchoolsAndCatchments/FeatureServer/3
 - format: REST
   name: Non-Denominational Secondary Catchments
-  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/School_Catchments_2013/FeatureServer/4
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/SchoolsAndCatchments/FeatureServer/1
 schema: default
 title: School Catchments - Dundee City
 ---

@@ -34,9 +34,15 @@ resources:
 - format: CSV
   name: CSV
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2ca19249ff124d65af5d9bbc8988f749/csv?layers=25
+- format: ZIP
+  name: Shapefile
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2ca19249ff124d65af5d9bbc8988f749/shapefile?layers=25
 - format: GEOJSON
   name: GeoJSON
   url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2ca19249ff124d65af5d9bbc8988f749/geojson?layers=25
+- format: KML
+  name: KML
+  url: https://maps-north-ayrshire.opendata.arcgis.com/api/download/v1/items/2ca19249ff124d65af5d9bbc8988f749/kml?layers=25
 schema: default
 title: Planning Applications
 ---
