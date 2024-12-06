@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2024-09-10'
+date_updated: '2024-12-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items prescribed and subsequently dispensed
@@ -13,7 +13,9 @@ notes: <p>This dataset contains details of items prescribed and subsequently dis
   publications</a>.\r\n\r\nNHS Scotland has introduced a new dispensing contractor
   payment process and system. Due to this new system, data from May 2023 onwards should
   be treated as provisional. Data from May 2023 onwards may not be directly comparable
-  to data published previously and should be interpreted with caution.</p>
+  to data published previously and should be interpreted with caution.\r\n\r\nWe are
+  aware of an ongoing issue with Prescriber Type 'Community Pharmacist' returning
+  0 items.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed
 records: null

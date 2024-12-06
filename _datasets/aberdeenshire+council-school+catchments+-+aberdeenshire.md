@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2024-02-26'
+date_updated: '2024-12-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -41,14 +41,14 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-
 records: null
 resources:
 - format: ZIP
-  name: Primary School Catchments
-  url: https://data.spatialhub.scot/dataset/bacf6765-c8a1-4bbf-86ce-78e3c89e826c/resource/bab5a071-fe76-47a9-a3bb-17ac8e084a13/download/psc.zip
-- format: ZIP
   name: Secondary School Catchments
   url: https://data.spatialhub.scot/dataset/bacf6765-c8a1-4bbf-86ce-78e3c89e826c/resource/7d1b6ac2-c23e-4b47-b9c7-228860317d99/download/secondaryschoolcatchments.zip
 - format: OTHER
   name: Map of Catchment Areas
   url: https://gis.aberdeenshire.gov.uk/maps/
+- format: ZIP
+  name: Primary School Catchments
+  url: https://data.spatialhub.scot/dataset/bacf6765-c8a1-4bbf-86ce-78e3c89e826c/resource/2b7ef0c7-9ce9-4050-8512-181fde7a3f35/download/primary_school_catchments.zip
 schema: default
 title: School Catchments - Aberdeenshire
 ---

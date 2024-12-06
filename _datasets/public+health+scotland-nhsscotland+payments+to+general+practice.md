@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2021-01-14'
-date_updated: '2024-11-26'
+date_updated: '2024-12-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This annual release produced by Public Health Scotland in partnership with

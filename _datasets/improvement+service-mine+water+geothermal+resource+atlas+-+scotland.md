@@ -7,7 +7,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-04-11'
-date_updated: '2024-09-26'
+date_updated: '2024-12-06'
 license: 'Custom licence: Other (Open)'
 maintainer: Improvement Service
 notes: "<p>A Web Mapping Tile Service (WMTS) layer identifying optimal locations across\

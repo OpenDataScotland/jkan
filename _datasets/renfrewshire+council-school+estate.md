@@ -1,0 +1,15 @@
+---
+category:
+- Education
+date_created: '2023-12-18'
+date_updated: '2024-10-04'
+license: No licence
+maintainer: Renfrewshire Council
+notes: ''
+organization: Renfrewshire Council
+original_dataset_link: https://www.arcgis.com/home/item.html?id=fe8d7eb4d99f40ada1b9ad14411406dc
+records: null
+resources: []
+schema: default
+title: SCHOOL ESTATE
+---

@@ -6,14 +6,14 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-09-04'
-date_updated: '2024-11-11'
+date_updated: '2024-12-06'
 license: No licence
 maintainer: Dundee City Council
 notes: "<p style='margin-top:0pt; margin-bottom:12pt; font-size:12pt; font-family:Calibri;'><span\
   \ style='font-family:inherit; background-image:initial; background-position:initial;\
   \ background-size:initial; background-repeat:initial; background-attachment:initial;\
-  \ background-origin:initial; background-clip:initial;'><b>Dundee Draft Housing Land\
-  \ Audit 2024</b></span></p>\n<p style='margin-top:0pt; margin-bottom:12pt; font-size:12pt;\
+  \ background-origin:initial; background-clip:initial;'><b>Dundee Housing Land Audit\
+  \ 2024</b></span></p>\n<p style='margin-top:0pt; margin-bottom:12pt; font-size:12pt;\
   \ font-family:Calibri;'><span style='font-family:inherit; background-image:initial;\
   \ background-position:initial; background-size:initial; background-repeat:initial;\
   \ background-attachment:initial; background-origin:initial; background-clip:initial;'>The\
@@ -44,15 +44,15 @@ notes: "<p style='margin-top:0pt; margin-bottom:12pt; font-size:12pt; font-famil
   \ background-origin:initial; background-clip:initial;'>Please email any queries\
   \ to localdevplan@dundeecity.gov.uk</span></p>"
 organization: Dundee City Council
-original_dataset_link: https://data.dundeecity.gov.uk/apps/dundeecity::dundee-draft-housing-land-audit-2024
+original_dataset_link: https://data.dundeecity.gov.uk/apps/dundeecity::dundee-housing-land-audit-2024
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.dundeecity.gov.uk/apps/dundeecity::dundee-draft-housing-land-audit-2024
+  url: https://data.dundeecity.gov.uk/apps/dundeecity::dundee-housing-land-audit-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://experience.arcgis.com/experience/62f63ccb3b5f4d4580551bd1f549a530/
 schema: default
-title: Dundee Draft Housing Land Audit 2024
+title: Dundee Housing Land Audit 2024
 ---
