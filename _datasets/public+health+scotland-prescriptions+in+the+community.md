@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2024-12-05'
+date_updated: '2024-12-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -40,7 +40,10 @@ records: null
 resources:
 - format: CSV
   name: Aggregated Data by Health Board - 2024
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc202408.csv
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc202409.csv
+- format: CSV
+  name: Data by Prescriber Location - September 2024
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/d1fbede3-98c4-436e-9e75-2ed807a36075/download/pitc202409.csv
 - format: CSV
   name: Data by Prescriber Location - August 2024
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/e4985a62-9d59-4e71-8800-3f7ca29ffe0c/download/pitc202408.csv
@@ -362,6 +365,9 @@ resources:
 - format: CSV
   name: Data by Prescriber Location - October 2015
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5/download/pitc201510.csv
+- format: CSV
+  name: Data by Dispenser Location - September 2024
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/40e36f3e-2d54-4645-aa51-ecee3dd27b2c/download/disp_pitc202409.csv
 - format: CSV
   name: Data by Dispenser Location - August 2024
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/a1675b63-bc91-45eb-8974-97274e6020b6/download/disp_pitc202408.csv

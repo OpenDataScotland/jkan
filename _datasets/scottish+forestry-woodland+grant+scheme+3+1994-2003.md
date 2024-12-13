@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-10-30'
-date_updated: '2020-01-24'
+date_updated: '2024-12-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to create\
@@ -22,7 +22,7 @@ notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to cre
   \ on Scotland's SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cc1f51699439430c968a507eaf9acca7
-records: 20140
+records: 20142
 resources: []
 schema: default
 title: Woodland Grant Scheme 3 1994-2003

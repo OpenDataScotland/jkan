@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2024-12-03'
+date_updated: '2024-12-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items prescribed and subsequently dispensed
@@ -22,7 +22,7 @@ records: null
 resources:
 - format: CSV
   name: Prescribed & Dispensed 2024
-  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/fa5bbede-475a-4ca9-a71f-3d521657e7c6/download/prescribed-dispensed-annual-2024.csv
+  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/fa5bbede-475a-4ca9-a71f-3d521657e7c6/download/2024-12-10-prescribed-dispensed-2024-annual.csv
 - format: CSV
   name: Prescribed & Dispensed 2023
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/9640860f-bd59-47da-a116-6b7a7d7c7bf8/download/2024-04-09-prescribed-dispensed-2023-annual.csv

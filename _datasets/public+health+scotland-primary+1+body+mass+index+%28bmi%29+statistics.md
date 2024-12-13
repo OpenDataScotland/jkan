@@ -7,7 +7,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-12-07'
-date_updated: '2023-12-13'
+date_updated: '2024-12-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Primary 1 Body Mass Index (BMI) statistics capture important information
@@ -72,6 +72,12 @@ resources:
 - format: CSV
   name: Clinical BMI by Deprivation at Council Area Level
   url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/442bb8f8-7e64-494a-bda2-6f31fa29c2b4/download/od_p1bmi_ca_simd_clin.csv
+- format: CSV
+  name: Epidemiological BMI categories in Primary 1 by ethnicity at Scotland level.
+  url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/683acf84-19e8-44f3-9637-45cbd5f37a2c/download/od_p1bmi_ethnicity_epi.csv
+- format: CSV
+  name: Clinical BMI categories in Primary 1 by ethnicity at Scotland level.
+  url: https://www.opendata.nhs.scot/dataset/01fe4008-23f8-4b34-b8f6-c38699a2f00d/resource/fbf3a70b-8c61-408a-bf62-096986fab460/download/od_p1bmi_ethnicity_clin.csv
 schema: default
 title: Primary 1 Body Mass Index (BMI) Statistics
 ---
