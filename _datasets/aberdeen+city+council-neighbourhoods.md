@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2021-02-23'
 date_updated: '2023-11-07'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: "<p>Neighbourhood Boundaries within Aberdeen City Council Local Authority area.\_\
   \ Last modified 2009 approx.</p>"

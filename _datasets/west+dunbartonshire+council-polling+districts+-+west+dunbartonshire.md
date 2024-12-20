@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-10-14'
+date_updated: '2024-12-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West Dunbartonshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -46,6 +46,9 @@ resources:
 - format: WFS
   name: Polling Districts
   url: https://dservices9.arcgis.com/wZYknYToxgELcbw2/arcgis/services/Existing_Polling_Place_PD/WFSServer?service=wfs&request=getcapabilities
+- format: WFS
+  name: Council of West Dunbartonshire
+  url: https://services9.arcgis.com/wZYknYToxgELcbw2/arcgis/rest/services/WDC_Community_Councils_2022/FeatureServer
 schema: default
 title: Polling Districts - West Dunbartonshire
 ---

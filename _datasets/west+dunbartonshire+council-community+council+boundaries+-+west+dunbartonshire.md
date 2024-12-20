@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-10-14'
+date_updated: '2024-12-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West Dunbartonshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -34,6 +34,9 @@ resources:
 - format: REST
   name: Council of West Dunbartonshire
   url: https://services9.arcgis.com/wZYknYToxgELcbw2/arcgis/rest/services/Community_Councils/FeatureServer
+- format: WFS
+  name: Council of West Dunbartonshire
+  url: https://services9.arcgis.com/wZYknYToxgELcbw2/arcgis/rest/services/WDC_Community_Councils_2022/FeatureServer
 schema: default
 title: Community Council Boundaries - West Dunbartonshire
 ---

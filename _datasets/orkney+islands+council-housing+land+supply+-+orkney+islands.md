@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-10-17'
+date_updated: '2024-12-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -22,6 +22,9 @@ resources:
 - format: ZIP
   name: Housing Land Audit 2023
   url: https://data.spatialhub.scot/dataset/cd27021e-7bd7-4dbc-9f74-c1def8e2efdc/resource/a45b9905-2196-4408-9f0f-cab0a9885970/download/housing-land-audit.zip
+- format: No file type
+  name: orkney_hla_2023
+  url: https://data.spatialhub.scot/dataset/cd27021e-7bd7-4dbc-9f74-c1def8e2efdc/resource/1aec8f03-5114-4dd2-8ec7-72df752fca49/download/orkney_hla_2023.gpkg
 schema: default
 title: Housing Land Supply - Orkney Islands
 ---

@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-06-07'
+date_updated: '2024-12-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -31,6 +31,9 @@ resources:
 - format: No file type
   name: clacks_hla_2023.gpkg
   url: https://data.spatialhub.scot/dataset/9d084fef-f20f-4a4f-8976-92d81dd8088c/resource/e461119c-1766-441d-a2cb-7b812d77a055/download/clacks_hla_2023.gpkg
+- format: No file type
+  name: clacks_hla_2022_23.gpkg
+  url: https://data.spatialhub.scot/dataset/9d084fef-f20f-4a4f-8976-92d81dd8088c/resource/7dad04eb-3807-4963-bf04-0639d9a97ce8/download/clacks_hla_2022_23.gpkg
 schema: default
 title: Housing Land Supply - Clackmannanshire
 ---
