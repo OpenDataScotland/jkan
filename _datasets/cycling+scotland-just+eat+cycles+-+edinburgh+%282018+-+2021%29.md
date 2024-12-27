@@ -15,8 +15,8 @@ resources:
   name: Just Eat Cycles - Edinburgh (2018 - 2021).json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=b9c67098-503c-482a-8b44-755add7534f3
 - format: CSV
-  name: Just Eat Cycles - Edinburgh (2018 - 2021).csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=688c78f3-7962-4a72-a2f6-4613a9b9f51d
+  name: Just_Eat_Cycles_2020-02.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6d4106c5-719c-40fa-b5e0-da2f56019327
 - format: XML
   name: Just Eat Cycles - Edinburgh (2018 - 2021).xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=5872e566-d5ac-4059-a38b-e2ae4a228fae
