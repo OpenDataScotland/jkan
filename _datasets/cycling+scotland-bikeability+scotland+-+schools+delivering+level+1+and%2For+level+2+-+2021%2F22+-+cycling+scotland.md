@@ -14,13 +14,12 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/97dce079-9615-47e6-b476-8ca96cd85424
 records: null
 resources:
-- format: CSV
-  name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2021/22
-    - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e27c7874-9af3-48f9-bded-844a1ceeeb5d
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/f76a2feb-5617-4779-baed-ebfe8543f05a/2/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/9c481129-40fe-4df6-8d1e-cab7eded94a0/2/urql
+- format: CSV
+  name: Schools delivering Level 1 and-or Level 2 in 2021-22.xlsx.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=6c4589fc-e8e0-4d6d-97c6-d1c880588f98
 - format: XML
   name: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2021/22
     - Cycling Scotland.xml
