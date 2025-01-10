@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-11-13'
-date_updated: '2023-04-12'
+date_updated: '2025-01-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council
@@ -27,6 +27,9 @@ resources:
 - format: REST
   name: Libraries
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Library_Locations/FeatureServer/27/query?outFields=*&where=1%3D1
+- format: OTHER
+  name: Libraries
+  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/a622023e8f63489c8dc05b1aefa5bd46_27/explore?location=56.457867%2C-3.609355%2C10.57
 schema: default
 title: Libraries - Perth and Kinross
 ---
