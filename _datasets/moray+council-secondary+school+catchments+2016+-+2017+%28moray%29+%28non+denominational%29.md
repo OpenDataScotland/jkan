@@ -21,7 +21,7 @@ notes: "<p>Secondary School Catchments 24/10/2016 - 13/08/2017 (Moray) (non deno
   \ they must  make an out-of-zone \u2018placing request\u2019.\_ </p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=f527fa3a9475430cb08a496817fcecd7
-records: null
+records: 8
 resources: []
 schema: default
 title: Secondary School Catchments 2016 - 2017 (Moray) (non denominational)

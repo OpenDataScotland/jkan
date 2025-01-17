@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: '2019-02-19'
-date_updated: '2024-10-21'
+date_updated: '2025-01-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains a lookup file of contact details for General Practitioners
@@ -15,6 +15,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/general-practitioner-contact-details
 records: null
 resources:
+- format: CSV
+  name: GP Details January 2025
+  url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/f2e3a351-1aaf-421b-8f47-6e9765c7cc0c/download/gp_contactdetails_jan2025-open-data.csv
 - format: CSV
   name: GP Details October 2024
   url: https://www.opendata.nhs.scot/dataset/daefc473-f49e-4b40-8bc5-366a8e7a759e/resource/37c3741d-04dd-4e24-9358-d4c7a3c479bc/download/gp_contactdetails_oct2024-open-data.csv

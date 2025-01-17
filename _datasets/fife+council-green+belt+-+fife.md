@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2024-04-11'
+date_updated: '2025-01-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -43,6 +43,9 @@ resources:
 - format: No file type
   name: Fife Green Belt
   url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
+- format: REST
+  name: Green Belt - Fife
+  url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Fife_Green_Belts/FeatureServer
 schema: default
 title: Green Belt - Fife
 ---

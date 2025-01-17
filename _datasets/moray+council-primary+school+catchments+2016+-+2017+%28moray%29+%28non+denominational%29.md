@@ -21,7 +21,7 @@ notes: "<p>Primary School Catchments 01/01/2016 - 13/08/2017 (Moray) (non denomi
   \ they must  make an out-of-zone \u2018placing request\u2019.\_ </p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=0828c75754324d5e99d53c779eddd30d
-records: null
+records: 43
 resources: []
 schema: default
 title: Primary School Catchments 2016 - 2017 (Moray) (non denominational)

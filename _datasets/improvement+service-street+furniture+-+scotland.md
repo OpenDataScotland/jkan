@@ -6,7 +6,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2024-01-31'
-date_updated: '2024-11-25'
+date_updated: '2025-01-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018Maintaining\
@@ -18,17 +18,17 @@ notes: "<p>In November 2004, Audit Scotland published a document entitled \u2018
   \ as such a requirement exists for a national dataset of information. This can include\
   \ (although is not limited to) features such as bollards, road signs, barriers,\
   \ parking bays, bus shelters, cattle grids, gates, street lighting columns, benches/seats,\
-  \ information boards, dog/litter/grit bins, cycle stands, ticket machines etc. etc.\
-  \  This dataset now includes 2 separate layers: Street Lighting Columns and general\
-  \ Street Furniture  We are currently only including street furniture types that\
-  \ have been provided by more than one local authority. These are: Benches, Bollards,\
-  \ Bus Infrastructure, Cattle Grids, Traffic Light Controllers, Barriers, Bridges,\
-  \ Cycle Parking, Dog Litter Bins, Electric Vehicle Charging Points, Snow Gates,\
-  \ Grit Bins, Litter Bins, Memorials, Pedestrian Crossings, Street Lighting Columns,\
-  \ Traffic Calming, Traffic Signals, Traffis Signs, Weather Stations and Water Related\
-  \ Structures (e.g. grates and grills)  We understand that some local authorities\
-  \ are loading this data into the VAULT system. We will work with the team managing\
-  \ the system to ensure that there is one definitive list in the future.</p>"
+  \ information boards, dog/litter/grit bins, cycle stands, ticket machines etc. etc.</p>\n\
+  <p>This dataset now includes 2 separate layers: Street Lighting Columns and general\
+  \ Street Furniture</p>\n<p>We are currently only including street furniture types\
+  \ that have been provided by more than one local authority. These are:\n Benches,\
+  \ Bollards, Bus Infrastructure, Cattle Grids, Traffic Light Controllers, Barriers,\
+  \ Bridges, Cycle Parking, Dog Litter Bins, Electric Vehicle Charging Points, Snow\
+  \ Gates, Grit Bins, Litter Bins, Memorials, Pedestrian Crossings, Traffic Calming,\
+  \ Traffic Signals, Traffis Signs, Weather Stations and Water Related Structures\
+  \ (e.g. grates and grills)</p>\n<p>We understand that some local authorities are\
+  \ loading this data into the VAULT system. We will work with the team managing the\
+  \ system to ensure that there is one definitive list in the future.</p>"
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-is'
 records: null
