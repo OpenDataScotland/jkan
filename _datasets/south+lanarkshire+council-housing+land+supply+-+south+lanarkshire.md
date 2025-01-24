@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2024-11-07'
+date_updated: '2025-01-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Lanarkshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -42,7 +42,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/8bbde581-f88c-4430-b879-43db02a71fe3/resource/f647a468-9aa7-4161-a87e-38730b3e0991/download/housing_land_supply_2022_2023_hlaa_finalised_250424_with_uprns.zip
 - format: ZIP
   name: SLC HLA 2022/23
-  url: https://data.spatialhub.scot/dataset/8bbde581-f88c-4430-b879-43db02a71fe3/resource/3c3beb90-56b2-46f3-a9dd-4925c975040b/download/slc_hlaa2023_joined.zip
+  url: https://data.spatialhub.scot/dataset/8bbde581-f88c-4430-b879-43db02a71fe3/resource/3c3beb90-56b2-46f3-a9dd-4925c975040b/download/slc_hlaa2023_is.zip
 schema: default
 title: Housing Land Supply - South Lanarkshire
 ---
