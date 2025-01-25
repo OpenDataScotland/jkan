@@ -6,7 +6,7 @@ description: >-
   to deliver improvement support that would help councils to provide effective
   community leadership, strong local governance and deliver high quality,
   efficient local services.
-logo: ''
+logo: 'https://www.improvementservice.org.uk/__data/assets/file/0021/11478/IS-Logo.svg'
 type:
   - Private company
 portal_url: 'https://data.spatialhub.scot'
