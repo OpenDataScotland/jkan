@@ -79,9 +79,15 @@ layout: default
           <tr>
             <th>License</th>
             <td>
+              {%- comment -%} Try to link to the common licence documentation {%- endcomment -%}
+              {% if site.data.licenses[page.license] != null %}
               <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
                 {{ site.data.licenses[page.license] }}
               </a>
+              {%- comment -%} If we don't recognise the licence then fall back to just displaying the raw value {%- endcomment -%}
+              {% else %}
+                  {{page.license}}
+              {% endif %}
             </td>
           </tr>
         {% endif %}
