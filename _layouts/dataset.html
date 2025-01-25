@@ -77,7 +77,16 @@ layout: default
       <table class="table table-striped dataset-details">
         {% if page.license and page.license != empty %}
           <tr>
-            <th>License</th>
+            <th>
+              License
+                <i class="fa-solid fa-info-circle text-primary" data-toggle="tooltip" data-placement="right" title="Please verify the licence information with the original source using the link below. Always check for attribution guidelines as required by the licence." data-placement="right" ></i>
+                
+                <script>
+                  $(function () {
+                    $('[data-toggle="tooltip"]').tooltip()
+                  })
+                </script>
+            </th>
             <td>
               {%- comment -%} Try to link to the common licence documentation {%- endcomment -%}
               {% if site.data.licenses[page.license] != null %}
