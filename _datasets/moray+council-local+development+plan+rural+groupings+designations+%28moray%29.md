@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-12-13'
-date_updated: '2023-11-20'
+date_updated: '2025-01-31'
 license: No licence
 maintainer: Moray Council
 notes: <p>The Local Development Plan 2015 was superseded by the Local Development

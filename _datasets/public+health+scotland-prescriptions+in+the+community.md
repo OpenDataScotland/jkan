@@ -3,20 +3,25 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2025-01-22'
+date_updated: '2025-01-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>There are three datasets included within this open data publication. The
-  'Data by Prescriber Location' file contains details of items dispensed in the community
-  at prescribing location code level for General Practice data and aggregated by NHS
-  Board for other prescriber location types. The 'Data by Dispenser Location' file
-  contains details of items dispensed in the community by NHS Scotland dispensers
-  at dispenser location code level and excludes Schedule 2 &amp; 3 controlled drugs.
-  The 'Aggregated Data by Health Board' file contains details of items dispensed in
-  the community at NHS Board of prescribing level. For all files items are described
-  at British National Formulary (BNF) item description and Dictionary of Medicines
-  &amp; Devices (dm+d) level.\r\n\r\nThe glossary of terms for this publication can
-  be found on the <a href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/">PHS
+notes: <p><strong>Please note that we are investigating an issue regarding the mapping
+  of the final digit of the DMDCode object for some files, which means that some codes
+  do not link to any medicine. This affects files from May 2023 to September 2024.
+  Files from October 2024 are unaffected. BNFItemCode is unaffected for all months.
+  For more information please email <a href="mailto:phs.prescribing@phs.scot">phs.prescribing@phs.scot</a>.</strong>\r\n\r\nThere
+  are three datasets included within this open data publication. The 'Data by Prescriber
+  Location' file contains details of items dispensed in the community at prescribing
+  location code level for General Practice data and aggregated by NHS Board for other
+  prescriber location types. The 'Data by Dispenser Location' file contains details
+  of items dispensed in the community by NHS Scotland dispensers at dispenser location
+  code level and excludes Schedule 2 &amp; 3 controlled drugs. The 'Aggregated Data
+  by Health Board' file contains details of items dispensed in the community at NHS
+  Board of prescribing level. For all files items are described at British National
+  Formulary (BNF) item description and Dictionary of Medicines &amp; Devices (dm+d)
+  level.\r\n\r\nThe glossary of terms for this publication can be found on the <a
+  href="https://publichealthscotland.scot/publications/monthly-prescribing-activity-data/">PHS
   publication page</a>. The date of the next release can be found on our list of <a
   href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
   publications</a>.\r\n\r\nNHS Scotland has introduced a new dispensing contractor

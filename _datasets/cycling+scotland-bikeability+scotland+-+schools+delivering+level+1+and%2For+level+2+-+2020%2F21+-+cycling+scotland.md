@@ -3,12 +3,12 @@ category:
 - Education
 - Transportation
 date_created: '2021-10-13'
-date_updated: '2021-10-25'
+date_updated: '2025-01-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Schools in Scotland which delivered Bikeability Scotland training in 2020/21.
-  Bikeability Scotland is a cycle training programme designed to give children the
-  skills and confidence they need both to cycle safely on the roads, and to encourage
+  Bikeability Scotland is the national cycle training programme designed to give children
+  the skills and confidence they need both to cycle safely on the roads, and to encourage
   them to carry on cycling into adulthood."</p>
 organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/abd9a110-9d4d-4b06-82e1-b3b6d1b3090f

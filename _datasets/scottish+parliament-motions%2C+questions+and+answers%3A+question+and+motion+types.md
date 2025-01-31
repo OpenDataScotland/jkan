@@ -2,7 +2,7 @@
 category:
 - Arts / Culture / History
 date_created: ''
-date_updated: '2025-01-14'
+date_updated: '2025-01-31'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of event types, events are a generic term for
