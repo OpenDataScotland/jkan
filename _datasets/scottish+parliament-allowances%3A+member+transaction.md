@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2025-01-26'
+date_updated: '2025-02-02'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of Allowance transactions from individual members.</p>

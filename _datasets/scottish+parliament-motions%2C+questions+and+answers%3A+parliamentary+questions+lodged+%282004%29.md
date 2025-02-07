@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2025-01-29'
+date_updated: '2025-02-07'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains all the questions lodged in the Parliament during
