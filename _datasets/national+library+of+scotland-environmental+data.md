@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: https://creativecommons.org/licenses/by/4.0/
+license: No licence
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland
