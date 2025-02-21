@@ -1,8 +1,8 @@
 ---
 category:
 - Food and Environment
-date_created: '2020-06-26'
-date_updated: '2020-10-20'
+date_created: '2021-04-01'
+date_updated: '2025-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: <div style='text-align:Left;'><div><div><p><span>Air Quality Management Areas
@@ -19,19 +19,19 @@ resources:
   url: https://spatialdata-accabdn.opendata.arcgis.com/datasets/accabdn::air-quality-management-areas-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Air_Quality_Management_Areas/FeatureServer/0
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Air_Quality_Management_Areas/FeatureServer/2
 - format: CSV
   name: CSV
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/csv?layers=0
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/csv?layers=2
 - format: ZIP
   name: Shapefile
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/shapefile?layers=0
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/shapefile?layers=2
 - format: GEOJSON
   name: GeoJSON
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/geojson?layers=0
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/geojson?layers=2
 - format: KML
   name: KML
-  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/kml?layers=0
+  url: https://spatialdata-accabdn.opendata.arcgis.com/api/download/v1/items/0ac95978a97c4adfbdab0c429f943c4e/kml?layers=2
 schema: default
 title: Air Quality - Management Areas
 ---

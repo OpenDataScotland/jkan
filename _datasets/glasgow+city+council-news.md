@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2022-10-07'
-date_updated: '2023-02-28'
+date_updated: '2025-02-19'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>We want to share the latest stories with our communities about developments

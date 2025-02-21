@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-10-14'
-date_updated: '2024-06-19'
+date_updated: '2025-02-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Waiting times information for Musculoskeletal (MSK) services that are delivered
