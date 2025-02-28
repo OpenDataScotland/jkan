@@ -24,7 +24,7 @@ export default class PopularDatasets {
     getPopularDatasets(datasets) {
         var currentClass = this;        
         $.ajax({
-            url: 'https://plausible.io/api/stats/opendata.scot/pages?period=7d&filters={%22page%22:%22/datasets/**%22}',
+            url: 'https://plausible.io/api/stats/opendata.scot/pages?period=7d&filters={%22page%22:%22/datasets/**%22}&limit=99',
             dataType: 'json',
             success: function (data) {
                 currentClass.setPopularDatasets(data, datasets);                
