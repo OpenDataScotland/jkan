@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-02-15'
-date_updated: '2025-02-15'
+date_updated: '2025-02-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>City Centre collections, only. Please refer to our other dataset for\
@@ -69,5 +69,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/78535e97f00a4308ba3f7fc324c283a1/sqlite?layers=0
 schema: default
-title: Waste collections city centre (march 2025-) open data
+title: Waste collections city centre (march 2025-) - open data
 ---

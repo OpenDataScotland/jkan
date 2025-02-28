@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2025-02-15'
-date_updated: '2025-02-15'
+date_updated: '2025-02-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>All collections apart from the City Centre which has a different collection\
@@ -70,5 +70,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/6e20410bf96644aaa4ba60a7df84bb4e/sqlite?layers=0
 schema: default
-title: Waste collections (march 2025-) open data
+title: Waste collections (march 2025-) - open data
 ---

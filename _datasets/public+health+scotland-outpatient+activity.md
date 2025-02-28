@@ -1,22 +1,22 @@
 ---
 category:
-- Business and Economy
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2024-11-26'
+date_updated: '2025-02-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Patients who require the medical opinion of a specialist clinician may be
-  referred to an outpatient clinic for treatment or investigation. An outpatient is
-  a patient who attends a consultant or other medical clinic or has an arranged meeting
-  with a consultant or a senior member of their team outside of a clinic session.
+notes: <p>"Patients who require the medical opinion of a specialist clinician may
+  be referred to an outpatient clinic for treatment or investigation. An outpatient
+  is a patient who attends a consultant or other medical clinic or has an arranged
+  meeting with a consultant or a senior member of their team outside of a clinic session.
   Outpatients are not admitted to a hospital and do not use a hospital bed.\r\n\r\nOutpatient
-  attendances can be categorised as new or follow-up (return) attendances. Information
-  on return appointments is only available for datasets that report on NHS Board of
-  treatment. Files reporting on the residency of patients only contain data for new
-  outpatients as the ISD(S)1 data source for return outpatients does not contain residence
-  information. ISD(S)1 also does not record information on the deprivation, age or
-  sex of patients.</p>
+  attendances can be categorised as new or follow-up (return) attendances. Please
+  note that there have been outpatient methodological changes for this publication.
+  Previously, the ISD(S)1 outpatients data source was used for return outpatient activity
+  due to poorer completeness for historical SMR00 return outpatients. SMR00 return
+  outpatients data are now more complete meaning SMR00 data can be used for both new
+  and return outpatients. As a result, publications from February 2025 onwards will
+  not be directly comparable to previous publications."</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
 records: null

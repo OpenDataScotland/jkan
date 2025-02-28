@@ -11,15 +11,15 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/69994a62-a157-4f3f-b5c3-46c7b18c95fc
 records: null
 resources:
-- format: CSV
-  name: National all-mode traffic survey results - September 2024 - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9643900a-da2b-44d0-b4c8-bc55acb8ad31
-- format: JSON
-  name: National all-mode traffic survey results - September 2024 - Cycling Scotland.json
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=be162709-8a8d-41b5-a678-aa209930f49e
 - format: XML
   name: National all-mode traffic survey results - September 2024 - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=731dc3fb-0ef4-4fa4-ba38-44a19213fed8
+- format: CSV
+  name: Scotland all mode traffic survey results - September 2024.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=938bdc88-ad9b-4fd8-bab0-9c85a9ca760a
+- format: JSON
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/de8d23eb-55c5-452f-8b31-00dad0ef023c/1/urql
 schema: default
 title: National all-mode traffic survey results - September 2024 - Cycling Scotland
 ---

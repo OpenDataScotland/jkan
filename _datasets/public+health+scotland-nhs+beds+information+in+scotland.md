@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2024-11-26'
+date_updated: '2025-02-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>To provide an effective, safe and efficient service to patients, hospitals
@@ -22,5 +22,5 @@ resources:
   name: Publication Notes
   url: https://www.opendata.nhs.scot/dataset/554b0e7a-ccac-4bb6-82db-1a8b306fcb36/resource/25bdc37b-4a77-4ff8-9b3a-edaba6e1c613/download/notes.csv
 schema: default
-title: Beds Information in Scotland
+title: NHS Beds information in Scotland
 ---

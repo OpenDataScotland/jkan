@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2025-02-21'
+date_updated: '2025-02-28'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Countryside Around Towns (CAT) (Moray)</p>
