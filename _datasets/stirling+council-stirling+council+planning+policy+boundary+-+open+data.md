@@ -46,12 +46,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces all previous
   development is planned in a holistic and integrated manner, balancing economic growth
   with social and environmental objectives.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-stirling-council-planning-policy-boundary
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::stirling-council-planning-policy-boundary-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-stirling-council-planning-policy-boundary
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::stirling-council-planning-policy-boundary-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/stirling_council_planning_policy_boundary/FeatureServer/4
@@ -83,5 +83,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1164b7cf2b7045348c8f293284a2c7fd/sqlite?layers=4
 schema: default
-title: Planning - stirling council planning policy boundary
+title: Stirling council planning policy boundary - open data
 ---

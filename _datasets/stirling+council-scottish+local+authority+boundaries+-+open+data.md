@@ -25,12 +25,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   definitive dataset is delineated by Ordnance Survey for inclusion in their BoundaryLine
   product.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-local-authority-boundaries
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scottish-local-authority-boundaries-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-local-authority-boundaries
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scottish-local-authority-boundaries-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/scottish_local_authority_boundaries/FeatureServer/4
@@ -62,5 +62,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/c9bc21079e5f4254bc1aad8b4188e9cb/sqlite?layers=4
 schema: default
-title: Open data - scottish local authority boundaries
+title: Scottish local authority boundaries - open data
 ---
