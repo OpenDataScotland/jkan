@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2022-05-04'
-date_updated: '2024-07-09'
+date_updated: '2025-03-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><span style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
@@ -35,15 +35,15 @@ notes: '<div><span style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir
   &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''><br
   /></span></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-master-stirling-and-clackmannanshire-public-transport-network
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::master-stirling-and-clackmannanshire-public-transport-network-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-master-stirling-and-clackmannanshire-public-transport-network
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::master-stirling-and-clackmannanshire-public-transport-network-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Interactive_Public_Transport_Map/FeatureServer
 schema: default
-title: Open data - master stirling and clackmannanshire public transport network
+title: Master stirling and clackmannanshire public transport network - open data
 ---

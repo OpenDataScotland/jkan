@@ -4,28 +4,27 @@ category:
 - Food and Environment
 - Health and Social Care
 - Housing and Estates
-- Sport and Leisure
 date_created: '2024-07-17'
 date_updated: '2025-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>This dataset is published as Open Data</b><br /></div>\n<div><br /></div>\n\
   <div>Extract of electronic burial records for\_<b>Killin Cemeteries</b>\_managed\
-  \ and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>Although this\
-  \ is not a full record of interments, the Council's Archives Service holds additional\
-  \ burial and lair information, especially for funerals prior to 1900, and can be\
-  \ contacted directly for further assistance.</div>\n<div><br /></div>\n<div>Information\
-  \ on arranging a funeral can be obtained from the Births, deaths and marriages page\
-  \ on the Stirling Council\u2019s website.</div>\n<div><br /></div>\n<div>National\
-  \ Records of Scotland and Scotland\u2019s People provide useful information for\
-  \ those wishing to research their family tree.</div>"
+  \ and maintained by Stirling Council.</div>\n<div><br /></div>\n<div>We currently\
+  \ publish over 86,000 burial records, however, it must be noted that this is not\
+  \ a complete record of interments - due to the nature of record keeping over the\
+  \ centuries some records are only available from Scotland's national archives.</div>\n\
+  <div><br /></div>\n<div>Information on arranging a funeral can be obtained from\
+  \ the Births, deaths and marriages page on the Stirling Council\u2019s website.</div>\n\
+  <div><br /></div>\n<div>National Records of Scotland and Scotland\u2019s People\
+  \ provide useful information for those wishing to research their family tree.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-burial-records-killin-cemeteries
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::burial-records-killin-cemeteries-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-burial-records-killin-cemeteries
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::burial-records-killin-cemeteries-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_burial_records_killin_cemeteries/FeatureServer/0
@@ -57,5 +56,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/e3d39819606d4e989a1eaee810cde47b/sqlite?layers=0
 schema: default
-title: Open data - burial records (killin cemeteries)
+title: Burial records (killin cemeteries) - open data
 ---

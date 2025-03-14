@@ -20,12 +20,12 @@ notes: <p><b>This dataset is published as Open Data and contains only informatio
   /></div><div>https://www.gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-tables<br
   /></div></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-vehicle-licensing-statistics-2020-onwards
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::vehicle-licensing-statistics-2020-onwards-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-vehicle-licensing-statistics-2020-onwards
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::vehicle-licensing-statistics-2020-onwards-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_vehicle_licensing_statistics/FeatureServer/0
@@ -57,5 +57,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/0c6873decbaa48f6a19f135b65604dbd/sqlite?layers=0
 schema: default
-title: Open data - vehicle licensing statistics 2020 onwards
+title: Vehicle licensing statistics (2020 onwards) - open data
 ---

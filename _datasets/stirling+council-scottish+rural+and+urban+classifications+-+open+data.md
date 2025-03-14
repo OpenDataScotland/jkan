@@ -25,12 +25,12 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
   updated on a biennial basis, with the current dataset reflective of the year 2020.
   Data for previous versions are available for download in ESRI Shapefile format.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-rural-and-urban-classifications
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scottish-rural-and-urban-classifications-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-scottish-rural-and-urban-classifications
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scottish-rural-and-urban-classifications-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/SG_Rural_Urban/FeatureServer/0
@@ -86,5 +86,5 @@ resources:
   name: Urban Rural Classification
   url: https://www.gov.scot/collections/agriculture-fisheries-and-rural-statistics/#urbanruralclassification
 schema: default
-title: Open data - scottish rural and urban classifications
+title: Scottish rural and urban classifications - open data
 ---

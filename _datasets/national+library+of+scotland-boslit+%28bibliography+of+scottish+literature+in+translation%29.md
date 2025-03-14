@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/BOSLIT.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/BOSLIT.zip
 schema: default
 title: BOSLIT (Bibliography of Scottish Literature in Translation)
 ---
