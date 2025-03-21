@@ -1,34 +1,38 @@
 ---
 category:
 - Business and Economy
-- Council and Government
 - Food and Environment
+- Housing and Estates
 - Parks / Recreation
 - Planning and Development
 - Sport and Leisure
+- Tourism
 date_created: '2024-07-04'
 date_updated: '2024-07-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div><b>This dataset is published as Open Data and replaces all previously
-  published versions.</b><br /></div>
-
-  <div><br /></div>
-
-  <p>A council development plan may designate a green corridor around a city or town
-  to support the spatial strategy by:</p>
-
-  <div><ul><li>directing development to the most appropriate locations and supporting
-  regeneration;</li><li>protecting and enhancing the character, landscape setting
-  and identity of the settlement; and</li><li>protecting and providing access to open
-  space.</li></ul></div>'
+notes: "<div>Summary for Local Authorities: Green Belt Policy in Scotland</div>\n\
+  <div><br /></div>\n<div><b>Policy Framework:</b></div>\n<div><ul><li>Green belts\
+  \ are designated in National Planning Framework 4 (NPF4) to manage urban expansion,\
+  \ support regeneration, and protect settlement identity.</li><li>Local Development\
+  \ Plans (LDPs) determine where green belts are necessary and define their boundaries.</li></ul></div>\n\
+  <div><b>Key Purposes of Green Belts:</b></div>\n<div><ul><li>Direct Development\
+  \ \u2013 Encourage sustainable growth in suitable areas.</li><li>Protect Settlement\
+  \ Character \u2013 Maintain the landscape and identity of towns and cities.</li><li>Enhance\
+  \ Access to Open Space \u2013 Support public amenity and environmental benefits.</li></ul></div>\n\
+  <div><b>Development Restrictions &amp; Exceptions:</b></div>\n<div><ul><li>Generally,\
+  \ development is not permitted in green belts.</li><li>Exceptions include: Agriculture,\
+  \ forestry, and horticulture. Essential housing for key rural workers. Outdoor recreation,\
+  \ tourism, and leisure activities. Infrastructure (where essential) and cemeteries.\
+  \ Developments must demonstrate necessity, minimise impact, and align with green\
+  \ belt purposes.</li></ul></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-green-belt
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::green-belt-planning-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-green-belt
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::green-belt-planning-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_green_belt/FeatureServer/2
@@ -60,5 +64,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/f2cbc8234b254482bb5499731aed3238/sqlite?layers=2
 schema: default
-title: Planning - green belt
+title: Green belt (planning) - open data
 ---

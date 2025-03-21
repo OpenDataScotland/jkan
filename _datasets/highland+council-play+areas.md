@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2022-08-04'
-date_updated: '2024-11-25'
+date_updated: '2025-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Play Areas in The Highland Council area.<div><br /></div><div>Gemini metadata\

@@ -6,18 +6,18 @@ category:
 - Public Safety
 date_created: '2024-12-03'
 date_updated: '2025-03-11'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>The Bloody Scotland International Crime Writers Festival was established
   in 2012 and is based in Stirling. Stirling Council has gathered attendance feedback
   each year since 2018 in the form of a survey with the exception of 2020 due to covid.</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2024-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2024-survey-responses-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2024-open-data
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2024-survey-responses-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Bloody_Scotland_2024___Your_Feedback___Individual_Responses_csv/FeatureServer/3
@@ -49,5 +49,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/01c0b01898a64176b77703c5f0d48b6a/sqlite?layers=3
 schema: default
-title: Bloody scotland (2024) - open data
+title: Bloody scotland (2024) survey responses - open data
 ---

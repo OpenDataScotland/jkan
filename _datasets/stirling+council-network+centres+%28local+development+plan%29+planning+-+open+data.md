@@ -6,8 +6,9 @@ date_created: '2024-07-09'
 date_updated: '2024-08-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div><b>This dataset is published as Open Data and replaces any previously
-  published version</b></div>
+notes: '<div><b>network centres (local development plan) planning - open data</b></div>
+
+  <div><b><br /></b></div>
 
   <div><div><b>This dataset was produced in support of Stirling Council''s Local Development
   Plan, published and adopted 2018.</b><div><br /></div></div></div>
@@ -22,12 +23,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces any previous
   and policies. These centres may be defined in local development plans in the first
   instance.</p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-network-centres
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::network-centres-local-development-plan-planning-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::planning-local-development-plan-network-centres
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::network-centres-local-development-plan-planning-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_ldp_network_centres/FeatureServer/1
@@ -59,5 +60,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/9098c263a4214aa7a364fe872f5ca35e/sqlite?layers=1
 schema: default
-title: Planning - local development plan network centres
+title: Network centres (local development plan) planning - open data
 ---
