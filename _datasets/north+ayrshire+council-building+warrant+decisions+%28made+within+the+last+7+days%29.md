@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-06-25'
-date_updated: '2024-07-04'
+date_updated: '2025-03-28'
 license: No licence
 maintainer: North Ayrshire Council
 notes: "<div>Building Warrant Applications which have been submitted to North Ayrshire\

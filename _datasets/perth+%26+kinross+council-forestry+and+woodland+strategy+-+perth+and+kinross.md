@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-12-11'
-date_updated: '2025-03-19'
+date_updated: '2025-03-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>These Strategies are a requirement that has now been added into Town and\
@@ -28,6 +28,9 @@ resources:
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4/query?outFields=*&where=1%3D1
 - format: REST
   name: Forest Woodland Strategy Map
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4
+- format: REST
+  name: Forest and Woodland Strategy Map
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Forest_Woodland_Strategy_Map/FeatureServer/4
 schema: default
 title: Forestry And Woodland Strategy - Perth and Kinross

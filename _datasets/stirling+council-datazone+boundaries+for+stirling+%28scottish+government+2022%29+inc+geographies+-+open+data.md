@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2025-01-27'
-date_updated: '2025-01-27'
+date_updated: '2025-03-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>The Scottish Government published updated versions of\_<b>Data Zones and\

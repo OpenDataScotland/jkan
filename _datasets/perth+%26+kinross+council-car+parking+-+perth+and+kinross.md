@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2023-04-12'
+date_updated: '2025-03-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -25,6 +25,12 @@ resources:
 - format: REST
   name: Car park points
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Parking_Points/FeatureServer/6/query?outFields=*&where=1%3D1
+- format: REST
+  name: Car Park Zones
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Park_Zones/FeatureServer/6
+- format: REST
+  name: Car Parking Points
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Car_Parking_Points/FeatureServer/6
 schema: default
 title: Car Parking - Perth and Kinross
 ---
