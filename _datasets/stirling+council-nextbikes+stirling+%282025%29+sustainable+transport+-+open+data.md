@@ -21,12 +21,12 @@ notes: '<div>Getting around Stirling by bike has never been easier with Nextbike
   <div><a href=''https://www.nextbike.co.uk/stirling/en/'' target=''_blank'' rel=''nofollow
   ugc noopener noreferrer''>Website</a></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::nextbikes-stirling-2025-sustainable-transport-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/579fcfce476647a68abf71588a64d35d_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::nextbikes-stirling-2025-sustainable-transport-open-data
+  url: https://data-stirling-council.hub.arcgis.com/datasets/579fcfce476647a68abf71588a64d35d_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/nextbikes_stirling/FeatureServer/0

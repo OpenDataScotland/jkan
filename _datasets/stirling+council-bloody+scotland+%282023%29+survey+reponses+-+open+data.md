@@ -12,12 +12,12 @@ notes: <p>The Bloody Scotland International Crime Writers Festival was establish
   in 2012 and is based in Stirling. Stirling Council has gathered attendance feedback
   each year since 2018 in the form of a survey with the exception of 2020 due to covid.</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2023-survey-reponses-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/2ac1460bbd514776a1b1c11d7b4fcba7_2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::bloody-scotland-2023-survey-reponses-open-data
+  url: https://data-stirling-council.hub.arcgis.com/datasets/2ac1460bbd514776a1b1c11d7b4fcba7_2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Bloody_Scotland_2023___Your_Feedback___Individual_Responses_csv/FeatureServer/2

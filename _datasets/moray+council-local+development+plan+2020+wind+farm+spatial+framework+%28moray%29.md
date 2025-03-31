@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2025-03-28'
+date_updated: '2025-03-31'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Wind Farm Spatial Framework (Moray)</p>
