@@ -20,7 +20,7 @@ notes: "<p>Vacant and Derelict Land Audit 2020 (Moray)\_The Scottish Vacant and 
   \ local authorities.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=a06f257b372a4e40936398fbb82a5dcc
-records: 18
+records: null
 resources: []
 schema: default
 title: Vacant and Derelict Land Audit 2020 (Moray)

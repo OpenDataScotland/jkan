@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2023-05-03'
-date_updated: '2025-03-31'
+date_updated: '2025-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"A real-time daily upload from each pedestrian counter within the National

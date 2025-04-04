@@ -18,7 +18,7 @@ notes: "<p>Moray Onshore Wind Energy 2017 Policy Guidance Map for Large Typologi
   \ potential for wind farm developments.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=886f3db2dff0431480fd86167523d669
-records: 1
+records: null
 resources: []
 schema: default
 title: Moray Onshore Wind Energy 2017 Policy Guidance Map for Large Typologies (Moray)

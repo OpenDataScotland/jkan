@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-30'
-date_updated: '2023-07-27'
+date_updated: '2025-04-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -28,8 +28,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directio
 records: null
 resources:
 - format: ZIP
-  name: Article 4 Directions
-  url: https://data.spatialhub.scot/dataset/0f99f5d1-add6-4c5e-83d1-5ed99b8fa94c/resource/67645fcc-de1c-4c16-ba9e-da7f4deeffe1/download/article4_directions.zip
+  name: Article 4 Direction SHAPE
+  url: https://data.spatialhub.scot/dataset/0f99f5d1-add6-4c5e-83d1-5ed99b8fa94c/resource/250c76c7-0baa-4039-8a31-c962a15d624c/download/article4direction.zip
 schema: default
 title: Article 4 Directions - Aberdeenshire
 ---
