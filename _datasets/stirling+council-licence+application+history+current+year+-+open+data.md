@@ -1,0 +1,59 @@
+---
+category:
+- Arts / Culture / History
+- Health and Social Care
+- Law and Licensing
+- Public Safety
+- Transportation
+date_created: '2024-08-10'
+date_updated: '2025-03-02'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+maintainer: Stirling Council
+notes: <p><b>This dataset is published as Open Data</b><div><br /></div><div>License
+  Boards, established by Local Authorities, manage alcohol and public entertainment
+  licenses, make decisions on applications, review appeals, and set local policies.
+  Civic Licenses for activities like street trading and late-night refreshment are
+  also administered to ensure standards and regulations are met, safeguarding public
+  welfare. Additionally, Local Authorities regulate taxi services, ensuring driver
+  competence and vehicle safety. This comprehensive oversight maintains public safety
+  and upholds standards across licensed activities in Scotland.<br /></div></p>
+organization: Stirling Council
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::licence-application-history-current-year-open-data
+records: null
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::licence-application-history-current-year-open-data
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_licence_application_history_current_year/FeatureServer/0
+- format: CSV
+  name: CSV
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/csv?layers=0
+- format: ZIP
+  name: Shapefile
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/shapefile?layers=0
+- format: GEOJSON
+  name: GeoJSON
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/geojson?layers=0
+- format: KML
+  name: KML
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/b63d840d6b39476a96cfaa62461512ef/sqlite?layers=0
+schema: default
+title: Licence application history current year - open data
+---

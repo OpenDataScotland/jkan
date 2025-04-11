@@ -10,7 +10,7 @@ notes: <p>Development Road Action Area designated in the Argyll and Bute adopted
   Development Plan 2</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=f8e66cc9e60e451cadc3a8abe0358843
-records: 6
+records: null
 resources: []
 schema: default
 title: LDP2 Transport Infrastructure

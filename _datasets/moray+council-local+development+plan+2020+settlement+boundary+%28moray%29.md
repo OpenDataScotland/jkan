@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2020-07-23'
-date_updated: '2025-04-04'
+date_updated: '2025-04-10'
 license: No licence
 maintainer: Moray Council
 notes: <p>Local Development Plan 2020 Settlement Boundaries are used for the distribution

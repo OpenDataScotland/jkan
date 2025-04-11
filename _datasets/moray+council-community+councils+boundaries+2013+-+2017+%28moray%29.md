@@ -18,7 +18,7 @@ notes: <p>Community Councils 2013 - 2017 (Moray). The purpose of community counc
   Community Council meetings are open to the public.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=6182d61788b6422982eb83c5d2d33e4a
-records: 20
+records: null
 resources: []
 schema: default
 title: Community Councils Boundaries 2013 - 2017 (Moray)
