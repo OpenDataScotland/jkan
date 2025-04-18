@@ -9,29 +9,18 @@ date_created: '2024-06-18'
 date_updated: '2024-09-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
-notes: '<div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>This
-  layer shows the location of children''s play area, adventure trail (agility trail),
-  dog agility trail, MUGA (Multiuse Game Areas), sports facility, skatepark, outdoor
-  gym (adult fitness) facilities owned and maintained by Dundee City Council, Neighbourhood
-  Services, Environment Management Team. The Council Inspects and maintains these
-  children''s playpark in the regular basis.</div>
-
-  <div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''><br
-  /></div>
-
-  <div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>For
-  more details, including information about repairs and maintenance, contact</div>
-
-  <div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''><br
-  /></div>
-
-  <div style=''font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,
-  &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;''>Tel:
-  01382 433710 Option 7</div>'
+notes: "<div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;,\
+  \ &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><p>This\
+  \ map shows the locations of various recreational facilities owned and maintained\
+  \ by Dundee City Council\u2019s Neighbourhood Services, Environment Management Team.</p><p>These\
+  \ facilities include:</p><ul> <li> <p>Children\u2019s play areas</p> </li> <li>\
+  \ <p>Adventure trails (agility trails)</p> </li> <li> <p>Dog agility trails</p>\
+  \ </li> <li> <p>Multi-Use Games Areas (MUGAs)</p> </li> <li> <p>Sports facilities</p>\
+  \ </li> <li> <p>Skateparks</p> </li> <li> <p>Outdoor gyms (adult fitness equipment)</p>\
+  \ </li> </ul><p>The Council carries out regular inspections and maintenance of children\u2019\
+  s playparks to ensure they remain safe and accessible for public use.</p><p><strong>For\
+  \ further information, including details on repairs and maintenance, please contact:</strong></p><p>\
+  \     </p><p><strong>Tel:</strong> 01382 433710 (Option 7)</p></div>"
 organization: Dundee City Council
 original_dataset_link: https://data.dundeecity.gov.uk/datasets/dundeecity::play-area-sports-and-recreation-playground
 records: null

@@ -23,12 +23,12 @@ notes: <p>Stirling Council currently have 25 sensors deployed in the local Stirl
   return a range of nil activity.</div></div><div><br /></div><div>A table of data
   summarising activity trends by month is also available.</div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/f9cdc28930404e70a69f5cc72578dad1_0
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::walking-data-by-location-and-day-2025-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/f9cdc28930404e70a69f5cc72578dad1_0
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::walking-data-by-location-and-day-2025-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/stirling_council_walking_data_by_location_and_day_2025/FeatureServer/0

@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2017-07-10'
-date_updated: '2025-04-09'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Primary School Catchments (Moray) (Denominational).\_ The zones  (catchment\

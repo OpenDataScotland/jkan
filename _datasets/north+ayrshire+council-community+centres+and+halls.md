@@ -8,12 +8,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: North Ayrshire Council
 notes: <p>Location of Community Centres and Halls within North Ayrshire</p>
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/4d71c769b9264a0fb14189c8baa94b59_31
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-centres-and-halls
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/4d71c769b9264a0fb14189c8baa94b59_31
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::community-centres-and-halls
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/MapServer/31

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2017-11-14'
-date_updated: '2025-04-09'
+date_updated: '2023-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: <p>Alcohol Prohibition Areas (Moray) in relation to Byelaws Prohibiting the

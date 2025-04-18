@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2024-10-24'
-date_updated: '2025-04-09'
+date_updated: '2024-10-24'
 license: No licence
 maintainer: Moray Council
 notes: "<p>Vacant and Derelict Land Audit 2023 (Moray)\_The Scottish Vacant and Derelict\

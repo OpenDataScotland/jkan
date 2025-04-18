@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-08-13'
-date_updated: '2025-04-09'
+date_updated: '2024-08-13'
 license: No licence
 maintainer: Moray Council
 notes: <p>Housing Land Audit 2023 sites for housing with a capacity for 4 or more
