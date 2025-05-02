@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2025-01-17'
+date_updated: '2025-05-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>Scottish legislation\_(Section 17) of the Flood Risk Management (Scotland)\

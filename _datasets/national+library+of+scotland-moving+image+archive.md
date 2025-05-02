@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-moving-image-archive-2024.zip
+  url: https://nlsfoundry.s3.amazonaws.com/metadata/nls-moving-image-archive-2025.zip
 schema: default
 title: Moving Image Archive
 ---
