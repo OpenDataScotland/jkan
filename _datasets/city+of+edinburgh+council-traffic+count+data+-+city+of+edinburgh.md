@@ -7,7 +7,7 @@ category:
 - Law and Licensing
 - Transportation
 date_created: '2021-11-23'
-date_updated: '2025-04-24'
+date_updated: '2025-05-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>TRAFFIC DATA - UPLOAD REQUIREMENTS FOR SPATIAL HUB</p>\n<p>This page summarises\
@@ -56,6 +56,12 @@ resources:
 - format: ZIP
   name: 2016 traffic survey
   url: https://data.spatialhub.scot/dataset/94981bfb-5476-4612-85a9-52ae23296baf/resource/b1447c04-4097-4c55-85ce-976efa768552/download/2016.zip
+- format: ZIP
+  name: 2025 traffic survey data (citywide) - JTCs
+  url: https://data.spatialhub.scot/dataset/94981bfb-5476-4612-85a9-52ae23296baf/resource/3bf790db-c533-48f2-b554-63487884072e/download/edinburgh-lez-sepa-jtcs-march-2025.zip
+- format: XLSB
+  name: 2025 ANPR survey (Lothian Road/citywide)
+  url: https://data.spatialhub.scot/dataset/94981bfb-5476-4612-85a9-52ae23296baf/resource/5f893fc7-e00b-443e-b153-47a58432c097/download/copy-of-4497-sco_anpr_04032025-v2.xlsb
 schema: default
 title: Traffic Count Data - City Of Edinburgh
 ---
