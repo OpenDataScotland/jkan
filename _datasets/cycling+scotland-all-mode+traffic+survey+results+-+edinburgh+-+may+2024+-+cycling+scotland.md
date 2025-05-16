@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2024-06-11'
-date_updated: '2024-07-25'
+date_updated: '2025-05-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"All mode traffic survey results for Edinburgh including counts for all
@@ -14,12 +14,12 @@ resources:
 - format: JSON
   name: All-mode traffic survey results - Edinburgh - May 2024 - Cycling Scotland.json
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=e74adf62-95c3-4d6f-a6ec-7ae4f9e97db9
-- format: CSV
-  name: All-mode traffic survey results - Edinburgh - May 2024 - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f1832f57-6bd6-4d0b-8fed-2f31e74b7b4b
 - format: XML
   name: All-mode traffic survey results - Edinburgh - May 2024 - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=dd6ac606-4ae2-41a4-bed0-0eda1cc213e0
+- format: CSV
+  name: Edinburgh May 2024 traffic counts.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=541ef426-7b3f-48ae-989f-28cfec72b60d
 schema: default
 title: All-mode traffic survey results - Edinburgh - May 2024 - Cycling Scotland
 ---

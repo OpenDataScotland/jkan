@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-05-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -30,9 +30,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-nl'
 records: null
 resources:
-- format: WFS
-  name: Core path network
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
+- format: REST
+  name: Paths and Core Paths
+  url: https://maps.northlanarkshire.gov.uk/server/rest/services/PUBLIC/SpatialHubLayers/FeatureServer/3
 schema: default
 title: Paths And Core Paths - North Lanarkshire
 ---

@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2022-02-28'
-date_updated: '2024-04-29'
+date_updated: '2025-05-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"Anonymised trip data from Next Bike bike share scheme in Glasgow from September
