@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-10-23'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -15,15 +15,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conservation_sites-cl'
 records: null
 resources:
-- format: ZIP
-  name: Local Nature Conservation Sites
-  url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/815b1f9d-438b-470b-ac8e-9ab998cc1828/download/clacks-lncs.zip
-- format: No file type
-  name: Clackmannanshire LNCS 2020 (October)
-  url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/0719da48-db28-4332-a0b4-4bea5440e91b/download/spatialhublncs.gpkg
-- format: No file type
-  name: Clackmannanshire LNCS 2021 (October)
-  url: https://data.spatialhub.scot/dataset/a55d438e-1b41-428b-8d81-d173c895ead6/resource/32dd0cff-f4b7-45e5-99be-f46666dbcce2/download/clacks_lncs.gpkg
 - format: WFS
   name: Local Nature Conservation Sites
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:local_nature_conservation_sites

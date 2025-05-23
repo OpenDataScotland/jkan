@@ -23,7 +23,7 @@ resources:
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=ab514a88-7c8a-44c2-9e82-fd25e3b83c64
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/b48f7b09-4ef5-46cd-ab58-664a4e9cc500/1/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/ce9886d7-fac3-4cf0-b80d-f478d0478d90/1/urql
 schema: default
 title: Bikeability Scotland - Schools delivering Level 1 and/or Level 2 - 2021/22
   - Cycling Scotland

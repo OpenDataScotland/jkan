@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2025-01-29'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -43,30 +43,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_transfer_register-cl'
 records: null
 resources:
-- format: No file type
-  name: Clackmannanshire CATR 2022 (June)
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/7238a8da-13a4-4405-ba62-cc4e19132d79/download/clacks_catr.gpkg
-- format: No file type
-  name: Clackmannanshire CATR 2022 (October)
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/00200268-3e1d-47a2-bb4e-fda0344fbd09/download/clacks_catr.gpkg
-- format: No file type
-  name: Clackmannanshire CATR 2023 (March)
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/0ef4ba6c-075f-483e-8a5f-f8dcd5da40f8/download/clacks_catr.gpkg
-- format: No file type
-  name: Clackmannanshire Asset Register 2023 (September)
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/8ae6ec10-1142-4843-9bde-61dd2ecc60f8/download/clacks_catr.gpkg
-- format: No file type
-  name: 'Clackmannanshire Asset Register 2024 (February) '
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/faeb8d77-0e9a-4803-95a9-83670c384025/download/clacks_catr.gpkg
-- format: No file type
-  name: 'Clackmannanshire Asset Register 2024 (April) '
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/94785a38-bfa3-49c0-ad84-340def46b4b0/download/clacks_catr.gpkg
-- format: No file type
-  name: Clackmannanshire Asset Register 2024 (July)
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/76765aa4-8141-4f5c-999b-fcabcd8eb845/download/estates.gpkg
-- format: ZIP
-  name: Clacks CATR
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/28566df9-92c5-4dcf-8bd5-e4a396d56800/download/downloads.zip
 - format: ZIP
   name: estates_asset_register_january_25_for_spatial_hub.zip
   url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/8b4facac-22a1-4164-866c-5fba9940cccd/download/estates_asset_register_january_25_for_spatial_hub.zip

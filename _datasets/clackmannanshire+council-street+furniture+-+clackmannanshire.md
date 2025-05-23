@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2024-10-24'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -31,9 +31,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-cl'
 records: null
 resources:
-- format: No file type
-  name: Street Furniture 2021
-  url: https://data.spatialhub.scot/dataset/eab436ff-6b87-4cb6-8557-586973d97278/resource/219e3a89-a1d7-440f-aeeb-0c3dd2fa3037/download/spatialhubstreetfurniture.gpkg
 - format: WFS
   name: Street Lighting Columns
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Street_Lighting_Columns

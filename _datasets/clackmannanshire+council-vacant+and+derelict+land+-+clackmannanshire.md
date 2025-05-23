@@ -6,7 +6,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-10-23'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
@@ -47,27 +47,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-cl'
 records: null
 resources:
-- format: ZIP
-  name: Clackmannanshire VDLS 2016
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/c01e8d47-934c-47d0-9616-362701f91ac4/download/clackmannashiresvdls2016v002.zip
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/5710968a-9e3c-47bb-be87-bab724af20a8/download/20200929_vdl_by_la_cl.zip
-- format: No file type
-  name: Clackmannanshire VDLS 2020
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/989e733a-8912-4f42-95c2-3d70ae9aec5e/download/spatialhubvdls_a.gpkg
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/f9a506dc-1270-4e46-b9f6-2dba9bab6e6a/download/clackmannanshire_2020.zip
-- format: No file type
-  name: Clackmannanshire VDLS 2021
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/ebe3e03f-c376-4bce-a0ba-0775f2059801/download/clacks_vdls_a.gpkg
-- format: ZIP
-  name: Vacant and Derelict Land
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/f018bf10-44b7-4c7e-8bdd-be69bf0aae75/download/clackmannanshirevdls.zip
-- format: ZIP
-  name: SVDLS 2022 shapefiles
-  url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/7a52e43a-6885-49af-b8a4-c5c314eb0ead/download/clackmannanshire.zip
 - format: ZIP
   name: SVDLS shapefile 2023 uploaded by Scottish Government
   url: https://data.spatialhub.scot/dataset/63ec709d-c26d-49fc-9e6d-35da8f89b929/resource/b88751f6-b2fe-45ea-ab02-f671acf89c88/download/clackmannanshire.zip

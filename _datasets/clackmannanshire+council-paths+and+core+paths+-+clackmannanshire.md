@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2024-10-23'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -30,9 +30,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-cl'
 records: null
 resources:
-- format: ZIP
-  name: Core Paths
-  url: https://data.spatialhub.scot/dataset/07a47d05-0d6e-482c-a479-09eec3eb70fe/resource/822866d8-ff61-429c-8259-0b8501ac0786/download/clackmannanshirecorepaths.zip
 - format: WFS
   name: Core Paths over Land
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Core_Paths_over_land

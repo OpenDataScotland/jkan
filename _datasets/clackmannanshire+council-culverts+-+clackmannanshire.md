@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-11-08'
-date_updated: '2024-10-04'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)
@@ -58,12 +58,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-cl'
 records: null
 resources:
-- format: No file type
-  name: Culverts 2022 (June)
-  url: https://data.spatialhub.scot/dataset/22cb7de8-03d5-4881-9236-91654d1fb8a6/resource/20b9ef49-3b01-4ce7-b059-ae255bef9037/download/clacks_culverts.gpkg
-- format: No file type
-  name: Culverts 2022 (October)
-  url: https://data.spatialhub.scot/dataset/22cb7de8-03d5-4881-9236-91654d1fb8a6/resource/9776b071-300d-40a4-8541-9f30e21c7a02/download/clacks_culverts.gpkg
 - format: No file type
   name: Culverts 2023 (April)
   url: https://data.spatialhub.scot/dataset/22cb7de8-03d5-4881-9236-91654d1fb8a6/resource/72f558ce-f38c-42db-afe1-afd2ff8dbd0c/download/clacks_culverts.gpkg

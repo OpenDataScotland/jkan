@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-12-11'
-date_updated: '2024-10-08'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>These Strategies are a requirement that has now been added into Town and\
@@ -23,9 +23,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-cl'
 records: null
 resources:
-- format: ZIP
-  name: FWS for Clacks (and Stirling)
-  url: https://data.spatialhub.scot/dataset/6ee54b3f-4802-4159-b134-5d57c536c089/resource/18ceb26b-9b48-43b5-8f7a-ebe3385ccd2c/download/fws.zip
 - format: WFS
   name: Forestry and Woodland Strategy
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Forestry_and_Woodland_Strategy

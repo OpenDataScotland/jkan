@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-30'
-date_updated: '2024-10-16'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -27,12 +27,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-cl'
 records: null
 resources:
-- format: ZIP
-  name: Article 4 Directions
-  url: https://data.spatialhub.scot/dataset/842d9393-adf9-488c-b639-9a0275a06563/resource/48c3355a-f3bf-4b10-98a6-51b61eb6c7d9/download/article4directions.zip
-- format: No file type
-  name: Article 4 Directions
-  url: https://data.spatialhub.scot/dataset/842d9393-adf9-488c-b639-9a0275a06563/resource/e92aa489-1c62-4cb7-ae71-6adf5bf032b7/download/spatialhubconservationarticle4areas.gpkg
 - format: WFS
   name: Clacks A4As
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Article_4_Areas

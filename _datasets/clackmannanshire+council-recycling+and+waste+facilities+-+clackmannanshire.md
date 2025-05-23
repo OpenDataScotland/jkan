@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2024-10-23'
+date_updated: '2025-05-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -17,9 +17,6 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/recycling_and_waste_facilities-cl'
 records: null
 resources:
-- format: No file type
-  name: Recycling Sites 2020 (December)
-  url: https://data.spatialhub.scot/dataset/3a98636d-f12f-43d4-a903-7822104ee9bb/resource/6ba33321-0a5d-4fb9-8892-db70d69a8210/download/spatialhubrecycling.gpkg
 - format: WFS
   name: Recycling Points
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Recycling_Points
