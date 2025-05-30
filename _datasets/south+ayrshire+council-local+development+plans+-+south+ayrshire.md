@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-04-04'
+date_updated: '2025-05-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -20,6 +20,9 @@ resources:
 - format: No file type
   name: Local_Development_Plan
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: south_ayrshire_LDP2
+  url: https://data.spatialhub.scot/dataset/67cbf487-13b9-4ef1-9809-90c6888f133d/resource/fabfced6-6094-452f-8945-949fc205705f/download/south_ayrshire_ldp2.gdb.zip
 schema: default
 title: Local Development Plans - South Ayrshire
 ---

@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2025-02-23'
-date_updated: '2025-02-23'
+date_updated: '2025-05-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p><b>ward boundaries simplified - open data</b><div><br /></div><div>This
