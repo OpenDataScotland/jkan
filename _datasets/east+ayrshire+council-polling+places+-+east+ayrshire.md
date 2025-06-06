@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-02-13'
+date_updated: '2025-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Ayrshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,15 +36,6 @@ organization: East Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ea'
 records: null
 resources:
-- format: ZIP
-  name: East Ayrshire Polling Places
-  url: https://data.spatialhub.scot/dataset/ce307f6c-1618-4383-a2b5-6883a96a6562/resource/d6e27a2f-8c1e-43a0-a8b1-56691e9244ef/download/eapplace.zip
-- format: ZIP
-  name: East Ayrshire Polling Places
-  url: https://data.spatialhub.scot/dataset/ce307f6c-1618-4383-a2b5-6883a96a6562/resource/79ed9d6a-9a20-4ae4-8288-d37d579b95ef/download/eapplace.zip
-- format: ZIP
-  name: East Ayrshire Polling Places
-  url: https://data.spatialhub.scot/dataset/ce307f6c-1618-4383-a2b5-6883a96a6562/resource/2b659a8a-1491-4d95-a024-b56c585c6077/download/polling-placea.zip
 - format: ZIP
   name: East Ayrshire Polling Places
   url: https://data.spatialhub.scot/dataset/ce307f6c-1618-4383-a2b5-6883a96a6562/resource/97ad764e-1726-4fb3-94c4-f0770257e49d/download/eapplace.zip

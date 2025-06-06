@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-09-03'
+date_updated: '2025-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,12 +36,6 @@ organization: Aberdeen City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ac'
 records: null
 resources:
-- format: ZIP
-  name: Polling Stations in Aberdeen City
-  url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/f2128c94-fca0-40e5-aa99-6e4fdbdd5c55/download/pollingstns20172.zip
-- format: ZIP
-  name: Polling Stations in Aberdeen City
-  url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/9aa4b84a-fcfe-4f91-ba5d-74d28919c2a7/download/pollingstns20172.zip
 - format: ZIP
   name: Aberdeen Polling Places
   url: https://data.spatialhub.scot/dataset/296a1bfd-0be8-4aad-84d1-4fab1d094b88/resource/2a94f4e2-ce13-42ab-80c8-c462514c2db9/download/polling_places_2023_is.zip

@@ -13,12 +13,12 @@ notes: <div style='text-align:Left;font-size:12pt'><div><div><p><span>T</span><s
   Scotland wide data is issued by the Scottish Government once Local Authorities return
   data to them to collate. The survey has been operating since 1988.</span></p></div></div></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/datasets/e09c5b846f2f4f979bbceb347a0d1bb0_43
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::scottish-vacant-and-derelict-land-survey-2022
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/datasets/e09c5b846f2f4f979bbceb347a0d1bb0_43
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::scottish-vacant-and-derelict-land-survey-2022
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Scottish_Vacant_Derelict_Land_Survey_2022/FeatureServer/43
@@ -50,5 +50,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data.pkc.gov.uk/api/download/v1/items/e09c5b846f2f4f979bbceb347a0d1bb0/sqlite?layers=43
 schema: default
-title: Scottish Vacant Derelict Land Survey 2022
+title: Scottish Vacant and Derelict Land Survey 2022
 ---

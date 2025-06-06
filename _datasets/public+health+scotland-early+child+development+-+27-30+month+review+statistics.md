@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2018-04-23'
-date_updated: '2025-04-29'
+date_updated: '2025-06-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The 27-30 month review is an assessment generally carried out by a health
@@ -28,8 +28,11 @@ resources:
   name: Review by Gender
   url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/147938f4-9f1a-4222-91d1-d52c11905ac5/download/open27mlasex.csv
 - format: CSV
-  name: Review by SIMD for Council Areas
-  url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/2e3b17f3-410e-4b4b-89ba-dd2911ef2f37/download/open27mlasimd.csv
+  name: Review by Scotland SIMD for Council Areas
+  url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/2e3b17f3-410e-4b4b-89ba-dd2911ef2f37/download/open27mlascsimd.csv
+- format: CSV
+  name: Review by Health Board SIMD for Council Areas
+  url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/51bdaa85-5b30-4f67-af50-509310fac63d/download/open27mlahbsimd.csv
 - format: CSV
   name: Review by SIMD for Scotland Totals
   url: https://www.opendata.nhs.scot/dataset/f4ee46d4-cda9-4180-b6be-0f0e45ee3c8c/resource/2123b143-e440-46a0-9ea8-f59396e5006b/download/open27mscotlandsimd.csv

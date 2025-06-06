@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Ayrshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,9 +25,6 @@ organization: East Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-ea'
 records: null
 resources:
-- format: ZIP
-  name: Community Council Boundaries
-  url: https://data.spatialhub.scot/dataset/d6301087-4ebb-46d2-ba97-c4c89634a7e0/resource/d37319b6-4c60-466e-8de4-48c6ab395ee3/download/community-council-boundaries.zip
 - format: No file type
   name: Community Council Boundaries
   url: https://data.spatialhub.scot/dataset/d6301087-4ebb-46d2-ba97-c4c89634a7e0/resource/89ab6574-6f06-4ff6-b967-5409348a315c/download/commc.zip

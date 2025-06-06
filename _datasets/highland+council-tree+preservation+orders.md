@@ -8,7 +8,9 @@ date_created: '2022-09-20'
 date_updated: '2024-12-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
-notes: <p>Tree Preservation Orders in The Highland Council area.</p>
+notes: "<p>Tree Preservation Orders in The Highland Council area.<div><br /></div><div>Gemini\
+  \ metadata record is at\_<a href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/1cb33072-ae50-40a4-b04c-5d0aa1c5817e'\
+  \ target='_blank' rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/1cb33072-ae50-40a4-b04c-5d0aa1c5817e</a>.</div></p>"
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/3062369fd7ba484288502c24dd112cc3_0
 records: null
@@ -32,5 +34,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/3062369fd7ba484288502c24dd112cc3/kml?layers=0
 schema: default
-title: TreePreservationOrders
+title: Tree Preservation Orders
 ---

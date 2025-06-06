@@ -14,11 +14,10 @@ records: null
 resources:
 - format: JSON
   name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/bb0f3768-c383-4afd-bb77-d871a29bb830/8/urql
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/10be827e-e5ed-4fcf-9e5b-e2089e02daad/8/urql
 - format: CSV
-  name: National Monitoring Framework - Automatic cycling counter locations - Cycling
-    Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=dd1d4f08-6aba-4e14-abfd-3d6e6d79b811
+  name: NMF- ACC locations - Cycling Scotland_Cycling Scotland_NMF_ACC_Locations_2023.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=88c2538e-3a4f-44fb-a247-5b6b1a716e32
 - format: XML
   name: National Monitoring Framework - Automatic cycling counter locations - Cycling
     Scotland.xml

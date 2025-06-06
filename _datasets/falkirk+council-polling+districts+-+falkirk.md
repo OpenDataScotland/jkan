@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-09-10'
+date_updated: '2025-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,12 +37,6 @@ organization: Falkirk Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-fa'
 records: null
 resources:
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/939f0265-ece7-41fd-ac01-7b746e4348ff/resource/17b5af68-3acc-4579-9a0b-ce1461eb373d/download/pollingdistricts.zip
-- format: ZIP
-  name: Polling districts 2017
-  url: https://data.spatialhub.scot/dataset/939f0265-ece7-41fd-ac01-7b746e4348ff/resource/cdc6554b-74bf-45ff-adbf-59465f1d20a9/download/polling-districts-2017.zip
 - format: REST
   name: Polling District
   url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Polling_Districts_Falkirk/FeatureServer/3/query?outFields=*&where=1%3D1

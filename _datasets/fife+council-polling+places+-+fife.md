@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-06-17'
+date_updated: '2025-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,12 +36,6 @@ organization: Fife Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-fi'
 records: null
 resources:
-- format: ZIP
-  name: Fife 2019 data from Colin Russel
-  url: https://data.spatialhub.scot/dataset/88ddc2e2-01cd-4bfd-8643-e77954aeb4b1/resource/c7ba446e-aab9-4b5b-9214-f66a5242c628/download/fife-polling-places.zip
-- format: REST
-  name: Polling Places April 2022
-  url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Fife%20Council%20Polling%20Places%20April%202022/FeatureServer/0
 - format: REST
   name: Fife Council Polling Places
   url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Polling_Places_June2024/FeatureServer

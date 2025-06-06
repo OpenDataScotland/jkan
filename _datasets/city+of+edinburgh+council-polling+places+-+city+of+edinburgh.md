@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-06-14'
+date_updated: '2025-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,9 +36,6 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-ce'
 records: null
 resources:
-- format: REST
-  name: Polling Places 2022
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/7/query?outFields=*&where=1%3D1
 - format: REST
   name: Polling Places 2024
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/64

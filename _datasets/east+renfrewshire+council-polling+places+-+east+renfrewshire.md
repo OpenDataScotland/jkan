@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-06-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Renfrewshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,12 +36,6 @@ organization: East Renfrewshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-er'
 records: null
 resources:
-- format: ZIP
-  name: East Renfrewshire Polling Stations - 2017
-  url: https://data.spatialhub.scot/dataset/be162920-1237-465f-bb3f-5a0cc6a9d9d1/resource/c9ca0b7c-8ac0-406a-a19f-02cc71b2d3a2/download/er-polling-stations-2017.zip
-- format: ZIP
-  name: Updated Polling Places - Dec 2019
-  url: https://data.spatialhub.scot/dataset/be162920-1237-465f-bb3f-5a0cc6a9d9d1/resource/50ea598c-bfbd-4805-8df2-2cfd7cf585de/download/erc_polling_stations_dec_2019.zip
 - format: ZIP
   name: ERC Polling Places - 2021
   url: https://data.spatialhub.scot/dataset/be162920-1237-465f-bb3f-5a0cc6a9d9d1/resource/62d0fde2-6328-4399-aa4d-f6d618fae7ce/download/erc-polling-places.zip

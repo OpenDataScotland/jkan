@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2019-11-21'
-date_updated: '2023-07-13'
+date_updated: '2025-06-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Air Quality Management Areas in Highland Council area.<div><br /></div><div>Gemini\
