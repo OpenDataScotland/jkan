@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Comhairle nan Eilean Siar
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,12 +37,6 @@ organization: Comhairle nan Eilean Siar
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-es'
 records: null
 resources:
-- format: ZIP
-  name: Western Isles Polling Districts June 2017
-  url: https://data.spatialhub.scot/dataset/e70078e2-cce3-4b0e-ac90-bfe24bce8160/resource/4af4ec1f-fefd-4b54-9cd6-b4f478aef750/download/na-h-eileanan-an-iar-polling-districts-june-2017region.zip
-- format: ZIP
-  name: Eilean Siar Polling Districts
-  url: https://data.spatialhub.scot/dataset/e70078e2-cce3-4b0e-ac90-bfe24bce8160/resource/d4deaf4e-6aaf-4f49-9abf-80b66b7849e4/download/revised-polling-districts-nov-2019-election.zip
 - format: ZIP
   name: 2022 Polling Districts
   url: https://data.spatialhub.scot/dataset/e70078e2-cce3-4b0e-ac90-bfe24bce8160/resource/6aceff75-1863-44d6-9b68-42e4b10518c0/download/na-h-eileanan-siar-polling-districts-may-2022.zip

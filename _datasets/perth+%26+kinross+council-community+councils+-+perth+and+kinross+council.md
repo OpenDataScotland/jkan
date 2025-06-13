@@ -17,12 +17,12 @@ notes: "<div style='text-align:left;'><p><span style='font-size:16px;'>Community
   \ PKC website for the latest status (https://www.pkc.gov.uk/communitycouncilcontacts).</span></p><div\
   \ style='font-size:12pt;'><br /></div></div>"
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::community-councils-2023
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::community-councils-perth-and-kinross-council
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::community-councils-2023
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::community-councils-perth-and-kinross-council
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Community_Councils_2019/FeatureServer/28
@@ -54,5 +54,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data.pkc.gov.uk/api/download/v1/items/8c7e6a37902743259d84ce95c905b7d0/sqlite?layers=28
 schema: default
-title: Community Councils 2023
+title: Community Councils - Perth and Kinross Council
 ---

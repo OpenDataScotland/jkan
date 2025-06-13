@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2024-06-07'
+date_updated: '2025-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Inverclyde Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,12 +37,6 @@ organization: Inverclyde Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-in'
 records: null
 resources:
-- format: ZIP
-  name: Inverclyde polling districts
-  url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/950b7900-5d26-412f-9330-1923064e0564/download/polling-districts.zip
-- format: ZIP
-  name: Polling districts 2018
-  url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/f7bca41f-a460-4c29-ae7d-3d54c6cf5cc5/download/current-polling-districts.zip
 - format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/2829c553-60d0-40e0-9e10-884b7d76e452/resource/3c91ea10-3fff-485e-8521-39b2fa381ff8/download/polling-districts.zip

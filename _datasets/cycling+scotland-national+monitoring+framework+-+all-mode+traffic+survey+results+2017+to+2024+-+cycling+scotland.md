@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-08-11'
-date_updated: '2025-05-15'
+date_updated: '2025-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Cycling Scotland
 notes: <p>"All-mode traffic data from 48-hour surveys across Scotland - all data from

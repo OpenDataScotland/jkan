@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-03-19'
+date_updated: '2025-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,12 +25,6 @@ organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-pk'
 records: null
 resources:
-- format: REST
-  name: Community Council Boundaries
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Community_Councils_2019/FeatureServer/5/query?outFields=*&where=1%3D1
-- format: OTHER
-  name: Community Councils
-  url: https://open-data-perth-kinross.hub.arcgis.com/datasets/8c7e6a37902743259d84ce95c905b7d0_28/explore?location=56.534127%2C-3.883163%2C9.79
 - format: REST
   name: Community Councils
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Community_Councils_2019/FeatureServer/28

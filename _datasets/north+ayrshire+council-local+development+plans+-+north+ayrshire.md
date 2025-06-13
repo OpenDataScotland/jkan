@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-05-23'
+date_updated: '2025-06-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -23,6 +23,12 @@ resources:
 - format: WFS
   name: LDP2
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: North_Ayrshire_LDP2_lines
+  url: https://data.spatialhub.scot/dataset/972ccd3b-0834-40c6-a8bf-ffd27590db61/resource/4c8b2bf1-d835-4cb3-8bd6-8e858e105baf/download/north_ayrshire_ldp2_lines.zip
+- format: ZIP
+  name: North_Ayrshire_LDP2_polygons
+  url: https://data.spatialhub.scot/dataset/972ccd3b-0834-40c6-a8bf-ffd27590db61/resource/fdefe610-6185-4c7a-a4fe-f20c70ae31c6/download/north_ayrshire_ldp2_polygons.zip
 schema: default
 title: Local Development Plans - North Ayrshire
 ---

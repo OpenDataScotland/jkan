@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-30'
-date_updated: '2023-07-19'
+date_updated: '2025-06-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -27,9 +27,6 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-dc'
 records: null
 resources:
-- format: No file type
-  name: Article 4 directions
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 - format: REST
   name: Article 4 Areas
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/Article_4_Directions_view/FeatureServer/1

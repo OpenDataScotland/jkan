@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,9 +36,6 @@ organization: Moray Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-mo'
 records: null
 resources:
-- format: ZIP
-  name: Polling stations
-  url: https://data.spatialhub.scot/dataset/de394182-5c6c-40a0-894f-f7ff9001266e/resource/a30743d9-77bf-459b-8c31-7e2eae338bd9/download/pollingmoraymay2017.zip
 - format: WFS
   name: Polling Places
   url: https://mapping.moray.gov.uk/arcgis/services/INSPIRE/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS

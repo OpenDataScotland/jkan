@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2018-07-23'
-date_updated: '2024-11-18'
+date_updated: '2025-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p>This dataset captures any data that pertains to locations of safety equipment
@@ -18,9 +18,6 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-gc'
 records: null
 resources:
-- format: ZIP
-  name: Glasgow water safety features
-  url: https://data.spatialhub.scot/dataset/4aba418e-94bd-4f9a-ab42-3d8b3db56919/resource/77614808-6469-4326-b400-5abeac95c000/download/safety_features-gc2018-07-23135738.zip
 - format: ZIP
   name: Water Safety Feaures
   url: https://data.spatialhub.scot/dataset/4aba418e-94bd-4f9a-ab42-3d8b3db56919/resource/4f6743ea-c737-40d1-ade5-16b7cf04f908/download/water-safety-features.zip

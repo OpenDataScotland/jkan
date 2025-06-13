@@ -15,13 +15,13 @@ resources:
   name: National Monitoring Framework - all-mode traffic count results September 2021
     - Cycling Scotland.csv
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=eea394b4-241b-4c4a-ab2e-19026132615f
+- format: JSON
+  name: API
+  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fb61ca7d-ac26-486d-9948-48acebdc6a1d/6/urql
 - format: XML
   name: National Monitoring Framework - all-mode traffic count results September 2021
     - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=f8dbd8bf-91e7-4ae7-9d0d-38f1e0ef63e1
-- format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/fb61ca7d-ac26-486d-9948-48acebdc6a1d/6/urql
 schema: default
 title: National Monitoring Framework - all-mode traffic count results September 2021
   - Cycling Scotland
