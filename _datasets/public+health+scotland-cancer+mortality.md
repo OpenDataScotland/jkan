@@ -3,7 +3,7 @@ category:
 - Health and Social Care
 - Sport and Leisure
 date_created: '2019-02-12'
-date_updated: '2025-02-25'
+date_updated: '2025-06-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. Data
@@ -14,7 +14,7 @@ notes: '<p>Annual data and 5 year summaries of deaths from cancer in Scotland. D
   head and neck, hodgkin lymphoma, kidney, leukaemias, liver, lung and mesothelioma,
   male genital organs, multiple myeloma, non-hodgkin lymphoma, oesophageal, pancreatic,
   skin, stomach.\r\n\r\nFurther information on cancer incidence can be found in the
-  <a href="https://beta.isdscotland.org/find-publications-and-data/conditions-and-diseases/cancer/cancer-mortality/">annual
+  <a href="https://publichealthscotland.scot/publications/cancer-mortality/cancer-mortality-in-scotland-annual-update-to-2021/">annual
   publication</a>.</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/cancer-mortality

@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2024-01-23'
+date_updated: '2025-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -19,9 +19,6 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-ce'
 records: null
 resources:
-- format: No file type
-  name: Controlled Parking Zones
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 - format: WFS
   name: Waiting and loading markings
   url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS

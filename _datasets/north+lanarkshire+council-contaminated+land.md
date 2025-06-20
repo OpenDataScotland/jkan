@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2017-05-24'
-date_updated: '2020-10-07'
+date_updated: '2025-06-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Contaminated Land</p>
