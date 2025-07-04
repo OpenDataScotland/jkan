@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2024-10-25'
+date_updated: '2025-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -31,9 +31,6 @@ organization: Stirling Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-st'
 records: null
 resources:
-- format: REST
-  name: Stirling Conservation Areas (not LLTNP)
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Planning_Conservation_Areas_HES/FeatureServer/8/query?outFields=*&where=1%3D1
 - format: REST
   name: Conservation Areas
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/planning_conservation_areas/FeatureServer/1

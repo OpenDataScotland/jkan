@@ -3,8 +3,8 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2022-11-03'
-date_updated: '2022-11-03'
-license: No licence
+date_updated: '2025-06-27'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p>Adopted City of Edinburgh Core Paths, output of Phase 4 of the CEC Core
   Paths Planning Process</p>

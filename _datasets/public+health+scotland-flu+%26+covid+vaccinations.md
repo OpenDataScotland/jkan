@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2025-06-12'
+date_updated: '2025-07-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This data resource shows the latest published vaccination statistics from
@@ -14,31 +14,31 @@ records: null
 resources:
 - format: CSV
   name: COVID - all delivered
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2c11d860-efbc-4ce7-8740-20bdd10f62ef/download/weekly_covid_all_delivered_vacc_scot_20250612.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2c11d860-efbc-4ce7-8740-20bdd10f62ef/download/weekly_covid_all_delivered_vacc_scot_20250703.csv
 - format: CSV
   name: COVID - all delivered daily
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/39c57ad5-158d-4405-80d0-ca3730b6fd8c/download/daily_covid_all_delivered_vacc_scot_20230406.csv
 - format: CSV
   name: COVID - JCVI
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/32e88ef9-8d36-4ec9-a43b-e014bed93599/download/weekly_covid_vacc_jcvi_20250612.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/32e88ef9-8d36-4ec9-a43b-e014bed93599/download/weekly_covid_vacc_jcvi_20250703.csv
 - format: CSV
   name: COVID - Scotland
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6978457e-f619-491c-885d-f60e90e81cbd/download/weekly_covid_vacc_scot_20250612.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6978457e-f619-491c-885d-f60e90e81cbd/download/weekly_covid_vacc_scot_20250703.csv
 - format: CSV
   name: COVID - eligible uptake
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/831b8008-7635-4774-8bf1-495985965546/download/weekly_covid_vacc_eligible_uptake_hb_20250612.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/831b8008-7635-4774-8bf1-495985965546/download/weekly_covid_vacc_eligible_uptake_hb_20250703.csv
 - format: CSV
   name: "COVID \u2013 ethnicity by Health Board "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/5536c83b-8ac9-4891-a3e9-3868f0ff8f73/download/covid_ethnicity_hb_20230129.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/5536c83b-8ac9-4891-a3e9-3868f0ff8f73/download/covid_ethnicity_hb_20231806.csv
 - format: CSV
   name: "COVID \u2013 ethnicity by JCVI "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2231708c-9cfa-4b27-a1ff-5cc8a45a02c3/download/covid_ethnicity_jcvi_20230129.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/2231708c-9cfa-4b27-a1ff-5cc8a45a02c3/download/covid_ethnicity_jcvi_20231806.csv
 - format: CSV
   name: "COVID \u2013 SIMD by Health Board "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/11b1540b-4b90-4ce6-a556-b51cfd592f0e/download/covid_simd_hb_20230129.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/11b1540b-4b90-4ce6-a556-b51cfd592f0e/download/covid_simd_hb_20231806.csv
 - format: CSV
   name: "COVID \u2013 SIMD by JCVI "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6e1c2d5b-4d11-49c2-8f5d-f067fc6deafa/download/covid_simd_jcvi_20230129.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/6e1c2d5b-4d11-49c2-8f5d-f067fc6deafa/download/covid_simd_jcvi_20231806.csv
 - format: CSV
   name: Flu - all delivered
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/dcf1b618-e42f-4020-b8ea-e4255bf7d8c1/download/weekly_flu_all_delivered_vacc_scot_20250403.csv

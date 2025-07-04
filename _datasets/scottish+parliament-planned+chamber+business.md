@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Council and Government
 date_created: ''
-date_updated: '2025-06-18'
+date_updated: '2025-06-24'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains Motions lodged by the Parliamentary Bureau that sets

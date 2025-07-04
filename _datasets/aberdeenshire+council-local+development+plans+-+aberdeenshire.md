@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-10-03'
+date_updated: '2025-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -23,6 +23,12 @@ resources:
 - format: OTHER
   name: LDP 2023 datasets
   url: https://spatialdata-abdnshire.opendata.arcgis.com/
+- format: ZIP
+  name: Aberdeenshire_LDP_points_2023
+  url: https://data.spatialhub.scot/dataset/3b8a3cf9-b463-46ad-9df8-7c22a1c3fab1/resource/cc0ea45b-4833-4ca4-8e7c-07116ec60411/download/aberdeenshire_ldp_points_2023.zip
+- format: ZIP
+  name: Aberdeenshire_LDP_polygons_2023
+  url: https://data.spatialhub.scot/dataset/3b8a3cf9-b463-46ad-9df8-7c22a1c3fab1/resource/9039a167-ce28-49e4-9546-f23d0a4104f9/download/aberdeenshire_ldp_polygons_2023.zip
 schema: default
 title: Local Development Plans - Aberdeenshire
 ---

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-07-27'
+date_updated: '2025-06-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -33,7 +33,7 @@ records: null
 resources:
 - format: ZIP
   name: Conservation Areas
-  url: https://data.spatialhub.scot/dataset/1ea9806c-6f1a-468a-8692-7875b44eebbe/resource/b0ce0026-d9d6-458f-8950-d59b48629af6/download/hes_conservationareas.zip
+  url: https://data.spatialhub.scot/dataset/1ea9806c-6f1a-468a-8692-7875b44eebbe/resource/b0ce0026-d9d6-458f-8950-d59b48629af6/download/cas25.zip
 schema: default
 title: Conservation Areas - Aberdeenshire
 ---

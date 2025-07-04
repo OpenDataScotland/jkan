@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-03-22'
+date_updated: '2025-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -31,9 +31,6 @@ organization: Glasgow City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-gc'
 records: null
 resources:
-- format: ZIP
-  name: Conservation Areas
-  url: https://data.spatialhub.scot/dataset/d1f11536-16ab-4365-94bf-64dfbe293b77/resource/4070921b-900a-47f1-9d60-88a4bec19dfc/download/conservationareasglasgow.zip
 - format: REST
   name: Conservation Areas
   url: https://utility.arcgis.com/usrsvcs/servers/bbb31c44f3434935b2f432c16e225bbc/rest/services/AGOL/CDP_Policy_Proposals/FeatureServer/14/query?outFields=*&where=1%3D1

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2025-03-24'
+date_updated: '2025-06-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -40,9 +40,6 @@ organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-pk'
 records: null
 resources:
-- format: REST
-  name: Green Belt
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/LDP2_Green_Belt/FeatureServer/6/query?outFields=*&where=1%3D1
 - format: REST
   name: Green Belt
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/LDP2_Green_Belt/FeatureServer/6

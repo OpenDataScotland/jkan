@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2025-06-10'
+date_updated: '2025-07-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -21,9 +21,6 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-dc'
 records: null
 resources:
-- format: No file type
-  name: Alcohol Prohibition Areas - Dundee
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
 - format: ZIP
   name: Dundee APA
   url: https://data.spatialhub.scot/dataset/6591cc57-9c3b-48a6-a921-aa7a52c46ece/resource/2e4b25ea-ac13-4875-bbe1-fb657f6b96ef/download/dundee-apa.zip

@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2023-02-03'
+date_updated: '2025-06-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -30,9 +30,6 @@ organization: Aberdeen City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-ac'
 records: null
 resources:
-- format: ZIP
-  name: Core Paths
-  url: https://data.spatialhub.scot/dataset/bab41785-e2e3-4a67-8db5-9581ccc7e5e8/resource/bcee7af7-1414-4720-b558-cd3efb38bb6b/download/core_paths_2009.zip
 - format: REST
   name: Core Paths 2009
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Core_Paths_2009/FeatureServer/0/query?outFields=*&where=1%3D1

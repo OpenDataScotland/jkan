@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-03-24'
+date_updated: '2025-07-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <p>PKC designated landscapes within Perth and Kinross which merit special attention,
@@ -18,9 +18,6 @@ organization: Perth & Kinross Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-pk'
 records: null
 resources:
-- format: REST
-  name: Local Landscape Areas
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Local_Landscape_Area/FeatureServer/28/query?outFields=*&where=1%3D1
 - format: REST
   name: Local Landscape Areas
   url: https://utility.arcgis.com/usrsvcs/servers/ca9d75da41664c398b0020b5fbe96aa8/rest/services/Local_Landscape_Area/FeatureServer/5

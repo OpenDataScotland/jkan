@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-02-01'
+date_updated: '2025-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -31,21 +31,6 @@ organization: Fife Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-fi'
 records: null
 resources:
-- format: ZIP
-  name: Fife conservation Areas 2016
-  url: https://data.spatialhub.scot/dataset/bf873e04-1ee0-4e03-8189-0d9a63222db4/resource/da11395c-d428-4492-a656-3cb84f3f88f7/download/conservationareasf.zip
-- format: No file type
-  name: Fife Conservation Areas
-  url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows
-- format: WFS
-  name: Conservation Areas
-  url: https://dservices1.arcgis.com/e4yMLodVNRqGnlnG/arcgis/services/Conservation_Areas/WFSServer?service=wfs&request=getcapabilities
-- format: ZIP
-  name: Fife Conservation Areas - September 2021
-  url: https://data.spatialhub.scot/dataset/bf873e04-1ee0-4e03-8189-0d9a63222db4/resource/5e56c382-06a0-4f81-9120-277cf0acde19/download/fife_conservation_areas_sept2021.zip
-- format: ZIP
-  name: Fife_Conservation_Areas_Apr2022
-  url: https://data.spatialhub.scot/dataset/bf873e04-1ee0-4e03-8189-0d9a63222db4/resource/e43d5d96-28fa-4df9-9c7a-48a4572ae3f7/download/fife_conservation_areas_apr2022.zip
 - format: REST
   name: Conservation Areas
   url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/arcgis/rest/services/Conservation_Areas/FeatureServer

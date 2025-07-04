@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-06-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -31,9 +31,6 @@ organization: Angus Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-an'
 records: null
 resources:
-- format: ZIP
-  name: Angus Conservation Areas 2016
-  url: https://data.spatialhub.scot/dataset/c4c39722-1ddb-4ae8-8804-4c0b93320600/resource/aba92111-232c-43c4-a9ea-47159644f8f4/download/angusconservationareas.zip
 - format: No file type
   name: Conservation Areas in Angus Council
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
