@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2025-01-29'
-date_updated: '2025-01-29'
+date_updated: '2025-07-08'
 license: No licence
 maintainer: Dundee City Council
 notes: "<p>File contains all charging sessions at DCC-owned public charge points from\

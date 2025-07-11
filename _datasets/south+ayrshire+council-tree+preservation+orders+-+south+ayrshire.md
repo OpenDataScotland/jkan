@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-01-26'
+date_updated: '2025-07-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -46,9 +46,9 @@ resources:
 - format: No file type
   name: Tree Preservation Orders
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer
-- format: 7-Zip compressed file
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/617735cb-5e5e-44f9-bfcd-ba15a693e2b6/resource/41d90da2-92a6-4ce7-ad78-1bf566c3d973/download/2020-02-13-na_ldp-tree-preservation-orders.7z
+- format: REST
+  name: 'Tree Preservation Orders - South Ayrshire '
+  url: https://gisext.south-ayrshire.gov.uk/server/rest/services/Inspire/OpenData/FeatureServer/4
 schema: default
 title: Tree Preservation Orders - South Ayrshire
 ---

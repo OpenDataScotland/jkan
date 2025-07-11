@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2024-05-28'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -20,7 +20,7 @@ records: null
 resources:
 - format: REST
   name: Local Nature Reserves
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/LDP2_Local_Nature_Reserve_PE19/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/LDP2_Local_Nature_Reserve_PE19/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Local Nature Reserves - Falkirk
 ---

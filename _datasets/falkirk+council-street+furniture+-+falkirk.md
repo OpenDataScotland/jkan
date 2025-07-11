@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2025-04-16'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -34,15 +34,15 @@ resources:
 - format: ZIP
   name: Street Lighting
   url: https://data.spatialhub.scot/dataset/d93a2450-b170-4eb7-b5c4-2ed48f85a087/resource/7ae7667b-4fb5-47cf-8712-63ac2a3e3165/download/fa-street_lighting.zip
-- format: REST
-  name: Bus Stops
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/ArcGIS/rest/services/Bus_Stops/FeatureServer
 - format: ZIP
   name: Falkirk Pedestrian Crossings
   url: https://data.spatialhub.scot/dataset/d93a2450-b170-4eb7-b5c4-2ed48f85a087/resource/956c7d61-da92-45b3-93e7-e76b5980daab/download/falkirk_pedestrian_crossings.zip
 - format: REST
+  name: Bus Stops
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Bus%20Stops/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: REST
   name: Grit Bins
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/ArcGIS/rest/services/Grit_Bins/FeatureServer
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Grit_Bins/FeatureServer/2/query?outFields=*&where=1%3D1
 schema: default
 title: Street Furniture - Falkirk
 ---

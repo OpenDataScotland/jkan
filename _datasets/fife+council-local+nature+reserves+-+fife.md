@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-01-23'
+date_updated: '2025-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Fife Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -18,9 +18,6 @@ organization: Fife Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-fi'
 records: null
 resources:
-- format: No file type
-  name: Local Nature Reserve
-  url: http://arcgisweb.fife.gov.uk/geoserver/fife/ows?service=WFS&request=GetFeature&typeName=fife:LOCAL_NATURE_RESERVE
 - format: REST
   name: Local Nature Reserves - Fife
   url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Natural_Heritage_Designations/FeatureServer/2

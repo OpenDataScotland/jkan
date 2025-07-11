@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-07-04'
+date_updated: '2025-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,9 +43,6 @@ organization: Angus Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-an'
 records: null
 resources:
-- format: ZIP
-  name: tpo_polygon.zip
-  url: https://data.spatialhub.scot/dataset/a1bae3b0-dbe9-47b7-922f-459b79797226/resource/6fe1297c-d214-41d1-918a-39be7d52a0bb/download/tpo_polygon.zip
 - format: WFS
   name: Tree Preservation Orders - Angus
   url: https://angus.maps.xmap.cloud/angus_public/tpo_poly/wfs

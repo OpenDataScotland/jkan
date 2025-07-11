@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-11-08'
-date_updated: '2025-05-01'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)
@@ -59,8 +59,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-fa'
 records: null
 resources:
 - format: REST
-  name: culvert
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Culverted%20Watercourses%20(FME)/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: Culverted Watercourses
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Culverted%20Watercourses/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Culverts - Falkirk
 ---

@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2023-09-13'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -28,7 +28,7 @@ records: null
 resources:
 - format: REST
   name: Local Landscape Areas
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/LDP2_Local_Landscape_Area/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/LDP2_Local_Landscape_Area/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Local Landscape Areas - Falkirk
 ---

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2024-05-28'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -33,7 +33,7 @@ records: null
 resources:
 - format: REST
   name: Conservation Areas
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/Conservation_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Conservation_Areas/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Conservation Areas - Falkirk
 ---

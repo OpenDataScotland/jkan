@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2024-11-28'
+date_updated: '2025-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Ayrshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,15 +43,6 @@ organization: East Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-ea'
 records: null
 resources:
-- format: ZIP
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/1eace3eb-2ecd-45bc-b8b2-dd40c8591879/resource/e7fe7a40-0ac9-4632-8ace-98221c8e0a8c/download/treepos.zip
-- format: ZIP
-  name: Tree Preservation Orders
-  url: https://data.spatialhub.scot/dataset/1eace3eb-2ecd-45bc-b8b2-dd40c8591879/resource/e5773306-2bce-4e31-ba08-85866ba486a1/download/tpos.zip
-- format: ZIP
-  name: Tree Preservation Order
-  url: https://data.spatialhub.scot/dataset/1eace3eb-2ecd-45bc-b8b2-dd40c8591879/resource/8d5e61b5-b5fa-490b-bafb-6380b3d755db/download/treepos1.zip
 - format: ZIP
   name: Tree Preservation Orders
   url: https://data.spatialhub.scot/dataset/1eace3eb-2ecd-45bc-b8b2-dd40c8591879/resource/5be30476-1043-47f5-914f-8c972f40a6db/download/tpos.zip

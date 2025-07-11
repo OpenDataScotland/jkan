@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2025-06-10'
+date_updated: '2025-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -39,14 +39,17 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-th
 records: null
 resources:
 - format: CSV
-  name: "Data by Board \u2013 January to March 2025"
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc2025_01_03.csv
+  name: "Data by Board \u2013 January to April 2025"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9de908b3-9c28-4cc3-aa32-72350a0579d1/download/hb_pitc2025_01_04.csv
 - format: CSV
   name: "Data by Board \u2013 January to June 2024"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/f0df380b-3f9b-4536-bb87-569e189b727a/download/hb_pitc2024_01_06-1.csv
 - format: CSV
   name: "Data by Board \u2013 July to December 2024"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/f3b9f2e2-66c0-4310-9b8e-734781d2ed0a/download/hb_pitc2024_07_12-1.csv
+- format: CSV
+  name: Data by Prescriber Location - April 2025
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/a36a1902-da40-4063-a103-ee3934b7623e/download/pitc202504.csv
 - format: CSV
   name: Data by Prescriber Location - March 2025
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9849b4dd-b130-4a81-96a7-5bd00db5e2a9/download/pitc202503.csv
@@ -389,6 +392,9 @@ resources:
 - format: CSV
   name: Data by Prescriber Location - October 2015
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/0bc89016-e791-4a8a-9b2f-5bcffc402ce5/download/pitc201510.csv
+- format: CSV
+  name: Data by Dispenser Location - April 2025
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/2f965699-3671-48cf-95ca-c6d427b5dc8d/download/disp_pitc202504.csv
 - format: CSV
   name: Data by Dispenser Location - March 2025
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/50f65219-8bc7-48ea-a5ca-cf13fe0ff7fa/download/disp_pitc202503.csv

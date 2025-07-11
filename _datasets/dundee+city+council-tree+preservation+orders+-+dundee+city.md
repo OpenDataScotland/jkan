@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2023-01-26'
+date_updated: '2025-07-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,9 +43,6 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-dc'
 records: null
 resources:
-- format: No file type
-  name: Tree Treservation Orders
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?
 - format: REST
   name: TPO boundary
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/TPO_edits_view/FeatureServer/0/query?outFields=*&where=1%3D1

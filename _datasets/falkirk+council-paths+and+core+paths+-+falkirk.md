@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2025-06-26'
+date_updated: '2025-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -31,8 +31,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_pat
 records: null
 resources:
 - format: REST
-  name: Core paths - existing and draft
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/arcgis/rest/services/All_Core_Path_Plan_Routes_2022/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: Core Paths
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Core%20Paths/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Paths And Core Paths - Falkirk
 ---
