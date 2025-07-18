@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-01-23'
+date_updated: '2025-07-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -48,7 +48,7 @@ resources:
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/tpo/FeatureServer/0/query?outFields=*&where=1%3D1&f=json
 - format: REST
   name: Tree Preservation Orders (polygons) - Stirling
-  url: https://services9.arcgis.com/wZYknYToxgELcbw2/ArcGIS/rest/services/TPO_test_polygons/FeatureServer/0
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/TPO_Oct_2023/FeatureServer/0
 schema: default
 title: Tree Preservation Orders - Stirling
 ---

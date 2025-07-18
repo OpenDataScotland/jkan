@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-06-24'
+date_updated: '2025-07-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -34,6 +34,12 @@ resources:
 - format: No file type
   name: Conservation Areas in Angus Council
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
+- format: WFS
+  name: Conservation Areas - Angus
+  url: https://angus.maps.xmap.cloud/angus_public/wfs
+- format: WFS
+  name: Conservation Areas - Angus
+  url: https://angus.maps.xmap.cloud/angus_public/angus_conservation_areas/wfs
 schema: default
 title: Conservation Areas - Angus
 ---

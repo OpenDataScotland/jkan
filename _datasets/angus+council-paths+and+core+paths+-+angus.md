@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-07-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -33,6 +33,12 @@ resources:
 - format: No file type
   name: Angus Community Core Paths
   url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
+- format: WFS
+  name: Core Paths - Angus
+  url: https://angus.maps.xmap.cloud/angus_public/wfs
+- format: WFS
+  name: Core Paths - Angus
+  url: https://angus.maps.xmap.cloud/angus_public/adopted_core_paths/wfs
 schema: default
 title: Paths And Core Paths - Angus
 ---

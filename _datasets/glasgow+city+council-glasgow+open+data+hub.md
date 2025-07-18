@@ -1,8 +1,8 @@
 ---
 category:
-- Arts / Culture / History
+- Uncategorised
 date_created: '2020-11-23'
-date_updated: '2025-03-14'
+date_updated: '2025-07-17'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Create your own initiative by combining existing applications with a custom
@@ -19,5 +19,5 @@ resources:
   name: Esri REST
   url: https://data.glasgow.gov.uk
 schema: default
-title: Open Data design
+title: Glasgow Open Data Hub
 ---

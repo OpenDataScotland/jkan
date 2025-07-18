@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-05-08'
+date_updated: '2025-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -31,6 +31,9 @@ resources:
 - format: No file type
   name: Angus community-council-boundaries.geojson
   url: https://data.spatialhub.scot/dataset/a22e6489-e492-4a93-b1f1-ea1433faea60/resource/d044ce40-dfe4-4fc6-a61e-54df4136a81c/download/angus-community-council-boundaries.geojson
+- format: WFS
+  name: Community Councils
+  url: https://angus.maps.xmap.cloud/angus_public/community_councils/wfs
 schema: default
 title: Community Council Boundaries - Angus
 ---

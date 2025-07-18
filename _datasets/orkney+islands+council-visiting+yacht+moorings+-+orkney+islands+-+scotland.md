@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Sport and Leisure
 date_created: '2024-04-11'
-date_updated: '2024-04-30'
+date_updated: '2025-07-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: '<p>Visiting Yacht Moorings (VYM) are deployed by Orkney Islands Council. They

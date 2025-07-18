@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2025-06-10'
+date_updated: '2025-07-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -22,8 +22,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: WFS
-  name: WFS for alcohol prohibition areas
-  url: https://data.angus.gov.uk/geoserver/services/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=services%3Aprohibited_drinking_areas&outputFormat=application%2Fjson
+  name: alcohol_prohibition_areas
+  url: https://angus.maps.xmap.cloud/angus_public/alcohol_prohibition_areas/wfs
 schema: default
 title: Alcohol Prohibition Areas - Angus
 ---
