@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-08-29'
-date_updated: '2025-04-29'
+date_updated: '2025-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p style='margin-top:0pt; margin-bottom:12pt; font-size:12pt;'></p>\n<p style='margin-top:0pt;\
@@ -57,6 +57,21 @@ resources:
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/833795b61b614d3d81492470d8bf6018/sqlite?layers=0
 schema: default
 title: Dundee Housing Land Audit 2024
 ---

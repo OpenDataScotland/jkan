@@ -21,42 +21,15 @@ notes: <p><b>Historic Environment Scotland Guidance;</b><div><br /></div><div><d
   owners or occupiers may appeal our decisions.</div><div><br /></div><div>Scheduling
   is not the same as listing and uses different legislation.</div></div></p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scheduled-monuments-stirling-and-clacks-historic-environment-scotland-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::scheduled-monuments-stirling-and-clacks-historic-environment-scotland-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::scheduled-monuments-stirling-and-clacks-historic-environment-scotland-open-data
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::scheduled-monuments-stirling-and-clacks-historic-environment-scotland-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/historic_environment_scotland_scheduled_monuments_stirling_and_clacks/FeatureServer/1
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/csv?layers=1
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/shapefile?layers=1
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/geojson?layers=1
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/kml?layers=1
-- format: ZIP
-  name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/filegdb?layers=1
-- format: TXT
-  name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/featureCollection?layers=1
-- format: MS EXCEL
-  name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/excel?layers=1
-- format: GPKG
-  name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/geoPackage?layers=1
-- format: GDB
-  name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/65c2975dbd064d0686b756a82117ef06/sqlite?layers=1
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/historic_environment_scotland_scheduled_monuments_stirling_and_clacks/FeatureServer
 schema: default
 title: Scheduled monuments (stirling and clacks) historic environment scotland - open
   data

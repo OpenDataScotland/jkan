@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-07-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,9 +36,9 @@ organization: Angus Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-an'
 records: null
 resources:
-- format: No file type
-  name: law_pollingplaces
-  url: https://data.angus.gov.uk/geoserver/inspire/ows?version=2.0.0&
+- format: WFS
+  name: Polling Places
+  url: https://angus.maps.xmap.cloud/angus_public/polling_stations/wfs
 schema: default
 title: Polling Places - Angus
 ---

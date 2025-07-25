@@ -7,12 +7,12 @@ license: No licence
 maintainer: Stirling Council
 notes: ''
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/ccf0ba9d8a1548d2abadc45ad925905a_95
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::wayfinding-and-visitor-info-points
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/ccf0ba9d8a1548d2abadc45ad925905a_95
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::wayfinding-and-visitor-info-points
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Wayfinding_and_Visitor_Info_Points/FeatureServer/95
