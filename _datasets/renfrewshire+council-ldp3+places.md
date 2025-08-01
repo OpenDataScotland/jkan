@@ -29,7 +29,7 @@ notes: "<p>A Community Council is a voluntary organisation set up by statute by 
   \ (http://www.communitycouncils.scot/what-is-a-community-council.html)</p>"
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=0c5d3b2a885a477ab30d65c28c4defbb
-records: null
+records: 15
 resources: []
 schema: default
 title: LDP3 Places

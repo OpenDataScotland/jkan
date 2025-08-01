@@ -15,7 +15,7 @@ notes: <p>Housing Land Audit 2018 sites for housing with a capacity for 4 or mor
   can be found at Development Monitoring.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cabe9105f3de49b498c3a0362c446099
-records: 132
+records: null
 resources: []
 schema: default
 title: Housing Land Audit 2018 (Moray)

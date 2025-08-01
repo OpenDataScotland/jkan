@@ -20,7 +20,7 @@ notes: <p>Detailed statistics on what mode of transport people usually use to ge
   and, since 2012, has operated with a fully unclustered sample design.</p>
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=71efe4b2a5f64a4f99842eb37af251db
-records: null
+records: 2
 resources: []
 schema: default
 title: Travel to Work and Other Purposes
