@@ -20,7 +20,7 @@ notes: "<p>Vacant and Derelict Audit 2024 (Moray)\_The Scottish Vacant and Derel
   \ local authorities.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=adbde526e9144bcab7aeca4341c2e421
-records: null
+records: 23
 resources: []
 schema: default
 title: Vacant and Derelict Land Audit 2024 (Moray)

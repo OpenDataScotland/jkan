@@ -9,7 +9,7 @@ notes: <p>Alcohol Prohibition Areas (Moray) in relation to Byelaws Prohibiting t
   Consumption of Alcohol in Designated Public Places.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=e4828a4acfb846b9a2c3eee19058acba
-records: null
+records: 5
 resources: []
 schema: default
 title: Alcohol Prohibition Areas (Moray)

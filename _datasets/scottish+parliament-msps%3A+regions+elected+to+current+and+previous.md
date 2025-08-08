@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: '2025-07-29'
+date_updated: '2025-08-03'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains the region that a member has been elected for, and

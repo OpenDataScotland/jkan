@@ -17,7 +17,7 @@ notes: <p>Vacant and Derelict Land Audit 2017 (Moray) The Scottish Vacant and De
   Authority.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=bc20bcb55c1245489bf3da4128a3aba1
-records: null
+records: 21
 resources: []
 schema: default
 title: Vacant and Derelict Land Audit 2017 (Moray)

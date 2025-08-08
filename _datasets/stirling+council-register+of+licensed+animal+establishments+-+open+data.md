@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Law and Licensing
 date_created: '2025-02-12'
-date_updated: '2025-02-12'
+date_updated: '2025-08-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>The Animal Welfare (licensing of Activities Involving Animals) (Scotland)

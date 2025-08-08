@@ -11,7 +11,7 @@ notes: "<p>Primary School Catchments (Moray) (Denominational).\_ The zones  (cat
   \ areas is available at the Moray Council website.</p>"
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=bcf635b45e9044b0ab64343f503228d5
-records: null
+records: 4
 resources: []
 schema: default
 title: Primary School Catchments (Moray) (Denominational)
