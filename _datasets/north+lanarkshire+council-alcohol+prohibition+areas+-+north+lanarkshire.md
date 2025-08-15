@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-08-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -21,9 +21,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-nl'
 records: null
 resources:
-- format: WFS
-  name: Alcohol Prohib Areas
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
+- format: REST
+  name: Alcohol Prohibition Areas
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Alcohol_Prohibition_Areas_View/FeatureServer
 schema: default
 title: Alcohol Prohibition Areas - North Lanarkshire
 ---

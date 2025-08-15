@@ -7,9 +7,9 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2025-08-12'
+date_updated: '2025-08-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: North Lanarkshire Council
+maintainer: Argyll and Bute Council
 notes: "<p>A council development plan may designate a green belt around a city or\
   \ town to support the spatial strategy by:\n - directing development to the most\
   \ appropriate locations and supporting regeneration;\n - protecting and enhancing\
@@ -36,13 +36,13 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                                              \
   \                                                  </p>"
-organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-nl'
+organization: Argyll and Bute Council
+original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-ab'
 records: null
 resources:
 - format: REST
-  name: Green Belt
-  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/LDP_2022_View/FeatureServer/30
+  name: Green belt
+  url: https://services3.arcgis.com/P9TS3kr70SK8tJXs/arcgis/rest/services/PLDP2_EX20_DMZones/FeatureServer/0/query?f=json&where=(CLASS%20IN%20('Greenbelt'))&outFields=*
 schema: default
-title: Green Belt - North Lanarkshire
+title: Green Belt - Argyll and Bute
 ---

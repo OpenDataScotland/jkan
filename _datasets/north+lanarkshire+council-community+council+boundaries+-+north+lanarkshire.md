@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-08-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,9 +25,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-nl'
 records: null
 resources:
-- format: WFS
-  name: N. Lanarkshire community councils
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?
+- format: REST
+  name: Community Councils - North Lanarkshire
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Community_Councils_view/FeatureServer
 schema: default
 title: Community Council Boundaries - North Lanarkshire
 ---

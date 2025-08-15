@@ -7,9 +7,9 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-08-12'
+date_updated: '2025-08-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: North Lanarkshire Council
+maintainer: Argyll and Bute Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
   Act 1997 a local authority may determine which parts of its area are of special
   architectural or historic interest and may designate these as Conservation Areas.
@@ -27,13 +27,13 @@ notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotlan
   <p>However, the final published data layer will contain Conservation Areas, Conservation
   Areas with associated Article 4 Directions, Article 4 Directions associated with
   a Conservation Area, and a small number of discrete Article 4 Direction areas.</p>'
-organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-nl'
+organization: Argyll and Bute Council
+original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-ab'
 records: null
 resources:
-- format: REST
+- format: WFS
   name: Conservation Areas
-  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Conservation_Areas_view/FeatureServer
+  url: https://arcgis.argyll-bute.gov.uk/arcgis/services/Open_Data/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
-title: Conservation Areas - North Lanarkshire
+title: Conservation Areas - Argyll and Bute
 ---
