@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-08-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,9 +25,9 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-dc'
 records: null
 resources:
-- format: No file type
-  name: Community Council Wards
-  url: http://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities%0Ahttp://inspire.dundeecity.gov.uk/geoserver/inspire/wfs?service=wfs&version=2.0.0&request=getCapabilities
+- format: ZIP
+  name: community_councils.zip
+  url: https://data.spatialhub.scot/dataset/602a5e01-b770-4d98-bd52-bf1bb52b8a8e/resource/d267cc7b-a72b-435e-9d39-be091fa51836/download/dc_community_councils.zip
 schema: default
 title: Community Council Boundaries - Dundee City
 ---

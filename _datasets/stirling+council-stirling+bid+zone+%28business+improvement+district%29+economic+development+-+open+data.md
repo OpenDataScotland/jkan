@@ -1,7 +1,7 @@
 ---
 category:
 - Business and Economy
-date_created: '2022-09-21'
+date_created: '2025-04-05'
 date_updated: '2025-04-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
@@ -14,42 +14,15 @@ notes: "<p>A Business Improvement District (BID) is a defined area in which busi
   \ can be provided through a BID, as long as they are an addition to services provided\
   \ by local authorities.</div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::stirling-bid-zone-business-improvement-district-economic-development-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::stirling-bid-zone-business-improvement-district-economic-development-open-data-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::stirling-bid-zone-business-improvement-district-economic-development-open-data
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::stirling-bid-zone-business-improvement-district-economic-development-open-data-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/CityBidArea/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/csv?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/shapefile?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/geojson?layers=0
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/kml?layers=0
-- format: ZIP
-  name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/filegdb?layers=0
-- format: TXT
-  name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/featureCollection?layers=0
-- format: MS EXCEL
-  name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/excel?layers=0
-- format: GPKG
-  name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/geoPackage?layers=0
-- format: GDB
-  name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/8c3e34d7f9c14338ab3ec9aca57fe3fa/sqlite?layers=0
+  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=37ea522b33b8465188bc44f6b54dc84b
 schema: default
 title: Stirling bid zone (business improvement district) economic development - open
   data

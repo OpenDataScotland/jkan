@@ -19,12 +19,12 @@ notes: "<div><b>This dataset is published as Open Data</b><br /></div>\n<div><br
   <div><br /></div>\n<div>National Records of Scotland and Scotland\u2019s People\
   \ provide useful information for those wishing to research their family tree.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/7f7ba62386f94a3cb95d203fb3217556_0
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::burial-records-drymen-cemetery-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/7f7ba62386f94a3cb95d203fb3217556_0
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::burial-records-drymen-cemetery-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_burial_records_drymen/FeatureServer/0

@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2024-07-14'
-date_updated: '2024-07-14'
+date_updated: '2024-08-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>This dataset is published as Open Data on Stirling Council's Open\
@@ -45,15 +45,12 @@ notes: "<div><b>This dataset is published as Open Data on Stirling Council's Ope
   \ Known Site Extents and Areas of Archaeological Interest) - Historic Environment\
   \ Events (also known as interventions)</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-historic-environment-records-sites-2
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-environment-records-sites-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-historic-environment-records-sites-2
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=52afc97f331f4b25b7fd18cc475af172
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-environment-records-sites-1
 schema: default
 title: Open data - historic environment records sites
 ---

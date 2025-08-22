@@ -5,19 +5,16 @@ category:
 - Transportation
 date_created: '2023-04-02'
 date_updated: '2024-07-30'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: ''
+notes: <p>traffic management - car parks</p>
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::traffic-management-car-parks-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::traffic-management-car-parks
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::traffic-management-car-parks-1
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://stirling-council.maps.arcgis.com/apps/instant/media/index.html?appid=8023820a9e6b48b2a47c3d37e5dde24a
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::traffic-management-car-parks
 schema: default
 title: Traffic management - car parks
 ---
