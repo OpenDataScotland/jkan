@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-08-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Dunbartonshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -39,6 +39,9 @@ resources:
 - format: No file type
   name: Polling Places - WFS
   url: https://maps.eastdunbarton.gov.uk/arcgis/services/EDC_Map/Polling_and_Political_Info/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: ed_polling_places.zip
+  url: https://data.spatialhub.scot/dataset/8264ba6c-57e2-481e-971f-6b4e765608b8/resource/2254af3c-a54e-4fdb-b312-9698d1d25c19/download/ed_polling_places.zip
 schema: default
 title: Polling Places - East Dunbartonshire
 ---

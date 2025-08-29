@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2025-08-15'
+date_updated: '2025-08-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Argyll and Bute Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -40,9 +40,9 @@ organization: Argyll and Bute Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-ab'
 records: null
 resources:
-- format: REST
-  name: Green belt
-  url: https://services3.arcgis.com/P9TS3kr70SK8tJXs/arcgis/rest/services/PLDP2_EX20_DMZones/FeatureServer/0/query?f=json&where=(CLASS%20IN%20('Greenbelt'))&outFields=*
+- format: OTHER
+  name: Green Belt
+  url: https://data-argyll-bute.opendata.arcgis.com/datasets/95286411765d489ca5696d0944771a7f_0/explore?filters=eyJDTEFTUyI6WyJHcmVlbmJlbHQiXX0%3D
 schema: default
 title: Green Belt - Argyll and Bute
 ---
