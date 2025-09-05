@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2023-11-20'
-date_updated: '2024-07-19'
+date_updated: '2025-09-01'
 license: No licence
 maintainer: Argyll and Bute Council
 notes: <p>Local Landscape Areas designated in the Argyll and Bute Local Development

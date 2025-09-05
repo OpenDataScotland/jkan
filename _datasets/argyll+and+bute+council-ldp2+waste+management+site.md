@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2023-11-20'
-date_updated: '2023-11-29'
+date_updated: '2025-09-01'
 license: No licence
 maintainer: Argyll and Bute Council
 notes: <p>Existing and proposed sites for medium to large scale waste management facilities,

@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2025-01-03'
+date_updated: '2025-09-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -47,20 +47,14 @@ resources:
   name: Denominational primary schools
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Roman_Catholic_Primary_School_Catchments/FeatureServer/6/query?outFields=*&where=1%3D1
 - format: REST
-  name: Denominational secondary schools
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Roman_Catholic_Secondary_School_Catchments/FeatureServer/6/query?outFields=*&where=1%3D1
-- format: REST
-  name: Primary School catchments
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Primary_School_Catchments/FeatureServer/5/query?outFields=*&where=1%3D1
-- format: REST
-  name: Secondary school catchments
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Secondary_School_Catchments/FeatureServer/6/query?outFields=*&where=1%3D1
-- format: REST
   name: Secondary School Catchments
   url: https://utility.arcgis.com/usrsvcs/servers/f0fafab524e4497da2779b48c25a92e6/rest/services/Secondary_School_Catchments/FeatureServer/27/query?outFields=*&where=1%3D1&f=json
 - format: OTHER
   name: Primary School catchments
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/c92c9cc2ca3c4e4382dc956c425ef58a_27/explore?location=56.534376%2C-3.868550%2C8.78
+- format: ZIP
+  name: Secondary School RC Catchments
+  url: https://data.spatialhub.scot/dataset/d637466e-b639-4e06-94be-b247443d4541/resource/cba138dd-1b7b-40e6-b18a-0a36ebbb17c9/download/pk_secondary_rc_catchments.zip
 schema: default
 title: School Catchments - Perth and Kinross
 ---

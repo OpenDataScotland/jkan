@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2023-11-20'
-date_updated: '2024-05-23'
+date_updated: '2025-09-02'
 license: No licence
 maintainer: Argyll and Bute Council
 notes: <p>Development Management Zones designated in the Argyll and Bute adopted Local

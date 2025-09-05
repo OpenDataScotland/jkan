@@ -13,8 +13,8 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: PDF
-  name: AttitudesBehaviours_results from minority ethnic study_2023_CyclingScotland.pdf
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=0282044c-e312-42ef-85a7-d87cb0289f6a
+  name: AttitudesBehaviours_results_2021_CyclingScotland_USMaster.pdf.pdf
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=c1d57bfa-d011-4608-99bf-694b1cf72564
 schema: default
 title: Attitudes and behaviours towards cycling in Scotland - Cycling Scotland
 ---
