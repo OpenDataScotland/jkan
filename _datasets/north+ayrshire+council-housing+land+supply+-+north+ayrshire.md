@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-06-24'
+date_updated: '2025-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -22,6 +22,9 @@ resources:
 - format: No file type
   name: north_ayrshire_hla_2022_23
   url: https://data.spatialhub.scot/dataset/f2c47db7-bc57-498c-a56e-bde9d9e3a430/resource/ac952c8f-5d19-4f11-9f0c-0dedc911cb16/download/north_ayrshire_hla_2022_23.gpkg
+- format: ZIP
+  name: Housing_Land_Audit_2024_North_Ayrshire
+  url: https://data.spatialhub.scot/dataset/f2c47db7-bc57-498c-a56e-bde9d9e3a430/resource/50707811-a708-42c8-bb0e-2dfa8d4577c6/download/housing_land_audit_2024_north_ayrshire.zip
 schema: default
 title: Housing Land Supply - North Ayrshire
 ---

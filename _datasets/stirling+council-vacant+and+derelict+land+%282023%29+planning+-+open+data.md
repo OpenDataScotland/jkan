@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-07-03'
-date_updated: '2025-05-06'
+date_updated: '2025-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>Vacant land is defined by the Scottish Government as 'land viewed as an\

@@ -1,0 +1,22 @@
+---
+category:
+- Business and Economy
+- Council and Government
+- Elections / Politics
+- Planning and Development
+date_created: '2023-02-27'
+date_updated: '2025-09-09'
+license: No licence
+maintainer: Stirling Council
+notes: <p>council area key statistics, population estimates, census, and scottish
+  index of multiple deprivation, child poverty, broadband coverage</p>
+organization: Stirling Council
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/pages/stirling-council::monthly-key-stats-census-digital-inclusion
+records: null
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/pages/stirling-council::monthly-key-stats-census-digital-inclusion
+schema: default
+title: Monthly key stats, census, digital inclusion
+---
