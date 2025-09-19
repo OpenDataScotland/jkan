@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-01-27'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
@@ -27,6 +27,9 @@ resources:
 - format: WFS
   name: Smoke Control Areas
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Smoke_Control_Areas
+- format: WFS
+  name: Smoke Control Areas
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Smoke_Control_Areas
 schema: default
 title: Smoke Control Areas - Clackmannanshire
 ---

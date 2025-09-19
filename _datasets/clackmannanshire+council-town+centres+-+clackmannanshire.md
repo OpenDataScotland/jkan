@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -17,6 +17,9 @@ resources:
 - format: WFS
   name: Town Centres
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Town_Centres
+- format: WFS
+  name: Town Centres
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Town_Centres
 schema: default
 title: Town Centres - Clackmannanshire
 ---

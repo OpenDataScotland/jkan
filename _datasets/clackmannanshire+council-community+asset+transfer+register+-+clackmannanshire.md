@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -43,9 +43,9 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_asset_transfer_register-cl'
 records: null
 resources:
-- format: ZIP
-  name: estates_asset_register_january_25_for_spatial_hub.zip
-  url: https://data.spatialhub.scot/dataset/584c9e2f-3e28-4230-8ab2-efb2bb0894fd/resource/8b4facac-22a1-4164-866c-5fba9940cccd/download/estates_asset_register_january_25_for_spatial_hub.zip
+- format: WFS
+  name: Estates Asset Register
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Estates_Asset_Register
 schema: default
 title: Community Asset Transfer Register - Clackmannanshire
 ---

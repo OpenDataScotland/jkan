@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2018-07-23'
-date_updated: '2024-10-08'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset captures any data that pertains to locations of safety equipment
@@ -21,6 +21,9 @@ resources:
 - format: WFS
   name: CCTV Cameras
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:cctv_cameras
+- format: WFS
+  name: CCTV Cameras
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:CCTV_Cameras
 schema: default
 title: Safety Features - Clackmannanshire
 ---

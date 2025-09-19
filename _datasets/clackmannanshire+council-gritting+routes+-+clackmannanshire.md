@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-05-19'
+date_updated: '2025-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -29,6 +29,12 @@ resources:
 - format: WFS
   name: Road Gritting Routes
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Gritting_-_Road
+- format: WFS
+  name: Gritting Footpaths
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Gritting_-_Footpath
+- format: WFS
+  name: Gritting - Roads
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Gritting_-_Road
 schema: default
 title: Gritting Routes - Clackmannanshire
 ---

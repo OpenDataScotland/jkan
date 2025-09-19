@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-12-11'
-date_updated: '2025-05-19'
+date_updated: '2025-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>These Strategies are a requirement that has now been added into Town and\
@@ -26,6 +26,9 @@ resources:
 - format: WFS
   name: Forestry and Woodland Strategy
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Forestry_and_Woodland_Strategy
+- format: WFS
+  name: Forestry & Woodland Strategy
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Forestry___Woodland_Strategy
 schema: default
 title: Forestry And Woodland Strategy - Clackmannanshire
 ---

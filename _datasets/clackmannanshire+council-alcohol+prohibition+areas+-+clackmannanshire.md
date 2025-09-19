@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2024-10-16'
+date_updated: '2025-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -24,6 +24,9 @@ resources:
 - format: WFS
   name: Clacks APAs
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:alcohol_prohibition_areas
+- format: WFS
+  name: Alcohol Prohibition Areas
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Alcohol_Prohibition_Areas
 schema: default
 title: Alcohol Prohibition Areas - Clackmannanshire
 ---

@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-05-20'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -26,9 +26,9 @@ organization: Clackmannanshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-cl'
 records: null
 resources:
-- format: APPLICATION/X-MSDOS-PROGRAM
+- format: WFS
   name: Special Landscape Areas
-  url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Special_Landscape_Areas
 schema: default
 title: Local Landscape Areas - Clackmannanshire
 ---

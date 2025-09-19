@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-05-19'
+date_updated: '2025-09-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Councils collect various datasets to do with their cycle network. These
@@ -20,6 +20,9 @@ resources:
 - format: WFS
   name: Cycle Paths
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:cycle_paths
+- format: WFS
+  name: Cycle Paths
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Cycle_Paths
 schema: default
 title: Cycling Network - Clackmannanshire
 ---

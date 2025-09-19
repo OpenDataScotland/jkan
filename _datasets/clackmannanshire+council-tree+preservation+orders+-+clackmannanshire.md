@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -46,6 +46,9 @@ resources:
 - format: WFS
   name: TPOs
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Tree_Preservation_Orders
+- format: WFS
+  name: Tree Preservation Orders
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Tree_Preservation_Orders
 schema: default
 title: Tree Preservation Orders - Clackmannanshire
 ---

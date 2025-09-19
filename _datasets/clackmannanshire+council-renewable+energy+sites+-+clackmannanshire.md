@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2024-10-04'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Many local authorities collect details of where the renewable energy sites
@@ -18,6 +18,15 @@ resources:
 - format: No file type
   name: Renewable Energy Sites
   url: https://data.spatialhub.scot/dataset/aceaecc0-c3d3-44aa-9f4c-6b1e8ad1b423/resource/324dd170-ab38-483d-b88e-79375f2be7fb/download/clacks_renewables.gpkg
+- format: WFS
+  name: Solar Energy Sites
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Solar_Energy_Sites
+- format: WFS
+  name: Wind Energy Sites
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Wind_Energy_Sites
+- format: WFS
+  name: Hyrdo Energy Sites
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Hydro_Energy_Sites
 schema: default
 title: Renewable Energy Sites - Clackmannanshire
 ---

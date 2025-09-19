@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -52,6 +52,18 @@ resources:
 - format: WFS
   name: Secondary School Catchments
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Secondary_School_Catchments
+- format: WFS
+  name: Primary School Catchments
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Primary_School_Catchments
+- format: WFS
+  name: RC Primary School Catchments
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Roman_Catholic_Primary_School_Catchments
+- format: WFS
+  name: RC Secondary School Catchments
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Roman_Catholic_Secondary_School_Catchments
+- format: WFS
+  name: Secondary School Catchments
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Secondary_School_Catchments
 schema: default
 title: School Catchments - Clackmannanshire
 ---

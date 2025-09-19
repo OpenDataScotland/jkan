@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -20,6 +20,9 @@ resources:
 - format: WFS
   name: Recycling Points
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Recycling_Points
+- format: WFS
+  name: Recycling Points
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Recycling_Points
 schema: default
 title: Recycling And Waste Facilities - Clackmannanshire
 ---

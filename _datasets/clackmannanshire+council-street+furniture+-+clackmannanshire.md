@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2025-05-19'
+date_updated: '2025-09-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -49,6 +49,24 @@ resources:
 - format: WFS
   name: Pedestrian Crossings
   url: https://clacks.cloud.cadcorp.com/WFS/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Pedestrian_Crossings
+- format: WFS
+  name: Street Lighting Columns
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Street_Lighting_Columns
+- format: WFS
+  name: Gri Bins
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Grit_Bins
+- format: WFS
+  name: Litter Bins
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Litter_Bins
+- format: WFS
+  name: Dog Bins
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Dog_Bins
+- format: WFS
+  name: Electric Vehicle Charging Points
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Electric_Vehicle_Charging_Points
+- format: WFS
+  name: Pedestrian Crossings
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Pedestrian_Crossings
 schema: default
 title: Street Furniture - Clackmannanshire
 ---
