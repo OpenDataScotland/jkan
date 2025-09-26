@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-07-10'
+date_updated: '2025-09-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Falkirk Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -20,8 +20,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-fa'
 records: null
 resources:
 - format: REST
-  name: Car Parks
-  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Car_Parks_(PwO)/FeatureServer/0/query?outFields=*&where=1%3D1
+  name: Car Parking Polygons
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/arcgis/rest/services/Car_Parks_(PwO)/FeatureServer
 schema: default
 title: Car Parking - Falkirk
 ---

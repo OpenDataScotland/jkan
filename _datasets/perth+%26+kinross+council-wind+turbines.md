@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2023-10-18'
-date_updated: '2025-01-22'
+date_updated: '2025-09-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Planning applications

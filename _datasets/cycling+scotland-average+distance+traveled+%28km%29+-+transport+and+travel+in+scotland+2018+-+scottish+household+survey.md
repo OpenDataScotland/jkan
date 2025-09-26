@@ -17,8 +17,8 @@ original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery
 records: null
 resources:
 - format: CSV
-  name: SHS_AverageJourneyDistance_LocalAuthority_2018_TransportScotland_USMaster.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=9c3a1332-406b-4264-b619-bff7f4449600
+  name: SHS_AverageJourneyDistance_UrbanRural_2018_TransportScotland_USMaster.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=8416825e-78b4-4a3b-9573-9e9bd79d0299
 - format: JSON
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/821b3439-2f43-4d31-a53e-1695f37ed1b0/2/urql
