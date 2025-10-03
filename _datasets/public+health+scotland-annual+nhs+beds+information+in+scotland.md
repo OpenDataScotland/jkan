@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2024-09-24'
+date_updated: '2025-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>In order to provide an effective, safe and efficient service to patients,
@@ -26,5 +26,5 @@ resources:
   name: Hospital Locations Lookup File
   url: https://www.opendata.nhs.scot/dataset/7e21f62c-64a1-4aa7-b160-60cbdd8a700d/resource/1ac6f087-acb3-481f-be93-528ef0c55ade/download/sct-annual-2023-locations-lookup.csv
 schema: default
-title: Annual Hospital Beds Information
+title: Annual NHS beds information in Scotland
 ---

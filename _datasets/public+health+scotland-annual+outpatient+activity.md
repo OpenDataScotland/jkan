@@ -1,28 +1,31 @@
 ---
 category:
-- Business and Economy
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2024-09-24'
+date_updated: '2025-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>Patients who require the medical opinion of a specialist clinician may be
-  referred to an outpatient clinic for treatment or investigation. An outpatient is
-  a patient who attends (outpatient attendance) a consultant or other medical clinic,
+notes: '<p>Patients who require the medical opinion of a specialist clinician may
+  be referred to an outpatient clinic for treatment or investigation. An outpatient
+  is a patient who attends (outpatient attendance) a consultant or other medical clinic
   or has an arranged meeting with a consultant or a senior member of their team outwith
   a clinic session. Outpatients are not admitted to a hospital and do not use a hospital
-  bed.\r\n\r\nOutpatient attendances can be categorised as new or follow-up (return)
-  attendances. Information on return appointments is only available for datasets that
-  report on NHS Board of Treatment. Files reporting on the residency of patients only
-  contain data for new outpatients as the ISD(S)1 data source for return outpatients
-  does not contain residence information. ISD(S)1 also does not record information
-  on the deprivation, age or sex of patients.\r\n\r\nA variety of operations are carried
-  out in NHSScotland and, increasingly, less complex procedures are undertaken in
-  an outpatient setting. For further information on these procedures, see the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
+  bed. Outpatient attendances can be categorised as new or follow-up (return) attendances.
+  \r\n\r\nPlease note that there have been outpatient methodological changes for this
+  publication. Previously, the ISD(S)1 outpatients data source was used for return
+  outpatient activity due to poorer completeness for historical SMR00 return outpatients.
+  SMR00 return outpatients data are now more complete meaning SMR00 data can be used
+  for both new and return outpatients. As a result, figures from the Annual September
+  2025 publication onwards will not be directly comparable to previous publications.
+  Please refer to the publication report and data issues and completeness document
+  for further information: https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/\r\n\r\nA
+  variety of operations are carried out in NHSScotland and, increasingly, less complex
+  procedures are undertaken in an outpatient setting. For further information on these
+  procedures, see the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">Operations/Procedures</a>
   section of the Public Health Scotland website.\r\n\r\nFurther information on hospital
   activity can be found in the <a href="https://www.publichealthscotland.scot/publications/acute-hospital-activity-and-nhs-beds-information-annual/">recent
   annual publication</a>. \r\n\r\nThe date of the next release can be found on our
-  list of forthcoming publications https://publichealthscotland.scot/publications/forthcoming-publications/</p>
+  list of forthcoming publications https://publichealthscotland.scot/publications/forthcoming-publications/</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/annual-outpatient-activity
 records: null
@@ -68,7 +71,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e92f2aa0-12c1-4f05-92b0-af71cc37070d/download/sct-annual-2023-locations-lookup.csv
 - format: CSV
   name: Cross Boundary Flow by NHS Board of Residence and NHS Board of Treatment
-  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/1b0ed010-a645-43f3-b87a-cc97cc6b568f/download/cross_boundary_flow_by_nhs_board-of-residence_nhs-board-of-treatment_outpatients.csv
+  url: https://www.opendata.nhs.scot/dataset/d57ceb20-4449-4c3b-b07c-d2affe9b8dc0/resource/e3efa3e8-b6e8-4813-97da-bae0c5a9193f/download/cross_boundary_flow_by_nhs_board-of-residence_nhs-board-of-treatment.csv
 schema: default
 title: Annual Outpatient Activity
 ---

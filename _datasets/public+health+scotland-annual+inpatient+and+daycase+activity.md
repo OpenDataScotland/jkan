@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2024-09-24'
+date_updated: '2025-10-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Inpatients refer to people who are admitted to an available staffed bed
@@ -62,7 +62,7 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/7a0c38d6-e2b2-451f-8124-a531c948c2a7/download/sct-annual-2023-locations-lookup.csv
 - format: CSV
   name: Cross Boundary Flow by NHS Board of Residence and NHS Board of Treatment
-  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/2f4f0e4f-5d41-4a45-95d8-d093f3ae5908/download/cross_boundary_flow_by_nhs_board-of-residence_nhs-board-of-treatment_inpatients.csv
+  url: https://www.opendata.nhs.scot/dataset/9e032286-e5bf-4eb0-837d-c0a05fe0d839/resource/2f4f0e4f-5d41-4a45-95d8-d093f3ae5908/download/cross_boundary_flow_by_nhs_board-of-residence_nhs-board-of-treatment.csv
 schema: default
 title: Annual Inpatient and Daycase Activity
 ---

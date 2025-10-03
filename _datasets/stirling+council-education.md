@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2023-02-27'
-date_updated: '2025-09-09'
+date_updated: '2025-10-02'
 license: No licence
 maintainer: Stirling Council
 notes: <p>school locations, school rolls, class sizes, and other education related
