@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-11-15'
-date_updated: '2023-11-15'
+date_updated: '2025-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Local Development Plan Areas in The Highland Council area.<div><br /></div><div><span\

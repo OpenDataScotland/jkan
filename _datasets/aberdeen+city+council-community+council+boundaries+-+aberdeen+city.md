@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-06-05'
+date_updated: '2025-10-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,6 +28,9 @@ resources:
 - format: REST
   name: Community Council Boundaries
   url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/arcgis/rest/services/Community_Councils_2018/FeatureServer/39/query?outFields=*&where=1%3D1
+- format: REST
+  name: Community Council Boundaries
+  url: https://services5.arcgis.com/0sktPVp3t1LvXc9z/ArcGIS/rest/services/Community_Councils_2024/FeatureServer
 schema: default
 title: Community Council Boundaries - Aberdeen City
 ---

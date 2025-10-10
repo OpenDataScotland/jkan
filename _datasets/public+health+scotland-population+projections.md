@@ -6,7 +6,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2019-04-17'
-date_updated: '2025-02-10'
+date_updated: '2025-10-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Population projections for Scotland on a country, NHS health board, health
@@ -19,13 +19,13 @@ records: null
 resources:
 - format: CSV
   name: Council Area Projections
-  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/63d8e0b9-32e2-4847-9353-177f8d931c10/download/ca_pop_proj_03072020.csv
+  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/63d8e0b9-32e2-4847-9353-177f8d931c10/download/ca_pop_proj_01102025.csv
 - format: CSV
   name: Health and Social Care Partnership Projections
-  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/93137613-2f5c-4d8f-b756-0432abb6fbc0/download/hscp_pop_proj_03072020.csv
+  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/93137613-2f5c-4d8f-b756-0432abb6fbc0/download/hscp_pop_proj_01102025.csv
 - format: CSV
   name: Health Board Projections
-  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/0876fc67-05e6-4e87-bc30-c4b0756fff04/download/hb_pop_proj_03072020.csv
+  url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/0876fc67-05e6-4e87-bc30-c4b0756fff04/download/hb_pop_proj_01102025.csv
 - format: CSV
   name: Scotland Projections
   url: https://www.opendata.nhs.scot/dataset/9e00b589-817e-45e6-b615-46c935bbace0/resource/7a9e74c9-8746-488b-8fba-0fad7c7866ea/download/scotland_pop_proj_05022025.csv

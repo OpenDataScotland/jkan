@@ -8,7 +8,7 @@ maintainer: Renfrewshire Council
 notes: ''
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=4d3ffe8456f146bc8b509c158885015e
-records: null
+records: 10
 resources: []
 schema: default
 title: Admission Panel Areas

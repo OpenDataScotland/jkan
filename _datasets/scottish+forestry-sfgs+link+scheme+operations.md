@@ -21,7 +21,7 @@ notes: "<p>This is a non-spatial table.  It contains data on Scottish Forestry G
   \ on Scotland's SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=444f37ad3ddb4ba98982c16a45c8f484
-records: null
+records: 19494
 resources: []
 schema: default
 title: SFGS Link Scheme Operations

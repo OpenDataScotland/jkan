@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Tourism
 date_created: '2024-12-19'
-date_updated: '2024-12-19'
+date_updated: '2025-10-10'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>The location of Public
