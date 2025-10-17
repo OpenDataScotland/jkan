@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-10-07'
+date_updated: '2025-10-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Ayrshire Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
@@ -17,9 +17,6 @@ organization: East Ayrshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_development_plans-ea'
 records: null
 resources:
-- format: ZIP
-  name: EAC Local Development Plan (2017)
-  url: https://data.spatialhub.scot/dataset/069127c5-839f-4f9b-b3eb-d5b866d0935d/resource/4ce537aa-1dcf-4326-9d6c-e061e274bc88/download/eacldp2017.zip
 - format: ZIP
   name: EAC Local Development Plan (2024)
   url: https://data.spatialhub.scot/dataset/069127c5-839f-4f9b-b3eb-d5b866d0935d/resource/573381b4-b4bf-4643-a2b2-5ba7bf5b2b75/download/ldp2.zip

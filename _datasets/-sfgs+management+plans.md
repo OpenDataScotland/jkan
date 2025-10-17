@@ -1,5 +1,6 @@
 ---
 category:
+- Arts / Culture / History
 - Budget / Finance
 - Business and Economy
 - Council and Government
@@ -11,10 +12,10 @@ category:
 date_created: '2019-11-18'
 date_updated: '2025-01-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish Forestry
+maintainer: ''
 notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation and\
   \ management of woods and forests to provide economic, environmental and social\
-  \ benefits.\_ This dataset identifies scheme boundary areas from SFGS.  Following\
+  \ benefits.\_ This dataset identifies management plan areas from SFGS.  Following\
   \ publication of the Scottish Executive\u2019s Scottish Forestry Strategy 'Forests\
   \ for Scotland' the opportunity was taken to review the Woodland Grant Scheme and\
   \ the Farm Woodland Premium Scheme and give them a greater Scottish focus.     The\
@@ -23,7 +24,7 @@ notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation a
   \   Grants were available under three main areas:    Grants for woodland expansion\
   \ - creating new woodlands. Restocking grants, for replanting following felling.\
   \ Stewardship grants, for a range of activities in existing woodlands.    Applications\
-  \ for SFGS grants started in June 2003 and closed in August 2006.    Most grants\
+  \ for SFGS grants started in June 2003 and closed in August 2006.     Most grants\
   \ for SFGS were based on a percentage of Standard Costs of agreed operations. The\
   \ Standard Cost took account of the costs of labour, plants, machinery, materials\
   \ and supervision to do work to the specification as set out in the SFGS Standard\
@@ -51,30 +52,45 @@ notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation a
   \ areas R5 to improve the diversity of the farmed/crofting landscape    Felling\
   \     F1 Clear felling F2 Selective felling F3 Continuous Cover F4 Thinning    Other\
   \ land     OL is not grant aided    SPATIAL DATA  There are four spatial datasets\
-  \ associated with SFGS. These represent the scheme boundaries, management plan boundaries,\
+  \ associated with SFGS. These represent the scheme boundary, management plan boundaries,\
   \ sub-compartment boundaries and deer fence lines within each approved SFGS scheme.\
-  \     Each SFGS spatial dataset is accompanied by a specific non-spatial database\
-  \ table. The datasets can be related to each other on a 'many to one' basis. This\
-  \ reflects the fact that many SFGS operations may occur within one spatial geography\
-  \ (eg.a sub-compartment).    The S_SFGS_SCHEME_BDY spatial dataset can be 'related'\
-  \ to the S_LINK_SFGS_OPSSCHEME table using the 'SchemeNo' attribute field.     S_SFGS_SCHEME_BDY\
-  \ Spatial Attributes:-    SchemeNo:\_ \_SFGS Scheme number Descriptor:\_ \_Description\
-  \ of spatial feature SchemeName:\_ \_Name of SFGS Scheme Cons_Name:\_ \_Conservancy\
-  \ Cont_Start:\_ \_Date contract started Grid_Ref:\_ \_National grid reference Local_Auth:\_\
-  \ \_Local Authority Status:\_ \_Scheme status    S_LINK_SFGS_OPSSCHEME Database\
-  \ Table Attributes:    SchemeNo:\_ \_SFGS Scheme number Scheme_Type:\_ \_Type of\
-  \ scheme (SFGS, Forest Plan, etc) Grant_Type:\_ \_Grant type code Descriptor:\_\
-  \ \_Description of grant type Claim_No:\_ \_Claim number Quantity:\_ \_Length, number\
-  \ or area of operation Unit:\_ \_Unit of operation (eg. metres, visits, hectares)\
-  \ Pct_Cost:\_ \_Percentage of total cost paid under SFGS Pay_Rate:\_ \_Payment rate\
-  \ per unit (\xA3) Grant_Paid:\_ \_Amount of grant paid (\xA3) Pay_In_FY:\_ \_Financial\
-  \ year in which payment should be made Obj_Code:\_ \_SFGS Objective code (see above\
-  \ for full descriptions)\_  For more detailed information please see the metadata\
-  \ record on Scotland's SpatialData.gov.scot Metadata Portal.  </p>"
-organization: Scottish Forestry
-original_dataset_link: https://www.arcgis.com/home/item.html?id=e2bac5662a9d411c88f6f8c993417c48
-records: 2878
+  \     The spatial datasets are related to the GLS database on a 'many to one' basis.\
+  \ This reflects the fact that many operations may occur within one sub-compartment.\
+  \    Data is captured against OS Mastermap.    Management Plan Operation References\
+  \    200 - Reducing deer numbers 300 - Management plan for semi natural woodland\
+  \ 301 - Survey for woodland condition 302 - Biodiversity monitoring 400 - Management\
+  \ plan for semi natural woodland 401 - Survey for woodland condition 402 - Biodiversity\
+  \ monitoring 500 - Landscape design plan 501 - Landscape baseline survey 502 - Landscape\
+  \ monitoring 600 - Alternative system to clearfell. Site survey and stand appraisal.\
+  \ 601 - Management plan to develop alternative system to clearfell 602 - Alternative\
+  \ system to clearfell. Site monitoring. 603 - Alternative system to clearfell. Stand\
+  \ appraisal. 700 - Recreation area management plan 800 - Feasibility assessment\
+  \ 801 - Training/on-going community involvement (CGIS do not capture) 900 - Management\
+  \ Plan 901 - Woodland Survey  902 - Monitoring    Each SFGS spatial dataset is accompanied\
+  \ by a specific non-spatial database table. The datasets can be related to each\
+  \ other on a 'many to one' basis. This reflects the fact that many SFGS operations\
+  \ may occur within one spatial geography (eg.a sub-compartment).    The S_SFGS_MAN_PLAN\
+  \ spatial dataset can be 'related' to the S_LINK_SFGS_OPSMANPLAN table using the\
+  \ 'SC_Link' attribute field.     S_SFGS_MAN_PLAN Spatial Attributes:-    SchemeNo:\_\
+  \ \_SFGS Scheme number SC_Link:\_ \_Concatenated field used to relate spatial data\
+  \ to table Grant_Type:\_ \_Grant type code SchemeName:\_ \_Name of SFGS Scheme Cons_Name:\_\
+  \ \_Conservancy Cont_Start:\_ \_Date contract started Local_Auth:\_ \_Local Authority\
+  \ Status Scheme:\_ \_status Obj_Code:\_ \_SFGS Objective code Descriptor:\_ \_Description\
+  \ of spatial feature    S_LINK_SFGS_OPSMANPLAN Database Table Attributes:-    SchemeNo:\_\
+  \ \_SFGS Scheme number SC_Link:\_ \_Concatenated field used to relate table to spatial\
+  \ data Scheme_Type:\_ \_Type of scheme (SFGS, Forest Plan, etc) Grant_Type:\_ \_\
+  Grant type code Descriptor:\_ \_Description of grant type Claim_No:\_ \_Claim number\
+  \ Quantity:\_ \_Length, number or area of operation Unit:\_ \_Unit of operation\
+  \ (eg. metres, visits, hectares) Pct_Cost:\_ \_Percentage of total cost paid under\
+  \ SFGS Pay_Rate:\_ \_Payment rate per unit (\xA3) Grant_Paid:\_ \_Amount of grant\
+  \ paid (\xA3) Pay_In_FY:\_ \_Financial year in which payment should be made Obj_Code:\_\
+  \ \_SFGS Objective code (see above for full descriptions)     For more detailed\
+  \ information please see the metadata record on Scotland's SpatialData.gov.scot\
+  \ Metadata Portal.</p>"
+organization: ''
+original_dataset_link: https://www.arcgis.com/home/item.html?id=ccf4b816d84349ee8aeab26132e4f999
+records: 1278
 resources: []
 schema: default
-title: SFGS Scheme Boundary
+title: SFGS Management Plans
 ---

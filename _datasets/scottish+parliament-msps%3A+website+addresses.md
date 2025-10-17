@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2025-09-05'
+date_updated: '2025-10-03'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of member websites.</p>

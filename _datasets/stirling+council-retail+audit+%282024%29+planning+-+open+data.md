@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-10-08'
-date_updated: '2025-09-09'
+date_updated: '2025-10-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div>Monitoring helps us understand whether our planning policies and proposals

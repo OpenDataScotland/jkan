@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: ''
-date_updated: '2025-09-30'
+date_updated: '2025-10-15'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: "<p>This dataset contains the member\u2019s political party membership with\

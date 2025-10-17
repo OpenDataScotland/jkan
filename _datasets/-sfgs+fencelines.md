@@ -11,7 +11,7 @@ category:
 date_created: '2019-11-18'
 date_updated: '2025-01-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Scottish Forestry
+maintainer: ''
 notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation and\
   \ management of woods and forests to provide economic, environmental and social\
   \ benefits.\_ This dataset identifies deer fences from SFGS.  Following publication\
@@ -126,7 +126,7 @@ notes: "<p>The Scottish Forestry Grant Scheme (SFGS) - encouraged the creation a
   \ Forest Plan, etc) Status:\_ \_Status of SFGS scheme Cont_Start:\_ \_Date contract\
   \ started    For more detailed information please see the metadata record on Scotland's\
   \ SpatialData.gov.scot Metadata Portal.</p>"
-organization: Scottish Forestry
+organization: ''
 original_dataset_link: https://www.arcgis.com/home/item.html?id=47d8a8cf3ffd4d048121675d80dbd3fb
 records: 1059
 resources: []
