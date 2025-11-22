@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-07-08'
+date_updated: '2025-10-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -18,9 +18,12 @@ organization: Dundee City Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-dc'
 records: null
 resources:
-- format: WFS
-  name: Local Nature Reserves
-  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/LDP2019_WFS/WFSServer?SERVICE=WFS&REQUEST=GetCapabilities
+- format: No file type
+  name: Local Nature Reserves - Dundee
+  url: https://data.spatialhub.scot/dataset/38bf5ddd-ae5d-4842-bc6c-fed66d630b25/resource/316cc4bc-7b37-48c2-b28e-00f1823186d6/download/dundee_lnatr_28102025.gpkg
+- format: No file type
+  name: Local Nature Reserves - Dundee
+  url: https://data.spatialhub.scot/dataset/38bf5ddd-ae5d-4842-bc6c-fed66d630b25/resource/ec9b553c-2bfe-449d-8a49-1173d69f47b9/download/dundee_lnatr_30102025.gpkg
 schema: default
 title: Local Nature Reserves - Dundee City
 ---

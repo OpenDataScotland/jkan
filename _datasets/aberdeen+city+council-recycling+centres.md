@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2020-04-13'
-date_updated: '2022-07-19'
+date_updated: '2025-10-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeen City Council
 notes: "<div style='text-align:Left;'><div><div><p style='margin:0 0 11 0;'><span>Point\

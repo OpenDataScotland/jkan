@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2022-02-24'
-date_updated: '2025-10-10'
+date_updated: '2025-11-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: <p>Local authorities are large owners of land, much of it not captured on the
@@ -26,9 +26,9 @@ resources:
 - format: WFS
   name: Council Title Deeds
   url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Council_Title_Deeds
-- format: APPLICATION/X-MSDOS-PROGRAM
+- format: WFS
   name: Land Ownership
-  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Land_Ownership
 schema: default
 title: Land Ownership - Clackmannanshire
 ---

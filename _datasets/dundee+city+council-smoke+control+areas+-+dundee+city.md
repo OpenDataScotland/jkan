@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
@@ -27,6 +27,9 @@ resources:
 - format: No file type
   name: Dundee Smoke Control Areas
   url: http://inspire.dundeecity.gov.uk/geoserver/inspire/ows?service=WFS&version=2.0.0&request=getCapabilities
+- format: REST
+  name: Dundee Smoke Control Areas
+  url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/ArcGIS/rest/services/Dundee_Smoke_Control_Areas/FeatureServer
 schema: default
 title: Smoke Control Areas - Dundee City
 ---

@@ -1,28 +1,26 @@
 ---
 category:
-- Business and Economy
 - Health and Social Care
 date_created: '2020-02-11'
-date_updated: '2023-08-30'
+date_updated: '2025-11-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>These files present information on probable suicides registered in Scotland,
   including their degree of contact with healthcare services. The period covered is
-  calendar years 2011-21. \r\n\r\nAll publications and supporting material to this
-  topic area can be found on the <a href="https://beta.isdscotland.org/find-publications-and-data/population-health/mortality/">PHS
-  Scotland - Mental Health Website</a>. The date of the next release can be found
-  on our list of <a href="https://publichealthscotland.scot/publications/forthcoming-publications/">forthcoming
-  publications</a>.</p>
+  calendar years 2011-24. \r\n\r\nAll publications and supporting material to this
+  topic area can be found on the PHS Scotland - Mental Health Website -  https://www.publichealthscotland.scot/publications/?ic=topics-mental-health&amp;q=&amp;fq=topics%3AMental+health%23&amp;sort=pdesc.
+  The date of the next release can be found on our list of forthcoming publications
+  - https://publichealthscotland.scot/publications/forthcoming-publications/.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/scottish-suicide-information-database-contact-with-unscheduled-care-services-prior-to-death
 records: null
 resources:
 - format: CSV
   name: ScotSID by healthcare service contacted, age and sex
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/63978d6f-00ba-4355-bbab-28a03074996b/download/scotsid-age-sex.csv
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/63978d6f-00ba-4355-bbab-28a03074996b/download/scotsid-age-sex-open-data.csv
 - format: CSV
   name: ScotSID by healthcare service contacted and deprivation
-  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/0d115149-191a-4f1a-a12a-04ccdea63c77/download/scotsid-deprivation.csv
+  url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/0d115149-191a-4f1a-a12a-04ccdea63c77/download/scotsid-deprivation-open-data.csv
 - format: CSV
   name: Archived - ScotSID by healthcare service contacted and health board
   url: https://www.opendata.nhs.scot/dataset/bb51bb74-fc42-48c1-bf51-ea71418150a1/resource/e926b17e-91f5-4faf-be83-9a5ed6f4dddf/download/scotsid-hb.csv

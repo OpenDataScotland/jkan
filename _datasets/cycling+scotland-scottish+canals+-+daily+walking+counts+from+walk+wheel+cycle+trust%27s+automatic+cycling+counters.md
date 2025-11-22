@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2024-05-15'
-date_updated: '2025-10-17'
+date_updated: '2025-11-22'
 license: No licence
 maintainer: Cycling Scotland
 notes: <p>"The walking counts supplied is raw, uncleaned data. Extended counts of
@@ -17,5 +17,6 @@ resources:
   name: API
   url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/344c94cd-5e62-4489-9557-1963c51ad029/1/urql
 schema: default
-title: Scottish Canals - Daily walking counts from Sustrans' automatic cycling counters
+title: Scottish Canals - Daily walking counts from Walk Wheel Cycle Trust's automatic
+  cycling counters
 ---

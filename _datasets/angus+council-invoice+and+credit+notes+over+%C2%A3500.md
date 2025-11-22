@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Transportation
 date_created: '2023-12-12'
-date_updated: '2025-07-03'
+date_updated: '2025-11-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: "<p>Every six months, we publish a list of all invoices and credit notes over\
@@ -62,6 +62,9 @@ resources:
 - format: MS EXCEL
   name: supplier payments 01-10-2024 to 31-03-2025.xlsx
   url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/5f1bde7e-be9d-4338-a69a-fc88cb6b9aee/download/supplier-payments-01-10-2024-to-31-03-2025.xlsx
+- format: MS EXCEL
+  name: supplier payments 01-04-2023 to 30-09-2023.xls
+  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/c5ef17a9-5c2a-4a27-b6ff-96210e3c12e1/download/supplier_payments_01042023to30092023.xls
 schema: default
 title: "Invoice and Credit Notes over \xA3500"
 ---

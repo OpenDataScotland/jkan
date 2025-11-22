@@ -6,7 +6,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2025-07-17'
+date_updated: '2025-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>Land is legally defined as 'contaminated' where substances are causing\

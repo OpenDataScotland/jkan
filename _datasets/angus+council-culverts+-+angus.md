@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-11-08'
-date_updated: '2022-10-27'
+date_updated: '2025-10-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)
@@ -58,9 +58,12 @@ organization: Angus Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-an'
 records: null
 resources:
-- format: No file type
-  name: Cilvert Register and drainage lines
-  url: https://data.angus.gov.uk/geoserver/inspire/ows
+- format: WFS
+  name: Flood Prevention Culverts
+  url: https://angus.maps.xmap.cloud/angus_public/flood_prevention_culverts/wfs
+- format: WFS
+  name: Culvert Register Points
+  url: https://angus.maps.xmap.cloud/angus_public/culvert_register_points/wfs
 schema: default
 title: Culverts - Angus
 ---

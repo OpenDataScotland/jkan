@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,9 +43,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-nl'
 records: null
 resources:
-- format: WFS
-  name: North Lanarkshire Tree Preservation Orders
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Tree Preservation Orders
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Tree_Preservation_Order_View/FeatureServer
 schema: default
 title: Tree Preservation Orders - North Lanarkshire
 ---

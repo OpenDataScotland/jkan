@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2025-03-23'
-date_updated: '2025-03-30'
+date_updated: '2025-11-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><div><b>This dataset is published as Open Data and is taken from the\

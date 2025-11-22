@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2018-10-30'
-date_updated: '2018-10-31'
+date_updated: '2025-11-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Structures including Bridges and Culverts that are within North Ayrshire</p>

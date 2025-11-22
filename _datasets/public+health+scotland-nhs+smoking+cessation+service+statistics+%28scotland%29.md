@@ -4,19 +4,19 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2020-03-12'
-date_updated: '2025-01-28'
+date_updated: '2025-10-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This release presents data on quit attempts made with the help of NHS Stop
   Smoking Services during the financial years, 2013/14 \u2013 2023/24, and the outcomes
   of those quit attempts. Information is presented at national, NHS Board and Local
-  Authority level along with breakdowns including age, gender, and deprivation. \r\n\r\nStatistics
+  Authority level along with breakdowns including age, gender, and deprivation. Statistics
   are based on total \u2018quit attempts\u2019 made during the year, rather than total
   number of clients with a quit attempt, so could include repeat quit attempts for
   the same client. All publications and supporting material to this topic area can
   be found on the Public Health Scotland website. Further information on smoking cessation
   can be found in the annual publication. The date of the next release can be found
-  on our list of forthcoming publications.</p>
+  on our list of forthcoming publications.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/nhs-smoking-cessation-service-statistics-scotland
 records: null

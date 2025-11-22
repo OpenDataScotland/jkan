@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2021-01-14'
-date_updated: '2024-12-04'
+date_updated: '2025-11-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This annual release produced by Public Health Scotland in partnership with
@@ -14,6 +14,9 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice
 records: null
 resources:
+- format: CSV
+  name: GP Payments 2024/25
+  url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/db3455ae-913e-4110-8439-d6a49164f7d9/download/gppayments2024-25.csv
 - format: CSV
   name: GP Payments 2023/24
   url: https://www.opendata.nhs.scot/dataset/11c09588-61d6-4d45-be68-0a98fd061003/resource/7b8a0364-f4d4-4c15-a8a3-2fe1578c922c/download/gppayments2023-24.csv

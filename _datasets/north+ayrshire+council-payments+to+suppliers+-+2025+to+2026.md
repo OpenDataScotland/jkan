@@ -2,7 +2,7 @@
 category:
 - Budget / Finance
 date_created: '2025-07-08'
-date_updated: '2025-07-08'
+date_updated: '2025-11-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: ''
