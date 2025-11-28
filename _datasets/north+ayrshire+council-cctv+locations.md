@@ -1,12 +1,16 @@
 ---
 category:
-- Council and Government
 - Public Safety
 date_created: '2018-11-01'
-date_updated: '2018-11-01'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
-notes: <p>Shows the location, type and coverage of North Ayrshire Council CCTV cameras.</p>
+notes: '<figure style=''width:1346pt;''><figure><table style=''border-collapse:collapse;''
+  width=''1795'' cellpadding=''0'' cellspacing=''0'' border=''0''><tbody><tr style=''height:58.0pt;''
+  height=''77''><td style=''height:58.0pt; width:1346pt;'' height=''77'' width=''1795''>This
+  dataset shows the location of the Public Space Surveillance Cameras.<br />Added
+  to ODP:<span>&nbsp; </span>August 2018.<br />Last reviewed: June 2025.<br />Refresh
+  frequency: Annually</td></tr></tbody></table></figure></figure>'
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::cctv-locations
 records: null

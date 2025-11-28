@@ -2,16 +2,15 @@
 category:
 - Health and Social Care
 date_created: '2019-11-05'
-date_updated: '2025-06-03'
+date_updated: '2025-11-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>A patient is termed an inpatient when they occupy a staffed bed in a hospital
-  and either remain overnight (whether intended or not) or are expected to remain
-  overnight but are discharged earlier. An inpatient\u2019s admission can be an emergency,
-  an elective or a transfer. A day case is when a patient makes a planned attendance
-  for one day to a specialty for clinical care and requires the use of a bed (or trolley
-  in lieu of a bed). Although a day case is usually completed on the same day, the
-  patient may need to be admitted as an inpatient if they are not fit to be discharged.</p>
+notes: <p>An inpatient is a patient who stays in hospital for one or more nights and
+  occupies an available staffed bed.  An inpatient\u2019s admission can be an emergency,
+  an elective (planned/routine) or a transfer.. A day case is a patient who comes
+  into hospital for a more involved procedure than an outpatient. This may need some
+  recovery time at the hospital, but the patient should be able to go home the same
+  day.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/inpatient-and-daycase-activity
 records: null

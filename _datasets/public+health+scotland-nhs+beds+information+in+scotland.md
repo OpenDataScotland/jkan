@@ -2,15 +2,16 @@
 category:
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2025-05-29'
+date_updated: '2025-11-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>To provide an effective, safe and efficient service to patients, hospitals
-  must balance the provision of staffed beds against anticipated demand. Historically,
-  the total number of beds has been reducing in line with evolving models of healthcare
-  provision that aim to reduce the frequency and duration of hospital admissions and
-  improve the integration of health and social care services. This strategy aims to
-  improve outcomes for patients and reduce the likelihood of future hospital admissions.</p>
+  must balance the provision of staffed inpatient beds against anticipated demand.
+  Historically, the total number of beds has been reducing in line with evolving models
+  of healthcare provision that aim to reduce the frequency and duration of hospital
+  admissions and improve the integration of health and social care services. This
+  strategy aims to improve outcomes for patients and reduce the likelihood of future
+  hospital admissions.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-beds-information
 records: null

@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-10-12'
-date_updated: '2025-10-30'
+date_updated: '2025-11-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Annual update to information on births in Scotland. This includes information

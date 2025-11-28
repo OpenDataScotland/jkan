@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2024-04-11'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -40,9 +40,9 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-ce'
 records: null
 resources:
-- format: No file type
+- format: REST
   name: Green belt
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/32
 schema: default
 title: Green Belt - City of Edinburgh
 ---

@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -26,15 +26,15 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-ce'
 records: null
 resources:
-- format: No file type
+- format: REST
   name: Areas of outstanding Landscape Quality
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: No file type
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/34
+- format: REST
   name: Areas of Great Landscape Value
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: No file type
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/33
+- format: REST
   name: Special Landscape Area
-  url: http://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/35
 schema: default
 title: Local Landscape Areas - City of Edinburgh
 ---

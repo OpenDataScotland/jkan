@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -23,9 +23,9 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-ce'
 records: null
 resources:
-- format: No file type
+- format: REST
   name: Gritting routes
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/9
 schema: default
 title: Gritting Routes - City of Edinburgh
 ---

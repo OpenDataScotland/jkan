@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-06-25'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -33,7 +33,7 @@ records: null
 resources:
 - format: REST
   name: Conservation Areas - City of Edinburgh
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/17
 schema: default
 title: Conservation Areas - City of Edinburgh
 ---

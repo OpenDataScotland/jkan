@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2024-01-03'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -31,12 +31,9 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-ce'
 records: null
 resources:
-- format: No file type
-  name: Cycle Parking, Grit Bins, CCTV locations
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
 - format: REST
   name: Street Lighting Columns
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/103/query?outFields=*&where=1%3D1
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Atlas/Atlas/MapServer/103
 - format: ZIP
   name: Edinburgh Pedestrian Crossings
   url: https://data.spatialhub.scot/dataset/dcd656c6-3222-4853-b6ed-320a65278d17/resource/da14a209-c428-4360-b116-0c37a6fc0881/download/edinburgh_pedestrian_crossings.zip

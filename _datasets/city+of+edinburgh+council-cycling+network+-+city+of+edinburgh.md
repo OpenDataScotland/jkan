@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
+date_updated: '2025-11-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p>Councils collect various datasets to do with their cycle network. These
@@ -17,9 +17,9 @@ organization: City of Edinburgh Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-ce'
 records: null
 resources:
-- format: No file type
-  name: Cycle Lanes and Paths
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?
+- format: REST
+  name: Cycling Network - City of Edinburgh
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/44
 schema: default
 title: Cycling Network - City of Edinburgh
 ---
