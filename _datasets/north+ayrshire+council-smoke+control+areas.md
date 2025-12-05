@@ -4,10 +4,12 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-05-25'
-date_updated: '2017-08-03'
+date_updated: '2025-12-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
-notes: <p>Boundaries of Smoke Control Areas within North Ayrshire</p>
+notes: <p>This dataset contains maps showing the boundaries for all Smoke Control
+  Areas within North Ayrshire Council<br />This was last reviewed in November 2025<br
+  />This data is static and does not change.</p>
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::smoke-control-areas
 records: null

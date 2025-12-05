@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-09-17'
+date_updated: '2025-12-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Clackmannanshire Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -37,6 +37,9 @@ resources:
 - format: WFS
   name: Conservation Areas
   url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Conservation_Areas
+- format: ZIP
+  name: Clackmannanshire Conservation Areas
+  url: https://data.spatialhub.scot/dataset/d524566c-ef1d-45f3-b0ce-ad2076d962cb/resource/29612d5e-2b42-4a56-9ddc-18d9b6c61358/download/clacks_conservation_areas.zip
 schema: default
 title: Conservation Areas - Clackmannanshire
 ---

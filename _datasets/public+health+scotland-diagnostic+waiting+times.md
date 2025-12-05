@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-07-04'
-date_updated: '2025-11-25'
+date_updated: '2025-12-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset reports key statistics on diagnostic waiting times as a monthly
@@ -27,11 +27,11 @@ resources:
   name: Non-key tests by Board
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/e9e0d0a8-6368-4d46-96ee-ccd373b6685a/download/diagnostics_non-key_tests_by_board_september_2025.csv
 - format: CSV
-  name: Completed Tests Scotland
-  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/fcb9f1e6-ccf3-47eb-a893-30b2637cf0a5/download/diagnostics_completed_tests_scotland_june_2025.csv
+  name: Activity at Scotland Level
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/fcb9f1e6-ccf3-47eb-a893-30b2637cf0a5/download/diagnostics_activity_scotland_september_2025.csv
 - format: CSV
-  name: Completed Tests by Board
-  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/ec46205b-9bc4-4036-a9e7-bd375fe03d9c/download/diagnostics_completed_tests_by_board_june_2025.csv
+  name: Activity by Health Board
+  url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/ec46205b-9bc4-4036-a9e7-bd375fe03d9c/download/diagnostics_activity_by_board_september_2025.csv
 - format: CSV
   name: '2007 - 2019: Waiting Times At Scotland Level'
   url: https://www.opendata.nhs.scot/dataset/3d1f49b2-f770-492f-82c9-ebefdc56ece4/resource/d61e6e61-3fa6-4b14-8312-2c76d17094bb/download/diagnostics_scotland_march_2019.csv

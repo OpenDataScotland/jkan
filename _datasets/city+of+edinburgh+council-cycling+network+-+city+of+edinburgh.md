@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-11-24'
+date_updated: '2025-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p>Councils collect various datasets to do with their cycle network. These

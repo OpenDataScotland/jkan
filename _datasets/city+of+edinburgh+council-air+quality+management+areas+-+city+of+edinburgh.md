@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-11-24'
+date_updated: '2025-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: '<p>This dataset now contains revoked AQMAs.</p>
@@ -14,7 +14,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/air_quality_manage
 records: null
 resources:
 - format: REST
-  name: Air quality management areas Edinburgh
+  name: Air quality management areas - Edinburgh
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/29
 schema: default
 title: Air Quality Management Areas - City of Edinburgh

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2025-10-30'
+date_updated: '2025-12-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)

@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-11-24'
+date_updated: '2025-12-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
