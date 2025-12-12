@@ -15,7 +15,7 @@ notes: <p>Employment Land Audit 2018 sites provides am overview of the supply an
   can be found at Development Monitoring.</p>
 organization: Moray Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=ca1f14248a5448f9b6ce4c436aad360a
-records: 33
+records: null
 resources: []
 schema: default
 title: Employment Land Audit 2018 (Moray)

@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2024-12-16'
+date_updated: '2025-12-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Aberdeenshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -45,7 +45,7 @@ records: null
 resources:
 - format: ZIP
   name: TPOs - Single Trees and Groups
-  url: https://data.spatialhub.scot/dataset/af8af530-cdc9-43e3-a239-65fa34e0b065/resource/356cd09f-476c-4d1a-98e3-d2d9b12068c1/download/tpos.zip
+  url: https://data.spatialhub.scot/dataset/af8af530-cdc9-43e3-a239-65fa34e0b065/resource/356cd09f-476c-4d1a-98e3-d2d9b12068c1/download/tpo_09122025.zip
 - format: OTHER
   name: Interactive Map of TPOs
   url: https://gis.aberdeenshire.gov.uk/maps/Map.aspx?MapName=TPOs

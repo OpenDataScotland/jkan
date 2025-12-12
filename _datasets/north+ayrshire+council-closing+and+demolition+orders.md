@@ -2,8 +2,8 @@
 category:
 - Uncategorised
 date_created: '2024-01-12'
-date_updated: '2024-01-12'
-license: No licence
+date_updated: '2025-12-11'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>{{description}}</p>
 organization: North Ayrshire Council

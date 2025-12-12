@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-12-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -40,18 +40,18 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-nl'
 records: null
 resources:
-- format: WFS
+- format: REST
   name: Denominational Primary School Catchments
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Denominational_Primary_Catchments_View/FeatureServer
+- format: REST
   name: Non Denominational Primary School Catchments
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Non_Denominational_Primary_Catchments_View/FeatureServer
+- format: REST
   name: Denominational Secondary School Catchments
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Denominational_Secondary_Catchments_View/FeatureServer
+- format: REST
   name: Non Denominational Secondary School Catchments
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Non_Denominational_Secondary_Catchments_View/FeatureServer
 schema: default
 title: School Catchments - North Lanarkshire
 ---

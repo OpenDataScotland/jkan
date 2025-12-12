@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-12-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,9 +37,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-nl'
 records: null
 resources:
-- format: No file type
+- format: REST
   name: Polling Districts
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Polling_Districts_View/FeatureServer
 schema: default
 title: Polling Districts - North Lanarkshire
 ---

@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2025-12-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -18,9 +18,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-nl'
 records: null
 resources:
-- format: WFS
+- format: REST
   name: Local Nature Reserves
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Local_Nature_Reserves_View/FeatureServer
 schema: default
 title: Local Nature Reserves - North Lanarkshire
 ---

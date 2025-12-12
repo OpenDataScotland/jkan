@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: ''
-date_updated: '2025-12-04'
+date_updated: '2025-12-11'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains Motions lodged by the Parliamentary Bureau proposing
