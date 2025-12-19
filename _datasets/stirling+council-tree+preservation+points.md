@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2025-09-13'
-date_updated: '2025-09-17'
+date_updated: '2025-12-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p>A TPO is made by the Local Authority, under Section 160 of the Town and

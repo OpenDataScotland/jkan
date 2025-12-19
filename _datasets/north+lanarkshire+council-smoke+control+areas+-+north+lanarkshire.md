@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2025-12-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
@@ -24,9 +24,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_areas-nl'
 records: null
 resources:
-- format: WFS
+- format: REST
   name: Smoke Control Areas
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Smoke_Control_Areas_View/FeatureServer
 schema: default
 title: Smoke Control Areas - North Lanarkshire
 ---

@@ -7,7 +7,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-12-07'
-date_updated: '2024-12-10'
+date_updated: '2025-12-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Primary 1 Body Mass Index (BMI) statistics capture important information

@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2025-06-04'
+date_updated: '2025-12-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national data
@@ -19,22 +19,13 @@ notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national da
   Park Authority. This includes an SVDLS Site Register. Where spatial data is provided
   by Planning Authorities, the data is reviewed to make sure it matches the published
   SVDLS Site Register.  Improvement Service then combine the spatial data with the
-  SVDLS site Register for the current survey year (2023 published in 2024 for most
+  SVDLS site Register for the current survey year (2024 published in 2025 for most
   authorities) and combined it to this year''s SVDLS Site Register (using the site
   reference).   Where Planning Authorities have not provided spatial data for the
   current year, their previous spatial data return has been used, or where there is
   no spatial data at all for site we have buffered the easting and northing provided
   in the survey, to create a circular polygon area for the site.  The definitive data
-  source is the SVDLS Site Register available here: https://www.gov.scot/publications/scottish-vacant-and-derelict-land-survey---site-register/  The
-  Scottish Government vacant and derelict land statistics are also available as a
-  map, and can be accessed at https://isshinyapps.shinyapps.io/SVDL_mapping_2023/  The
-  map also shows planning application information as of October 2024, where a planning
-  application has been submitted within an SVDL site boundary. This data is drawn
-  directly from local authorities and does not form part of the Scottish Government
-  vacant and derelict land statistical return or the Scottish Government Planning
-  Applications statistical return. These statistics may be found on the Scottish Government
-  Planning Statistics website: https://www.gov.scot/collections/planning-statistics/
-  -these data have been quality assured by the Scottish Government.</p>'
+  source is the SVDLS Site Register available here: https://www.gov.scot/publications/the-scottish-vacant-and-derelict-land-survey-site-register/</p>'
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is'
 records: null
