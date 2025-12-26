@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Health and Social Care
 date_created: '2019-04-30'
-date_updated: '2025-10-28'
+date_updated: '2025-12-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Annual Care Home Census of residents living in a care home for adults in
