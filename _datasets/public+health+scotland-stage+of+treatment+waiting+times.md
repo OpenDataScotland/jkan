@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Health and Social Care
 date_created: '2020-03-20'
-date_updated: '2025-11-25'
+date_updated: '2026-01-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset reports key statistics on Inpatient, Day case and New Outpatient
@@ -23,12 +23,12 @@ notes: <p>This dataset reports key statistics on Inpatient, Day case and New Out
   list of forthcoming publications.\r\n\r\nDue to the live nature of local Patient
   Management Systems and the national data mart, historical trend data are routinely
   refreshed from one publication to the next, leading to slight revisions in statistics,
-  particularly those for the previous month end. \r\n\r\nAcross NHSScotland, the net
-  effect of all revisions for new outpatients was a decrease of -0.6% (-3,491) in
-  the number of ongoing waits and an increase of 0.2% (+187) in the number of attendances
-  compared to previously published figures for month ending 30 September 2025. Drawing
+  particularly those for the previous month end.\r\n \r\nAcross NHSScotland, the net
+  effect of all revisions for new outpatients was an increase of 0.6% (+3,180) in
+  the number of ongoing waits and an increase of 0.5% (+593) in the number of attendances
+  compared to previously published figures for month ending 30 October 2025. Drawing
   the same comparison for inpatient and day case treatment, the net effect was an
-  increase of 0.6% (+1,013) ongoing waits and 0.4% (+85) admissions.\r\n\r\nFor more
+  increase of 0.9% (+1,369) ongoing waits and 0.5% (+119) admissions.\r\n\r\nFor more
   information, please see the <a href="https://www.publichealthscotland.scot/publications/stage-of-treatment-waiting-times-data-quality-issues/">Data
   quality</a> section of the website.\r\n</p>
 organization: Public Health Scotland
@@ -37,10 +37,10 @@ records: null
 resources:
 - format: CSV
   name: Distribution of Ongoing and Completed Waits - Monthly
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_oct25.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_nov25.csv
 - format: CSV
   name: "Ongoing and Completed Waits \u2013 Monthly"
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_oct25.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_nov25.csv
 - format: CSV
   name: Completed Waits - Long Trend
   url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/4c091d26-1492-41e5-9577-832cbc1cd4cf/download/sot_performance_completed_waits_sep25.csv

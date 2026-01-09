@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2023-05-02'
-date_updated: '2025-12-23'
+date_updated: '2026-01-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This is the new weekly Accident &amp; Emergency (A&amp;E) open data area.

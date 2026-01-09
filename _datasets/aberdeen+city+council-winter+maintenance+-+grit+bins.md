@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-05-24'
-date_updated: '2024-01-30'
+date_updated: '2026-01-07'
 license: No licence
 maintainer: Aberdeen City Council
 notes: "<div style='text-align:Left;'><p><span>Location of adopted grit boxes throughout\

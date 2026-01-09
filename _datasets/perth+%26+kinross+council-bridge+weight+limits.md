@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2023-10-09'
-date_updated: '2025-11-04'
+date_updated: '2026-01-08'
 license: No licence
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Bridges in Perth and Kinross

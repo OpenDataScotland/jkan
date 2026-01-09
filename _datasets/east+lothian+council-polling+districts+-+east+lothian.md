@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2026-01-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: East Lothian Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -43,6 +43,9 @@ resources:
 - format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/72baf8c9-097a-4286-b0b7-24d0a09ac1be/resource/81737fc3-2f9d-4aab-b257-8f755e812158/download/polling_districts.zip
+- format: ZIP
+  name: Amended Polling Districts
+  url: https://data.spatialhub.scot/dataset/72baf8c9-097a-4286-b0b7-24d0a09ac1be/resource/6e81da39-dacf-4cd8-bb58-4e4329e84edc/download/polling_district_statutory_review_2024_amended_20251113.zip
 schema: default
 title: Polling Districts - East Lothian
 ---
