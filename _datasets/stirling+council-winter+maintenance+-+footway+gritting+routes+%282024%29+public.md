@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-10-02'
-date_updated: '2025-10-06'
+date_updated: '2026-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><div>This dataset is linked as a public view layer to Open Data and stirling.gov.uk\

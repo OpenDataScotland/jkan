@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Parks / Recreation
 date_created: '2019-11-20'
-date_updated: '2025-10-03'
+date_updated: '2026-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: ''
 notes: "<p>Management Plans provided a simpler alternative to Forest Plans for woodlands\
@@ -21,7 +21,7 @@ notes: "<p>Management Plans provided a simpler alternative to Forest Plans for w
   \ SpatialData.gov.scot Metadata Portal.</p>"
 organization: ''
 original_dataset_link: https://www.arcgis.com/home/item.html?id=da3a5e8de50a4efaa9f66126cc0d1cad
-records: 872
+records: 889
 resources: []
 schema: default
 title: Management Plans

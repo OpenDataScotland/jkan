@@ -8,7 +8,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2019-11-20'
-date_updated: '2025-10-03'
+date_updated: '2026-01-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: ''
 notes: "<p>This dataset identifies Forest Plans approved during Rural Development\
@@ -28,7 +28,7 @@ notes: "<p>This dataset identifies Forest Plans approved during Rural Developmen
   \ SpatialData.gov.scot Metadata Portal.</p>"
 organization: ''
 original_dataset_link: https://www.arcgis.com/home/item.html?id=cc090aae9b7f4d65888f9f401e2bca8e
-records: 1000
+records: 2243
 resources: []
 schema: default
 title: RDC Forest Plans

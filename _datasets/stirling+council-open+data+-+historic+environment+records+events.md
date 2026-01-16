@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2024-07-14'
-date_updated: '2024-08-27'
+date_updated: '2024-08-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data on Stirling Council''s Open
@@ -54,42 +54,12 @@ notes: '<div><b>This dataset is published as Open Data on Stirling Council''s Op
   Known Site Extents and Areas of Archaeological Interest) - Historic Environment
   Events (also known as interventions)</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-historic-environment-records-events
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-environment-records-events-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-historic-environment-records-events
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_historic_environment_records_events/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/csv?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/shapefile?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/geojson?layers=0
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/kml?layers=0
-- format: ZIP
-  name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/filegdb?layers=0
-- format: TXT
-  name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/featureCollection?layers=0
-- format: MS EXCEL
-  name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/excel?layers=0
-- format: GPKG
-  name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/geoPackage?layers=0
-- format: GDB
-  name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/81922df772cc4610afbd6300deb5058b/sqlite?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-historic-environment-records-events-1
 schema: default
 title: Open data - historic environment records events
 ---

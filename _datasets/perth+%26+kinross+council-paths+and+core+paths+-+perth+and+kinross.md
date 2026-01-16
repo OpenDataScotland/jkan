@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2025-06-26'
+date_updated: '2026-01-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -36,6 +36,9 @@ resources:
 - format: REST
   name: Adopted Core paths - Perth & Kinross
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer
+- format: REST
+  name: Core Paths Adopted
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer/5
 schema: default
 title: Paths And Core Paths - Perth and Kinross
 ---

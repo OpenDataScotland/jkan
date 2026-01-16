@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Transportation
 date_created: '2023-12-12'
-date_updated: '2025-12-04'
+date_updated: '2026-01-15'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: "<p>Every six months, we publish a list of all invoices and credit notes over\
@@ -21,11 +21,23 @@ original_dataset_link: https://opendata.angus.gov.uk/dataset/invoice-and-credit-
 records: null
 resources:
 - format: MS EXCEL
+  name: Supplier Payments 01-04-25 to 30-09-25.xlsx
+  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/ba7346ac-15a9-42f0-ab44-778189efb5f4/download/supplier_payments_010425_to_300925.xlsx
+- format: MS EXCEL
+  name: supplier payments 01-10-2024 to 31-03-2025.xlsx
+  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/5f1bde7e-be9d-4338-a69a-fc88cb6b9aee/download/supplier-payments-01-10-2024-to-31-03-2025.xlsx
+- format: MS EXCEL
+  name: supplier payments 01-04-2024 to 30-09-2024
+  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/9465af90-446b-4d96-ac0f-e07d31753073/download/prl-suppliers-spend-for-website161024-1.xls
+- format: MS EXCEL
   name: supplier payments 01-10-2023 to 31-03-2024.xlsx
   url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/559136e7-f295-4d73-b44b-5915d9a991a6/download/supplier-payments-01-10-2023-to-31-03-2024.xlsx
 - format: MS EXCEL
   name: supplier payments 01-04-2023 to 30-09-2023.xlsx
   url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/03955baa-cbee-4252-b212-9b660e085d10/download/supplier-payments-01-04-2023-to-30-09-2023.xlsx
+- format: MS EXCEL
+  name: supplier payments 01-04-2023 to 30-09-2023.xls
+  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/c5ef17a9-5c2a-4a27-b6ff-96210e3c12e1/download/supplier_payments_01042023to30092023.xls
 - format: MS EXCEL
   name: supplier payments 01-10-2022 to 31-03-2023.xlsx
   url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/6f3d3b22-03de-44bd-a21f-ac32c5f66bdf/download/supplier-payments-01-10-2022-to-31-03-2023.xlsx
@@ -56,18 +68,6 @@ resources:
 - format: MS EXCEL
   name: supplier payments 01-04-2018 to 30-09-2018.xlsx
   url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/c0bf5f99-93e1-476d-ab23-65e4e13137c1/download/supplier-payments-01-04-2018-to-30-09-2018.xlsx
-- format: MS EXCEL
-  name: supplier payments 01-04-2024 to 30-09-2024
-  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/9465af90-446b-4d96-ac0f-e07d31753073/download/prl-suppliers-spend-for-website161024-1.xls
-- format: MS EXCEL
-  name: supplier payments 01-10-2024 to 31-03-2025.xlsx
-  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/5f1bde7e-be9d-4338-a69a-fc88cb6b9aee/download/supplier-payments-01-10-2024-to-31-03-2025.xlsx
-- format: MS EXCEL
-  name: supplier payments 01-04-2023 to 30-09-2023.xls
-  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/c5ef17a9-5c2a-4a27-b6ff-96210e3c12e1/download/supplier_payments_01042023to30092023.xls
-- format: MS EXCEL
-  name: Supplier Payments 01-04-25 to 30-09-25.xlsx
-  url: https://opendata.angus.gov.uk/dataset/18885be5-0197-4206-a4d3-ea88ecebddb7/resource/ba7346ac-15a9-42f0-ab44-778189efb5f4/download/supplier_payments_010425_to_300925.xlsx
 schema: default
 title: "Invoice and Credit Notes over \xA3500"
 ---

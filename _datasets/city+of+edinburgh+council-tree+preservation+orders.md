@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2022-06-20'
-date_updated: '2026-01-08'
+date_updated: '2026-01-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
