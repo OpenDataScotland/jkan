@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2025-12-09'
+date_updated: '2026-01-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -41,6 +41,15 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
+- format: CSV
+  name: "Data by Board \u2013 October \u2013 December 2025"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/3fa2ca2b-84f3-4667-8739-ff275db1b428/download/hb_pitc2025_07_10.csv
+- format: CSV
+  name: "Data by Dispenser Location \u2013 October 2025"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/a3cc8023-c1d1-41f5-a03c-3c789d39d843/download/disp_pitc202510.csv
+- format: CSV
+  name: "Data by Prescriber Location \u2013 October 2025"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9df3d65d-5b0d-4675-8d52-13cfc85dd6b5/download/pitc202510.csv
 - format: CSV
   name: "Data by Board \u2013 July \u2013 September 2025"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/f02161c1-15f6-4d9f-8be5-01ba613d4303/download/hb_pitc2025_07_09.csv

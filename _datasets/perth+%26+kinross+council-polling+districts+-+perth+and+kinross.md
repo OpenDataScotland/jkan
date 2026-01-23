@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2025-06-12'
+date_updated: '2026-01-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -58,6 +58,9 @@ resources:
 - format: OTHER
   name: Polling Districts
   url: https://open-data-perth-kinross.hub.arcgis.com/datasets/7244675fdab14e6db45296ff40ecd5e5_31/explore
+- format: REST
+  name: Polling Districts
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Polling_Districts/FeatureServer/31
 schema: default
 title: Polling Districts - Perth and Kinross
 ---

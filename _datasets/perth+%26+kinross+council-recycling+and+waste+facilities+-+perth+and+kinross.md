@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2025-02-03'
+date_updated: '2026-01-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -23,6 +23,9 @@ resources:
 - format: REST
   name: Recycling Centres & Points
   url: https://utility.arcgis.com/usrsvcs/servers/cc021467dcad43d4816bef3d369e7505/rest/services/Recycle_Centres_and_Points/FeatureServer/28/query?outFields=*&where=1%3D1&f=json
+- format: REST
+  name: Recycling Centres and Points
+  url: https://utility.arcgis.com/usrsvcs/servers/cc021467dcad43d4816bef3d369e7505/rest/services/Recycle_Centres_and_Points/FeatureServer/28
 schema: default
 title: Recycling And Waste Facilities - Perth and Kinross
 ---

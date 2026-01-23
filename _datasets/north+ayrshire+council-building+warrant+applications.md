@@ -15,12 +15,12 @@ notes: "<div><ul><li>To view all applications made within the last 5 years, sele
   \ Applications (submitted within the last 7 days) </b>layer.\_</li></ul></div>\n\
   <div><br /></div>"
 organization: North Ayrshire Council
-original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-applications-2
+original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-applications
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-applications-2
+  url: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::building-warrant-applications
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Building_Warrant_Applications_Weekly/FeatureServer/2

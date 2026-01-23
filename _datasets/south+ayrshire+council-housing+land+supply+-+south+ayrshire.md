@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-06-24'
+date_updated: '2026-01-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: South Ayrshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -22,6 +22,9 @@ resources:
 - format: No file type
   name: south_ayrshire_hla_2022_23.gpkg
   url: https://data.spatialhub.scot/dataset/40bd098c-8a0c-4b92-b206-af0d17d42ac5/resource/ee7ce5eb-2c15-44f7-9b7f-8bb85ffc1db9/download/south_ayrshire_hla_2022_23.gpkg
+- format: ZIP
+  name: South Ayrshire HLA 2023/24
+  url: https://data.spatialhub.scot/dataset/40bd098c-8a0c-4b92-b206-af0d17d42ac5/resource/d3edbce6-6dc7-4431-8cad-cf7bc8db9a48/download/sac_hls_2024_final.zip
 schema: default
 title: Housing Land Supply - South Ayrshire
 ---

@@ -6,7 +6,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2025-07-09'
+date_updated: '2026-01-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,6 +43,9 @@ resources:
 - format: REST
   name: 'Tree Preservation Orders - Perth & Kinross '
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/ArcGIS/rest/services/Tree_Preservation_Order/FeatureServer/4
+- format: REST
+  name: Tree Preservation Orders
+  url: https://utility.arcgis.com/usrsvcs/servers/e94aed9ada7548f6b4f5577d55086f6e/rest/services/Tree_Preservation_Order/FeatureServer/9
 schema: default
 title: Tree Preservation Orders - Perth and Kinross
 ---
