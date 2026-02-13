@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-12-14'
-date_updated: '2023-12-14'
+date_updated: '2026-01-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council and Dundee City Council have jointly prepared the Annual Audit
@@ -15,6 +15,12 @@ organization: Angus Council
 original_dataset_link: https://opendata.angus.gov.uk/dataset/angus-council-housing-land-audit
 records: null
 resources:
+- format: GEOJSON
+  name: Housing Land Audit 2024/25
+  url: https://opendata.angus.gov.uk/dataset/0982e436-2fdb-4b6f-944c-2cb70cf57743/resource/0baaa23e-a693-476d-8d0f-779e58285646/download/housing_land_audit_2024_25.json
+- format: KML
+  name: Housing Land Audit 2024/25
+  url: https://opendata.angus.gov.uk/dataset/0982e436-2fdb-4b6f-944c-2cb70cf57743/resource/ce31cff4-b817-42c5-8611-3cd6fb988f91/download/housing_land_audit_2024_25.kml
 - format: GEOJSON
   name: geojson-for-housing-land-audit-2015.geojson
   url: https://opendata.angus.gov.uk/dataset/0982e436-2fdb-4b6f-944c-2cb70cf57743/resource/bb398028-d643-4a88-ae3b-37eb1d54f017/download/geojson-for-housing-land-audit-2015.geojson

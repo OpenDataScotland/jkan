@@ -9,7 +9,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2024-06-30'
-date_updated: '2024-07-06'
+date_updated: '2026-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>planning - stirling council area planning policy boundaries</b><br

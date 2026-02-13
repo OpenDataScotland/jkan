@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-06-15'
-date_updated: '2024-08-10'
+date_updated: '2026-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>The RoS Cadastral Parcels (INSPIRE) dataset is a maintained and produced\
@@ -18,12 +18,12 @@ notes: "<div>The RoS Cadastral Parcels (INSPIRE) dataset is a maintained and pro
   \ sections of this document, the extent of rights and land contained within a registered\
   \ title cannot be established from the cadastral parcel.\_</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::land-ownership-cadastral-parcels-registers-of-scotland-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::registers-of-scotland-land-ownership-cadastral-parcels-2024-1
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::land-ownership-cadastral-parcels-registers-of-scotland-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/ros_cadastral_parcels/FeatureServer/12
@@ -55,5 +55,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/68dba0e4e55349f0b74ad6144ffd187c/sqlite?layers=12
 schema: default
-title: Registers of scotland - land ownership cadastral parcels (2024)
+title: Land ownership cadastral parcels (registers of scotland) - open data
 ---

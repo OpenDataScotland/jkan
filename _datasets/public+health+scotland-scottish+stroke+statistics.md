@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-03-31'
-date_updated: '2025-01-28'
+date_updated: '2026-01-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Summary of discharges from hospital and deaths in Scotland resulting from

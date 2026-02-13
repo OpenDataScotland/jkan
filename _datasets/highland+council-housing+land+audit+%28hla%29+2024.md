@@ -34,5 +34,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/b169bc97e1fe41f7a676cdd6cf25bf0c/kml?layers=251
 schema: default
-title: Housing Land Audit 2024 FINAL PUBLIC
+title: Housing Land Audit (HLA) 2024
 ---

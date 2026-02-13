@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-07-08'
+date_updated: '2026-01-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised

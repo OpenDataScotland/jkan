@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-08-10'
-date_updated: '2024-08-10'
+date_updated: '2026-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><b>This map is published as Open Data</b><div><br /></div><div><div>The\
@@ -19,12 +19,12 @@ notes: "<p><b>This map is published as Open Data</b><div><br /></div><div><div>T
   \ of rights and land contained within a registered title cannot be established from\
   \ the cadastral parcel.\_</div></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-registers-of-scotland-cadastral-parcels
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::registers-of-scotland-cadastral-parcels-land-ownership-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-registers-of-scotland-cadastral-parcels
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::registers-of-scotland-cadastral-parcels-land-ownership-open-data
 schema: default
-title: Open data - registers of scotland cadastral parcels
+title: Registers of scotland cadastral parcels (land ownership) - open data
 ---

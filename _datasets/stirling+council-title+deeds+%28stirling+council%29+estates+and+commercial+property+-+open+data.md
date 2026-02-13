@@ -7,7 +7,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-03-31'
-date_updated: '2025-03-31'
+date_updated: '2026-02-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div>Local authorities are large owners of land, much of it not captured on

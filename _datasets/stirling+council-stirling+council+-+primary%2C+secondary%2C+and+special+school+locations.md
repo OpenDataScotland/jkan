@@ -4,7 +4,7 @@ category:
 - Education
 - Sport and Leisure
 date_created: '2024-07-19'
-date_updated: '2025-11-21'
+date_updated: '2024-07-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><b>This dataset is published as Open Data and replaces any previously
@@ -25,15 +25,12 @@ notes: '<div><b>This dataset is published as Open Data and replaces any previous
 
   <div>https://www.data.gov.uk/dataset/9a6f9d86-9698-4a5d-a2c8-89f3b212c52c/scottish-school-roll-and-locations</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::stirling-council-primary-secondary-and-special-school-locations-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::stirling-council-primary-secondary-and-special-school-locations
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::stirling-council-primary-secondary-and-special-school-locations-1
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=eb6b5f4e3fe24a5e830ad2c52049d928
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::stirling-council-primary-secondary-and-special-school-locations
 schema: default
 title: Stirling council - primary, secondary, and special school locations
 ---

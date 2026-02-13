@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2025-10-31'
+date_updated: '2026-01-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Local nature reserves are areas of (at least) locally important natural

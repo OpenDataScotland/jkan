@@ -38,5 +38,5 @@ resources:
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/43b98b6228744245ab0ed9bc539ee077/kml?layers=0
 schema: default
-title: GaelicMediumSecondaryCatchments
+title: Gaelic Medium Secondary School Catchments
 ---

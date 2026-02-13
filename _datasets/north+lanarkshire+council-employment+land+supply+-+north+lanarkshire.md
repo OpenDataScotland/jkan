@@ -5,7 +5,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2026-01-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
@@ -21,6 +21,9 @@ resources:
 - format: WFS
   name: Employment Land Supply (Industrial Land)
   url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Industrial Land 2024
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/ArcGIS/rest/services/Industrial_and_Business_Land_Supply_view/FeatureServer
 schema: default
 title: Employment Land Supply - North Lanarkshire
 ---

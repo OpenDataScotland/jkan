@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-05-08'
-date_updated: '2021-05-11'
+date_updated: '2026-02-12'
 license: No licence
 maintainer: Highland Council
 notes: <p>Electoral Wards in The Highland Council area.</p>

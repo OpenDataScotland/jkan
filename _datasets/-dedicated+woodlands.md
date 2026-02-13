@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Parks / Recreation
 date_created: '2019-11-20'
-date_updated: '2025-01-13'
+date_updated: '2026-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: ''
 notes: <p>The Dedication Scheme (Basis I &amp; II) was introduced in 1947 in order
@@ -20,7 +20,7 @@ notes: <p>The Dedication Scheme (Basis I &amp; II) was introduced in 1947 in ord
   record on Scotland's SpatialData.gov.scot Metadata Portal.</p>
 organization: ''
 original_dataset_link: https://www.arcgis.com/home/item.html?id=40c8793c3200456bb7ea497dec1c1ccc
-records: 245
+records: 242
 resources: []
 schema: default
 title: Dedicated Woodlands
