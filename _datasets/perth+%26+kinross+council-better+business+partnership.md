@@ -4,7 +4,7 @@ category:
 - Law and Licensing
 date_created: '2023-03-27'
 date_updated: '2026-01-08'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>The aim is to help traders
   comply with the law while improving consumer protection through a partnership approach.</span></p></div>

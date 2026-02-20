@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: '2018-11-05'
-date_updated: '2026-02-13'
+date_updated: '2020-02-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Boundaries of Urban Areas within North Ayrshire as set out in the Adopted

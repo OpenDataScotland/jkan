@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-01-08'
-date_updated: '2025-01-08'
+date_updated: '2026-02-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p style='margin-top:0px; margin-bottom:0.75rem; max-width:100%; font-family:&quot;Avenir
@@ -25,7 +25,7 @@ resources:
   url: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-3d-city-models-derived-from-airborne-lidar-point-clouds-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://data.ubdc.ac.uk/datasets/glasgow-3d-city-models-derived-from-airborne-lidar-point-clouds-open-data
+  url: https://zenodo.org/records/15000747
 schema: default
 title: Glasgow 3D city models derived from airborne LiDAR point clouds open data
 ---

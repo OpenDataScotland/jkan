@@ -8,7 +8,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2024-08-06'
-date_updated: '2024-08-06'
+date_updated: '2026-02-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>This dataset is published as Open Data and taken directly from Police\
@@ -50,12 +50,15 @@ notes: "<div><b>This dataset is published as Open Data and taken directly from P
   \ information on stop and search please visit the stop and search data publication\
   \ page.</div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-police-scotland-road-traffic-collisions-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-police-scotland-road-traffic-collisions-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::open-data-police-scotland-road-traffic-collisions-1
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::open-data-police-scotland-road-traffic-collisions-2
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=3c7b30fe62d14e9e9bc8842f7abab528
 schema: default
 title: Open data - police scotland road traffic collisions
 ---

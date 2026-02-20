@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-02-28'
-date_updated: '2025-04-15'
+date_updated: '2026-02-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Drug-related hospital statistics (DRHS) provide an annual update to figures
@@ -17,10 +17,10 @@ records: null
 resources:
 - format: CSV
   name: DRHS By Health Board
-  url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/cdd2e229-9955-4d2a-8c9f-d9bc091a602d/download/drug_related_hospital_stays_healthboard.csv
+  url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/cdd2e229-9955-4d2a-8c9f-d9bc091a602d/download/drug_related_hospital_stays_healthboard_2024-25.csv
 - format: CSV
   name: DRHS By Council Area
-  url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/46f9d70b-8517-4af3-b65e-dbcd13dfa388/download/drug_related_hospital_stays_council_2023-24.csv
+  url: https://www.opendata.nhs.scot/dataset/a961302c-aeb7-49b2-9691-9d3da82ca0d9/resource/46f9d70b-8517-4af3-b65e-dbcd13dfa388/download/drug_related_hospital_stays_council_2024-25.csv
 schema: default
 title: Drug-Related Hospital Statistics Scotland
 ---

@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2022-01-14'
-date_updated: '2022-01-14'
+date_updated: '2026-02-19'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>Glasgow Urban Model is a 3D digital representation of the City Centre and
@@ -17,7 +17,7 @@ resources:
   url: https://open-data-design-glasgowgis.hub.arcgis.com/documents/GlasgowGIS::glasgow-urban-model-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://gcc-urban-model.ubdc.ac.uk
+  url: https://zenodo.org/records/15000747
 schema: default
 title: Glasgow Urban Model
 ---
