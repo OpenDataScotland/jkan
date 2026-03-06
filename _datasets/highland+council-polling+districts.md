@@ -7,7 +7,7 @@ date_created: '2017-03-16'
 date_updated: '2025-11-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
-notes: <p>Polling Districts in the Highland Council area.</p>
+notes: <p>Polling Districts in The Highland Council area.</p>
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/77fa374a2e9146e2afdd3690e650d50e_0
 records: null

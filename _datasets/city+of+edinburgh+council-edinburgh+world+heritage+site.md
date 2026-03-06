@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2021-05-27'
-date_updated: '2021-05-27'
+date_updated: '2026-03-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p><span style='color:rgb(76, 76, 76); font-family:&quot;Avenir Next W01&quot;,\
@@ -26,25 +26,19 @@ resources:
   url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::edinburgh-world-heritage-site
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/18
-- format: OGC WFS
-  name: OGC WFS
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: OGC WMS
-  name: OGC WMS
-  url: https://edinburghcouncilmaps.info/arcgis/services/Misc/INSPIRE/MapServer/WMSServer?request=GetCapabilities&service=WMS
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Localplans/LDP2030/MapServer/9
 - format: CSV
   name: CSV
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/csv?layers=18
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/csv?layers=9
 - format: ZIP
   name: Shapefile
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/shapefile?layers=18
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/shapefile?layers=9
 - format: GEOJSON
   name: GeoJSON
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/geojson?layers=18
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/geojson?layers=9
 - format: KML
   name: KML
-  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/kml?layers=18
+  url: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/api/download/v1/items/9a58e8a82ad2409284673951cd16d691/kml?layers=9
 schema: default
 title: Edinburgh World Heritage Site
 ---

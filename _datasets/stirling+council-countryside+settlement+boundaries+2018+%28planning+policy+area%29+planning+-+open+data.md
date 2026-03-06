@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Tourism
 date_created: '2024-11-07'
-date_updated: '2025-03-18'
+date_updated: '2026-03-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>A Countryside Policy Boundary (CPB) is a planning designation used by\

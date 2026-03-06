@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-11-13'
-date_updated: '2026-02-10'
+date_updated: '2026-03-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a wide\
@@ -39,6 +39,18 @@ resources:
 - format: CSV
   name: LGBF Data Table Real
   url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/7ba35197-7ca7-4477-a38b-01fd4180466b/download/lgbf_data_table_real.csv
+- format: MS EXCEL
+  name: LGBF Publication Schedule
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/936dfac1-ebd9-4069-81ed-5582c24957c8/download/lgbf-publication-calendar-tool-2025-26.xlsx
+- format: MS EXCEL
+  name: List of indicators updated_27Feb2026.xlsx
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/dd3a7168-3e48-4693-8c9a-607b59e461c8/download/list-of-indicators-updated_27feb2026.xlsx
+- format: MS EXCEL
+  name: Expenditure_Table.xlsx
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/6520008c-cbb9-4b78-8c52-5c46de91ccc0/download/expenditure_table.xlsx
+- format: MS EXCEL
+  name: Changelog_27Feb2026.xlsx
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/1a49125e-e373-4171-ba2c-62f3bee42a76/download/changelog_27feb2026.xlsx
 schema: default
 title: Local Government Benchmarking Framework - Scotland
 ---

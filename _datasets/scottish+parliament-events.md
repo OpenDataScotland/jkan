@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Council and Government
 date_created: ''
-date_updated: '2025-06-19'
+date_updated: '2026-02-26'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of Events held in the Scottish Parliament.</p>

@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-07-09'
-date_updated: '2024-07-09'
+date_updated: '2026-02-25'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <p>This dataset covers both Stirling and Clackmannanshire council areas and

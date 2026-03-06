@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2020-04-08'
-date_updated: '2025-11-25'
+date_updated: '2026-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>A quarterly summary of waiting times and waiting lists for IVF in Scotland.\r\n\r\nTheField
@@ -20,11 +20,11 @@ notes: '<p>A quarterly summary of waiting times and waiting lists for IVF in Sco
   been made to address these issues and as a result, some previously published statistics
   have changed.\r\n\r\nIn this release, PHS can report on the number of patients screened
   and performance against the waiting time standard for both the Glasgow IVF Centre
-  and Scotland for the period October 2015 to September 2025. Data on the number of
-  referrals are reported for the period January 2016 to June 2025, while data for
-  patients waiting are reported for October 2015 to June 2025.\r\n\r\nA full dataset
+  and Scotland for the period October 2015 to December 2025. Data on the number of
+  referrals are reported for the period January 2016 to October 2025, while data for
+  patients waiting are reported for October 2015 to October 2025.\r\n\r\nA full dataset
   is published for the 3 other IVF Centres, with the exception of patients waiting
-  for the Edinburgh IVF Centre at 31 January 2019.\r\n</p>'
+  for the Edinburgh IVF Centre at 31 January 2019.\r\n\r\n</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/ivf-waiting-times-in-scotland
 records: null

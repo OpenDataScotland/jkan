@@ -1,11 +1,8 @@
 ---
 category:
-- Business and Economy
 - Council and Government
 - Elections / Politics
 - Food and Environment
-- Housing and Estates
-- Planning and Development
 date_created: '2025-03-31'
 date_updated: '2026-03-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
@@ -29,27 +26,12 @@ notes: '<div>Local authorities are large owners of land, much of it not captured
   purposes as part of our work to support Freedom of Information requests and Community
   Council / Elected Member enquiries.</div></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::title-deeds-stirling-council-estates-and-commercial-property-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::title-deeds-stirling-council-map-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::title-deeds-stirling-council-estates-and-commercial-property-open-data
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/council_title_deeds_open_data/FeatureServer/0
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/35a7dfdf9be44042bbe640e77b4ab2a4/csv?layers=0
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/35a7dfdf9be44042bbe640e77b4ab2a4/shapefile?layers=0
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/35a7dfdf9be44042bbe640e77b4ab2a4/geojson?layers=0
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/35a7dfdf9be44042bbe640e77b4ab2a4/kml?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::title-deeds-stirling-council-map-open-data
 schema: default
-title: Title deeds (stirling council) estates and commercial property - open data
+title: Title deeds (stirling council) map - open data
 ---

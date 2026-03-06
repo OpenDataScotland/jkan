@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-06-23'
+date_updated: '2026-02-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -25,6 +25,9 @@ resources:
 - format: REST
   name: Housing Land Audit 23/24
   url: https://services.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/rest/services/HousingLandAudit23_24/FeatureServer/0
+- format: WFS
+  name: Dundee Housing Land Audit 2024-25
+  url: https://dservices.arcgis.com/GlZ1P6ksdiXNYhvC/arcgis/services/Dundee_Housing_Land_Audit_2025/WFSServer?request=getcapabilities&amp;service=wfs
 schema: default
 title: Housing Land Supply - Dundee City
 ---

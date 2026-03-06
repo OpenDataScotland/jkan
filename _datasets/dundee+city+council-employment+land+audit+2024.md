@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-09-27'
-date_updated: '2024-10-03'
+date_updated: '2026-02-24'
 license: No licence
 maintainer: Dundee City Council
 notes: "<p>Councils are required to supply the total amount of available employment\
@@ -32,7 +32,7 @@ resources:
   url: https://data.dundeecity.gov.uk/apps/dundeecity::employment-land-audit-2024
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://experience.arcgis.com/experience/c2c40be9e4fd4ad689e43522be27036f/
+  url: https://experience.arcgis.com/experience/c2c40be9e4fd4ad689e43522be27036f
 schema: default
 title: Employment Land Audit 2024
 ---

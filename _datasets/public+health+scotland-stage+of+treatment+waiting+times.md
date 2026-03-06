@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Health and Social Care
 date_created: '2020-03-20'
-date_updated: '2026-02-03'
+date_updated: '2026-02-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset reports key statistics on Inpatient, Day case and New Outpatient
@@ -23,14 +23,15 @@ notes: <p>This dataset reports key statistics on Inpatient, Day case and New Out
   list of forthcoming publications.\r\n\r\n\r\nDue to the live nature of local Patient
   Management Systems and the national data mart, historical trend data are routinely
   refreshed from one publication to the next, leading to slight revisions in statistics,
-  particularly those for the previous quarter end. The reasoning behind these retrospective
+  particularly those for the previous month end. The reasoning behind these retrospective
   changes and details of ongoing investigations are described in the dedicated Data
   Quality webpage.\r\n\r\nAcross NHSScotland, the net effect of all revisions for
-  new outpatients was an increase of 0.1% (+592) in the number of ongoing waits and
-  0.2% (+208) in the number of attendances compared to previously published figures
-  for the month ending 30 November 2025. Drawing the same comparison for inpatient
-  and day case treatment, the net effect was an increase of 1.2% (+1,943) ongoing
-  waits and 1% (+233) admissions.\r\n\r\nFor more information, please see the <a href="https://www.publichealthscotland.scot/publications/stage-of-treatment-waiting-times-data-quality-issues/">Data
+  new outpatients was an increase of 0.1% (+456) in the number of ongoing waits and
+  a decrease of 1.8% (-1,956) in the number of attendances compared to previously
+  published figures for the month ending 31 December 2025. Drawing the same comparison
+  for inpatient and day case treatment, the net effect was an increase of 0.9% (+1,464)
+  ongoing waits and 0.4% (+81) admissions.\r\n\r\n\r\nFor more information, please
+  see the <a href="https://www.publichealthscotland.scot/publications/stage-of-treatment-waiting-times-data-quality-issues/">Data
   quality</a> section of the website.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/stage-of-treatment-waiting-times
@@ -38,10 +39,10 @@ records: null
 resources:
 - format: CSV
   name: Distribution of Ongoing and Completed Waits - Monthly
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_dec25.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_jan26.csv
 - format: CSV
   name: "Ongoing and Completed Waits \u2013 Monthly"
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_dec25.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_jan26.csv
 - format: CSV
   name: Completed Waits - Long Trend
   url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/4c091d26-1492-41e5-9577-832cbc1cd4cf/download/sot_performance_completed_waits_dec25.csv
