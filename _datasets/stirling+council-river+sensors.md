@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2025-02-19'
-date_updated: '2026-02-09'
+date_updated: '2026-03-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>river level sensors - stirling council :\_ This app shows a timeseries\

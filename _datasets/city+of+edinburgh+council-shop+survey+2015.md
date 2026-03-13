@@ -2,8 +2,8 @@
 category:
 - Business and Economy
 date_created: '2021-09-28'
-date_updated: '2021-12-19'
-license: No licence
+date_updated: '2026-03-09'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: <p><font face='Avenir Next, Avenir Next'><span style='font-size:18px; background-color:rgb(248,
   248, 248);'>The shops database is a record of a comprehensive survey of all shops
