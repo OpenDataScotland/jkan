@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-07-01'
+date_updated: '2026-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -14,9 +14,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-nl'
 records: null
 resources:
-- format: WFS
-  name: Town Centres
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
+- format: REST
+  name: Mixed Use Centres
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/LDP_2022_View/FeatureServer/35
 schema: default
 title: Town Centres - North Lanarkshire
 ---

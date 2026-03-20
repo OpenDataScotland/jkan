@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-09-07'
-date_updated: '2025-12-17'
+date_updated: '2026-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p>This dataset shows the locations of litter bins managed by Stirling Council''s

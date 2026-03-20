@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2017-05-15'
-date_updated: '2026-02-05'
+date_updated: '2026-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<div><span style=''font-size:medium;''>Community Councils in The Highland
@@ -51,21 +51,6 @@ resources:
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/kml?layers=0
-- format: ZIP
-  name: File Geodatabase
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/filegdb?layers=0
-- format: TXT
-  name: Feature Collection
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/featureCollection?layers=0
-- format: MS EXCEL
-  name: Excel
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/excel?layers=0
-- format: GPKG
-  name: GeoPackage
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/geoPackage?layers=0
-- format: GDB
-  name: SQLite Geodatabase
-  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/d5519409fc9043e6b15d2ef77089993e/sqlite?layers=0
 schema: default
 title: Community Councils
 ---

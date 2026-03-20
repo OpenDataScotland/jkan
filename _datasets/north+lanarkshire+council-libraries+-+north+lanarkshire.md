@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
+date_updated: '2026-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council
@@ -24,9 +24,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-nl'
 records: null
 resources:
-- format: WFS
-  name: North Lanarkshire Libraries
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Libraries
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Libraries_View/FeatureServer/0
 schema: default
 title: Libraries - North Lanarkshire
 ---

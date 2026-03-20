@@ -5,9 +5,9 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2026-03-17'
+date_updated: '2022-10-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-maintainer: Dumfries and Galloway Council
+maintainer: Shetland Islands Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
   \ as an electoral Ward within which a polling place is designated.</p>\n<p>The Representation\
   \ of the People Act 1983 places a duty on LA to divide the local authority area\
@@ -27,25 +27,18 @@ notes: "<p>A Polling District is a geographical subdivision of an electoral area
   \ and came into force on 30th Sept 2016. As a result, ward boundaries (and therefore\
   \ polling districts and possibly polling places) were changed after this date in\
   \ time for the May 2017 elections.</p>\n<p>The following fields are now MANDATORY\
-  \ fields for this dataset.\n \"district_code\" - The polling district code, as defined\
-  \ by the LA\n \"UPRN\" - The Unique Property Reference Number for the Corporate\
-  \ Address Gazeteer record of the polling place related to the polling district,\
-  \ as defined by the LA\n \"polling_place\" - The name and/or address of the polling\
-  \ place (based on the Corporate Address Gazeteer record) related to the polling\
-  \ district, as defined by the LA</p>"
-organization: Dumfries and Galloway Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-dg'
+  \ fields for this dataset.\n \"district_code\" - The polling district code linked\
+  \ to the polling place\n \"UPRN\" - The Unique Property Reference Number for the\
+  \ Corporate Address Gazeteer record of the polling place\n \"polling_place\" - The\
+  \ name and/or address of the polling place (based on the Corporate Address Gazeteer\
+  \ record)</p>"
+organization: Shetland Islands Council
+original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-si'
 records: null
 resources:
 - format: ZIP
-  name: Polling Stations
-  url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/045f2c0b-5d7c-4886-93a2-40ae6f597f8b/download/polling_districts.zip
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/8df41340-2bbd-453c-89f5-7fcd84543e53/download/polling_districts.zip
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/2d44b721-1801-49c7-9629-534e00749fd1/resource/83822d9f-4bed-4185-a44c-c4dc16e70447/download/dgc_polling_districts_2026.zip
+  name: Shetland Polling Stations
+  url: https://data.spatialhub.scot/dataset/83891cdb-b848-485c-aa93-de82daf680d4/resource/78a3c685-b24f-4b21-9276-38eb91cc374d/download/pollingstations_point.zip
 schema: default
-title: Polling Districts - Dumfries and Galloway
+title: Polling Places - Shetland Islands
 ---

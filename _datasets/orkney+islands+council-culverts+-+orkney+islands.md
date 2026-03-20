@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-11-08'
-date_updated: '2023-10-13'
+date_updated: '2026-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)

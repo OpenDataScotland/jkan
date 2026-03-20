@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2026-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Lanarkshire Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -26,9 +26,9 @@ organization: North Lanarkshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-nl'
 records: null
 resources:
-- format: WFS
+- format: REST
   name: Area of Great Landscape Value
-  url: https://maps.northlanarkshire.gov.uk/server/services/PUBLIC/SpatialHubLayers/MapServer/WFSServer
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Area_of_Great_Landscape_Value_View/FeatureServer
 schema: default
 title: Local Landscape Areas - North Lanarkshire
 ---

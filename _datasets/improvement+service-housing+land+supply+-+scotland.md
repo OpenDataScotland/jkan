@@ -2,11 +2,9 @@
 category:
 - Food and Environment
 - Housing and Estates
-- Parks / Recreation
 - Planning and Development
-- Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-02-13'
+date_updated: '2026-03-17'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -17,10 +15,13 @@ notes: <p>Local authorities are required to conduct an annual survey of the hous
   and includes full details - where available - of site references, completions and
   remaining supply and site programming. Further details of greenfield/brownfield
   status, tenure, effectiveness (deliverable within the period), constraints, planning
-  details/status and developer are also provided where available.  Some of the geometry
-  is represented by a buffer on a recorded X/Y easting/northing where polygons were
-  not available.  Data is not included for Dumfries and Galloway, Inverclyde and Loch
-  Lomond and the Trossachs National Park.</p>
+  details/status and developer are also provided where available, matching the data
+  with with Scottish Government Housing Land Audit guidance schema.  In addition to
+  this, energy performance certification data is included within the dataset. This
+  is used as a proxy for house completions within housing land audit sites. Planning
+  application references are also included, drawn from the national planning application
+  dataset.  Some of the geometry is represented by a buffer on a recorded X/Y easting/northing
+  where polygons were not available.</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_supply-is'
 records: null

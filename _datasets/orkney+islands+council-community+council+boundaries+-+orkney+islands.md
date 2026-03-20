@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2023-10-13'
+date_updated: '2026-03-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -27,7 +27,7 @@ records: null
 resources:
 - format: ZIP
   name: Orkney Community Council Boundaries
-  url: https://data.spatialhub.scot/dataset/c967b41a-b836-4a47-b2ca-fe5aa3488283/resource/e032e46c-50b8-4f18-8697-9f9a05eacf8f/download/orkney-community-councils.zip
+  url: https://data.spatialhub.scot/dataset/c967b41a-b836-4a47-b2ca-fe5aa3488283/resource/e032e46c-50b8-4f18-8697-9f9a05eacf8f/download/community-councils.zip
 schema: default
 title: Community Council Boundaries - Orkney Islands
 ---

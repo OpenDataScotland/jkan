@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2023-10-17'
+date_updated: '2026-03-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -45,7 +45,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/d74724ef-d75d-43e9-90ed-282c2f90ee83/resource/8c7f9170-f463-483f-8500-b4023595abdf/download/lit-signs.zip
 - format: ZIP
   name: Salt and Grit Bins
-  url: https://data.spatialhub.scot/dataset/d74724ef-d75d-43e9-90ed-282c2f90ee83/resource/82007eef-d03f-443a-9d54-e05c6226a709/download/salt_grit-bins.zip
+  url: https://data.spatialhub.scot/dataset/d74724ef-d75d-43e9-90ed-282c2f90ee83/resource/82007eef-d03f-443a-9d54-e05c6226a709/download/grit-bins.zip
 - format: ZIP
   name: Street Lights
   url: https://data.spatialhub.scot/dataset/d74724ef-d75d-43e9-90ed-282c2f90ee83/resource/be28d31b-24c4-4280-a1ba-3b4df7e6eeaa/download/street-lights.zip

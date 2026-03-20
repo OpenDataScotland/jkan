@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2021-06-17'
-date_updated: '2026-01-26'
+date_updated: '2026-03-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>There are many areas where the scenery is highly valued locally and local
@@ -18,7 +18,7 @@ notes: <p>There are many areas where the scenery is highly valued locally and lo
   Guidance published by NatureScot and Historic Environment Scotland (see below) suggests
   the name be standardised to Local Landscape Areas (LLA) now. LLAs complement the
   National Scenic Area designation, which identifies those landscapes that are seen
-  as nationally important owing to their unsurpassed scenery. https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/local-designations/local-landscape-areas</p>
+  as nationally important owing to their unsurpassed scenery.  https://www.nature.scot/professional-advice/protected-areas-and-species/protected-areas/local-designations/local-landscape-areas</p>
 organization: Improvement Service
 original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_areas-is'
 records: null
