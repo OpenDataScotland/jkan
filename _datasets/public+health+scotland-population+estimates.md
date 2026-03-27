@@ -6,7 +6,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2018-02-06'
-date_updated: '2026-03-03'
+date_updated: '2026-03-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Population estimates for all geography types in Scotland:\r\n\r\n<em>Data
@@ -37,6 +37,12 @@ resources:
 - format: CSV
   name: Health Board (2019) Population Estimates
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/27a72cc8-d6d8-430c-8b4f-3109a9ceadb1/download/hb2019_pop_est_03102025.csv
+- format: CSV
+  name: Data Zone (2001) Population Estimates
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/bf086aee-130d-4487-b854-808db0e29dc4/download/dz2001-pop-est_20032026.csv
+- format: CSV
+  name: Intermediate Zone (2001) Population Estimates
+  url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/0bb11b73-27ad-45ed-9a35-df688d69b12b/download/iz2001-pop-est_20032026.csv
 - format: CSV
   name: Health Board (1995) Population Estimates 1974 - 1980
   url: https://www.opendata.nhs.scot/dataset/7f010430-6ce1-4813-b25c-f7f335bdc4dc/resource/5502b69c-5ba2-4b1e-9840-b3b868d6d64b/download/hb1995_pop_est_1974_1980_07072020.csv

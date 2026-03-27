@@ -5,10 +5,10 @@ date_created: '2020-08-11'
 date_updated: '2020-08-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
-notes: "<p>Land indentified as Contaminated Land as per Part IIA Environmental Protection\
-  \ Act 1990 (Statutory Instrument).<div>Gemini metadata\_ record is at :<br /></div><p><a\
-  \ href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901'\
-  \ rel='nofollow ugc'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901</a></p></p>"
+notes: "<p>\u200BLand identified as Contaminated Land as per Part IIA Environmental\
+  \ Protection Act 1990 (Statutory Instrument).</p>\n<div>Gemini metadata&nbsp; record\
+  \ is at :</div>\n<p><a target='_blank' href='https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901'\
+  \ rel='nofollow ugc noopener noreferrer'>https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/metadata/e17f9012-fae9-402e-a127-48ffa2919901</a></p>"
 organization: Highland Council
 original_dataset_link: https://map-highland.opendata.arcgis.com/datasets/45c3003e7c724eba833832197459e86c_0
 records: null

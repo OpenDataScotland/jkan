@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-07-07'
+date_updated: '2026-03-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -16,7 +16,7 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conse
 records: null
 resources:
 - format: ZIP
-  name: Local Nature Conservation Sites 2023
+  name: Local Nature Conservation Sites
   url: https://data.spatialhub.scot/dataset/d3a9c8a5-6cca-47cc-8ae2-363101c9d2d7/resource/103d251d-777e-4300-a29e-aad634adfc5d/download/lncs.zip
 schema: default
 title: Local Nature Conservation Sites - Orkney Islands

@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2023-10-13'
+date_updated: '2026-03-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -22,8 +22,8 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibitio
 records: null
 resources:
 - format: ZIP
-  name: Alcohol Prohibition Area 2011
-  url: https://data.spatialhub.scot/dataset/41393fe4-4981-4650-8e79-f1c0b3ff89ff/resource/09c40395-fcb5-4462-88c4-326902db86fe/download/acohol-prohibition-area-2011.zip
+  name: Alcohol Prohibition Area
+  url: https://data.spatialhub.scot/dataset/41393fe4-4981-4650-8e79-f1c0b3ff89ff/resource/09c40395-fcb5-4462-88c4-326902db86fe/download/alcohol-prohibition-area.zip
 schema: default
 title: Alcohol Prohibition Areas - Orkney Islands
 ---

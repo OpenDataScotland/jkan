@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2023-10-13'
+date_updated: '2026-03-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Orkney Islands Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -45,7 +45,7 @@ records: null
 resources:
 - format: ZIP
   name: Orkney CATR
-  url: https://data.spatialhub.scot/dataset/e7cbe7ef-571c-49dd-8602-2866f1b33a93/resource/6b4b39ec-078f-4ac4-a23f-33f576e62818/download/orkney-car.zip
+  url: https://data.spatialhub.scot/dataset/e7cbe7ef-571c-49dd-8602-2866f1b33a93/resource/6b4b39ec-078f-4ac4-a23f-33f576e62818/download/community-asset-transfer-register.zip
 schema: default
 title: Community Asset Transfer Register - Orkney Islands
 ---

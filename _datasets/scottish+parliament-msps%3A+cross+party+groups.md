@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: ''
-date_updated: '2026-03-16'
+date_updated: '2026-03-23'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>A collection of Cross Party Groups (CPGs). CPGs provide an opportunity for
