@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-06-09'
+date_updated: '2026-04-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -25,9 +25,9 @@ organization: Highland Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/community_council_boundaries-hi'
 records: null
 resources:
-- format: REST
-  name: Community Council boundaries
-  url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CommunityCouncils/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: OTHER
+  name: Community Council Boundaries Highland (from THCEU AGOL)
+  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/Community_Councils_Open_Data/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Community Council Boundaries - Highland
 ---

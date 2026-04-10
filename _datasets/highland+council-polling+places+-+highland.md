@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2025-06-09'
+date_updated: '2026-04-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -36,9 +36,9 @@ organization: Highland Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_places-hi'
 records: null
 resources:
-- format: REST
-  name: Polling Places
-  url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/PollingPlaces/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: OTHER
+  name: Polling Places Highland (from THCEU AGOL)
+  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/Polling_Places_-_open_data/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Polling Places - Highland
 ---

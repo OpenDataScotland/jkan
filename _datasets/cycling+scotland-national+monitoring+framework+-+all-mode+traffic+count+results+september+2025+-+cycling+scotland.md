@@ -11,17 +11,17 @@ organization: Cycling Scotland
 original_dataset_link: https://usmart.io/org/cyclingscotland/discovery/discovery-view-detail/2c422c52-09a3-459e-8ae7-3d4f17445dc5
 records: null
 resources:
-- format: CSV
+- format: JSON
   name: National Monitoring Framework - all-mode traffic count results September 2025
-    - Cycling Scotland.csv
-  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=4b3b871a-409e-45de-a18d-2399234c8879
+    - Cycling Scotland.json
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=46b02845-1273-47a6-a07b-d9c8f43de8c8
 - format: XML
   name: National Monitoring Framework - all-mode traffic count results September 2025
     - Cycling Scotland.xml
   url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=645047c8-6142-46f5-8c1f-fce57ec35545
-- format: JSON
-  name: API
-  url: https://api.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/3c5540d6-cd9e-46c4-b3b8-bcc7be3585a1/1/urql
+- format: CSV
+  name: National all-mode traffic survey results - September 2025 - Cycling Scotland.csv
+  url: https://data.usmart.io/org/d1b773fa-d2bd-4830-b399-ecfd18e832f3/resource?resourceGUID=d23dad21-c61e-480d-bf87-bfbeb930298a
 schema: default
 title: National Monitoring Framework - all-mode traffic count results September 2025
   - Cycling Scotland

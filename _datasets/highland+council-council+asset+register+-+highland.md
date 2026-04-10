@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Council and Government
 date_created: '2017-01-27'
-date_updated: '2025-06-09'
+date_updated: '2026-04-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registers.</p>
@@ -15,9 +15,9 @@ organization: Highland Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_register-hi'
 records: null
 resources:
-- format: REST
-  name: Council Asset Register - HC Property Centroids (Community Empowerment Act)
-  url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CEA_HC_Property_Centroids/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: OTHER
+  name: Council Property Centroids CEA Highland (from THC EU AGOL)
+  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/CEA_HC_Property_Centroids_view/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Council Asset Register - Highland
 ---

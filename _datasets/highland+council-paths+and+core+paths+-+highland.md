@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2023-11-13'
+date_updated: '2026-04-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -30,9 +30,9 @@ organization: Highland Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/paths_and_core_paths-hi'
 records: null
 resources:
-- format: REST
-  name: Core Paths
-  url: https://services1.arcgis.com/MfbPb778y5QTu2Wv/arcgis/rest/services/CorePaths/FeatureServer/0/query?outFields=*&where=1%3D1
+- format: OTHER
+  name: Core Paths Highland (from THCEU AGOL)
+  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/Core_Paths_-_open_data/FeatureServer/0/query?outFields=*&where=1%3D1
 schema: default
 title: Paths And Core Paths - Highland
 ---

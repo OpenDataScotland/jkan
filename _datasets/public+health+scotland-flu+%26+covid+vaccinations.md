@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2026-03-05'
+date_updated: '2026-04-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This data resource shows the latest published vaccination statistics from
@@ -44,16 +44,16 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/672a8c93-e7fb-49d5-83c7-3efc1f153aab/download/covid_urban_rural_20260201.csv
 - format: CSV
   name: Flu - all delivered
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/dcf1b618-e42f-4020-b8ea-e4255bf7d8c1/download/weekly_flu_all_delivered_vacc_scot_20260305.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/dcf1b618-e42f-4020-b8ea-e4255bf7d8c1/download/weekly_flu_all_delivered_vacc_scot_20260409.csv
 - format: CSV
   name: Flu - JCVI
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ccb8a2a6-4124-4bb9-9efb-e8e17a36322b/download/weekly_flu_vacc_jcvi_20260305.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ccb8a2a6-4124-4bb9-9efb-e8e17a36322b/download/weekly_flu_vacc_jcvi_20260409.csv
 - format: CSV
   name: Flu - Scotland
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/85d57884-b4a9-4104-bcc7-6eae5a4310b8/download/weekly_flu_vacc_scot_20260305.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/85d57884-b4a9-4104-bcc7-6eae5a4310b8/download/weekly_flu_vacc_scot_20260409.csv
 - format: CSV
   name: Flu - eligible uptake
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ae1cd4fd-5658-47b5-8e0a-2274627682d5/download/weekly_flu_vacc_eligible_uptake_hb_20260305.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ae1cd4fd-5658-47b5-8e0a-2274627682d5/download/weekly_flu_vacc_eligible_uptake_hb_20260409.csv
 - format: CSV
   name: "Flu \u2013 ethnicity by Health Board "
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/08423764-5a85-4892-bf0a-10c5174fcf9a/download/flu_ethnicity_hb_20260201.csv

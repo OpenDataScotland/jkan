@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2026-01-12'
-date_updated: '2026-01-12'
+date_updated: '2026-04-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: West of Scotland Archaeology Service
 notes: "<p>Five GIS layers derived from data held and maintained by the West of Scotland\
@@ -30,6 +30,9 @@ resources:
 - format: ZIP
   name: WoSAS_Jan_2026.zip
   url: https://data.spatialhub.scot/dataset/412e1dcd-52b1-41ca-a046-b417aee96ac0/resource/c7a1732d-87c3-49b6-816a-2faddfb653c7/download/wosas_jan_2026.zip
+- format: ZIP
+  name: West of Scotland Archaeology Service Historic Environment Record Datasets
+  url: https://data.spatialhub.scot/dataset/412e1dcd-52b1-41ca-a046-b417aee96ac0/resource/24c8082d-5f82-4a3f-bee3-3bd5d303577d/download/wosas_april_2026.zip
 schema: default
 title: West of Scotland Archaeology Service Historic Environment Record Datasets
 ---
