@@ -6,18 +6,53 @@ permalink: /organizations/
 
 {% include breadcrumbs.html %}
 {% assign org_count = site.organizations | size %}
+{% assign published_org_count = 0 %}
+{% for organization in site.organizations %}
+	{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
+	{% if dataset_count > 0 %}
+		{% assign published_org_count = published_org_count | plus: 1 %}
+	{% endif %}
+{% endfor %}
+{% assign unpublished_org_count = org_count | minus: published_org_count %}
+
+<style>
+	#org-list[data-show-empty-orgs="false"] .org-parent[data-has-datasets="false"] {
+		display: none;
+	}
+
+	.org-controls {
+		margin-bottom: 2rem;
+	}
+
+	.org-controls .checkbox {
+		margin-top: 1rem;
+		margin-bottom: 0.75rem;
+	}
+</style>
 
 <h1>Organizations</h1>
 
-<h2 id="orgs-count">{{ org_count }} organizations</h2>
+<h2 id="orgs-count">{{ published_org_count }} organizations with published datasets</h2>
 
-<input type="text" id="org-search" class="form-control" placeholder="Search..." style="margin-bottom:2rem;">
+<div class="org-controls">
+	<input type="text" id="org-search" class="form-control" placeholder="Search organizations...">
+	<div class="checkbox">
+		<label>
+			<input type="checkbox" id="show-empty-orgs">
+			Include organizations with no datasets published{% if unpublished_org_count > 0 %} ({{ unpublished_org_count }}){% endif %}
+		</label>
+	</div>
+	<p class="well">
+		Only organizations with 1 or more published datasets are shown by default, to keep this list focused on active publishers. Enable the checkbox to include organizations that have not published any datasets yet, that we hope to see publishing in the future!
+	</p>
+</div>
 
-<div id="org-list">
+
+<div id="org-list" data-show-empty-orgs="false">
 	{% for organization in site.organizations %}
 	{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
 	{% assign org_type = organization.type | first %}
-	<div class="media org-parent" data-org-name="{{ organization.title }}" data-org-type="{{ org_type }}" data-org-description="{{ organization.description }}">
+	<div class="media org-parent" data-org-name="{{ organization.title | escape }}" data-org-type="{{ org_type | default: '' | escape }}" data-org-description="{{ organization.description | default: '' | escape }}" data-dataset-count="{{ dataset_count }}" data-has-datasets="{% if dataset_count > 0 %}true{% else %}false{% endif %}">
 		<div class="media-left">
 			{% if organization.logo and organization.logo != empty %}
 			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
@@ -44,24 +79,39 @@ permalink: /organizations/
 </div>
 
 <script>
-	document.getElementById("org-search").addEventListener("keyup", function (e) {
-		let searchTerm = e.srcElement.value;
-		let orgElements = document.querySelectorAll("#org-list .org-parent")
-		let orgShownCount = 0;
-		let orgCountDisplay = document.getElementById("orgs-count");
+	const orgSearch = document.getElementById("org-search");
+	const showEmptyOrgs = document.getElementById("show-empty-orgs");
+	const orgList = document.getElementById("org-list");
+	const orgElements = document.querySelectorAll("#org-list .org-parent");
+	const orgCountDisplay = document.getElementById("orgs-count");
 
+	function updateOrganizationList() {
+		const searchTerm = orgSearch.value.trim().toLowerCase();
+		const includeEmptyOrgs = showEmptyOrgs.checked;
+		let orgShownCount = 0;
+
+		orgList.dataset.showEmptyOrgs = includeEmptyOrgs ? "true" : "false";
 
 		orgElements.forEach(org => {
-			if (org.dataset.orgName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-				org.dataset.orgType.toLowerCase().includes(searchTerm.toLowerCase()) ||
-				org.dataset.orgDescription.toLowerCase().includes(searchTerm.toLowerCase())) {
-				org.style.display = "block";
-				orgShownCount++
+			const matchesSearch = org.dataset.orgName.toLowerCase().includes(searchTerm) ||
+				org.dataset.orgType.toLowerCase().includes(searchTerm) ||
+				org.dataset.orgDescription.toLowerCase().includes(searchTerm);
+			const hasDatasets = org.dataset.hasDatasets === "true";
+			const isVisible = matchesSearch && (includeEmptyOrgs || hasDatasets);
+
+			org.hidden = !isVisible;
+
+			if (isVisible) {
+				orgShownCount++;
 			}
-			else {
-				org.style.display = "none";
-			}
-			orgCountDisplay.innerText = `${orgShownCount} organizations`;
-		})
-	});
+		});
+
+		orgCountDisplay.innerText = includeEmptyOrgs
+			? `${orgShownCount} organizations`
+			: `${orgShownCount} organizations with published datasets`;
+	}
+
+	orgSearch.addEventListener("input", updateOrganizationList);
+	showEmptyOrgs.addEventListener("change", updateOrganizationList);
+	updateOrganizationList();
 </script>
