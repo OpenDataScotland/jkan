@@ -24,6 +24,7 @@ permalink: /analytics/platform-health/
     <thead>
         <tr>
             <th rowspan="2">Name</th>
+            <th rowspan="2">Datasets</th>
             <th><abbr title="Description">Desc</abbr></th>
             <th>Logo</th>
             <th>Type</th>
@@ -66,6 +67,7 @@ permalink: /analytics/platform-health/
         {% for org in site.organizations %}
         <tr>
             <td><a href="{{ site.baseurl }}{{ org.url }}">{{ org.title }}</a></td>
+            <td>{{ site.datasets | where:"organization", org.title | size }}</td>i 
             <td>
                 {% if org.description.size > 0 %} <i class="fa-solid fa-check report-good"></i><span class="sr-only">Yes</span> {% else %} <i class="fa-solid fa-times report-bad"></i><span class="sr-only">No</span> {% endif %}
             </td>
