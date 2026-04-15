@@ -34,23 +34,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="me" href="https://mastodon.scot/@opendatascotland">
 
-  {% if site.digital_analytics_program.enabled == true %}
-  <!-- US Digital Analytics Program - see https://analytics.usa.gov for data-->
-  <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.digital_analytics_program.agency }}&subagency={{ site.digital_analytics_program.subagency }}"></script>
-  {% endif %}
-
-  {% if site.google_analytics.enabled == true %}
-  <!-- Google Analytics -->
-  {% include addons/google-analytics.html %}
-  {% endif %}
-
   <!-- Plausible Analytics -->
   <script defer data-domain="opendata.scot" src="https://plausible.io/js/plausible.js"></script>
-
-  {% if site.hypothesis.enabled == true %}
-  <!-- Hypothesis.io -->
-  <script async defer src="//hypothes.is/embed.js"></script>
-  {% endif %}
 
   {% if site.opengraph.enabled == true %}
   <!-- Open Graph -->
@@ -70,8 +55,6 @@
   crossorigin=""></script>
   <script src="https://unpkg.com/mustache@latest"></script>
   <script src="{{ "/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
-
-
 
   <script>
     var settings = {
