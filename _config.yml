@@ -39,8 +39,6 @@ navigation:
       url: /analytics/portal-types/
     - title: Platform health
       url: /analytics/platform-health/
-  - title: Suggest dataset
-    url: /suggest-dataset/
   - title: Resources
     sub-pages:
     - title: About Open Data Scotland
