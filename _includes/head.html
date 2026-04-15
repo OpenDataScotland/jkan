@@ -26,7 +26,6 @@
   {% endif %}
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.2/css/select2.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/notie/3.0.0/notie.min.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
   integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
@@ -76,13 +75,7 @@
 
   <script>
     var settings = {
-    BASE_URL: {{ site.baseurl | jsonify }},
-    PAGE_URL: {{ page.url | jsonify }},
-    REPO_BRANCH: {% if site.github.is_user_page %} "master"{% else %} "gh-pages"{% endif %},
-    REPO_OWNER: {{ site.github.owner_name | jsonify }},
-    REPO_NAME: {{ site.github.project_title | jsonify }},
-    GITHUB_CLIENT_ID: {{ site.github_client_id | jsonify }},
-    GATEKEEPER_HOST: {{ site.gatekeeper_host | jsonify }}
+    BASE_URL: {{ site.baseurl | jsonify }}
   }
   </script>
 </head>
