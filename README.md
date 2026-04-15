@@ -73,9 +73,23 @@ Shared reference data (categories, licences, organisation types) lives in `_data
 
 For code contributions, fork the repository and open a pull request against the `gh-pages` branch. Be sure to check out the [contributing guidelines](https://github.com/opendatascotland/jkan?tab=contributing-ov-file) for more details.
 
+Each dataset is a Markdown file with YAML front matter. See existing datasets for the format.
+
 ## Configuration
 
-Site-wide settings are in `_config.yml`, including the site title, navigation, GitHub OAuth client ID (to be deprecated), and the dataset schema in use.
+Site-wide settings are in `_config.yml`, including the site title, navigation, and the dataset schema in use.
+
+## Build System
+
+The site uses modern JavaScript tooling:
+- **Webpack 5**: Module bundler for JavaScript assets
+- **Babel 7**: ES6+ transpilation with `@babel/preset-env`
+- **Core-js 3**: Polyfills for modern JavaScript features
+
+Build commands:
+- `npm run build` - Production build (minified bundle at scripts/dist/bundle.js) - needs built before committing changes to the site at the moment
+- `npm run watch` - Development build with file watching
+- `npm start` - Development server with hot reload
 
 ## Deployment
 
