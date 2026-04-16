@@ -35,6 +35,22 @@
  * Date: 2016-05-20T17:23Z
  */
 
+/*! Bootstrap 3 styling wrapper for FixedHeader
+ * ©2018 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! DataTables 2.3.7
+ * © SpryMedia Ltd - datatables.net/license
+ */
+
+/*! DataTables Bootstrap 3 integration
+ * ©2011-2015 SpryMedia Ltd - datatables.net/license
+ */
+
+/*! FixedHeader 4.0.6
+ * © SpryMedia Ltd - datatables.net/license
+ */
+
 /**
  * @license
  * Lodash <https://lodash.com/>
