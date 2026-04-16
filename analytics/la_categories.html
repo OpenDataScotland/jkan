@@ -15,7 +15,32 @@ full_width: true
 
 <h1>{{ page.title }}</h1>
 
-{% assign categories = site.data.categories %}  
+{% assign categories = site.data.categories %}
+{% assign local_authorities = site.organizations | where: "type", "Local authority" %}
+{% assign local_authorities_count = local_authorities | size %}
+{% assign datasets_by_organization = site.datasets | group_by: "organization" %}
+{% assign empty_list = "" | split: "" %}
+
+{% capture councils_no_data_count_cells %}{% endcapture %}
+{% capture councils_no_data_percent_cells %}{% endcapture %}
+{% for category in categories %}
+    {% assign las_no_data_count = 0 %}
+    {% for la in local_authorities %}
+        {% assign org_group = datasets_by_organization | where: "name", la.title | first %}
+        {% if org_group %}
+            {% assign la_datasets = org_group.items %}
+        {% else %}
+            {% assign la_datasets = empty_list %}
+        {% endif %}
+        {% assign dataset_count = la_datasets | where_exp: "item", "item.category contains category.name" | size %}
+        {% if dataset_count == 0 %}
+            {% assign las_no_data_count = las_no_data_count | plus: 1 %}
+        {% endif %}
+    {% endfor %}
+    {% capture councils_no_data_count_cells %}{{ councils_no_data_count_cells }}<td>{{ las_no_data_count }}/{{ local_authorities_count }}</td>{% endcapture %}
+    {% assign las_no_data_percent = las_no_data_count | times: 100.0 | divided_by: local_authorities_count %}
+    {% capture councils_no_data_percent_cells %}{{ councils_no_data_percent_cells }}<td>{{ las_no_data_percent | round: 0 }}</td>{% endcapture %}
+{% endfor %}
 
 <table id="category-breakdown-table" class="table table-responsive table-bordered table-striped">
     <thead>
@@ -28,16 +53,19 @@ full_width: true
         </tr>
     </thead>
     <tbody>
-        
-        {% assign local_authorities = site.organizations | where: "type", "Local authority" %}        
-        {% assign local_authorities_count = local_authorities | size %}        
         {% for la in local_authorities %}
         {% assign dataset_count_total = 0 %}
-        
+        {% assign org_group = datasets_by_organization | where: "name", la.title | first %}
+        {% if org_group %}
+            {% assign la_datasets = org_group.items %}
+        {% else %}
+            {% assign la_datasets = empty_list %}
+        {% endif %}
+
         <tr>
             <td>{{ la.title }}</td>
             {% for category in categories %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
+            {% assign dataset_count = la_datasets | where_exp: "item", "item.category contains category.name" | size %}
             {% assign dataset_count_total = dataset_count_total | plus: dataset_count %}
             {% if dataset_count < 1 %}
             <td style="{{COLOUR_NONE}}">{{dataset_count}}</td>
@@ -53,37 +81,17 @@ full_width: true
             {% endfor %}
             <th>{{dataset_count_total}}</th>
         </tr>
-        
-        {% endfor %}        
+        {% endfor %}
     </tbody>
     <tfoot>
         <tr>
             <th># councils with no data</th>
-            {% for category in categories %}
-            {% assign las_no_data_count = 0 %}
-            {% for la in local_authorities %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
-            {% if dataset_count == 0 %}
-            {% assign las_no_data_count = las_no_data_count | plus: 1 %}
-            {% endif %}
-            {% endfor %}
-            <td>{{las_no_data_count}}/{{ local_authorities_count }}</td>
-            {% endfor %}
+            {{ councils_no_data_count_cells }}
             <th style="background-color:#f9f9f9"></th>
         </tr>
         <tr>
             <th>% of councils with no data</th>
-            {% for category in categories %}
-            {% assign las_no_data_count = 0 %}
-            {% for la in local_authorities %}
-            {% assign dataset_count = site.datasets | where_exp: "item", "item.organization contains la.title" | where_exp: "item", "item.category contains category.name" | size %}
-            {% if dataset_count == 0 %}
-            {% assign las_no_data_count = las_no_data_count | plus: 1 %}
-            {% endif %}
-            {% endfor %}
-            {% assign las_no_data_percent = las_no_data_count | times: 100.0 | divided_by: local_authorities_count %}
-            <td>{{ las_no_data_percent | round: 0 }}</td>
-            {% endfor %}
+            {{ councils_no_data_percent_cells }}
             <th style="background-color:#f9f9f9"></th>
         </tr>
     </tfoot>
