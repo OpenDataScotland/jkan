@@ -1,15 +1,22 @@
 /* global __dirname */
 const path = require('path');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = (env, argv) => {
   const isDevelopment = argv.mode === 'development';
-  
+  const outputPath = path.resolve(__dirname, isDevelopment ? '_site/scripts/dist' : 'scripts/dist');
+
   return {
-    entry: path.resolve(__dirname, 'scripts/src/index.js'),
+    entry: {
+      vendor: path.resolve(__dirname, 'scripts/src/vendor.js'),
+      bundle: path.resolve(__dirname, 'scripts/src/index.js'),
+    },
     output: {
-      path: path.resolve(__dirname, isDevelopment ? '_site/scripts/dist' : 'scripts/dist'),
-      filename: 'bundle.js',
-      clean: true
+      path: outputPath,
+      filename: '[name].js',
+      assetModuleFilename: 'assets/[hash][ext][query]',
+      clean: { keep: /map-utils\.js/ }
     },
     module: {
       rules: [
@@ -19,12 +26,36 @@ module.exports = (env, argv) => {
           use: {
             loader: 'babel-loader'
           }
+        },
+        {
+          test: /\.css$/,
+          use: [MiniCssExtractPlugin.loader, 'css-loader']
+        },
+        {
+          test: /\.(woff|woff2|ttf|eot|svg|png|gif)(\?v=\d+\.\d+\.\d+)?$/,
+          type: 'asset/resource'
         }
       ]
     },
-    externals: {
-      jquery: 'jQuery'
+    plugins: [
+      new MiniCssExtractPlugin({
+        filename: 'vendor.css'
+      })
+    ],
+    optimization: {
+      minimize: !isDevelopment,
+      minimizer: [
+        new TerserPlugin({
+          extractComments: false,
+          terserOptions: {
+            format: {
+              comments: false
+            }
+          }
+        })
+      ]
     },
+    externals: {},
     devServer: {
       static: {
         directory: path.resolve(__dirname, '_site')
