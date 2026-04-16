@@ -1,6 +1,7 @@
 /* global __dirname */
 const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = (env, argv) => {
   const isDevelopment = argv.mode === 'development';
@@ -41,6 +42,19 @@ module.exports = (env, argv) => {
         filename: 'vendor.css'
       })
     ],
+    optimization: {
+      minimize: !isDevelopment,
+      minimizer: [
+        new TerserPlugin({
+          extractComments: false,
+          terserOptions: {
+            format: {
+              comments: false
+            }
+          }
+        })
+      ]
+    },
     externals: {},
     devServer: {
       static: {
