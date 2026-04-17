@@ -1,7 +1,10 @@
-import 'bootstrap/js/dropdown'
-import 'bootstrap/js/tooltip'
-import 'bootstrap/js/popover'
-import 'bootstrap/js/collapse'
+import Dropdown from 'bootstrap/js/dist/dropdown'
+import Tooltip from 'bootstrap/js/dist/tooltip'
+import Popover from 'bootstrap/js/dist/popover'
+import Collapse from 'bootstrap/js/dist/collapse'
+
+// Expose Bootstrap components globally for inline scripts
+window.bootstrap = { Dropdown, Tooltip, Popover, Collapse }
 
 export default class {
   constructor (opts) {

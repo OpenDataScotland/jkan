@@ -1,7 +1,7 @@
 /* global settings */
 import $ from 'jquery'
-import 'bootstrap/js/tab'
-import 'bootstrap/js/modal'
+import Tab from 'bootstrap/js/dist/tab'
+import Modal from 'bootstrap/js/dist/modal'
 
 import Navigation from './components/navigation'
 import DatasetsList from './components/datasets-list'

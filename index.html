@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-<div class="jumbotron">
+<div class="jumbotron py-5">
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-xs-12">
+      <div class="col-lg-3 col-12">
         <img src="{{ site.baseurl }}{{ site.logo }}" alt="Open Data Scotland logo" style="object-fit: cover; margin-right: 2rem; width: 100%;">
       </div>
-      <div class="col-lg-9 col-xs-12">
+      <div class="col-lg-9 col-12">
         <h1>{{ site.greeting }}</h1>
         <p>
           {{ site.description }}
@@ -21,26 +21,22 @@ title: Home
 </div>
 
 <section class="row">
-  <div class="col-md-6 col-xs-12">
-    <div class="panel panel-default">
-      <!-- Default panel contents -->
-      <div class="panel-heading">
-        <h2 class="panel-title">Recently popular datasets (last 7 days)</h2>
+  <div class="col-md-6 col-12">
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title h5 mb-0">Recently popular datasets (last 7 days)</h2>
       </div>
-      <!-- List group -->
-      <div class="list-group" id="popular-datasets" data-component="popular-datasets">
+      <div class="list-group list-group-flush" id="popular-datasets" data-component="popular-datasets">
         <div class="loader loader-centre"></div>
       </div>
     </div>
   </div>
-  <div class="col-md-6 col-xs-12">
-    <div class="panel panel-default">
-      <!-- Default panel contents -->
-      <div class="panel-heading">
-        <h2 class="panel-title">5 random datasets</h2>
+  <div class="col-md-6 col-12">
+    <div class="card">
+      <div class="card-header">
+        <h2 class="card-title h5 mb-0">5 random datasets</h2>
       </div>
-      <!-- List group -->
-      <div class="list-group" id="random-datasets" data-component="random-datasets">
+      <div class="list-group list-group-flush" id="random-datasets" data-component="random-datasets">
         <div class="loader loader-centre"></div>
       </div>
     </div>
@@ -54,7 +50,7 @@ title: Home
   {% for category in site.data.categories %}
   {% if category.featured == true %}
   {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-  <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+  <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="homepage-category-link" title="{{ logo_alt }}">
     {% if category.logo and category.logo != empty %}
     <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
     {% endif %}

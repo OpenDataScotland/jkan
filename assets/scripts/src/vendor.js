@@ -25,14 +25,14 @@ L.Icon.Default.mergeOptions({
   shadowUrl: markerShadow,
 })
 
-// DataTables (Bootstrap 3 styled, with FixedHeader extension)
-import 'datatables.net-bs'
-import 'datatables.net-fixedheader-bs'
+// DataTables (Bootstrap 5 styled, with FixedHeader extension)
+import 'datatables.net-bs5'
+import 'datatables.net-fixedheader-bs5'
 
 // CSS imports (extracted to vendor.css by MiniCssExtractPlugin)
 import 'bootstrap/dist/css/bootstrap.min.css'
 import '@fortawesome/fontawesome-free/css/all.min.css'
 import 'notie/dist/notie.css'
 import 'leaflet/dist/leaflet.css'
-import 'datatables.net-bs/css/dataTables.bootstrap.min.css'
-import 'datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css'
+import 'datatables.net-bs5/css/dataTables.bootstrap5.min.css'
+import 'datatables.net-fixedheader-bs5/css/fixedHeader.bootstrap5.min.css'

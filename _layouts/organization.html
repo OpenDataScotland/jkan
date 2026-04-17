@@ -7,14 +7,14 @@ layout: default
   <div class="row" data-hook="view" data-view="display">
     <div class="col-sm-3">
       {% if page.logo and page.logo != empty %}
-      <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo" onerror="handleMissingLogo(this);this.onerror=null;"></a>
-      {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="thumbnail"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo"></a>
+      <a href="{{ page.logo }}" class="d-inline-block"><img src="{{ page.logo }}" alt="{{ page.title }} logo" class="img-thumbnail" onerror="handleMissingLogo(this);this.onerror=null;"></a>
+      {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="d-inline-block"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo" class="img-thumbnail"></a>
       {% endif %}
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Information</h3>
+      <div class="card">
+        <div class="card-header">
+          <h3 class="card-title h5 mb-0">Information</h3>
         </div>
-        <div class="panel-body">
+        <div class="card-body">
           <dl style="word-wrap: break-word;">
             {% if page.portal_url and page.portal_url != empty %}
             <dt>Portal URL</dt>

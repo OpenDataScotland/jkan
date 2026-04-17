@@ -2,6 +2,14 @@
   width: 64px;
 }
 
+/* Bootstrap 5 removed .jumbotron — replicate the essential look */
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+}
+
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
@@ -74,7 +82,7 @@ dataset {
   content: "";
 }
 
-.homepage-categories .thumbnail {
+.homepage-categories .homepage-category-link {
   display: inline-block;
   min-width: 120px;
   text-align: center;
@@ -90,17 +98,17 @@ dataset {
   color: #000;
 }
 
-.theme-gallery .panel {
+.theme-gallery .card {
   display: inline-block;
   max-width: 250px;
   text-align: center;
 }
 
-.theme-gallery .panel img {
+.theme-gallery .card img {
   width: 100%;
 }
 
-.theme-gallery .panel-primary {
+.theme-gallery .card.border-primary {
   border-width: 5px;
 }
 
