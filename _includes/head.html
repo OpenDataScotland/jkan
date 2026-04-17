@@ -18,13 +18,13 @@
   <meta name="theme-color" content="#ffffff">
 
 
-  <link rel="stylesheet" href="{{ "/scripts/dist/vendor.css" | relative_url | append: cacheBust }}">
+  <link rel="stylesheet" href="{{ "/assets/scripts/dist/vendor.css" | relative_url | append: cacheBust }}">
   {% assign theme_name = site.jkan_theme | default: 'Default' %}
   {% assign theme = site.data.themes | where:'name', theme_name | first %}
   {% if theme and theme.src and theme.src != empty %}
   <link rel="stylesheet" href="{{ theme.src }}">
   {% endif %}
-  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url | append: cacheBust }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url | append: cacheBust }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="me" href="https://mastodon.scot/@opendatascotland">
 
@@ -40,9 +40,9 @@
   <!-- Twittercard -->
   {% include addons/twittercard.html %}
   {% endif %}
-  <script src="{{ "/scripts/dist/vendor.js" | relative_url | append: cacheBust }}"></script>
-  <script src="{{ "/scripts/dist/bundle.js" | relative_url | append: cacheBust }}" defer></script>
-  <script src="{{ "/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
+  <script src="{{ "/assets/scripts/dist/vendor.js" | relative_url | append: cacheBust }}"></script>
+  <script src="{{ "/assets/scripts/dist/bundle.js" | relative_url | append: cacheBust }}" defer></script>
+  <script src="{{ "/assets/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
 
   <script>
     var settings = {

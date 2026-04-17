@@ -78,8 +78,8 @@ permalink: /analytics/local-authority-coverage/
     });
 
     async function loadData() {
-        let geoJson = await fetch('{{ site.baseurl }}/geojson/local_authorities.geojson').then(response => { return response.json() });
-        let localAuthorityOrgs = await fetch('{{ site.baseurl }}/data/local_authorities.json').then(response => { return response.json() });
+        let geoJson = await fetch('{{ site.baseurl }}/assets/data/local_authorities.geojson').then(response => { return response.json() });
+        let localAuthorityOrgs = await fetch('{{ site.baseurl }}/assets/data/local_authorities.json').then(response => { return response.json() });
 
         // Map
         L.geoJSON(geoJson, { onEachFeature: (feature, layer) => {bindLAPopup(feature, layer, localAuthorityOrgs); } })
