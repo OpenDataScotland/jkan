@@ -90,8 +90,10 @@ dataset {
   padding: 10px;
 }
 
-.homepage-categories .thumbnail img {
+.homepage-categories .thumbnail img,
+.homepage-categories .homepage-category-link img {
   height: 80px;
+  width: auto;
 }
 
 .homepage-categories a {
