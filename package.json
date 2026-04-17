@@ -18,7 +18,7 @@
     "terser-webpack-plugin": "^5.3.14",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^5.2.3"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
@@ -29,8 +29,7 @@
     "core-js": "^3.36.0",
     "datatables.net-bs": "^1.12.1",
     "datatables.net-fixedheader-bs": "^3.2.3",
-    "jquery": "^2.2.4",
-    "jquery-deparam": "^0.5.2",
+    "jquery": "^3.7.1",
     "jquery-serializejson": "^2.6.2",
     "js-yaml": "^3.5.5",
     "leaflet": "^1.8.0",
