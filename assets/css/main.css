@@ -10,6 +10,22 @@
   border-radius: 0.3rem;
 }
 
+/* Bootstrap 3 jumbotron had a large h1 at medium+ breakpoints */
+@media (min-width: 768px) {
+  .jumbotron h1 {
+    font-size: 63px;
+  }
+}
+
+/* Bootstrap 3 had text-decoration: none on all links by default.
+   Bootstrap 5 changed this to underline; revert to match production. */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
@@ -92,12 +108,19 @@ dataset {
 
 .homepage-categories .thumbnail img,
 .homepage-categories .homepage-category-link img {
+  display: block;
+  margin: 0 auto 8px;
   height: 80px;
   width: auto;
 }
 
 .homepage-categories a {
   color: #000;
+  text-decoration: none;
+}
+
+.homepage-categories a:hover {
+  text-decoration: none;
 }
 
 .theme-gallery .card {
