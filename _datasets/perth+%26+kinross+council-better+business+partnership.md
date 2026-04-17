@@ -6,8 +6,13 @@ date_created: '2023-03-27'
 date_updated: '2026-01-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <div style='text-align:Left;font-size:12pt'><p><span>The aim is to help traders
-  comply with the law while improving consumer protection through a partnership approach.</span></p></div>
+notes: "<div style='font-size:12pt; text-align:Left;'><p><span>The aim is to help\
+  \ traders comply with the law while improving consumer protection through a partnership\
+  \ approach.</span></p><p><span>This dataset is held &amp; maintained in FirmStep\
+  \ Tactical DB &nbsp;in a table named \u201Cdbo.BBP\u201D. &nbsp;A form on the Staff\
+  \ portal for Trading Standards to maintain members &amp; details.</span></p><p>There\
+  \ are not many updates but this should be checked &amp; updated monthly if necessary\
+  \ as it is on the Open Data Hub.</p></div>"
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::better-business-partnership
 records: null

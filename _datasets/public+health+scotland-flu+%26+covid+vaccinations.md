@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2022-09-28'
-date_updated: '2026-04-09'
+date_updated: '2026-04-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This data resource shows the latest published vaccination statistics from
@@ -56,19 +56,19 @@ resources:
   url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/ae1cd4fd-5658-47b5-8e0a-2274627682d5/download/weekly_flu_vacc_eligible_uptake_hb_20260409.csv
 - format: CSV
   name: "Flu \u2013 ethnicity by Health Board "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/08423764-5a85-4892-bf0a-10c5174fcf9a/download/flu_ethnicity_hb_20260201.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/08423764-5a85-4892-bf0a-10c5174fcf9a/download/flu_ethnicity_hb_20260331.csv
 - format: CSV
   name: "Flu \u2013 ethnicity by JCVI "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/bea87773-342f-4be8-a438-c4a94eb08658/download/flu_ethnicity_jcvi_20260201.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/bea87773-342f-4be8-a438-c4a94eb08658/download/flu_ethnicity_jcvi_20260331.csv
 - format: CSV
   name: "Flu \u2013 SIMD by Health Board "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/5e9f71cc-fc7a-44b4-8c03-9122531d2607/download/flu_simd_hb_20260201.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/5e9f71cc-fc7a-44b4-8c03-9122531d2607/download/flu_simd_hb_20260331.csv
 - format: CSV
   name: "Flu \u2013 SIMD by JCVI "
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/fb929259-b7d0-49ae-ae9c-11f5062f8678/download/flu_simd_jcvi_20260201.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/fb929259-b7d0-49ae-ae9c-11f5062f8678/download/flu_simd_jcvi_20260331.csv
 - format: CSV
   name: "Flu \u2013 Urban Rural by Health Board"
-  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/594d2880-ada9-4a95-b3c9-eb163058b170/download/flu_urban_rural_20260201.csv
+  url: https://www.opendata.nhs.scot/dataset/086c153d-0fdc-4f7c-ad51-1e856c094a0e/resource/594d2880-ada9-4a95-b3c9-eb163058b170/download/flu_urban_rural_20260331.csv
 schema: default
 title: Flu & COVID vaccinations
 ---
