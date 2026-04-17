@@ -1,6 +1,5 @@
 /* global settings */
 import $ from 'jquery'
-import 'jquery-deparam'
 import 'bootstrap/js/tab'
 import 'bootstrap/js/modal'
 
@@ -16,7 +15,7 @@ import {queryByComponent} from './util'
 import PopularDatasets from './components/popular-datasets'
 import RandomDatasets from './components/random-datasets'
 
-const params = $.deparam(window.location.search.substr(1))
+const params = Object.fromEntries(new URLSearchParams(window.location.search))
 
 // Check for these components on the page and initialize them
 const components = [

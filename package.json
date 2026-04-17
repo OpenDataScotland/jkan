@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Front-end project for Open Data Scotland.",
   "main": "scripts/src/index.js",
+  "engines": {
+    "node": ">=18.12.0"
+  },
   "scripts": {
     "start": "webpack serve --mode development",
     "watch": "webpack --mode development --watch",
@@ -18,21 +21,17 @@
     "terser-webpack-plugin": "^5.3.14",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^5.2.3"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
-    "ampersand-state": "^5.0.0",
     "bootstrap": "^3.3.6",
     "chart.js": "^2.9.4",
     "copy-to-clipboard": "^3.3.3",
     "core-js": "^3.36.0",
     "datatables.net-bs": "^1.12.1",
     "datatables.net-fixedheader-bs": "^3.2.3",
-    "jquery": "^2.2.4",
-    "jquery-deparam": "^0.5.2",
-    "jquery-serializejson": "^2.6.2",
-    "js-yaml": "^3.5.5",
+    "jquery": "^3.7.1",
     "leaflet": "^1.8.0",
     "lodash": "^4.6.1",
     "mustache": "^4.2.0",
