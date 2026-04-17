@@ -2,7 +2,7 @@
 schema: default
 title: Renfrewshire Council
 description: Local authority for the Renfrewshire Council area 
-logo: '/img/org_logos/renfrewshire_council.png'
+logo: '/assets/img/org_logos/renfrewshire_council.png'
 type:
 - Local authority
 portal_url: 'https://data-ren.opendata.arcgis.com'

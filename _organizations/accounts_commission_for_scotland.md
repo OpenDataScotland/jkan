@@ -2,7 +2,7 @@
 schema: default
 title: Accounts Commission for Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: '/img/org_logos/accounts_commission.png'
+logo: '/assets/img/org_logos/accounts_commission.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

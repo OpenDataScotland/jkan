@@ -2,7 +2,7 @@
 schema: default
 title: Stagecoach
 description: Transport group providing services in Scotland
-logo: /img/org_logos/stagecoach.png
+logo: /assets/img/org_logos/stagecoach.png
 type:
   - Private company
 portal_url: 'https://www.stagecoachbus.com/open-data'

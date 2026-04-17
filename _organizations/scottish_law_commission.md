@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Law Commission
 description: Non-departmental public body. Part of Scottish Government
-logo: '/img/org_logos/scottish_law_commission.png'
+logo: '/assets/img/org_logos/scottish_law_commission.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''
