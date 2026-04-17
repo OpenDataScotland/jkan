@@ -7,7 +7,7 @@ layout: default
   <div class="row" data-hook="view" data-view="display">
     <div class="col-sm-3">
       {% if page.logo and page.logo != empty %}
-      <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo"></a>
+      <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo" onerror="handleMissingLogo(this);this.onerror=null;"></a>
       {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="thumbnail"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo"></a>
       {% endif %}
       <div class="panel panel-default">
@@ -62,6 +62,17 @@ layout: default
         <small style="margin-left: 0.5rem">{{ org_type }}</small>
       </h1>
       <p>{{ page.description }}</p>
+
+      {% assign logo_alert_display = 'none' %}
+      {% if page.logo == false or page.logo == empty %}
+        {% assign logo_alert_display = 'block' %}
+      {% endif %}   
+      
+      <div class="alert alert-info" id="logo-alert" role="alert" style="display: {{ logo_alert_display }};">
+        This organization's logo is missing. You can contribute by <strong><a href="https://docs.opendata.scot/contribute/how-to-add-an-organization-image/">adding one to enhance its profile</a></strong>.
+      </div>
+      
+
       <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
         <h3 class="datasets-count" data-hook="datasets-count"></h3>
         <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
@@ -70,12 +81,12 @@ layout: default
     </div>
 
   </div>
-  {%- comment -%} <div class="row" data-hook="view" data-view="edit">
-    <div class="col-sm-8 col-sm-offset-2">
-      {% include organization-form.html organization=page %}
-    </div>
-    <div class="col-sm-2">
-      <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
-    </div>
-  </div> {%- endcomment -%}
 </div>
+
+<script>
+  function handleMissingLogo(e){
+    e.src = '{{ site.baseurl }}{{ site.default_org_icon }}';
+    const logoAlert = document.getElementById('logo-alert');
+    logoAlert.style.display = 'block';
+  }
+</script>
