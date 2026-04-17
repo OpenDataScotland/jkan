@@ -2,7 +2,7 @@
 schema: default
 title: Boundary Commission for Scotland
 description: Non-departmental public body responsible for boundary reviews of UK parliamentary constituencies in Scotland
-logo: '/img/org_logos/boundary_commission_for_scotland.png'
+logo: '/assets/img/org_logos/boundary_commission_for_scotland.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

@@ -7,3 +7,4 @@ node_modules
 .jekyll-cache/
 .vscode/settings.json
 vendor/
+.DS_Store

@@ -2,7 +2,7 @@
 schema: default
 title: Student Awards Agency for Scotland
 description: An executive agency of Scottish Government
-logo: '/img/org_logos/saas.png'
+logo: '/assets/img/org_logos/saas.png'
 type:
 - Executive agency
 portal_url: ''

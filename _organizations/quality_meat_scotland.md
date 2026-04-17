@@ -2,7 +2,7 @@
 schema: default
 title: Quality Meat Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: '/img/org_logos/qms.png'
+logo: '/assets/img/org_logos/qms.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

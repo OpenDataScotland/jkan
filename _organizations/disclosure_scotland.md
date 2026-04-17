@@ -2,7 +2,7 @@
 schema: default
 title: Disclosure Scotland
 description: An executive agency of Scottish Government
-logo: '/img/org_logos/disclosure_scotland.png'
+logo: '/assets/img/org_logos/disclosure_scotland.png'
 type:
 - Executive agency
 portal_url: ''

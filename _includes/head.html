@@ -9,22 +9,17 @@
   <meta name="keywords" content="open, data, scotland, crowdsourced, volunteer, portal{% if page.title %}, {{ page.title | split: " " | join: ", " }}{% endif %}">
 
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
 
-  <link rel="stylesheet" href="{{ "/scripts/dist/vendor.css" | relative_url | append: cacheBust }}">
-  {% assign theme_name = site.jkan_theme | default: 'Default' %}
-  {% assign theme = site.data.themes | where:'name', theme_name | first %}
-  {% if theme and theme.src and theme.src != empty %}
-  <link rel="stylesheet" href="{{ theme.src }}">
-  {% endif %}
-  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url | append: cacheBust }}">
+  <link rel="stylesheet" href="{{ "/assets/scripts/dist/vendor.css" | relative_url | append: cacheBust }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url | append: cacheBust }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="me" href="https://mastodon.scot/@opendatascotland">
 
@@ -40,9 +35,9 @@
   <!-- Twittercard -->
   {% include addons/twittercard.html %}
   {% endif %}
-  <script src="{{ "/scripts/dist/vendor.js" | relative_url | append: cacheBust }}"></script>
-  <script src="{{ "/scripts/dist/bundle.js" | relative_url | append: cacheBust }}" defer></script>
-  <script src="{{ "/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
+  <script src="{{ "/assets/scripts/dist/vendor.js" | relative_url | append: cacheBust }}"></script>
+  <script src="{{ "/assets/scripts/dist/bundle.js" | relative_url | append: cacheBust }}" defer></script>
+  <script src="{{ "/assets/scripts/dist/map-utils.js" | relative_url | append: cacheBust }}"></script>
 
   <script>
     var settings = {

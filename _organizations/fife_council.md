@@ -2,7 +2,7 @@
 schema: default
 title: Fife Council
 description: Local authority for the Fife Council area 
-logo: '/img/org_logos/fife_council.png'
+logo: '/assets/img/org_logos/fife_council.png'
 type:
 - Local authority
 portal_url: ''

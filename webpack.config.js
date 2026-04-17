@@ -5,12 +5,12 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = (env, argv) => {
   const isDevelopment = argv.mode === 'development';
-  const outputPath = path.resolve(__dirname, isDevelopment ? '_site/scripts/dist' : 'scripts/dist');
+  const outputPath = path.resolve(__dirname, isDevelopment ? '_site/assets/scripts/dist' : 'assets/scripts/dist');
 
   return {
     entry: {
-      vendor: path.resolve(__dirname, 'scripts/src/vendor.js'),
-      bundle: path.resolve(__dirname, 'scripts/src/index.js'),
+      vendor: path.resolve(__dirname, 'assets/scripts/src/vendor.js'),
+      bundle: path.resolve(__dirname, 'assets/scripts/src/index.js'),
     },
     output: {
       path: outputPath,

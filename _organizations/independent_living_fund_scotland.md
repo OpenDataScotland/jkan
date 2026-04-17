@@ -2,7 +2,7 @@
 schema: default
 title: Independent Living Fund Scotland
 description: an agency of the Scottish Government
-logo: '/img/org_logos/indpendent_living_fund.png'
+logo: '/assets/img/org_logos/indpendent_living_fund.png'
 type:
 - Other agency
 portal_url: ''

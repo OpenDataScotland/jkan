@@ -2,7 +2,7 @@
 schema: default
 title: Food Standards Scotland
 description: Non-departmental public body. Part of Scottish Government
-logo: '/img/org_logos/food_standards_scotland.png'
+logo: '/assets/img/org_logos/food_standards_scotland.png'
 type:
 - Non-Departmental Public Body
 portal_url: ''

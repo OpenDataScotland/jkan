@@ -2,7 +2,7 @@
 schema: default
 title: Caledonian Maritime Assets
 description: public corporation controlled by Scottish Government
-logo: '/img/org_logos/CMAL.png'
+logo: '/assets/img/org_logos/CMAL.png'
 type:
 - Public corporation
 portal_url: ''

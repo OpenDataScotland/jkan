@@ -2,7 +2,7 @@
 schema: default
 title: Shetland Islands Council
 description: Local authority for the Shetland Islands Council area 
-logo: '/img/org_logos/shetland_islands_council.png'
+logo: '/assets/img/org_logos/shetland_islands_council.png'
 type:
 - Local authority
 portal_url: ''

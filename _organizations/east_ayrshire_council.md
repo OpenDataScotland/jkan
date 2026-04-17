@@ -2,7 +2,7 @@
 schema: default
 title: East Ayrshire Council
 description: Local authority for the East Ayrshire Council area 
-logo: '/img/org_logos/east_ayrshire_scotland.png'
+logo: '/assets/img/org_logos/east_ayrshire_scotland.png'
 type:
 - Local authority
 portal_url: ''
