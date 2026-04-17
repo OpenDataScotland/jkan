@@ -42,9 +42,9 @@ permalink: /organizations/
 			Include organizations with no datasets published{% if unpublished_org_count > 0 %} ({{ unpublished_org_count }}){% endif %}
 		</label>
 	</div>
-	<p class="well">
+	<div class="alert alert-info" role="alert">
 		Only organizations with 1 or more published datasets are shown by default, to keep this list focused on active publishers. Enable the checkbox to include organizations that have not published any datasets yet, that we hope to see publishing in the future!
-	</p>
+	</div>
 </div>
 
 
@@ -56,7 +56,7 @@ permalink: /organizations/
 		<div class="media-left">
 			{% if organization.logo and organization.logo != empty %}
 			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-				<img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}" />
+				<img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}" onerror="this.onerror=null;this.src='{{ site.baseurl }}{{ site.default_org_icon }}';" />
 			</a>
 			{% else %}
 			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
