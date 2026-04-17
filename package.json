@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Front-end project for Open Data Scotland.",
   "main": "scripts/src/index.js",
+  "engines": {
+    "node": ">=18.12.0"
+  },
   "scripts": {
     "start": "webpack serve --mode development",
     "watch": "webpack --mode development --watch",
