@@ -17,14 +17,6 @@
   }
 }
 
-/* Bootstrap 3 had text-decoration: none on all links by default.
-   Bootstrap 5 changed this to underline; revert to match production. */
-a {
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
 
 dataset {
   display: block;
@@ -85,13 +77,9 @@ dataset {
 }
 
 .homepage-categories {
-  display:flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  row-gap: 0.25rem;
 }
 
-/* allows last line of categories to be justify aligned */
-.homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
@@ -99,28 +87,24 @@ dataset {
 }
 
 .homepage-categories .homepage-category-link {
-  display: inline-block;
-  min-width: 120px;
-  text-align: center;
-  border: none;
-  padding: 10px;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.homepage-categories .thumbnail img,
+.homepage-categories .homepage-category-link:hover {
+  transform: translateY(-2px);
+}
+
 .homepage-categories .homepage-category-link img {
   display: block;
-  margin: 0 auto 8px;
-  height: 80px;
+  margin: 0 auto 0.75rem;
+  height: 64px;
   width: auto;
+  max-width: 100%;
 }
 
-.homepage-categories a {
-  color: #000;
-  text-decoration: none;
-}
-
-.homepage-categories a:hover {
-  text-decoration: none;
+.homepage-categories .homepage-category-link span {
+  line-height: 1.3;
 }
 
 .theme-gallery .card {
@@ -230,25 +214,4 @@ body {
 
 ul.list-unstyled-indented {
   list-style: none;
-}
-
-/* Spinner polyfill for lack thereof in BS3 */
-
-.loader {
-  border: 16px solid #f3f3f3; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  animation: spin 2s linear infinite;
-}
-
-.loader-centre {
-  display: block;
-  margin: 2em auto;
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
 }
