@@ -1,7 +1,7 @@
 import clip from "text-clipper";
 
 export default (data) => {
-  const resources = [... new Set(data.resources.map(function (res) { return `<span class="badge filetype-list-item">${res.format.toUpperCase()}</span>` }))].join('');
+  const resources = [... new Set(data.resources.map(function (res) { return `<span class="badge text-bg-secondary rounded-pill me-1">${res.format.toUpperCase()}</span>` }))].join('');
   const clippedHtml = clip(data.notes, 450, { html: true, maxLines: 1 });
 
   var formattedDate = "Unknown";
@@ -19,11 +19,11 @@ export default (data) => {
     console.debug(`Could not parse date: ${data.date_updated}`)
   }
 
-  return `<dataset>
+  return `<dataset class="d-block border-bottom border-light-subtle py-3" >
   <h3><a href="${data.url}">${data.title}</a></h3>
   <h4>${data.organization || ''}</h4>
   <div class="dataset-item-description">${clippedHtml || ''}</div>
-  <div class="dataset-item-resource-types">${resources}</div>
+  <div class="mb-1">${resources}</div>
   <div><strong>Last updated: </strong>${formattedDate}</div>
 </dataset>`
 }

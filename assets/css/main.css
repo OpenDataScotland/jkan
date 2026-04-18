@@ -2,16 +2,6 @@
   width: 64px;
 }
 
-dataset {
-  display: block;
-  border-bottom: 1px #d6d6d6 solid;
-  padding-bottom: 20px;
-}
-
-.dataset-item-resource-types {
-  margin-bottom: 10px;
-}
-
 .list-group-item-truncate {
   display: inline-block;
   line-height: 1;
