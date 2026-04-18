@@ -43,19 +43,19 @@ permalink: /organizations/
 	{% for organization in site.organizations %}
 	{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
 	{% assign org_type = organization.type | first %}
-	<div class="d-flex org-parent" data-org-name="{{ organization.title | escape }}" data-org-type="{{ org_type | default: '' | escape }}" data-org-description="{{ organization.description | default: '' | escape }}" data-dataset-count="{{ dataset_count }}" data-has-datasets="{% if dataset_count > 0 %}true{% else %}false{% endif %}">
+	<div class="d-flex gap-3 align-items-start org-parent mb-3 pb-3 border-bottom" data-org-name="{{ organization.title | escape }}" data-org-type="{{ org_type | default: '' | escape }}" data-org-description="{{ organization.description | default: '' | escape }}" data-dataset-count="{{ dataset_count }}" data-has-datasets="{% if dataset_count > 0 %}true{% else %}false{% endif %}">
 		<div class="flex-shrink-0">
 			{% if organization.logo and organization.logo != empty %}
-			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-				<img class="me-3" src="{{ organization.logo }}" alt="{{ organization.title }}" onerror="this.onerror=null;this.src='{{ site.baseurl }}{{ site.default_org_icon }}';" />
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail d-inline-flex align-items-center justify-content-center p-2 bg-body-tertiary border rounded-3 shadow-sm">
+				<img class="img-fluid" src="{{ organization.logo }}" alt="{{ organization.title }}" onerror="this.onerror=null;this.src='{{ site.baseurl }}{{ site.default_org_icon }}';" />
 			</a>
 			{% else %}
-			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-				<img class="me-3" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}" />
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail d-inline-flex align-items-center justify-content-center p-2 bg-body-tertiary border rounded-3 shadow-sm">
+				<img class="img-fluid" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}" />
 			</a>
 			{% endif %}
 		</div>
-		<div class="flex-grow-1 ms-3">
+		<div class="flex-grow-1">
 			<h3>
 				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
 				<small class="text-body-secondary fs-5 ms-1">{{ org_type }}</small>
