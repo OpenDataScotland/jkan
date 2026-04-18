@@ -11,7 +11,7 @@ layout: default
 {% assign organization = site.organizations | where:"title",page.organization | first %}
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 
-  <div class="row" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
+  <div class="row" data-component="dataset-display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
       <div class="col-sm-3" property="dct:publisher" resource="{{ organization_url }}">
         <div class="card">
