@@ -1,4 +1,5 @@
 import $ from 'jquery'
+import Modal from 'bootstrap/js/dist/modal'
 import tmpDatasetMixedContentModal from '../templates/dataset-mixed-content-modal'
 import copy from 'copy-to-clipboard';
 
@@ -34,14 +35,19 @@ export default class {
         // Generate a modal and append it to the page body
         const modalMarkup = tmpDatasetMixedContentModal(currentLink, originalDatasetUrl);
         $('body').append(modalMarkup);
-        
+
         // Trigger the modal and set it to destroy itself on close
-        $('#mixed-content-warning-modal').modal();
-        $("#mixed-content-warning-modal").on('hidden.bs.modal', function () {
-          $(this).data('bs.modal', null);
-          $(this).remove();
-        });
-        $('#mixed-content-warning-clipboard').on('click',function () {
+        const modalElement = document.getElementById('mixed-content-warning-modal');
+        const modalInstance = new Modal(modalElement);
+
+        modalElement.addEventListener('hidden.bs.modal', () => {
+          modalInstance.dispose();
+          modalElement.remove();
+        }, { once: true });
+
+        modalInstance.show();
+
+        $('#mixed-content-warning-clipboard').on('click', function () {
           copy(currentLink);
           $(this).html('<i class="fa-solid fa-clipboard"></i> Copied!');
         })
