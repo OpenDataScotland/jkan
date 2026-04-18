@@ -2,22 +2,6 @@
   width: 64px;
 }
 
-/* Bootstrap 5 removed .jumbotron — replicate the essential look */
-.jumbotron {
-  padding: 2rem 1rem;
-  margin-bottom: 2rem;
-  background-color: #e9ecef;
-  border-radius: 0.3rem;
-}
-
-/* Bootstrap 3 jumbotron had a large h1 at medium+ breakpoints */
-@media (min-width: 768px) {
-  .jumbotron h1 {
-    font-size: 63px;
-  }
-}
-
-
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
