@@ -17,16 +17,7 @@ permalink: /organizations/
 
 <style>
 	#org-list[data-show-empty-orgs="false"] .org-parent[data-has-datasets="false"] {
-		display: none;
-	}
-
-	.org-controls {
-		margin-bottom: 2rem;
-	}
-
-	.org-controls .checkbox {
-		margin-top: 1rem;
-		margin-bottom: 0.75rem;
+		display: none !important;
 	}
 </style>
 
@@ -34,11 +25,11 @@ permalink: /organizations/
 
 <h2 id="orgs-count">{{ published_org_count }} organizations with published datasets</h2>
 
-<div class="org-controls">
+<div class="mb-4">
 	<input type="text" id="org-search" class="form-control" placeholder="Search organizations...">
-	<div class="checkbox">
-		<label>
-			<input type="checkbox" id="show-empty-orgs">
+	<div class="form-check my-3">
+		<input class="form-check-input" type="checkbox" id="show-empty-orgs">
+		<label class="form-check-label" for="show-empty-orgs">
 			Include organizations with no datasets published{% if unpublished_org_count > 0 %} ({{ unpublished_org_count }}){% endif %}
 		</label>
 	</div>
@@ -66,12 +57,12 @@ permalink: /organizations/
 		</div>
 		<div class="flex-grow-1 ms-3">
 			<h3>
-				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
-				<small style="margin-left: 0.5rem">{{ org_type }}</small>
+				<a href="{{ site.baseurl }}{{ organization.url }}" class="link-underline link-underline-opacity-0 link-underline-opacity-100-hover">{{ organization.title }}</a>
+				<small class="text-body-secondary fs-5 ms-1">{{ org_type }}</small>
 			</h3>
-			<p>{{ organization.description }}</p>
+			<p class="text-body-secondary mb-0">{{ organization.description }}</p>
 			<p>
-				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }} datasets</a>
+				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}" class="link-underline link-underline-opacity-0 link-underline-opacity-100-hover">{{ dataset_count }} datasets</a>
 			</p>
 		</div>
 	</div>
