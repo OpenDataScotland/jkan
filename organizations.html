@@ -57,12 +57,12 @@ permalink: /organizations/
 		</div>
 		<div class="flex-grow-1 ms-3">
 			<h3>
-				<a href="{{ site.baseurl }}{{ organization.url }}" class="link-underline link-underline-opacity-0 link-underline-opacity-100-hover">{{ organization.title }}</a>
+				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
 				<small class="text-body-secondary fs-5 ms-1">{{ org_type }}</small>
 			</h3>
 			<p class="text-body-secondary mb-0">{{ organization.description }}</p>
 			<p>
-				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}" class="link-underline link-underline-opacity-0 link-underline-opacity-100-hover">{{ dataset_count }} datasets</a>
+				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }} datasets</a>
 			</p>
 		</div>
 	</div>
