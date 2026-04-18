@@ -10,7 +10,6 @@ import OrganizationsFilter from './components/organizations-filter'
 import FileTypesFilter from './components/file-types-filter'
 import DatasetDisplay from './components/dataset-display'
 import EditableList from './components/editable-list'
-import ViewSwitcher from './components/view-switcher'
 import {queryByComponent} from './util'
 import PopularDatasets from './components/popular-datasets'
 import RandomDatasets from './components/random-datasets'
@@ -22,7 +21,6 @@ const components = [
   {tag: 'navigation', class: Navigation},
   {tag: 'dataset-display', class: DatasetDisplay},
   {tag: 'editable-list', class: EditableList},
-  {tag: 'view-switcher', class: ViewSwitcher},
   {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
