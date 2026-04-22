@@ -6,20 +6,15 @@ dataset_fields:
     datajson: title
   - field_name: organization
     label: Organization
-    form_template: form/organization.html
     datajson: publisher.name
   - field_name: notes
     label: Description
-    form_template: form/textarea.html
     datajson: description
   - field_name: license
     label: License
-    form_template: form/license.html
     datajson: license
   - field_name: category
     label: Category
-    form_template: form/category.html
-    display_template: display/category.html
     datajson: category
   - field_name: maintainer
     label: Maintainer
@@ -38,8 +33,6 @@ dataset_fields:
     datajson: records
   - field_name: original_dataset_link
     label: Original dataset link
-    display_template: display/link.html
-    html_id: original-dataset-link
     datajson: original_dataset_link    
     
 
@@ -53,7 +46,6 @@ resource_fields:
   - field_name: format
     label: Format
     datajson: distribution.format
-    form_template: form/dropdown.html
     values:
       - api
       - csv
@@ -74,8 +66,6 @@ organization_fields:
     label: Logo
   - field_name: type
     label: Type
-    form_template: form/org_type.html
-    display_template: display/org_type.html
     datajson: org_type
   - field_name: portal_url
     label: Portal URL
@@ -93,7 +83,6 @@ organization_fields:
     label: WhatDoTheyKnow organization ID 
   - field_name: portal_type
     label: Portal type
-    form_template: form/dropdown.html
     values:
       - CKAN
       - DKAN
@@ -114,7 +103,6 @@ category_fields:
     label: Logo Credit
   - field_name: featured
     label: Featured on Homepage
-    form_template: form/checkbox.html
 
 organization_type_fields:
   - field_name: title
