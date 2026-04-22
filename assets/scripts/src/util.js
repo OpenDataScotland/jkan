@@ -50,19 +50,29 @@ export function createDatasetFilters(filters) {
 // Number of items to show can be specified in [data-show] attribute or passed as param
 export function collapseListGroup(container, show) {
   if (!show) show = container.data('show') || 5
+  show = Number(show)
 
   const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
   if (itemsToHide.length) {
     itemsToHide.hide()
 
-    const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
-    showMoreButton.on('click', function (e) {
-      itemsToHide.show()
-      $(this).off('click')
-      $(this).remove()
+    const toggleButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
+    let isExpanded = false
+
+    toggleButton.on('click', function (e) {
       e.preventDefault()
+      isExpanded = !isExpanded
+
+      if (isExpanded) {
+        itemsToHide.show()
+        $(this).text('Show less')
+      } else {
+        itemsToHide.hide()
+        $(this).text('Show ' + itemsToHide.length + ' more...')
+      }
     })
-    container.append(showMoreButton)
+
+    container.append(toggleButton)
   }
 }
 

@@ -9,30 +9,26 @@ layout: default
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
 {% assign organization = site.organizations | where:"title",page.organization | first %}
-{% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 
   <div class="row" data-component="dataset-display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
       <div class="col-sm-3" property="dct:publisher" resource="{{ organization_url }}">
         <div class="card">
-            <div class="card-header">
               {% if organization.logo and organization.logo != empty %}
-              <a href="{{ organization.logo }}" class="d-inline-block">
               <img
                 src="{{ organization.logo }}"
                 alt="{{ organization.title }} logo"
-                class="card-img-top"
+                class="card-img-top p-1 border-bottom"
                 onerror="
                   handleMissingLogo(this);
                   this.onerror = null;
                 "
-            /></a>
-            {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="d-inline-block"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }} logo" class="img-thumbnail" /></a>
+            />
+            {% else %}<img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }} logo" class="card-img-top p-1 border-bottom" />
             {% endif %}
-            </div>
             <div class="card-body">
               <h3>
-                <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
+                <a href="{{ site.baseurl }}{{ organization.url }}" property="foaf:homepage">
                   <span property="foaf:name">{{ organization.title }}</span>
                 </a>
               </h3>
@@ -59,11 +55,11 @@ layout: default
               <h2 class="h5 mb-0">Resources</h2>
             </div>
             {% if page.resources and page.resources != empty %}
-            <ul class="list-group list-group-flush">
+            <ul class="list-group list-group-flush" data-component="resources-list" data-show="7">
               {% for resource in page.resources %}
-              <li class="list-group-item" data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
+              <li class="list-group-item list-group-item-action" data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
                 <div class="d-flex align-items-center gap-2 flex-wrap">
-                  <a href="{{ resource.url }}" property='dcat:accessURL'>
+                  <a href="{{ resource.url }}" property='dcat:accessURL' class="stretched-link">
                     <span property="dct:title">{{ resource.name }}</span>
                   </a>
                   {% if resource.format %}

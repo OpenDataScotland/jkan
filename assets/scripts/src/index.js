@@ -13,6 +13,7 @@ import EditableList from './components/editable-list'
 import {queryByComponent} from './util'
 import PopularDatasets from './components/popular-datasets'
 import RandomDatasets from './components/random-datasets'
+import ResourcesList from './components/resources-list'
 
 const params = Object.fromEntries(new URLSearchParams(window.location.search))
 
@@ -26,7 +27,8 @@ const components = [
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
   {tag: 'file-types-filter', class: FileTypesFilter, usesDatasets: true},
   {tag: 'popular-datasets', class: PopularDatasets, usesDatasets: true},
-  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true}
+  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true},
+  {tag: 'resources-list', class: ResourcesList}
 ]
 for (let component of components) {
   const els = queryByComponent(component.tag)
