@@ -37,6 +37,6 @@ export default (data) => {
   <h4>${data.organization || ''}</h4>
   <div class="dataset-item-description">${clippedHtml || ''}</div>
   <div class="mb-1">${resources}</div>
-  <div class="d-flex flex-column"><span class="me-1"><strong>Date published: </strong>${formattedPublishedDate}</span><span><strong>Last updated: </strong>${formattedUpdatedDate}</span></div>
+  <div class="d-flex flex-sm-row flex-column"><span class="me-1"><strong>Date published: </strong>${formattedPublishedDate}</span><span><strong>Last updated: </strong>${formattedUpdatedDate}</span></div>
 </dataset>`
 }
