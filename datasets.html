@@ -7,26 +7,35 @@ permalink: /datasets/
 
 <h1>Datasets</h1>
 
+<div class="d-sm-none mb-3">
+  <button class="btn btn-outline-secondary w-100" type="button" data-bs-toggle="collapse" data-bs-target="#datasets-filters" aria-expanded="false" aria-controls="datasets-filters">
+    <i class="fa-solid fa-filter"></i> Filter datasets
+  </button>
+</div>
+
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-4 mb-4 mb-sm-0">
+    <div id="datasets-filters" class="collapse d-sm-block">
 
-    <h2 class="my-3">Categories</h2>
-    <div class="list-group" data-component="categories-filter" data-show="5"></div>
+      <h2 class="my-3">Categories</h2>
+      <div class="list-group" data-component="categories-filter" data-show="5"></div>
 
-    <h2 class="my-3">Organizations</h2>
-    <div class="list-group" data-component="organizations-filter" data-show="5"></div>
+      <h2 class="my-3">Organizations</h2>
+      <div class="list-group" data-component="organizations-filter" data-show="5"></div>
 
-    <h2 class="my-3">File types</h2>
-    <div class="list-group" data-component="file-types-filter" data-show="5"></div>
+      <h2 class="my-3">File types</h2>
+      <div class="list-group" data-component="file-types-filter" data-show="5"></div>
 
-    <h2 class="my-3">Organization type</h2>
-    <div class="list-group" data-component="org-type-filter" data-show="5"></div>
+      <h2 class="my-3">Organization type</h2>
+      <div class="list-group" data-component="org-type-filter" data-show="5"></div>
 
-    <h2 class="my-3">Date published</h2>
-    <div data-component="date-range-filter"></div>
+      <h2 class="my-3">Date published</h2>
+      <div data-component="date-range-filter"></div>
 
-    <h2 class="my-3">Date updated</h2>
-    <div data-component="date-range-filter" data-from-param="updatedFrom" data-to-param="updatedTo" data-hook-prefix="updated-date"></div>
+      <h2 class="my-3">Date updated</h2>
+      <div data-component="date-range-filter" data-from-param="updatedFrom" data-to-param="updatedTo" data-hook-prefix="updated-date"></div>
+
+    </div>
 
   </div>
   <div class="col-sm-8" data-component="datasets-list">

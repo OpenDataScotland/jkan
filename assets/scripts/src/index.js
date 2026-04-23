@@ -2,6 +2,7 @@
 import $ from 'jquery'
 import Tab from 'bootstrap/js/dist/tab'
 import Modal from 'bootstrap/js/dist/modal'
+import 'bootstrap/js/dist/collapse'
 
 import Navigation from './components/navigation'
 import DatasetsList from './components/datasets-list'
