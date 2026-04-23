@@ -4,6 +4,31 @@
   color: #fff !important;      
 }
 
+/* datasets.html */
+
+[data-component="datasets-list"] {
+  min-width: 0;
+  overflow-x: clip;
+}
+
+[data-component="datasets-list"] dataset {
+  min-width: 0;
+}
+
+[data-component="datasets-list"] h3,
+[data-component="datasets-list"] h4,
+[data-component="datasets-list"] h3 a,
+[data-component="datasets-list"] .dataset-item-description,
+[data-component="datasets-list"] .badge,
+[data-component="datasets-list"] dataset > div {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+[data-component="datasets-list"] .mb-1 .badge:last-child {
+  margin-right: 0 !important;
+}
+
 /* organizations.html */
 
 .organization-thumbnail {
