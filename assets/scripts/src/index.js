@@ -2,10 +2,17 @@
 import $ from 'jquery'
 import Tab from 'bootstrap/js/dist/tab'
 import Modal from 'bootstrap/js/dist/modal'
-import 'bootstrap/js/dist/collapse'
+import Dropdown from 'bootstrap/js/dist/dropdown'
+import Tooltip from 'bootstrap/js/dist/tooltip'
+import Popover from 'bootstrap/js/dist/popover'
+import Collapse from 'bootstrap/js/dist/collapse'
 
-import Navigation from './components/navigation'
+// Expose Bootstrap components globally for data-attribute interactions
+window.bootstrap = { Dropdown, Tooltip, Popover, Collapse }
+import PopularDatasets from './components/popular-datasets'
+import RandomDatasets from './components/random-datasets'
 import DatasetsList from './components/datasets-list'
+import ResourcesList from './components/resources-list'
 import CategoriesFilter from './components/categories-filter'
 import OrganizationsFilter from './components/organizations-filter'
 import FileTypesFilter from './components/file-types-filter'
@@ -13,25 +20,21 @@ import OrgTypeFilter from './components/org-type-filter'
 import DateRangeFilter from './components/date-range-filter'
 import DatasetDisplay from './components/dataset-display'
 import {queryByComponent} from './util'
-import PopularDatasets from './components/popular-datasets'
-import RandomDatasets from './components/random-datasets'
-import ResourcesList from './components/resources-list'
 
 const params = Object.fromEntries(new URLSearchParams(window.location.search))
 
 // Check for these components on the page and initialize them
 const components = [
-  {tag: 'navigation', class: Navigation},
-  {tag: 'dataset-display', class: DatasetDisplay},
+  {tag: 'popular-datasets', class: PopularDatasets, usesDatasets: true},
+  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true},
   {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
+  {tag: 'resources-list', class: ResourcesList},
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
   {tag: 'file-types-filter', class: FileTypesFilter, usesDatasets: true},
   {tag: 'org-type-filter', class: OrgTypeFilter, usesDatasets: true},
   {tag: 'date-range-filter', class: DateRangeFilter, usesDatasets: false},
-  {tag: 'popular-datasets', class: PopularDatasets, usesDatasets: true},
-  {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true},
-  {tag: 'resources-list', class: ResourcesList}
+  {tag: 'dataset-display', class: DatasetDisplay}
 ]
 for (let component of components) {
   const els = queryByComponent(component.tag)
