@@ -12,7 +12,6 @@ import FileTypesFilter from './components/file-types-filter'
 import OrgTypeFilter from './components/org-type-filter'
 import DateRangeFilter from './components/date-range-filter'
 import DatasetDisplay from './components/dataset-display'
-import EditableList from './components/editable-list'
 import {queryByComponent} from './util'
 import PopularDatasets from './components/popular-datasets'
 import RandomDatasets from './components/random-datasets'
@@ -24,7 +23,6 @@ const params = Object.fromEntries(new URLSearchParams(window.location.search))
 const components = [
   {tag: 'navigation', class: Navigation},
   {tag: 'dataset-display', class: DatasetDisplay},
-  {tag: 'editable-list', class: EditableList},
   {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},

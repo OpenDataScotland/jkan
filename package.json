@@ -37,7 +37,6 @@
     "leaflet": "^1.8.0",
     "lodash": "^4.6.1",
     "mustache": "^4.2.0",
-    "notie": "github:timwis/notie#string-types",
     "text-clipper": "^2.2.0"
   }
 }

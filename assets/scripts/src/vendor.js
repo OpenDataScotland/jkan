@@ -32,7 +32,6 @@ import 'datatables.net-fixedheader-bs5'
 // CSS imports (extracted to vendor.css by MiniCssExtractPlugin)
 import './styles/bootstrap.scss'
 import '@fortawesome/fontawesome-free/css/all.min.css'
-import 'notie/dist/notie.css'
 import 'leaflet/dist/leaflet.css'
 import 'datatables.net-bs5/css/dataTables.bootstrap5.min.css'
 import 'datatables.net-fixedheader-bs5/css/fixedHeader.bootstrap5.min.css'
