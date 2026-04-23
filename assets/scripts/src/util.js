@@ -42,6 +42,29 @@ export function createDatasetFilters(filters) {
     if (filters.fileType) {          
       conditions.push(dataset.resources && dataset.resources.some(function (item) { return slugify(item.format) == filters.fileType }))
     }
+    if (filters.orgType) {
+      conditions.push(dataset.org_type && slugify(dataset.org_type) === filters.orgType)
+    }
+    if (filters.dateFrom) {
+      const dateCreated = new Date(dataset.date_created)
+      const dateFrom = new Date(filters.dateFrom)
+      conditions.push(!isNaN(dateCreated) && dateCreated >= dateFrom)
+    }
+    if (filters.dateTo) {
+      const dateCreated = new Date(dataset.date_created)
+      const dateTo = new Date(filters.dateTo)
+      conditions.push(!isNaN(dateCreated) && dateCreated <= dateTo)
+    }
+    if (filters.updatedFrom) {
+      const dateUpdated = new Date(dataset.date_updated)
+      const updatedFrom = new Date(filters.updatedFrom)
+      conditions.push(!isNaN(dateUpdated) && dateUpdated >= updatedFrom)
+    }
+    if (filters.updatedTo) {
+      const dateUpdated = new Date(dataset.date_updated)
+      const updatedTo = new Date(filters.updatedTo)
+      conditions.push(!isNaN(dateUpdated) && dateUpdated <= updatedTo)
+    }
     return conditions.every(function (value) { return !!value })
   }
 }

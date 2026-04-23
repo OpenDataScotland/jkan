@@ -14,10 +14,19 @@ permalink: /datasets/
     <div class="list-group" data-component="categories-filter" data-show="5"></div>
 
     <h2 class="my-3">Organizations</h2>
-    <div class="list-group" data-component="organizations-filter" data-show="15"></div>
+    <div class="list-group" data-component="organizations-filter" data-show="5"></div>
 
     <h2 class="my-3">File types</h2>
-    <div class="list-group" data-component="file-types-filter" data-show="15"></div>
+    <div class="list-group" data-component="file-types-filter" data-show="5"></div>
+
+    <h2 class="my-3">Organization type</h2>
+    <div class="list-group" data-component="org-type-filter" data-show="5"></div>
+
+    <h2 class="my-3">Date published</h2>
+    <div data-component="date-range-filter"></div>
+
+    <h2 class="my-3">Date updated</h2>
+    <div data-component="date-range-filter" data-from-param="updatedFrom" data-to-param="updatedTo" data-hook-prefix="updated-date"></div>
 
   </div>
   <div class="col-sm-8" data-component="datasets-list">

@@ -24,7 +24,7 @@ export default class {
     }
 
     // Filter datasets and render in items container
-    const paramFilters = pick(opts.params, ['organization', 'category', 'fileType'])
+    const paramFilters = pick(opts.params, ['organization', 'category', 'fileType', 'orgType', 'dateFrom', 'dateTo', 'updatedFrom', 'updatedTo'])
     const attributeFilters = pick(opts.el.data(), ['organization', 'category'])
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)

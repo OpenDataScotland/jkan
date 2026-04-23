@@ -8,6 +8,8 @@ import DatasetsList from './components/datasets-list'
 import CategoriesFilter from './components/categories-filter'
 import OrganizationsFilter from './components/organizations-filter'
 import FileTypesFilter from './components/file-types-filter'
+import OrgTypeFilter from './components/org-type-filter'
+import DateRangeFilter from './components/date-range-filter'
 import DatasetDisplay from './components/dataset-display'
 import EditableList from './components/editable-list'
 import {queryByComponent} from './util'
@@ -26,6 +28,8 @@ const components = [
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
   {tag: 'file-types-filter', class: FileTypesFilter, usesDatasets: true},
+  {tag: 'org-type-filter', class: OrgTypeFilter, usesDatasets: true},
+  {tag: 'date-range-filter', class: DateRangeFilter, usesDatasets: false},
   {tag: 'popular-datasets', class: PopularDatasets, usesDatasets: true},
   {tag: 'random-datasets', class: RandomDatasets, usesDatasets: true},
   {tag: 'resources-list', class: ResourcesList}
