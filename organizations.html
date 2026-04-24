@@ -90,7 +90,7 @@ permalink: /organizations/
 			const hasDatasets = org.dataset.hasDatasets === "true";
 			const isVisible = matchesSearch && (includeEmptyOrgs || hasDatasets);
 
-			org.hidden = !isVisible;
+			org.classList.toggle("d-none", !isVisible);
 
 			if (isVisible) {
 				orgShownCount++;
