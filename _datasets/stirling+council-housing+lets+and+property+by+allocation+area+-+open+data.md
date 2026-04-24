@@ -4,8 +4,8 @@ category:
 - Elections / Politics
 - Housing and Estates
 - Planning and Development
-date_created: '2024-03-08'
-date_updated: '2026-03-10'
+date_created: '2025-03-03'
+date_updated: '2025-04-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>This dataset contains data from reporting years 2023 &amp; 2024 and is\
@@ -19,15 +19,12 @@ notes: "<p>This dataset contains data from reporting years 2023 &amp; 2024 and i
   \ by Bedrooms,\_</li><li>Percentage Turnover of Lets,\_</li><li>and the number of\
   \ Properties Let in period.</li></ul></div></p>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::housing-lets-and-property-by-allocation-area-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::housing-lets-and-property-by-allocation-area-open-data-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::housing-lets-and-property-by-allocation-area-open-data
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=6c25628df4234b6abdb566d344bbfd72
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::housing-lets-and-property-by-allocation-area-open-data-1
 schema: default
 title: Housing lets and property by allocation area - open data
 ---

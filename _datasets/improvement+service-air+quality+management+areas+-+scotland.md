@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-01-29'
+date_updated: '2026-04-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local Authorities have a duty to designate any relevant areas where the

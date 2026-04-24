@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2021-12-23'
-date_updated: '2022-02-03'
+date_updated: '2026-04-22'
 license: No licence
 maintainer: Glasgow City Council
 notes: <p>{{description}}</p>
