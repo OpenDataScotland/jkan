@@ -3,26 +3,135 @@ title: Datasets
 layout: default
 permalink: /datasets/
 ---
+
 {% include breadcrumbs.html %}
 
 <h1>Datasets</h1>
 
+<div class="d-sm-none mb-3">
+  <button class="btn btn-outline-secondary w-100" type="button" data-bs-toggle="collapse" data-bs-target="#datasets-filters" aria-expanded="false" aria-controls="datasets-filters"><i class="fa-solid fa-filter"></i> Filter datasets</button>
+</div>
+
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-4 mb-4 mb-sm-0">
+    <div id="datasets-filters" class="collapse d-sm-block">
+      <h2 class="my-3">Categories</h2>
+      <div class="list-group" data-component="categories-filter" data-show="5">
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+      </div>
 
-    <h3>Categories</h3>
-    <div class="list-group" data-component="categories-filter" data-show="5"></div>
+      <h2 class="my-3">Organizations</h2>
+      <div class="list-group" data-component="organizations-filter" data-show="5">
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+      </div>
 
-    <h3>Organizations</h3>
-    <div class="list-group" data-component="organizations-filter" data-show="15"></div>
+      <h2 class="my-3">File types</h2>
+      <div class="list-group" data-component="file-types-filter" data-show="5">
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+      </div>
 
-    <h3>File types</h3>
-    <div class="list-group" data-component="file-types-filter" data-show="15"></div>
+      <h2 class="my-3">Organization type</h2>
+      <div class="list-group" data-component="org-type-filter" data-show="5">
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+        <div class="list-group-item placeholder-glow">
+          <span class="placeholder col-12"></span>
+        </div>
+      </div>
 
+      <h2 class="my-3">Date published</h2>
+      <div data-component="date-range-filter"></div>
+
+      <h2 class="my-3">Date updated</h2>
+      <div data-component="date-range-filter" data-from-param="updatedFrom" data-to-param="updatedTo" data-hook-prefix="updated-date"></div>
+    </div>
   </div>
   <div class="col-sm-8" data-component="datasets-list">
-    <h3 class="datasets-count" data-hook="datasets-count"></h3>
-    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
-    <div data-hook="datasets-items"></div>
+    <h3 class="d-inline-block" data-hook="datasets-count"><div class="placeholder-glow"><span class="placeholder col-2"></span></div></h3>
+    <input type="text" data-hook="search-query" placeholder="Search..." class="form-control" />
+    <div data-hook="datasets-items">
+      <dataset class="d-block border-bottom border-light-subtle py-3">
+        <h3 class="placeholder-glow"><span class="placeholder col-8"></span></h3>
+        <h4 class="placeholder-glow"><span class="placeholder col-6"></span></h4>
+        <div class="dataset-item-description placeholder-glow"><span class="placeholder col-12" style="height: 5rem;"></span></div>
+        <div class="mb-1 placeholder-glow"><span class="placeholder col-3"></span></div>
+        <div class="placeholder-glow"><span class="placeholder col-6"></span></div>
+      </dataset>
+      <dataset class="d-block border-bottom border-light-subtle py-3">
+        <h3 class="placeholder-glow"><span class="placeholder col-8"></span></h3>
+        <h4 class="placeholder-glow"><span class="placeholder col-6"></span></h4>
+        <div class="dataset-item-description placeholder-glow"><span class="placeholder col-12" style="height: 5rem;"></span></div>
+        <div class="mb-1 placeholder-glow"><span class="placeholder col-3"></span></div>
+        <div class="placeholder-glow"><span class="placeholder col-6"></span></div>
+      </dataset>
+      <dataset class="d-block border-bottom border-light-subtle py-3">
+        <h3 class="placeholder-glow"><span class="placeholder col-8"></span></h3>
+        <h4 class="placeholder-glow"><span class="placeholder col-6"></span></h4>
+        <div class="dataset-item-description placeholder-glow"><span class="placeholder col-12" style="height: 5rem;"></span></div>
+        <div class="mb-1 placeholder-glow"><span class="placeholder col-3"></span></div>
+        <div class="placeholder-glow"><span class="placeholder col-6"></span></div>
+      </dataset>
+    </div>
   </div>
 </div>

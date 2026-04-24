@@ -12,7 +12,7 @@ export default class {
 
         const randomDatasetsAsElements = randomDatasets.map(dataset => {
             var listElement = document.createElement("a");            
-            listElement.className = "list-group-item";
+            listElement.className = "list-group-item list-group-item-action";
             listElement.href = dataset.url;
             listElement.innerText = `${dataset.organization} - ${dataset.title}`
 

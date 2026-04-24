@@ -58,9 +58,9 @@ export default class PopularDatasets {
 
         const top5AsElements = top5.map(dataset => {
             var listElement = document.createElement("a");
-            listElement.className = "list-group-item";
+            listElement.className = "list-group-item list-group-item-action d-flex justify-content-between align-items-center";
             listElement.href = dataset.datasetUrl;
-            listElement.innerHTML = `<span class="badge">${dataset.datasetVisits}</span>${dataset.datasetOrg} - ${dataset.datasetName}`
+            listElement.innerHTML = `${dataset.datasetOrg} - ${dataset.datasetName}<span class="badge text-bg-secondary rounded-pill">${dataset.datasetVisits} visit${dataset.datasetVisits !== 1 ? 's' : ''}</span>`
 
             return listElement;
         })

@@ -3,63 +3,58 @@ layout: default
 title: Home
 ---
 
-<div class="jumbotron">
+<div class="p-4 mb-4 bg-body-secondary rounded-3">
   <div class="container">
     <div class="row">
-      <div class="col-lg-3 col-xs-12">
-        <img src="{{ site.baseurl }}{{ site.logo }}" alt="Open Data Scotland logo" style="object-fit: cover; margin-right: 2rem; width: 100%;">
-      </div>
-      <div class="col-lg-9 col-xs-12">
+      <div class="col-lg-9 col-12">
         <h1>{{ site.greeting }}</h1>
-        <p>
-          {{ site.description }}
-        </p>
+        <p class="lead">{{ site.description }}</p>
         <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/datasets" role="button">Start browsing</a></p>
       </div>
     </div>
   </div>
 </div>
 
-<section class="row">
-  <div class="col-md-6 col-xs-12">
-    <div class="panel panel-default">
-      <!-- Default panel contents -->
-      <div class="panel-heading">
-        <h2 class="panel-title">Recently popular datasets (last 7 days)</h2>
-      </div>
-      <!-- List group -->
-      <div class="list-group" id="popular-datasets" data-component="popular-datasets">
-        <div class="loader loader-centre"></div>
+<section class="row gy-3 gy-md-0">
+  <div class="col-md-6 col-12">
+    <div class="card">
+      <div class="card-header fw-medium">Recently popular datasets (last 7 days)</div>
+      <div class="list-group list-group-flush" id="popular-datasets" data-component="popular-datasets">
+        <div class="d-flex justify-content-center my-3">
+          <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
-  <div class="col-md-6 col-xs-12">
-    <div class="panel panel-default">
-      <!-- Default panel contents -->
-      <div class="panel-heading">
-        <h2 class="panel-title">5 random datasets</h2>
-      </div>
-      <!-- List group -->
-      <div class="list-group" id="random-datasets" data-component="random-datasets">
-        <div class="loader loader-centre"></div>
+  <div class="col-md-6 col-12">
+    <div class="card">
+      <div class="card-header fw-medium">5 random datasets</div>
+      <div class="list-group list-group-flush" id="random-datasets" data-component="random-datasets">
+        <div class="d-flex justify-content-center my-3">
+          <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
       </div>
     </div>
-
   </div>
 </section>
 
-<h2>Browse by Category</h2>
+<h2 class="my-4">Browse by Category</h2>
 
-<div class="homepage-categories">
-  {% for category in site.data.categories %}
-  {% if category.featured == true %}
-  {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-  <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
-    {% if category.logo and category.logo != empty %}
-    <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
-    {% endif %}
-    {{ category.name }}
-  </a>
-  {% endif %}
-  {% endfor %}
+<div class="homepage-categories row row-cols-2 row-cols-md-3 row-cols-lg-4 row-cols-xxl-5 g-3 mb-4">
+  {% for category in site.data.categories %} {% if category.featured == true %} {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
+  <div class="col d-flex">
+    <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="homepage-category-link card text-center text-decoration-none shadow-sm w-100" title="{{ logo_alt }}">
+      <div class="card-body d-flex flex-column align-items-center justify-content-center">
+        {% if category.logo and category.logo != empty %}
+        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" />
+        {% endif %}
+        <span class="fw-medium">{{ category.name }}</span>
+      </div>
+    </a>
+  </div>
+  {% endif %} {% endfor %}
 </div>

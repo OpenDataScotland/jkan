@@ -1,4 +1,4 @@
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{% if page.organization %}{{ page.organization }} - {% endif %}{{ site.title }}" />
 <meta property="og:site_name" content="{{ site.title }}" />
 {% assign description = page.notes | default: site.description %}
 <meta property="og:description" content="{{ description | strip_html | truncate: 200 }}" />

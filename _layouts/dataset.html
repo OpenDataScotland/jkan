@@ -9,28 +9,34 @@ layout: default
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
 {% assign organization = site.organizations | where:"title",page.organization | first %}
-{% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
+{% capture organization_url %}{{ site.baseurl }}{{ organization.url }}{% endcapture %}
 
-<div data-component="view-switcher">
-  <div class="row" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
+  <div class="row" data-component="dataset-display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
       <div class="col-sm-3" property="dct:publisher" resource="{{ organization_url }}">
-        <div class="panel panel-default">
-            <div class="panel-heading">
+        <div class="card">
               {% if organization.logo and organization.logo != empty %}
-              <a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}" class="thumbnail"><img src="{{ organization.logo }}" alt="{{ organization.title }} logo"></a>
-              {% endif %}
-            </div>
-            <div class="panel-body">
+              <img
+                src="{{ organization.logo }}"
+                alt="{{ organization.title }} logo"
+                class="card-img-top p-1 border-bottom"
+                onerror="
+                  handleMissingLogo(this);
+                  this.onerror = null;
+                "
+            />
+            {% else %}<img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }} logo" class="card-img-top p-1 border-bottom" />
+            {% endif %}
+            <div class="card-body">
               <h3>
-                <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
+                <a href="{{ organization_url }}" property="foaf:homepage">
                   <span property="foaf:name">{{ organization.title }}</span>
                 </a>
               </h3>
               {{ organization.description }}
             </div>
           </div>
-          <div class="view-code-link">
+          <div class="m-3">
             <a href="{{site.repo}}tree/gh-pages/{{page.path}}"  target="_blank"><i class="fa-solid fa-code"></i> Open in GitHub</a>
           </div>
         </div>
@@ -43,88 +49,137 @@ layout: default
       </h1>
       <p property="dct:description">{{ page.notes }}</p>
 
-      <h2>Resources</h2>
-      <ul>
-        {% for resource in page.resources %}
-        <li data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
-          <a href="{{ resource.url }}" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
-          {% if resource.format %}<span class="label label-default" property='dcat:mediaType'>{{ resource.format}}</span>{% endif %}
-          <a href="#" class="show-resource-details" data-hook="show-resource-details">(Details)</a>
-          {% if resource.description %}<div class="resource-description">{{ resource.description }}</div>{% endif %}
-          <table class="table table-striped table-condensed resource-details" data-hook="resource-details">
-            {% for field in resource_fields %}
-              {% unless resource_system_fields contains field.field_name %}
-                {% assign value = resource[field[field_name]] %}
-                {% if value %}
-                  {% if field.display_template %}
-                    {% include {{ field.display_template }} field=field value=value %}
-                  {% else %}
-                    <tr>
-                      <th>{{ field.label }}</th>
-                      <td>{{ value }}</td>
-                    </tr>
+      <div class="row g-4">
+        <div class="col-12 col-lg-6">
+          <div class="card">
+            <div class="card-header">
+              <h2 class="h5 mb-0">Resources</h2>
+            </div>
+            {% if page.resources and page.resources != empty %}
+            <ul class="list-group list-group-flush" data-component="resources-list" data-show="7">
+              {% for resource in page.resources %}
+              <li class="list-group-item list-group-item-action" data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
+                <div class="d-flex align-items-center gap-2 flex-wrap">
+                  <a href="{{ resource.url }}" property='dcat:accessURL' class="stretched-link">
+                    <span property="dct:title">{{ resource.name }}</span>
+                  </a>
+                  {% if resource.format %}
+                  <span class="badge bg-secondary" property='dcat:mediaType'>{{ resource.format }}</span>
                   {% endif %}
-                {% endif %}
-              {% endunless %}
-            {% endfor %}
-          </table>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <h2>Additional Info</h2>
-      <table class="table table-striped dataset-details">
-        {% if page.license and page.license != empty %}
-          <tr>
-            <th>
-              License
-                <i class="fa-solid fa-info-circle text-primary" data-toggle="tooltip" data-placement="right" title="Please verify the licence information with the original source using the link below. Always check for attribution guidelines as required by the licence." data-placement="right" ></i>
-                
-                <script>
-                  $(function () {
-                    $('[data-toggle="tooltip"]').tooltip()
-                  })
-                </script>
-            </th>
-            <td>
-              {%- comment -%} Try to link to the common licence documentation {%- endcomment -%}
-              {% if site.data.licenses[page.license] != null %}
-              <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
-                {{ site.data.licenses[page.license] }}
-              </a>
-              {%- comment -%} If we don't recognise the licence then fall back to just displaying the raw value {%- endcomment -%}
-              {% else %}
-                  {{page.license}}
-              {% endif %}
-            </td>
-          </tr>
-        {% endif %}
-        {% for field in dataset_fields %}
-          {% unless dataset_system_fields contains field.field_name %}
-            {% assign value = page[field[field_name]] %}
-            {% if value %}
-              {% if field.display_template %}
-                {% include {{ field.display_template }} field=field value=value %}
-              {% else %}
-                <tr>
-                  <th>{{ field.label }}</th>
-                  <td>{{ value }}</td>
-                </tr>
-              {% endif %}
+                </div>
+              </li>
+              {% endfor %}
+            </ul>            
+            {% else %}
+            <div class="card-body">
+              <p class="mb-0 text-muted">No resources available for this dataset.</p>
+            </div>
             {% endif %}
-          {% endunless %}
-        {% endfor %}
+          </div>
+        </div>
 
-      </table>
-    </div>
-  </div>
+        <div class="col-12 col-lg-6">
+          <div class="card">
+            <div class="card-header">
+              <h2 class="h5 mb-0">Additional Info</h2>
+            </div>
+            <ul class="list-group list-group-flush">
+              {% if page.license and page.license != empty %}
+              <li class="list-group-item">
+                <div class="d-flex align-items-start gap-2">
+                  <i class="fa-solid fa-scale-balanced text-secondary mt-1" aria-hidden="true"></i>
+                  <div>
+                    <span class="fw-semibold">License</span>
+                    <i class="fa-solid fa-info-circle text-primary ms-1" data-bs-toggle="tooltip" data-bs-placement="right" title="Please verify the licence information with the original source using the link below. Always check for attribution guidelines as required by the licence."></i>
+                    <div>
+                      {%- comment -%} Try to link to the common licence documentation {%- endcomment -%}
+                      {% if site.data.licenses[page.license] != null %}
+                      <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
+                        {{ site.data.licenses[page.license] }}
+                      </a>
+                      {%- comment -%} If we don't recognise the licence then fall back to just displaying the raw value {%- endcomment -%}
+                      {% else %}
+                        {{ page.license }}
+                      {% endif %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+              {% endif %}
 
-  {%- comment -%} <div class="row" data-hook="view" data-view="edit">
-    <div class="col-sm-8 col-sm-offset-2">
-      {% include dataset-form.html dataset=page %}
+              {% if page.category and page.category != empty %}
+              <li class="list-group-item">
+                <div class="d-flex align-items-start gap-2">
+                  <i class="fa-solid fa-tags text-secondary mt-1" aria-hidden="true"></i>
+                  <div>
+                    <span class="fw-semibold">Category</span>
+                    <div>
+                      {% if page.category.size %}
+                        {% for category in page.category %}
+                          <a href="{{ site.baseurl }}/datasets/?category={{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+                        {% endfor %}
+                      {% else %}
+                        <a href="{{ site.baseurl }}/datasets/?category={{ page.category | slugify }}">{{ page.category }}</a>
+                      {% endif %}
+                    </div>
+                  </div>
+                </div>
+              </li>
+              {% endif %}
+
+              {% assign date_created = page.date_created | default: page.metadata_created %}
+              {% if date_created and date_created != empty %}
+              <li class="list-group-item">
+                <div class="d-flex align-items-start gap-2">
+                  <i class="fa-solid fa-calendar-plus text-secondary mt-1" aria-hidden="true"></i>
+                  <div>
+                    <span class="fw-semibold">Date Created</span>
+                    <div>{{ date_created }}</div>
+                  </div>
+                </div>
+              </li>
+              {% endif %}
+
+              {% assign date_updated = page.date_updated | default: page.metadata_modified %}
+              {% if date_updated and date_updated != empty %}
+              <li class="list-group-item">
+                <div class="d-flex align-items-start gap-2">
+                  <i class="fa-solid fa-calendar-check text-secondary mt-1" aria-hidden="true"></i>
+                  <div>
+                    <span class="fw-semibold">Date Updated</span>
+                    <div>{{ date_updated }}</div>
+                  </div>
+                </div>
+              </li>
+              {% endif %}
+
+              {% if page.original_dataset_link and page.original_dataset_link != empty %}
+              <li class="list-group-item">
+                <div class="d-flex align-items-start gap-2">
+                  <i class="fa-solid fa-arrow-up-right-from-square text-secondary mt-1" aria-hidden="true"></i>
+                  <div>
+                    <span class="fw-semibold">Source</span>
+                    <div><a href="{{ page.original_dataset_link | strip }}" id="original-dataset-link">View original dataset</a></div>
+                  </div>
+                </div>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          var tooltipEls = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+          tooltipEls.forEach(function (el) { new bootstrap.Tooltip(el) })
+        })
+      </script>
     </div>
-    <div class="col-sm-2">
-      <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
-    </div>
-  </div> {%- endcomment -%}
 </div>
+
+<script>
+  function handleMissingLogo(e) {
+    e.src = "{{ site.baseurl }}{{ site.default_org_icon }}";
+  }
+</script>

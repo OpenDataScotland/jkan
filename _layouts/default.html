@@ -2,12 +2,12 @@
 <html prefix="dct: http://purl.org/dc/terms/
               rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
               dcat: http://www.w3.org/ns/dcat#
-              foaf: http://xmlns.com/foaf/0.1/" lang="en">
+              foaf: http://xmlns.com/foaf/0.1/" lang="en" class="h-100">
 
 {% include head.html %}
 
-<body>
-  <div class="content">
+<body class="h-100 d-flex flex-column">
+  <div class="flex-fill" id="content">
     {% include header.html %}
 
     <section data-hook="main" class="{% if page.full_width==true %}container-fluid{% else %}container{% endif %}">

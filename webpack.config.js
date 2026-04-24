@@ -32,6 +32,22 @@ module.exports = (env, argv) => {
           use: [MiniCssExtractPlugin.loader, 'css-loader']
         },
         {
+          test: /\.s[ac]ss$/i,
+          use: [
+            MiniCssExtractPlugin.loader,
+            'css-loader',
+            {
+              loader: 'sass-loader',
+              options: {
+                sassOptions: {
+                  quietDeps: true,
+                  silenceDeprecations: ['import', 'global-builtin', 'color-functions']
+                }
+              }
+            }
+          ]
+        },
+        {
           test: /\.(woff|woff2|ttf|eot|svg|png|gif)(\?v=\d+\.\d+\.\d+)?$/,
           type: 'asset/resource'
         }

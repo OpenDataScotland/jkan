@@ -42,6 +42,29 @@ export function createDatasetFilters(filters) {
     if (filters.fileType) {          
       conditions.push(dataset.resources && dataset.resources.some(function (item) { return slugify(item.format) == filters.fileType }))
     }
+    if (filters.orgType) {
+      conditions.push(dataset.org_type && slugify(dataset.org_type) === filters.orgType)
+    }
+    if (filters.dateFrom) {
+      const dateCreated = new Date(dataset.date_created)
+      const dateFrom = new Date(filters.dateFrom)
+      conditions.push(!isNaN(dateCreated) && dateCreated >= dateFrom)
+    }
+    if (filters.dateTo) {
+      const dateCreated = new Date(dataset.date_created)
+      const dateTo = new Date(filters.dateTo)
+      conditions.push(!isNaN(dateCreated) && dateCreated <= dateTo)
+    }
+    if (filters.updatedFrom) {
+      const dateUpdated = new Date(dataset.date_updated)
+      const updatedFrom = new Date(filters.updatedFrom)
+      conditions.push(!isNaN(dateUpdated) && dateUpdated >= updatedFrom)
+    }
+    if (filters.updatedTo) {
+      const dateUpdated = new Date(dataset.date_updated)
+      const updatedTo = new Date(filters.updatedTo)
+      conditions.push(!isNaN(dateUpdated) && dateUpdated <= updatedTo)
+    }
     return conditions.every(function (value) { return !!value })
   }
 }
@@ -50,19 +73,29 @@ export function createDatasetFilters(filters) {
 // Number of items to show can be specified in [data-show] attribute or passed as param
 export function collapseListGroup(container, show) {
   if (!show) show = container.data('show') || 5
+  show = Number(show)
 
   const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
   if (itemsToHide.length) {
     itemsToHide.hide()
 
-    const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
-    showMoreButton.on('click', function (e) {
-      itemsToHide.show()
-      $(this).off('click')
-      $(this).remove()
+    const toggleButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
+    let isExpanded = false
+
+    toggleButton.on('click', function (e) {
       e.preventDefault()
+      isExpanded = !isExpanded
+
+      if (isExpanded) {
+        itemsToHide.show()
+        $(this).text('Show less')
+      } else {
+        itemsToHide.hide()
+        $(this).text('Show ' + itemsToHide.length + ' more...')
+      }
     })
-    container.append(showMoreButton)
+
+    container.append(toggleButton)
   }
 }
 

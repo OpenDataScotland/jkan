@@ -17,16 +17,7 @@ permalink: /organizations/
 
 <style>
 	#org-list[data-show-empty-orgs="false"] .org-parent[data-has-datasets="false"] {
-		display: none;
-	}
-
-	.org-controls {
-		margin-bottom: 2rem;
-	}
-
-	.org-controls .checkbox {
-		margin-top: 1rem;
-		margin-bottom: 0.75rem;
+		display: none !important;
 	}
 </style>
 
@@ -34,11 +25,11 @@ permalink: /organizations/
 
 <h2 id="orgs-count">{{ published_org_count }} organizations with published datasets</h2>
 
-<div class="org-controls">
+<div class="mb-4">
 	<input type="text" id="org-search" class="form-control" placeholder="Search organizations...">
-	<div class="checkbox">
-		<label>
-			<input type="checkbox" id="show-empty-orgs">
+	<div class="form-check my-3">
+		<input class="form-check-input" type="checkbox" id="show-empty-orgs">
+		<label class="form-check-label" for="show-empty-orgs">
 			Include organizations with no datasets published{% if unpublished_org_count > 0 %} ({{ unpublished_org_count }}){% endif %}
 		</label>
 	</div>
@@ -52,24 +43,24 @@ permalink: /organizations/
 	{% for organization in site.organizations %}
 	{% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
 	{% assign org_type = organization.type | first %}
-	<div class="media org-parent" data-org-name="{{ organization.title | escape }}" data-org-type="{{ org_type | default: '' | escape }}" data-org-description="{{ organization.description | default: '' | escape }}" data-dataset-count="{{ dataset_count }}" data-has-datasets="{% if dataset_count > 0 %}true{% else %}false{% endif %}">
-		<div class="media-left">
+	<div class="d-flex gap-3 align-items-start org-parent mb-3 pb-3 border-bottom" data-org-name="{{ organization.title | escape }}" data-org-type="{{ org_type | default: '' | escape }}" data-org-description="{{ organization.description | default: '' | escape }}" data-dataset-count="{{ dataset_count }}" data-has-datasets="{% if dataset_count > 0 %}true{% else %}false{% endif %}">
+		<div class="flex-shrink-0">
 			{% if organization.logo and organization.logo != empty %}
-			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-				<img class="media-object" src="{{ organization.logo }}" alt="{{ organization.title }}" onerror="this.onerror=null;this.src='{{ site.baseurl }}{{ site.default_org_icon }}';" />
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail d-inline-flex align-items-center justify-content-center p-2 bg-body-tertiary border rounded-3 shadow-sm">
+				<img class="img-fluid" src="{{ organization.logo }}" alt="{{ organization.title }}" onerror="this.onerror=null;this.src='{{ site.baseurl }}{{ site.default_org_icon }}';" />
 			</a>
 			{% else %}
-			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-				<img class="media-object" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}" />
+			<a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail d-inline-flex align-items-center justify-content-center p-2 bg-body-tertiary border rounded-3 shadow-sm">
+				<img class="img-fluid" src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ organization.title }}" />
 			</a>
 			{% endif %}
 		</div>
-		<div class="media-body">
-			<h3 class="media-heading">
+		<div class="flex-grow-1">
+			<h3>
 				<a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a>
-				<small style="margin-left: 0.5rem">{{ org_type }}</small>
+				<small class="text-body-secondary fs-5 ms-1">{{ org_type }}</small>
 			</h3>
-			<p>{{ organization.description }}</p>
+			<p class="text-body-secondary mb-0">{{ organization.description }}</p>
 			<p>
 				<a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}">{{ dataset_count }} datasets</a>
 			</p>
@@ -99,7 +90,7 @@ permalink: /organizations/
 			const hasDatasets = org.dataset.hasDatasets === "true";
 			const isVisible = matchesSearch && (includeEmptyOrgs || hasDatasets);
 
-			org.hidden = !isVisible;
+			org.classList.toggle("d-none", !isVisible);
 
 			if (isVisible) {
 				orgShownCount++;

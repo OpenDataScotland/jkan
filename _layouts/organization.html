@@ -1,92 +1,84 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html parent="Organizations" %}
-{% assign org_type = page.type | first %}
-<div data-component="view-switcher">
-  <div class="row" data-hook="view" data-view="display">
-    <div class="col-sm-3">
-      {% if page.logo and page.logo != empty %}
-      <a href="{{ page.logo }}" class="thumbnail"><img src="{{ page.logo }}" alt="{{ page.title }} logo" onerror="handleMissingLogo(this);this.onerror=null;"></a>
-      {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="thumbnail"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo"></a>
-      {% endif %}
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Information</h3>
-        </div>
-        <div class="panel-body">
-          <dl style="word-wrap: break-word;">
-            {% if page.portal_url and page.portal_url != empty %}
-            <dt>Portal URL</dt>
-            <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a></dd>
-            {% endif %}
-            {% if page.portal_type and page.portal_type != empty %}
-            <dt>Portal Type</dt>
-            <dd>{{ page.portal_type }}</dd>
-            {% endif %}
-            {% if page.org_url and page.org_url != empty %}
-            <dt>Organization URL</dt>
-            <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a></dd>
-            {% endif %}
-            {% if page.twitter_handle and page.twitter_handle != empty %}
-            <dt>Twitter</dt>
-            <dd><a href="https://twitter.com/{{ page.twitter_handle }}">https://twitter.com/{{ page.twitter_handle }}</a></dd>
-            {% endif %}
-            {% if page.gss_code and page.gss_code != empty %}
-            <dt>GSS code</dt>
-            <dd>{{ page.gss_code }}</dd>
-            {% endif %}
-            {% if page.wikidata_org_qid and page.wikidata_org_qid != empty %}
-            <dt>Wikidata (Organization)</dt>
-            <dd>Organization: <a href="https://wikidata.org/wiki/{{ page.wikidata_org_qid }}">{{ page.wikidata_org_qid }}</a></dd>
-            {% endif %}
-            {% if page.wikidata_portal_qid and page.wikidata_portal_qid != empty %}
-            <dt>Wikidata (Portal)</dt>
-            <dd>Portal: <a href="https://wikidata.org/wiki/{{ page.wikidata_portal_qid }} ">{{ page.wikidata_portal_qid }}</a></dd>
-            {% endif %}
-            {% if page.wdtk_id and page.wdtk_id != empty %}
-            <dt>WhatDoTheyKnow page</dt>
-            <dd><a href="https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}">https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}</a></dd>
-            {% endif %}
-          </dl>
 
-        </div>
-      </div>
-      <div class="view-code-link">
-        <a href="{{site.repo}}tree/gh-pages/{{page.path}}"  target="_blank"><i class="fa-solid fa-code"></i> Open in GitHub</a>
+{% include breadcrumbs.html parent="Organizations" %} {% assign org_type = page.type | first %}
+<div class="row">
+  <div class="col-12 col-md-3">
+    {% if page.logo and page.logo != empty %}
+    <a href="{{ page.logo }}" class="d-inline-block"
+      ><img
+        src="{{ page.logo }}"
+        alt="{{ page.title }} logo"
+        class="img-thumbnail"
+        onerror="
+          handleMissingLogo(this);
+          this.onerror = null;
+        "
+    /></a>
+    {% else %} <a href="{{ site.baseurl }}{{ site.default_org_icon }}" class="d-inline-block"><img src="{{ site.baseurl }}{{ site.default_org_icon }}" alt="{{ page.title }} logo" class="img-thumbnail" /></a>
+    {% endif %}
+    <div class="card mt-3">
+      <div class="card-header fw-medium">Information</div>
+      <div class="card-body">
+        <dl style="word-wrap: break-word">
+          {% if page.portal_url and page.portal_url != empty %}
+          <dt>Portal URL</dt>
+          <dd><a href="{{ page.portal_url }}">{{ page.portal_url }}</a></dd>
+          {% endif %} {% if page.portal_type and page.portal_type != empty %}
+          <dt>Portal Type</dt>
+          <dd>{{ page.portal_type }}</dd>
+          {% endif %} {% if page.org_url and page.org_url != empty %}
+          <dt>Organization URL</dt>
+          <dd><a href="{{ page.org_url }}">{{ page.org_url }}</a></dd>
+          {% endif %} {% if page.twitter_handle and page.twitter_handle != empty %}
+          <dt>Twitter</dt>
+          <dd><a href="https://twitter.com/{{ page.twitter_handle }}">https://twitter.com/{{ page.twitter_handle }}</a></dd>
+          {% endif %} {% if page.gss_code and page.gss_code != empty %}
+          <dt>GSS code</dt>
+          <dd>{{ page.gss_code }}</dd>
+          {% endif %} {% if page.wikidata_org_qid and page.wikidata_org_qid != empty %}
+          <dt>Wikidata (Organization)</dt>
+          <dd>Organization: <a href="https://wikidata.org/wiki/{{ page.wikidata_org_qid }}">{{ page.wikidata_org_qid }}</a></dd>
+          {% endif %} {% if page.wikidata_portal_qid and page.wikidata_portal_qid != empty %}
+          <dt>Wikidata (Portal)</dt>
+          <dd>Portal: <a href="https://wikidata.org/wiki/{{ page.wikidata_portal_qid }} ">{{ page.wikidata_portal_qid }}</a></dd>
+          {% endif %} {% if page.wdtk_id and page.wdtk_id != empty %}
+          <dt>WhatDoTheyKnow page</dt>
+          <dd><a href="https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}">https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}</a></dd>
+          {% endif %}
+        </dl>
       </div>
     </div>
-    <div class="col-sm-9">
-      <h1>
-        {{ page.title }}
-        <small style="margin-left: 0.5rem">{{ org_type }}</small>
-      </h1>
-      <p>{{ page.description }}</p>
+    <div class="m-3">
+      <a href="{{site.repo}}tree/gh-pages/{{page.path}}" target="_blank"><i class="fa-solid fa-code"></i> Open in GitHub</a>
+    </div>
+  </div>
+  <div class="col-12 col-md-9">
+    <h1>
+      {{ page.title }}
+      <small style="margin-left: 0.5rem">{{ org_type }}</small>
+    </h1>
+    <p>{{ page.description }}</p>
 
-      {% assign logo_alert_display = 'none' %}
-      {% if page.logo == false or page.logo == empty %}
-        {% assign logo_alert_display = 'block' %}
-      {% endif %}   
-      
-      <div class="alert alert-info" id="logo-alert" role="alert" style="display: {{ logo_alert_display }};">
-        This organization's logo is missing. You can contribute by <strong><a href="https://docs.opendata.scot/contribute/how-to-add-an-organization-image/">adding one to enhance its profile</a></strong>.
-      </div>
-      
+    {% assign logo_alert_display = 'none' %} {% if page.logo == false or page.logo == empty %} {% assign logo_alert_display = 'block' %} {% endif %}
 
-      <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
-        <h3 class="datasets-count" data-hook="datasets-count"></h3>
-        <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
-        <div data-hook="datasets-items"></div>
-      </div>
+    <div class="alert alert-info" id="logo-alert" role="alert" style="display: {{ logo_alert_display }};">
+      This organization's logo is missing. You can contribute by <a href="https://docs.opendata.scot/contribute/how-to-add-an-organization-image/">adding one to enhance its profile</a>.
     </div>
 
+    <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
+      <h3 class="datasets-count" data-hook="datasets-count"></h3>
+      <input type="text" data-hook="search-query" placeholder="Search..." class="form-control" />
+      <div data-hook="datasets-items"></div>
+    </div>
   </div>
 </div>
 
 <script>
-  function handleMissingLogo(e){
-    e.src = '{{ site.baseurl }}{{ site.default_org_icon }}';
-    const logoAlert = document.getElementById('logo-alert');
-    logoAlert.style.display = 'block';
+  function handleMissingLogo(e) {
+    e.src = "{{ site.baseurl }}{{ site.default_org_icon }}";
+    const logoAlert = document.getElementById("logo-alert");
+    logoAlert.style.display = "block";
   }
 </script>
