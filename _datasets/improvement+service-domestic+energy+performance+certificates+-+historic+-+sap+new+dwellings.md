@@ -22,8 +22,11 @@ original_dataset_link: ' https://data.spatialhub.scot/dataset/domestic-energy-pe
 records: null
 resources:
 - format: CSV
-  name: EPC historic dataset Q4 2025 SAP new dwellings
+  name: EPC historic dataset Q4 2025 SAP new dwellings - csv
   url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/548c85d2-a6b1-41b5-9a8e-f454241eef4e/download/epc_historic_dataset_q4_2025_sap_new_dwellings.csv
+- format: No file type
+  name: EPC historic dataset Q4 2025 SAP new dwellings - GeoPackage
+  url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/3649f078-d1fb-4b3d-aa20-ff359bcfb60d/download/epc_historic_dataset_q4_2025_sap_new_dwellings.gpkg
 schema: default
 title: Domestic Energy Performance Certificates - Historic - SAP New Dwellings
 ---

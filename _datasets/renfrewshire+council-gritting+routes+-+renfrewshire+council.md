@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-08-01'
+date_updated: '2026-04-21'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Renfrewshire Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -24,9 +24,9 @@ organization: Renfrewshire Council
 original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-re'
 records: null
 resources:
-- format: No file type
-  name: Grit bins and grit routes
-  url: https://dservices2.arcgis.com/fq3IIWzrdf1xBoPI/arcgis/services/Winter_WFS/WFSServer?service=wfs&request=getcapabilities
+- format: REST
+  name: Grit Routes
+  url: https://services2.arcgis.com/fq3IIWzrdf1xBoPI/ArcGIS/rest/services/ROADS_MAINTENANCE/FeatureServer/1
 schema: default
 title: Gritting Routes - Renfrewshire Council
 ---

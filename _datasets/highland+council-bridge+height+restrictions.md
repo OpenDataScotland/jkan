@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Transportation
 date_created: '2022-02-23'
-date_updated: '2022-02-23'
+date_updated: '2026-04-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Highland Council
 notes: "<p>Locations of bridge height restrictions over roads adopted by The Highland\
@@ -35,6 +35,21 @@ resources:
 - format: KML
   name: KML
   url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://map-highland.opendata.arcgis.com/api/download/v1/items/a8ab0322f9a042e588745dfed90189b4/sqlite?layers=0
 schema: default
 title: Bridge Height Restrictions
 ---
