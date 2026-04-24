@@ -17,8 +17,17 @@ permalink: /analytics/platform-health/
 
 <h1>{{ page.title }}</h1>
 
-<h2>Organizations</h2>
-<table class="table table-bordered table-striped">
+<div class="accordion" id="reportAccordion">
+  <!-- Organizations Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#organizationsSection" aria-expanded="true" aria-controls="organizationsSection">
+        Organizations
+      </button>
+    </h2>
+    <div id="organizationsSection" class="accordion-collapse collapse show" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <table class="table table-bordered table-striped">
     <thead>
         <tr>
             <th rowspan="2">Name</th>
@@ -102,32 +111,64 @@ permalink: /analytics/platform-health/
         </tr>
         {% endfor %}
     </tbody>
-</table>
+        </table>
+      </div>
+    </div>
+  </div>
 
-<h2>Dataset organizations with no record</h2>
-
-{% assign dataset_orgs_list = site.datasets | map: "organization" | uniq %}
-{% assign orgs_list = site.organizations | map: "title" %}
-
-{% assign found_mismatch_no_record = false %}
-<ul>
+  <!-- Dataset organizations with no record Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign dataset_orgs_list = site.datasets | map: "organization" | uniq %}
+      {% assign orgs_list = site.organizations | map: "title" %}
+      {% assign mismatch_no_record_count = 0 %}
+      {% for dataset_org in dataset_orgs_list %}
+        {% unless orgs_list contains dataset_org %}
+          {% assign mismatch_no_record_count = mismatch_no_record_count | plus: 1 %}
+        {% endunless %}
+      {% endfor %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#noRecordSection" aria-expanded="false" aria-controls="noRecordSection">
+        Dataset organizations with no record
+        {% if mismatch_no_record_count == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="noRecordSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
     {% for dataset_org in dataset_orgs_list %}
     {% unless orgs_list contains dataset_org %}
     <li>{{ dataset_org }}</li>
-    {% assign found_mismatch_no_record = true %}
     {% endunless %}
     {% endfor %}
 </ul>
 
-{% if found_mismatch_no_record != true %}
+{% if mismatch_no_record_count == 0 %}
 <p>None!</p>
 {% endif %}
+      </div>
+    </div>
+  </div>
 
-<h2>Datasets missing original link</h2>
-
-{% assign missing_data_datasets = site.datasets | where_exp:"item","item.original_dataset_link == ''" %}
-
-<ul>
+  <!-- Datasets missing original link Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign missing_data_datasets = site.datasets | where_exp:"item","item.original_dataset_link == ''" %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#missingLinkSection" aria-expanded="false" aria-controls="missingLinkSection">
+        Datasets missing original link
+        {% if missing_data_datasets.size == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="missingLinkSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
     {% for dataset in missing_data_datasets %}
     <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a></li>
     {% endfor %}
@@ -136,22 +177,122 @@ permalink: /analytics/platform-health/
 {% if missing_data_datasets.size == 0 %}
 <p>None!</p>
 {% endif %}
+      </div>
+    </div>
+  </div>
 
-<h2>Datasets missing license data</h2>
-
-{% assign found_mismatch_license_data = false %}
-<ul>
-    {% for dataset in site.datasets %}
-    {% if site.data.licenses[dataset.license] == null %}
+  <!-- Datasets missing license data Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign datasets_bad_license = site.datasets | where_exp:"item","site.data.licenses[item.license] == null" %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#missingLicenseSection" aria-expanded="false" aria-controls="missingLicenseSection">
+        Datasets missing license data
+        {% if datasets_bad_license.size == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="missingLicenseSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
+    {% for dataset in datasets_bad_license %}
     <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a> [Invalid value: {{dataset.license}}]</li>
-    {%endif%}
-    {% assign found_mismatch_license_data = true %}
     {% endfor %}
 </ul>
 
-{% if found_mismatch_license_data != true %}
+{% if datasets_bad_license.size == 0 %}
 <p>None!</p>
 {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Datasets with no organisation Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign datasets_no_org = site.datasets | where_exp:"item","item.organization == '' or item.organization == nil" %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#noOrgSection" aria-expanded="false" aria-controls="noOrgSection">
+        Datasets with no organisation
+        {% if datasets_no_org.size == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="noOrgSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
+    {% for dataset in datasets_no_org %}
+    <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></li>
+    {% endfor %}
+</ul>
+
+{% if datasets_no_org.size == 0 %}
+<p>None!</p>
+{% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Datasets with no resources Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign datasets_no_resources = site.datasets | where_exp:"item","item.resources == nil or item.resources.size == 0" %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#noResourcesSection" aria-expanded="false" aria-controls="noResourcesSection">
+        Datasets with no resources
+        {% if datasets_no_resources.size == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="noResourcesSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
+    {% for dataset in datasets_no_resources %}
+    <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a></li>
+    {% endfor %}
+</ul>
+
+{% if datasets_no_resources.size == 0 %}
+<p>None!</p>
+{% endif %}
+      </div>
+    </div>
+  </div>
+
+  <!-- Datasets with no categories Section -->
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      {% assign datasets_no_categories = site.datasets | where_exp:"item","item.categories == nil or item.categories.size == 0 or item.categories[0] == 'Uncategorised'" %}
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#noCategoriesSection" aria-expanded="false" aria-controls="noCategoriesSection">
+        Datasets with no categories
+        {% if datasets_no_categories.size == 0 %}
+          <i class="fa-solid fa-check report-good ms-1"></i>
+        {% else %}
+          <i class="fa-solid fa-times report-bad ms-1"></i>
+        {% endif %}
+      </button>
+    </h2>
+    <div id="noCategoriesSection" class="accordion-collapse collapse" data-bs-parent="#reportAccordion">
+      <div class="accordion-body">
+        <ul>
+    {% for dataset in datasets_no_categories %}
+    <li><a href="{{ site.baseurl }}{{ dataset.url }}">{{dataset.organization}} - {{ dataset.title }}</a></li>
+    {% endfor %}
+</ul>
+
+{% if datasets_no_categories.size == 0 %}
+<p>None!</p>
+{% endif %}
+      </div>
+    </div>
+  </div>
+</div>
 
 <script>
     $('table').DataTable({
