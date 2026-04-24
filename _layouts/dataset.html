@@ -9,6 +9,7 @@ layout: default
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
 {% assign organization = site.organizations | where:"title",page.organization | first %}
+{% capture organization_url %}{{ site.baseurl }}{{ organization.url }}{% endcapture %}
 
   <div class="row" data-component="dataset-display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
@@ -28,7 +29,7 @@ layout: default
             {% endif %}
             <div class="card-body">
               <h3>
-                <a href="{{ site.baseurl }}{{ organization.url }}" property="foaf:homepage">
+                <a href="{{ organization_url }}" property="foaf:homepage">
                   <span property="foaf:name">{{ organization.title }}</span>
                 </a>
               </h3>
