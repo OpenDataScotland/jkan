@@ -2,7 +2,7 @@
 schema: default
 title: Western Isles Archaeology Service
 description: Archaeology Service for the Comhairle nan Eilean Siar area 
-logo: 'https://www.cne-siar.gov.uk/media/15510/archaeology-logo2.png'
+logo: 'https://outerhebridesheritage.org.uk/wp-content/uploads/2022/08/CNES_Archaeology_Landscape_Primary_CMYK.jpg'
 type:
 - Archaeology Service
 portal_url: ''
