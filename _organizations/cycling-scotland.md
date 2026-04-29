@@ -10,6 +10,7 @@ type:
   - Other agency
 portal_url: 'https://usmart.io/org/cyclingscotland/'
 org_url: 'https://www.cycling.scot/'
+logo: 'https://cycling.scot/media/hynf2vv3/logo.svg'
 twitter_handle: CyclingScotland
 gss_code: ''
 wikidata_org_qid: Q113883477

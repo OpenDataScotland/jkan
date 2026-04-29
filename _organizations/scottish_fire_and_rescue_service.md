@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Fire and Rescue Service
 description: public corporation controlled by Scottish Government
-logo: ''
+logo: 'https://upload.wikimedia.org/wikipedia/sco/9/99/Scottish_Fire_and_Rescue_Service.png'
 type:
 - Other agency
 portal_url: ''

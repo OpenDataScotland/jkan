@@ -1,8 +1,8 @@
 ---
 schema: default
 title: Dundee City Council
-description: Local authority for the Dundee City Council area 
-logo: 'https://upload.wikimedia.org/wikipedia/en/2/2c/Dundee_City_Council.svg'
+description: Local authority for the Dundee City Council area
+logo: 'https://upload.wikimedia.org/wikipedia/en/e/e2/Dundee_City_Council_logo.svg'
 type:
 - Local authority
 portal_url: 'https://data.dundeecity.gov.uk/'

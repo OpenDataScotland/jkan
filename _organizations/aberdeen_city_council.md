@@ -2,7 +2,7 @@
 schema: default
 title: Aberdeen City Council
 description: Local authority for the Aberdeen City Council area
-logo: 'https://upload.wikimedia.org/wikipedia/en/6/69/Aberdeen_City_Council_logo.svg'
+logo: 'https://upload.wikimedia.org/wikipedia/commons/3/35/ACC_Crest_72dpi_Blue.jpg'
 type:
   - Local authority
 portal_url: 'https://spatialdata-accabdn.opendata.arcgis.com/'

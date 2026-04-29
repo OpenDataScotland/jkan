@@ -2,7 +2,7 @@
 schema: default
 title: Scottish Environment Protection Agency
 description: Non-departmental public body. Part of Scottish Government
-logo: ''
+logo: 'https://www.sepa.org.uk/images/SEPA_Logo.svg'
 type:
 - Non-Departmental Public Body
 portal_url: ''
