@@ -1,8 +1,8 @@
 ---
 schema: default
 title: Highland Council
-description: Local authority for the Highland Council area 
-logo: 'https://upload.wikimedia.org/wikipedia/en/b/bb/Highland_Council.svg'
+description: Local authority for the Highland Council area
+logo: 'https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Highland_Council_%282019%29.svg'
 type:
 - Local authority
 portal_url: 'https://map-highland.opendata.arcgis.com/'
