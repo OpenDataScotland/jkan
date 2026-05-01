@@ -14,7 +14,7 @@ notes: <p>Councils collect various datasets to do with their cycle network. Thes
   parking facilities will be captured in the Street Furniture dataset and should not
   be uploaded here.</p>
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/cycling_network-cl
 records: null
 resources:
 - format: WFS

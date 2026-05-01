@@ -27,7 +27,7 @@ notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national da
   in the survey, to create a circular polygon area for the site.  The definitive data
   source is the SVDLS Site Register available here: https://www.gov.scot/publications/the-scottish-vacant-and-derelict-land-survey-site-register/</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is
 records: null
 resources:
 - format: WFS

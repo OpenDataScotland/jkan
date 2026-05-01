@@ -20,7 +20,7 @@ notes: "<p>These Strategies are a requirement that has now been added into Town 
   \ for their FWS which might apply specifically to woodland planting types, e.g.\
   \ a separate FWS layer for native woodlands or for productive woodlands.</p>"
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-pk
 records: null
 resources:
 - format: REST

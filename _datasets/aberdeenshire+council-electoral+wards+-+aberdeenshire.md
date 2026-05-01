@@ -10,7 +10,7 @@ notes: <p>Electoral Wards represent the areas serviced by councillors at local g
   level. There are 354 electoral wards, also known as multi-member wards, covering
   the whole of Scotland.</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/electoral_wards-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/electoral_wards-as
 records: null
 resources:
 - format: ZIP

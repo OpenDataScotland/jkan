@@ -21,7 +21,7 @@ notes: '<p>Each Local Authority should have a list of libraries within their Cou
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/libraries-cl
 records: null
 resources:
 - format: WFS

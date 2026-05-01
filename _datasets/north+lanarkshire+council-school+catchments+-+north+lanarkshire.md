@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: North Lanarkshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-nl'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-nl
 records: null
 resources:
 - format: REST

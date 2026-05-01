@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-01-26'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -34,7 +34,7 @@ notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotlan
   should be used in conjunction with the Article 4 Directions dataset also published
   on a Scotland-wide basis.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/conservation_areas-is
 records: null
 resources:
 - format: WFS

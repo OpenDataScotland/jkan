@@ -31,7 +31,7 @@ notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digiti
   and retention of natural assets). The dataset is available for general public use,
   stakeholders or any interested party outside the Council to identify TPOs.</p>'
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/tree_preservation_orders-pk
 records: null
 resources:
 - format: ZIP

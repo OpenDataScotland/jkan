@@ -15,7 +15,7 @@ notes: '<p>This dataset captures any data that pertains to locations of safety e
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-na'
+original_dataset_link: https://data.spatialhub.scot/dataset/safety_features-na
 records: null
 resources:
 - format: No file type

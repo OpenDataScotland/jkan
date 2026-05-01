@@ -18,7 +18,7 @@ notes: "<p>This dataset contains energy performance certificates for new dwellin
   \ title=\"https://statistics.gov.scot/data/domestic-energy-performance-certificates--extended-historic-dataset\"\
   >https://statistics.gov.scot/data/domestic-energy-performance-certificates--extended-historic-dataset</a></p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/domestic-energy-performance-certificates-historic-sap-new-dwellings'
+original_dataset_link: https://data.spatialhub.scot/dataset/domestic-energy-performance-certificates-historic-sap-new-dwellings
 records: null
 resources:
 - format: CSV

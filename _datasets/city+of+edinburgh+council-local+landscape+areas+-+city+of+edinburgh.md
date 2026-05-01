@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-12-01'
+date_updated: '2026-04-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -23,7 +23,7 @@ notes: "<p>There are many areas where the scenery is highly valued locally and l
   <p>Site name and Website URL (for more information) are now mandatory attributes\
   \ for this dataset.</p>"
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/local_landscape_designation-ce'
+original_dataset_link: https://data.spatialhub.scot/dataset/local_landscape_designation-ce
 records: null
 resources:
 - format: REST
@@ -34,7 +34,7 @@ resources:
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/33
 - format: REST
   name: Special Landscape Area
-  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/35
+  url: https://edinburghcouncilmaps.info/arcgis/rest/services/Localplans/LDP2030/MapServer/12
 schema: default
 title: Local Landscape Areas - City of Edinburgh
 ---

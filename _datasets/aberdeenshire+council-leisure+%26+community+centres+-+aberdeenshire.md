@@ -9,7 +9,7 @@ maintainer: Aberdeenshire Council
 notes: "<p>Locations of Leisure, Sport &amp; Community Centres within Aberdeenshire.\n\
   \ Point Geometry</p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/leisure_community_centres-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/leisure_community_centres-as
 records: null
 resources:
 - format: KMZ

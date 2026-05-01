@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Highland Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-hi'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-hi
 records: null
 resources:
 - format: OTHER

@@ -37,7 +37,7 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                  </p>"
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-sa'
+original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-sa
 records: null
 resources:
 - format: No file type

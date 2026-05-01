@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-01-22'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>Scottish legislation\_(Section 17) of the Flood Risk Management (Scotland)\
@@ -40,7 +40,7 @@ notes: "<p>Scottish legislation\_(Section 17) of the Flood Risk Management (Scot
   \ in reality.  The LA \"culverts\" as included in the OS MasterMap Water Network\
   \ Layer is also available as a standalone layer.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/culverts-is
 records: null
 resources:
 - format: WFS

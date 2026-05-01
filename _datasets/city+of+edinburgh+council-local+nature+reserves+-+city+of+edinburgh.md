@@ -15,7 +15,7 @@ notes: "<p>Local Nature Reserves are areas of (at least) locally important natur
   \ designation date, website URL (for more information) and PA code are all mandatory\
   \ attributes for this dataset now.</p>"
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-ce'
+original_dataset_link: https://data.spatialhub.scot/dataset/local_nature_reserves-ce
 records: null
 resources:
 - format: REST

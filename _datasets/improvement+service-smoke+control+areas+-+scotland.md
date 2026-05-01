@@ -20,7 +20,7 @@ notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
   can demonstrate that they were aware that the unauthorised solid fuel is to be burnt
   in an exempt appliance.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_areas-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/smoke_control_areas-is
 records: null
 resources:
 - format: WFS

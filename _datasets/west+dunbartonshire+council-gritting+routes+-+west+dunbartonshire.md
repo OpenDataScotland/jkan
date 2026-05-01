@@ -20,7 +20,7 @@ notes: '<p>Each local authority creates gritting routes and regimes to keep thei
   <p>Eventually, the Street Gazetteer will enable us to identify these routes more
   accurately and coherently.</p>'
 organization: West Dunbartonshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-wd'
+original_dataset_link: https://data.spatialhub.scot/dataset/gritting_routes-wd
 records: null
 resources:
 - format: REST

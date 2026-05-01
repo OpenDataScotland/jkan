@@ -9,7 +9,7 @@ maintainer: Orkney Islands Council
 notes: <p>This is a dataset depicting all of the Orkney Island's piers including commercial
   ports as identified in the Draft Orkney Islands Regional Marine Plan</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/piers_and_commercial_ports_-_orkney_islands-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/piers_and_commercial_ports_-_orkney_islands-oi
 records: null
 resources:
 - format: WFS

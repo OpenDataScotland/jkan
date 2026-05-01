@@ -24,7 +24,7 @@ notes: '<p>An Article 4 Direction is a statement made under The Town and Country
   dataset should be used alongside Conservation Areas when considering built environment
   heritage constraints on development.</p>'
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/article_4_directions-cl
 records: null
 resources:
 - format: WFS

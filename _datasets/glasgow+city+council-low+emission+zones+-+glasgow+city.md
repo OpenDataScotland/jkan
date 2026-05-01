@@ -12,7 +12,7 @@ notes: <p>Low Emissions Zone Boundary. A Low Emission Zone is an area where a pe
   are not being met. LEZs are based on a penalty notice approach to effectively ban
   non-compliant vehicles.</p>
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/low_emission_zones-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/low_emission_zones-gc
 records: null
 resources:
 - format: ZIP

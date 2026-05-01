@@ -17,7 +17,7 @@ notes: <p>Local authorities are large owners of land, much of it not captured on
   to start their enquiries. If if doubt please contact the relevant local authority
   or Registers of Scotland.</p>
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/land_ownership-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/land_ownership-cl
 records: null
 resources:
 - format: ZIP

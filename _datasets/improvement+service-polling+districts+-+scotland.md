@@ -21,7 +21,7 @@ notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an el
   \ or to the availability of premises that can be reasonably designated as polling\
   \ places.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/polling_districts-is
 records: null
 resources:
 - format: WFS

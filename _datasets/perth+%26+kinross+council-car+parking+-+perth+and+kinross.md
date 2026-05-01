@@ -16,7 +16,7 @@ notes: "<p>Most councils will keep a record of their car parks, bays and zones. 
   \ have been buffered (bays by 2m, car parks by 10m) to create a representative area,\
   \ allowing them to be incorporated in the national dataset</p>"
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/car_parking-pk
 records: null
 resources:
 - format: REST

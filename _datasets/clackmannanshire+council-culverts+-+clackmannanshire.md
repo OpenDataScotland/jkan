@@ -55,7 +55,7 @@ notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotl
 
   <p>Unique feature name is now a mandatory attribute for this dataset.</p>'
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/culverts-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/culverts-cl
 records: null
 resources:
 - format: No file type

@@ -8,7 +8,7 @@ maintainer: Orkney Islands Council
 notes: <p>Orkney Logistics Base, Hatston, is identified as a national development
   in National Planning Framework 4. The point location is indicative.</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/orkney_logistics_base-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/orkney_logistics_base-oi
 records: null
 resources:
 - format: WFS

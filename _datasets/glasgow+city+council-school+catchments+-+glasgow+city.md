@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-gc
 records: null
 resources:
 - format: WFS

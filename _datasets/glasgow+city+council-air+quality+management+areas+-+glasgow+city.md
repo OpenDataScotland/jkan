@@ -10,7 +10,7 @@ notes: '<p>This dataset now contains revoked AQMAs.</p>
   <p>Site name, date designated, revocation date (where applicable) type of pollutant
   and website URL (with more information) are now mandatory attributes for this dataset.</p>'
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/air_quality_management_areas-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/air_quality_management_areas-gc
 records: null
 resources:
 - format: ZIP

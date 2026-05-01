@@ -37,7 +37,7 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                  </p>"
 organization: Stirling Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-st'
+original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-st
 records: null
 resources:
 - format: REST

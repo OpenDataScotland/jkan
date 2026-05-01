@@ -37,7 +37,7 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                  </p>"
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-ce'
+original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-ce
 records: null
 resources:
 - format: REST

@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Sport and Leisure
 date_created: '2023-11-23'
-date_updated: '2026-04-23'
+date_updated: '2026-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This publication was renamed on 12 October 2023 from Respiratory Infection
@@ -64,8 +64,12 @@ notes: <p>This publication was renamed on 12 October 2023 from Respiratory Infec
   figures as provided for COVID-19 are no longer updated and moved to the archive,
   as this is no longer relevant. \r\n\r\n* The file \u2018Care Home Time Series\u2019
   will no longer be maintained and is hence moved to the archive. \r\n\r\n \r\n\r\n\r\n============================================================================
-  \r\n\r\n \r\n\r\nLatest guidance from NHS Scotland on managing various respiratory
-  infections can be found here on <a href="https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning">NHS
+  \r\n\r\n Public Health Scotland (PHS) continue to consider timely ways to provide
+  the public with official statistics. Between 23 April and 8 October 2026, PHS are
+  reducing the frequency of the Viral respiratory diseases in Scotland publication
+  to four-weekly. The open data files will next be updated on 21 May.\r\n\r\nLatest
+  guidance from NHS Scotland on managing various respiratory infections can be found
+  here on <a href="https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning">NHS
   Inform.</a>\u202f \r\n\r\n \r\n\r\nFurther information from the Scottish Government
   on coronavirus and other respiratory infections is available on the <a href="https://www.gov.scot/coronavirus-covid-19/">Coronavirus
   and other respiratory infections in Scotland\u202fpage.\u202f</a> </p>

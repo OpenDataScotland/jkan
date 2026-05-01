@@ -24,7 +24,7 @@ notes: '<p>This dataset contains multiple themed layers of different types of sp
   part of our work to keep this data up to date, we would kindly request that if you
   identify any issues, you share this with sportscotland at facilities@sportscotland.org.uk</p>'
 organization: Sport Scotland
-original_dataset_link: ' https://data.spatialhub.scot/dataset/sports_facilities-unknown'
+original_dataset_link: https://data.spatialhub.scot/dataset/sports_facilities-unknown
 records: null
 resources:
 - format: WFS

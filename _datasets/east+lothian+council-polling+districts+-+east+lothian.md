@@ -34,7 +34,7 @@ notes: "<p>A Polling District is a geographical subdivision of an electoral area
   \ place (based on the Corporate Address Gazeteer record) related to the polling\
   \ district, as defined by the LA</p>"
 organization: East Lothian Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/polling_districts-el'
+original_dataset_link: https://data.spatialhub.scot/dataset/polling_districts-el
 records: null
 resources:
 - format: ZIP

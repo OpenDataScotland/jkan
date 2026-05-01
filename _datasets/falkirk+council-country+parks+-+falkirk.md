@@ -13,7 +13,7 @@ notes: "<p>Local authorities may designate country parks where they see a need, 
   \ service. Local authorities can make by-laws to regulate inappropriate behaviour\
   \ within country parks.</p>"
 organization: Falkirk Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/country_parks-fa'
+original_dataset_link: https://data.spatialhub.scot/dataset/country_parks-fa
 records: null
 resources:
 - format: ZIP

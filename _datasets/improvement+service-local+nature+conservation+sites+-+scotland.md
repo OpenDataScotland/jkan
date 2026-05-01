@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-03-12'
+date_updated: '2026-04-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -19,7 +19,7 @@ notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation 
   We have merged these all into this national dataset.  Four LAs are still to confirm
   and digitise their LNCSs.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_conservation_sites-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/local_nature_conservation_sites-is
 records: null
 resources:
 - format: WFS

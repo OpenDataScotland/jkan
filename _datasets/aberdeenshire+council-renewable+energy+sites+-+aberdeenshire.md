@@ -12,7 +12,7 @@ notes: <p>Many local authorities collect details of where the renewable energy s
   we would like to collate what local authorities believe to be the definitive sites
   and data.</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/renewable_energy_sites-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/renewable_energy_sites-as
 records: null
 resources:
 - format: ZIP

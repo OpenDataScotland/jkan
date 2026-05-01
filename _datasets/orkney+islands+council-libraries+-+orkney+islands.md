@@ -21,7 +21,7 @@ notes: '<p>Each Local Authority should have a list of libraries within their Cou
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/libraries-oi
 records: null
 resources:
 - format: ZIP

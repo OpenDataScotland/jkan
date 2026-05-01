@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-02-02'
+date_updated: '2026-05-01'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>These strategies are a requirement that has now been added into the Town
@@ -25,7 +25,7 @@ notes: '<p>These strategies are a requirement that has now been added into the T
   will be assessed based on site conditions. To be used in conjunction with the published
   supplementary guidance.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/forestry_and_woodland_strategy-is
 records: null
 resources:
 - format: WFS

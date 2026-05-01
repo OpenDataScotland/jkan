@@ -38,7 +38,7 @@ notes: "<p>TRAFFIC DATA - UPLOAD REQUIREMENTS FOR SPATIAL HUB</p>\n<p>This page 
   \ -\n spatialhub@improvementservice.org.uk).</p>\n<p>Traffic data uploaded to these\
   \ pages is publicly available as part of the UK Open Government Licence (OGL)</p>"
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/traffic_count_data-ce'
+original_dataset_link: https://data.spatialhub.scot/dataset/traffic_count_data-ce
 records: null
 resources:
 - format: ZIP

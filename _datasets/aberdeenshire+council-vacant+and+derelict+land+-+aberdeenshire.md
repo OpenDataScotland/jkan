@@ -44,7 +44,7 @@ notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data colle
   \                                                                              \
   \                                        </p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/vacant_and_derelict_land-as
 records: null
 resources:
 - format: ZIP

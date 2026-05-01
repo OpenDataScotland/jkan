@@ -28,7 +28,7 @@ notes: "<p>In November 2004, Audit Scotland published a document entitled \"Main
   \ work with the team managing that system to ensure that there is one definitive\
   \ list in the future.</p>"
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/street_furniture-gc
 records: null
 resources:
 - format: REST

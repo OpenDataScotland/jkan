@@ -15,7 +15,7 @@ notes: "<p>Local Nature Reserves are areas of (at least) locally important natur
   \ designation date, website URL (for more information) and PA code are all mandatory\
   \ attributes for this dataset now.</p>"
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/local_nature_reserves-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/local_nature_reserves-pk
 records: null
 resources:
 - format: ZIP

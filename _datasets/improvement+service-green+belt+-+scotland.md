@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2025-10-31'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>A council\_development plan may designate a green belt around a city or\
@@ -16,7 +16,7 @@ notes: "<p>A council\_development plan may designate a green belt around a city 
   \ landscape setting and identity of the settlement; and - protecting and providing\
   \ access to open space.  This dataset has been developed as a polygon layer.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-is
 records: null
 resources:
 - format: WFS

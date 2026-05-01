@@ -8,7 +8,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: <p>Location of Grit Bins</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/grit_bins-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/grit_bins-as
 records: null
 resources:
 - format: OTHER

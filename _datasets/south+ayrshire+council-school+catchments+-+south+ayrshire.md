@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-sa'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-sa
 records: null
 resources:
 - format: No file type

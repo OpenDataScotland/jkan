@@ -18,7 +18,7 @@ notes: '<p>Local authorities have the power to make by-laws to prohibit the drin
 
   <p>"area_name" and "designation_date" are now MANDATORY fields for this dataset.</p>'
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-as
 records: null
 resources:
 - format: KMZ

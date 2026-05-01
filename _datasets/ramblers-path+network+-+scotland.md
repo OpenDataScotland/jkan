@@ -21,7 +21,7 @@ notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly avail
   planning to walk any of these paths should always follow the Scottish Outdoor Access
   Code.   If you have feedback, please contact Ramblers Scotland by emailing scotland@ramblers.org.uk.</p>
 organization: Ramblers
-original_dataset_link: ' https://data.spatialhub.scot/dataset/path_network-unknown'
+original_dataset_link: https://data.spatialhub.scot/dataset/path_network-unknown
 records: null
 resources:
 - format: WFS

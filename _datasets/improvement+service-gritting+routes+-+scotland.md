@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-01-21'
+date_updated: '2026-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -17,7 +17,7 @@ notes: '<p>Each local authority creates gritting routes and regimes to keep thei
   aren''t currently under the LA gritting route regime.  Eventually, the Street Gazetteer
   will enable us to identify these routes more accurately and coherently.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/gritting_routes-is
 records: null
 resources:
 - format: WFS

@@ -37,7 +37,7 @@ notes: "<p>A council development plan may designate a green belt around a city o
   \                                                                              \
   \                                                  </p>"
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/green_belt-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-gc
 records: null
 resources:
 - format: REST

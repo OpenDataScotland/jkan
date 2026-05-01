@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-as
 records: null
 resources:
 - format: ZIP

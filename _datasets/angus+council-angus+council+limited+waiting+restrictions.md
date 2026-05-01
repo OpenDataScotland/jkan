@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2023-12-14'
-date_updated: '2023-12-14'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Angus Council Limited Waiting Restrictions</p>

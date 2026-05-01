@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-01-26'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Every local authority and National Park authority (access authorities) in
@@ -24,7 +24,7 @@ notes: <p>Every local authority and National Park authority (access authorities)
   Government guidance is making core paths the priority for rolling out this national
   standardised grading system information, which is set out at https://www.pathsforall.org.uk/resources/resource/the-path-managers-guide-to-grading</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/core_paths-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/core_paths-is
 records: null
 resources:
 - format: WFS

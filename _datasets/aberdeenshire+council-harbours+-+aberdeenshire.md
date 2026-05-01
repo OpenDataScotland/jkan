@@ -11,7 +11,7 @@ notes: "<p>Aberdeenshire Council are responsible for 7 harbours, 1 Commercial \u
   \ Macduff and 6 Recreational, Banff, Portsoy, Rosehearty, Stonehaven, Gourdon &amp;\
   \ Johnshaven.\n Last Update 12 Oct 2018,\n Point Geometry</p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/harbours-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/harbours-as
 records: null
 resources:
 - format: KMZ

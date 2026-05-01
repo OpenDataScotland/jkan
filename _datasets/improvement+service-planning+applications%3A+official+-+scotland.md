@@ -29,7 +29,7 @@ notes: "<p>This planning application data has been created using a custom built 
   \ with the attributes 'local_authority'  A powerBI dashboard highlighting some data\
   \ quality issues we have found is available to view at https://shorturl.at/lGqrh</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/planning_applications_official-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/planning_applications_official-is
 records: null
 resources:
 - format: WFS

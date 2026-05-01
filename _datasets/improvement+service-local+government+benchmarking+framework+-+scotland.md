@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-11-13'
-date_updated: '2026-03-31'
+date_updated: '2026-04-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a wide\
@@ -27,7 +27,7 @@ notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a 
   \ the <a href=\"https://www.improvementservice.org.uk/benchmarking/home\">LGBF homepage</a>\
   \ </p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/local_government_benchmarking_framework-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/local_government_benchmarking_framework-is
 records: null
 resources:
 - format: CSV

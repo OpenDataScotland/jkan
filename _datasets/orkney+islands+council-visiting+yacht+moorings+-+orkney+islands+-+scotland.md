@@ -10,7 +10,7 @@ notes: '<p>Visiting Yacht Moorings (VYM) are deployed by Orkney Islands Council.
   are seasonal and only deployed approximately May-October. Note: some VYMs may also
   be included in the Clyde Cruising Club Anchorages</p>'
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/visiting_yacht_moorings_-_orkney_islands-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/visiting_yacht_moorings_-_orkney_islands-oi
 records: null
 resources:
 - format: WFS

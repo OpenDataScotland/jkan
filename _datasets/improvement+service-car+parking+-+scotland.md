@@ -21,7 +21,7 @@ notes: '<p>Most councils keep records of their car parks, bays and zones, includ
   (though we''ve tried to include as much info as possible). For these reasons the
   data provided may not be up to date nor complete.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/car_parking-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/car_parking-is
 records: null
 resources:
 - format: WFS

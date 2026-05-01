@@ -44,7 +44,7 @@ notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data colle
   \                                                                              \
   \                                        </p>"
 organization: South Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-sa'
+original_dataset_link: https://data.spatialhub.scot/dataset/vacant_and_derelict_land-sa
 records: null
 resources:
 - format: ZIP

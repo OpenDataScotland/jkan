@@ -16,7 +16,7 @@ notes: <p>Low Emission Zones (LEZs) are designed to improve air quality and were
   will continue to develop support and funding to help people and businesses meet
   LEZ requirements.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/low_emission_zones-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/low_emission_zones-is
 records: null
 resources:
 - format: WFS

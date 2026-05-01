@@ -46,7 +46,7 @@ notes: "<p>This dataset is a Scottish Fuel Poverty Index created in the summer o
   \ each local authority boundary. For the best viewing, the British National Grid\
   \ EPSG 27700 coordinate system should be used.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/fuel_poverty_index-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/fuel_poverty_index-is
 records: null
 resources:
 - format: ZIP

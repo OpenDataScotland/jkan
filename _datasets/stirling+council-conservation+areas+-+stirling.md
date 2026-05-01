@@ -28,7 +28,7 @@ notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotlan
   Areas with associated Article 4 Directions, Article 4 Directions associated with
   a Conservation Area, and a small number of discrete Article 4 Direction areas.</p>'
 organization: Stirling Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/conservation_areas-st'
+original_dataset_link: https://data.spatialhub.scot/dataset/conservation_areas-st
 records: null
 resources:
 - format: REST

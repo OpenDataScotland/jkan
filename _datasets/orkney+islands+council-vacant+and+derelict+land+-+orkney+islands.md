@@ -44,7 +44,7 @@ notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data colle
   \                                                                              \
   \                                        </p>"
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/vacant_and_derelict_land-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/vacant_and_derelict_land-oi
 records: null
 resources:
 - format: ZIP

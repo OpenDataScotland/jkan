@@ -12,7 +12,7 @@ notes: <p>Many local authorities collect details of where the renewable energy s
   we would like to collate what local authorities believe to be the definitive sites
   and data.</p>
 organization: Highland Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/renewable_energy_sites-hi'
+original_dataset_link: https://data.spatialhub.scot/dataset/renewable_energy_sites-hi
 records: null
 resources:
 - format: MS EXCEL

@@ -13,7 +13,7 @@ notes: "<p>Local authorities may designate country parks where they see a need, 
   \ service. Local authorities can make by-laws to regulate inappropriate behaviour\
   \ within country parks.</p>"
 organization: Stirling Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/country_parks-st'
+original_dataset_link: https://data.spatialhub.scot/dataset/country_parks-st
 records: null
 resources:
 - format: ZIP

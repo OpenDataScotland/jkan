@@ -12,7 +12,7 @@ notes: "<p>The north and east coast of Scapa Flow, from Stromness to St Mary\u20
   \ a nationally significant harbour asset identified in National Planning Framework\
   \ 4.</p>"
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/scapa_flow_north_and_east_safeguarded_area-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/scapa_flow_north_and_east_safeguarded_area-oi
 records: null
 resources:
 - format: WFS

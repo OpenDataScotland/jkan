@@ -8,7 +8,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: "<p>Aberdeenshire Committee Area Boundaries\n Last Update: 12 Sep 2019\n Polygon</p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/committee_area_boundaries-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/committee_area_boundaries-as
 records: null
 resources:
 - format: KMZ

@@ -8,7 +8,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: <p>Locations and opperating hours of the Public Toilets</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/public_toilets-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/public_toilets-as
 records: null
 resources:
 - format: KMZ

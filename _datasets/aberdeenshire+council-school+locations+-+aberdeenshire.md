@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: <p>Locations of Primary &amp; Secondary Schools within Aberdeenshire</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_locations-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_locations-as
 records: null
 resources:
 - format: KMZ

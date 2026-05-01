@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: City of Edinburgh Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-ce'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-ce
 records: null
 resources:
 - format: ZIP

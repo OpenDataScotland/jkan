@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: <p>All Wind Turbine Applications</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/wind_turbine_applications-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/wind_turbine_applications-as
 records: null
 resources:
 - format: OTHER

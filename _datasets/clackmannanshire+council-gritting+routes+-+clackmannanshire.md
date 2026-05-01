@@ -20,7 +20,7 @@ notes: '<p>Each local authority creates gritting routes and regimes to keep thei
   <p>Eventually, the Street Gazetteer will enable us to identify these routes more
   accurately and coherently.</p>'
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/gritting_routes-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/gritting_routes-cl
 records: null
 resources:
 - format: WFS

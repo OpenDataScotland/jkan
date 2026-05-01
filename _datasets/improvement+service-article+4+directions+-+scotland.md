@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-12-07'
-date_updated: '2026-01-26'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
@@ -21,7 +21,7 @@ notes: '<p>An Article 4 Direction is a statement made under The Town and Country
   be used alongside Conservation Areas when considering built environment heritage
   constraints on development.</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/article_4_directions-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/article_4_directions-is
 records: null
 resources:
 - format: WFS

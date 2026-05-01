@@ -8,7 +8,7 @@ maintainer: Orkney Islands Council
 notes: <p>Scapa Deep Water Quay is identified as a national development in National
   Planning Framework 4. The point location is indicative.</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/scapa_deep_water_quay_premium-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/scapa_deep_water_quay_premium-oi
 records: null
 resources:
 - format: WFS

@@ -21,7 +21,7 @@ notes: '<p>Each Local Authority should have a list of libraries within their Cou
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/libraries-pk
 records: null
 resources:
 - format: REST

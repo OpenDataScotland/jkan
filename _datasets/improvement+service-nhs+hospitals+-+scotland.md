@@ -12,7 +12,7 @@ notes: <p>This point dataset includes the name, code, address, type, ownership, 
   It has been supplied to us by Public Health Scotland and turned into a GIS layer
   using their supplied coordinates.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/nhs_hospitals-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/nhs_hospitals-is
 records: null
 resources:
 - format: WFS

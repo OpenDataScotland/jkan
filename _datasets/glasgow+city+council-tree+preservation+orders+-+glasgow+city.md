@@ -40,7 +40,7 @@ notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digiti
   methodology in due course as we know that there is discrepancy with Registers of
   Scotland''s TPO data.</p>'
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/tree_preservation_orders-gc
 records: null
 resources:
 - format: WFS

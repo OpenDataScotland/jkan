@@ -23,7 +23,7 @@ notes: <p>Local authorities are required to conduct an annual survey of the hous
   dataset.  Some of the geometry is represented by a buffer on a recorded X/Y easting/northing
   where polygons were not available.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/housing_land_supply-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/housing_land_supply-is
 records: null
 resources:
 - format: WFS

@@ -10,7 +10,7 @@ notes: <p>The Flotta Safeguarded Area is the maritime operational area located t
   the north of Flotta Terminal. It is highly sensitive to development and/or activities
   that could affect safety of navigation and harbour operations.</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/flotta_safeguarded_area_premium-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/flotta_safeguarded_area_premium-oi
 records: null
 resources:
 - format: WFS

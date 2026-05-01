@@ -28,7 +28,7 @@ notes: "<p>In November 2004, Audit Scotland published a document entitled \"Main
   \ work with the team managing that system to ensure that there is one definitive\
   \ list in the future.</p>"
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/street_furniture-na'
+original_dataset_link: https://data.spatialhub.scot/dataset/street_furniture-na
 records: null
 resources:
 - format: No file type

@@ -14,7 +14,7 @@ notes: <p>A polygon dataset showing each anchor berth area in the Scapa Flow. Th
   anchor berths include the associated 1500 metre radius sensitive areas for safe
   vessel manoeuvring.</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/scapa_designated_anchor_berths_-_orkney_islands-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/scapa_designated_anchor_berths_-_orkney_islands-oi
 records: null
 resources:
 - format: WFS

@@ -16,7 +16,7 @@ notes: <p>All local authorities will receive planning applications for renewable
   point and polygon, and we have attempted to merge all of this data together to form
   national data layers.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/renewable_energy_sites-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/renewable_energy_sites-is
 records: null
 resources:
 - format: WFS

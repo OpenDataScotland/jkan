@@ -12,7 +12,7 @@ notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registe
   field should follow the One Scotland Gazetteer (OSG) Classification conventions.
   See https://osg.scot/portal/index.jsp for more details.</p>'
 organization: Angus Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/council_asset_register-an'
+original_dataset_link: https://data.spatialhub.scot/dataset/council_asset_register-an
 records: null
 resources:
 - format: ZIP

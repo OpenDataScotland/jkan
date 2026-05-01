@@ -18,7 +18,7 @@ notes: '<p>Local authorities have the power to make by-laws to prohibit the drin
 
   <p>"area_name" and "designation_date" are now MANDATORY fields for this dataset.</p>'
 organization: North Ayrshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-na'
+original_dataset_link: https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-na
 records: null
 resources:
 - format: WFS

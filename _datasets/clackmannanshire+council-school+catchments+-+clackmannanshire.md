@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-cl
 records: null
 resources:
 - format: WFS

@@ -21,7 +21,7 @@ notes: '<p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland ar
   <p>Site name, designation date and website URL (for more information) are now mandatory
   attributes for this dataset.</p>'
 organization: Glasgow City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/smoke_control_areas-gc'
+original_dataset_link: https://data.spatialhub.scot/dataset/smoke_control_areas-gc
 records: null
 resources:
 - format: ZIP

@@ -10,7 +10,7 @@ notes: <p>The Widewall Bay Harbour of Refuge is identified by the Harbour Author
   for the safety of oil tankers in distress when navigating the southern approach
   to Scapa Flow.</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/widewall_bay_refuge_premium-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/widewall_bay_refuge_premium-oi
 records: null
 resources:
 - format: WFS

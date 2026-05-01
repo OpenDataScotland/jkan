@@ -9,7 +9,7 @@ maintainer: Aberdeenshire Council
 notes: "<p>There are in excess of 200 burial grounds in Aberdeenshire managed and\
   \ maintained by the council;\n Point Geometry;</p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/burial_grounds-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/burial_grounds-as
 records: null
 resources:
 - format: KMZ

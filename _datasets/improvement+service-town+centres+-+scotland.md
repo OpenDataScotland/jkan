@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-01-26'
+date_updated: '2026-04-27'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Town centres and other retail centres are defined by local authorities to
@@ -15,7 +15,7 @@ notes: <p>Town centres and other retail centres are defined by local authorities
   and policies. These centres may be defined in local development plans in the first
   instance.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/town_centres-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/town_centres-is
 records: null
 resources:
 - format: WFS

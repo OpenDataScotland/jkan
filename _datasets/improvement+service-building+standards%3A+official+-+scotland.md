@@ -23,7 +23,7 @@ notes: '<p>This new building standards data has been created using a custom buil
   powerBI dashboard highlighting some data quality issues we have found is available
   to view at https://shorturl.at/9NzAX</p>'
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/building_standards_official-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/building_standards_official-is
 records: null
 resources:
 - format: WFS

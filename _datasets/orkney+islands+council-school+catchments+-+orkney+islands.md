@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-oi
 records: null
 resources:
 - format: ZIP

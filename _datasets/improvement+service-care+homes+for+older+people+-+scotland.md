@@ -11,7 +11,7 @@ notes: <p>This point location dataset of the name, address, location and unique 
   (with Unique Property Reference Number) of every older person care home in Scotland
   has been supplied by the Care Inspectorate.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/care_homes_for_older_people-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/care_homes_for_older_people-is
 records: null
 resources:
 - format: WFS

@@ -9,7 +9,7 @@ notes: <p>This is a point dataset depicting all of the Orkney Island's marinas a
   identified in the Draft Orkney Islands Regional Marine Plan. It also contains details
   as to whether they ar relocated within an SCA</p>
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/marinas_-_orkney_islands-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/marinas_-_orkney_islands-oi
 records: null
 resources:
 - format: WFS

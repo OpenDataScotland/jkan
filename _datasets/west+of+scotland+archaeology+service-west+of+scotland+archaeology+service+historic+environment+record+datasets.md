@@ -24,7 +24,7 @@ notes: "<p>Five GIS layers derived from data held and maintained by the West of 
   \ - a polyline layer defining the route of linear archaeological monuments such\
   \ as Roman roads</p>"
 organization: West of Scotland Archaeology Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/west_of_scotland_archaeology_service_historic_environment_record_datasets-wosas'
+original_dataset_link: https://data.spatialhub.scot/dataset/west_of_scotland_archaeology_service_historic_environment_record_datasets-wosas
 records: null
 resources:
 - format: ZIP

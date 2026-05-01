@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Western Isles Archaeology Service
 notes: <p>HER Monument records</p>
 organization: Western Isles Archaeology Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/western_isles_historic_environment_record_monuments-wia'
+original_dataset_link: https://data.spatialhub.scot/dataset/western_isles_historic_environment_record_monuments-wia
 records: null
 resources:
 - format: ZIP

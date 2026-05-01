@@ -40,7 +40,7 @@ notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digiti
   methodology in due course as we know that there is discrepancy with Registers of
   Scotland''s TPO data.</p>'
 organization: Aberdeen City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/tree_preservation_orders-ac'
+original_dataset_link: https://data.spatialhub.scot/dataset/tree_preservation_orders-ac
 records: null
 resources:
 - format: REST

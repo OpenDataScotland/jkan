@@ -37,7 +37,7 @@ notes: "<p>Scottish councils usually divide towns and country areas into catchme
   \                                                                              \
   \                       </p>"
 organization: Perth & Kinross Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/school_catchments-pk'
+original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-pk
 records: null
 resources:
 - format: REST

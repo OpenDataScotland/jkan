@@ -18,7 +18,7 @@ notes: '<p>Local authorities have the power to make by-laws to prohibit the drin
 
   <p>"area_name" and "designation_date" are now MANDATORY fields for this dataset.</p>'
 organization: Orkney Islands Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-oi'
+original_dataset_link: https://data.spatialhub.scot/dataset/alcohol_prohibition_areas-oi
 records: null
 resources:
 - format: ZIP

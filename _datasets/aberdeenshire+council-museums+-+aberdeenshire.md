@@ -8,7 +8,7 @@ maintainer: Aberdeenshire Council
 notes: "<p>Locations of Aberdeenshire museums.\n Last Update: 12 October 2018.\n Point\
   \ Geometry</p>"
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/museums-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/museums-as
 records: null
 resources:
 - format: KMZ

@@ -15,7 +15,7 @@ notes: '<p>This dataset captures any data that pertains to locations of safety e
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: Clackmannanshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/safety_features-cl'
+original_dataset_link: https://data.spatialhub.scot/dataset/safety_features-cl
 records: null
 resources:
 - format: WFS

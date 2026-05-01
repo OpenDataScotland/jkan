@@ -21,7 +21,7 @@ notes: '<p>Each Local Authority should have a list of libraries within their Cou
 
   <p>"UPRN" and "address" are now MANDATORY fields for this dataset.</p>'
 organization: Aberdeen City Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/libraries-ac'
+original_dataset_link: https://data.spatialhub.scot/dataset/libraries-ac
 records: null
 resources:
 - format: REST

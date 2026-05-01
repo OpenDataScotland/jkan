@@ -12,7 +12,7 @@ notes: <p>This dataset of the name, address, location and unique ID of every reg
   It takes data from the NHS open data platform (https://www.opendata.nhs.scot/dataset)
   and matches it to current address records from the One Scotland Gazetteer.and AddressBase.</p>
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/gp_practices-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/gp_practices-is
 records: null
 resources:
 - format: WFS

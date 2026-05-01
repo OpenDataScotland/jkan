@@ -7,7 +7,7 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Aberdeenshire Council
 notes: <p>Location and operating hours of Offices open to the public</p>
 organization: Aberdeenshire Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/offices_open_to_public-as'
+original_dataset_link: https://data.spatialhub.scot/dataset/offices_open_to_public-as
 records: null
 resources:
 - format: OTHER

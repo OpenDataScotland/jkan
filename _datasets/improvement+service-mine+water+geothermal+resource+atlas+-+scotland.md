@@ -63,7 +63,7 @@ notes: "<p>A Web Mapping Tile Service (WMTS) layer identifying optimal locations
   \ as a Web Feature Service (WFS) due to the licencing restrictions of the source\
   \ data.</p>\n<p>Contains data from \xA9 The Coal Authority. All rights reserved.</p>"
 organization: Improvement Service
-original_dataset_link: ' https://data.spatialhub.scot/dataset/mine_water_geothermal_resource_atlas-is'
+original_dataset_link: https://data.spatialhub.scot/dataset/mine_water_geothermal_resource_atlas-is
 records: null
 resources:
 - format: OTHER

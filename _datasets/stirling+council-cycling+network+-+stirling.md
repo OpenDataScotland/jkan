@@ -14,7 +14,7 @@ notes: <p>Councils collect various datasets to do with their cycle network. Thes
   parking facilities will be captured in the Street Furniture dataset and should not
   be uploaded here.</p>
 organization: Stirling Council
-original_dataset_link: ' https://data.spatialhub.scot/dataset/cycling_network-st'
+original_dataset_link: https://data.spatialhub.scot/dataset/cycling_network-st
 records: null
 resources:
 - format: REST
