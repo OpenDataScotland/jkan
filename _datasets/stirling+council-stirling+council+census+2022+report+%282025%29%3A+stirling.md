@@ -10,7 +10,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2025-09-28'
-date_updated: '2025-10-05'
+date_updated: '2026-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>Scotland\u2019s Census is the official count of every person and household\

@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2025-08-14'
-date_updated: '2026-04-29'
+date_updated: '2026-05-04'
 license: No licence
 maintainer: Stirling Council
 notes: <p>council area key stats, population estimates, census, and scottish index

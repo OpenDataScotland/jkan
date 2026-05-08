@@ -2,13 +2,13 @@
 category:
 - Health and Social Care
 date_created: '2018-02-13'
-date_updated: '2026-04-28'
+date_updated: '2026-05-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains information on contact details and list sizes for
-  all GP practices in Scotland.\r\n\r\nAll publications and supporting material to
-  this topic area can be found on the <a href="https://publichealthscotland.scot/our-areas-of-work/general-practice/">Public
-  Health Scotland website</a>.</p>
+  all GP practices in Scotland. For more information please see the <a href="https://www.publichealthscotland.scot/publications/general-practice-list-sizes-and-demographics/">publication
+  page</a> and <a href="https://scotland.shinyapps.io/phs-gp-list-sizes-and-demographics-app/">data
+  visualisation</a>.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/gp-practice-contact-details-and-list-sizes
 records: null

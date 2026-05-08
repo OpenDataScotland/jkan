@@ -1,6 +1,7 @@
 ---
 category:
 - Arts / Culture / History
+- Council and Government
 - Food and Environment
 - Housing and Estates
 - Law and Licensing
@@ -9,27 +10,26 @@ category:
 - Public Safety
 - Sport and Leisure
 date_created: '2024-06-18'
-date_updated: '2025-09-24'
+date_updated: '2026-05-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p><strong>Overview</strong></p>
 
   <p>This feature service provides comprehensive information on sports and recreational
-  play areas within Dundee City. It is intended to support local community engagement,
-  urban planning, and maintenance of public recreational infrastructure.</p>
+  play areas within Dundee City Council.</p>
 
   <p><strong>Feature Layers</strong></p>
 
   <ul><li><strong>Sport Recreation Playground</strong>: This layer details public
   outdoor recreational and sports playgrounds across Dundee. It includes name, locations
-  and information on various types of facilities such as children9s play areas, Multi-Use
+  and information on various types of facilities such as children''s play areas, Multi-Use
   Games Areas (MUGAs), adventure trails, skateparks, dog agility trails, sports courts,
-  and outdoor gyms designed for community fitness and leisure activities.</li></ul>
+  and outdoor gyms.</li></ul>
 
   <p><strong>Geographic Coverage</strong></p>
 
-  <p>The data exclusively covers Dundee City, providing spatial detail relevant to
-  residents and visitors seeking recreational and sports amenities in the region.</p>
+  <p>The data exclusively covers Dundee City Council, providing spatial detail relevant
+  to residents and visitors seeking recreational and sports amenities in the region.</p>
 
   <p><strong>Use Cases</strong></p>
 

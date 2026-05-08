@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2025-11-14'
+date_updated: '2026-05-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: <p>Community councils are required to be established by local authorities.

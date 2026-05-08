@@ -7,7 +7,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2026-04-24'
-date_updated: '2026-04-28'
+date_updated: '2026-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>The <strong>National Records of Scotland (NRS)</strong> recently published\

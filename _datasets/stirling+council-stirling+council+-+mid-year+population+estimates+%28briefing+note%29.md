@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Transportation
 date_created: '2026-04-25'
-date_updated: '2026-04-27'
+date_updated: '2026-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p><span style='font-size:16px;'>Population estimates are based on the 2022\

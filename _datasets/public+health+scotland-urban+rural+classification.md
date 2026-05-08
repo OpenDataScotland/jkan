@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Planning and Development
 date_created: '2018-04-06'
-date_updated: '2025-04-07'
+date_updated: '2026-05-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>The Scottish Government Urban Rural Classification provides a consistent

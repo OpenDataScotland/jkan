@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: ''
-date_updated: '2026-04-03'
+date_updated: '2026-05-01'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>The dataset contains larger geographical areas each containing seven constituences.</p>
