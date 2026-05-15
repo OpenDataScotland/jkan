@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2024-09-24'
-date_updated: '2025-06-26'
+date_updated: '2026-05-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>The dataset provides information on the coverage and results of first line

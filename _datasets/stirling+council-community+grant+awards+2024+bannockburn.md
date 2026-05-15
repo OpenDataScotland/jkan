@@ -1,0 +1,19 @@
+---
+category:
+- Budget / Finance
+- Council and Government
+date_created: '2025-11-19'
+date_updated: '2025-11-19'
+license: No licence
+maintainer: Stirling Council
+notes: <p>{{description}}</p>
+organization: Stirling Council
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-grant-awards-2024-bannockburn
+records: null
+resources:
+- format: ARCGIS HUB DATASET
+  name: Web Page
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::community-grant-awards-2024-bannockburn
+schema: default
+title: Community Grant Awards 2024 Bannockburn
+---

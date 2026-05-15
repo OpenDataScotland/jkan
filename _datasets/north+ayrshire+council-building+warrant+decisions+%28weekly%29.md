@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-04-02'
-date_updated: '2026-05-08'
+date_updated: '2026-04-02'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>The Building Standards Register is list of applications designed to meet

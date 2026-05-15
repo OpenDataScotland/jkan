@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2024-12-15'
-date_updated: '2025-11-16'
+date_updated: '2026-05-14'
 license: No licence
 maintainer: Stirling Council
 notes: <p>frequently requested topics; absence stats inc. education staff, grades,
