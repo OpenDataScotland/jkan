@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-02-27'
-date_updated: '2025-09-09'
+date_updated: '2026-05-16'
 license: No licence
 maintainer: Stirling Council
 notes: <p>active travel (walking, cycling) numbers, electric vehicle charging, bus

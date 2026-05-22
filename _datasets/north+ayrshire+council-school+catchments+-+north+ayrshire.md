@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2026-05-15'
+date_updated: '2026-05-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -40,9 +40,6 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: WFS
   name: Primary School Cactchments
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS

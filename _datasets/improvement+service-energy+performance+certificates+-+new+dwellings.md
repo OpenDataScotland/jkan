@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-04-17'
-date_updated: '2026-04-17'
+date_updated: '2026-05-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Improvement Service
 notes: "<p>This dataset contains energy performance certificates for new dwellings\
@@ -28,5 +28,5 @@ resources:
   name: EPC historic dataset Q4 2025 SAP new dwellings - GeoPackage
   url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/3649f078-d1fb-4b3d-aa20-ff359bcfb60d/download/epc_historic_dataset_q4_2025_sap_new_dwellings.gpkg
 schema: default
-title: Domestic Energy Performance Certificates - Historic - SAP New Dwellings
+title: Energy Performance Certificates - New Dwellings
 ---

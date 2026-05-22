@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2024-06-25'
-date_updated: '2025-09-09'
+date_updated: '2026-05-16'
 license: No licence
 maintainer: Stirling Council
 notes: <p>polling districts and places, community council areas, wards and elected

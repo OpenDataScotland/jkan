@@ -4,7 +4,7 @@ category:
 - Sport and Leisure
 - Tourism
 date_created: '2024-12-10'
-date_updated: '2025-09-09'
+date_updated: '2026-05-16'
 license: No licence
 maintainer: Stirling Council
 notes: <p>leisure, cultural events, and visitor feedback (Bloody Scotland/National
