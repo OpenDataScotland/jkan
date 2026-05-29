@@ -28,7 +28,7 @@ notes: '<p>Overview This feature service provides a comprehensive spatial datase
   </p>'
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=fe8d7eb4d99f40ada1b9ad14411406dc
-records: 62
+records: null
 resources: []
 schema: default
 title: Schools Core Catchment Future

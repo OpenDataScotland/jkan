@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Health and Social Care
 date_created: '2020-03-20'
-date_updated: '2026-04-28'
+date_updated: '2026-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset reports key statistics on New Outpatient,  Inpatient and Day
@@ -11,27 +11,28 @@ notes: <p>This dataset reports key statistics on New Outpatient,  Inpatient and 
   release, this set of statistics now contains two additional data files to be refreshed
   on a monthly basis, containing performance and distribution of waits data for the
   most recent 25 months.\r\n\r\nFollowing implementation of the Scottish Government\u2019s
-  revised <a href="https://www.gov.scot/publications/nhsscotland-waiting-times-guidance-november-2023/pages/2/">
+  revised  <a href="https://www.gov.scot/publications/nhsscotland-waiting-times-guidance-november-2023/pages/2/">
   Waiting Times Guidance </a>, published in December 2023, these statistics have been
   aligned to the revised waiting time clock adjustment rules since 30 July 2025. An
   initial impact assessment, including technical details of implementation, was published
-  with the first release of statistics using the new guidance in October 2025. Alongside
-  this current release, an  <a href="https://www.publichealthscotland.scot/healthcare-system/waiting-times/inpatient-day-case-and-new-outpatient-waiting-times/overview/regulations-and-guidance/">
-  extended impact assessment </a> has been published, with more detailed analysis
-  on the impact of implementation on key trends over the full year to March 2026.\r\n\r\nFor
-  more information on stage of treatment waiting times see the NHS waiting times -
-  stage of treatment publications. The date of the next release can be found on our
-  list of forthcoming publications.\r\n\r\nDue to the live nature of local Patient
-  Management Systems and the national data mart, historical trend data are routinely
-  refreshed from one publication to the next, leading to slight revisions in statistics,
-  particularly those for the previous month end. The reasoning behind these retrospective
-  changes and details of ongoing investigations are described in the dedicated Data
-  Quality webpage.\r\n\r\nAcross NHSScotland, the net effect of all revisions for
-  new outpatients was a decrease of 0.3% (-1,684) in the number of ongoing waits and
-  an increase of 0.2% (+225) in the number of attendances compared to previously published
-  figures for the month ending 28 February 2026. Drawing the same comparison for inpatient
-  and day case treatment, the net effect was an increase of 0.6% (+897) ongoing waits
-  and 1.4% (+316) admissions.\r\n\r\nFor more information, please see the  <a href="https://www.publichealthscotland.scot/publications/stage-of-treatment-waiting-times-data-quality-issues/">
+  with the first release of statistics using the new guidance in October 2025. An
+  <a href="https://www.publichealthscotland.scot/healthcare-system/waiting-times/inpatient-day-case-and-new-outpatient-waiting-times/overview/regulations-and-guidance/">
+  extended impact assessment </a> was published in April 2026, with more detailed
+  analysis on the impact of implementation on key trends over the full year to March
+  2026.\r\n\r\nFor more information on stage of treatment waiting times see the NHS
+  waiting times - stage of treatment publications. The date of the next release can
+  be found on our list of forthcoming publications.\r\n\r\nDue to the live nature
+  of local Patient Management Systems and the national data mart, historical trend
+  data are routinely refreshed from one publication to the next, leading to slight
+  revisions in statistics, particularly those for the previous month end. The reasoning
+  behind these retrospective changes and details of ongoing investigations are described
+  in the dedicated Data Quality webpage.\r\n\r\nAcross NHSScotland, the net effect
+  of all revisions for new outpatients was an increase of 0.2% (+877) in the number
+  of ongoing waits and 0.1% (+140) in the number of attendances compared to previously
+  published figures for the month ending 31 March 2026. Drawing the same comparison
+  for inpatient and day case treatment, the net effect was an increase of 0.9% (+1,354)
+  ongoing waits and 0.4% (+116) admissions.\r\n\r\nFor more information, please see
+  the  <a href="https://www.publichealthscotland.scot/publications/stage-of-treatment-waiting-times-data-quality-issues/">
   Data Quality </a> section of the website.\r\n</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/stage-of-treatment-waiting-times
@@ -39,10 +40,10 @@ records: null
 resources:
 - format: CSV
   name: Distribution of Ongoing and Completed Waits - Monthly
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_mar26.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/f9232c17-a90e-4d35-a863-11bdb3a748c0/download/sot_distribution_of_ongoing_completed_waits_monthly_apr26.csv
 - format: CSV
   name: "Ongoing and Completed Waits \u2013 Monthly"
-  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_mar26.csv
+  url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/ac63b747-fdcc-410c-ae43-de6fe3c46abf/download/sot_performance_ongoing_completed_waits_monthly_apr26.csv
 - format: CSV
   name: Completed Waits - Long Trend
   url: https://www.opendata.nhs.scot/dataset/e9dbef36-a343-4b9a-ab7e-b6e6cbcbb38e/resource/4c091d26-1492-41e5-9577-832cbc1cd4cf/download/sot_performance_completed_waits_mar26.csv

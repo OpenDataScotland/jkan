@@ -2,20 +2,25 @@
 category:
 - Health and Social Care
 date_created: '2019-11-07'
-date_updated: '2026-02-25'
+date_updated: '2026-05-26'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>An outpatient is a patient who attends a clinic for a short appointment
   \u2013 this may be for a consultation with a specialist healthcare professional,
   a test, scan or a procedure/treatment. This does not require an overnight stay.
   Outpatient attendances are categorised as new or return (follow-up). Outpatient
-  data within this publication are for consultant-led activity only.\r\n\r\n Please
+  data within this publication are for consultant-led activity only.\r\n\r\nPlease
   note that there have been outpatient methodological changes. Previously, the ISD(S)1
   outpatients data source was used for return outpatient activity due to poorer completeness
   for historical SMR00 return outpatients. SMR00 return outpatients data are now more
   complete meaning SMR00 data can be used for both new and return outpatients. As
   a result, publications from February 2025 onwards will not be directly comparable
-  to previous publications.</p>
+  to previous publications.\r\n\r\n Please note that there have been outpatient methodological
+  changes. Previously, the ISD(S)1 outpatients data source was used for return outpatient
+  activity due to poorer completeness for historical SMR00 return outpatients. SMR00
+  return outpatients data are now more complete meaning SMR00 data can be used for
+  both new and return outpatients. As a result, publications from February 2025 onwards
+  will not be directly comparable to previous publications.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/outpatient-activity
 records: null

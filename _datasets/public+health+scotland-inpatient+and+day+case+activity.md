@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-11-05'
-date_updated: '2026-02-26'
+date_updated: '2026-05-28'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>An inpatient is a patient who stays in hospital for one or more nights and
