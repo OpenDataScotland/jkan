@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2026-02-15'
-date_updated: '2026-02-15'
+date_updated: '2026-06-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<p><strong>Overview</strong></p>

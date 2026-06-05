@@ -10,7 +10,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2026-04-04'
-date_updated: '2026-05-27'
+date_updated: '2026-06-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<p>This profile has been developed to provide an overview of key elements,\
@@ -30,8 +30,8 @@ notes: "<p>This profile has been developed to provide an overview of key element
   \ Car Availability<br />11 - Households: Travel to Work</p>\n<p>Page Five:</p>\n\
   <p>12 - Education: School Leaver Qualifications<br />13 - Economy: Economic Activity<br\
   \ />14 - Economy: Occupation<br />15 - Economy: Employment by Industry Type<br />16\
-  \ - Economy: Unpaid Care</p>\n<p>Page Six:</p>\n<p>16 - Health: Unpaid Care</p>\n\
-  <p>17 - Health: Long-term Heath<br />18 - Health: General Health</p>\n<p>Page Seven:</p>\n\
+  \ - Economy: Unpaid Care</p>\n<p>Page Six:</p>\n<p>16 - Health: Unpaid Care<br />17\
+  \ - Health: Long-term Heath<br />18 - Health: General Health</p>\n<p>Page Seven:</p>\n\
   <p>19 - Ethnicity: Ethnic Group<br />20 - Ethnicity: Country of Birth<br />21 -\
   \ Religion: Faith Groupings<br />22 - Population: Sexual Orientation</p>\n<p>Page\
   \ Eight:</p>\n<p>23 - Communiies &amp; Community Grant Funding</p>\n<p>Page Nine:</p>\n\
