@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: ''
 date_updated: ''
-license: https://creativecommons.org/publicdomain/mark/1.0/
+license: 'Custom licence: []'
 maintainer: National Library of Scotland
 notes: ''
 organization: National Library of Scotland

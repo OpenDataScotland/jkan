@@ -2,23 +2,35 @@
 category:
 - Health and Social Care
 date_created: '2019-03-26'
-date_updated: '2026-05-12'
+date_updated: '2026-06-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: <p>This dataset contains the location and contact details for all dispensers
+notes: '<p>This dataset contains the location and contact details for all dispensers
   across Scotland.\r\n\r\nAll publications and supporting material to this topic area
-  can be found on the <a href="https://www.isdscotland.org/Health-Topics/Prescribing-and-Medicines/">ISD
-  Scotland - Prescribing and Medicines website</a>.</p>
+  can be found on the Public Health Scotland website: <a href="https://www.publichealthscotland.scot/healthcare-system/system-monitoring-accountability-and-quality-of-care/prescribing-data/overview-of-prescribing-data/">Overview
+  of prescribing data</a>.</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/dispenser-location-contact-details
 records: null
 resources:
 - format: CSV
-  name: Dispenser Details 2025/26 - January to February
-  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/828b6bf9-7c32-4e53-8908-c041924d37f4/download/dispenser_contactdetails_202602.csv
+  name: 'Dispenser Details - March 2026 '
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/f1f22bee-6ec2-4d33-a041-9cebaffd992e/download/dispenser_contactdetails_202603.csv
 - format: CSV
-  name: Dispenser Details 2025/26 - October to December
-  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/74cee8cb-5726-4ad6-a337-eabce9c3c103/download/dispenser_contactdetails_202512.csv
+  name: Dispenser Details - February 2026
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/3332351f-597e-4f8c-907b-deb7f7d75c87/download/dispenser_contactdetails_202602.csv
+- format: CSV
+  name: Dispenser Details - January 2026
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/960144b4-9848-474b-8952-8fcb92d107e3/download/dispenser_contactdetails_202601.csv
+- format: CSV
+  name: Dispenser Details - December 2025
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/5ae05618-9309-45d3-849d-ba436577a859/download/dispenser_contactdetails_202512.csv
+- format: CSV
+  name: Dispenser Details - November 2025
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/63d145e7-0e30-4c8e-9ac4-f02112101444/download/dispenser_contactdetails_202511.csv
+- format: CSV
+  name: Dispenser Details - October 2025
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/9e56d8c9-163c-4895-9dc4-054d374e855d/download/dispenser_contactdetails_202510.csv
 - format: CSV
   name: Dispenser Details 2025/26 - July to September
   url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/fba47ad2-9082-4e4a-a70d-16215922c1f7/download/dispenser_contactdetails_jul-sep_2025-26.csv

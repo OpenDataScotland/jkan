@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2026-05-12'
+date_updated: '2026-06-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -33,17 +33,20 @@ notes: <p>There are three datasets included within this open data publication. T
   from May 2023 onwards. The data reflects the costs reimbursed at the time of processing
   and this has already been identified as anomalous and referred back to the data
   processor, NHS National Services Scotland Practitioner and Counter Fraud Services
-  Division.\r\n\r\nPlease note that the November 2023 data by prescriber location
-  file will be re-uploaded in this release. This is because it has been identified
-  that it included 60 rows of December 2023 data. These rows have now been removed.
-  The December 2023 file is unaffected.</p>
+  Division.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 records: null
 resources:
 - format: CSV
-  name: "Data by Board \u2013 January - February 2026"
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/aae4fa1c-9320-4c4d-b6e7-13d324cc13f8/download/hb_pitc2026_01_02.csv
+  name: "Data by Dispenser Location \u2013 March 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/699a7c07-f514-4b56-804a-3a2dcf282f96/download/disp_pitc202603.csv
+- format: CSV
+  name: "Data by Prescriber Location \u2013 March 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1bbd2cc6-0d47-49aa-bf0c-8579ff1fda28/download/pitc202603.csv
+- format: CSV
+  name: "Data by Board \u2013 January - March 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/aae4fa1c-9320-4c4d-b6e7-13d324cc13f8/download/hb_pitc2026_01_03.csv
 - format: CSV
   name: "Data by Dispenser Location \u2013 February 2026"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/d254b631-c7c5-4815-b19c-43f2dfbf613f/download/disp_pitc202602.csv

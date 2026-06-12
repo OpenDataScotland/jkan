@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/Jacobite-Prints-And-Broadsides.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/Jacobite-Prints-And-Broadsides.zip
 schema: default
 title: Jacobite Prints and Broadsides
 ---

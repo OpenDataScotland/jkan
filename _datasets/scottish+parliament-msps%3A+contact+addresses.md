@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: ''
-date_updated: '2026-04-04'
+date_updated: '2026-06-06'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: <p>This dataset contains a list of member addresses.</p>

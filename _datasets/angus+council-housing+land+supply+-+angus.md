@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2026-02-06'
+date_updated: '2026-06-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -28,6 +28,9 @@ resources:
 - format: ZIP
   name: Housing Land Audit 2025
   url: https://data.spatialhub.scot/dataset/a8b46c9b-46c9-4bce-9a5a-fe034a009fe8/resource/90b95f36-f608-45c7-a9cc-c36e95643cd2/download/housing_land_supply_2025.zip
+- format: APPLICATION/GEOPACKAGE+SQLITE3
+  name: Angus HLA 2025
+  url: https://data.spatialhub.scot/dataset/a8b46c9b-46c9-4bce-9a5a-fe034a009fe8/resource/ed6737d0-5e3a-41e1-8d57-01bd1f11aedc/download/angus-hla-2025.gpkg
 schema: default
 title: Housing Land Supply - Angus
 ---

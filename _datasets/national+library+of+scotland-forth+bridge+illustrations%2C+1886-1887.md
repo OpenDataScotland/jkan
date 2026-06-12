@@ -12,7 +12,7 @@ records: null
 resources:
 - format: ZIP
   name: ZIP
-  url: https://data.nls.uk/download/metadata-collections/Forth-Bridge-Illustrations-1886-1887.zip
+  url: https://nlsfoundry.s3.amazonaws.com/download/metadata-collections/Forth-Bridge-Illustrations-1886-1887.zip
 schema: default
 title: Forth Bridge illustrations, 1886-1887
 ---

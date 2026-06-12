@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-05-04'
-date_updated: '2026-03-11'
+date_updated: '2026-06-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This dataset contains details of items prescribed and subsequently dispensed
@@ -18,6 +18,12 @@ organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/prescribed-dispensed
 records: null
 resources:
+- format: CSV
+  name: Prescribed & Dispensed 2026
+  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/dea6a7be-0a8d-4f86-b16a-fc4fb4afae09/download/prescribed-dispensed-2026-annual.csv
+- format: CSV
+  name: Prescribed & Dispensed January - March 2026
+  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/c4c70a02-472c-44ed-b6ed-ca0c3cc2a90b/download/prescribed-dispensed-jan-mar-2026.csv
 - format: CSV
   name: 'Prescribed & Dispensed 2025 '
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/a203c8fc-c19d-451c-b637-781ea7c2066c/download/prescribed-dispensed-2025-annual.csv
@@ -48,9 +54,6 @@ resources:
 - format: CSV
   name: Prescribed & Dispensed 2016
   url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/87f868b0-906e-4ce8-9a29-d21709476c96/download/prescribed-dispensed-2016.csv
-- format: CSV
-  name: 'Prescribed & Dispensed April - June 2025 '
-  url: https://www.opendata.nhs.scot/dataset/4b4be829-c15e-480e-a2fc-996460ff63c6/resource/31576bf0-fc05-49ff-a99a-2c253a0c3342/download/prescribed-dispensed-apr-jun-2025.csv
 schema: default
 title: Prescribed and Dispensed
 ---
