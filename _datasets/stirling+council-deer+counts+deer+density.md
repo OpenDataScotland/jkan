@@ -83,42 +83,42 @@ notes: "<div style='text-align:Left;font-size:12pt'><div><div><p><span>Deer grou
   \ 0 0 0;'><span><span>DIGI = counted from a digital photo</span></span></p></td></tr></tbody></table><p><span\
   \ /></p></div></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-counts-deer-groups-1
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-counts-deer-density
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-counts-deer-groups-1
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::deer-counts-deer-density
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Deer_Counts_Deer_Groups/FeatureServer/2
+  url: https://services1.arcgis.com/LM9GyVFsughzHdbO/arcgis/rest/services/Deer_Counts_Deer_Groups/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/csv?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/csv?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/shapefile?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geojson?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geojson?layers=0
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/kml?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/kml?layers=0
 - format: ZIP
   name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/filegdb?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/filegdb?layers=0
 - format: TXT
   name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/featureCollection?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/featureCollection?layers=0
 - format: MS EXCEL
   name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/excel?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/excel?layers=0
 - format: GPKG
   name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geoPackage?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/geoPackage?layers=0
 - format: GDB
   name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/sqlite?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/bb41b2bff76642119867a010109dda54/sqlite?layers=0
 schema: default
-title: Deer Counts Deer Groups
+title: Deer Counts Deer Density
 ---
