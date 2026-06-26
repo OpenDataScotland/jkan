@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2016-05-24'
 date_updated: '2026-03-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: '<p>Every local authority and National Park authority (access authorities)
   in Scotland is required to draw up a plan for a system of paths (core paths) sufficient

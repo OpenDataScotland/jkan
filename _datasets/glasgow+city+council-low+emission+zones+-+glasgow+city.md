@@ -4,7 +4,7 @@ category:
 - Food and Environment
 date_created: '2022-09-29'
 date_updated: '2024-07-23'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Glasgow City Council
 notes: <p>Low Emissions Zone Boundary. A Low Emission Zone is an area where a person
   may not drive a vehicle which does not meet a specified emission standard. LEZs

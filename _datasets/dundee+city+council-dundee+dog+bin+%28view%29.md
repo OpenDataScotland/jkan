@@ -7,7 +7,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2026-04-09'
-date_updated: '2026-05-28'
+date_updated: '2026-06-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p><b>Overview</b><p>This Feature Service provides detailed spatial information

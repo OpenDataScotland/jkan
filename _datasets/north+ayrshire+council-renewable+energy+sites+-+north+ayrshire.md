@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2019-03-15'
 date_updated: '2025-06-23'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>Many local authorities collect details of where the renewable energy sites
   are within their jurisdiction. Although other parties purport to have such lists,

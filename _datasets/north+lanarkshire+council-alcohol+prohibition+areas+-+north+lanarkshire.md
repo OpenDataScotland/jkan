@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 date_created: '2017-01-27'
 date_updated: '2025-08-12'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Lanarkshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
   of alcohol in designated public places under provisions contained in the Local Government

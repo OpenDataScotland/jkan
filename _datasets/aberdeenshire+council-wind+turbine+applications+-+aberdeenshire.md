@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2023-12-11'
 date_updated: '2025-04-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>All Wind Turbine Applications</p>
 organization: Aberdeenshire Council

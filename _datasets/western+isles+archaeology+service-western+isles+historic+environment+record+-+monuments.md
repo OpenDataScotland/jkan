@@ -3,7 +3,7 @@ category:
 - Food and Environment
 date_created: '2025-10-01'
 date_updated: '2026-03-24'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Western Isles Archaeology Service
 notes: <p>HER Monument records</p>
 organization: Western Isles Archaeology Service

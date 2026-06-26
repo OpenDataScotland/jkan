@@ -4,7 +4,7 @@ category:
 - Transportation
 date_created: '2024-04-11'
 date_updated: '2026-03-09'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: <p>The Widewall Bay Harbour of Refuge is identified by the Harbour Authority
   for the safety of oil tankers in distress when navigating the southern approach

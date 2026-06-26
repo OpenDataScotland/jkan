@@ -6,7 +6,7 @@ category:
 - Public Safety
 date_created: '2018-07-23'
 date_updated: '2025-09-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Clackmannanshire Council
 notes: '<p>This dataset captures any data that pertains to locations of safety equipment
   and features. Initially, this will include water safety features (like life buoys

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 date_created: '2019-06-11'
 date_updated: '2026-04-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
   Act 2015 and the new duties this places on local authorities.</p>

@@ -6,7 +6,7 @@ category:
 - Transportation
 date_created: '2017-11-08'
 date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)
   Act 2009 dictates that records of culverts must be created and maintained. Specifically;</p>

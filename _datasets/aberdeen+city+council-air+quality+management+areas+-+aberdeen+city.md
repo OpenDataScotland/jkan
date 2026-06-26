@@ -2,10 +2,10 @@
 category:
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-06-23'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2026-06-24'
+license: 'Custom licence: Open'
 maintainer: Aberdeen City Council
-notes: '<p>This dataset now contains revoked AQMAs.</p>
+notes: '<p>This dataset now contains revoked AQMAs. </p>
 
   <p>Site name, date designated, revocation date (where applicable) type of pollutant
   and website URL (with more information) are now mandatory attributes for this dataset.</p>'

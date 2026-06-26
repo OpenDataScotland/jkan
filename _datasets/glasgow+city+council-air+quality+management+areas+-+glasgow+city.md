@@ -3,7 +3,7 @@ category:
 - Food and Environment
 date_created: '2016-05-24'
 date_updated: '2023-04-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Glasgow City Council
 notes: '<p>This dataset now contains revoked AQMAs.</p>
 

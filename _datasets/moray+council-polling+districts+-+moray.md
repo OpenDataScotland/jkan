@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2017-01-27'
 date_updated: '2025-06-09'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Moray Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
   \ as an electoral Ward within which a polling place is designated.</p>\n<p>The Representation\

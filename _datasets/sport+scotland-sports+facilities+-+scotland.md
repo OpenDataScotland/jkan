@@ -4,7 +4,7 @@ category:
 - Sport and Leisure
 date_created: '2024-07-25'
 date_updated: '2024-07-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Sport Scotland
 notes: '<p>This dataset contains multiple themed layers of different types of sporting
   facilities across Scotland. The facilities are represented as point locations, which

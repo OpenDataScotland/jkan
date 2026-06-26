@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2021-06-11'
 date_updated: '2026-04-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>Many local authorities capture details of the cycle network within their\
   \ jurisdiction. These may be lanes along roads or segregated paths away from vehicles.\

@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2023-12-13'
 date_updated: '2025-04-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Location and operating hours of Offices open to the public</p>
 organization: Aberdeenshire Council

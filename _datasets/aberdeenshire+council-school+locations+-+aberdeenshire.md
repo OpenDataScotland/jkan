@@ -3,7 +3,7 @@ category:
 - Education
 date_created: '2023-11-16'
 date_updated: '2024-12-06'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Locations of Primary &amp; Secondary Schools within Aberdeenshire</p>
 organization: Aberdeenshire Council

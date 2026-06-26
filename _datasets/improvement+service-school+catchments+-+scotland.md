@@ -4,7 +4,7 @@ category:
 - Education
 date_created: '2021-06-11'
 date_updated: '2025-11-14'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>Scottish local authorities usually divide towns and country areas into
   catchments and children living in a catchment area will usually go to the same local

@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2016-05-24'
 date_updated: '2026-03-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Lanarkshire Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
   Scottish Planning Policy (paragraph 61) to identify town centres and other retail

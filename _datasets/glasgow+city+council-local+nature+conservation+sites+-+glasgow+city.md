@@ -3,7 +3,7 @@ category:
 - Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2023-04-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Glasgow City Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
   by local authorities to areas of locally important nature and landscapes. NatureScot,

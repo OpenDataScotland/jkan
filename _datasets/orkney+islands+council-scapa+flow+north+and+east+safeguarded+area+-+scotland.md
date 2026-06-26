@@ -4,7 +4,7 @@ category:
 - Transportation
 date_created: '2024-04-11'
 date_updated: '2024-04-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: "<p>The north and east coast of Scapa Flow, from Stromness to St Mary\u2019\
   s, within an area 1,500m from the shore, is a strategically important area for potential\

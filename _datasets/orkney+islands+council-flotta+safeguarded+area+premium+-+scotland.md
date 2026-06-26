@@ -4,7 +4,7 @@ category:
 - Transportation
 date_created: '2024-04-11'
 date_updated: '2026-03-09'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: <p>The Flotta Safeguarded Area is the maritime operational area located to
   the north of Flotta Terminal. It is highly sensitive to development and/or activities

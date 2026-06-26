@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2016-05-24'
 date_updated: '2026-03-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Lanarkshire Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
   land supply, 'the Housing Land Audit', to determine completions within the timeframe

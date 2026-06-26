@@ -7,7 +7,7 @@ category:
 - Transportation
 date_created: '2021-06-11'
 date_updated: '2026-05-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>A \u2018polling place\u2019 is defined as the building or area in which\
   \ a polling station will be located. A \u2018polling station\u2019 is the room or\

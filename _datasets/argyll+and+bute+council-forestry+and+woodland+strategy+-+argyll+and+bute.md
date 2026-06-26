@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2019-12-11'
 date_updated: '2025-08-15'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Argyll and Bute Council
 notes: "<p>These Strategies are a requirement that has now been added into Town and\
   \ country Planning (Scotland) Act. http://www.legislation.gov.uk/asp/2019/13/part/4/crossheading/forestry-and-woodland-strategy/enacted\n\

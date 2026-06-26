@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2019-03-15'
 date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: South Ayrshire Council
 notes: <p>All local authorities must create a spatial framework assessment of land
   that is suitable for wind turbines. Scottish Planning Policy specifies that the

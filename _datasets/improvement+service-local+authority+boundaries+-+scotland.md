@@ -9,7 +9,7 @@ category:
 - Transportation
 date_created: '2021-06-11'
 date_updated: '2023-06-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Local government in Scotland comprises 32 unitary local authorities, which
   are responsible for the provision of a range of public services such as education,

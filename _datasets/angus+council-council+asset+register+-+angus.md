@@ -4,7 +4,7 @@ category:
 - Council and Government
 date_created: '2017-01-27'
 date_updated: '2025-08-15'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registers.</p>
 

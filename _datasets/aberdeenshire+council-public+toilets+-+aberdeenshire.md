@@ -4,7 +4,7 @@ category:
 - Tourism
 date_created: '2023-12-13'
 date_updated: '2024-09-10'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Locations and opperating hours of the Public Toilets</p>
 organization: Aberdeenshire Council

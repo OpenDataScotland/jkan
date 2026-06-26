@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2017-02-03'
 date_updated: '2023-07-11'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Cairngorms National Park Authority
 notes: '<p>Every local authority and National Park authority (access authorities)
   in Scotland is required to draw up a plan for a system of paths (core paths) sufficient

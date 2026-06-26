@@ -4,7 +4,7 @@ category:
 - Food and Environment
 date_created: '2016-05-24'
 date_updated: '2025-07-03'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Perth & Kinross Council
 notes: <p>PKC designated landscapes within Perth and Kinross which merit special attention,
   either because they are of particular value and warrant protection or because they

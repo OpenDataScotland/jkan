@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2024-06-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and unique ID of every registered
   General Practitioner Practice in Scotland has initially been supplied by Geoplace.

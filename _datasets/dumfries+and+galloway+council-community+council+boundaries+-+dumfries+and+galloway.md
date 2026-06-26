@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2016-05-24'
 date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Dumfries and Galloway Council
 notes: '<p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge

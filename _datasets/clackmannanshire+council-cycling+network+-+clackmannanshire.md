@@ -5,7 +5,7 @@ category:
 - Transportation
 date_created: '2017-11-13'
 date_updated: '2026-01-06'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Clackmannanshire Council
 notes: <p>Councils collect various datasets to do with their cycle network. These
   may contain cycle lanes (which are parts of roads) or cycle paths (distinct from

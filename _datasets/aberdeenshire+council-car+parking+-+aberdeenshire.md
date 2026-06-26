@@ -7,7 +7,7 @@ category:
 - Transportation
 date_created: '2017-11-13'
 date_updated: '2024-01-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
   \ we have tried to compile these into consistent national layers.</p>\n<p>Currently,\

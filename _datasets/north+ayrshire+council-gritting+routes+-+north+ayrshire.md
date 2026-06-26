@@ -4,8 +4,8 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2026-06-26'
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
   most important roads (and in some cases footpaths) and networks clear come bad winter
@@ -23,9 +23,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/gritting_routes-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS - Gritting Routes
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: WFS
+  name: Gritting Routes
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Gritting Routes - North Ayrshire
 ---

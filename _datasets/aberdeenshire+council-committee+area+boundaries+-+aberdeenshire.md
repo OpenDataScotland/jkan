@@ -4,7 +4,7 @@ category:
 - Planning and Development
 date_created: '2023-11-16'
 date_updated: '2024-11-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>Aberdeenshire Committee Area Boundaries\n Last Update: 12 Sep 2019\n Polygon</p>"
 organization: Aberdeenshire Council

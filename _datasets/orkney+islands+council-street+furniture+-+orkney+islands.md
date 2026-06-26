@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2017-01-27'
 date_updated: '2026-03-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
   \ Scotland's Roads\", effectively introducing a requirement on local authorities\

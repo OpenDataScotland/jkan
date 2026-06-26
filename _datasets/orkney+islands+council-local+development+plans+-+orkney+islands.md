@@ -5,7 +5,7 @@ category:
 - Sport and Leisure
 date_created: '2017-01-27'
 date_updated: '2023-10-17'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: <p>The Local Development Plan dataset is a composition of Local Development
   Plans supplied by local authorities and national parks in Scotland. It is intended

@@ -3,7 +3,7 @@ category:
 - Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2024-06-21'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
   by local authorities to areas of locally important nature and landscapes. NatureScot,

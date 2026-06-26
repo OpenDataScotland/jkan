@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2025-11-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>The Scottish Vacant and Derelict Land Survey is a national data collection\
   \ undertaken to establish the extent and state of vacant and derelict land in Scotland.\

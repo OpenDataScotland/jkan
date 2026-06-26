@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 date_created: '2023-10-30'
 date_updated: '2024-06-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>This dataset is a Scottish Fuel Poverty Index created in the summer of\
   \ 2023 by\n EDINA@University of Edinburgh as part of their student internship programme.\

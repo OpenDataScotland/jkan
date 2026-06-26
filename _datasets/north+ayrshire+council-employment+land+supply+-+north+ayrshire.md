@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2017-01-27'
 date_updated: '2024-02-29'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
   relation to economic development in Scotland. An Employment Land Audit is produced

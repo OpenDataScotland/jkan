@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2026-05-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>All local authorities will receive planning applications for renewable energy
   sites. Where local authorities have managed to categorise these in a structured

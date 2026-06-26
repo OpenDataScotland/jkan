@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 date_created: '2023-11-14'
 date_updated: '2024-02-26'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>There are in excess of 200 burial grounds in Aberdeenshire managed and\
   \ maintained by the council;\n Point Geometry;</p>"

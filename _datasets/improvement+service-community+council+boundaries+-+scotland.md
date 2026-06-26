@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2026-05-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge

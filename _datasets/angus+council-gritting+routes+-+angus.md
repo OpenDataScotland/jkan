@@ -5,7 +5,7 @@ category:
 - Transportation
 date_created: '2017-11-13'
 date_updated: '2025-07-22'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
   most important roads (and in some cases footpaths) and networks clear come bad winter

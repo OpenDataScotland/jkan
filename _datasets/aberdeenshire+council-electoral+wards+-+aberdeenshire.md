@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 date_created: '2024-11-18'
 date_updated: '2024-11-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Electoral Wards represent the areas serviced by councillors at local goverment
   level. There are 354 electoral wards, also known as multi-member wards, covering

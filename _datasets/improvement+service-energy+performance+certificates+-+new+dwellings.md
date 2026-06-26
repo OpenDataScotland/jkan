@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2026-04-17'
 date_updated: '2026-05-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>This dataset contains energy performance certificates for new dwellings\
   \ in Scotland. This dataset is a subset of a data extract from the Scottish Energy\

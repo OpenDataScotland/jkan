@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2021-11-23'
 date_updated: '2025-05-07'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: City of Edinburgh Council
 notes: "<p>TRAFFIC DATA - UPLOAD REQUIREMENTS FOR SPATIAL HUB</p>\n<p>This page summarises\
   \ larger scale traffic surveys conducted on behalf of the City of Edinburgh Council\

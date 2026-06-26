@@ -3,7 +3,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2026-04-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Town centres and other retail centres are defined by local authorities to
   meet the requirement of Scottish Planning Policy (paragraph 61) to identify town

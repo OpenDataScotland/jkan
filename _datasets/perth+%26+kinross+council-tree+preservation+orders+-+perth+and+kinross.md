@@ -7,7 +7,7 @@ category:
 - Planning and Development
 date_created: '2017-01-27'
 date_updated: '2026-01-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Perth & Kinross Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
   accurately. Users of this data should not assume this data is totally accurate and

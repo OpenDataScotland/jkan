@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2023-04-11'
 date_updated: '2025-07-25'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>This new building standards data has been created using a custom built
   ''Cloud Connector Framework'' which enables the automated collection of data from

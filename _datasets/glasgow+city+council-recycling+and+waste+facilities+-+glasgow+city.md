@@ -4,7 +4,7 @@ category:
 - Food and Environment
 date_created: '2017-11-14'
 date_updated: '2023-03-08'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Glasgow City Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
   facilities. Therefore we have tried to compile these into a consistent national

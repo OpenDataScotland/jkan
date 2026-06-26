@@ -8,7 +8,7 @@ category:
 - Sport and Leisure
 date_created: '2021-06-11'
 date_updated: '2026-05-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Each Local Authority should have a list of libraries within their Council
   area. These may be static i.e. located in one building all of the time, or mobile

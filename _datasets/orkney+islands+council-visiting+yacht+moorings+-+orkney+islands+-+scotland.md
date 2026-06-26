@@ -4,7 +4,7 @@ category:
 - Sport and Leisure
 date_created: '2024-04-11'
 date_updated: '2025-07-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: '<p>Visiting Yacht Moorings (VYM) are deployed by Orkney Islands Council. They
   are seasonal and only deployed approximately May-October. Note: some VYMs may also

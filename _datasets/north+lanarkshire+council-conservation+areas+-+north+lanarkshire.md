@@ -8,7 +8,7 @@ category:
 - Sport and Leisure
 date_created: '2017-01-27'
 date_updated: '2025-08-12'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: North Lanarkshire Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
   Act 1997 a local authority may determine which parts of its area are of special

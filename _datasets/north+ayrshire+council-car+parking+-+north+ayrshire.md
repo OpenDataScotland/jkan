@@ -6,8 +6,8 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2026-06-26'
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
   \ we have tried to compile these into consistent national layers.</p>\n<p>Currently,\
@@ -19,9 +19,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/car_parking-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS - Car Parks
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
+- format: WFS
+  name: Car Parking - updated URL
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Car Parking - North Ayrshire
 ---

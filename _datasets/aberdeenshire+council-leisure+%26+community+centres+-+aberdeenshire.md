@@ -4,7 +4,7 @@ category:
 - Sport and Leisure
 date_created: '2023-11-16'
 date_updated: '2024-02-26'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>Locations of Leisure, Sport &amp; Community Centres within Aberdeenshire.\n\
   \ Point Geometry</p>"

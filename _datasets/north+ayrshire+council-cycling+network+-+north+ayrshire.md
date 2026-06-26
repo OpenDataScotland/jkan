@@ -4,8 +4,8 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+date_updated: '2026-06-26'
+license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>Councils collect various datasets to do with their cycle network. These
   may contain cycle lanes (which are parts of roads) or cycle paths (distinct from
@@ -20,9 +20,9 @@ resources:
 - format: No file type
   name: Proposed cycle path
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS?
-- format: No file type
-  name: Spatial Hub WFS - Cycle Routes
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: WFS
+  name: Cycle Paths WFS
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default
 title: Cycling Network - North Ayrshire
 ---

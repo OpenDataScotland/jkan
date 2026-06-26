@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-12-18'
-date_updated: '2026-04-30'
+date_updated: '2026-06-22'
 license: No licence
 maintainer: Renfrewshire Council
 notes: '<p>Overview This feature service provides a comprehensive spatial dataset

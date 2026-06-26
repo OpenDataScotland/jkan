@@ -4,7 +4,7 @@ category:
 - Transportation
 date_created: '2024-10-07'
 date_updated: '2024-11-22'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Ramblers
 notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly available
   sources to create this path network dataset between 2019 and 2024. The Scottish

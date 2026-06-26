@@ -8,7 +8,7 @@ category:
 - Transportation
 date_created: '2026-01-12'
 date_updated: '2026-04-08'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: West of Scotland Archaeology Service
 notes: "<p>Five GIS layers derived from data held and maintained by the West of Scotland\
   \ Archaeology Service, on behalf of the Councils of Argyll &amp; Bute, East Ayrshire,\

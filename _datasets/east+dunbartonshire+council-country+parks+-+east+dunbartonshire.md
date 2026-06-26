@@ -5,7 +5,7 @@ category:
 - Sport and Leisure
 date_created: '2026-04-20'
 date_updated: '2026-04-20'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: East Dunbartonshire Council
 notes: "<p>Local authorities may designate country parks where they see a need, using\
   \ powers under Section 48 of the Countryside (Scotland) Act 1967. \n Country parks\

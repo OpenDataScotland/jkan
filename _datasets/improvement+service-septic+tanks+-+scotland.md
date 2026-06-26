@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2026-05-04'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>This dataset is an amalgamation of licenced SEPA, Scottish Water, Assessors
   and some Local Authorities Septic Tanks in Scotland.  Under section 79 of the Environmental

@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2016-05-24'
 date_updated: '2025-06-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: East Ayrshire Council
 notes: '<p>Community councils are required to be established by local authorities.
   They are the most local tier of statutory representation in Scotland. They bridge

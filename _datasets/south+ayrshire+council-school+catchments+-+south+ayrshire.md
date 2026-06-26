@@ -4,7 +4,7 @@ category:
 - Education
 date_created: '2016-05-24'
 date_updated: '2022-12-08'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: South Ayrshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
   \ and children living in a catchment area will usually go to the same local school.\

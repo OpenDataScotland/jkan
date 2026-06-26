@@ -5,7 +5,7 @@ category:
 - Planning and Development
 date_created: '2022-09-29'
 date_updated: '2024-06-27'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Low Emission Zones (LEZs) are designed to improve air quality and were introduced
   across Aberdeen, Dundee, Edinburgh and Glasgow.  Planning continues at a national

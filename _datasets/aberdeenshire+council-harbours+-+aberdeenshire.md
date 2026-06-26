@@ -5,7 +5,7 @@ category:
 - Transportation
 date_created: '2023-11-16'
 date_updated: '2024-02-26'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>Aberdeenshire Council are responsible for 7 harbours, 1 Commercial \u2013\
   \ Macduff and 6 Recreational, Banff, Portsoy, Rosehearty, Stonehaven, Gourdon &amp;\

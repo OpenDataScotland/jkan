@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2024-06-19'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>This dataset of the name, address, location and Unique Property Reference
   Number of every registered pharmacy in Scotland has been sourced from https://www.opendata.nhs.scot/dataset

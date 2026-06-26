@@ -3,7 +3,7 @@ category:
 - Uncategorised
 date_created: '2024-04-09'
 date_updated: '2025-07-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: <p>This is a line dataset depicting Indicative ferry routes for the ferries
   servicing the Orkney Islands. Routes are used by Orkney Ferries, Northlink and Pentland

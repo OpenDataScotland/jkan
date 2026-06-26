@@ -6,7 +6,7 @@ category:
 - Planning and Development
 date_created: '2021-06-11'
 date_updated: '2026-04-23'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Scottish Planning Policy sets out the Scottish Government's policies in
   relation to economic development in Scotland. An Employment Land Audit is produced

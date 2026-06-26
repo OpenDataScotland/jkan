@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 date_created: '2017-01-30'
 date_updated: '2026-01-30'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: '<p>An Article 4 Direction is a statement made under The Town and Country Planning
   (General Permitted Development) (Scotland) Amendment Order 2011. The Direction,

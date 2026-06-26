@@ -4,7 +4,7 @@ category:
 - Food and Environment
 date_created: '2022-02-24'
 date_updated: '2025-11-05'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Clackmannanshire Council
 notes: <p>Local authorities are large owners of land, much of it not captured on the
   current Land Registry due to it not changing hands in the last 40 years. Many do

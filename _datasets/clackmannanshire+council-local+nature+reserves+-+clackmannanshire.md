@@ -3,7 +3,7 @@ category:
 - Sport and Leisure
 date_created: '2016-05-24'
 date_updated: '2025-09-18'
-license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+license: 'Custom licence: Open'
 maintainer: Clackmannanshire Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
   \ heritage, designated and managed by local authorities to give people better opportunities\
