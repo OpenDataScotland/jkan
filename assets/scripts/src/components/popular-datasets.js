@@ -8,53 +8,36 @@ export default class PopularDatasets {
         this.getPopularDatasets(datasets);
     }
 
-    getPopularDatasetsViaCloudflare(currentClass, datasets) {
-        $.ajax({
-            url: 'https://popular-datasets.opendatascotland.workers.dev',
-            dataType: 'json',
-            success: function (data) {
-                currentClass.setPopularDatasets(data, datasets);
-            },
-            error: function (data) {
-                console.debug("Error:", data);
-            }
-        });
-    }
-
     getPopularDatasets(datasets) {
         var currentClass = this;        
         $.ajax({
-            url: 'https://plausible.io/api/stats/opendata.scot/pages?period=7d&filters={%22page%22:%22/datasets/**%22}&limit=99',
+            url: 'https://api.opendata.scot/stats/popular-datasets',
             dataType: 'json',
             success: function (data) {
                 currentClass.setPopularDatasets(data, datasets);                
             },
             error: function (data) {
                 console.debug("Error:", data);
-                currentClass.getPopularDatasetsViaCloudflare(currentClass, datasets);
             }
         });
     }
 
     setPopularDatasets(popularDatasets, datasets) {
-        const filteredPopularDatasets = popularDatasets.results.filter(x => x.name != "/datasets/");
-
-        const datasetNamesAndUrls = filteredPopularDatasets.map(popularDataset => {
-            const datasetMatch = datasets.filter(dataset => dataset.url == popularDataset.name);
+        const datasetNamesAndUrls = popularDatasets.map(popularDataset => {
+            const datasetMatch = datasets.filter(dataset => dataset.url == popularDataset.page);
             if (datasetMatch.length < 1) {
                 return null;
             }
 
             const datasetName = datasetMatch[0].title;
             const datasetOrg = datasetMatch[0].organization;
-            const datasetUrl = popularDataset.name;
+            const datasetUrl = popularDataset.page;
             const datasetVisits = popularDataset.visitors;
 
             return { datasetName, datasetOrg, datasetUrl, datasetVisits }
         })
 
-        const top5 = datasetNamesAndUrls.filter(x => x != null)
-            .slice(0, 5);
+        const top5 = datasetNamesAndUrls.filter(item => item !== null).slice(0, 5);
 
         const top5AsElements = top5.map(dataset => {
             var listElement = document.createElement("a");
