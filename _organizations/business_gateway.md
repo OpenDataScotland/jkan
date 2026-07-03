@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.bgateway.com/
 twitter_handle: bgateway
 wikidata_org_qid: Q5001727
-wdtk_id: 
+foi_exempt: true
 ---

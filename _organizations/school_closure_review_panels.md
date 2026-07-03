@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://scrp.scot/
 twitter_handle: 
 wikidata_org_qid: Q108837587
-wdtk_id: 
+wdtk_id: school_closure_review_panels_scotland
 ---

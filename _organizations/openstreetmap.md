@@ -12,6 +12,6 @@ twitter_handle: OpenStreetMap
 gss_code: ''
 wikidata_org_qid: 'Q936'
 wikidata_portal_qid: ''
-wdtk_id: ''
+foi_exempt: true
 portal_type: ''
 ---

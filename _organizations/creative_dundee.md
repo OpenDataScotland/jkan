@@ -11,6 +11,6 @@ twitter_handle: Creative_Dundee
 gss_code: 
 wikidata_org_qid: 
 wikidata_portal_qid: 
-wdtk_id: 
+foi_exempt: true
 portal_type: 
 ---

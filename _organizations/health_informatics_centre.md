@@ -11,6 +11,6 @@ twitter_handle: dataonamission
 gss_code: 
 wikidata_org_qid: Q85960890
 wikidata_portal_qid: 
-wdtk_id: 
+wdtk_id: university_of_dundee
 portal_type: 
 ---

@@ -11,5 +11,5 @@ twitter_handle: codethecity
 gss_code: ''
 wikidata_org_qid: 'Q97908064'
 wikidata_portal_qid: ''
-wdtk_id: ''
+foi_exempt: true
 ---

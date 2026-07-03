@@ -15,6 +15,6 @@ twitter_handle: CyclingScotland
 gss_code: ''
 wikidata_org_qid: Q113883477
 wikidata_portal_qid: Q113883431
-wdtk_id: ''
+foi_exempt: true
 portal_type: USMART
 ---

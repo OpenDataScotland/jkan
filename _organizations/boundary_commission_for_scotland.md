@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.bcomm-scotland.independent.gov.uk
 twitter_handle: bcommscot
 wikidata_org_qid: 
-wdtk_id: 
+wdtk_id: parliamentary_boundary_commission_for_scotland
 ---

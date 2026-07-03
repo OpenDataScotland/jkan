@@ -9,5 +9,5 @@ portal_url: ''
 org_url: https://www.ramblers.org.uk/scotland
 twitter_handle: 
 wikidata_org_qid: 
-wdtk_id: 
+foi_exempt: true
 ---

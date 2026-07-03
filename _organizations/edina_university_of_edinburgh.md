@@ -9,6 +9,6 @@ portal_url: 'https://datashare.is.ed.ac.uk/discover?filtertype=dsType&filter_rel
 org_url: 'https://edina.ac.uk'
 twitter_handle: 
 wikidata_org_qid: Q5322851
-wdtk_id: 
+wdtk_id: university_of_edinburgh
 portal_type: DSpace
 ---

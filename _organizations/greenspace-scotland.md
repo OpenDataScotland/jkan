@@ -14,6 +14,6 @@ twitter_handle: greenspacescot
 gss_code: ''
 wikidata_org_qid: Q30256906
 wikidata_portal_qid: ''
-wdtk_id: ''
+foi_exempt: true
 portal_type: ''
 ---

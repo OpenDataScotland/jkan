@@ -46,6 +46,9 @@ layout: default
           {% endif %} {% if page.wdtk_id and page.wdtk_id != empty %}
           <dt>WhatDoTheyKnow page</dt>
           <dd><a href="https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}">https://www.whatdotheyknow.com/body/{{ page.wdtk_id }}</a></dd>
+          {% elsif page.foi_exempt == true %}
+          <dt>FOI Exempt</dt>
+          <dd>This organization is exempt from Freedom of Information requests. <a href="https://www.whatdotheyknow.com/learn/understanding_rights#who-can-you-ask">Learn more</a></dd>
           {% endif %}
         </dl>
       </div>

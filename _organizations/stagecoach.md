@@ -11,6 +11,6 @@ twitter_handle: ''
 gss_code: ''
 wikidata_org_qid: Q660261
 wikidata_portal_qid: ''
-wdtk_id: ''
+foi_exempt: true
 portal_type: Bespoke
 ---

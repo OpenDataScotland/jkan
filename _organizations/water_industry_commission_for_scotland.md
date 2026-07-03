@@ -9,5 +9,5 @@ portal_url: ''
 org_url: http://www.watercommission.co.uk/
 twitter_handle: 
 wikidata_org_qid: Q7973305
-wdtk_id: 
+wdtk_id: the_water_industry_commission_for_scotland
 ---

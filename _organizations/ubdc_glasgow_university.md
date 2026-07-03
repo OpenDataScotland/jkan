@@ -9,6 +9,6 @@ portal_url: 'http://ubdc.gla.ac.uk/dataset'
 org_url: 'https://www.ubdc.ac.uk/'
 twitter_handle: 
 wikidata_org_qid: Q108836999
-wdtk_id: 
+foi_exempt: true
 portal_type: CKAN
 ---
