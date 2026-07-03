@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-12-01'
+date_updated: '2026-06-30'
 license: 'Custom licence: Open'
 maintainer: City of Edinburgh Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -25,6 +25,9 @@ resources:
 - format: REST
   name: Housing Land Audit schedule
   url: https://edinburghcouncilmaps.info/arcgis/rest/services/Misc/INSPIRE/MapServer/13
+- format: ZIP
+  name: Edinburgh HLA 2024-25
+  url: https://data.spatialhub.scot/dataset/013f88d3-8abe-4259-8485-58725b09c71d/resource/b14f32d3-82eb-4fa2-897e-992dad8c3912/download/hla_2025_schedules_-_with_prog_appno_edinburgh.zip
 schema: default
 title: Housing Land Supply - City of Edinburgh
 ---

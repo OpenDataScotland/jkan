@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2023-11-13'
-date_updated: '2026-06-24'
+date_updated: '2026-06-30'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>The Local Government Benchmarking Framework (LGBF) brings together a wide\
@@ -47,7 +47,7 @@ resources:
   url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/f79e1c75-f777-4a07-a704-1aca858a089f/download/metadata.csv
 - format: MS EXCEL
   name: LGBF Data Changelog
-  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/1a49125e-e373-4171-ba2c-62f3bee42a76/download/lgbfchangelog.csv
+  url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/1a49125e-e373-4171-ba2c-62f3bee42a76/download/lgbfchangelog.xlsx
 - format: CSV
   name: CPOP CPP Data.csv
   url: https://data.spatialhub.scot/dataset/9a3728b4-49ea-40af-ab10-fc0305bace84/resource/60b3b3e8-aed4-485b-9ac7-4c6092dc80cd/download/cpop-cpp-data.csv

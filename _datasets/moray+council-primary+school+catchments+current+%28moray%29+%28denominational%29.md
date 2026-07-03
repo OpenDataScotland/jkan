@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2017-07-10'
-date_updated: '2023-11-20'
+date_updated: '2026-06-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Moray Council
 notes: "<p>Primary School Catchments (Moray) (Denominational).\_ The zones  (catchment\
@@ -14,5 +14,5 @@ original_dataset_link: https://www.arcgis.com/home/item.html?id=bcf635b45e9044b0
 records: 4
 resources: []
 schema: default
-title: Primary School Catchments (Moray) (Denominational)
+title: Primary School Catchments Current (Moray) (Denominational)
 ---

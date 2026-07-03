@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-04-02'
-date_updated: '2026-04-02'
+date_updated: '2026-07-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: '<p><span style=''background-color:rgb(248,248,248); color:rgb(76,76,76); font-family:&quot;Avenir
@@ -14,8 +14,8 @@ notes: '<p><span style=''background-color:rgb(248,248,248); color:rgb(76,76,76);
   font-weight:400; letter-spacing:normal; text-align:start; text-decoration-color:initial;
   text-decoration-style:initial; text-indent:0px; text-transform:none; word-spacing:0px;''>This
   dataset provides a matrix of local authority housing stock, broken down by property
-  type and geographic area within the council boundary. This was added to ODP on 02/04/2026
-  This was last reviewed in 31/03/2026 This is regularly refreshed: Annually</span></span></p>'
+  type and geographic area within the council boundary. This was added to ODP on 03/07/2026
+  This was last reviewed in 30/06/2026 This is regularly refreshed: Quarterly</span></span></p>'
 organization: North Ayrshire Council
 original_dataset_link: https://maps-north-ayrshire.opendata.arcgis.com/datasets/north-ayrshire::housing-stock-2
 records: null

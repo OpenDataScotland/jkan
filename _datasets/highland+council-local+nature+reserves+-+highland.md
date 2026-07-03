@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2026-04-08'
+date_updated: '2026-07-02'
 license: 'Custom licence: Open'
 maintainer: Highland Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -20,7 +20,7 @@ records: null
 resources:
 - format: OTHER
   name: Local Nature Reserves Highland (from THCEU AGOL)
-  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/Local_Nature_Reserves_-_open_data/FeatureServer/0/query?outFields=*&where=1%3D1
+  url: https://services-eu1.arcgis.com/tc4hh050NPZgWq0B/arcgis/rest/services/Local_Nature_Reserves_-_open_data/FeatureServer
 schema: default
 title: Local Nature Reserves - Highland
 ---
