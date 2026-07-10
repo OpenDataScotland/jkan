@@ -9,7 +9,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2025-02-24'
-date_updated: '2026-02-03'
+date_updated: '2026-07-09'
 license: 'Custom licence: Restricted'
 maintainer: Crofting Commission
 notes: '<p>Decrofting is taking land out of crofting. This means that the land is
@@ -22,7 +22,7 @@ notes: '<p>Decrofting is taking land out of crofting. This means that the land i
   provides the actual polygons of decrofted areas with various details about status,
   type, date decrofted etc.</p>'
 organization: Crofting Commission
-original_dataset_link: https://data.spatialhub.scot/dataset/decrofted_areas-unknown
+original_dataset_link: https://data.spatialhub.scot/dataset/decrofted_areas-is
 records: null
 resources:
 - format: WFS

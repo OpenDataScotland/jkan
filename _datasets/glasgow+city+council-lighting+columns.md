@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2023-02-14'
-date_updated: '2023-02-14'
+date_updated: '2026-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Glasgow City Council
 notes: <p>Location of lighting columns maintained by Land and Environmental Services

@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-06-14'
-date_updated: '2026-05-29'
+date_updated: '2026-07-06'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: "<p>This planning application data has been created using a custom built 'Cloud\

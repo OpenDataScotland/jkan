@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2023-04-18'
+date_updated: '2026-07-10'
 license: 'Custom licence: Open'
 maintainer: Glasgow City Council
 notes: '<p>This dataset now contains revoked AQMAs.</p>
@@ -19,6 +19,9 @@ resources:
 - format: WFS
   name: Air Quality Management Areas
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/services/OPEN_DATA/Air_Quality_Management_Areas/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: Glasgow_Air_Quality_Management_Areas.zip
+  url: https://data.spatialhub.scot/dataset/01b5db16-5af7-4a0a-bc8b-1c786df4e6f4/resource/13d22ada-92fe-431b-b7fc-a703bee7c84e/download/glasgow_air_quality_management_areas.zip
 schema: default
 title: Air Quality Management Areas - Glasgow City
 ---

@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-04-02'
-date_updated: '2026-04-02'
+date_updated: '2026-07-10'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p><span style='background-color:rgb(255,255,255); color:rgb(74,74,74); font-family:&quot;Avenir

@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2025-07-25'
+date_updated: '2026-07-08'
 license: 'Custom licence: Open'
 maintainer: Falkirk Council
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -22,6 +22,9 @@ resources:
 - format: REST
   name: Housing Land Audit 2024-2025
   url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/ArcGIS/rest/services/HLA_24_25/FeatureServer/0
+- format: ZIP
+  name: Falkirk HLA 2025-26
+  url: https://data.spatialhub.scot/dataset/e4a4bbb8-bcd8-43ee-817a-dd65fa8e0b1b/resource/8b90f1ef-3efe-4212-9500-336b05ab784a/download/exporthla_noncont25-26.zip
 schema: default
 title: Housing Land Supply - Falkirk
 ---

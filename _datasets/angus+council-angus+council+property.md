@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-12-13'
-date_updated: '2024-01-31'
+date_updated: '2026-07-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Angus Council
 notes: <p>Properties that Angus Council owns or occupies or has owned or occupied
@@ -25,6 +25,9 @@ resources:
 - format: No file type
   name: wms-for-angus-council-property.wms
   url: https://opendata.angus.gov.uk/dataset/0d1b1f69-fc42-4206-9771-3f436fe5b315/resource/ca4905bb-8961-4ada-bcd0-68d5921755e2/download/wms-for-angus-council-property.wms
+- format: PDF
+  name: pdf_for_angus_council_properties.pdf
+  url: https://opendata.angus.gov.uk/dataset/0d1b1f69-fc42-4206-9771-3f436fe5b315/resource/4c2959e5-613d-4805-bc9a-dbca39d5ee04/download/angus_council_properties.pdf
 schema: default
 title: Angus Council Property
 ---

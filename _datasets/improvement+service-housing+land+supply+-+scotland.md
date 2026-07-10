@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-03-17'
+date_updated: '2026-07-10'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Local authorities are required to conduct an annual survey of the housing
@@ -29,9 +29,6 @@ resources:
 - format: WFS
   name: 'Housing Land Supply '
   url: https://geo.spatialhub.scot/geoserver/sh_hls/wfs?service=wfs&typeName=sh_hls:pub_hls
-- format: WFS
-  name: 'Housing Land Supply 2022-23 '
-  url: https://geo.spatialhub.scot/geoserver/sh_hls/wfs?service=wfs&typeName=sh_hls:pub_hls22to23
 schema: default
 title: Housing Land Supply - Scotland
 ---

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-04-27'
+date_updated: '2026-07-10'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>A council\_development plan may designate a green belt around a city or\
