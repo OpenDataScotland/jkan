@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2019-03-26'
-date_updated: '2026-06-10'
+date_updated: '2026-07-14'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This dataset contains the location and contact details for all dispensers
@@ -148,6 +148,9 @@ resources:
 - format: CSV
   name: Dispenser Details January 2016
   url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/d343e152-c147-4dc1-95ba-26273d2824a1/download/dispenser_contactdetails_jan2016.csv
+- format: CSV
+  name: 'Dispenser Details - April 2026 '
+  url: https://www.opendata.nhs.scot/dataset/a30fde16-1226-49b3-b13d-eb90e39c2058/resource/c702a226-a084-4744-b513-17515b3d5950/download/dispenser_contactdetails_202604.csv
 schema: default
 title: Dispenser Location Contact Details
 ---

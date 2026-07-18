@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-04-27'
+date_updated: '2026-07-14'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Town centres and other retail centres are defined by local authorities to

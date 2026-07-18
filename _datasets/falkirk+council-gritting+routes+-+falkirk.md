@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-08-01'
+date_updated: '2026-07-15'
 license: 'Custom licence: Open'
 maintainer: Falkirk Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -24,11 +24,11 @@ original_dataset_link: https://data.spatialhub.scot/dataset/gritting_routes-fa
 records: null
 resources:
 - format: REST
-  name: Footway Gritting Routes
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/ArcGIS/rest/services/Falkirk_Footway_Gritting_Routes_Lines/FeatureServer
+  name: Gritting Routes - Footways
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/ArcGIS/rest/services/Falkirk_Footway_Gritting_Routes/FeatureServer
 - format: REST
-  name: Road Gritting Routes
-  url: https://services5.arcgis.com/2A1rJB9Piphr2k5E/ArcGIS/rest/services/Falkirk_Road_Gritting_Routes_Lines/FeatureServer
+  name: Gritting Routes - Roads
+  url: https://services-eu1.arcgis.com/ejHeInmA8D8R9Vok/ArcGIS/rest/services/Falkirk_Road_Gritting_Routes/FeatureServer
 schema: default
 title: Gritting Routes - Falkirk
 ---

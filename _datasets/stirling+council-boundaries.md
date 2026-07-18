@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: '2025-01-29'
-date_updated: '2026-05-16'
+date_updated: '2026-07-16'
 license: No licence
 maintainer: Stirling Council
 notes: <p>datazones, census output areas, community councils, and base geographies</p>

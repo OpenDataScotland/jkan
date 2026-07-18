@@ -27,42 +27,42 @@ notes: "<div>What OS Open UPRN provides you with:</div>\n<div><br /></div>\n<div
   \ is never re-used, allowing you to confidently manage associated information to\
   \ an address.</li></ul></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-os-open-uprn-for-clackmannanshire
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::os-open-uprn-for-stirling-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-os-open-uprn-for-clackmannanshire
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::os-open-uprn-for-stirling-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_os_openuprn_clacks/FeatureServer/0
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_os_openuprn_stirling/FeatureServer/0
 - format: CSV
   name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/csv?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/csv?layers=0
 - format: ZIP
   name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/shapefile?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/shapefile?layers=0
 - format: GEOJSON
   name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/geojson?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/geojson?layers=0
 - format: KML
   name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/kml?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/kml?layers=0
 - format: ZIP
   name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/filegdb?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/filegdb?layers=0
 - format: TXT
   name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/featureCollection?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/featureCollection?layers=0
 - format: MS EXCEL
   name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/excel?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/excel?layers=0
 - format: GPKG
   name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/geoPackage?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/geoPackage?layers=0
 - format: GDB
   name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/ecf0d6a30d424d39ac1abbdb05332e32/sqlite?layers=0
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/cb7e3badb3f9481cbb96be344c8d339e/sqlite?layers=0
 schema: default
-title: Open data - os open uprn for clackmannanshire
+title: Os open uprn for stirling - open data
 ---

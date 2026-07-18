@@ -2,34 +2,40 @@
 category:
 - Council and Government
 - Elections / Politics
-- Law and Licensing
-date_created: '2025-01-22'
-date_updated: '2025-01-22'
+- Planning and Development
+date_created: '2023-10-16'
+date_updated: '2023-10-16'
 license: No licence
 maintainer: South Ayrshire Council
-notes: <p>Map service containing all datasets made available through INSPIRE licensing</p>
+notes: <p>Areas depicting community council boundaries for South Ayrshire</p>
 organization: South Ayrshire Council
-original_dataset_link: https://maps-southayrshire.opendata.arcgis.com/datasets/6617187b27a643ecba222a96c9375831_23
+original_dataset_link: https://maps-southayrshire.opendata.arcgis.com/datasets/f84aa404a9de4aa7971d6db12f386a9a_23
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://maps-southayrshire.opendata.arcgis.com/datasets/6617187b27a643ecba222a96c9375831_23
+  url: https://maps-southayrshire.opendata.arcgis.com/datasets/f84aa404a9de4aa7971d6db12f386a9a_23
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/GW28l5eWXBvF6Gw5/arcgis/rest/services/OpenData/FeatureServer/23
+  url: https://gisext.south-ayrshire.gov.uk/server/rest/services/Inspire/OpenData/MapServer/23
+- format: OGC WFS
+  name: OGC WFS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: OGC WMS
+  name: OGC WMS
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WMSServer?request=GetCapabilities&service=WMS
 - format: CSV
   name: CSV
-  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/6617187b27a643ecba222a96c9375831/csv?layers=23
+  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/f84aa404a9de4aa7971d6db12f386a9a/csv?layers=23
 - format: ZIP
   name: Shapefile
-  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/6617187b27a643ecba222a96c9375831/shapefile?layers=23
+  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/f84aa404a9de4aa7971d6db12f386a9a/shapefile?layers=23
 - format: GEOJSON
   name: GeoJSON
-  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/6617187b27a643ecba222a96c9375831/geojson?layers=23
+  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/f84aa404a9de4aa7971d6db12f386a9a/geojson?layers=23
 - format: KML
   name: KML
-  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/6617187b27a643ecba222a96c9375831/kml?layers=23
+  url: https://maps-southayrshire.opendata.arcgis.com/api/download/v1/items/f84aa404a9de4aa7971d6db12f386a9a/kml?layers=23
 schema: default
 title: Community Councils
 ---
