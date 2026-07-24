@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2026-07-20'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -28,6 +28,9 @@ resources:
 - format: No file type
   name: Spatial Hub WFS - Community Councils
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer
+- format: REST
+  name: Community Councils
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/FeatureServer/9
 schema: default
 title: Community Council Boundaries - North Ayrshire
 ---

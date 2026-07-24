@@ -5,12 +5,12 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2022-06-20'
-date_updated: '2026-06-23'
+date_updated: '2026-07-24'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
-notes: <p><span style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
+notes: <p><span style="font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next
   W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif;
-  font-size:16px;'>Trees, groups of trees, woodlands and areas of trees that have
+  font-size:16px;">Trees, groups of trees, woodlands and areas of trees that have
   been afforded the statutory protection of a Tree Preservation Order.</span></p>
 organization: City of Edinburgh Council
 original_dataset_link: https://city-of-edinburgh-council-open-spatial-data-cityofedinburgh.hub.arcgis.com/datasets/cityofedinburgh::tree-preservation-orders

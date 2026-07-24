@@ -3,10 +3,10 @@ category:
 - Uncategorised
 date_created: '2026-07-15'
 date_updated: '2026-07-15'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <div style='text-align:Left;font-size:12pt'><p><span>Shared Use Footway</span><span>.
-  Used by cyclists &amp; pedestians</span></p></div>
+notes: <div style='font-size:12pt; text-align:Left;'><p><span>Shared Use Footway.
+  Used by cyclists &amp; pedestrians</span></p></div>
 organization: Perth & Kinross Council
 original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::shared-use-footway-open-data
 records: null

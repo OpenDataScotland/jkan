@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2023-04-11'
+date_updated: '2026-07-22'
 license: 'Custom licence: Open'
 maintainer: Stirling Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -40,6 +40,9 @@ resources:
 - format: REST
   name: Polling Districts 2022
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/Stirling_Council_Polling_Districts_2022/FeatureServer
+- format: REST
+  name: Polling District 2023
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/stirling_council_polling_districts/FeatureServer/1
 schema: default
 title: Polling Districts - Stirling
 ---

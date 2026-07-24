@@ -105,7 +105,7 @@ resources:
   name: "Attainment Statistics (August) 2020\_Revised\_Notes"
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_2020_Revised_Notes.pdf
 - format: PDF
-  name: SQA Chief Examining Officer's '2020 National Qualifications Results' Report
+  name: Chief Examining Officer's '2020 National Qualifications Results' Report
   url: https://www.sqa.org.uk/sqa/files_ccc/SQAChiefExaminingOfficer2020NQReportRevised.pdf
 - format: MS EXCEL
   name: Attainment Statistics (August) 2020 Male

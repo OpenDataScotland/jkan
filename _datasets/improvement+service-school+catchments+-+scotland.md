@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Education
 date_created: '2021-06-11'
-date_updated: '2025-11-14'
+date_updated: '2026-07-20'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>Scottish local authorities usually divide towns and country areas into

@@ -3,18 +3,18 @@ category:
 - Transportation
 date_created: '2026-07-15'
 date_updated: '2026-07-15'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
-notes: <div style='text-align:Left;font-size:12pt'><p><span>The National Cycle Network
+notes: <div style="text-align:Left; font-size:12pt;"><p><span>The National Cycle Network
   is a UK-wide network of signed paths and routes for walking, wheeling, cycling and
   exploring outdoors</span></p></div>
 organization: Perth & Kinross Council
-original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::national-cycle-network-open-data
+original_dataset_link: https://data.pkc.gov.uk/datasets/perth-kinross::national-cycle-network-within-perth-and-kinross-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data.pkc.gov.uk/datasets/perth-kinross::national-cycle-network-open-data
+  url: https://data.pkc.gov.uk/datasets/perth-kinross::national-cycle-network-within-perth-and-kinross-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/National_Cycle_Network/FeatureServer/86
@@ -46,5 +46,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data.pkc.gov.uk/api/download/v1/items/a2b22e057c404adfa267366baaca2efa/sqlite?layers=86
 schema: default
-title: National Cycle Network (open data)
+title: National Cycle Network within Perth and Kinross (open data)
 ---

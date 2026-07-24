@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Planning and Development
 date_created: '2023-02-23'
-date_updated: '2025-09-09'
+date_updated: '2026-07-20'
 license: No licence
 maintainer: Stirling Council
 notes: <p>View additional information and resources. Planning Place Profiles, SIMD,

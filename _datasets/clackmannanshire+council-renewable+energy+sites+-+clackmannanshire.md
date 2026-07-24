@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2025-09-18'
+date_updated: '2026-07-24'
 license: 'Custom licence: Open'
 maintainer: Clackmannanshire Council
 notes: <p>Many local authorities collect details of where the renewable energy sites
@@ -22,11 +22,14 @@ resources:
   name: Solar Energy Sites
   url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Solar_Energy_Sites
 - format: WFS
-  name: Wind Energy Sites
-  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Wind_Energy_Sites
-- format: WFS
   name: Hyrdo Energy Sites
   url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typenames=ns:Hydro_Energy_Sites
+- format: WFS
+  name: Wind Energy Sites
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities
+- format: WFS
+  name: Wind Turbines (points)
+  url: https://clacks.cloud.cadcorp.com/WFS91/wfs.exe?&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetCapabilities
 schema: default
 title: Renewable Energy Sites - Clackmannanshire
 ---

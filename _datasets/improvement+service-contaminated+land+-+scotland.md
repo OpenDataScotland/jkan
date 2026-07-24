@@ -6,7 +6,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-07-06'
+date_updated: '2026-07-22'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>Land is legally defined as 'contaminated' where substances are causing\
@@ -31,8 +31,8 @@ notes: "<p>Land is legally defined as 'contaminated' where substances are causin
   \ by the Contaminated Land (Scotland) Regulations 2000 (SSI 2000/178), as amended\
   \ and the Scottish Government\u2019s Statutory Guidance: Edition 2 provides the\
   \ detailed framework for the definition, identification and remediation of contaminated\
-  \ land.  THIS SPATIAL DATASET IS ONLY CONFIRMED (AND REMEDIATED) CONTAMINATED LAND\
-  \ AND DOES NOT INCLUDE 'POTENTIALLY' CONTAMINATED LAND.</p>"
+  \ land.  This spatial dataset is only confirmed (and remediated) contaminated land\
+  \ and does not include \"potentially\" contaminated land.</p>"
 organization: Improvement Service
 original_dataset_link: https://data.spatialhub.scot/dataset/contaminated_land-is
 records: null

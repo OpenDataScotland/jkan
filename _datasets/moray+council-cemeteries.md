@@ -8,12 +8,12 @@ license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version
 maintainer: Moray Council
 notes: <p>Details of name, location and whether Moray Council owned</p>
 organization: Moray Council
-original_dataset_link: http://www.moray.gov.uk/moray_standard/page_110140.html
+original_dataset_link: https://www.moray.gov.uk/a-z-of-online-forms/open-data/
 records: 80
 resources:
 - format: CSV
   name: CSV
-  url: http://www.moray.gov.uk/OpenData/Files/Cemeteries.csv
+  url: https://www.moray.gov.uk/media/1zsepkxn/cemeteries.csv
 schema: default
 title: Cemeteries
 ---

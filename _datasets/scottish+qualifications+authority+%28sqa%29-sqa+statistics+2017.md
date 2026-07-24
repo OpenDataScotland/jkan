@@ -107,7 +107,7 @@ resources:
   name: Attainment Statistics (August) 2017
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_2017.xls
 - format: PDF
-  name: SQA Chief Examining Officer's '2017 National Qualifications Results' Report
+  name: Chief Examining Officer's '2017 National Qualifications Results' Report
   url: https://www.sqa.org.uk/sqa/files_ccc/sqachiefexaminingofficer2017nqreport.pdf
 - format: MS EXCEL
   name: Attainment Statistics (August) 2017 Male

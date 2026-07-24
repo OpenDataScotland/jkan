@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2017-11-08'
-date_updated: '2026-06-29'
+date_updated: '2026-07-21'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Scottish legislation (Section 17) of the Flood Risk Management (Scotland)
@@ -58,9 +58,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/culverts-na
 records: null
 resources:
-- format: WFS
-  name: Culvert Points
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Culverts & Bridge Structures
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Road_Information_2/FeatureServer
 schema: default
 title: Culverts - North Ayrshire
 ---

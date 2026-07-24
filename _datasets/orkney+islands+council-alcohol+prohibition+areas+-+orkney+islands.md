@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2026-03-23'
+date_updated: '2026-07-20'
 license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking

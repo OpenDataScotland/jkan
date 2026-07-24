@@ -3,7 +3,7 @@ category:
 - Transportation
 date_created: '2026-07-15'
 date_updated: '2026-07-15'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Cycle routes separated
   from roads</span></p></div>

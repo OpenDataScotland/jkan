@@ -10,7 +10,7 @@ notes: <p>Established Business &amp; Industry Areas designated in the Argyll and
   adopted Local Development Plan 2</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=31aedc34848e4c3e8eb6d846ffb5d3b7
-records: null
+records: 59
 resources: []
 schema: default
 title: LDP2 Established Business Industry Areas

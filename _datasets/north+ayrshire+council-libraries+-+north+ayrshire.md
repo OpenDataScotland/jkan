@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-11-13'
-date_updated: '2022-10-27'
+date_updated: '2026-07-22'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Each Local Authority should have a list of libraries within their Council
@@ -24,9 +24,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/libraries-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS - Libraries
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Libraries
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/FeatureServer/1
 schema: default
 title: Libraries - North Ayrshire
 ---

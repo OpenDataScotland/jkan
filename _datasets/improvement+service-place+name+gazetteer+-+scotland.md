@@ -5,7 +5,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2022-10-25'
-date_updated: '2026-07-06'
+date_updated: '2026-07-22'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: "<p>Place-names represent a fundamental geographical identifier, which also\

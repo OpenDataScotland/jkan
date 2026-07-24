@@ -2,7 +2,7 @@
 category:
 - Education
 date_created: '2023-11-16'
-date_updated: '2024-12-06'
+date_updated: '2026-07-20'
 license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: <p>Locations of Primary &amp; Secondary Schools within Aberdeenshire</p>

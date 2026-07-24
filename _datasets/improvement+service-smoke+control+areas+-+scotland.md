@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2021-06-11'
-date_updated: '2026-04-23'
+date_updated: '2026-07-22'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are declared

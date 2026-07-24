@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Parks / Recreation
 date_created: '2019-11-20'
-date_updated: '2026-02-09'
+date_updated: '2026-07-22'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Forestry
 notes: <p>The Dedication Scheme (Basis I &amp; II) was introduced in 1947 in order

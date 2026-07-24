@@ -20,12 +20,12 @@ notes: '<div><div><b>This dataset is published as Open Data</b></div><div><br />
   <div>St Modan''s High School, a denominational school, catchment covers the Stirling
   Council area.<br /></div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-secondary-school-catchment-areas
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::secondary-school-catchment-areas-open-data
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::open-data-secondary-school-catchment-areas
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::secondary-school-catchment-areas-open-data
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/open_data_secondary_school_catchments/FeatureServer/0
@@ -57,5 +57,5 @@ resources:
   name: SQLite Geodatabase
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/1573b1ccc6704279ad7b04df7c9ece96/sqlite?layers=0
 schema: default
-title: Open data - secondary school catchment areas
+title: Secondary school catchment areas - open data
 ---

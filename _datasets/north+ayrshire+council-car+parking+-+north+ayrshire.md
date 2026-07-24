@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2026-06-26'
+date_updated: '2026-07-20'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -19,9 +19,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/car_parking-na
 records: null
 resources:
-- format: WFS
-  name: Car Parking - updated URL
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal4/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Car Parking Polygons
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Road_Information_2/FeatureServer/
 schema: default
 title: Car Parking - North Ayrshire
 ---

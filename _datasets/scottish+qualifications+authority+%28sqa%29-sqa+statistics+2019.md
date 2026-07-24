@@ -141,7 +141,7 @@ resources:
   name: Attainment Statistics (August) 2019
   url: https://www.sqa.org.uk/sqa/files_ccc/Attainment_Statistics_(August)_2019.xls
 - format: PDF
-  name: "SQA Chief Examining Officer's 2019\_National Qualifications Results"
+  name: "Chief Examining Officer's 2019\_National Qualifications Results"
   url: https://www.sqa.org.uk/sqa/files_ccc/SQAChiefExaminingOfficer2019NQReport.pdf
 - format: MS EXCEL
   name: Attainment Statistics (August) 2019 Male
