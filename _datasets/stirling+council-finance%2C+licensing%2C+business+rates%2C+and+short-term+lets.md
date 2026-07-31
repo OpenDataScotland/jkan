@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Transportation
 date_created: '2023-02-27'
-date_updated: '2026-05-16'
+date_updated: '2026-07-29'
 license: No licence
 maintainer: Stirling Council
 notes: <p>payments to suppliers, licensed premises, business rates, short-term lets,

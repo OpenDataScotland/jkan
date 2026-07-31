@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-06-14'
-date_updated: '2026-05-04'
+date_updated: '2026-07-30'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: <p>All local authorities will receive planning applications for renewable energy

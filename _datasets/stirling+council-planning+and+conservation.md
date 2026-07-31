@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2023-02-27'
-date_updated: '2026-07-23'
+date_updated: '2026-07-31'
 license: No licence
 maintainer: Stirling Council
 notes: <p>planning, archaeology, conservation areas, historic and listed buildings,

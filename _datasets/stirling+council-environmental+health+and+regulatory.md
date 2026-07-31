@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Health and Social Care
 date_created: '2024-06-26'
-date_updated: '2026-05-16'
+date_updated: '2026-07-30'
 license: No licence
 maintainer: Stirling Council
 notes: <p>penalty charges, alcohol prohibition areas, private water supplies, pollution,

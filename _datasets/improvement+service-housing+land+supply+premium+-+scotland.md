@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-06-14'
-date_updated: '2026-03-17'
+date_updated: '2026-07-29'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: <p>Local authorities are required to conduct an annual survey of the housing

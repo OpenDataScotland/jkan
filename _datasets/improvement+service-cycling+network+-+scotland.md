@@ -2,7 +2,7 @@
 category:
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-04-27'
+date_updated: '2026-07-30'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>Many local authorities capture details of the cycle network within their\

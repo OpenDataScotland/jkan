@@ -3,7 +3,7 @@ category:
 - Education
 - Transportation
 date_created: '2023-02-27'
-date_updated: '2026-07-23'
+date_updated: '2026-07-31'
 license: No licence
 maintainer: Stirling Council
 notes: <p>schools, catchments, class sizes, attendance, free school meals, and travel

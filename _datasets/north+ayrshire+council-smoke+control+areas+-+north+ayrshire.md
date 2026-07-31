@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2026-07-28'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Under Section 18 of the Clean Air Act 1993, many parts of Scotland are
@@ -27,6 +27,9 @@ resources:
 - format: No file type
   name: Spatial Hub WFS - Smoke Control Areas
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: ZIP
+  name: North Ayrshire Smoke Control Areas
+  url: https://data.spatialhub.scot/dataset/94efeda9-cca5-481f-8102-0a37634bc1af/resource/e2430769-ac6d-40c7-a967-99cf2bea7ba8/download/smoke_control_areas.zip
 schema: default
 title: Smoke Control Areas - North Ayrshire
 ---

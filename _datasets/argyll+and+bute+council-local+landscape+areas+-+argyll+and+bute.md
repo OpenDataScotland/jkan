@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2025-08-15'
+date_updated: '2026-07-29'
 license: 'Custom licence: Open'
 maintainer: Argyll and Bute Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -29,6 +29,9 @@ resources:
 - format: OTHER
   name: Local Landscape Areas
   url: https://data-argyll-bute.opendata.arcgis.com/datasets/4bf09efaf95e4afe9d0bf60986fa9af0_0/explore
+- format: REST
+  name: Local Landscape Areas - Argyll and Bute
+  url: https://services3.arcgis.com/P9TS3kr70SK8tJXs/ArcGIS/rest/services/PLDP2_EX20_APQ/FeatureServer
 schema: default
 title: Local Landscape Areas - Argyll and Bute
 ---

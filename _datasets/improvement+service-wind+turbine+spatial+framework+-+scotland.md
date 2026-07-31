@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-17'
-date_updated: '2026-07-06'
+date_updated: '2026-07-30'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>This dataset contains areas classified by their suitability for onshore

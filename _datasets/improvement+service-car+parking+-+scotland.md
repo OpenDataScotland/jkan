@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-04-16'
+date_updated: '2026-07-30'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>Most councils keep records of their car parks, bays and zones, including
