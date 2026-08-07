@@ -3,7 +3,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-02-12'
-date_updated: '2026-07-30'
+date_updated: '2026-08-02'
 license: No licence
 maintainer: Stirling Council
 notes: <p>housing stock, property assets and estates, allocations, hmo licencing,

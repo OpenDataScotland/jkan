@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2023-02-22'
-date_updated: '2026-07-25'
+date_updated: '2026-08-02'
 license: No licence
 maintainer: Stirling Council
 notes: <p>about, funding, and the scottish cities alliance</p>

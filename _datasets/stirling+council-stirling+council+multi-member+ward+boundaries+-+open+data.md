@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2026-02-07'
-date_updated: '2026-02-07'
+date_updated: '2026-08-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: '<div><div>Boundaries Scotland is responsible for reviewing and making recommendations

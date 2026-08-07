@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Housing and Estates
 date_created: '2026-05-10'
-date_updated: '2026-07-03'
+date_updated: '2026-08-05'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>Extract of electronic burial records for the historic Top of the Town\
@@ -46,6 +46,21 @@ resources:
 - format: KML
   name: KML
   url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/kml?layers=0
+- format: ZIP
+  name: File Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/filegdb?layers=0
+- format: TXT
+  name: Feature Collection
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/featureCollection?layers=0
+- format: MS EXCEL
+  name: Excel
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/excel?layers=0
+- format: GPKG
+  name: GeoPackage
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/geoPackage?layers=0
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/2822052813b54131a43dec5b9b510b5e/sqlite?layers=0
 schema: default
 title: Top of the town cemeteries (burial records) - open data
 ---

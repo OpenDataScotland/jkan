@@ -9,7 +9,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2023-08-06'
-date_updated: '2026-03-10'
+date_updated: '2026-08-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>This app is published as Open Data, is the most recent, and replaces\

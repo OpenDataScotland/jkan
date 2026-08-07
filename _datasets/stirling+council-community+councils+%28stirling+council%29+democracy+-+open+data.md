@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2024-07-06'
-date_updated: '2026-03-11'
+date_updated: '2026-08-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>This dataset is published as Open Data and replaces all previously\

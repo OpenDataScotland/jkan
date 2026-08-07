@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Housing and Estates
 date_created: '2025-04-02'
-date_updated: '2026-07-03'
+date_updated: '2026-08-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>Extract of electronic burial records for All Cemeteries managed and maintained\

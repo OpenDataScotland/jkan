@@ -6,7 +6,7 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-07-22'
+date_updated: '2026-08-03'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>Land is legally defined as 'contaminated' where substances are causing\

@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2024-11-04'
-date_updated: '2026-07-07'
+date_updated: '2026-08-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This release by Public Health Scotland (PHS), provides a monthly update
@@ -20,16 +20,16 @@ records: null
 resources:
 - format: CSV
   name: Primary Care Out of Hours (PC OOH) Monthly Average Consultations
-  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/3e86b6fb-2062-4f05-8f4d-0bb001155d64/download/opendata_average_pcooh_type_2015-2019_2026-05-31.csv
+  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/3e86b6fb-2062-4f05-8f4d-0bb001155d64/download/opendata_average_pcooh_type_2015-2019_june.csv
 - format: CSV
   name: Primary Care Out of Hours (PC OOH) Daily Contacts
-  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/1427474e-fc53-421c-baae-36a62738da49/download/opendata_monthly_pcooh_daily_2026-05-31.csv
+  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/1427474e-fc53-421c-baae-36a62738da49/download/opendata_monthly_pcooh_daily_2026-06-30.csv
 - format: CSV
   name: Primary Care Out of Hours (PC OOH) Monthly Contacts
-  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/5d0cdb98-7480-415e-b747-e93002eaeb8e/download/opendata_monthly_pcooh_monthly_2026-05-31.csv
+  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/5d0cdb98-7480-415e-b747-e93002eaeb8e/download/opendata_monthly_pcooh_monthly_2026-06-30.csv
 - format: CSV
   name: Primary Care Out of Hours (PC OOH) Consultation Type
-  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/38f813ec-efaa-42fc-bde6-b21339583bf7/download/opendata_monthly_pcooh_type_2026-05-31.csv
+  url: https://www.opendata.nhs.scot/dataset/4d682149-6a79-40ce-b8e3-9f0bb0e676ac/resource/38f813ec-efaa-42fc-bde6-b21339583bf7/download/opendata_monthly_pcooh_type_2026-06-30.csv
 schema: default
 title: Primary Care Out Of Hours
 ---
