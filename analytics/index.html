@@ -7,8 +7,10 @@ permalink: /analytics/
 
 <!--Commentary-->
 <h2>Dataset Overview</h2>
-<p class="lead" style="margin-bottom:0"><span id="stat-distinct-datasets"></span> Distinct datasets</p>
-<p class="lead" style="margin-bottom:0"><span id="stat-data-files"></span> Data files</p>
+<p class="lead" style="margin-bottom:0">
+        <span id="stat-distinct-datasets"></span> Distinct datasets</p>
+<p class="lead" style="margin-bottom:0">
+        <span id="stat-data-files"></span> Data files</p>
 
 <!--Chart: Unique datasets by org-->
 <canvas id="chart-datasets-by-org" width="400" height="200"></canvas>
@@ -18,106 +20,198 @@ permalink: /analytics/
 
 <script>
         document.addEventListener('DOMContentLoaded', () => {
+                Chart
+                        .plugins
+                        .register(barValueLabelPlugin);
+
+                const datasetCanvas = document.getElementById('chart-datasets-by-org');
+                const datafilesCanvas = document.getElementById('chart-datafiles-by-org');
 
                 // loading the datasets data
                 $.getJSON('/datasets.json', function (datasets) {
                         // Getting count of data files
-                        document.getElementById("stat-data-files").innerText = datasets.flatMap(ds => ds.resources).length;
+                        document
+                                .getElementById("stat-data-files")
+                                .innerText = datasets
+                                .flatMap(ds => ds.resources)
+                                .length;
 
                         // Getting count of datasets
-                        document.getElementById("stat-distinct-datasets").innerHTML = datasets.length;
+                        document
+                                .getElementById("stat-distinct-datasets")
+                                .innerHTML = datasets.length;
+
+                        const organisationCount = _
+                                .chain(datasets)
+                                .groupBy('organization')
+                                .keys()
+                                .value()
+                                .length;
 
                         // Load charts
-                        chartDatasetsByOrg(datasets);
-                        chartDataFilesByOrg(datasets);
+                        chartDatasetsByOrg(datasets, datasetCanvas);
+                        chartDataFilesByOrg(datasets, datafilesCanvas);
                 });
         });
 
-
-        function chartDatasetsByOrg(datasets) {
-                let ctx = document.getElementById('chart-datasets-by-org').getContext('2d');
-                let data = _.chain(datasets)
-                        .groupBy('organization')
-                        .map((value, key) => ({ label: key, count: value.length }))
-                        .orderBy('count', 'desc')
-                        .value();
-
-                let labels = _.chain(data)
-                        .map('label')
-                        .value();
-
-                let values = _.chain(data)
-                        .map('count')
-                        .value();
-
-                var myChart = new Chart(ctx, {
-                        type: 'bar',
-                        data: {
-                                labels: labels,
-                                datasets: [{
-                                        label: '# of datasets',
-                                        data: values,
-                                        backgroundColor: 'rgba(31, 120, 180, 1)',
-                                        borderColor: 'rgba(31, 120, 180, 0.5)',
-                                        borderWidth: 1
-                                }]
-                        },
-                        options: {
-                                scales: {
-                                        yAxes: [{
-                                                ticks: {
-                                                        beginAtZero: true
-                                                }
-                                        }]
-                                }
-                        }
-                });
+        function calculateChartHeight(rowCount) {
+                const rowHeight = 10;
+                const padding = 60;
+                const minimumHeight = 220;
+                return Math.max(minimumHeight, rowCount * rowHeight + padding);
         }
 
-        function chartDataFilesByOrg(datasets) {
-                let ctx = document.getElementById('chart-datafiles-by-org').getContext('2d');
-                let data = _.chain(datasets)
-                        .groupBy('organization')
-                        .map((value, key) => (
+        function setCanvasHeight(canvas, height) {
+                canvas.height = height;
+        }
+
+        const baseChartOptions = {
+                legend: {
+                        display: false
+                },
+                scales: {
+                        xAxes: [
                                 {
-                                        label: key,
-                                        count: value.flatMap(x => x.resources).length
+                                        ticks: {
+                                                beginAtZero: true
+                                        }
                                 }
-                        ))
-                        .filter(function (item) { return item.count > 0 })
+                        ],
+                        yAxes: [
+                                {
+                                        barPercentage: 0.75,
+                                        categoryPercentage: 1,
+                                        gridLines: {
+                                                display: false
+                                        }
+                                }
+                        ]
+                }
+        };
+
+        const barValueLabelPlugin = {
+                afterDatasetsDraw: function (chart) {
+                        const ctx = chart.ctx;
+                        chart
+                                .data
+                                .datasets
+                                .forEach(function (dataset, datasetIndex) {
+                                        const meta = chart.getDatasetMeta(datasetIndex);
+                                        meta
+                                                .data
+                                                .forEach(function (bar, index) {
+                                                        const data = dataset.data[index];
+                                                        const model = bar._model;
+                                                        const xPosition = Math.max(model.x, model.base) + 8;
+                                                        const yPosition = model.y;
+                                                        ctx.fillStyle = '#314455';
+                                                        ctx.font = Chart
+                                                                .helpers
+                                                                .fontString(12, 'bold', Chart.defaults.global.defaultFontFamily);
+                                                        ctx.textAlign = 'left';
+                                                        ctx.textBaseline = 'middle';
+                                                        ctx.fillText(data, xPosition, yPosition);
+                                                });
+                                });
+                }
+        };
+
+        function chartDatasetsByOrg(datasets, canvas) {
+
+                let ctx = canvas.getContext('2d');
+                let data = _
+                        .chain(datasets)
+                        .groupBy('organization')
+                        .map((value, key) => ({label: key, count: value.length}))
                         .orderBy('count', 'desc')
                         .value();
 
-                let labels = _.chain(data)
+                let labels = _
+                        .chain(data)
                         .map('label')
                         .value();
 
-                let values = _.chain(data)
+                let values = _
+                        .chain(data)
                         .map('count')
                         .value();
 
-                var myChart = new Chart(ctx, {
-                        type: 'bar',
+                let targetHeight = calculateChartHeight(labels.length);
+                setCanvasHeight(canvas, targetHeight);
+
+                new Chart(ctx, {
+                        type: 'horizontalBar',
                         data: {
                                 labels: labels,
-                                datasets: [{
-                                        label: '# of data files',
-                                        data: values,
-                                        backgroundColor: 'rgba(31, 120, 180, 1)',
-                                        borderColor: 'rgba(31, 120, 180, 0.5)',
-                                        borderWidth: 1
-                                }]
+                                datasets: [
+                                        {
+                                                data: values,
+                                                backgroundColor: 'rgba(31, 120, 180, 1)',
+                                                borderColor: 'rgba(31, 120, 180, 0.5)',
+                                                borderWidth: 1
+                                        }
+                                ]
                         },
-                        options: {
-                                scales: {
-                                        yAxes: [{
-                                                ticks: {
-                                                        beginAtZero: true
-                                                }
-                                        }]
+                        options: _.merge({}, baseChartOptions, {
+                                title: {
+                                        display: true,
+                                        text: 'Distinct datasets by organisation',
+                                        fontSize: 18
                                 }
-                        }
+                        })
                 });
         }
 
+        function chartDataFilesByOrg(datasets, canvas) {
+                let ctx = canvas.getContext('2d');
+                let data = _
+                        .chain(datasets)
+                        .groupBy('organization')
+                        .map((value, key) => ({
+                                label: key,
+                                count: value
+                                        .flatMap(x => x.resources)
+                                        .length
+                        }))
+                        .filter(function (item) {
+                                return item.count > 0
+                        })
+                        .orderBy('count', 'desc')
+                        .value();
+
+                let labels = _
+                        .chain(data)
+                        .map('label')
+                        .value();
+
+                let values = _
+                        .chain(data)
+                        .map('count')
+                        .value();
+
+                let targetHeight = calculateChartHeight(labels.length);
+                setCanvasHeight(canvas, targetHeight);
+
+                new Chart(ctx, {
+                        type: 'horizontalBar',
+                        data: {
+                                labels: labels,
+                                datasets: [
+                                        {
+                                                data: values,
+                                                backgroundColor: 'rgba(31, 120, 180, 1)',
+                                                borderColor: 'rgba(31, 120, 180, 0.5)',
+                                                borderWidth: 1
+                                        }
+                                ]
+                        },
+                        options: _.merge({}, baseChartOptions, {
+                                title: {
+                                        display: true,
+                                        text: 'Total data files per organisation',
+                                        fontSize: 18
+                                }
+                        })
+                });
+        }
 </script>
