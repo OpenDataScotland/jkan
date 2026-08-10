@@ -14,9 +14,11 @@
       <ul class="navbar-nav">
         {% for link in site.navigation %}
         {% if link.sub-pages | size > 0 %}
-        {% assign active-sub-page = link.sub-pages where_exp: "item", "page.url != '/' and item.url contains page.url" %}
-        {% assign active-count = active-sub-page size %}
-        {% if active-count > 0 %}
+        {% assign active-link = false %}
+        {% if page.url != '/' and page.url contains link.url %}
+        {% assign active-link = true %}
+        {% endif %}
+        {% if active-link %}
         <li class="nav-item dropdown active">
           {% else %}
         <li class="nav-item dropdown">
@@ -26,7 +28,19 @@
           </a>
           <ul class="dropdown-menu">
             {% for sub-link in link.sub-pages %}
-            {% if page.url == sub-link.url %}
+            {% if sub-link.sub-pages %}
+            <li><h6 class="dropdown-header">{{ sub-link.title }}</h6></li>
+            {% for nested-link in sub-link.sub-pages %}
+            {% if page.url == nested-link.url %}
+            <li><a class="dropdown-item active" href="{{ site.baseurl }}{{ nested-link.url }}">{{ nested-link.title }}</a></li>
+            {% else %}
+            <li><a class="dropdown-item" href="{{ site.baseurl }}{{ nested-link.url }}">{{ nested-link.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+            {% unless forloop.last %}
+            <li><hr class="dropdown-divider"></li>
+            {% endunless %}
+            {% elsif page.url == sub-link.url %}
             <li><a class="dropdown-item active" href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>
             {% else %}
             <li><a class="dropdown-item" href="{{ site.baseurl }}{{ sub-link.url }}">{{ sub-link.title }}</a></li>

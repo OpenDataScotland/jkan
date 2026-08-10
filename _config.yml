@@ -39,22 +39,31 @@ navigation:
       url: /analytics/portal-types/
     - title: Platform health
       url: /analytics/platform-health/
-  - title: Resources
-    sub-pages:
-    - title: About Open Data Scotland
-      url: /resources/aboutods/
-    - title: What is Open Data?
-      url: /resources/whatisod/
-    - title: Working with Open Data
-      url: /resources/workingwithod/
-    - title: Open Data Projects
-      url: /resources/odprojects/    
-    - title: ODS Media
-      url: /resources/odsmedia/
     - title: Site Analytics
-      url: /resources/siteanalytics/
-    - title: Open Data Scotland Wrapped 2024
-      url: /resources/ods-wrapped-2024/
+      url: /analytics/siteanalytics/
+  - title: Resources
+    url: /resources/
+    sub-pages:
+    - title: About & basics
+      sub-pages:
+      - title: About Open Data Scotland
+        url: /resources/aboutods/
+      - title: What is Open Data?
+        url: /resources/whatisod/
+    - title: Learn
+      sub-pages:
+      - title: Working with Open Data
+        url: /resources/workingwithod/
+      - title: Our documentation
+        url: https://docs.opendata.scot
+    - title: Stories and media
+      sub-pages:
+      - title: Open Data Projects
+        url: /resources/odprojects/
+      - title: Media
+        url: /resources/odsmedia/
+      - title: Open Data Scotland Wrapped 2024
+        url: /resources/ods-wrapped-2024/
 
 
 # Collections
