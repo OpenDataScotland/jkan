@@ -10,7 +10,7 @@ category:
 - Sport and Leisure
 - Tourism
 date_created: '2021-06-11'
-date_updated: '2026-07-28'
+date_updated: '2026-08-11'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: "<p>HERs (Historic Environment Records) developed out of SMRs (Sites and Monuments\

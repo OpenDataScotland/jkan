@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2026-07-15'
+date_updated: '2026-08-12'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -39,6 +39,15 @@ original_dataset_link: https://www.opendata.nhs.scot/dataset/prescriptions-in-th
 records: null
 resources:
 - format: CSV
+  name: "Data by Dispenser Location \u2013 May 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/5f043536-aec2-4c92-a4ad-5cf88ce4a190/download/disp_pitc202605.csv
+- format: CSV
+  name: "Data by Prescriber Location \u2013 May 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/bd7cebe2-a905-4e19-bad6-0bcb72f1218d/download/pitc202605.csv
+- format: CSV
+  name: "Data by Board \u2013 January - May 2026"
+  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/aae4fa1c-9320-4c4d-b6e7-13d324cc13f8/download/hb_pitc2026_01_05.csv
+- format: CSV
   name: "Data by Dispenser Location \u2013 April 2026"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/ab0771bf-d235-4418-82cb-e182d86640da/download/disp_pitc202604.csv
 - format: CSV
@@ -50,9 +59,6 @@ resources:
 - format: CSV
   name: "Data by Prescriber Location \u2013 March 2026"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/1bbd2cc6-0d47-49aa-bf0c-8579ff1fda28/download/pitc202603.csv
-- format: CSV
-  name: "Data by Board \u2013 January - April 2026"
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/aae4fa1c-9320-4c4d-b6e7-13d324cc13f8/download/hb_pitc2026_01_04.csv
 - format: CSV
   name: "Data by Dispenser Location \u2013 February 2026"
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/d254b631-c7c5-4815-b19c-43f2dfbf613f/download/disp_pitc202602.csv

@@ -20,7 +20,7 @@ notes: "<p>The Woodland Grant Scheme (WGS) provided incentives for people to cre
   \ please see the metadata record on Scotland's SpatialData.gov.scot Metadata Portal.</p>"
 organization: Scottish Forestry
 original_dataset_link: https://www.arcgis.com/home/item.html?id=d27213124aa94056a5f4689966cabcad
-records: null
+records: 5707
 resources: []
 schema: default
 title: Woodland Grant Scheme 1 1988-1991

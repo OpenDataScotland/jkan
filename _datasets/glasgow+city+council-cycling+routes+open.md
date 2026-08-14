@@ -4,7 +4,7 @@ category:
 - Food and Environment
 - Transportation
 date_created: '2025-11-18'
-date_updated: '2026-08-07'
+date_updated: '2025-11-20'
 license: No licence
 maintainer: Glasgow City Council
 notes: '<p style=''margin-left:36.0pt;''>This spatial dataset represents the existing

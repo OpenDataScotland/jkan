@@ -5,7 +5,7 @@ category:
 - Health and Social Care
 - Public Safety
 date_created: '2018-07-23'
-date_updated: '2026-08-03'
+date_updated: '2026-08-12'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>This dataset captures any data that pertains to locations of safety equipment
@@ -22,8 +22,8 @@ resources:
   name: Life Belts 2026
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/FeatureServer/7
 - format: REST
-  name: Fire Hydrants 2026
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Road_Information_2/FeatureServer/66
+  name: CCTV Locations
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Housing_Information/MapServer/0
 schema: default
 title: Safety Features - North Ayrshire
 ---

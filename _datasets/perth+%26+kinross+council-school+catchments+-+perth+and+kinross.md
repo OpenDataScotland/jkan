@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2026-01-19'
+date_updated: '2026-08-12'
 license: 'Custom licence: Open'
 maintainer: Perth & Kinross Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\

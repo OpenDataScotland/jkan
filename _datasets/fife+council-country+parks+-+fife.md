@@ -4,7 +4,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2026-04-20'
-date_updated: '2026-04-20'
+date_updated: '2026-08-13'
 license: 'Custom licence: Open'
 maintainer: Fife Council
 notes: "<p>Local authorities may designate country parks where they see a need, using\
@@ -19,6 +19,9 @@ resources:
 - format: ZIP
   name: country_parks_fi.zip
   url: https://data.spatialhub.scot/dataset/2e2f43fb-5fce-40cd-b202-d6a2de089e34/resource/b67843d2-c7f2-4d34-9f08-96dfcbb45cc4/download/country_parks_fi.zip
+- format: REST
+  name: Country Parks - Fife
+  url: https://services-eu1.arcgis.com/PDjKizfiWWTgpUeI/ArcGIS/rest/services/Community_Greenspace_2023_Larger_Park_Access_Sites/FeatureServer
 schema: default
 title: Country Parks - Fife
 ---

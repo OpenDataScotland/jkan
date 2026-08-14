@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2025-02-15'
-date_updated: '2025-02-23'
+date_updated: '2026-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div><b>City Centre collections, only. Please refer to our other dataset for\

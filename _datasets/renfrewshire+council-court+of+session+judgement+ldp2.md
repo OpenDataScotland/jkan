@@ -22,7 +22,7 @@ notes: "<p>The Renfrewshire Local Development Plan sets out an ambitious Spatial
   \ a concise, mapbased, guide for shaping the area over the next 10 years.</p>"
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=805b7050bcfd4154a6a15f533eae7a52
-records: null
+records: 3
 resources: []
 schema: default
 title: Court of Session Judgement LDP2
