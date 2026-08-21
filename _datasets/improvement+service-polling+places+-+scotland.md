@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2021-06-11'
-date_updated: '2026-07-20'
+date_updated: '2026-08-20'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>A \u2018polling place\u2019 is defined as the building or area in which\

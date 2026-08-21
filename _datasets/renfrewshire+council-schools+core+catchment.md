@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2023-12-18'
-date_updated: '2026-04-30'
+date_updated: '2026-08-17'
 license: No licence
 maintainer: Renfrewshire Council
 notes: '<p>Overview This feature service provides a comprehensive spatial dataset
@@ -28,7 +28,7 @@ notes: '<p>Overview This feature service provides a comprehensive spatial datase
   </p>'
 organization: Renfrewshire Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=fe8d7eb4d99f40ada1b9ad14411406dc
-records: 61
+records: 62
 resources: []
 schema: default
 title: Schools Core Catchment

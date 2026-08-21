@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-05-04'
+date_updated: '2026-08-20'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>A \u2018polling district\u2019 is a geographical subdivision of an electoral\

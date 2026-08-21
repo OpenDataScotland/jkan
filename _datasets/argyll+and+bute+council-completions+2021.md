@@ -11,7 +11,7 @@ notes: <p>Point Shapefile for the Completions as shown in the Completions sectio
   of the 2021 Argyll and Bute Housing Land Audit</p>
 organization: Argyll and Bute Council
 original_dataset_link: https://www.arcgis.com/home/item.html?id=c2e2abcb88394cb4bb1735e3ee05414f
-records: 228
+records: null
 resources: []
 schema: default
 title: Completions 2021

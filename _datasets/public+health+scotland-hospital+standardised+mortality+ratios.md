@@ -2,12 +2,12 @@
 category:
 - Health and Social Care
 date_created: '2021-08-09'
-date_updated: '2026-08-11'
+date_updated: '2026-08-18'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Release of HSMR at Scotland, NHS Board and Hospital levels for the period
-  January 2025 to December 2025. Also includes analyses of crude mortality trends
-  over the longer term from July to September 2016 to October to December 2025.</p>
+  April 2025 to March 2026. Also includes analyses of crude mortality trends over
+  the longer term from July to September 2016 to January to March 2026.</p>
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/hospital-standardised-mortality-ratios
 records: null

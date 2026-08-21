@@ -9,7 +9,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2025-02-24'
-date_updated: '2026-08-06'
+date_updated: '2026-08-20'
 license: 'Custom licence: Restricted'
 maintainer: Crofting Commission
 notes: '<p>Decrofting is taking land out of crofting. This means that the land is
@@ -27,7 +27,7 @@ records: null
 resources:
 - format: WFS
   name: 'Decrofted Areas '
-  url: https://geo.spatialhub.scot/geoserver/ext_dcrfa/wfs?service=wfs&typeName=ext_dcrfa:pub_dcrfa
+  url: https://geo.spatialhub.scot/geoserver/sh_dcrfa/wfs?service=wfs&typeName=sh_dcrfa:pub_dcrfa
 schema: default
 title: Decrofted Areas - Scotland
 ---

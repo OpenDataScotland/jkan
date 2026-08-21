@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2026-08-19'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>Town centres are defined by local authorities to meet the requirement of
@@ -17,6 +17,9 @@ resources:
 - format: No file type
   name: Spatial Hub WFS - Town Centres
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: North Ayrshire - Town Centres
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/29
 schema: default
 title: Town Centres - North Ayrshire
 ---
