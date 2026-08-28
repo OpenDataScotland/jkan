@@ -7,7 +7,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2017-01-27'
-date_updated: '2026-08-12'
+date_updated: '2026-08-26'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>In November 2004, Audit Scotland published a document entitled \"Maintaining\
@@ -32,22 +32,34 @@ original_dataset_link: https://data.spatialhub.scot/dataset/street_furniture-na
 records: null
 resources:
 - format: REST
-  name: Litter Bin
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Streetscene_Information/FeatureServer
+  name: Benches 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/49
 - format: REST
-  name: Dog Bin
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Streetscene_Information/FeatureServer
+  name: Dog Bins 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/50
 - format: REST
-  name: Bench
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Streetscene_Information/FeatureServer
+  name: Litter Bins 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/51
 - format: REST
-  name: Grit Bins
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Road_Information_2/FeatureServer
+  name: Grit Bins 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/53
 - format: REST
-  name: Fire Hydrants
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Road_Information_2/FeatureServer
+  name: Street Lighting Columns 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/54
 - format: REST
-  name: Electric Vehicle Charging Points
+  name: Safety Bollards 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/55
+- format: REST
+  name: Traffic Signals 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/56
+- format: REST
+  name: Street Signs 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/57
+- format: REST
+  name: Fire Hydrants 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/58
+- format: REST
+  name: Electric Vehicle Charging Points 2026
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal5/FeatureServer/8
 schema: default
 title: Street Furniture - North Ayrshire

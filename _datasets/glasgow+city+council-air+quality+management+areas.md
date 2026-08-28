@@ -10,12 +10,12 @@ notes: <p>Glasgow has AQMAs located at the City Centre, Byres Rd / Dumbarton Rd 
   (NO2).</div><div>The City Centre and Byres Rd / Dumbarton Rd AQMAs have also been
   declared for the pollutant particles (PM10).</div></p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::air-quality-management-areas
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/0c535e4b5eef436980d1ece095ac070e_0
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::air-quality-management-areas
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/0c535e4b5eef436980d1ece095ac070e_0
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Air_Quality_Management_Areas/MapServer/0

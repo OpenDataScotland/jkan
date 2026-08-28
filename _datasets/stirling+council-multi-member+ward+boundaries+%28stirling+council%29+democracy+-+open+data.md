@@ -3,11 +3,11 @@ category:
 - Council and Government
 - Elections / Politics
 - Planning and Development
-date_created: '2022-04-24'
-date_updated: '2025-12-15'
+date_created: '2024-07-11'
+date_updated: '2026-08-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
-notes: '<div><b>This dataset is published as Open Data</b></div>
+notes: '<div><b>This app is published as Open Data</b></div>
 
   <div><br /></div>
 
@@ -21,44 +21,17 @@ notes: '<div><b>This dataset is published as Open Data</b></div>
 
   <div><br /></div></p>
 
-  <div>Latest boundaries as per 2017 review.<br /></div>'
+  <div>Latest boundaries as per 2017 review.</div>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::multi-member-ward-boundaries-stirling-council-democracy-open-data
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::multi-member-ward-boundaries-stirling-council-democracy-open-data-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::multi-member-ward-boundaries-stirling-council-democracy-open-data
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::multi-member-ward-boundaries-stirling-council-democracy-open-data-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Political_Boundaries_Stirling_Ward_Boundaries_2017/FeatureServer/9
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/csv?layers=9
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/shapefile?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/geojson?layers=9
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/kml?layers=9
-- format: ZIP
-  name: File Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/filegdb?layers=9
-- format: TXT
-  name: Feature Collection
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/featureCollection?layers=9
-- format: MS EXCEL
-  name: Excel
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/excel?layers=9
-- format: GPKG
-  name: GeoPackage
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/geoPackage?layers=9
-- format: GDB
-  name: SQLite Geodatabase
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/624892890746446c825011b03de6b88c/sqlite?layers=9
+  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=9e0f1106433f496dbb96bb806065c627
 schema: default
 title: Multi-member ward boundaries (stirling council) democracy - open data
 ---

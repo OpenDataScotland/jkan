@@ -9,12 +9,12 @@ notes: <p>Spatial Data layers referenced in City Development Plan Policy and Pro
   &amp; Supplementary Guidance Maps. Third party data displayed in the above mentioned
   maps are not included herein.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::masterplan-areas-cdp2
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/05d8a63e2f934523a367d3dc5cc1aca2_9
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::masterplan-areas-cdp2
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/05d8a63e2f934523a367d3dc5cc1aca2_9
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/City_Development_Plan/MapServer/9

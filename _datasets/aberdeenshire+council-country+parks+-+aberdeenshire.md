@@ -4,7 +4,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2026-04-20'
-date_updated: '2026-04-20'
+date_updated: '2026-08-28'
 license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: "<p>Local authorities may designate country parks where they see a need, using\

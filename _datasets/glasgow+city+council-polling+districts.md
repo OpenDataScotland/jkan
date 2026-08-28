@@ -8,12 +8,12 @@ license: No licence
 maintainer: Glasgow City Council
 notes: <p>Polling districts and polling locations within Glasgow City Council.</p>
 organization: Glasgow City Council
-original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::polling-districts
+original_dataset_link: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/05faa0a820f740c7ab30fb2bf363012b_1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/GlasgowGIS::polling-districts
+  url: https://open-data-design-glasgowgis.hub.arcgis.com/datasets/05faa0a820f740c7ab30fb2bf363012b_1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
   url: https://www.mapping.glasgow.gov.uk/arcgis_web/rest/services/OPEN_DATA/Polling_Districts_Stations/MapServer/1

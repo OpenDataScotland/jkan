@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2026-06-30'
-date_updated: '2026-08-20'
+date_updated: '2026-08-21'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Parks are set up by Local Authorities to provide open-air recreation facilities
