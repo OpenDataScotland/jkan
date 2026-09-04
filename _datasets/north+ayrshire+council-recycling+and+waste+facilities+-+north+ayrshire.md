@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-11-14'
-date_updated: '2026-08-12'
+date_updated: '2026-09-04'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Most councils will keep a record of their recycling and waste management
@@ -19,13 +19,13 @@ records: null
 resources:
 - format: REST
   name: Waste Management Facilities 2026
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/FeatureServer/37
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/1
 - format: REST
   name: Recycling Centres 2026
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/FeatureServer/3
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/61
 - format: REST
   name: Recycling Points 2026
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal2/FeatureServer/4
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/62
 schema: default
 title: Recycling And Waste Facilities - North Ayrshire
 ---

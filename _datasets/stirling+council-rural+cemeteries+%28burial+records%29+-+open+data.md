@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-08-05'
-date_updated: '2026-08-05'
+date_updated: '2026-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: "<div>Extract of electronic burial records for the Rural Cemeteries managed\

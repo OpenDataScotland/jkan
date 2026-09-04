@@ -3,7 +3,7 @@ category:
 - Budget / Finance
 - Health and Social Care
 date_created: '2018-01-17'
-date_updated: '2026-08-12'
+date_updated: '2026-09-04'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>There are three datasets included within this open data publication. The
@@ -485,9 +485,6 @@ resources:
 - format: CSV
   name: Data by Dispenser Location - February 2025
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/090cd45c-910a-4c21-ace0-cf823de41291/download/disp_pitc202502.csv
-- format: CSV
-  name: "Data by Dispenser Location \u2013 January 2025"
-  url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/e478bfbc-4036-41e8-bacf-7bb1529d2d96/download/disp_pitc202601.csv
 - format: CSV
   name: Data by Dispenser Location - January 2025
   url: https://www.opendata.nhs.scot/dataset/84393984-14e9-4b0d-a797-b288db64d088/resource/9fc9059f-8060-4f2b-aac8-0aa7d3bc6f25/download/disp_pitc202501.csv

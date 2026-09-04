@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2026-05-18'
+date_updated: '2026-09-04'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -40,18 +40,18 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/school_catchments-na
 records: null
 resources:
-- format: WFS
-  name: Primary School Cactchments
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
-  name: Secondary School Catchments
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
-  name: RC Secondary School Catchments
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
-- format: WFS
-  name: RC Primary School Catchments
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Open_Data_Portal/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Primary School Catchments 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/44
+- format: REST
+  name: RC Primary School Catchments 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/45
+- format: REST
+  name: Secondary School Catchments 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/46
+- format: REST
+  name: RC Secondary School Catchments 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/47
 schema: default
 title: School Catchments - North Ayrshire
 ---

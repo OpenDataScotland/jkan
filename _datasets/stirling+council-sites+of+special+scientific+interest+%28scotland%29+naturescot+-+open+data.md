@@ -5,7 +5,7 @@ category:
 - Parks / Recreation
 - Sport and Leisure
 date_created: '2024-07-08'
-date_updated: '2025-12-03'
+date_updated: '2026-09-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
 notes: <div style='text-align:Left; font-size:12pt;'><div><div><p style='margin-top:0px;

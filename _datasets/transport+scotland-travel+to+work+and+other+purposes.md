@@ -1,18 +1,38 @@
 ---
 category:
+- Arts / Culture / History
 - Education
+- Health and Social Care
 - Transportation
-date_created: ''
-date_updated: '2023-05-03'
+date_created: '2026-08-13'
+date_updated: '2026-08-13'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Transport Scotland
-notes: <p>Statistics on what mode of transport (walking, cycling, car, bus, train)
-  people usually use to get to work and education, purposes of journeys made by Scottish
-  people. </p>
+notes: <p>Detailed statistics on what mode of transport people usually use to get
+  to work and education, as well as the percentage of total journeys which people
+  make for a given purpose and children's mode of travel to school (from the Scottish
+  Household Survey). These estimates are from the Scottish Household Survey Travel
+  Diary, which asks adult respondents about all the journeys which they made the previous
+  day, as well as information about the mode, purpose, duration and length of these
+  journeys. The proportion of people who travel to work by public or active travel
+  is a National Indicator in the Scotland Performs framework. Estimates from the Scottish
+  Household Survey are updated annually in <a href="https://www.transport.gov.scot/search-results/?q=transport+and+travel+scotland+all+editions">Transport
+  and Travel in Scotland</a>. SHS estimates are National Statistics and provide figures
+  which are representative of households and individuals in Scotland annually. The
+  SHS has an annual sample size of around 10,000 individuals and, since 2012, has
+  operated with a fully unclustered sample design.<br/><br/>Due to the Covid pandemic
+  there was a smaller sample size for the SHS survey in 2020.  We are therefore not
+  be able to provide 2020 data broken down in as many ways as usual. For example,
+  we are not able to provide data for individual local authorities. Due to changes
+  in the survey in response to covid-19,  2021 data is not directly comparable with
+  previous years.</p>
 organization: Transport Scotland
-original_dataset_link: http://statistics.gov.scot/data/travel-to-work-other
+original_dataset_link: https://data.gov.scot/dataset/travel_to_work_and_other_purposes
 records: null
-resources: []
+resources:
+- format: CSV
+  name: travel-to-work-other.csv
+  url: https://api.data.gov.scot/resource/9f928fc6-d249-4de4-b7b4-5dc5eac10f02/download
 schema: default
 title: Travel to Work and Other Purposes
 ---

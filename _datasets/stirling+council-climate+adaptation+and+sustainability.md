@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Transportation
 date_created: '2023-02-27'
-date_updated: '2026-08-25'
+date_updated: '2026-09-02'
 license: No licence
 maintainer: Stirling Council
 notes: <p>climate adaptation, active travel, sustainable transport, public transport,

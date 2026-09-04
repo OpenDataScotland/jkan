@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2026-04-20'
+date_updated: '2026-08-31'
 license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -46,6 +46,9 @@ resources:
 - format: ZIP
   name: CATR
   url: https://data.spatialhub.scot/dataset/c6aa8281-645d-434f-8621-4487daa5828e/resource/3a3aeb91-c547-4721-9771-9413a2b509c1/download/acc-assetlist.zip
+- format: MS EXCEL
+  name: Aberdeenshire CATR 2025.xlsx
+  url: https://data.spatialhub.scot/dataset/c6aa8281-645d-434f-8621-4487daa5828e/resource/7d36a437-3bde-4d74-aa2d-ac5608915ffc/download/aberdeenshire-catr-2025.xlsx
 schema: default
 title: Community Asset Transfer Register - Aberdeenshire
 ---

@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Council and Government
 date_created: '2017-01-27'
-date_updated: '2025-08-29'
+date_updated: '2026-09-04'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>This dataset is an amalgamation of all Scottish Council Asset Registers.</p>
@@ -21,6 +21,9 @@ resources:
 - format: ZIP
   name: north-ayrshire-catr.zip
   url: https://data.spatialhub.scot/dataset/21afb85e-6b48-41b3-902b-f430b107bb1b/resource/f91a93b0-a754-4f3a-b7ce-0dceb12a6dee/download/north-ayrshire-catr.zip
+- format: REST
+  name: Council Asset Register 2026
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/64
 schema: default
 title: Council Asset Register - North Ayrshire
 ---
