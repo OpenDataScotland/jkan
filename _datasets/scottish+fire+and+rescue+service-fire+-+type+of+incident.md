@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Public Safety
 date_created: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Fire and Rescue Service
 notes: <p>This dataset provides the numbers and rates of fires in Scotland down to

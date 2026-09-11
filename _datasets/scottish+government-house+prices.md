@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Residential property transactions are recorded by Registers of Scotland.  Historical

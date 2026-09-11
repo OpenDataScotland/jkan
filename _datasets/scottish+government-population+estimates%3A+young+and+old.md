@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Council and Government
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>This dataset presents population estimates for people who are young (under

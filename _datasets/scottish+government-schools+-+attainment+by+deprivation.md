@@ -10,7 +10,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2026-08-13'
-date_updated: '2026-08-18'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Attainment is the measurable progress which children and young people make

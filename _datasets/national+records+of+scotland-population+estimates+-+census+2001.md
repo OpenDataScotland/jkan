@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Council and Government
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: <p>These figures are the results from the 2001 Census in Scotland. They are

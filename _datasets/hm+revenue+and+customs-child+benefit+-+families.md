@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Council and Government
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: HM Revenue and Customs
 notes: <p>More details available under the <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/684138/Introduction_to_Child_Benefit_Small_Area_Data_2017.pdf">HM

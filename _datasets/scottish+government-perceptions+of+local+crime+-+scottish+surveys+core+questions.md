@@ -5,7 +5,7 @@ category:
 - Law and Licensing
 - Public Safety
 date_created: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>Respondents who had lived in their current neighbourhood for 2 or more years

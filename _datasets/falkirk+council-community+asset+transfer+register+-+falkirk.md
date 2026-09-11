@@ -6,7 +6,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2019-06-11'
-date_updated: '2023-09-19'
+date_updated: '2026-09-07'
 license: 'Custom licence: Open'
 maintainer: Falkirk Council
 notes: '<p>This dataset includes data related to the Community Empowerment (Scotland)
@@ -46,6 +46,9 @@ resources:
 - format: CSV
   name: Asset register Jan 2019
   url: https://data.spatialhub.scot/dataset/523d7a5e-3c3d-4d6c-8118-2726f43a6080/resource/27fc7a5c-2fa5-4eb3-91bd-e4170385fc19/download/falkirk-community-asset-data.csv
+- format: CSV
+  name: "FC_Assets_\xAD2024"
+  url: https://data.spatialhub.scot/dataset/523d7a5e-3c3d-4d6c-8118-2726f43a6080/resource/17b96de2-d178-414d-a772-0d925d08c35f/download/fc_assets2024.csv
 schema: default
 title: Community Asset Transfer Register - Falkirk
 ---

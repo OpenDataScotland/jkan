@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The <a href="https://www.gov.scot/publications/scottish-index-multiple-deprivation-2020/">Scottish

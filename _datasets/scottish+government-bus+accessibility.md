@@ -3,7 +3,7 @@ category:
 - Business and Economy
 - Transportation
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The Scottish Access to Bus Indicator (SABI) gives a score for the accessibility

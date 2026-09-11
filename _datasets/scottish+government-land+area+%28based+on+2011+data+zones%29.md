@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The land area to mean high water excluding areas of inland water, in hectares.

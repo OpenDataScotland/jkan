@@ -4,7 +4,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: "<p>Estimates about the number of VAT/PAYE registered businesses (stocks) and\

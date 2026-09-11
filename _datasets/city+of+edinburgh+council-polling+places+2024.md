@@ -2,7 +2,7 @@
 category:
 - Elections / Politics
 date_created: '2024-06-19'
-date_updated: '2024-06-19'
+date_updated: '2026-09-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: City of Edinburgh Council
 notes: ''

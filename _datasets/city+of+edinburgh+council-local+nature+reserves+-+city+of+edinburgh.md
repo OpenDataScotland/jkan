@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-12-01'
+date_updated: '2026-09-08'
 license: 'Custom licence: Open'
 maintainer: City of Edinburgh Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -21,6 +21,9 @@ resources:
 - format: REST
   name: Local Nature Reserves
   url: https://services-eu1.arcgis.com/FgpikkYuSUOuITxp/arcgis/rest/services/Local_Nature_Reserves/FeatureServer/50
+- format: ZIP
+  name: Local_Nature_Reserves.zip
+  url: https://data.spatialhub.scot/dataset/850dd290-0b3d-4f5a-8716-9a90fa39bc10/resource/02f1fb13-3432-4c37-9239-0906ef35d9c4/download/local_nature_reserves.zip
 schema: default
 title: Local Nature Reserves - City of Edinburgh
 ---

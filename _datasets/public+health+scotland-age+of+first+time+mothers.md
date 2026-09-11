@@ -4,7 +4,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2026-08-20'
-date_updated: '2026-08-20'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Note: This dataset will not be receiving updates through this portal. Please

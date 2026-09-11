@@ -2,7 +2,7 @@
 category:
 - Uncategorised
 date_created: '2026-07-09'
-date_updated: '2026-07-09'
+date_updated: '2026-09-11'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>This data is for Quarter 1.&nbsp;</p>

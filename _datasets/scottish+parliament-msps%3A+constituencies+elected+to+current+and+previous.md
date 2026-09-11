@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Elections / Politics
 date_created: ''
-date_updated: '2026-09-03'
+date_updated: '2026-09-10'
 license: https://www.parliament.scot/about/copyright
 maintainer: Scottish Parliament
 notes: "<p>This dataset contains the constituency that a member has been elected for,\

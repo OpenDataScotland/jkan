@@ -4,7 +4,7 @@ category:
 - Business and Economy
 - Health and Social Care
 date_created: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: '<p>Self-assessed general health is a critical measure of the population''s

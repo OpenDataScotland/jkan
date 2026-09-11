@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-08-20'
-date_updated: '2026-08-24'
+date_updated: '2026-09-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Registers of Scotland
 notes: <p>The statistics include all market value sales in Scotland, based on the
