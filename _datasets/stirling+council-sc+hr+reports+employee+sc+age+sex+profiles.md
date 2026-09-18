@@ -1,7 +1,7 @@
 ---
 category:
 - Council and Government
-date_created: '2026-07-06'
+date_created: '2026-08-12'
 date_updated: '2026-09-16'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
@@ -40,12 +40,12 @@ notes: "<div style='background-color:#FFFFFF; border-radius:12px; border:0 solid
   \ the council (some employees may hold multiple paid positions) and included in\
   \ this report at time of extract.</li></ul></div></div>"
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sc-hr-reports-length-of-service
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sc-hr-reports-employee-sc-age-sex-profiles
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sc-hr-reports-length-of-service
+  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::sc-hr-reports-employee-sc-age-sex-profiles
 schema: default
-title: Sc hr reports length of service
+title: Sc hr reports employee sc age sex profiles
 ---

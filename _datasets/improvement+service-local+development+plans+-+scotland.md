@@ -2,8 +2,8 @@
 category:
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-08-07'
-license: 'Custom licence: Restricted'
+date_updated: '2026-09-16'
+license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>Development plans set out the long term vision for development in each\
   \ planning authority and are used to assess planning applications.\n The latest\
