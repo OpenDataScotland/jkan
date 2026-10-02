@@ -2,7 +2,7 @@
 category:
 - Council and Government
 date_created: '2024-12-15'
-date_updated: '2026-08-02'
+date_updated: '2026-09-20'
 license: No licence
 maintainer: Stirling Council
 notes: <p>freedom of information, subject access, and environmental information request

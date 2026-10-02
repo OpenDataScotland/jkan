@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2026-04-08'
-date_updated: '2026-04-08'
+date_updated: '2026-09-30'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: '<p>Community Council boundaries adopted in November 2019. Also includes &nbsp;minor

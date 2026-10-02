@@ -2,7 +2,7 @@
 category:
 - Health and Social Care
 date_created: '2020-09-24'
-date_updated: '2025-10-02'
+date_updated: '2026-09-29'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>Inpatients refer to people who are admitted to an available staffed bed

@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2025-10-01'
-date_updated: '2026-03-24'
+date_updated: '2026-09-25'
 license: 'Custom licence: Open'
 maintainer: Western Isles Archaeology Service
 notes: <p>HER Monument records</p>
@@ -13,6 +13,9 @@ resources:
 - format: ZIP
   name: WI_HER_Mons_0326_ZIP
   url: https://data.spatialhub.scot/dataset/78d42511-423e-4198-a869-71aaaa773218/resource/2c2c773c-5528-46df-9cdf-4d8f03b1c1a1/download/wi-her-mons.zip
+- format: ZIP
+  name: Western Isles Historic Environment Record - Monuments
+  url: https://data.spatialhub.scot/dataset/78d42511-423e-4198-a869-71aaaa773218/resource/075b5662-4950-4b32-b471-7c4204001744/download/wi_her_mon_zip.zip
 schema: default
 title: Western Isles Historic Environment Record - Monuments
 ---

@@ -4,20 +4,23 @@ category:
 - Education
 - Elections / Politics
 date_created: '2023-10-30'
-date_updated: '2024-06-19'
+date_updated: '2026-09-25'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
-notes: "<p>This dataset is a Scottish Fuel Poverty Index created in the summer of\
-  \ 2023 by\n EDINA@University of Edinburgh as part of their student internship programme.\
-  \ The user guide provides\n descriptions of each data variable used in creating\
-  \ the index. The basic rationale was to replicate for\n Scotland work that had been\
-  \ conducted previously but only in respect to England and Wales. The two\n indices\
-  \ are not strictly directly comparable due to data availability and spatial granularity\
-  \ but provide\n standalone snapshots of relative fuel poverty across Great Britain.\
-  \ The Scottish Index is fully open\n source and for purposes of transparency and\
-  \ repeatability this guide provides an open methodology\n and is accompanied by\
-  \ the underlying data. Data are provided in good faith \u2019as is\u2019 and is\
-  \ the sole\n product of student effort as part of mentoring activities conducted\
+notes: "<p>In Scotland, 'fuel poverty' is defined as when a household needs to spend\
+  \ 10% or more of their income on fuel to keep their home at a\n reasonable temperature.\
+  \ 'Extreme fuel poverty' is when a household is spending 20% or more of their income\
+  \ on fuel.</p>\n<p>This dataset is a Scottish Fuel Poverty Index created in the\
+  \ summer of 2023 by\n EDINA@University of Edinburgh as part of their student internship\
+  \ programme. The user guide provides\n descriptions of each data variable used in\
+  \ creating the index. The basic rationale was to replicate for\n Scotland work that\
+  \ had been conducted previously but only in respect to England and Wales. The two\n\
+  \ indices are not strictly directly comparable due to data availability and spatial\
+  \ granularity but provide\n standalone snapshots of relative fuel poverty across\
+  \ Great Britain. The Scottish Index is fully open\n source and for purposes of transparency\
+  \ and repeatability this guide provides an open methodology\n and is accompanied\
+  \ by the underlying data. Data are provided in good faith \u2019as is\u2019 and\
+  \ is the sole\n product of student effort as part of mentoring activities conducted\
   \ by EDINA at the University.\n Each variable that was used in the Index was normalised\
   \ relative to the individual values for that\n variable - which means the values\
   \ presented in the underlying FPI data table do not represent the\n actual numbers\

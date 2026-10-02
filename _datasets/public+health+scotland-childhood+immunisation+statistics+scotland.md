@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2022-12-16'
-date_updated: '2026-06-24'
+date_updated: '2026-09-23'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>Uptake rates of routine childhood immunisations, by 12 months, 24 months,
@@ -16,16 +16,16 @@ records: null
 resources:
 - format: CSV
   name: Scotland - Quarterly
-  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/209b1648-8b67-44c4-9513-1c28104a17f2/download/scotland-trend-quarterly-20260623.csv
+  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/209b1648-8b67-44c4-9513-1c28104a17f2/download/scotland-trend-quarterly-20260922.csv
 - format: CSV
   name: Council Area - Quarterly
-  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/ac707d93-f9f3-4c00-9b91-0a2e6a4ea153/download/ca-trend-quarterly-20260623.csv
+  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/ac707d93-f9f3-4c00-9b91-0a2e6a4ea153/download/ca-trend-quarterly-20260922.csv
 - format: CSV
   name: Health Board - Quarterly
-  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/a83b78ba-50b2-490b-a25f-cba51587ce01/download/hb-trend-quarterly-20260623.csv
+  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/a83b78ba-50b2-490b-a25f-cba51587ce01/download/hb-trend-quarterly-20260922.csv
 - format: CSV
   name: Ethnicity - Quarterly
-  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/1d1c0b47-31a0-4209-9284-3ba801188baf/download/ethnicity-trend-quarterly-20260623.csv
+  url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/1d1c0b47-31a0-4209-9284-3ba801188baf/download/ethnicity-trend-quarterly-20260922.csv
 - format: CSV
   name: Urban Rural - Quarterly
   url: https://www.opendata.nhs.scot/dataset/0e776a42-06d7-4d25-9671-28b09b7c30fe/resource/5f56f06d-80cc-4e7a-a81d-06f4d85c3bda/download/urban-rural-trend-quarterly-20260623.csv
