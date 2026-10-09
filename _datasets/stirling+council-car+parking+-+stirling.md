@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2023-04-14'
+date_updated: '2026-10-05'
 license: 'Custom licence: Open'
 maintainer: Stirling Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -20,11 +20,11 @@ original_dataset_link: https://data.spatialhub.scot/dataset/car_parking-st
 records: null
 resources:
 - format: REST
-  name: Car park locations
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Car_Park_Locations_Points_Current/FeatureServer/1/query?outFields=*&where=1%3D1
-- format: REST
   name: Parking Control Zones
   url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/Traffic_Management_Parking_Control_Zones/FeatureServer/4/query?outFields=*&where=1%3D1
+- format: REST
+  name: Parking Location Points
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/sc_car_parks/FeatureServer/0
 schema: default
 title: Car Parking - Stirling
 ---

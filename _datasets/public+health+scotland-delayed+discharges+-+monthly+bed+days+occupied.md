@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2026-08-13'
-date_updated: '2026-09-01'
+date_updated: '2026-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: <p>This publication provides monthly information on the number of bed days
@@ -15,8 +15,8 @@ original_dataset_link: https://data.gov.scot/dataset/delayed_discharges___monthl
 records: null
 resources:
 - format: CSV
-  name: landing/808fd429-c07b-43e9-a86c-8669fda144e3/Delayed Discharges - Monthly
-    Bed Days Occupied Jul2026.csv
+  name: landing/8102ccd4-8c4b-4150-8ed2-92c5e78cc487/Delayed Discharges - Monthly
+    Bed Days Occupied Aug2026.csv
   url: https://api.data.gov.scot/resource/953141de-04e1-41f1-ab47-ede43a972909/download
 schema: default
 title: Delayed Discharges - Monthly Bed Days Occupied

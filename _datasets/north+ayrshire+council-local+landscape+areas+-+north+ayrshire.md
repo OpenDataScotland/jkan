@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Food and Environment
 date_created: '2016-05-24'
-date_updated: '2022-10-27'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>There are many areas where the scenery is highly valued locally and local\
@@ -26,9 +26,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/local_landscape_designation-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: REST
+  name: Local Landscape Areas - North Ayrshire
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/FeatureServer/20
 schema: default
 title: Local Landscape Areas - North Ayrshire
 ---

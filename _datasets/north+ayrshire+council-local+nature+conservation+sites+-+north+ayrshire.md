@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-07-07'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>Local nature conservation sites (LNCS) is a non-statutory designation given
@@ -15,9 +15,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/local_nature_conservation_sites-na
 records: null
 resources:
-- format: No file type
-  name: Local Nature Conservation Sites
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
+- format: REST
+  name: Local Nature Conservation Sites - North Ayrshire
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Adopted_LDP/MapServer/23
 schema: default
 title: Local Nature Conservation Sites - North Ayrshire
 ---

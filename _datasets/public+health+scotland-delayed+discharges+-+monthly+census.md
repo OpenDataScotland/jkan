@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Health and Social Care
 date_created: '2026-08-13'
-date_updated: '2026-09-01'
+date_updated: '2026-10-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
 notes: '<p>This publication provides monthly census snapshot position of hospital
@@ -19,8 +19,8 @@ original_dataset_link: https://data.gov.scot/dataset/delayed_discharges___monthl
 records: null
 resources:
 - format: CSV
-  name: landing/f27c2959-c8e6-45e7-babc-85500ee93420/Delayed Discharges - Monthly
-    Census Jul2026.csv
+  name: landing/24fbf7a1-9c2e-42ca-b1a4-2dcc2a6ee42e/Delayed Discharges - Monthly
+    Census Aug2026.csv
   url: https://api.data.gov.scot/resource/6baff6ee-263c-4ebc-b387-ad7595dc5ac9/download
 schema: default
 title: Delayed Discharges - Monthly Census

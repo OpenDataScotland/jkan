@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2025-07-08'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -18,9 +18,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/local_nature_reserves-na
 records: null
 resources:
-- format: No file type
-  name: Local Nature Reserves
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?
+- format: REST
+  name: Local Nature Reserves - North Ayrshire
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/FeatureServer/29
 schema: default
 title: Local Nature Reserves - North Ayrshire
 ---

@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2016-05-31'
-date_updated: '2024-10-15'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: Stirling Council
 notes: "<p>A council development plan may designate a green belt around a city or\
@@ -41,8 +41,8 @@ original_dataset_link: https://data.spatialhub.scot/dataset/green_belt-st
 records: null
 resources:
 - format: REST
-  name: Green belt
-  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/arcgis/rest/services/planning_green_belt/FeatureServer/2/query?outFields=*&where=1%3D1
+  name: Green Belt - Stirling
+  url: https://services-eu1.arcgis.com/cECIr59LclpO818r/ArcGIS/rest/services/planning_green_belt/FeatureServer/2
 schema: default
 title: Green Belt - Stirling
 ---

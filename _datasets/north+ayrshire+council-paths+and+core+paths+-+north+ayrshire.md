@@ -7,7 +7,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2016-05-24'
-date_updated: '2025-08-06'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Every local authority and National Park authority (access authorities)
@@ -32,7 +32,7 @@ records: null
 resources:
 - format: REST
   name: Core Paths - North Ayrshire
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Adopted_LDP/MapServer/6
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/FeatureServer/8
 schema: default
 title: Paths And Core Paths - North Ayrshire
 ---

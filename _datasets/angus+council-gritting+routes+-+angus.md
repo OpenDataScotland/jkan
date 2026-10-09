@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-07-22'
+date_updated: '2026-10-08'
 license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: '<p>Each local authority creates gritting routes and regimes to keep their
@@ -25,7 +25,7 @@ records: null
 resources:
 - format: WFS
   name: Gritting routes
-  url: https://angus.maps.xmap.cloud/angus_public/grit_routes/wfs?Service=WFS
+  url: https://angus.maps.xmap.cloud/angus_public/grit_routes/wfs?REQUEST=GetCapabilities
 schema: default
 title: Gritting Routes - Angus
 ---

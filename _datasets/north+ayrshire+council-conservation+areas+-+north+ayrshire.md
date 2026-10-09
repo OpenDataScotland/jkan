@@ -7,7 +7,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2025-06-25'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p>Under the Planning (Listed Buildings and Conservation Areas) (Scotland)
@@ -32,8 +32,8 @@ original_dataset_link: https://data.spatialhub.scot/dataset/conservation_areas-n
 records: null
 resources:
 - format: REST
-  name: Conservation Areas
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/MapServer/14/query?outFields=*&where=1%3D1&f=json
+  name: Conservation Areas - North Ayrshire
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal/FeatureServer/18
 schema: default
 title: Conservation Areas - North Ayrshire
 ---

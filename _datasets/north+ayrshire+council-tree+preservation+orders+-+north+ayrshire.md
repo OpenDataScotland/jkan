@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2017-01-27'
-date_updated: '2026-07-14'
+date_updated: '2026-10-07'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: '<p><em>Whilst TPOs are a legal requirement they may not always be digitised
@@ -43,12 +43,9 @@ organization: North Ayrshire Council
 original_dataset_link: https://data.spatialhub.scot/dataset/tree_preservation_orders-na
 records: null
 resources:
-- format: No file type
-  name: Spatial Hub WFS - TPOs
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/services/AGOL/Spatial_Hub/MapServer/WFSServer?request=GetCapabilities&service=WFS
 - format: REST
   name: Tree Preservation Orders - North Ayrshire
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/MapServer/22
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/FeatureServer/22
 schema: default
 title: Tree Preservation Orders - North Ayrshire
 ---

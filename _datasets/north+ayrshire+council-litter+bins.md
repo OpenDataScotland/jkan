@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Food and Environment
 date_created: '2017-05-25'
-date_updated: '2017-08-03'
+date_updated: '2026-10-09'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: North Ayrshire Council
 notes: <p>Location of litter bins maintained by the North Ayrshire Council Streetscene

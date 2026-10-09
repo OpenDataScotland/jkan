@@ -5,36 +5,41 @@ category:
 - Health and Social Care
 - Planning and Development
 date_created: '2017-09-27'
-date_updated: '2022-08-04'
+date_updated: '2026-10-07'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Public Health Scotland
-notes: '<p><strong>UPDATE 04/08/2022</strong>: There will be major changes to this
-  dataset soon. If you have any concerns contact the Open Data team at phs.opendata@phs.scot\r\n\r\n9
-  digit standard geography codes and labels for\r\n\r\n- Data Zone (2001 and 2011)\r\n\r\n-
-  Intermediate Zone (2001 and 2011)\r\n\r\n- Council Area (2011, 2018 and 2019)\r\n\r\n-
-  Health and Social Care Partnership (2016, 2018 and 2019) \r\n\r\n- Health Board
-  (1995, 2006, 2014, 2018 and 2019). <em>Note: Health Board for 1995 are not 9 digit
-  codes as this predates the standardisation of the codes</em>\r\n\r\n- Country code
-  for Scotland is given in all files.\r\n\r\nThis data set can be used to map from
-  the lowest geography level (data zone) through to the highest geography level (country)
-  and all relevant geographies in between.\r\n\r\nInformation from the <a href="http://www.gov.scot/Topics/Statistics/sns/SNSRef/StanGeoCodeRegister">Standard
+notes: '<p>9 digit standard geography codes and labels for\r\n\r\n- Data Zone (2001,
+  2011 and 2022)\r\n\r\n- Intermediate Zone (2001, 2011 and 2022)\r\n\r\n- Council
+  Area (2011, 2018 and 2019)\r\n\r\n- Health and Social Care Partnership (2016, 2018
+  and 2019) \r\n\r\n- Health Board (1995, 2006, 2014, 2018 and 2019). <em>Note: Health
+  Board for 1995 are not 9 digit codes as this predates the standardisation of the
+  codes</em>\r\n\r\n- Country code for Scotland is given in all files.\r\n\r\nThis
+  data set can be used to map from the lowest geography level (data zone) through
+  to the highest geography level (country) and all relevant geographies in between.\r\n\r\nInformation
+  from the <a href="http://www.gov.scot/Topics/Statistics/sns/SNSRef/StanGeoCodeRegister">Standard
   Geography Code Register</a>.</p>'
 organization: Public Health Scotland
 original_dataset_link: https://www.opendata.nhs.scot/dataset/geography-codes-and-labels
 records: null
 resources:
 - format: CSV
-  name: Data Zone 2001
-  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e92d19d4-ced7-40c8-b628-e28e4528fc41/download/dz2001_codes_and_labels_21042020.csv
+  name: Data Zone 2022
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/4ba68159-7373-4f73-9429-bf4018b00357/download/dz2022_codes_and_labels_20261005.csv
 - format: CSV
   name: Data Zone 2011
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/395476ab-0720-4740-be07-ff4467141352/download/dz2011_codes_and_labels_21042020.csv
 - format: CSV
-  name: Intermediate Zone 2001
-  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/84f6061a-6f15-4e8f-a4f9-aeb96e142b83/download/iz2001_codes_and_labels_21042020.csv
+  name: Data Zone 2001
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e92d19d4-ced7-40c8-b628-e28e4528fc41/download/dz2001_codes_and_labels_21042020.csv
+- format: CSV
+  name: Intermediate Zone 2022
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/a5dac1d4-38d9-4631-9866-1663fe2e3a04/download/iz2022_codes_and_labels_20261005.csv
 - format: CSV
   name: Intermediate Zone 2011
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/e3e885cc-2530-4b3c-bead-9eda9782264f/download/iz2011_codes_and_labels_14072022.csv
+- format: CSV
+  name: Intermediate Zone 2001
+  url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/84f6061a-6f15-4e8f-a4f9-aeb96e142b83/download/iz2001_codes_and_labels_21042020.csv
 - format: CSV
   name: Council Area 2011 - Council Area 2019
   url: https://www.opendata.nhs.scot/dataset/9f942fdb-e59e-44f5-b534-d6e17229cc7b/resource/967937c4-8d67-4f39-974f-fd58c4acfda5/download/ca11_ca19.csv

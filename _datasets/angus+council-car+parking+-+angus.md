@@ -6,7 +6,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2017-11-13'
-date_updated: '2025-07-25'
+date_updated: '2026-10-09'
 license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: "<p>Most councils will keep a record of their car parks, bays and zones. Therefore\
@@ -23,9 +23,6 @@ resources:
   name: Car Parking Points
   url: https://angus.maps.xmap.cloud/angus_public/car_parks/wfs
 - format: WFS
-  name: Car Parking Polygons
-  url: https://angus.maps.xmap.cloud/angus_public/rds_car_parks/wfs
-- format: WFS
   name: Car Parking Disabled Bays DPE
   url: https://angus.maps.xmap.cloud/angus_public/dpe_disabled_bay/wfs
 - format: WFS
@@ -40,6 +37,9 @@ resources:
 - format: WFS
   name: Car Parking Limited Waiting DPE
   url: https://angus.maps.xmap.cloud/angus_public/dpe_limited_waiting/wfs
+- format: WFS
+  name: Car Parking Polygons
+  url: https://angus.maps.xmap.cloud/angus_public/car_parks_poly/wfs?REQUEST=GetCapabilities
 schema: default
 title: Car Parking - Angus
 ---
