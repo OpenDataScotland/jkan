@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2021-06-11'
-date_updated: '2026-06-19'
+date_updated: '2026-10-14'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>This point location dataset of the name, address, location and unique IDs

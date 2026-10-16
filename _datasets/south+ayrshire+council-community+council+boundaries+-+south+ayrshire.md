@@ -4,7 +4,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2016-05-24'
-date_updated: '2022-12-08'
+date_updated: '2026-10-15'
 license: 'Custom licence: Open'
 maintainer: South Ayrshire Council
 notes: '<p>Community councils are required to be established by local authorities.
@@ -26,6 +26,9 @@ original_dataset_link: https://data.spatialhub.scot/dataset/community_council_bo
 records: null
 resources:
 - format: No file type
+  name: Community Councils
+  url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
+- format: WFS
   name: Community Councils
   url: https://gisext.south-ayrshire.gov.uk/server/services/Inspire/OpenData/MapServer/WFSServer?request=GetCapabilities&service=WFS
 schema: default

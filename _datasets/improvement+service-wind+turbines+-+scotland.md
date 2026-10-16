@@ -3,7 +3,7 @@ category:
 - Elections / Politics
 - Planning and Development
 date_created: '2024-08-02'
-date_updated: '2026-02-10'
+date_updated: '2026-10-14'
 license: 'Custom licence: Restricted'
 maintainer: Improvement Service
 notes: <p>This point dataset represents every known (and/ or applied for) wind turbine

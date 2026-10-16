@@ -5,7 +5,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-04-11'
-date_updated: '2026-07-06'
+date_updated: '2026-10-16'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: "<p>This planning application data has been created using a custom built 'Cloud\
@@ -38,9 +38,6 @@ resources:
 - format: WFS
   name: 'Planning Applications: Official (Polygons) '
   url: https://geo.spatialhub.scot/geoserver/sh_plnapp/wfs?service=wfs&typeName=sh_plnapp:pub_plnapppol
-- format: OTHER
-  name: Planning Applications dashboard
-  url: https://isshinyapps.shinyapps.io/Planning_Application_Visualisation_Scotland/
 schema: default
 title: 'Planning Applications: Official - Scotland'
 ---

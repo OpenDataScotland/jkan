@@ -9,7 +9,7 @@ category:
 - Sport and Leisure
 - Transportation
 date_created: '2025-02-24'
-date_updated: '2026-10-07'
+date_updated: '2026-10-14'
 license: 'Custom licence: Restricted'
 maintainer: Crofting Commission
 notes: '<p>Decrofting is taking land out of crofting. This means that the land is

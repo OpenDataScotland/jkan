@@ -3,7 +3,7 @@ category:
 - Food and Environment
 - Planning and Development
 date_created: '2019-03-15'
-date_updated: '2026-07-28'
+date_updated: '2026-10-12'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: <p>All local authorities must create a spatial framework assessment of land
@@ -15,14 +15,14 @@ original_dataset_link: https://data.spatialhub.scot/dataset/suitable_locations_f
 records: null
 resources:
 - format: REST
-  name: LDP2 - Areas where wind farms will not be acceptable
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/FeatureServer
+  name: Areas where windfarms will not be acceptable
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/33
 - format: REST
-  name: LDP2 - Areas of significant protection
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/FeatureServer
+  name: Areas of significant protection
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/34
 - format: REST
-  name: LDP2 - Areas with potential for wind farm development
-  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Open_Data_Portal4/FeatureServer
+  name: Areas with potential for windfarm development
+  url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/35
 schema: default
 title: Suitable Locations for Wind Turbines - North Ayrshire
 ---
