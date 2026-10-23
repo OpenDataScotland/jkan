@@ -4,7 +4,7 @@ category:
 - Health and Social Care
 - Law and Licensing
 date_created: '2017-01-27'
-date_updated: '2023-07-27'
+date_updated: '2026-10-21'
 license: 'Custom licence: Open'
 maintainer: Aberdeenshire Council
 notes: '<p>Local authorities have the power to make by-laws to prohibit the drinking
@@ -24,6 +24,9 @@ resources:
 - format: KMZ
   name: Alcohol Prohibition Areas in Aberdeenshire
   url: https://data.spatialhub.scot/dataset/f8ce16ce-99b7-4f82-94d7-366c48762929/resource/deafa3bc-830e-47d6-9333-d96e1138a246/download/alcohol_prohibition-zones.kmz
+- format: ZIP
+  name: dummy_data.zip
+  url: https://data.spatialhub.scot/dataset/f8ce16ce-99b7-4f82-94d7-366c48762929/resource/c642ace3-d90c-4e49-9c47-85e828355379/download/dummy_data.zip
 schema: default
 title: Alcohol Prohibition Areas - Aberdeenshire
 ---

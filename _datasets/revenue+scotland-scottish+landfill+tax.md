@@ -2,7 +2,7 @@
 category:
 - Food and Environment
 date_created: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-10-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Scottish Landfill Tax (SLfT) revenues and contributions to the Scottish

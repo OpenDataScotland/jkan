@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-10-07'
-date_updated: '2024-11-22'
+date_updated: '2026-10-23'
 license: 'Custom licence: Open'
 maintainer: Ramblers
 notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly available

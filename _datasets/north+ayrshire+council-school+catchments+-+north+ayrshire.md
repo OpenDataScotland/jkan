@@ -3,7 +3,7 @@ category:
 - Council and Government
 - Education
 date_created: '2016-05-24'
-date_updated: '2026-09-04'
+date_updated: '2026-10-22'
 license: 'Custom licence: Open'
 maintainer: North Ayrshire Council
 notes: "<p>Scottish councils usually divide towns and country areas into catchments\
@@ -52,6 +52,9 @@ resources:
 - format: REST
   name: RC Secondary School Catchments 2026
   url: https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/Spatial_Hub/FeatureServer/47
+- format: REST
+  name: Non Denominational Primary Catchments
+  url: https://services-eu1.arcgis.com/9edRUxcMgH07BEka/arcgis/rest/services/Non_Denominational_Primary_Catchments_View/FeatureServer
 schema: default
 title: School Catchments - North Ayrshire
 ---

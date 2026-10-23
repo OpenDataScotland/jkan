@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-04-17'
-date_updated: '2026-07-09'
+date_updated: '2026-10-22'
 license: 'Custom licence: Open'
 maintainer: Energy Saving Trust
 notes: "<p>This dataset contains energy performance certificates for new dwellings\
@@ -18,7 +18,7 @@ notes: "<p>This dataset contains energy performance certificates for new dwellin
   \ title=\"https://statistics.gov.scot/data/domestic-energy-performance-certificates--extended-historic-dataset\"\
   >https://statistics.gov.scot/data/domestic-energy-performance-certificates--extended-historic-dataset</a></p>"
 organization: Energy Saving Trust
-original_dataset_link: https://data.spatialhub.scot/dataset/domestic-energy-performance-certificates-historic-sap-new-dwellings
+original_dataset_link: https://data.spatialhub.scot/dataset/energy-performance-certificates-epc-new-dwellings
 records: null
 resources:
 - format: CSV
@@ -33,6 +33,12 @@ resources:
 - format: CSV
   name: EPC historic dataset Q1 2026 SAP new dwellings - csv
   url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/74041ca5-29e8-499d-8aa3-fe1b7e1235f6/download/epc_historic_dataset_q1_2026_sap_new_dwellings_geocoded.csv
+- format: APPLICATION/GEOPACKAGE+SQLITE3
+  name: EPC historic dataset Q2 2026 SAP new dwellings - GeoPackage
+  url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/e9b3de2b-b5cd-45ca-9693-f859cb56f08e/download/epc_historic_dataset_q2_2026_sap_new_dwellings.gpkg
+- format: CSV
+  name: EPC historic dataset Q2 2026 SAP new dwellings - csv
+  url: https://data.spatialhub.scot/dataset/8aa8ec4c-d343-4372-b29e-2d91f03097f4/resource/58a2e5e3-d519-45fa-aff0-1e5e81e44be5/download/epc_historic_dataset_q2_2026_sap_new_dwellings_geocoded.csv
 schema: default
-title: Energy Performance Certificates - New Dwellings
+title: Energy Performance Certificates (EPC) - New Dwellings
 ---

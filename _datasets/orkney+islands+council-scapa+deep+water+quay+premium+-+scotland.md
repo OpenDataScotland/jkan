@@ -2,7 +2,7 @@
 category:
 - Planning and Development
 date_created: '2024-04-12'
-date_updated: '2026-03-09'
+date_updated: '2026-10-23'
 license: 'Custom licence: Open'
 maintainer: Orkney Islands Council
 notes: <p>Scapa Deep Water Quay is identified as a national development in National

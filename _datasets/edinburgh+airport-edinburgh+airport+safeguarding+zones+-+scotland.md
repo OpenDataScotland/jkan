@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Public Safety
 date_created: '2025-11-14'
-date_updated: '2026-10-16'
+date_updated: '2026-10-23'
 license: 'Custom licence: Restricted'
 maintainer: Edinburgh Airport
 notes: '<p>Edinburgh Airport has several safeguarding zones: a 30km radius for general

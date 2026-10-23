@@ -3,7 +3,7 @@ category:
 - Law and Licensing
 - Sport and Leisure
 date_created: '2024-07-25'
-date_updated: '2024-07-30'
+date_updated: '2026-10-23'
 license: 'Custom licence: Open'
 maintainer: Sport Scotland
 notes: '<p>This dataset contains multiple themed layers of different types of sporting
