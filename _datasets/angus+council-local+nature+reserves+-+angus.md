@@ -2,7 +2,7 @@
 category:
 - Sport and Leisure
 date_created: '2016-05-24'
-date_updated: '2022-12-06'
+date_updated: '2026-10-29'
 license: 'Custom licence: Open'
 maintainer: Angus Council
 notes: "<p>Local Nature Reserves are areas of (at least) locally important natural\
@@ -21,6 +21,9 @@ resources:
 - format: No file type
   name: Montrose basin LNR
   url: http://data.angus.gov.uk/geoserver/inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=inspire%3Amontrosebasin_lnr&maxFeatures=50&outputFormat=application%2Fjson
+- format: WFS
+  name: Angus Council Local Nature Reserves
+  url: https://angus.maps.xmap.cloud/angus_public/montrose_basin/wfs
 schema: default
 title: Local Nature Reserves - Angus
 ---

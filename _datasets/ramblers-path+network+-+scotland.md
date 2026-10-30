@@ -3,7 +3,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2024-10-07'
-date_updated: '2026-10-23'
+date_updated: '2026-10-27'
 license: 'Custom licence: Open'
 maintainer: Ramblers
 notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly available
@@ -21,7 +21,7 @@ notes: <p>Ramblers Scotland worked with partners, volunteers, and publicly avail
   planning to walk any of these paths should always follow the Scottish Outdoor Access
   Code.   If you have feedback, please contact Ramblers Scotland by emailing scotland@ramblers.org.uk.</p>
 organization: Ramblers
-original_dataset_link: https://data.spatialhub.scot/dataset/path_network-unknown
+original_dataset_link: https://data.spatialhub.scot/dataset/path_network-rmb
 records: null
 resources:
 - format: WFS

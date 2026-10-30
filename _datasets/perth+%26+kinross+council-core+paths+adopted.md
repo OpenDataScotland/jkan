@@ -5,7 +5,7 @@ category:
 - Transportation
 date_created: '2023-03-27'
 date_updated: '2023-03-28'
-license: No licence
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Core Path network adopted
   by Perth &amp; Kinross Council on 25/01/2012. The Inquiry Report is available on

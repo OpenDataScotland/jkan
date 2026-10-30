@@ -8,7 +8,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-07-28'
+date_updated: '2026-10-28'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: <p>Whilst TPOs are a legal requirement they may not always be digitised accurately.

@@ -1,7 +1,7 @@
 ---
 category:
 - Food and Environment
-date_created: '2026-03-07'
+date_created: '2026-03-08'
 date_updated: '2026-03-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
@@ -19,33 +19,15 @@ notes: '<p>The following probabilities are available for river flooding:&nbsp;</
 
   <p>https://map.sepa.org.uk/server/rest/services/Open/Flood_Maps/MapServer</p>
 
-  <p><strong>When using this dataset, a visibility scale has been set due to the size
+  <p><strong>When using this map, a visibility scale has been set due to the size
   and number of records.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::river-flooding-low-likelihood-sepa
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::river-flooding-low-likelihood-sepa-2
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::river-flooding-low-likelihood-sepa
-- format: ARCGIS GEOSERVICE
-  name: Esri REST
-  url: https://map.sepa.org.uk/server/rest/services/Open/Flood_Maps/MapServer/2
-- format: OGC WMS
-  name: OGC WMS
-  url: https://map.sepa.org.uk/server/services/Open/Flood_Maps/MapServer/WMSServer?request=GetCapabilities&service=WMS
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/7cf0e0eb7fb544c78d7212d71c58084a/csv?layers=2
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/7cf0e0eb7fb544c78d7212d71c58084a/shapefile?layers=2
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/7cf0e0eb7fb544c78d7212d71c58084a/geojson?layers=2
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/7cf0e0eb7fb544c78d7212d71c58084a/kml?layers=2
+  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::river-flooding-low-likelihood-sepa-2
 schema: default
 title: River flooding (low likelihood) - sepa
 ---

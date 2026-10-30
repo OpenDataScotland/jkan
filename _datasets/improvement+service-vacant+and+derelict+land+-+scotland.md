@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-07-22'
+date_updated: '2026-10-27'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national data
