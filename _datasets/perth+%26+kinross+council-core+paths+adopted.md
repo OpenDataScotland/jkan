@@ -4,7 +4,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2023-03-27'
-date_updated: '2023-03-28'
+date_updated: '2026-11-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Perth & Kinross Council
 notes: <div style='text-align:Left;font-size:12pt'><p><span>Core Path network adopted
@@ -20,34 +20,34 @@ resources:
   url: https://data.pkc.gov.uk/datasets/perth-kinross::core-paths-adopted-2
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer/5
+  url: https://services-eu1.arcgis.com/WD0cvOmDKf7CA0Xy/arcgis/rest/services/Core_Paths_Adopted/FeatureServer/6
 - format: CSV
   name: CSV
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/csv?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/csv?layers=6
 - format: ZIP
   name: Shapefile
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/shapefile?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/shapefile?layers=6
 - format: GEOJSON
   name: GeoJSON
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/geojson?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/geojson?layers=6
 - format: KML
   name: KML
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/kml?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/kml?layers=6
 - format: ZIP
   name: File Geodatabase
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/filegdb?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/filegdb?layers=6
 - format: TXT
   name: Feature Collection
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/featureCollection?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/featureCollection?layers=6
 - format: MS EXCEL
   name: Excel
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/excel?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/excel?layers=6
 - format: GPKG
   name: GeoPackage
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/geoPackage?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/geoPackage?layers=6
 - format: GDB
   name: SQLite Geodatabase
-  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/sqlite?layers=5
+  url: https://data.pkc.gov.uk/api/download/v1/items/79ef41dbda4440c282e114712d81510e/sqlite?layers=6
 schema: default
 title: Core Paths Adopted
 ---

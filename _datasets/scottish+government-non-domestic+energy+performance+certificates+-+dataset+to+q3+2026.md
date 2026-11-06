@@ -5,12 +5,12 @@ category:
 - Law and Licensing
 - Planning and Development
 date_created: '2026-08-19'
-date_updated: '2026-09-21'
+date_updated: '2026-11-04'
 license: 'Custom licence: Other (Attribution)'
 maintainer: Scottish Government
 notes: '<p>This Management Information dataset presents environmental data from every
-  current Non-domestic EPC assessment held by the SEPCR from Q3 2016 to Q2 2026 (data
-  extracted from source in August 2025). This dataset includes the full postal address
+  current Non-domestic EPC assessment held by the SEPCR from Q4 2016 to Q2 2026 (data
+  extracted from source in October 2026). This dataset includes the full postal address
   of every property assessed, plus additional data not presented on the Energy Performance
   Certificate or Recommendations Report. The dataset is subject to two separate licences
   arrangements:</p>
@@ -33,9 +33,9 @@ original_dataset_link: https://data.gov.scot/dataset/non_domestic_energy_perform
 records: null
 resources:
 - format: 7Z
-  name: landing/7ac8f674-e1c0-48f1-a2c1-f015162434a9/Non-domestic EPC - Data to 2026
-    Q2.7z
+  name: landing/3855b399-6cb1-4b95-a924-b282c1b6cd11/Non-domestic Energy Performance
+    Certificates - Dataset to Q3 2026.7z
   url: https://api.data.gov.scot/resource/ab755981-bf70-4ae5-8050-0e04f88cb8ba/download
 schema: default
-title: Non-domestic Energy Performance Certificates - Dataset to Q2 2026
+title: Non-domestic Energy Performance Certificates - Dataset to Q3 2026
 ---

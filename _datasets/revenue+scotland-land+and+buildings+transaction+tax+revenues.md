@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-08-13'
-date_updated: '2026-10-21'
+date_updated: '2026-11-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Land and Buildings Transaction Tax (LBTT) revenues by month of submission,
@@ -25,7 +25,7 @@ original_dataset_link: https://data.gov.scot/dataset/land_and_buildings_transact
 records: null
 resources:
 - format: CSV
-  name: landing/504ff39c-adb6-44d6-88d5-ec13e447e1f5/revenue.csv
+  name: landing/60986796-17a9-4cf4-8acf-a71e16d7abac/revenue_final.csv
   url: https://api.data.gov.scot/resource/6c767cce-cc22-4b1d-9f12-e38195abc5f1/download
 schema: default
 title: Land and Buildings Transaction Tax Revenues

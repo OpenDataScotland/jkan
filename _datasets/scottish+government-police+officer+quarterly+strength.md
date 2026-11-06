@@ -9,7 +9,7 @@ category:
 - Public Safety
 - Transportation
 date_created: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-11-03'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Scottish Government
 notes: <p>The first publication of Police Officer Quarterly Strength statistics as
@@ -46,7 +46,8 @@ original_dataset_link: https://data.gov.scot/dataset/police_officer_quarterly_st
 records: null
 resources:
 - format: CSV
-  name: police-officer-quarterly-strength.csv
+  name: landing/260997de-9fad-438e-89e2-91185c1c7b6a/Police Quarterly Strength - 2026
+    - Q3 - 30 September - CSV for open data platform.csv
   url: https://api.data.gov.scot/resource/fda8eaed-2292-4275-9415-39dcf403be8c/download
 schema: default
 title: Police Officer Quarterly Strength

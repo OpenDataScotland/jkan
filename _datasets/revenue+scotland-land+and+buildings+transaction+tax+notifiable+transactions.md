@@ -4,7 +4,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2026-08-13'
-date_updated: '2026-10-21'
+date_updated: '2026-11-06'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Revenue Scotland
 notes: <p>Land and Buildings Transaction Tax (LBTT) notifiable transactions by month
@@ -24,7 +24,7 @@ original_dataset_link: https://data.gov.scot/dataset/land_and_buildings_transact
 records: null
 resources:
 - format: CSV
-  name: landing/91b4ffac-7510-4e1b-a45a-12bc7bada9b4/transactions.csv
+  name: landing/fa957019-a66d-4827-9f74-5ab0e77a8e6c/transactions_final.csv
   url: https://api.data.gov.scot/resource/35764295-3119-4b38-972a-ba1f607a8ccd/download
 schema: default
 title: Land and Buildings Transaction Tax Notifiable Transactions
