@@ -1,7 +1,7 @@
 ---
 category:
 - Food and Environment
-date_created: '2026-03-07'
+date_created: '2026-03-08'
 date_updated: '2026-03-08'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Stirling Council
@@ -20,33 +20,18 @@ notes: '<p><strong><u>Future Maps - Climate Change Modelling</u></strong><br /><
 
   <p>https://map.sepa.org.uk/server/rest/services/Open/Flood_Maps/MapServer</p>
 
-  <p><strong>When using this dataset, a visibility scale has been set due to the size
+  <p><strong>When using this map, a visibility scale has been set due to the size
   and number of records.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::future-maps-river-flooding-medium-likelihood-climate-change-model-sepa
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::future-maps-river-flooding-medium-likelihood-climate-change-model-sepa-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/datasets/stirling-council::future-maps-river-flooding-medium-likelihood-climate-change-model-sepa
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::future-maps-river-flooding-medium-likelihood-climate-change-model-sepa-1
 - format: ARCGIS GEOSERVICE
   name: Esri REST
-  url: https://map.sepa.org.uk/server/rest/services/Open/Flood_Maps/MapServer/9
-- format: OGC WMS
-  name: OGC WMS
-  url: https://map.sepa.org.uk/server/services/Open/Flood_Maps/MapServer/WMSServer?request=GetCapabilities&service=WMS
-- format: CSV
-  name: CSV
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/0c5946df386c41ae9cc501efeebd58ad/csv?layers=9
-- format: ZIP
-  name: Shapefile
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/0c5946df386c41ae9cc501efeebd58ad/shapefile?layers=9
-- format: GEOJSON
-  name: GeoJSON
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/0c5946df386c41ae9cc501efeebd58ad/geojson?layers=9
-- format: KML
-  name: KML
-  url: https://data-stirling-council.hub.arcgis.com/api/download/v1/items/0c5946df386c41ae9cc501efeebd58ad/kml?layers=9
+  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=73174ad99c214bdd8b5d995fdfacf211
 schema: default
 title: Future maps river flooding (medium likelihood climate change model) - sepa
 ---

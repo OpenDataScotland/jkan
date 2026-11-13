@@ -5,7 +5,7 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2017-01-27'
-date_updated: '2022-10-27'
+date_updated: '2026-11-13'
 license: 'Custom licence: Open'
 maintainer: West Lothian Council
 notes: "<p>A Polling District is a geographical subdivision of an electoral area such\
@@ -37,12 +37,6 @@ organization: West Lothian Council
 original_dataset_link: https://data.spatialhub.scot/dataset/polling_districts-wl
 records: null
 resources:
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/27b41ba9-9465-4a58-b69e-59bfe3c3bc44/resource/7e2e2f5c-e3b6-497d-ab34-28d2c07906bb/download/pollingdistricts.zip
-- format: ZIP
-  name: Polling Districts
-  url: https://data.spatialhub.scot/dataset/27b41ba9-9465-4a58-b69e-59bfe3c3bc44/resource/1084eba2-0bca-4c43-9993-1a1c0e3007c3/download/pollingdistricts.zip
 - format: ZIP
   name: Polling Districts
   url: https://data.spatialhub.scot/dataset/27b41ba9-9465-4a58-b69e-59bfe3c3bc44/resource/2c08441d-bd64-4c8c-b4a1-360545f3a003/download/wl_pollingdistricts.zip

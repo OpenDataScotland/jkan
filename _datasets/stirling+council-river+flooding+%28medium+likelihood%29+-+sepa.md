@@ -22,12 +22,15 @@ notes: '<p>The following probabilities are available for river flooding:&nbsp;</
   <p><strong>When using this map, a visibility scale has been set due to the size
   and number of records.</strong></p>'
 organization: Stirling Council
-original_dataset_link: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::river-flooding-medium-likelihood-sepa-2
+original_dataset_link: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::river-flooding-medium-likelihood-sepa-1
 records: null
 resources:
 - format: ARCGIS HUB DATASET
   name: Web Page
-  url: https://data-stirling-council.hub.arcgis.com/maps/stirling-council::river-flooding-medium-likelihood-sepa-2
+  url: https://data-stirling-council.hub.arcgis.com/apps/stirling-council::river-flooding-medium-likelihood-sepa-1
+- format: ARCGIS GEOSERVICE
+  name: Esri REST
+  url: https://stirling-council.maps.arcgis.com/apps/instant/basic/index.html?appid=9518b6f0f22949bbaa496787a5b8ec6c
 schema: default
 title: River flooding (medium likelihood) - sepa
 ---
