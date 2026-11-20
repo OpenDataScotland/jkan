@@ -6,8 +6,8 @@ category:
 - Housing and Estates
 - Planning and Development
 date_created: '2024-02-27'
-date_updated: '2024-03-27'
-license: No licence
+date_updated: '2026-11-20'
+license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: '<p style=''margin-bottom:16px;margin-top:0px;''>Dundee Housing Land Audit
   202<span style=''background-color:rgb(255,255,255);''>2/2023</span></p>

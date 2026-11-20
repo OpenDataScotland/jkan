@@ -6,26 +6,31 @@ category:
 - Planning and Development
 - Sport and Leisure
 date_created: '2021-06-11'
-date_updated: '2026-10-27'
+date_updated: '2026-11-20'
 license: 'Custom licence: Open'
 maintainer: Improvement Service
 notes: '<p>The Scottish Vacant and Derelict Land Survey (SVDLS) is a national data
   collection undertaken to establish the extent and state of vacant and derelict land
   in Scotland. The survey has been operating since 1988. This survey is associated
   with the Scottish Vacant and Derelict Land Fund, under which cash allocations are
-  made to Planning Authorities.  Every year the Scottish Government Communities Analysis
-  Division produce a National Statistics statistical publication based on data collected
-  and processed from all Local Authorities and Loch Lomond and Trossachs National
-  Park Authority. This includes an SVDLS Site Register. Where spatial data is provided
-  by Planning Authorities, the data is reviewed to make sure it matches the published
-  SVDLS Site Register.  Improvement Service then combine the spatial data with the
-  SVDLS site Register for the current survey year (2024 published in 2025 for most
-  authorities) and combined it to this year''s SVDLS Site Register (using the site
-  reference).   Where Planning Authorities have not provided spatial data for the
-  current year, their previous spatial data return has been used, or where there is
-  no spatial data at all for site we have buffered the easting and northing provided
-  in the survey, to create a circular polygon area for the site.  The definitive data
-  source is the SVDLS Site Register available here: https://www.gov.scot/publications/the-scottish-vacant-and-derelict-land-survey-site-register/</p>'
+  made to Planning Authorities.</p>
+
+  <p>Every year the Scottish Government Communities Analysis Division produce a National
+  Statistics statistical publication based on data collected and processed from all
+  Local Authorities and Loch Lomond and Trossachs National Park Authority. This includes
+  an SVDLS Site Register. Where spatial data is provided by Planning Authorities,
+  the data is reviewed to make sure it matches the published SVDLS Site Register.</p>
+
+  <p>Improvement Service then combine the spatial data with the SVDLS site Register
+  for the current survey year and combined it to this year''s SVDL Site Register (using
+  the site reference). </p>
+
+  <p>Where Planning Authorities have not provided spatial data for the current year,
+  their previous spatial data return has been used, or where there is no spatial data
+  at all for site we have buffered the easting and northing provided in the survey,
+  to create a circular polygon area for the site.</p>
+
+  <p>The definitive data source is the SVDLS Site Register available here: https://www.gov.scot/publications/the-scottish-vacant-and-derelict-land-survey-site-register/</p>'
 organization: Improvement Service
 original_dataset_link: https://data.spatialhub.scot/dataset/vacant_and_derelict_land-is
 records: null

@@ -3,7 +3,7 @@ category:
 - Arts / Culture / History
 - Health and Social Care
 date_created: '2026-08-13'
-date_updated: '2026-11-12'
+date_updated: '2026-11-19'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: National Records of Scotland
 notes: '<p>This dataset presents the weekly number of all deaths, deaths involving
@@ -59,7 +59,7 @@ original_dataset_link: https://data.gov.scot/dataset/weekly_deaths
 records: null
 resources:
 - format: CSV
-  name: landing/6ee1c8df-e6cc-44aa-a660-11bf907aaa9f/open_data_2026_45.csv
+  name: landing/bbbc60b7-8be0-462d-adc3-f9578f47cc6d/open_data_2026_46.csv
   url: https://api.data.gov.scot/resource/1d00a289-328f-4878-b6c9-23a5b467a1cf/download
 schema: default
 title: Weekly Deaths

@@ -6,7 +6,7 @@ category:
 - Planning and Development
 - Transportation
 date_created: '2022-07-06'
-date_updated: '2022-07-06'
+date_updated: '2026-11-20'
 license: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 maintainer: Dundee City Council
 notes: "<p>Conservation Areas are areas of &quot;special architectural or historic\
@@ -47,6 +47,21 @@ resources:
 - format: KML
   name: KML
   url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/kml?layers=1
+- format: ZIP
+  name: File Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/filegdb?layers=1
+- format: TXT
+  name: Feature Collection
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/featureCollection?layers=1
+- format: MS EXCEL
+  name: Excel
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/excel?layers=1
+- format: GPKG
+  name: GeoPackage
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/geoPackage?layers=1
+- format: GDB
+  name: SQLite Geodatabase
+  url: https://data.dundeecity.gov.uk/api/download/v1/items/23c4defc164749408f4e963041e09641/sqlite?layers=1
 schema: default
 title: DCC Conservation Areas
 ---
